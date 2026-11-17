@@ -60,8 +60,8 @@ window.HUB = {
       ja: "舞台『刀剣乱舞』陽伝 月と太陽と星々よ",
       role: "烛台切光忠",
       kind: "舞台 · 前后编二部作",
-      image: "assets/img/9786558cbccb766f.jpg",
-      imageNote: "官网宣传图",
+      image: "https://stage-toukenranbu.jp/wp-content/uploads/2026/07/05%E3%80%90WEB%E3%80%91%E2%98%85toustayou_CV_shokudaikiri.jpg",
+      imageNote: "官网角色视觉：烛台切光忠",
       lines: [
         "预演 11/10 · 明治座",
         "东京 11/11–11/29 · 明治座",

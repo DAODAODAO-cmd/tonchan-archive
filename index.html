@@ -67,7 +67,7 @@ section.sec{padding:34px 0}
 
 /* now */
 .now-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
-.now{display:grid;grid-template-columns:200px minmax(0,1fr)}
+.now{display:grid;grid-template-columns:270px minmax(0,1fr)}
 .now .img{background:var(--bg2);min-height:100%}
 .now .img img{width:100%;height:100%;object-fit:cover;object-position:top}
 .now .body{padding:22px 24px}
@@ -132,10 +132,17 @@ section.sec{padding:34px 0}
 .tabs button{border:0;padding:9px 18px;border-radius:999px;background:var(--card);color:var(--muted);font-size:13.5px;box-shadow:0 1px 2px rgba(0,0,0,.05);transition:.2s}
 .tabs button.on{background:var(--sage);color:#fff;box-shadow:0 6px 16px rgba(127,156,136,.35)}
 .tabs button small{opacity:.7;margin-left:4px;font-size:11px}
-.works{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:18px}
+.works{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+@media(max-width:900px){.works{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:560px){.works{grid-template-columns:1fr}}
 .w{display:flex;flex-direction:column;transition:transform .25s}
 .w:hover{transform:translateY(-3px)}
-.w .img{aspect-ratio:4/5;background:linear-gradient(135deg,#f4ece1,#efe6f2);display:grid;place-items:center;overflow:hidden}
+.w .img{aspect-ratio:4/5;background:linear-gradient(135deg,#f4ece1,#efe6f2);display:grid;place-items:center;overflow:hidden;position:relative}
+.w .img .phx{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:flex-end;padding:22px;font-family:var(--serif);color:#5d5045;font-size:19px;line-height:1.45}
+.w .img .phx i{font-style:normal;font-size:40px;color:#d9ccbb;position:absolute;top:16px;left:20px}
+.w .b b{font-size:15.5px}
+.morebar{display:flex;justify-content:center;margin-top:22px}
+.morebar a{padding:11px 26px;border-radius:999px;background:var(--card);box-shadow:var(--shadow);font-size:14px}
+.morebar a:hover{background:var(--sage);color:#fff}
 .w .img img{width:100%;height:100%;object-fit:cover;object-position:top}
 .w .img .ph{font-family:var(--serif);font-size:34px;color:#cdbfae}
 .w .b{padding:14px 16px 16px}
@@ -249,12 +256,12 @@ footer p{margin:4px 0}
 </div></section>
 
 <section class="sec" id="upcoming"><div class="wrap">
-  <div class="sec-head"><h2><em>SCHEDULE</em>即将到来</h2><a class="more" href="archive.html">完整编年 →</a></div>
+  <div class="sec-head"><h2><em>SCHEDULE</em>即将到来</h2><a class="more" href="list.html?g=schedule">完整日程 →</a></div>
   <div class="cal" id="cal"></div>
 </div></section>
 
 <section class="sec" id="news"><div class="wrap">
-  <div class="sec-head"><h2><em>NEWS</em>最新动态</h2></div>
+  <div class="sec-head"><h2><em>NEWS</em>最新动态</h2><a class="more" href="list.html?g=news">全部动态 →</a></div>
   <div class="news-wrap">
     <div>
       <div class="filters" id="newsFilters"></div>
@@ -268,13 +275,14 @@ footer p{margin:4px 0}
 </div></section>
 
 <section class="sec" id="works"><div class="wrap">
-  <div class="sec-head"><h2><em>WORKS & MEDIA</em>作品与媒体露出</h2><a class="more" id="worksMore" href="archive.html">在编年档案里看全部 →</a></div>
+  <div class="sec-head"><h2><em>WORKS & MEDIA</em>作品与媒体露出</h2><a class="more" id="worksMore" href="list.html?g=stage">查看全部 →</a></div>
   <div class="tabs" id="workTabs"></div>
   <div class="works" id="worksGrid"></div>
+  <div class="morebar"><a id="worksMore2" href="list.html?g=stage">查看全部 →</a></div>
 </div></section>
 
 <section class="sec" id="videos"><div class="wrap">
-  <div class="sec-head"><h2><em>VIDEOS</em>最新视频</h2><a class="more" href="archive.html?tab=videos">全部视频资料 →</a></div>
+  <div class="sec-head"><h2><em>VIDEOS</em>最新视频</h2><a class="more" href="list.html?g=videos">全部视频 →</a></div>
   <div class="tabs" id="vidTabs"></div>
   <div class="vids" id="vidGrid"></div>
 </div></section>
@@ -336,12 +344,12 @@ $('nowGrid').innerHTML=H.now.map(n=>'<article class="card now"><div class="img">
 $('recent').innerHTML=H.recent.map(r=>'<a class="card rc" href="'+esc(r.url)+'" target="_blank" rel="noopener noreferrer"><div class="t">'+(r.image?'<img src="'+esc(r.image)+'" alt="" loading="lazy">':'東')+'</div><div><span>刚结束 · '+esc(r.date)+'</span><b>'+esc(r.title)+'</b><span>饰 '+esc(r.role)+'</span></div></a>').join('');
 
 /* upcoming：从编年档案自动读取未来/进行中的条目 */
-const up=A.events.filter(e=>e.date>=today||(e.end&&e.end>=today)).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,30);
+const up=A.events.filter(e=>e.date>=today||(e.end&&e.end>=today)).filter(e=>!/联动|轨迹展|感謝の宴|放送|配信/.test(e.title)).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,6);
 $('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="archive.html#'+esc(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese)+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
 
 /* news */
 const tags=['全部',...new Set(H.news.map(n=>n.tag))];let curTag='全部';
-function drawNews(){$('newsList').innerHTML=H.news.filter(n=>curTag==='全部'||n.tag===curTag).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
+function drawNews(){$('newsList').innerHTML=H.news.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,8).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
 $('newsFilters').onclick=e=>{const b=e.target.closest('button');if(b){curTag=b.dataset.t;drawNews()}};drawNews();
 const media=A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,8);
 $('miniMedia').innerHTML=media.map(e=>'<li><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.title)+'</a><small>'+fmt(e.date)+' · '+esc(e.category)+'</small></li>').join('');
@@ -358,11 +366,10 @@ const groups=[
   {k:'live',t:'音乐会·活动',cats:['音乐会','活动']}
 ];
 let curG='stage';
-function drawWorks(){const g=groups.find(x=>x.k===curG);let list=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
-  let extra='';
-  if(curG==='variety'){const vv=A.videos.filter(v=>/TIMELINE|BS-TBS|カメラ旅|東啓介の休日|月下美人|大师的节目|D-BOYSニュース|スペシャルニコ生/.test(v.title+v.channel)).sort((x,y)=>(y.uploadDate||y.years[0]||'').localeCompare(x.uploadDate||x.years[0]||'')).slice(0,10);extra=vv.map(v=>'<a class="card w" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="img">'+((v.asset&&A.assets[v.asset])||v.thumbnail?'<img src="'+esc((v.asset&&A.assets[v.asset])||v.thumbnail)+'" alt="" loading="lazy" style="object-fit:cover">':'<span class="ph">节目</span>')+'</div><div class="b"><span class="meta">节目视频 · '+esc(v.channel)+'</span><b>'+esc(v.title)+'</b></div></a>').join('')}
-  $('worksGrid').innerHTML=list.slice(0,curG==='mag'?90:12).map(e=>{const im=e.images[0];return '<a class="card w" href="archive.html#'+esc(e.id)+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'" alt="'+esc(im.caption)+'" loading="lazy">':'<span class="ph">'+e.date.slice(0,4)+'</span>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')+extra||'<div class="empty">暂无</div>';
-  $('worksMore').href='archive.html?cat='+encodeURIComponent(g.cats[0]);
+function drawWorks(){const g=groups.find(x=>x.k===curG);const all=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
+  const withImg=all.filter(e=>e.images&&e.images.length&&e.date<=today||e.images&&e.images.length&&e.date>today);let pick=withImg.slice(0,6);if(pick.length<6)pick=pick.concat(all.filter(e=>!pick.includes(e)).slice(0,6-pick.length));pick.sort((a,b)=>b.date.localeCompare(a.date));
+  $('worksGrid').innerHTML=pick.map(e=>{const im=e.images[0];return '<a class="card w" href="list.html?g='+curG+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'" alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
+  $('worksMore').href=$('worksMore2').href='list.html?g='+curG;$('worksMore2').textContent='查看全部 '+all.length+' 条 '+g.t+' →';
   $('workTabs').innerHTML=groups.map(x=>'<button class="'+(x.k===curG?'on':'')+'" data-k="'+x.k+'">'+x.t+'<small>'+A.events.filter(e=>x.cats.includes(e.category)).length+'</small></button>').join('')}
 $('workTabs').onclick=e=>{const b=e.target.closest('button');if(b){curG=b.dataset.k;drawWorks()}};drawWorks();
 
@@ -371,7 +378,7 @@ let curV='me';
 const isMe=v=>/東\s?啓介|东启介|Higashi|ひがし|あさステ|WE25|聴活|カメラ旅/i.test(v.title+' '+(v.rel||''))||/ワタナベエンターテインメント/.test(v.channel||'');
 const vf=(k,v)=>k==='me'?isMe(v):k==='yt'?(v.platform||'YouTube')==='YouTube':k==='nico'?v.platform==='niconico':v.platform==='B站';
 function vdate(v){return v.uploadDate||(v.years&&v.years[0])||''}
-function drawVids(){const list=A.videos.filter(v=>vf(curV,v)).sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,curV==='me'?24:12);
+function drawVids(){const list=A.videos.filter(v=>vf(curV,v)).sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,8);
   $('vidGrid').innerHTML=list.map(v=>{const th=v.asset&&A.assets[v.asset]||v.thumbnail;return '<a class="card v" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="th">'+(th?'<img src="'+esc(th)+'" alt="" loading="lazy">':'<div class="bili">'+esc(v.platform||'video')+'</div>')+'<span class="pf">'+esc(v.type||'')+'</span></div><div class="b"><b>'+esc(v.title)+'</b><small>'+esc(v.channel)+(vdate(v)?' · '+esc(fmt(vdate(v))):'')+'</small></div></a>'}).join('');
   $('vidTabs').innerHTML=[['me','本人出镜'],['yt','YouTube'],['bili','B站'],['nico','niconico']].map(([k,t])=>'<button class="'+(k===curV?'on':'')+'" data-k="'+k+'">'+t+'<small>'+A.videos.filter(v=>vf(k,v)).length+'</small></button>').join('')}
 $('vidTabs').onclick=e=>{const b=e.target.closest('button');if(b){curV=b.dataset.k;drawVids()}};drawVids();

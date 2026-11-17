@@ -8074,6 +8074,13 @@ window.ARCHIVE = {
      "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
      "asset": "",
      "resolution": "524 × 584"
+    },
+    {
+     "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main02.webp",
+     "caption": "官网角色图：假面骑士Maou",
+     "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -8387,6 +8394,13 @@ window.ARCHIVE = {
    "origin": "现官网补充",
    "dateKind": "作品首演日",
    "images": [
+    {
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/07/05%E3%80%90WEB%E3%80%91%E2%98%85toustayou_CV_shokudaikiri.jpg",
+     "caption": "官网角色视觉：东启介饰烛台切光忠",
+     "source": "https://stage-toukenranbu.jp/stage/cast/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://www.stage-toukenranbu.jp/wp-content/themes/touken_2021/assets/og/hiden4_ogp.jpg",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
