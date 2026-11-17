@@ -14084,17 +14084,23 @@ window.ARCHIVE = {
    "date": "2025-03-29",
    "end": "",
    "category": "广播／音声",
-   "title": "FM COCOLO《MAG:NET SUNDAY》",
-   "japanese": "MAG:NET SUNDAY",
+   "title": "FM COCOLO 周六节目（#SMC765）",
+   "japanese": "FM COCOLO #SMC765",
    "role": "嘉宾：东启介、松下优也",
    "crew": "",
    "key": "",
-   "url": "https://cocolo.jp/site/guest_calendar/2025/03",
-   "note": "FM COCOLO官方嘉宾日历，14时台。",
+   "url": "https://x.com/fmcocolo765/status/1906010631217811819",
+   "note": "和松下优也一起上节目宣传《长靴皇后》大阪公演，聊了W卡司和角色准备，还有“日常生活里的小确幸”。14:19 左右开始。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "节目播出日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GnOCkLJawAALybJ?format=jpg&name=large",
+     "caption": "电台官方推文配图：东启介、松下优也",
+     "source": "https://x.com/fmcocolo765/status/1906010631217811819"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "音声",
@@ -14799,7 +14805,7 @@ window.ARCHIVE = {
    "category": "广播／音声",
    "title": "NHK广播剧《月之速写本》",
    "japanese": "青春アドベンチャー 月のスケッチブック",
-   "role": "本人配音出演（单元剧）",
+   "role": "第1回《ケモい恋人たち》出演（与美山加恋）",
    "crew": "",
    "key": "",
    "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/9W37JM27JJ/",
@@ -14812,17 +14818,10 @@ window.ARCHIVE = {
      "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/9W37JM27JJ/9W37JM27JJ-eyecatch_63ab7dfd8ba93aae40da7c565d9d7e63.jpg",
      "caption": "录音现场合照（NHK 节目页）",
      "source": "NHK"
-    },
-    {
-     "url": "https://audiodrama-note.com/wp-content/uploads/2023/05/omnibus_competition.jpg",
-     "caption": "文章配图",
-     "source": "https://audiodrama-note.com/blog-entry-11836.html",
-     "asset": "322c0ba9a16d366e",
-     "resolution": "1200 × 630"
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "音声",
    "playlistLinks": []
   },
