@@ -8169,7 +8169,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/L39WPM67ZV/",
-   "note": "NHK-FM「青春アドベンチャー」，全10回，2022年1月17日–28日播出。原作浅仓秋成，出演：奥野壮、土村芳、东启介等。YouTube上有全10回的录音。",
+   "note": "NHK-FM「青春アドベンチャー」，全10回，2022年1月17日–28日播出。原作浅仓秋成，出演：奥野壮、土村芳、东启介等。YouTube上有全10回录音，B站音频区有第1、3、5、6、10回。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "day",
@@ -8193,6 +8193,26 @@ window.ARCHIVE = {
     {
      "title": "全10回录音（YouTube）",
      "url": "https://www.youtube.com/watch?v=eUMnCiKFuDE"
+    },
+    {
+     "title": "第1回（B站音频）",
+     "url": "https://www.bilibili.com/audio/au2945576"
+    },
+    {
+     "title": "第3回（B站音频）",
+     "url": "https://www.bilibili.com/audio/au2945577"
+    },
+    {
+     "title": "第5回（B站音频）",
+     "url": "https://www.bilibili.com/audio/au2945578"
+    },
+    {
+     "title": "第6回（B站音频）",
+     "url": "https://www.bilibili.com/audio/au2945579"
+    },
+    {
+     "title": "第10回（B站音频）",
+     "url": "https://www.bilibili.com/audio/au2945572"
     }
    ],
    "pending": false,
@@ -28739,6 +28759,106 @@ window.ARCHIVE = {
    "uploadDate": "2022-02-06",
    "contentDate": "2022-01-17",
    "dateLabel": "2022 公开",
+   "asset": ""
+  },
+  {
+   "id": "au2945576",
+   "title": "「六人の嘘つきな大学生」（1）",
+   "channel": "高沅啊",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/audio/au2945576",
+   "thumbnail": "https://i0.hdslb.com/bfs/music/8a4f950533f3b225b4265e3e11430c0619d92b86.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站音频｜2022",
+   "source": "https://www.bilibili.com/audio/au2945576",
+   "uploadDate": "2022-04-20",
+   "contentDate": "2022-01-17",
+   "dateLabel": "2022.04.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "au2945577",
+   "title": "「六人の嘘つきな大学生」（3）",
+   "channel": "高沅啊",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/audio/au2945577",
+   "thumbnail": "https://i0.hdslb.com/bfs/music/8a4f950533f3b225b4265e3e11430c0619d92b86.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站音频｜2022",
+   "source": "https://www.bilibili.com/audio/au2945577",
+   "uploadDate": "2022-04-20",
+   "contentDate": "2022-01-17",
+   "dateLabel": "2022.04.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "au2945578",
+   "title": "「六人の嘘つきな大学生」（5）",
+   "channel": "高沅啊",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/audio/au2945578",
+   "thumbnail": "https://i0.hdslb.com/bfs/music/8a4f950533f3b225b4265e3e11430c0619d92b86.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站音频｜2022",
+   "source": "https://www.bilibili.com/audio/au2945578",
+   "uploadDate": "2022-04-20",
+   "contentDate": "2022-01-17",
+   "dateLabel": "2022.04.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "au2945579",
+   "title": "「六人の嘘つきな大学生」（6）",
+   "channel": "高沅啊",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/audio/au2945579",
+   "thumbnail": "https://i0.hdslb.com/bfs/music/8a4f950533f3b225b4265e3e11430c0619d92b86.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站音频｜2022",
+   "source": "https://www.bilibili.com/audio/au2945579",
+   "uploadDate": "2022-04-20",
+   "contentDate": "2022-01-17",
+   "dateLabel": "2022.04.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "au2945572",
+   "title": "「六人の嘘つきな大学生」（10）",
+   "channel": "高沅啊",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/audio/au2945572",
+   "thumbnail": "https://i0.hdslb.com/bfs/music/8a4f950533f3b225b4265e3e11430c0619d92b86.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站音频｜2022",
+   "source": "https://www.bilibili.com/audio/au2945572",
+   "uploadDate": "2022-04-20",
+   "contentDate": "2022-01-17",
+   "dateLabel": "2022.04.20 B站上传",
    "asset": ""
   }
  ],
