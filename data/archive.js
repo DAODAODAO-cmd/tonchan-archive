@@ -498,7 +498,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。 以虚拟偶像企划“妖～AYAKASHI～”成员身份出演。",
    "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
@@ -509,9 +509,21 @@ window.ARCHIVE = {
      "source": "https://ogre.natalie.mu/media/news/music/2015/0423/ETA_2015_main.jpg?imwidth=750&imdensity=1",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://i.ytimg.com/vi/Xk9d_g3FG0E/hqdefault.jpg",
+     "caption": "官方YouTube视频封面",
+     "source": "https://www.youtube.com/watch?v=Xk9d_g3FG0E",
+     "asset": "",
+     "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "ETA终演后出演者留言（妖～AYAKASHI～）",
+     "url": "https://www.youtube.com/watch?v=Xk9d_g3FG0E"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -25445,6 +25457,25 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV12x411a7r2/",
    "uploadDate": "2017-06-09",
    "dateLabel": "2017.06.09 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "Xk9d_g3FG0E",
+   "title": "【ETA終演直後の出演者コメント】EXIT TUNES ACADEMY 日本武道館 2015（妖～AYAKASHI～出演）",
+   "channel": "EXIT TUNES INC.",
+   "type": "采访／发布会",
+   "sourceType": "官方",
+   "years": [
+    "2015"
+   ],
+   "url": "https://www.youtube.com/watch?v=Xk9d_g3FG0E",
+   "thumbnail": "https://i.ytimg.com/vi/Xk9d_g3FG0E/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "官方｜2015.09.16",
+   "source": "https://www.youtube.com/watch?v=Xk9d_g3FG0E",
+   "uploadDate": "2015-09-16",
+   "dateLabel": "2015.09.16 公开",
    "asset": ""
   }
  ],
