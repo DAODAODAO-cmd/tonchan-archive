@@ -75,7 +75,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "正片中字（B站）",
+     "url": "https://www.bilibili.com/video/BV1Hx411r7Aq/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [
@@ -28859,6 +28864,26 @@ window.ARCHIVE = {
    "uploadDate": "2022-04-20",
    "contentDate": "2022-01-17",
    "dateLabel": "2022.04.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Hx411r7Aq",
+   "title": "【网舞第二季】青学VS四天宝寺 正片（5.c字幕组中字）",
+   "channel": "fuji风系魔法师",
+   "type": "舞台／剧集",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2014"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Hx411r7Aq/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/0d9bce5add20f81fef1d3f14cce491b471cd7fec.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2017",
+   "source": "https://www.bilibili.com/video/BV1Hx411r7Aq/",
+   "uploadDate": "2017-03-16",
+   "contentDate": "2014-01-01",
+   "dateLabel": "2017.03.16 B站上传",
    "asset": ""
   }
  ],
