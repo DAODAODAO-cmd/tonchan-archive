@@ -52,6 +52,27 @@ window.ARCHIVE = {
      "source": "https://www.tennimu.com/cast_2nd/sh02chitose.html",
      "asset": "863e36c56ed019e3",
      "resolution": "730 × 209"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5818255m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g6290994m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5815775m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -86,6 +107,20 @@ window.ARCHIVE = {
      "source": "https://www.tennimu.com/second/play_2014undokai/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5325666m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5325667m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -113,6 +148,27 @@ window.ARCHIVE = {
      "url": "https://www.tennimu.com/second/play_2014rikkai/img/Phdr-img.jpg",
      "caption": "官方公演主视觉",
      "source": "https://www.tennimu.com/second/play_2014rikkai/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5325663m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5325662m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4301069m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -221,7 +277,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -234,7 +290,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -258,6 +314,27 @@ window.ARCHIVE = {
      "url": "https://www.tennimu.com/second/play_dl2014/img/Phdr-img.jpg",
      "caption": "官方公演主视觉",
      "source": "https://www.tennimu.com/second/play_dl2014/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5380469m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5380468m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5380470m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -289,6 +366,20 @@ window.ARCHIVE = {
      "source": "https://www.nelke.co.jp/stage/yakumo2015/index.html",
      "asset": "933f3c59382781e5",
      "resolution": "530 × 750"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4369898m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4369897m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -318,6 +409,27 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/special/m-hakuoki-reimeiroku/cast.html",
      "asset": "32773476fa14877c",
      "resolution": "120 × 170"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4420798m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4368622m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4368623m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -337,7 +449,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.suruga-ya.jp/product/detail/G3134726",
    "note": "旧官网未找到可用档案；保留待核，不作最终定稿。",
-   "status": "参演有商品记录；日期与角色待原主办方复核",
+   "status": "已核实（骏河屋商品登记含东启介）",
    "origin": "维基补充",
    "dateKind": "作品首演日",
    "images": [
@@ -347,10 +459,31 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/product/detail/G3134726",
      "asset": "ecd4b627b909ec41",
      "resolution": "358 × 512"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134729m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134723m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134733m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -366,7 +499,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -379,7 +512,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -521,6 +654,27 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/cast.html",
      "asset": "32773476fa14877c",
      "resolution": "120 × 170"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4447257m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4447258m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4447255m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -565,6 +719,27 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/titles/st/756/",
      "asset": "58daa6ea467942ec",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134719m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134720m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3186061m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -618,16 +793,30 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
-     "resolution": ""
-    },
-    {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0318/butai_toukenranbu_image.jpg",
      "caption": "告知视觉／海报（Natalie 报道）",
      "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3269915m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3269913m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3269912m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -636,6 +825,86 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201606",
+   "date": "2016-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2016年6月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2016年6月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B46%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3220542m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3220543m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3220544m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_201607",
+   "date": "2016-07-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2016年7月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2016年7月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B47%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200500m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200501m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200499m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e12",
@@ -664,6 +933,27 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0611/slazyaw.jpg",
      "caption": "告知视觉／海报（Natalie 报道）",
      "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3284922m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3284924m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3284921m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -700,6 +990,46 @@ window.ARCHIVE = {
    "videos": []
   },
   {
+   "id": "bro_201608",
+   "date": "2016-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2016年8月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2016年8月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B48%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200503m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200502m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200504m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e13",
    "date": "2016-08-12",
    "end": "2016-08-17",
@@ -728,6 +1058,27 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/titles/st/763/",
      "asset": "58daa6ea467942ec",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3143693m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3143694m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3143692m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -822,12 +1173,127 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/titles/st/766/",
      "asset": "58daa6ea467942ec",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3185988m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3185990m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3185989m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201610",
+   "date": "2016-10-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2016年10月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2016年10月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B410%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3594739m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3594738m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3594740m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg997007m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_201611",
+   "date": "2016-11-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2016年11月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2016年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B411%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg821576m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg714583m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg714582m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg821577m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "mag_rk14513360",
@@ -857,6 +1323,53 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201612",
+   "date": "2016-12-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2016年12月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2016年12月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B412%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699353m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699352m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699354m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699351m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "nat_25fes16",
@@ -998,27 +1511,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_rm_56038122",
-   "date": "2017",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.14",
-   "japanese": "W! VOL.14",
-   "role": "本人",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.14%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "mag_rm_95423071",
    "date": "2017",
    "end": "",
@@ -1077,6 +1569,53 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201701",
+   "date": "2017-01-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年1月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年1月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B41%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699355m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699356m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699358m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699357m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e_dvd1",
    "date": "2017-01-18",
    "end": "",
@@ -1098,6 +1637,27 @@ window.ARCHIVE = {
      "source": "https://books.rakuten.co.jp/rb/14558589/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3578882m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3578881m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3578883m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -1109,6 +1669,53 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201702",
+   "date": "2017-02-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年2月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B42%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545447m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545448m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545450m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545449m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "pc181",
@@ -1197,12 +1804,80 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3315627m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3315674m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3315675m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201703",
+   "date": "2017-03-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年3月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年3月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B43%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545453m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545452m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545454m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545451m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e101",
@@ -1250,10 +1925,10 @@ window.ARCHIVE = {
    "dateKind": "活动日",
    "images": [
     {
-     "url": "",
-     "caption": "最新写真集 官方图",
-     "source": "",
-     "asset": "b4ccb520b19a2bb1",
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/jb3310m.jpg.webp",
+     "caption": "1st写真集《K》封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -1261,6 +1936,53 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201704",
+   "date": "2017-04-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年4月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年4月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B44%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545455m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545456m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545457m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545458m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e17",
@@ -1289,6 +2011,27 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0303/hakuoki_harada_main.jpg",
      "caption": "告知视觉／海报（Natalie 报道）",
      "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3361333m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3361335m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3361332m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -1365,6 +2108,35 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_rm_56038122",
+   "date": "2017-05-12",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.14",
+   "japanese": "W! VOL.14",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.14%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。 骏河屋登记发售日 2017/05/12（DVD付）。",
+   "status": "已核实（骏河屋商品登记含东启介）",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售期（约）",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/zsome15041m.jpg.webp",
+     "caption": "封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "e18",
    "date": "2017-06-01",
    "end": "2017-07-14",
@@ -1393,12 +2165,80 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3405197m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3405199m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3405158m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201706",
+   "date": "2017-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年6月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年6月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B46%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699349m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699350m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699347m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699348m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "mag_rk14945701",
@@ -1448,6 +2288,53 @@ window.ARCHIVE = {
    "videos": []
   },
   {
+   "id": "bro_201707",
+   "date": "2017-07-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年7月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年7月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B47%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3435695m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3435693m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3435694m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3435696m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e19",
    "date": "2017-07-29",
    "end": "2017-08-20",
@@ -1474,6 +2361,34 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0729/grandguignol_kv.jpg",
      "caption": "告知视觉／海报（Natalie 报道）",
      "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3581238m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3581239m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3581240m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo32444m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -1524,6 +2439,122 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201708",
+   "date": "2017-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年8月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年8月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B48%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639092m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639091m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639094m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639093m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "mag_mc_62459767",
+   "date": "2017-08-29",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.15｜东启介、和田雅成、广濑智纪、染谷俊之等",
+   "japanese": "W! VOL.15",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.15%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
+   "status": "已核实（骏河屋商品登记含东启介）",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售期（约）",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1144/neobk-2130555.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "bro_201709",
+   "date": "2017-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年9月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年9月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B49%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639095m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639097m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639096m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_rk15120606",
    "date": "2017-09-23",
    "end": "",
@@ -1553,6 +2584,53 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201710",
+   "date": "2017-10-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年10月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年10月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B410%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3683296m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3683297m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3683299m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3683298m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e20",
    "date": "2017-10-13",
    "end": "2018-03-02",
@@ -1564,7 +2642,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.clie.asia/CSL-TV/",
    "note": "月度播出作品；日期按TOKYO MX公布的放送日口径，跨午夜时实际日历日可能顺延。",
-   "status": "参演已核对；首播日待节目档案复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "原履历",
    "dateKind": "官方标注首播日",
    "images": [
@@ -1584,9 +2662,56 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201711",
+   "date": "2017-11-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年11月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B411%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639100m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639099m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639101m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639102m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e21",
@@ -1615,6 +2740,27 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0429/scarletpimpernel.jpg",
      "caption": "告知视觉／海报（Natalie 报道）",
      "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3958543m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3958545m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639108m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -1657,6 +2803,46 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201712",
+   "date": "2017-12-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年12月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年12月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B412%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439021m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg624775m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439022m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "mag_mc_54827797",
@@ -1746,6 +2932,46 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201801",
+   "date": "2018-01-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年1月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年1月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B41%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3717120m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3717121m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3717122m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e22",
    "date": "2018-01-21",
    "end": "2018-02-18",
@@ -1831,6 +3057,100 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201802",
+   "date": "2018-02-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年2月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B42%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439024m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439025m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439023m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg703175m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_201803",
+   "date": "2018-03-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年3月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年3月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B43%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3735851m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3735849m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3735850m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3735848m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_rk15405076",
    "date": "2018-03-27",
    "end": "",
@@ -1858,6 +3178,53 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201804",
+   "date": "2018-04-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年4月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年4月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B44%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271344m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271343m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271345m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271342m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e23",
@@ -1888,6 +3255,20 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg655396m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo42077m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1901,33 +3282,98 @@ window.ARCHIVE = {
    ]
   },
   {
-   "id": "mag_mc_62459767",
-   "date": "2018-05",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.15｜东启介、和田雅成、广濑智纪、染谷俊之等",
-   "japanese": "W! VOL.15",
-   "role": "本人",
+   "id": "bro_201805",
+   "date": "2018-05-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年5月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年5月～",
+   "role": "",
    "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.15%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B45%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1144/neobk-2130555.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271347m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271348m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271349m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271346m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
    ],
    "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_201806",
+   "date": "2018-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年6月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年6月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B46%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271350m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271351m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271352m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271353m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e24",
@@ -1956,6 +3402,27 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0601/tousute_hidenKV.jpg",
      "caption": "告知视觉／海报（Natalie 报道）",
      "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3745225m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3745145m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3745171m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -1995,8 +3462,128 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201807",
+   "date": "2018-07-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年7月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年7月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B47%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439026m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439027m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439029m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439028m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "nat_pp_gg18",
+   "date": "2018-07-02",
+   "end": "",
+   "category": "采访／连载",
+   "title": "Natalie特集｜末满健一×东启介：与TRUMP同行的10年、《大木偶剧》幕后",
+   "japanese": "日テレプラス「グランギニョル」末満健一×東啓介 TRUMPと歩んだ10年間",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/pp/grandguignol",
+   "note": "日テレプラス播出《グランギニョル》之际的对谈特集。",
+   "status": "已刊载",
+   "origin": "音乐自然 Natalie",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/pp/static/stage/grandguignol/thumb_inbox_600.jpg",
+     "caption": "Natalie 特集图",
+     "source": "https://natalie.mu/stage/pp/grandguignol",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
+   "id": "bro_201808",
+   "date": "2018-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年8月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年8月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B48%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435126m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435125m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435127m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435128m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_mc_33386215",
-   "date": "2018-08",
+   "date": "2018-08-03",
    "end": "",
    "category": "杂志",
    "title": "《W!》vol.19",
@@ -2006,7 +3593,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.19%20%E6%9D%B1%E5%95%93%E4%BB%8B",
    "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "status": "已核实（骏河屋商品登记含东启介）",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
@@ -2019,7 +3606,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -2052,6 +3639,34 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg145117m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937051m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937048m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo37817m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -2063,6 +3678,53 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KT45NPNYu5BD1lDYe0lSf0v"
     }
    ]
+  },
+  {
+   "id": "bro_201809",
+   "date": "2018-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年9月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年9月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B49%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435132m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435130m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435131m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435129m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "mag_rk15645554",
@@ -2150,6 +3812,53 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201810",
+   "date": "2018-10-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年10月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年10月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B410%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439033m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439030m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439032m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439031m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "s148",
@@ -2254,7 +3963,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -2274,9 +3983,56 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201811",
+   "date": "2018-11-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2018年11月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2018年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B411%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937030m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937028m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937027m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937029m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e27",
@@ -2305,6 +4061,34 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0630/inochiurimasu.jpg",
      "caption": "告知视觉／海报（Natalie 报道）",
      "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg427182m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937045m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937046m.jpg.webp",
+     "caption": "官方生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo55853m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -2413,7 +4197,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=W%21%20Vol24%20%E5%8C%97%E5%9C%92%E6%B6%BC%20%E6%9D%B1%E5%95%93%E4%BB%8B",
    "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "status": "已核实（骏河屋商品登记含东启介）",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
@@ -2426,7 +4210,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -2458,6 +4242,86 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201902",
+   "date": "2019-02-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2019年2月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2019年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B42%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937035m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937038m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_201903",
+   "date": "2019-03-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2019年3月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2019年3月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B43%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937042m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937040m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937041m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937039m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "mag_rk15831877",
@@ -2604,6 +4468,13 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo41034m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -2639,6 +4510,53 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201907",
+   "date": "2019-07-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2019年7月〉",
+   "japanese": "WEオフィシャルブロマイド ～2019年7月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B47%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723926m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723923m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723925m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723924m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e29",
@@ -2804,7 +4722,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -2817,7 +4735,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -3072,6 +4990,32 @@ window.ARCHIVE = {
      "url": "https://www.bilibili.com/video/BV1fp4y1S74K/"
     }
    ]
+  },
+  {
+   "id": "nat_col20",
+   "date": "2020-06-09",
+   "end": "",
+   "category": "采访／连载",
+   "title": "Natalie专栏《うちがステージ！》第5回｜尾上右近・东启介的私藏排练服",
+   "japanese": "これが私のとっておき稽古着スタイル！尾上右近・東啓介編",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/column/382395",
+   "note": "原定在帝剧《泽西男孩》同台的两人，展示“排练重开后要穿的”私藏排练服。",
+   "status": "已刊载",
+   "origin": "音乐自然 Natalie",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0608/higashikeisuke.jpg",
+     "caption": "Natalie 特集图",
+     "source": "https://natalie.mu/stage/column/382395",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "nat_koe20",
@@ -3400,6 +5344,46 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "bro_202010",
+   "date": "2020-10-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2020年10月〉",
+   "japanese": "WEオフィシャルブロマイド ～2020年10月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202020%E5%B9%B410%E6%9C%88",
+   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu814333m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu814331m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu814334m.jpg.webp",
+     "caption": "骏河屋商品图（个人生写真）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e81",
    "date": "2020-10-17",
    "end": "",
@@ -3486,6 +5470,13 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo52995m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -3525,7 +5516,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://auctions.yahoo.co.jp/search/search?p=%E3%82%B6%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3SQUARE+%E6%9D%B1%E5%95%93%E4%BB%8B",
    "note": "niconico 有同期的专访＆拍摄花絮视频（2020.11.16）；杂志随机生写真也在二手市场流通。",
-   "status": "雅虎拍卖出品线索；待核",
+   "status": "已核实（骏河屋商品登记含东启介）",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
@@ -3535,10 +5526,24 @@ window.ARCHIVE = {
      "source": "https://www.nicovideo.jp/watch/so37740891",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723934m.jpg.webp",
+     "caption": "杂志附赠随机生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723936m.jpg.webp",
+     "caption": "杂志附赠随机生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -4048,8 +6053,8 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "",
-   "status": "维基待出版社复核",
+   "note": "2021年3月10日 KADOKAWA 发行。本人参与企划的写真集。",
+   "status": "已发售",
    "origin": "维基补充",
    "dateKind": "发售日",
    "images": [
@@ -4062,7 +6067,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -4577,7 +6582,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -4590,7 +6595,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -4758,7 +6763,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89Stage%20Stars%20vol.19%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
    "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "status": "已核实（骏河屋商品登记含东启介）",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
@@ -4771,7 +6776,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -4968,7 +6973,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -4994,7 +6999,7 @@ window.ARCHIVE = {
      "title": "加藤和树×东启介｜《闇が広がる》（阴霾渐袭）"
     }
    ],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -5097,7 +7102,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -5110,7 +7115,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -5593,6 +7598,13 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo63666m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -5670,7 +7682,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -5683,7 +7695,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -5902,7 +7914,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
    "note": "东启介×斋藤瑠希；日期待复核",
-   "status": "原文定位；准确发布日期待复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "公开检索补充",
    "dateKind": "发布日期精度有限",
    "images": [
@@ -5915,7 +7927,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "文章",
    "playlistLinks": []
   },
@@ -5931,7 +7943,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.25%20%E6%9D%B1%E5%95%93%E4%BB%8B",
    "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "status": "已核实（骏河屋商品登记含东启介）",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
@@ -5944,7 +7956,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -6173,6 +8185,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "nat_pp_entas23",
+   "date": "2023-02-17",
+   "end": "",
+   "category": "采访／连载",
+   "title": "Natalie特集｜Master加藤和树×东启介《Entas ON STAGE》",
+   "japanese": "マスター加藤和樹×東啓介がおもてなし！「加藤和樹のミュージックバー『エンタス』ON STAGE」",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/pp/wowow-entasuonstage",
+   "note": "WOWOW特集页，含排练与对谈照片。",
+   "status": "已刊载",
+   "origin": "音乐自然 Natalie",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/pp/wowow-entasuonstage/wowow-entasuonstage_twitter.jpg",
+     "caption": "Natalie 特集图",
+     "source": "https://natalie.mu/stage/pp/wowow-entasuonstage",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "cal_17434046",
    "date": "2023-02-27",
    "end": "",
@@ -6278,7 +8316,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -6291,7 +8329,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -6307,7 +8345,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -6320,7 +8358,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -6387,6 +8425,13 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0222/2jikainohitotachi_mainV.jpg",
      "caption": "告知视觉／海报（Natalie 报道）",
      "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo67582m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -6541,7 +8586,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -6554,7 +8599,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -6849,6 +8894,13 @@ window.ARCHIVE = {
    "origin": "维基及主办方补充",
    "dateKind": "活动首日",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/0427/main.jpg",
+     "caption": "Natalie 报道图（生日演唱会《音》告知）",
+     "source": "https://natalie.mu/stage/news/522544",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/07/★_ZZZ8329_01.jpg",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
@@ -7915,7 +9967,7 @@ window.ARCHIVE = {
    "key": "tori",
    "url": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
    "note": "全企划11月27–30日；本人B版出演日期需要按分卡表，不直接当作每天出演。现主办方旧URL跳至其他列表，改存原采访。",
-   "status": "排练采访确认参演；本人逐场日程待复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "原履历",
    "dateKind": "作品首演日",
    "images": [
@@ -7942,7 +9994,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -8555,6 +10607,13 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/185",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo74114m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -8723,6 +10782,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GRsS_T3aUAIZ3f0?format=jpg&name=large",
+     "caption": "We!プレ 官方告知图",
+     "source": "https://x.com/wepremium/status/1809060862633857510",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://www.watanabepro.co.jp/ogp.jpg",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
@@ -9191,7 +11257,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -9211,7 +11277,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -9747,6 +11813,13 @@ window.ARCHIVE = {
      "source": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo78246m.jpg.webp",
+     "caption": "公演场刊封面（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -10037,7 +12110,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -10057,7 +12130,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -10361,7 +12434,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://kaidankagura.wixsite.com/sumu2025",
    "note": "",
-   "status": "官网入口已定位；本人场次待日程表复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "维基及粉丝索引补充",
    "dateKind": "本人出演日",
    "images": [
@@ -10381,7 +12454,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -10423,7 +12496,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "维基补充线索；待原主办方复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -10443,7 +12516,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -10485,7 +12558,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://bs.tbs.co.jp/utsukushii/archives/arch260204.html",
    "note": "21:00，BS-TBS；公开节目页。",
-   "status": "电台官网入口由粉丝索引定位；原页待复核",
+   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
    "origin": "补充检索",
    "dateKind": "节目播出日",
    "images": [
@@ -10505,7 +12578,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -11333,6 +13406,13 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
+     "url": "https://pbs.twimg.com/media/HMG8VX5aUAAFAlh?format=jpg&name=large",
+     "caption": "WOWOW 官方推特宣传图",
+     "source": "https://x.com/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://www.tokai-tv.com/oppan/assets/img/top/header_poster.jpg",
      "caption": "官方海报",
      "source": "https://www.wowow.co.jp/",
@@ -11581,6 +13661,20 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
+     "url": "https://pbs.twimg.com/media/HWFlwTGaUAEunmy?format=jpg&name=large",
+     "caption": "刀剑乱舞2.5茶屋 官方合作告知",
+     "source": "https://x.com/touken_2_5chaya/status/2117179908736921657",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/HWFlwTMboAAO-fZ?format=jpg&name=large",
+     "caption": "刀剑乱舞2.5茶屋 官方合作告知",
+     "source": "https://x.com/touken_2_5chaya/status/2117179908736921657",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "",
      "caption": "十周年纪念特别公演 官方主视觉",
      "source": "",
@@ -11639,9 +13733,9 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/05/tenranKV.png",
-     "caption": "十年轨迹展主视觉",
-     "source": "https://stage-toukenranbu.jp/",
+     "url": "https://stage-toukenranbu-10th-expo.jp/images/slide1/tenrankai_kv.jpg",
+     "caption": "十年轨迹展官网主视觉",
+     "source": "https://stage-toukenranbu-10th-expo.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -11696,6 +13790,13 @@ window.ARCHIVE = {
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
    "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HMG8Wb9aIAAamMv?format=jpg&name=large",
+     "caption": "WOWOW 官方推特宣传图",
+     "source": "https://x.com/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://www.tokai-tv.com/oppan/assets/img/top/header_poster.jpg",
      "caption": "官方海报",
@@ -11755,9 +13856,9 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/05/tenranKV.png",
-     "caption": "十年轨迹展主视觉",
-     "source": "https://stage-toukenranbu.jp/",
+     "url": "https://news.walkerplus.com/article/1442397/18570078_615.jpg",
+     "caption": "Walkerplus 报道图",
+     "source": "https://news.walkerplus.com/article/1442397/",
      "asset": "",
      "resolution": ""
     }
@@ -11936,9 +14037,9 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/05/tenranKV.png",
-     "caption": "十年轨迹展主视觉",
-     "source": "https://stage-toukenranbu.jp/",
+     "url": "https://stage-toukenranbu-10th-expo.jp/images/slide1/tenrankai_KVre.jpg",
+     "caption": "十年轨迹展官网视觉",
+     "source": "https://stage-toukenranbu-10th-expo.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -12023,9 +14124,9 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/05/tenranKV.png",
-     "caption": "十年轨迹展主视觉",
-     "source": "https://stage-toukenranbu.jp/",
+     "url": "https://stage-toukenranbu-10th-expo.jp/images/food/foods_all.jpg",
+     "caption": "十年轨迹展联动菜单",
+     "source": "https://stage-toukenranbu-10th-expo.jp/food.html",
      "asset": "",
      "resolution": ""
     }
@@ -17742,7 +19843,7 @@ window.ARCHIVE = {
    "title": "官网嵌入的视频（标题待复核）",
    "url": "https://www.youtube.com/watch?v=kyqxdo_tRJI",
    "channel": "来源：ミュージカル『薄桜鬼』新選組奇譚官方网站",
-   "thumbnail": "",
+   "thumbnail": "https://i.ytimg.com/vi/kyqxdo_tRJI/hqdefault.jpg",
    "duration": "",
    "available": true,
    "playlists": [
@@ -17761,7 +19862,7 @@ window.ARCHIVE = {
    "title": "官方公演CM",
    "url": "https://www.youtube.com/watch?v=ttLGGm7WKMM",
    "channel": "来源：ミュージカル『薄桜鬼』原田左之助 篇官方网站",
-   "thumbnail": "",
+   "thumbnail": "https://i.ytimg.com/vi/ttLGGm7WKMM/hqdefault.jpg",
    "duration": "",
    "available": true,
    "playlists": [
@@ -23318,7 +25419,7 @@ window.ARCHIVE = {
     "2020"
    ],
    "url": "https://www.bilibili.com/video/BV1pT4y1g7Qz/",
-   "thumbnail": "",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/fa17bd2985af0deb218842d7c0ee954f12599546.jpg",
    "playlists": [],
    "platform": "B站",
    "rel": "B站有｜2020.06.02上传",
