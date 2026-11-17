@@ -8169,7 +8169,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/L39WPM67ZV/",
-   "note": "NHK-FM「青春アドベンチャー」，全10回，第1回2022年1月17日播出。原作浅仓秋成，出演：奥野壮、土村芳、东启介等。",
+   "note": "NHK-FM「青春アドベンチャー」，全10回，2022年1月17日–28日播出。原作浅仓秋成，出演：奥野壮、土村芳、东启介等。YouTube上有全10回的录音。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "day",
@@ -8189,7 +8189,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "全10回录音（YouTube）",
+     "url": "https://www.youtube.com/watch?v=eUMnCiKFuDE"
+    }
+   ],
    "pending": false,
    "kind": "音声",
    "playlistLinks": []
@@ -28714,6 +28719,26 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1YK4y177iD/",
    "uploadDate": "2020-10-24",
    "dateLabel": "2020.10.24 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "eUMnCiKFuDE",
+   "title": "青春アドベンチャー『六人の嘘つきな大学生』(全10回)",
+   "channel": "BK221B",
+   "type": "广播／音声",
+   "sourceType": "转载",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.youtube.com/watch?v=eUMnCiKFuDE",
+   "thumbnail": "https://i.ytimg.com/vi/eUMnCiKFuDE/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "YouTube搬运｜2022",
+   "source": "https://www.youtube.com/watch?v=eUMnCiKFuDE",
+   "uploadDate": "2022-02-06",
+   "contentDate": "2022-01-17",
+   "dateLabel": "2022 公开",
    "asset": ""
   }
  ],
