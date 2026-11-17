@@ -1848,6 +1848,10 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
+     "title": "茶请け厨房花絮（B站）",
+     "url": "https://www.bilibili.com/video/BV1UYDhBZEgm/"
+    },
+    {
      "title": "＃011 舞台「刀剣乱舞」終わりで生放送！",
      "url": "https://www.nicovideo.jp/watch/so28816886"
     }
@@ -7538,6 +7542,14 @@ window.ARCHIVE = {
     }
    ],
    "videos": [
+    {
+     "title": "DISC2 第一幕中字（B站）",
+     "url": "https://www.bilibili.com/video/BV1Je4y1G7Cy/"
+    },
+    {
+     "title": "DISC2 第二幕中字（B站）",
+     "url": "https://www.bilibili.com/video/BV1Gv4y1h7hT/"
+    },
     {
      "id": "q_IReA4lDkY",
      "title": "东启介本人出演感言（2021）",
@@ -13970,6 +13982,10 @@ window.ARCHIVE = {
     }
    ],
    "videos": [
+    {
+     "title": "音乐剧世界 四人出演（B站）",
+     "url": "https://www.bilibili.com/video/BV1GeJzzwEWR/"
+    },
     {
      "id": "2YS9y8jsdmQ",
      "title": "『NOT MY FATHER’S SON』from Kinky Boots -SPECIAL MUSIC VIDEO-",
@@ -29131,6 +29147,46 @@ window.ARCHIVE = {
    "uploadDate": "2026-04-25",
    "contentDate": "2025-07-04",
    "dateLabel": "2026.04.25 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1UYDhBZEgm",
+   "title": "刀ステ虚传 特别企画「茶请け」厨房花絮",
+   "channel": "梦野ゆめの",
+   "type": "幕后／拍摄",
+   "sourceType": "B站搬运",
+   "years": [
+    "2016"
+   ],
+   "url": "https://www.bilibili.com/video/BV1UYDhBZEgm/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/ba82c0d9c0ecfe19eaabde54689f43fed0b86818.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1UYDhBZEgm/",
+   "uploadDate": "2026-04-07",
+   "contentDate": "2016-12-15",
+   "dateLabel": "2026.04.07 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Gv4y1h7hT",
+   "title": "【中字】玛塔·哈莉（2021）DISC2 第二幕",
+   "channel": "黑兔麻薯",
+   "type": "舞台／剧集",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Gv4y1h7hT/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/b9a90989ba60b35e0b92ef1de549cbc6bd48229d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2023",
+   "source": "https://www.bilibili.com/video/BV1Gv4y1h7hT/",
+   "uploadDate": "2023-02-28",
+   "contentDate": "2021-06-14",
+   "dateLabel": "2023.02.28 B站上传",
    "asset": ""
   }
  ],
