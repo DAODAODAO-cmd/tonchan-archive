@@ -16,7 +16,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/3472/9784863363472.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -71,7 +79,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "维基补充",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.tennimu.com/second/play_2014undokai/img/Phdr-img.jpg",
+     "caption": "官方公演主视觉",
+     "source": "https://www.tennimu.com/second/play_2014undokai/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -92,7 +108,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "维基拆分原履历",
    "dateKind": "作品首演日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.tennimu.com/second/play_2014rikkai/img/Phdr-img.jpg",
+     "caption": "官方公演主视觉",
+     "source": "https://www.tennimu.com/second/play_2014rikkai/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -113,7 +137,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4158/9784863364158.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -155,7 +187,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4332/9784863364332.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -197,7 +237,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "维基拆分原履历",
    "dateKind": "活动首日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.tennimu.com/second/play_dl2014/img/Phdr-img.jpg",
+     "caption": "官方公演主视觉",
+     "source": "https://www.tennimu.com/second/play_dl2014/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -413,7 +461,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/7272/9784863367272.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -529,7 +585,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "原履历",
    "dateKind": "作品首演日",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -774,7 +838,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/9016/9784863369016.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -837,9 +909,51 @@ window.ARCHIVE = {
    "status": "雅虎拍卖出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4588/9784197204588.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e_dvd1",
+   "date": "2017-01-18",
+   "end": "",
+   "category": "写真／出版",
+   "title": "首张个人DVD《东启介，南下去。》",
+   "japanese": "東啓介1st DVD「東啓介、南へ行く。」",
+   "role": "本人",
+   "crew": "导演：川野浩司",
+   "key": "",
+   "url": "https://higashikeisuke.ponycanyon.co.jp/",
+   "note": "Pony Canyon。冲绳外景，含无人岛求生、古武术、书道、马术等；特典映像「東啓介、小澤廉とサシ飲みする。」。豪华版（6,000日元＋税）附特典CD《心做し》《夏の半券》翻唱与《Jupiter》钢琴演奏、24P手册；通常版3,800日元＋税。",
+   "status": "发行方官网确认",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0092/4988013190092.jpg?downsize=600:*",
+     "caption": "DVD豪华版封面",
+     "source": "https://books.rakuten.co.jp/rb/14558589/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "1st DVD 宣传PV（B站）",
+     "url": "https://www.bilibili.com/video/BV1zs41187XK/"
+    }
+   ],
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -858,7 +972,15 @@ window.ARCHIVE = {
    "status": "发行方活动公告已核对",
    "origin": "发行方补充",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0092/4988013190092.jpg?downsize=600:*",
+     "caption": "DVD豪华版封面",
+     "source": "https://books.rakuten.co.jp/rb/14558589/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -879,7 +1001,15 @@ window.ARCHIVE = {
    "status": "发行方活动公告已核对",
    "origin": "发行方补充",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0092/4988013190092.jpg?downsize=600:*",
+     "caption": "DVD豪华版封面",
+     "source": "https://books.rakuten.co.jp/rb/14558589/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -958,7 +1088,15 @@ window.ARCHIVE = {
    "status": "发行方活动公告已核对",
    "origin": "发行方补充",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "最新写真集 官方图",
+     "source": "",
+     "asset": "b4ccb520b19a2bb1",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -1164,7 +1302,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0973/4910096950973.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1214,7 +1360,15 @@ window.ARCHIVE = {
    "status": "参演已核对；首播日待节目档案复核",
    "origin": "原履历",
    "dateKind": "官方标注首播日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.clie.asia/CSL-AW/images/cast/higashi2.png",
+     "caption": "官方角色写真：Will",
+     "source": "https://www.clie.asia/CSL-AW/",
+     "asset": "7cd13d3d826ee6ef",
+     "resolution": "350 × 500"
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1298,7 +1452,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4056/9784331804056.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1460,7 +1622,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "原履历",
    "dateKind": "作品首演日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.stagegate.jp/stagegate/performance/2018/5days/img/main_img.jpg",
+     "caption": "官方公演主视觉",
+     "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -1649,7 +1819,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/1283/4910163351283.gif?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1670,7 +1848,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/1286/4910018571286.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1749,7 +1935,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/AHvAQBT5Dbg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCc2j2R5ndKWowceXX0ek1kvcflFQ",
+     "caption": "视频封面：TRUMPシリーズ『繭期夜会』（2018年）ダイジェスト映像",
+     "source": "https://www.youtube.com/watch?v=AHvAQBT5Dbg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1886,7 +2080,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4315/9784331804315.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1907,7 +2109,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4094/9784331804094.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1986,7 +2196,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0690/4910121210690.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -2065,7 +2283,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4186/9784331804186.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -2410,7 +2636,15 @@ window.ARCHIVE = {
    "status": "当年出演公告确认日期；第91回期数据视频标题",
    "origin": "当年节目出演公告",
    "dateKind": "原节目播出日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/Yj65bhOdxXPLpcOU6L3DmFJ57PYW8i3lbzLjgTQ0XrqLjVJ6Bfm8HFZvRES53Dsy",
+     "caption": "SPICE 新闻图",
+     "source": "https://spice.eplus.jp/articles/270919",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "biliLinks": [
     {
@@ -2437,7 +2671,15 @@ window.ARCHIVE = {
    "status": "当年出演公告确认日期；第91回期数据视频标题",
    "origin": "当年节目出演公告",
    "dateKind": "原节目播出日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/Yj65bhOdxXPLpcOU6L3DmFJ57PYW8i3lbzLjgTQ0XrqLjVJ6Bfm8HFZvRES53Dsy",
+     "caption": "SPICE 新闻图",
+     "source": "https://spice.eplus.jp/articles/270919",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "音声",
@@ -2458,7 +2700,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "原履历",
    "dateKind": "已核实的本人出演场次日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://stagegate-vr.jp/vol1/img_parallax/defiled1.jpg",
+     "caption": "官方宣传图",
+     "source": "https://stagegate-vr.jp/vol1/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -2479,7 +2729,15 @@ window.ARCHIVE = {
    "status": "已核实取消",
    "origin": "原履历",
    "dateKind": "原定首演日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://engekisengen.com/genre/musical/42787/",
+     "asset": "0ad08f94d290331d",
+     "resolution": "1707 × 2560"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -2500,7 +2758,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "原履历",
    "dateKind": "线上开演日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://engekisengen.com/genre/musical/42787/",
+     "asset": "0ad08f94d290331d",
+     "resolution": "1707 × 2560"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -2886,7 +3152,15 @@ window.ARCHIVE = {
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.ntv.co.jp/uchikare/articles/images/47pv6t32e0uabk3lfvqg3bilpyea1t.jpg",
+     "caption": "电视台公开剧照（含其他演员）",
+     "source": "https://www.ntv.co.jp/uchikare/articles/205261mefmaix3vhul5g.html",
+     "asset": "8ea948e91249926d",
+     "resolution": "700 × 394"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "文章",
@@ -2965,7 +3239,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0316/4910203010316.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -2986,7 +3268,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0218/4910261040218.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -3466,7 +3756,15 @@ window.ARCHIVE = {
    "status": "雅虎拍卖出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0714/4910200710714_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -3682,7 +3980,15 @@ window.ARCHIVE = {
    "status": "维基待原平台复核",
    "origin": "维基补充",
    "dateKind": "上线日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw268.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/450/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -3732,7 +4038,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4837/9784867014837_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -3753,7 +4067,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/5698/9784867015698_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -3774,7 +4096,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0326/4910018570326_1_3.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -3882,7 +4212,15 @@ window.ARCHIVE = {
    "status": "播出日已核对；角色待NHK原页复核",
    "origin": "补充检索",
    "dateKind": "广播剧首播日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://img.nhk.jp/static/assets/images/radioseries/rs/X4X6N1XG8Z/X4X6N1XG8Z-eyecatch_a5bdc94187e0b501b2cfa223cbf28e4a.png",
+     "caption": "NHK 青春冒险 节目图",
+     "source": "https://www.maimupro.co.jp/news/17002/?set=osaka&tab=",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "音声",
@@ -3903,7 +4241,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/SFJZONd-R7s/hqdefault.jpg",
+     "caption": "视频封面：Japan Musical Festival 2022 東啓",
+     "source": "https://www.youtube.com/watch?v=SFJZONd-R7s",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "biliLinks": [
     {
@@ -3959,7 +4305,15 @@ window.ARCHIVE = {
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.tbs.co.jp/fight_song_tbs2022/img/ogp.png?555",
+     "caption": "电视台作品海报",
+     "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
+     "asset": "627eca80ca2cf665",
+     "resolution": "1200 × 630"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "文章",
@@ -4088,7 +4442,15 @@ window.ARCHIVE = {
    "status": "作品与开播已核实；本人集数／日期待节目表复核",
    "origin": "维基补充",
    "dateKind": "本人出演集实际播出日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.mcdonalds.co.jp/media_library/14682/file.png",
+     "caption": "麦当劳官方新闻稿剧照",
+     "source": "https://www.mcdonalds.co.jp/company/news/2022/0420a/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -4109,7 +4471,15 @@ window.ARCHIVE = {
    "status": "原履历确认角色；本人集数日程待复核",
    "origin": "原履历",
    "dateKind": "本人登场集播出日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.fujitv.co.jp/nanbaMG5/img/top/mainvisual.jpg",
+     "caption": "富士电视台官方主视觉",
+     "source": "https://www.fujitv.co.jp/nanbaMG5/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -4188,7 +4558,15 @@ window.ARCHIVE = {
    "status": "WE Goods Info 官方推文确认",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+     "caption": "7net 公开商品图",
+     "source": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -4578,7 +4956,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -4686,7 +5072,15 @@ window.ARCHIVE = {
    "status": "原文定位；准确发布日期待复核",
    "origin": "公开检索补充",
    "dateKind": "发布日期精度有限",
-   "images": [],
+   "images": [
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
+     "caption": "Confetti 排练场照片",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "文章",
@@ -4707,7 +5101,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/7777/9784867017777_1_3.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -4728,7 +5130,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/3204/9784838793204.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -4749,7 +5159,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/6466/9784867016466_1_3.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -4944,7 +5362,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0438/4910020630438_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -6457,7 +6883,22 @@ window.ARCHIVE = {
    "status": "排练采访确认参演；本人逐场日程待复核",
    "origin": "原履历",
    "dateKind": "作品首演日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
+     "caption": "Confetti 排练场照片",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
+     "caption": "Confetti 排练场照片",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -6478,7 +6919,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0241/4910180390241_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -6620,7 +7069,15 @@ window.ARCHIVE = {
    "status": "主办方／原发布方已核对",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/QJuXEN12tJI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDkpEjbJwZ9YwBrpDADGaRpWOfdSg",
+     "caption": "视频封面：【PR】東啓介×加藤大悟 ▷Musical shoW「WE ",
+     "source": "https://www.youtube.com/watch?v=QJuXEN12tJI",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -6863,7 +7320,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/1149/4910180391149_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -7000,7 +7465,15 @@ window.ARCHIVE = {
    "status": "WE Goods Info 官方推文确认",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://matisowa.jp/8189/",
+     "asset": "4ddbe858ec009526",
+     "resolution": "2055 × 1269"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -7106,7 +7579,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4786/9784863884786_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -7127,7 +7608,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4560/9784838794560_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -7422,7 +7911,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "原履历",
    "dateKind": "作品首演日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg",
+     "caption": "官方预告缩略图",
+     "source": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [
     {
      "id": "2YS9y8jsdmQ",
@@ -7670,7 +8167,15 @@ window.ARCHIVE = {
    "status": "官网入口已定位；本人场次待日程表复核",
    "origin": "维基及粉丝索引补充",
    "dateKind": "本人出演日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/a0e5ad_5aa720f100e64b758bb65e1ff679c1d7~mv2.jpg/v1/fill/w_605,h_856,al_c,q_85/visual.jpg",
+     "caption": "官方公演主视觉",
+     "source": "https://kaidankagura.wixsite.com/sumu2025",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -7691,7 +8196,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/2DCSAh_hgrI/hqdefault.jpg",
+     "caption": "视频封面：東啓介 コメント動画 カウントダウン ミュージカルコンサート",
+     "source": "https://www.youtube.com/watch?v=2DCSAh_hgrI",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -7741,7 +8254,15 @@ window.ARCHIVE = {
    "status": "官网链接已定位；原页内容待复核",
    "origin": "补充检索",
    "dateKind": "广播剧首播日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://img.nhk.jp/static/assets/images/radioseries/rs/X4X6N1XG8Z/X4X6N1XG8Z-eyecatch_a5bdc94187e0b501b2cfa223cbf28e4a.png",
+     "caption": "NHK 青春冒险 节目图",
+     "source": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/blog/bl/pN1pnOaa3q/bp/pY4z7bn1ro/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "音声",
@@ -7914,7 +8435,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0965/4912240130965_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -7956,7 +8485,15 @@ window.ARCHIVE = {
    "status": "发行方资料确认",
    "origin": "原始发布页",
    "dateKind": "文章发布日期",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.talent-databank.co.jp/special/wp-content/uploads/2026/09/top01.jpg",
+     "caption": "Talent Databank 采访图",
+     "source": "https://www.talent-databank.co.jp/special/interview/56797/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "文章",
@@ -7977,7 +8514,15 @@ window.ARCHIVE = {
    "status": "发行方资料确认",
    "origin": "原始发布页",
    "dateKind": "文章发布日期",
-   "images": [],
+   "images": [
+    {
+     "url": "https://img2.animatetimes.com/2026/09/a32ca071001e497e404123badc472f366a965119763ef4_45221104_cbc2440149e711db4f271c222863a4bf3cac334f.jpg",
+     "caption": "Animate Times 采访图",
+     "source": "https://www.animatetimes.com/news/details.php?id=1788235894",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [
     {
      "id": "gKa8yBXfzcE",
@@ -8288,7 +8833,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8309,7 +8862,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/1160/4912240131160_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -8330,7 +8891,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "电影官方宣传图",
+     "source": "",
+     "asset": "41fabd23fcfce840",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8351,7 +8920,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8372,7 +8949,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8464,7 +9049,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8485,7 +9078,15 @@ window.ARCHIVE = {
    "status": "维基＋万代官方宣传确认",
    "origin": "2026.11.17补充",
    "dateKind": "稼动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/9VPedwZW6vg/hqdefault.jpg",
+     "caption": "官方宣传视频缩略图",
+     "source": "https://i.ytimg.com/vi/9VPedwZW6vg/hqdefault.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8506,7 +9107,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8548,7 +9157,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8598,7 +9215,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "电影官方宣传图",
+     "source": "",
+     "asset": "41fabd23fcfce840",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8640,7 +9265,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8690,7 +9323,15 @@ window.ARCHIVE = {
    "status": "出版社官网活动公告确认",
    "origin": "原始发布页",
    "dateKind": "本人活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "最新写真集 官方图",
+     "source": "",
+     "asset": "b4ccb520b19a2bb1",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8711,7 +9352,15 @@ window.ARCHIVE = {
    "status": "出版社官网活动公告确认",
    "origin": "原始发布页",
    "dateKind": "本人活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "最新写真集 官方图",
+     "source": "",
+     "asset": "b4ccb520b19a2bb1",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8761,7 +9410,15 @@ window.ARCHIVE = {
    "status": "出版社官网活动公告确认",
    "origin": "原始发布页",
    "dateKind": "本人活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "最新写真集 官方图",
+     "source": "",
+     "asset": "b4ccb520b19a2bb1",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8782,7 +9439,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8803,7 +9468,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8824,7 +9497,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8845,7 +9526,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8895,7 +9584,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
-   "images": [],
+   "images": [
+    {
+     "url": "",
+     "caption": "十周年纪念特别公演 官方主视觉",
+     "source": "",
+     "asset": "9786558cbccb766f",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -16177,6 +16874,1287 @@ window.ARCHIVE = {
    "platform": "YouTube",
    "asset": "",
    "uploadDate": "2017-05-27"
+  },
+  {
+   "id": "BV184411y7Ga",
+   "title": "【中字】TRUMP系列 ミュージカル「マリーゴールド」MARIGOLD",
+   "channel": "一枚蓝蓝噜",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV184411y7Ga/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/9a028075f38352eb81204d75ca75ae3bd116bec3.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV184411y7Ga/",
+   "uploadDate": "2019-09-05",
+   "dateLabel": "2019.09.05 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1et411t7CU",
+   "title": "中字 Trump - marigold ミュージカル「マリーゴールド」",
+   "channel": "Calycanthus",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1et411t7CU/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/0e32746b31a981ee40239428a504b0d7f73ee619.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1et411t7CU/",
+   "uploadDate": "2019-01-27",
+   "dateLabel": "2019.01.27 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1SzSMBaEvj",
+   "title": "繭期夜会2018",
+   "channel": "1225papu",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1SzSMBaEvj/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/e3dd4ae845eda08347da5577cbe03ad7dfd2ac2d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1SzSMBaEvj/",
+   "uploadDate": "2025-11-27",
+   "dateLabel": "2025.11.27 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1R54y1U7dW",
+   "title": "「はじめての繭期2020」第五夜 『繭期夜会』",
+   "channel": "VOCALOIDの生放送",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1R54y1U7dW/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/ce2cacbb7d770f85b3483a7bbf30f9958c628b9b.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1R54y1U7dW/",
+   "uploadDate": "2020-07-26",
+   "dateLabel": "2020.07.26 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1YXj9zeE55",
+   "title": "GRANDGUIGNOL_BONUS.Title1",
+   "channel": "佑安年",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1YXj9zeE55/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/c77537c6f8c439d913ac1a9f94aa7944693dbff5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1YXj9zeE55/",
+   "uploadDate": "2025-05-27",
+   "dateLabel": "2025.05.27 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1oAJi61E3Z",
+   "title": "刀舞 中字收集合集",
+   "channel": "桃子提子拌酸奶",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1oAJi61E3Z/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/893e9e624b9bbf081366fcf35a0a3422d7509c7d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1oAJi61E3Z/",
+   "uploadDate": "2026-10-17",
+   "dateLabel": "2026.10.17 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Je4y1G7Cy",
+   "title": "【自烤九分熟】玛塔·哈莉（2021）【DISC2 第一幕】",
+   "channel": "黑兔麻薯",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Je4y1G7Cy/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/b9a90989ba60b35e0b92ef1de549cbc6bd48229d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Je4y1G7Cy/",
+   "uploadDate": "2023-01-09",
+   "dateLabel": "2023.01.09 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1aM4y1m7DZ",
+   "title": "【自烤九分熟】玛塔·哈莉（2021）【DISC1 第一幕】",
+   "channel": "黑兔麻薯",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV1aM4y1m7DZ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/b9a90989ba60b35e0b92ef1de549cbc6bd48229d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1aM4y1m7DZ/",
+   "uploadDate": "2023-04-03",
+   "dateLabel": "2023.04.03 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV15t411x7R4",
+   "title": "Club Slazy Extra Invitation Malachite 第一集",
+   "channel": "Natsume98",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV15t411x7R4/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/96075a333b709cf7e5bd7950b46109703731ea8e.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV15t411x7R4/",
+   "uploadDate": "2019-01-04",
+   "dateLabel": "2019.01.04 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Et411x7WN",
+   "title": "Club Slazy Extra Invitation 第二集(无字幕)",
+   "channel": "Natsume98",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Et411x7WN/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/1c5a42e8c22a9d37d74701d1714f559c2b7ae156.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Et411x7WN/",
+   "uploadDate": "2019-01-04",
+   "dateLabel": "2019.01.04 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1NW411x7j7",
+   "title": "「Club SLAZY Extra invitaion ～Malachite～」最終話",
+   "channel": "licathy27",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.bilibili.com/video/BV1NW411x7j7/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/d4c681081c94cafe3a75f5fc8010a579759d26b7.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1NW411x7j7/",
+   "uploadDate": "2018-03-02",
+   "dateLabel": "2018.03.02 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1CamKBrEyM",
+   "title": "【BD】2.5次元男子推しtv シーズン1",
+   "channel": "Galia_Dionysus",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1CamKBrEyM/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/403df1f2bb94905bf71f4d975f43101286b28769.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1CamKBrEyM/",
+   "uploadDate": "2025-12-11",
+   "dateLabel": "2025.12.11 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Ag4y187SU",
+   "title": "【中字】爷爷的刀帐S1合集~(2+3)÷2=?~扩开次元的男人们~",
+   "channel": "新米练习菌",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Ag4y187SU/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/0fcb9608f85481b747f613bd87e4fea66ee6e899.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Ag4y187SU/",
+   "uploadDate": "2020-04-06",
+   "dateLabel": "2020.04.06 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1NW411i7r5",
+   "title": "音乐剧「MATA HARI / マタ ハリ」舞台映像全集 柚希礼音/加藤和樹/东启介",
+   "channel": "古德·璟",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.bilibili.com/video/BV1NW411i7r5/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/9837942ecb9f389b8c8bacb1a272ee6ea35f5ce8.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1NW411i7r5/",
+   "uploadDate": "2018-01-21",
+   "dateLabel": "2018.01.21 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1vQ4y1o7Tg",
+   "title": "【中字】2018版『マタ•ハリ』官方音源 柚希礼音/加藤和樹/東啓介",
+   "channel": "逝言之殇",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1vQ4y1o7Tg/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/7c3c1c74ee8a48078cf73139b267e826b104948a.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1vQ4y1o7Tg/",
+   "uploadDate": "2021-05-14",
+   "dateLabel": "2021.05.14 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1HwQLYEEuN",
+   "title": "【大山真志&藤冈正明&中川晃教&东启介】Jersey Boys Medley",
+   "channel": "_Stereo",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1HwQLYEEuN/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/c5c87880717362aa9fbba7d9c22d77379410a80b.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1HwQLYEEuN/",
+   "uploadDate": "2025-03-11",
+   "dateLabel": "2025.03.11 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1vfrTBnEQs",
+   "title": "平间壮一&东启介Cut 倒计时音乐会之泽西男孩",
+   "channel": "十二烷烃",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1vfrTBnEQs/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/95fd7b099da0a71685809554c32c801a96530875.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1vfrTBnEQs/",
+   "uploadDate": "2026-01-09",
+   "dateLabel": "2026.01.09 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1UqznY1EEr",
+   "title": "【Kinky Boots】MV：「Not My Father's Son」東啓介×有澤樟太郎×甲斐翔真×松下優也",
+   "channel": "Next_to_Yoshio",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1UqznY1EEr/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/39f4c0b6fa1094302b04aa677086525f0b788b2a.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1UqznY1EEr/",
+   "uploadDate": "2024-11-30",
+   "dateLabel": "2024.11.30 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1yx421Q7Ac",
+   "title": "240327 「My Way」屋比久知奈&東啓介&立石俊樹&樹里咲穂&原田優一（VIOLET）",
+   "channel": "Next_to_Yoshio",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1yx421Q7Ac/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/396d06b44b11f2b69aa6cdc1784e604ed8345684.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1yx421Q7Ac/",
+   "uploadDate": "2024-03-27",
+   "dateLabel": "2024.03.27 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Pw4m1m7yg",
+   "title": "ミュージカル「VIOLET」舞台映像ダイジェスト（Long.ver）",
+   "channel": "PAPAPAT0",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Pw4m1m7yg/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/65b96da5f8ffa209ebbff428168df6ffb730859c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Pw4m1m7yg/",
+   "uploadDate": "2024-04-16",
+   "dateLabel": "2024.04.16 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV13K41157Dt",
+   "title": "【東啓介】【青野紗穂】New Musical「Color of Life」公開舞台稽古",
+   "channel": "爱做饭的小饭桶",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV13K41157Dt/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/938d5c315f50ed445f020713654eb7b6d0ab5446.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV13K41157Dt/",
+   "uploadDate": "2020-04-23",
+   "dateLabel": "2020.04.23 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Xb411a77s",
+   "title": "【东启介】New Musical『Color of Life』レコーディング映像",
+   "channel": "有琴惹",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Xb411a77s/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/2d90d48028fa38aa3b726b23a31e553cc1d56c73.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Xb411a77s/",
+   "uploadDate": "2019-02-19",
+   "dateLabel": "2019.02.19 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1fp4y1R7DJ",
+   "title": "231231 「One Day More」（甲斐翔真，木下晴香，SARA，東啓介，平間壮一，三浦宏規，森崎ウィン，屋比久知奈，海宝直人）",
+   "channel": "Next_to_Yoshio",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1fp4y1R7DJ/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/f6538e13a2b3cca37b0e9a6f4b86ed6fef09deac.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1fp4y1R7DJ/",
+   "uploadDate": "2024-01-02",
+   "dateLabel": "2024.01.02 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV169Ny6kE4V",
+   "title": "「One day more」育三郎×古川×知念×黑羽×东启介 等",
+   "channel": "yeoleva",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV169Ny6kE4V/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/81108bd9fa58e4e188bc9ac9b8e51ca494400715.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV169Ny6kE4V/",
+   "uploadDate": "2026-07-13",
+   "dateLabel": "2026.07.13 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1stJs6fEPw",
+   "title": "【中字】Bohemian Rhapsody 中川晃教&藤冈正明&东启介&大山真志",
+   "channel": "_Stereo",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1stJs6fEPw/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/e9f2eda2d3738504440ea86f1335240d24f3227d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1stJs6fEPw/",
+   "uploadDate": "2026-06-13",
+   "dateLabel": "2026.06.13 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Lt4y1y7Me",
+   "title": "东启介&加藤和树『Always Lovin‘ You』",
+   "channel": "Alyoshark",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Lt4y1y7Me/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/4eb2130fec5dbf4a9a0a0b598ad2629c68807f0c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Lt4y1y7Me/",
+   "uploadDate": "2020-06-02",
+   "dateLabel": "2020.06.02 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1cU4y1o78H",
+   "title": "【JMF2022】闇が広がる 加藤和树x东启介",
+   "channel": "白家阿墨",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/video/BV1cU4y1o78H/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/1711470e3015fde1de1e109aa7e43dd881f12b13.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1cU4y1o78H/",
+   "uploadDate": "2022-03-26",
+   "dateLabel": "2022.03.26 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1ft4y1y7cn",
+   "title": "【東啓介】弾き語り",
+   "channel": "4xx___",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ft4y1y7cn/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/51f1bf2649519ed32d8594167d056d8e8075550a.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1ft4y1y7cn/",
+   "uploadDate": "2020-05-08",
+   "dateLabel": "2020.05.08 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV19X4y1P7xx",
+   "title": "【东启介】弹唱『空と青』",
+   "channel": "salty_yyy俞",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV19X4y1P7xx/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/15073c578718a18722e729e121ec014ca79213b2.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV19X4y1P7xx/",
+   "uploadDate": "2021-01-21",
+   "dateLabel": "2021.01.21 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Fb411a766",
+   "title": "【个翻】Club SLAZY-Another world-日替V.P.+Will部分",
+   "channel": "有琴惹",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Fb411a766/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/7fc0044fbde2a0ff776c015a0d3d6d89738f8b42.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Fb411a766/",
+   "uploadDate": "2019-02-23",
+   "dateLabel": "2019.02.23 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1bE411t7VQ",
+   "title": "《吸血鬼之舞》日版2019年官方视频合集",
+   "channel": "wiLavender",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1bE411t7VQ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/87ef05298c34b7babb403f5472101834d219039c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1bE411t7VQ/",
+   "uploadDate": "2019-11-02",
+   "dateLabel": "2019.11.02 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV19W411p76M",
+   "title": "【刀剑乱舞舞台剧】（烛夜）当165遇上186=最萌身高差",
+   "channel": "九朦凉",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.bilibili.com/video/BV19W411p76M/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/607104024707d5ead7fba2bbfb4feb503ee65a7e.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV19W411p76M/",
+   "uploadDate": "2018-03-17",
+   "dateLabel": "2018.03.17 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1btTn6FEfy",
+   "title": "[字幕] Marigold 花絮",
+   "channel": "Mina_na-na",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1btTn6FEfy/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/96a7ca886568a7ef10dd53f35b1156f59dba5bbd.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1btTn6FEfy/",
+   "uploadDate": "2026-07-02",
+   "dateLabel": "2026.07.02 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Ds411t7DA",
+   "title": "箱根学园新世代、始动～《特别节目》",
+   "channel": "君影相思",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2016"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Ds411t7DA/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/87e8803a0a0f247f6dfae1c13de02a7e44065421.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Ds411t7DA/",
+   "uploadDate": "2016-09-26",
+   "dateLabel": "2016.09.26 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV11s411y7xq",
+   "title": "舞台剧『飙速宅男』总北新世代启动 (取材)",
+   "channel": "月玹Tsuki",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2016"
+   ],
+   "url": "https://www.bilibili.com/video/BV11s411y7xq/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/77f84d4e833f57d2a848cf9e07c81f27d00f7b8c.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV11s411y7xq/",
+   "uploadDate": "2016-07-16",
+   "dateLabel": "2016.07.16 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Ss411h7n5",
+   "title": "音乐剧薄樱鬼 黎明录 公演前纪念特别event",
+   "channel": "水巡过千",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Ss411h7n5/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/6434d16efbb1c0b022080c6f18250e998854e9cb.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Ss411h7n5/",
+   "uploadDate": "2017-01-18",
+   "dateLabel": "2017.01.18 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1RA411j78t",
+   "title": "【東啓介/东启介】ザテレビジョンSQUARE2 写真拍摄+采访",
+   "channel": "TNT那位别再用我号了",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1RA411j78t/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/55a50db63e45a2c448032da6702b3c7b045f3183.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1RA411j78t/",
+   "uploadDate": "2020-11-17",
+   "dateLabel": "2020.11.17 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV17W411p7My",
+   "title": "【TVガイドStage Stars vol.1】東啓介　グラビアメイキング",
+   "channel": "KKRooo",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.bilibili.com/video/BV17W411p7My/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/df02364321314b03811d5d361502c94563451552.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV17W411p7My/",
+   "uploadDate": "2018-03-15",
+   "dateLabel": "2018.03.15 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1zs41187XK",
+   "title": "【東啓介】1st DVD「東啓介、南へ行く。」宣传PV",
+   "channel": "試製FaT仕様九五式酸素魚雷改",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1zs41187XK/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/ffa86e5c9d0887908327f7512ede4d79c889d1a6.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1zs41187XK/",
+   "uploadDate": "2017-02-03",
+   "dateLabel": "2017.02.03 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV17siiYFEHg",
+   "title": "东启介x饭岛宽骑，东电 × BUMP的电视剧《我、我喜欢的他、还有你》下周12月10日开始地面波播放，为纪念播出，送上幕后花絮视频……",
+   "channel": "wttchh",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV17siiYFEHg/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/e9cb2a71291b42982b07ba2444b68c6754a5c248.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV17siiYFEHg/",
+   "uploadDate": "2024-12-06",
+   "dateLabel": "2024.12.06 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1HNPjeJEE2",
+   "title": "东启介x饭岛宽骑，《我和我喜欢的他，以及你。》还有平行短剧啊，在 テレ東 的tiktok 更新",
+   "channel": "wttchh",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1HNPjeJEE2/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/d5008c9be605b23bd0185ff0bb5403dc5d0946fa.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1HNPjeJEE2/",
+   "uploadDate": "2025-02-26",
+   "dateLabel": "2025.02.26 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1tMyGYwEmK",
+   "title": "【新日腐】《ぼくとぼくが好きな彼と、君と》 东启介X饭岛宽骑X见津贤  什么？你们仨演三角？",
+   "channel": "你猜呗",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1tMyGYwEmK/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/ff528509ffeb73cacea3737cf1b90057a55148b8.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1tMyGYwEmK/",
+   "uploadDate": "2024-10-18",
+   "dateLabel": "2024.10.18 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Yjuh6NEEk",
+   "title": "【假面骑士麦斯】岭高华武利个人cut",
+   "channel": "岭高华武利official",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Yjuh6NEEk/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/5a6df5249d3cb3f1c78fb1aa8c1bb076c841dee4.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Yjuh6NEEk/",
+   "uploadDate": "2026-08-07",
+   "dateLabel": "2026.08.07 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV17zx86EE7N",
+   "title": "【中字自翻】刀刀舞台劇10週年紀念 薬研藤四郎、 燭台切光忠、鬼丸国綱的祝福留言",
+   "channel": "Kagami_Tsuki",
+   "type": "采访／发布会",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV17zx86EE7N/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/afb417ea2698b789b79cec2e73fa2fb03ac51817.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV17zx86EE7N/",
+   "uploadDate": "2026-11-01",
+   "dateLabel": "2026.11.01 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Kt411X7QM",
+   "title": "東啓介 舞台【刀剑乱舞】特别评论",
+   "channel": "云梦简",
+   "type": "采访／发布会",
+   "sourceType": "转载",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Kt411X7QM/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/e0b4a0f2e0e2fb250c8f9ba899a8e3d577e75825.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Kt411X7QM/",
+   "uploadDate": "2018-11-30",
+   "dateLabel": "2018.11.30 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV11fak6yE6L",
+   "title": "【杂志全译】麦斯红猫东启介专访:演员也不知道红猫结局 是正是邪将引发争议 宇宙船2026.10.1",
+   "channel": "航海水上ライオン連2",
+   "type": "采访／发布会",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV11fak6yE6L/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/e9303e242fdc175c835d5a8218a0507837646da5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV11fak6yE6L/",
+   "uploadDate": "2026-10-01",
+   "dateLabel": "2026.10.01 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1Vn496kEF6",
+   "title": "【中日字幕】从试镜时印象不好到建立羁绊！麦斯超燃座谈会 秋谷郁甫(音澄宙) 堀川梨心(瑞生优菜) 安宅波飒(麻尾达臣) 东启介(岭高华武利)",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Vn496kEF6/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/7885675eb983c5cc7cd649a0de6ace753c2c66db.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1Vn496kEF6/",
+   "uploadDate": "2026-08-30",
+   "dateLabel": "2026.08.30 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1NanG6aEox",
+   "title": "【中日字幕】时隔6年！发挥1米9的BOSS气场！东启介(岭高华武利)最新写真集介绍&感言 2027年1月8日发售【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1NanG6aEox/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/693ffbc052a6d6ce303a1cae50f9ef1da81e47ba.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1NanG6aEox/",
+   "uploadDate": "2026-10-18",
+   "dateLabel": "2026.10.18 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1TgnV6iE8P",
+   "title": "【中日字幕】玉城裕规(暗码编号3):东启介(岭高华武利)好忙哦 又踢球又守护地球又打仗 东：你不也守护过地球 玉城：这个有点微妙【假面骑士ZZZ 假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1TgnV6iE8P/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/51823714769ae46f7111b6f54156efaa89df392f.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1TgnV6iE8P/",
+   "uploadDate": "2026-10-18",
+   "dateLabel": "2026.10.18 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1kb41137Wi",
+   "title": "【東啓介】D-LINE LIVE 東啓介「カラーオブライフSP！」",
+   "channel": "4xx___",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1kb41137Wi/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/5eb698eb378eac67b18fc9ae37282f5b67cbe59a.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1kb41137Wi/",
+   "uploadDate": "2019-04-21",
+   "dateLabel": "2019.04.21 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1pb411j7xG",
+   "title": "【中尾暢樹 東啓介】D- LINE LIVE#35 中尾暢樹 ゲスト:東啓介",
+   "channel": "4xx___",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1pb411j7xG/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/9a200a95c65782b29b7d420616d830f3cd1d0fe3.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1pb411j7xG/",
+   "uploadDate": "2019-04-15",
+   "dateLabel": "2019.04.15 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1mx411p7Mg",
+   "title": "東啓介×納谷健 【僕らの休憩室】Room1",
+   "channel": "三千吉彩花",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1mx411p7Mg/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/2055cce10e4681ab46587fdd2bb9ab04d5ae4570.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1mx411p7Mg/",
+   "uploadDate": "2017-08-07",
+   "dateLabel": "2017.08.07 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1sx411x7af",
+   "title": "【タウンワーク】東啓介×納谷健 の猫クイズ!!＠猫カフェバイト【僕らの休憩室】Room1  東啓介×納谷健 インタビュー 丨タウンワークマガジン",
+   "channel": "柊无痕",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1sx411x7af/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/d04d8d37bfdb09314f7d804d22764f83cfd73788.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1sx411x7af/",
+   "uploadDate": "2017-09-22",
+   "dateLabel": "2017.09.22 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1rm4y1T7A5",
+   "title": "【熟】君泽的部屋第一期+未公开 GUEST：东启介&佐藤流司",
+   "channel": "新宿小市民",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV1rm4y1T7A5/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/9c0e0b97af3bfd51de4b99225f92e9be0f67e42e.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1rm4y1T7A5/",
+   "uploadDate": "2023-08-31",
+   "dateLabel": "2023.08.31 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1coreBqE3o",
+   "title": "【中字】东启介的摄影之旅#1",
+   "channel": "十字工会小记事员",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1coreBqE3o/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/0f8e72ea5202bc7474c1175ba1237fdaf29aa64f.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1coreBqE3o/",
+   "uploadDate": "2026-01-12",
+   "dateLabel": "2026.01.12 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1GeJzzwEWR",
+   "title": "【日综】甲斐翔真/松下优也/东启介/有泽樟太郎 - 音乐剧世界 2025.5.21",
+   "channel": "kamiliaeyeland",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1GeJzzwEWR/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/1121b2b7d5b49ab613a94a81e765c5f7e3393c22.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1GeJzzwEWR/",
+   "uploadDate": "2025-05-21",
+   "dateLabel": "2025.05.21 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1aqet6nE3C",
+   "title": "【中日字幕】大家都被衍生剧的红猫帅哭了！东启介(岭高华武利)instagram直播2026.9.19",
+   "channel": "航海水上ライオン連合",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1aqet6nE3C/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/afed846a683f8eaae9672bd8502410d4bc872f82.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1aqet6nE3C/",
+   "uploadDate": "2026-09-19",
+   "dateLabel": "2026.09.19 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1D9gk6aEg3",
+   "title": "【中日字幕】原来30多岁也能当骑士啊 东启介(假面骑士红猫/岭高华武利)instagram直播 2026.7.22【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1D9gk6aEg3/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/647852bf5268ad028c8b08968ea4dbb00926d91e.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1D9gk6aEg3/",
+   "uploadDate": "2026-07-22",
+   "dateLabel": "2026.07.22 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1H3nX6MEzt",
+   "title": "【中日字幕】东启介(岭高华武利):红猫戏服有多重？腰带试玩大翻车？演员也在猜结局！新写真集发售！instagram直播2026.10.25【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1H3nX6MEzt/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/61b8045e57d40fd1371221be326e63c0b818e62c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1H3nX6MEzt/",
+   "uploadDate": "2026-10-25",
+   "dateLabel": "2026.10.25 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1k7411z7HT",
+   "title": "【自制字幕】爷爷的刀帐S1-03A-2.5次元男子推TV第一季03特典（铃木拡树x东啓介）",
+   "channel": "新米练习菌",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1k7411z7HT/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/9f8d03f0b80af4f2b111665eb316ea3aa3e00a6c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1k7411z7HT/",
+   "uploadDate": "2020-01-29",
+   "dateLabel": "2020.01.29 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
+  },
+  {
+   "id": "BV1hE411Y72Q",
+   "title": "東啓介の「よるステ！」 ゲスト：植田圭輔",
+   "channel": "VOCALOIDの生放送",
+   "type": "广播／音声",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1hE411Y72Q/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/5ee848341ece43c2622c8f9d143ae7ba217ffccb.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.17补充",
+   "source": "https://www.bilibili.com/video/BV1hE411Y72Q/",
+   "uploadDate": "2019-11-10",
+   "dateLabel": "2019.11.10 B站上传",
+   "asset": "",
+   "duration": "",
+   "available": true
   }
  ],
  "playlists": [
@@ -18810,8 +20788,8 @@ window.ARCHIVE = {
  ],
  "stats": {
   "magazines": 79,
-  "events": 329,
-  "videos": 365,
+  "events": 330,
+  "videos": 426,
   "playlists": 26,
   "series": 36,
   "qj": 29,

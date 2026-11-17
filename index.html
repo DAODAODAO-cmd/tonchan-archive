@@ -131,6 +131,8 @@ section.sec{padding:34px 0}
 .tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}
 .tabs button{border:0;padding:9px 18px;border-radius:999px;background:var(--card);color:var(--muted);font-size:13.5px;box-shadow:0 1px 2px rgba(0,0,0,.05);transition:.2s}
 .tabs button.on{background:var(--sage);color:#fff;box-shadow:0 6px 16px rgba(127,156,136,.35)}
+.tabs button.sm{padding:6px 12px;font-size:12px;box-shadow:none;background:transparent}.tabs button.sm.on2{background:var(--ink);color:#fff}
+.works.ls .w .img{aspect-ratio:16/10}.works.ls .w .img img{object-position:center}
 .tabs button small{opacity:.7;margin-left:4px;font-size:11px}
 .works{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
 @media(max-width:900px){.works{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:560px){.works{grid-template-columns:1fr}}
@@ -232,7 +234,7 @@ footer p{margin:4px 0}
 <nav class="nav"><div class="wrap">
   <a class="logo" href="#top"><span>東</span>东启介 资讯站</a>
   <div class="pills" id="pills">
-    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边</a><a href="#profile">个人资料</a><a href="#links">官方渠道</a><a class="arch" href="archive.html">编年档案 →</a>
+    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边</a><a href="#profile">个人资料</a><a href="#links">官方渠道</a><a class="arch" href="list.html?g=all">编年档案 →</a>
   </div>
 </div></nav>
 
@@ -345,7 +347,7 @@ $('recent').innerHTML=H.recent.map(r=>'<a class="card rc" href="'+esc(r.url)+'" 
 
 /* upcoming：从编年档案自动读取未来/进行中的条目 */
 const up=A.events.filter(e=>e.date>=today||(e.end&&e.end>=today)).filter(e=>!/联动|轨迹展|感謝の宴|放送|配信/.test(e.title)).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,6);
-$('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="archive.html#'+esc(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese)+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
+$('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="list.html?g=all#'+esc(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese)+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
 
 /* news */
 const tags=['全部',...new Set(H.news.map(n=>n.tag))];let curTag='全部';
@@ -358,15 +360,16 @@ $('miniMedia').innerHTML=media.map(e=>'<li><a href="'+esc(e.url)+'" target="_bla
 const groups=[
   {k:'stage',t:'舞台',cats:['舞台','朗读剧']},
   {k:'screen',t:'影视',cats:['电视剧','网络剧','电影','动画电影']},
+  {k:'live',t:'音乐会',cats:['音乐会']},
   {k:'mag',t:'杂志',cats:['杂志']},
-  {k:'photo',t:'写真·出版',cats:['写真／出版']},
-  {k:'int',t:'采访·连载',cats:['采访／连载','本人摄影／随笔']},
-  {k:'radio',t:'广播',cats:['广播／音声']},
-  {k:'variety',t:'综艺·节目',cats:['电视节目']},
-  {k:'live',t:'音乐会·活动',cats:['音乐会','活动']}
+  {k:'int',t:'采访·连载',cats:['采访／连载','本人摄影／随笔'],ls:1},
+  {k:'radio',t:'广播',cats:['广播／音声'],ls:1},
+  {k:'variety',t:'综艺·节目',cats:['电视节目'],ls:1},
+  {k:'photo',t:'写真·DVD',cats:['写真／出版']},
+  {k:'event',t:'活动·周边',cats:['活动'],ls:1}
 ];
 let curG='stage';
-function drawWorks(){const g=groups.find(x=>x.k===curG);const all=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
+function drawWorks(){const g=groups.find(x=>x.k===curG);$('worksGrid').className='works'+(g.ls?' ls':'');const all=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
   const withImg=all.filter(e=>e.images&&e.images.length&&e.date<=today||e.images&&e.images.length&&e.date>today);let pick=withImg.slice(0,6);if(pick.length<6)pick=pick.concat(all.filter(e=>!pick.includes(e)).slice(0,6-pick.length));pick.sort((a,b)=>b.date.localeCompare(a.date));
   $('worksGrid').innerHTML=pick.map(e=>{const im=e.images[0];return '<a class="card w" href="list.html?g='+curG+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'" alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
   $('worksMore').href=$('worksMore2').href='list.html?g='+curG;$('worksMore2').textContent='查看全部 '+all.length+' 条 '+g.t+' →';
@@ -374,14 +377,12 @@ function drawWorks(){const g=groups.find(x=>x.k===curG);const all=A.events.filte
 $('workTabs').onclick=e=>{const b=e.target.closest('button');if(b){curG=b.dataset.k;drawWorks()}};drawWorks();
 
 /* videos */
-let curV='me';
-const isMe=v=>/東\s?啓介|东启介|Higashi|ひがし|あさステ|WE25|聴活|カメラ旅/i.test(v.title+' '+(v.rel||''))||/ワタナベエンターテインメント/.test(v.channel||'');
-const vf=(k,v)=>k==='me'?isMe(v):k==='yt'?(v.platform||'YouTube')==='YouTube':k==='nico'?v.platform==='niconico':v.platform==='B站';
+const VT={'全部':null,'舞台·演出':['舞台／剧集','演出／歌唱'],'采访':['采访／发布会'],'节目·综艺':['节目／其他'],'幕后':['幕后／拍摄']};let curV='全部',curP='全平台';
 function vdate(v){return v.uploadDate||(v.years&&v.years[0])||''}
-function drawVids(){const list=A.videos.filter(v=>vf(curV,v)).sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,8);
-  $('vidGrid').innerHTML=list.map(v=>{const th=v.asset&&A.assets[v.asset]||v.thumbnail;return '<a class="card v" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="th">'+(th?'<img src="'+esc(th)+'" alt="" loading="lazy">':'<div class="bili">'+esc(v.platform||'video')+'</div>')+'<span class="pf">'+esc(v.type||'')+'</span></div><div class="b"><b>'+esc(v.title)+'</b><small>'+esc(v.channel)+(vdate(v)?' · '+esc(fmt(vdate(v))):'')+'</small></div></a>'}).join('');
-  $('vidTabs').innerHTML=[['me','本人出镜'],['yt','YouTube'],['bili','B站'],['nico','niconico']].map(([k,t])=>'<button class="'+(k===curV?'on':'')+'" data-k="'+k+'">'+t+'<small>'+A.videos.filter(v=>vf(k,v)).length+'</small></button>').join('')}
-$('vidTabs').onclick=e=>{const b=e.target.closest('button');if(b){curV=b.dataset.k;drawVids()}};drawVids();
+function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(v.type))&&(curP==='全平台'||(v.platform||'YouTube')===curP)).sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,8);
+  $('vidGrid').innerHTML=list.map(v=>{const th=v.asset&&A.assets[v.asset]||v.thumbnail;return '<a class="card v" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="th">'+(th?'<img src="'+esc(th)+'" alt="" loading="lazy">':'<div class="bili">'+esc(v.platform||'video')+'</div>')+'<span class="pf">'+esc(v.platform||'YouTube')+'</span></div><div class="b"><b>'+esc(v.title)+'</b><small>'+esc(v.channel)+(vdate(v)?' · '+esc(fmt(vdate(v))):'')+'</small></div></a>'}).join('');
+  $('vidTabs').innerHTML=Object.keys(VT).map(k=>'<button class="'+(k===curV?'on':'')+'" data-k="'+k+'">'+k+'</button>').join('')+'<span style="flex:1"></span>'+['全平台','YouTube','B站','niconico'].map(k=>'<button class="sm'+(k===curP?' on2':'')+'" data-p="'+k+'">'+k+'</button>').join('')}
+$('vidTabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.k)curV=b.dataset.k;if(b.dataset.p)curP=b.dataset.p;drawVids()};drawVids();
 
 /* goods */
 $('goodsGrid').innerHTML=H.goods.map(g=>'<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy">':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span>':'')+'<h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul><a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">查看详情 ↗</a></div></article>').join('');
