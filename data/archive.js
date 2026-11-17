@@ -93,7 +93,7 @@ window.ARCHIVE = {
    "workRoma": "SEIGAKU vs SHITENHOJI",
    "roleName": "千岁千里",
    "cardPoster": "assets/img/roles/e1_poster.jpg",
-   "cardPhoto": "assets/img/roles/e1_photo.jpg"
+   "cardPhoto": "https://www.tennimu.com/second/img/cast_2nd/shitenhoji/shitenhoji_chitose.jpg"
   },
   {
    "id": "e2",
@@ -478,6 +478,16 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.nntt.jac.go.jp/performance/rent/%E5%85%AB%E9%9B%B2%E6%9C%AC%E3%83%81%E3%83%A9%E3%82%B7%E8%A1%A8.jpg",
+     "caption": "正式宣传单（正面）",
+     "source": "新国立劇場"
+    },
+    {
+     "url": "https://web.archive.org/web/2023im_/https://sumabo.jp/smartboys/news/wp-content/uploads/2015/02/150211_KU_0403.jpg",
+     "caption": "舞台照：织田亮",
+     "source": "スマートボーイズ"
     }
    ],
    "videos": [],
@@ -487,8 +497,8 @@ window.ARCHIVE = {
    "roleRoma": "ODA RYO",
    "workRoma": "INORI NO HITSUGI",
    "roleName": "织田亮",
-   "cardPoster": "assets/img/roles/e5_poster.jpg",
-   "cardPhoto": "assets/img/roles/e5_photo.jpg"
+   "cardPoster": "https://www.nntt.jac.go.jp/performance/rent/%E5%85%AB%E9%9B%B2%E6%9C%AC%E3%83%81%E3%83%A9%E3%82%B7%E8%A1%A8.jpg",
+   "cardPhoto": "https://web.archive.org/web/2023im_/https://sumabo.jp/smartboys/news/wp-content/uploads/2015/02/150211_KU_0403.jpg"
   },
   {
    "id": "am_ayakashi_bro1",
@@ -595,6 +605,11 @@ window.ARCHIVE = {
      "source": "https://animeanime.jp/article/2015/05/26/23417.html",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.marv.jp/special/m-hakuoki-reimeiroku/images/cast/harada.jpg",
+     "caption": "角色照：原田左之助",
+     "source": "Marvelous 官网"
     }
    ],
    "videos": [],
@@ -605,7 +620,7 @@ window.ARCHIVE = {
    "workRoma": "REIMEIROKU",
    "roleName": "原田左之助",
    "cardPoster": "assets/img/roles/e6_poster.jpg",
-   "cardPhoto": "assets/img/roles/e6_photo.jpg"
+   "cardPhoto": "https://www.marv.jp/special/m-hakuoki-reimeiroku/images/cast/harada.jpg"
   },
   {
    "id": "e7",
@@ -660,7 +675,7 @@ window.ARCHIVE = {
    "workRoma": "RASPBERRY BOY 2",
    "roleName": "小林淕",
    "cardPoster": "assets/img/roles/e7_poster.jpg",
-   "cardPhoto": "assets/img/roles/e7_photo.jpg"
+   "cardPhoto": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134729.jpg"
   },
   {
    "id": "am_tencho15",
@@ -15227,6 +15242,16 @@ window.ARCHIVE = {
      "source": "https://bluelock-movie.jp/",
      "asset": "37a94da506481fff",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/comic/2026/0513/BL_teaser.jpg",
+     "caption": "新ティザービジュアル",
+     "source": "コミックナタリー"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2026/0513/bluelock-movie_20260513_02.jpg",
+     "caption": "追加キャスト角色视觉（右上为馬狼照英）",
+     "source": "コミックナタリー"
     }
    ],
    "videos": [
@@ -15272,7 +15297,10 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "BAROU SHOEI",
    "workRoma": "BLUE LOCK",
-   "roleName": "马狼照英"
+   "roleName": "马狼照英",
+   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2026/0513/BL_teaser.jpg",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2026/0513/bluelock-movie_20260513_02.jpg",
+   "cardPhotoBg": "100% 0% / 320% auto"
   },
   {
    "id": "mag_pash2609",
