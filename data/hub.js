@@ -839,6 +839,17 @@ window.HUB = {
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21232/"
   },
   {
+   "date": "2026-10-17",
+   "title": "DX Maou Blade",
+   "price": "5,830円（含税）",
+   "publisher": "万代 BANDAI",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000257518_1.jpg",
+   "points": [
+    "Maou的剑单卖版"
+   ],
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21233/"
+  },
+  {
    "date": "2027-03",
    "title": "S.H.Figuarts 假面骑士Maou",
    "price": "9,900円（含税）",
@@ -850,27 +861,76 @@ window.HUB = {
    "url": "https://tamashiiweb.com/item/16020/"
   },
   {
-   "date": "2026-09-15",
-   "title": "岭高华武利 猫・猫眼戒指",
+   "date": "2026-09-06",
+   "title": "岭高华武利 猫 尾戒",
    "price": "",
    "publisher": "Premium Bandai",
-   "image": "",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256614_1.jpg",
    "points": [
-    "剧中华武利戴的猫戒指，有尾戒和“猫眼”两款",
-    "Premium Bandai 受注"
+    "剧中华武利戴的细款猫戒指",
+    "9/6开订，11/10起又开了一轮受注"
    ],
-   "url": "https://p-bandai.jp/item/item-1000261104/"
+   "url": "https://p-bandai.jp/item/item-1000256614/"
   },
   {
-   "date": "2026",
+   "date": "2026-09-06",
+   "title": "岭高华武利 猫眼戒指",
+   "price": "",
+   "publisher": "Premium Bandai",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256611_1.jpg",
+   "points": [
+    "戒面是黑底猫剪影的那款",
+    "和尾戒同一批开订"
+   ],
+   "url": "https://p-bandai.jp/item/item-1000256611/"
+  },
+  {
+   "date": "2026-08-28",
    "title": "Hero T恤（假面骑士Maou）",
    "price": "",
    "publisher": "Premium Bandai",
-   "image": "",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_1.jpg",
    "points": [
+    "黑底，印的是Maou",
     "Premium Bandai 受注"
    ],
    "url": "https://p-bandai.jp/item/item-1000256283/"
+  },
+  {
+   "date": "2026-09-04",
+   "title": "亚克力手机支架（假面骑士Maou）",
+   "price": "550円（含税）",
+   "publisher": "假面骑士商店 东京店・名古屋店",
+   "image": "https://pbs.twimg.com/media/HRGk9GCbIAELQsv?format=jpg&name=large",
+   "points": [
+    "店铺限定，带钥匙扣，可以立手机",
+    "Myth、Nox、Dawn也有"
+   ],
+   "url": "https://x.com/KamenRiderStore/status/2094696768076464195"
+  },
+  {
+   "date": "2026-09-06",
+   "title": "朝日电视台限定 亚克力钥匙扣（假面骑士Maou）",
+   "price": "",
+   "publisher": "テレアサショップ 六本木店・东京站店",
+   "image": "https://pbs.twimg.com/media/HRRe1m1bgAAjejN?format=jpg&name=large",
+   "points": [
+    "只在テレアサショップ两家店卖",
+    "Myth、Kuroneko也有"
+   ],
+   "url": "https://x.com/tv_asahi_shop/status/2096395455735455915"
+  },
+  {
+   "date": "2026-11-14",
+   "title": "Rider Hero Series 重涂装版（假面骑士Maou）",
+   "price": "",
+   "publisher": "假面骑士商店",
+   "image": "https://pbs.twimg.com/media/HXIcutXaYAEjrFJ?format=jpg&name=large",
+   "points": [
+    "店铺原创，和Rido一起加入",
+    "盒背的图也好看，可以连盒摆"
+   ],
+   "url": "https://x.com/KamenRiderStore/status/2121790031400783919"
   }
  ],
  "channels": {
