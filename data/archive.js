@@ -13941,12 +13941,19 @@ window.ARCHIVE = {
    "role": "嘉宾：东启介",
    "crew": "",
    "key": "",
-   "url": "https://soundimagine.hatenablog.com/entry/2025/03/16/000000",
-   "note": "21:00–21:50。",
+   "url": "https://www.nhk.jp/p/nozomi-sound/rs/MV9NX987XX/episode/re/B41JPMJQL2/",
+   "note": "NHK-FM「望海风斗的Sound Imagine」#84，嘉宾东启介。",
    "status": "",
    "origin": "补充检索",
-   "dateKind": "节目播出日",
+   "dateKind": "day",
    "images": [
+    {
+     "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/B41JPMJQL2/B41JPMJQL2-eyecatch_028dfa01d40be52939e83f203e3a5916.jpg",
+     "caption": "节目主视觉",
+     "source": "https://www.nhk.jp/p/nozomi-sound/rs/MV9NX987XX/episode/re/B41JPMJQL2/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://ogimage.blog.st-hatena.com/6802418398513148452/6802418398529815452/1754977546",
      "caption": "文章配图",
@@ -13956,7 +13963,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "音声",
    "playlistLinks": []
   },
