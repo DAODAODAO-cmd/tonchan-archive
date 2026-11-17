@@ -13356,7 +13356,12 @@ window.ARCHIVE = {
      "resolution": "3000 × 843"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "全集（B站）",
+     "url": "https://www.bilibili.com/video/BV1zFdABLETp/"
+    }
+   ],
    "biliLinks": [
     {
      "url": "https://www.bilibili.com/video/BV1JXCRYMEQX/",
@@ -29054,6 +29059,26 @@ window.ARCHIVE = {
    "uploadDate": "2024-12-28",
    "contentDate": "2024-12-12",
    "dateLabel": "2024.12.28 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1zFdABLETp",
+   "title": "《我、我喜欢的他，以及你。》全集（ぼくとぼくが好きな彼と、君と。）",
+   "channel": "__娜乌西卡__",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1zFdABLETp/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/1a3375c734ebb565bded7d4cbc8ee7caa9b67756.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1zFdABLETp/",
+   "uploadDate": "2026-05-07",
+   "contentDate": "2024-12-11",
+   "dateLabel": "2026.05.07 B站上传",
    "asset": ""
   }
  ],
