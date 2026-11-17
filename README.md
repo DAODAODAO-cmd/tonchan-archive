@@ -12,34 +12,7 @@
 
 ---
 
-## 一、第一次挂到 GitHub Pages
-
-方法 A：GitHub Desktop（最省事）
-
-1. 安装 GitHub Desktop，登录 GitHub 账号。
-2. File → Add local repository → 选择 `higashi-keisuke-hub` 文件夹。提示“不是仓库”时点 **create a repository**。
-3. 点 **Publish repository**，取消勾选 “Keep this code private”（Pages 免费版需要公开仓库）。
-4. 打开 GitHub 网页上的仓库 → Settings → Pages → Source 选 **Deploy from a branch**，Branch 选 `main` / `/ (root)` → Save。
-5. 等 1–2 分钟，网址是 `https://你的用户名.github.io/higashi-keisuke-hub/`。
-
-方法 B：命令行
-
-```bash
-cd higashi-keisuke-hub
-git init -b main
-git add .
-git commit -m "first publish"
-git remote add origin https://github.com/你的用户名/higashi-keisuke-hub.git
-git push -u origin main
-```
-
-然后同样在 Settings → Pages 里开启。
-
-> 网页上传也可以，但 `assets/img` 有 400 多张图，网页一次最多传 100 个文件，所以更推荐 A 或 B。
-
----
-
-## 二、日常更新
+## 日常更新
 
 改完文件后，在 GitHub Desktop 里写一句说明 → **Commit** → **Push**，网站 1–2 分钟后自动更新。
 
@@ -94,7 +67,3 @@ B站视频把 `platform` 改成 `"B站"`，`url` 写 `https://www.bilibili.com/v
 - 本人 X / Instagram 的日常内容不搬运，只在“官方渠道指路”里放链接。
 
 ---
-
-## 三、改完先本地看一眼
-
-双击 `index.html` 用浏览器打开。页面空白通常是 `hub.js` 或 `archive.js` 里少了逗号或引号：按 F12 打开 Console，看报错在第几行。

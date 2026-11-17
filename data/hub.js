@@ -66,7 +66,8 @@ window.HUB = {
         "预演 11/10 · 明治座",
         "东京 11/11–11/29 · 明治座",
         "大阪 12/6–12/23 · 新歌舞伎座",
-        "东京凯旋 12/29–12/31 · SGC HALL ARIAKE"
+        "东京凯旋 12/29–12/31 · SGC HALL ARIAKE",
+        "线上配信 11/11 · 12/30 · 12/31"
       ],
       note: "凯旋公演有“岁末感谢·开运巡游”企画，入场送开运团扇。东京公演有当日引换券和当日券（抽选）。Blu-ray/DVD 2027年5月19日发售。",
       links: [
@@ -100,11 +101,14 @@ window.HUB = {
   recent: [
     { title: "舞台《王者天下Ⅱ：继承》", role: "庞煖", date: "2026/8/9–10/13", image: "https://www.tohostage.com/kingdom2/images/gallery_solo_higashi.jpg", imageNote: "官网舞台剧照", url: "https://www.tohostage.com/kingdom2/" },
     { title: "电影《蓝色监狱》", role: "马狼照英", date: "2026/8/7 上映", image: "assets/img/37a94da506481fff.jpg", imageNote: "官方宣传图", url: "https://bluelock-movie.jp/" },
-    { title: "《SWAN：Ballet cross Reading》", role: "草壁飞翔", date: "2026/9/4–9/9", image: "", imageNote: "", url: "https://www.youtube.com/watch?v=8X39E1Z6TOc" }
+    { title: "《SWAN：Ballet cross Reading》", role: "草壁飞翔", date: "2026/9/4–9/9", image: "https://swan-balletcrossreading.com/images/top/cast_img3-1.jpg", imageNote: "官网演员照", url: "https://swan-balletcrossreading.com/" }
   ],
 
   /* 最新动态：新的放最上面。tag 可用：舞台 影视 采访 杂志 广播 综艺 周边 活动 */
   news: [
+    { date: "2026-11-15", tag: "活动", title: "确定出演《超英雄祭2027》DAY2（2027/1/21 横滨Arena）", text: "以岭高华武利／假面骑士Maou身份与《麦斯》演员同台；门票 11/15 起一般发售。", url: "https://www.tv-asahi.co.jp/my-th/eiyusai2027/" },
+    { date: "2026-11-02", tag: "周边", title: "WE官方生写真〈2026年11月〉开放预约", text: "Watanabe商店（7net）受理至11/15，12/2前后发货。", url: "https://x.com/we_goods_info/status/2117089419144622119" },
+    { date: "2026-10-18", tag: "综艺", title: "《玉城裕规的月下美人》第八十三夜 7周年BBQ特别篇 嘉宾出演", text: "与和田琢磨一同作为嘉宾；niconico 有前10分钟免费片段。", url: "https://www.nicovideo.jp/watch/so46942722" },
     { date: "2026-11-16", tag: "采访", title: "刀舞《陽伝》官网更新媒体露出一览", text: "收录各媒体陽伝相关采访的发布日期和链接，会持续追加。", url: "https://stage-toukenranbu.jp/news/hiden2/4184" },
     { date: "2026-11-12", tag: "影视", title: "街机《假面骑士 Ganba Legends》第5弹上线，假面骑士Maou参战", text: "维基记载本人担任Maou语音；万代官方宣传片已公开。", url: "https://www.youtube.com/watch?v=9VPedwZW6vg" },
     { date: "2026-11-10", tag: "舞台", title: "刀舞《陽伝》预演开幕；Blu-ray/DVD定于2027年5月19日发售", text: "东启介时隔八年再演烛台切光忠。前后编二部作，演至12月31日。", url: "https://stage-toukenranbu.jp/stage/" },
@@ -116,13 +120,25 @@ window.HUB = {
     { date: "2026-10-13", tag: "舞台", title: "《王者天下Ⅱ：继承》博多座千秋乐，全公演结束", text: "东京、大阪、福冈三地巡演，饰庞煖。", url: "https://www.tohostage.com/kingdom2/" },
     { date: "2026-10-01", tag: "杂志", title: "《宇宙船》vol.194｜《假面骑士麦斯》专访", text: "东启介专访在第41页，另附Maou海报。", url: "https://www.uchusen-mag.jp/" },
     { date: "2026-09-06", tag: "影视", title: "《假面骑士麦斯》开播", text: "每周日9:00，朝日电视台系列。", url: "https://www.tv-asahi.co.jp/my-th/" },
+    { date: "2026-09-05", tag: "采访", title: "STREAM｜东启介《SWAN》专访", text: "「人生只有一次，不管失败与否，笔直奔跑的样子很帅」。", url: "https://strmweb.jp/archives/22701/" },
+    { date: "2026-08-31", tag: "采访", title: "演剧媒体Audience｜东启介×西野辽《SWAN》对谈", text: "目标是“跨越芭蕾与戏剧界线的瞬间”。", url: "https://engeki-audience.com/article/detail/23194/" },
     { date: "2026-09-02", tag: "采访", title: "Animate Times｜华武利与Maou的“顽皮魅力”", text: "谈角色存在感、和皮套演员的配合，以及第一次拍特摄的体验。", url: "https://www.animatetimes.com/news/details.php?id=1788235894" },
+    { date: "2026-07-10", tag: "采访", title: "《SWAN》官方演员访谈视频公开", text: "东启介谈草壁飞翔一角。", url: "https://www.youtube.com/watch?v=0hsF8IqwY1o" },
     { date: "2026-08-09", tag: "舞台", title: "《王者天下Ⅱ：继承》开幕", text: "Brillia HALL，饰庞煖。", url: "https://www.tohostage.com/kingdom2/" },
     { date: "2026-08-07", tag: "影视", title: "电影《蓝色监狱》上映", text: "饰马狼照英。", url: "https://bluelock-movie.jp/" }
   ],
 
   /* 周边与商品 */
   goods: [
+    {
+      title: "WE官方生写真〈2026年11月〉",
+      date: "2026-12-02",
+      price: "800日元（含税）",
+      publisher: "ワタナベ商店（7net）",
+      image: "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+      points: ["预约期 11/2 12:00–11/15 23:59（已截止）", "12月2日前后发货", "WE官方生写真每月发售，新一期见 7net 专页"],
+      url: "https://7net.omni7.jp/general/watanabeprobro.html"
+    },
     {
       title: "东启介最新写真集（暂定名）",
       date: "2027-01-08",
@@ -172,6 +188,15 @@ window.HUB = {
       image: "",
       points: ["《假面骑士麦斯》假面骑士Maou的变身玩具；官方TVCM见视频栏"],
       url: "https://www.youtube.com/watch?v=baMEfVIuI-w"
+    },
+    {
+      title: "过往写真集与日历写真书",
+      date: "",
+      price: "",
+      publisher: "写真集 · 日历书",
+      image: "https://tshop.r10s.jp/book/cabinet/8492/9784048968492.jpg?downsize=600:*",
+      points: ["1st写真集《K》2017/3/15（Pony Canyon）", "写真集《何色》2021/3/10（KADOKAWA）", "日历写真书 2021、2023、2024、2025 年度版", "详细在“作品与媒体露出 → 写真·出版”"],
+      url: "archive.html?cat=%E5%86%99%E7%9C%9F%EF%BC%8F%E5%87%BA%E7%89%88"
     }
   ],
 
@@ -182,12 +207,19 @@ window.HUB = {
       { name: "Instagram", handle: "keisuke_higashi_official", url: "https://www.instagram.com/keisuke_higashi_official/", note: "照片与直播" },
       { name: "官方粉丝俱乐部", handle: "waction.jp", url: "https://waction.jp/higashi_keisuke/", note: "Making of Higashi、さえずり、FC票务先行（会员内容不转载）" },
       { name: "事务所资料页", handle: "Watanabe Ent.", url: "https://www.watanabepro.co.jp/mypage/10000062/", note: "最新出演情报与经历" },
+      { name: "WE Goods Info（X）", handle: "@we_goods_info", url: "https://x.com/we_goods_info", note: "事务所官方周边：生写真等预约告知" },
+      { name: "WE官方生写真（每月）", handle: "7net · ワタナベ商店", url: "https://7net.omni7.jp/general/watanabeprobro.html", note: "每月新作生写真套装，限期预约" },
+      { name: "We!プレ（X）", handle: "@wepremium", url: "https://x.com/wepremium", note: "事务所会员先行票务等资讯" },
       { name: "事务所公演日程", handle: "LIVE SCHEDULE", url: "https://www.watanabepro.co.jp/liveinfo/?artist_id=10000062", note: "按日查看演出" }
     ],
     works: [
       { name: "舞台《刀剑乱舞》", url: "https://stage-toukenranbu.jp/" },
       { name: "假面骑士麦斯 · 朝日电视台", url: "https://www.tv-asahi.co.jp/my-th/" },
-      { name: "华武利角色页 · 演员博客", url: "https://www.tv-asahi.co.jp/my-th/character/minetaka/" },
+      { name: "华武利角色页", url: "https://www.tv-asahi.co.jp/my-th/character/minetaka/" },
+      { name: "麦斯演员博客（东启介）", url: "https://www.tv-asahi.co.jp/my-th/castblog/0016/" },
+      { name: "《SWAN》官网", url: "https://swan-balletcrossreading.com/" },
+      { name: "超英雄祭2027 官网", url: "https://www.tv-asahi.co.jp/my-th/eiyusai2027/" },
+      { name: "TV指南PERSON / Stage Stars（X）", url: "https://x.com/TVguidePERSON" },
       { name: "电影《蓝色监狱》", url: "https://bluelock-movie.jp/" },
       { name: "写真集 · 东京新闻通信社", url: "https://zasshi.tv/products/62295/" },
       { name: "《Nostalgic Cabaret》· 东宝", url: "https://www.tohostage.com/nostalgic_cabaret/" },
