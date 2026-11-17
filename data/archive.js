@@ -11481,6 +11481,13 @@ window.ARCHIVE = {
    "dateKind": "节目播出日",
    "images": [
     {
+     "url": "assets/img/byMYSELF.png",
+     "caption": "节目主视觉",
+     "source": "https://www.tbsradio.jp/myself/",
+     "asset": "",
+     "resolution": "480×300"
+    },
+    {
      "url": "https://prcdn.freetls.fastly.net/release_image/3392/1234/3392-1234-e35a15cc62844d562405e60eb4ff71e5-1800x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
      "caption": "文章配图",
      "source": "https://prtimes.jp/main/html/rd/p/000001234.000003392.html",
