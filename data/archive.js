@@ -5014,6 +5014,13 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg",
+     "caption": "剧照",
+     "source": "https://natalie.mu/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -6393,6 +6400,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/m2tba8Iucgc/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=m2tba8Iucgc",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw048.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/428/",
@@ -6571,6 +6585,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/D8r_YIZdwKo/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=D8r_YIZdwKo",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw057.jpg",
      "caption": "文章配图",
@@ -6774,6 +6795,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/Lv43RfFRTWQ/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=Lv43RfFRTWQ",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw065.jpg",
      "caption": "文章配图",
@@ -7020,6 +7048,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/g_c_Jd-hP-s/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=g_c_Jd-hP-s",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw070.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/431/",
@@ -7049,6 +7084,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/fqUcGg5xT4c/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=fqUcGg5xT4c",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw081.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/432/",
@@ -7077,6 +7119,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/zxJbIxqUQQA/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=zxJbIxqUQQA",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw091.jpg",
      "caption": "文章配图",
@@ -7214,6 +7263,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/c32MiGQ1TU4/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=c32MiGQ1TU4",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw099.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/434/",
@@ -7242,6 +7298,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/G6j0IAGTyeo/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=G6j0IAGTyeo",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw108-.jpg",
      "caption": "文章配图",
@@ -7297,6 +7360,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/8e89uK54WzM/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=8e89uK54WzM",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw116.jpg",
      "caption": "文章配图",
@@ -7355,6 +7425,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/CpOeZw7xdfI/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=CpOeZw7xdfI",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw129-.jpg",
      "caption": "文章配图",
@@ -7424,6 +7501,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/GuadtzQB2hk/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=GuadtzQB2hk",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw136.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/438/",
@@ -7491,6 +7575,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/TpT8FYN34KM/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=TpT8FYN34KM",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw147-.jpg",
      "caption": "文章配图",
@@ -7604,6 +7695,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/jWnhuhqT6eM/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=jWnhuhqT6eM",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw158-.jpg",
      "caption": "文章配图",
@@ -7795,6 +7893,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/FEE1_Qv7_z8/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=FEE1_Qv7_z8",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw170-.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/441/",
@@ -7852,6 +7957,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/bKDc2nBMjCI/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=bKDc2nBMjCI",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw177.jpg",
      "caption": "文章配图",
@@ -7911,6 +8023,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/v1WiOhXxrKs/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=v1WiOhXxrKs",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw190.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/443/",
@@ -7939,6 +8058,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/-VaB-PyP45w/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=-VaB-PyP45w",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw202.jpg",
      "caption": "文章配图",
@@ -8033,6 +8159,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/8ZAyaIiJNqo/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=8ZAyaIiJNqo",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw211.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/445/",
@@ -8061,6 +8194,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/7pBIWfTaqa8/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=7pBIWfTaqa8",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw221.jpg",
      "caption": "文章配图",
@@ -8126,6 +8266,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/Xpp8LPJoAFE/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=Xpp8LPJoAFE",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw227.jpg",
      "caption": "文章配图",
@@ -8278,6 +8425,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/pTxL13o0bgY/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=pTxL13o0bgY",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw246.jpg",
      "caption": "文章配图",
@@ -8448,6 +8602,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/ho0hiqBIXgU/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=ho0hiqBIXgU",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw260.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/449/",
@@ -8534,6 +8695,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/jLyDkvV-6GY/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=jLyDkvV-6GY",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw268.jpg",
      "caption": "文章配图",
@@ -8650,6 +8818,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/iSqhV-1rh_s/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=iSqhV-1rh_s",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw282.jpg",
      "caption": "文章配图",
@@ -8864,6 +9039,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/7KZxVqBX6YI/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=7KZxVqBX6YI",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/ZZZ4517.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/768/",
@@ -8957,6 +9139,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/EcMsPSkyTgM/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=EcMsPSkyTgM",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
      "caption": "文章内配图",
@@ -9107,6 +9296,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/DTgGuFOh2M0/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=DTgGuFOh2M0",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/03/higashi_26_01-scaled.jpeg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/2814/",
@@ -9213,6 +9409,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/FzT86mItZs8/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=FzT86mItZs8",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/04/★ITB_1243-scaled.jpg",
      "caption": "文章内配图",
@@ -9350,6 +9553,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/K2ZQXZYObeM/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=K2ZQXZYObeM",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/05/TTB_20201006_02579r-scaled.jpg",
      "caption": "文章内配图",
@@ -9596,6 +9806,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=kpGo2_d3oYE",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/06/『リトル・マーメイド』新メインビジュアル-scaled.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/4904/",
@@ -9775,6 +9992,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/ETfpNX6oHuU/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=ETfpNX6oHuU",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/07/①撮影：下坂敦俊_04A1381-scaled.jpg",
      "caption": "文章内配图",
@@ -10027,6 +10251,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/F7rOBM2W63c/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=F7rOBM2W63c",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
      "caption": "文章内配图",
@@ -10386,6 +10617,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/tKlVJjUWAuU/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=tKlVJjUWAuU",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/09/higashi_33_01.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/6680/",
@@ -10637,6 +10875,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/E8Y1uiiUF_E/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=E8Y1uiiUF_E",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/09/TA_0131.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/6981/",
@@ -10887,6 +11132,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/B2P1P_NlYv0/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=B2P1P_NlYv0",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/10/ウィリアム3009604_image2_1.jpg",
      "caption": "文章内配图",
@@ -11209,6 +11461,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/82VKwfOYLWQ/hqdefault.jpg",
+     "caption": "这期聊的作品",
+     "source": "https://www.youtube.com/watch?v=82VKwfOYLWQ",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/12/②撮影：荒井-健_RA40701.jpg",
      "caption": "文章内配图",
@@ -11819,6 +12078,13 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo74114.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/0407/violet2024_C1_0723.jpg",
+     "caption": "剧照",
+     "source": "https://natalie.mu/",
      "asset": "",
      "resolution": ""
     }
@@ -12992,7 +13258,15 @@ window.ARCHIVE = {
    "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GlwBRqwbUAAJnTI?format=jpg&name=large",
+     "caption": "再贩周边一览",
+     "source": "https://x.com/we_goods_info/status/1899656601776390511",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
