@@ -130,6 +130,177 @@ window.HUB = {
   ],
 
   /* 周边与商品 */
+  pastGoods: [
+    {
+      "date": "2025-08-01",
+      "title": "30岁生日音乐会《afterglow》周边",
+      "bday": 1,
+      "status": "部分售罄",
+      "price": "场刊／收纳包／亚克力钥匙扣",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwbf62c4fb/033131/2110671822.jpg",
+      "points": [
+        "2025.7.11 COTTON CLUB 生日音乐会官方周边",
+        "亚克力钥匙扣已售罄；场刊、收纳包请以7net页面为准"
+      ],
+      "url": "https://7net.omni7.jp/search?q=afterglow%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2024-12-05",
+      "title": "《Connecting Puzzles vol.2》音乐会周边",
+      "status": "已售罄",
+      "price": "猫咪长袖T 5,000円 · 亚克力立牌 1,800円 · 贴纸 900円 · 半身生写真 800円",
+      "image": "https://stat.ameba.jp/user_images/20241017/12/we-goodsinfo/28/df/j/o2380336815498946018.jpg",
+      "points": [
+        "长袖T后领印着本人设计的猫咪「きゃっとん。」",
+        "亚克力立牌第二弹，可套用上一弹的底座"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12871597232.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2024-04-01",
+      "title": "《WE ARE MUSIC》vol.1 生写真套组（东启介）",
+      "status": "已售罄",
+      "price": "生写真套组",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwe08ed40c/033131/2110647487.jpg",
+      "points": [
+        "Musical shoW「WE ARE MUSIC」vol.1 纪念生写真"
+      ],
+      "url": "https://7net.omni7.jp/detail/2110647487.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2020-11-25",
+      "title": "1st Musical Concert《A NEW ME》周边",
+      "status": "已售罄",
+      "price": "长袖T · 随行杯 · 手帕 · 文件夹套组",
+      "image": "https://stat.ameba.jp/user_images/20201016/14/we-goodsinfo/9f/43/j/o0450070514835697602.jpg",
+      "points": [
+        "东启介全程监制，设计用了本人亲自拍的照片",
+        "因疫情不在会场贩售，改为 Watanabe商店事前受注"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12631883800.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2020-01-24",
+      "title": "「东启介ソロイベント2020」周边",
+      "status": "已售罄",
+      "price": "2L生写真2枚 800円 · L判6枚 1,200円 · 卫衣 6,000円 等",
+      "image": "https://stat.ameba.jp/user_images/20200117/12/we-goodsinfo/50/12/j/o0900127314697511352.jpg",
+      "points": [
+        "本人亲笔画的原创角色做成的周边",
+        "会场当天完售，之后开放过一次受注"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12570700741.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2018-04-28",
+      "title": "个人活动《Two-ton》周边",
+      "status": "已售罄",
+      "price": "生写真3种 · 生写真收纳册 1,800円 · 票夹 · とん缶",
+      "image": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/ac/ee/j/o0400052514173755332.jpg",
+      "points": [
+        "亲笔Logo，从选品到设计全程本人监制",
+        "收纳册印着本人手写的「想」字"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2018-04-28",
+      "title": "《Two-ton》通贩限定 手机壳",
+      "status": "已结束（完全受注生产）",
+      "price": "M／L 各4,000円",
+      "image": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/ce/4d/j/o0595076414173755795.jpg",
+      "points": [
+        "本人\"想自己用\"而监制的翻盖手机壳",
+        "内侧暗印「KEEP SMILING」"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12369630263.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2017-07-14",
+      "title": "22岁生日 生写真套组",
+      "bday": 1,
+      "status": "已结束",
+      "price": "700円（L判4枚）",
+      "image": "",
+      "points": [
+        "西装造型，\"像时尚杂志内页一样\"的生日生写真",
+        "WE SHOP表参道店限定 2017.7.14–8.31"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12288073752.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2017-05-03",
+      "title": "首次个人活动《First-on》周边",
+      "status": "已售罄",
+      "price": "生写真 · 卷袖T 3,000円 · 托特包 1,500円 · 手环灯",
+      "image": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/40/be/j/o0600060013922579104.jpg",
+      "points": [
+        "第一次自己监制周边，活动Logo是本人亲笔",
+        "会场限定生写真附印刷亲笔留言"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12268879951.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2016-12-15",
+      "title": "刀舞《虚伝》东启介×纳谷健 双人生写真〔IN〕〔OUT〕",
+      "status": "已结束",
+      "price": "各500円（L判3枚）",
+      "image": "https://stat.ameba.jp/user_images/20161208/16/we-goodsinfo/b5/6f/j/o0313031313816663047.jpg",
+      "points": [
+        "同龄\"凸凹组合\"的清爽双人照"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12226803496.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2016-08-18",
+      "title": "特大Special生写真2016 & Special生写真套组2016",
+      "status": "已结束",
+      "price": "A4 1,200円 · L判3枚 500円",
+      "image": "https://stat.ameba.jp/user_images/20160818/14/we-goodsinfo/89/8f/j/o0350024813726329585.jpg",
+      "points": [
+        "\"和以往不太一样\"的成熟系生写真",
+        "WE SHOP表参道店限定"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12191465623.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2015-07-28",
+      "title": "20岁纪念 特大Special生写真",
+      "bday": 1,
+      "status": "已结束",
+      "price": "A4 1,200円",
+      "image": "",
+      "points": [
+        "迎接20岁生日的纪念款，附印刷留言与签名",
+        "WE SHOP表参道店限定 2015.7.28–8.31"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-12029375280.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    },
+    {
+      "date": "2014-08-01",
+      "title": "Future系列 东启介生写真 vol.1",
+      "status": "已结束",
+      "price": "各160円（L判）",
+      "image": "",
+      "points": [
+        "最早期的个人生写真，A/B/C 三种"
+      ],
+      "url": "https://ameblo.jp/we-goodsinfo/entry-11911691365.html",
+      "publisher": "WE SHOP／ワタナベ商店"
+    }
+  ],
   goods: [
     {
       title: "WE官方生写真〈2026年11月〉",
@@ -168,7 +339,7 @@ window.HUB = {
       date: "2027-05-19",
       price: "",
       publisher: "舞台『刀剣乱舞』製作委員会",
-      image: "",
+      image: "https://stage-toukenranbu.jp/wp-content/uploads/2026/11/%E3%80%90WEB%E3%80%91toustayou_KV.jpg",
       points: ["TOHO animation STORE 期间限定特典附发售纪念活动抽选应募券"],
       url: "https://stage-toukenranbu.jp/stage/"
     },
@@ -177,7 +348,7 @@ window.HUB = {
       date: "",
       price: "",
       publisher: "官网 GOODS 页",
-      image: "",
+      image: "https://stage-toukenranbu.jp/wp-content/uploads/2026/09/1_%E9%99%BD%E4%BC%9D_%E5%85%AC%E6%BC%94%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.jpg",
       points: ["会场与通贩周边以官网 GOODS 页为准"],
       url: "https://stage-toukenranbu.jp/"
     },
@@ -186,7 +357,7 @@ window.HUB = {
       date: "",
       price: "",
       publisher: "万代 BANDAI",
-      image: "",
+      image: "https://i.ytimg.com/vi/baMEfVIuI-w/hqdefault.jpg",
       points: ["《假面骑士麦斯》假面骑士Maou的变身玩具；官方TVCM见视频栏"],
       url: "https://www.youtube.com/watch?v=baMEfVIuI-w"
     },

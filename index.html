@@ -164,6 +164,7 @@ section.sec{padding:34px 0}
 .v small{display:block;margin-top:6px;font-size:11.5px;color:var(--muted)}
 
 /* goods */
+.sub-head{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:44px 0 16px}.sub-head h3{margin:0;font-family:var(--serif);font-size:22px}.sub-head small{font-size:13px;color:var(--muted);font-weight:400;margin-left:8px}.pgf button{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:6px 14px;margin-left:6px;font:inherit;font-size:13px;color:var(--ink);cursor:pointer}.pgf button.on{background:var(--ink);color:#fff;border-color:var(--ink)}.goods.past .img{position:relative}.chip-s{position:absolute;left:10px;top:10px;background:rgba(59,54,49,.78);color:#fff;font-size:12px;padding:3px 10px;border-radius:999px}.chip-b{position:absolute;right:10px;top:10px;background:#f8e4e6;color:#b0566a;font-size:12px;padding:3px 10px;border-radius:999px}
 .goods{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px}
 .g{display:flex;flex-direction:column}
 .g .img{aspect-ratio:4/3;background:linear-gradient(135deg,var(--butter-soft),var(--peach-soft));display:grid;place-items:center;overflow:hidden}
@@ -292,6 +293,8 @@ footer p{margin:4px 0}
 <section class="sec" id="goods"><div class="wrap">
   <div class="sec-head"><h2><em>GOODS</em>周边与商品</h2></div>
   <div class="goods" id="goodsGrid"></div>
+  <div class="sub-head"><h3>过往周边 <small>已售罄 · 已结束，仅供回味</small></h3><div class="pgf" id="pastFilter"></div></div>
+  <div class="goods past" id="pastGrid"></div>
 </div></section>
 
 <section class="sec" id="profile"><div class="wrap">
@@ -386,6 +389,10 @@ $('vidTabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.da
 
 /* goods */
 $('goodsGrid').innerHTML=H.goods.map(g=>'<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy">':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span>':'')+'<h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul><a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">查看详情 ↗</a></div></article>').join('');
+
+/* past goods */
+let pf='全部';function drawPast(){const L=(H.pastGoods||[]).filter(g=>pf==='全部'||(pf==='生日'?g.bday:!g.bday)).sort((a,b)=>b.date.localeCompare(a.date));$('pastFilter').innerHTML=['全部','生日'].map(x=>'<button class="'+(x===pf?'on':'')+'" data-pf="'+x+'">'+(x==='生日'?'🎂 生日限定':x)+'</button>').join('');$('pastGrid').innerHTML=L.map(g=>'<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy">':'<span class="ph">'+esc(g.title)+'</span>')+'<span class="chip-s">'+esc(g.status)+'</span>'+(g.bday?'<span class="chip-b">🎂 生日</span>':'')+'</div><div class="b"><span class="badge">'+fmt(g.date)+'</span><h3>'+esc(g.title)+'</h3><div class="meta">'+esc(g.price)+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul><a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方公告 ↗</a></div></article>').join('')}
+document.addEventListener('click',e=>{const b=e.target.closest('[data-pf]');if(b){pf=b.dataset.pf;drawPast()}});drawPast();
 
 /* profile */
 $('facts').innerHTML=P.facts.map(([a,b])=>'<dt>'+esc(a)+'</dt><dd>'+esc(b)+'</dd>').join('');
