@@ -553,6 +553,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2016/0215/s_pedalSS_KV3_RGBforweb.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://www.marv.jp/assets/img/common/ogp.png",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
      "source": "https://www.marv.jp/titles/st/756/",
@@ -616,6 +623,13 @@ window.ARCHIVE = {
      "source": "",
      "asset": "9786558cbccb766f",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2016/0318/butai_toukenranbu_image.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -645,12 +659,45 @@ window.ARCHIVE = {
      "source": "https://www.clie.asia/CSL-AW/",
      "asset": "7cd13d3d826ee6ef",
      "resolution": "350 × 500"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2016/0611/slazyaw.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_omoshii6",
+   "date": "2016-07-12",
+   "end": "",
+   "category": "杂志",
+   "title": "《omoshii mag》vol.6｜2.5次元特集长篇专访",
+   "japanese": "omoshii mag vol.6",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/194280",
+   "note": "与小越勇辉、古川雄大、黑羽麻璃央等人一同刊载长篇访谈。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2016/0712/omoshii6_cover.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/194280",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "e13",
@@ -668,6 +715,13 @@ window.ARCHIVE = {
    "origin": "维基拆分原履历",
    "dateKind": "活动首日",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2016/0726/LIVE2_KV.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://www.marv.jp/assets/img/common/ogp.png",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
@@ -756,6 +810,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2016/0823/pedalHSS-KV-3.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://www.marv.jp/assets/img/common/ogp.png",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
      "source": "https://www.marv.jp/titles/st/766/",
@@ -796,6 +857,58 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_25fes16",
+   "date": "2016-12-03",
+   "end": "",
+   "category": "活动",
+   "title": "《2.5次元Fes（暂定）》舞台活动｜刀舞&弱虫踏板",
+   "japanese": "2.5次元フェス（仮）",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/210341",
+   "note": "幕张Messe，同时以烛台切光忠（刀舞）和苇木场拓斗（弱虫踏板）登台。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2016/1102/logo_horizont.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/210341",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
+   "id": "nat_butaidanshi8",
+   "date": "2016-12-07",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《舞台男子》第8回｜“总有一天想站上帝剧”",
+   "japanese": "舞台男子 第8回（小説屋sari-sari 12月号）",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/211991",
+   "note": "电子文艺志连载访谈，回顾网球王子音乐剧四天宝寺时代等经历。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2016/1207/butai_danshi_main.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/211991",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "e15",
@@ -1077,6 +1190,13 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/special/pedal_2017-023/cast.html",
      "asset": "9736334a1dd62089",
      "resolution": "600 × 800"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0127/s_pedalIHSL_KV-4_2.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1164,6 +1284,13 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/special/m-hakuoki-harada/cast.html",
      "asset": "98bee33caaeba415",
      "resolution": "960 × 683"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0303/hakuoki_harada_main.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -1259,6 +1386,13 @@ window.ARCHIVE = {
      "source": "https://stage-toukenranbu.jp/archive/giden/cast.html",
      "asset": "fd8231a83e079e85",
      "resolution": "300 × 450"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0325/s_toustagiden_kv_logo.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1288,6 +1422,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "nat_oshitv1",
+   "date": "2017-07-01",
+   "end": "",
+   "category": "电视节目",
+   "title": "WOWOW《2.5次元男子推しTV》第一季 嘉宾",
+   "japanese": "2.5次元男子推しTV シーズン1",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/249775",
+   "note": "MC铃木拡树，第一季嘉宾有椎名鲷造、和田雅成、东启介等。播出日期待核（第一季于2017年播出）。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0922/2_5jigen_scene.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/249775",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "e19",
    "date": "2017-07-29",
    "end": "2017-08-20",
@@ -1309,6 +1469,13 @@ window.ARCHIVE = {
      "source": "https://www.grandguignol.westage.jp/",
      "asset": "1e1fb3688849feff",
      "resolution": "1000 × 801"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0729/grandguignol_kv.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1407,6 +1574,13 @@ window.ARCHIVE = {
      "source": "https://www.clie.asia/CSL-AW/",
      "asset": "7cd13d3d826ee6ef",
      "resolution": "350 × 500"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0705/ClubSLAZYExtrainvitationMalachite_logo.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1436,6 +1610,13 @@ window.ARCHIVE = {
      "source": "https://www.umegei.com/the-scarlet-pimpernel/",
      "asset": "8f3e6469019248a8",
      "resolution": "147 × 172"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0429/scarletpimpernel.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1586,6 +1767,13 @@ window.ARCHIVE = {
      "source": "https://www.umegei.com/matahari2018/",
      "asset": "7904c1e43705c5ac",
      "resolution": "590 × 800"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0901/mata01.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -1693,6 +1881,13 @@ window.ARCHIVE = {
      "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/1222/5DAYS_visual.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1756,6 +1951,13 @@ window.ARCHIVE = {
      "source": "https://stage-toukenranbu.jp/archive/hiden/cast.html",
      "asset": "197d996f9649e33b",
      "resolution": "400 × 600"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2018/0601/tousute_hidenKV.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1843,6 +2045,13 @@ window.ARCHIVE = {
      "source": "https://www.ponycanyon.co.jp/visual/PCBP000053909",
      "asset": "1122d79584a3d21a",
      "resolution": "178 × 250"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2018/0712/marigold_keyvisual.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1993,12 +2202,45 @@ window.ARCHIVE = {
      "source": "https://garo-project.jp/usuzumizakura/sp/news.php",
      "asset": "bd995b7b2381ea09",
      "resolution": "640 × 960"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2018/0907/usuzumizakura_garo_201809_01.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_trumpten18",
+   "date": "2018-10-08",
+   "end": "2018-10-21",
+   "category": "活动",
+   "title": "《TRUMP展 マリーゴールド篇》服装展示｜コリウス",
+   "japanese": "TRUMP展 マリーゴールド篇",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/301217",
+   "note": "中野Broadway Animanga Zingaro，10/8–14展出东启介饰演的コリウス戏服。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2018/0926/TRUMPten_logo.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/301217",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "s169",
@@ -2016,6 +2258,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2018/1011/mayukiyakai_scene.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/AHvAQBT5Dbg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCc2j2R5ndKWowceXX0ek1kvcflFQ",
      "caption": "视频封面：TRUMPシリーズ『繭期夜会』（2018年）ダイジェスト映像",
@@ -2051,6 +2300,13 @@ window.ARCHIVE = {
      "source": "https://stage.parco.jp/program/inochi/",
      "asset": "2e5c21c4552c81a9",
      "resolution": "424 × 600"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2018/0630/inochiurimasu.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -2341,6 +2597,13 @@ window.ARCHIVE = {
      "source": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/",
      "asset": "8ea9015ce3da0185",
      "resolution": "305 × 428"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2019/0115/COL.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -2486,6 +2749,13 @@ window.ARCHIVE = {
      "source": "https://www.artandlive.net/events/musical-vampire",
      "asset": "7413652e46c92398",
      "resolution": "280 × 396"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2019/0426/TdV.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -2573,6 +2843,13 @@ window.ARCHIVE = {
      "source": "https://eiga.com/movie/91657/",
      "asset": "d123543fd8772264",
      "resolution": "800 × 533"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2019/0930/signal100_201909_01.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -2689,12 +2966,37 @@ window.ARCHIVE = {
      "source": "https://www.amuse.co.jp/about/stage/?k=ホイッスル・ダウン・ザ・ウィンド&y1=2020&y2=2020",
      "asset": "32dbc546f5959808",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2019/1004/wdtw_main_s.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_koe20",
+   "date": "2020-06-18",
+   "end": "",
+   "category": "活动",
+   "title": "首支自作词作曲歌曲《こえ》公开",
+   "japanese": "こえ",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/383718",
+   "note": "疫情居家期间在家录音、本人剪辑，于渡边娱乐官方YouTube公开。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [],
+   "videos": []
   },
   {
    "id": "e35",
@@ -2847,6 +3149,13 @@ window.ARCHIVE = {
      "source": "https://engekisengen.com/genre/musical/42787/",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0417/img1.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -2882,6 +3191,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_link20",
+   "date": "2020-08-10",
+   "end": "",
+   "category": "音乐会",
+   "title": "线上直播演唱会《东启介 ONLINE LIVE “Link”》",
+   "japanese": "東啓介 ONLINE LIVE “Link”",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/388967",
+   "note": "AXEL CHANNEL 生配信，含迟到一个月的生日纪念Talk。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0723/HigashiKeisuke.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/388967",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "e81",
@@ -2963,6 +3298,13 @@ window.ARCHIVE = {
      "source": "https://www.meijiza.co.jp/lineup/2020/10/",
      "asset": "e5ffef33904bd25c",
      "resolution": "1280 × 830"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0507/koi_moyuru.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -3284,6 +3626,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_matsuree21",
+   "date": "2021-01-25",
+   "end": "",
+   "category": "采访／连载",
+   "title": "Natalie《マツリー》企画｜“2020年支撑我的东西”",
+   "japanese": "マツリー「2020年、私を支えたもの」",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/413660",
+   "note": "26位舞台人各自介绍支撑自己的物品。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2021/0125/DSC_9731.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/413660",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "mag_rk16614594",
@@ -3719,6 +4087,13 @@ window.ARCHIVE = {
      "source": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/",
      "asset": "9f301cb36994ca47",
      "resolution": "550 × 778"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2021/0226/ITH_visual.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -3840,6 +4215,13 @@ window.ARCHIVE = {
      "source": "https://www.umegei.com/matahari2021/",
      "asset": "9d730935686c9892",
      "resolution": "250 × 280"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2021/0213/mata21_main1_ol.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -3946,6 +4328,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_ninodan21",
+   "date": "2021-08-31",
+   "end": "",
+   "category": "杂志",
+   "title": "对谈本《ニノダン+ -Power of the Stage-》｜东启介×平间壮一",
+   "japanese": "ニノダン+（プラス）-Power of the Stage-",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/443149",
+   "note": "14组舞台人对谈，完全受注生产。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2021/0831/ninodan_plus.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/443149",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "m436",
@@ -4056,6 +4464,13 @@ window.ARCHIVE = {
      "source": "https://www.tv-tokyo.co.jp/tsumarisuki/cast/",
      "asset": "404fe5babd62f095",
      "resolution": "650 × 700"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/comic/2021/0916/higashi_ishikawa_tsumarisuki.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -4283,6 +4698,13 @@ window.ARCHIVE = {
    "dateKind": "作品首播日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2021/1218/fightsong_202112.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://www.tbs.co.jp/fight_song_tbs2022/img/ogp.png?555",
      "caption": "电视台作品海报",
      "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
@@ -4369,6 +4791,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2021/1209/jmf-musical2022.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/SFJZONd-R7s/hqdefault.jpg",
      "caption": "视频封面：Japan Musical Festival 2022 東啓",
@@ -4744,6 +5173,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "nat_gb65",
+   "date": "2022-08-26",
+   "end": "",
+   "category": "电视节目",
+   "title": "WOWOW《Green & Blacks》#65｜《泽西男孩》剧组演唱",
+   "japanese": "福田雄一×井上芳雄『グリーン＆ブラックス』#65",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/490271",
+   "note": "音乐秀扩大版，与中川晃教、藤冈正明、大山真志一同出演。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/0819/GB01.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/490271",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "e98",
    "date": "2022-08-30",
    "end": "",
@@ -4794,6 +5249,13 @@ window.ARCHIVE = {
      "source": "https://www.tv-tokyo.co.jp/chasergame/",
      "asset": "4cfc3086b05a59c3",
      "resolution": "960 × 540"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2022/0822/chasergame_202208_main.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -4876,6 +5338,13 @@ window.ARCHIVE = {
    "dateKind": "官方标注首播日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2022/0807/yamikinsaiharasan_20220807_01.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://www.mbs.jp/saihara/images/ogp-new.jpg?0808",
      "caption": "电视台作品海报",
      "source": "https://www.mbs.jp/saihara/",
@@ -4887,6 +5356,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_gb66",
+   "date": "2022-09-30",
+   "end": "",
+   "category": "电视节目",
+   "title": "WOWOW《Green & Blacks》#66｜《泽西男孩》排练场采访",
+   "japanese": "福田雄一×井上芳雄『グリーン＆ブラックス』#66",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/494922",
+   "note": "中川晃教当采访者探访《泽西男孩》排练场。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/0924/GB_keikoba.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/494922",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "e51",
@@ -4910,6 +5405,13 @@ window.ARCHIVE = {
      "source": "https://engekisengen.com/genre/musical/42787/",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/0428/jerseyboys_2022.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -5340,6 +5842,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/1104/beautifulgame_cast.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://grand-arts.com/wp/wp-content/uploads/2022/09/ogp.png",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
      "source": "https://grand-arts.com/works/stage/2022the_beautiful_game/",
@@ -5692,6 +6201,13 @@ window.ARCHIVE = {
      "source": "https://nijikai-stage.com/",
      "asset": "b8330495c722dfe0",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/0222/2jikainohitotachi_mainV.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -6407,6 +6923,13 @@ window.ARCHIVE = {
      "source": "https://www.asahi.co.jp/marumaruchan/cast/",
      "asset": "7dbead054605c749",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_danseicast.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -6523,6 +7046,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/6120/",
      "asset": "d878339cc942afd6",
      "resolution": "2000 × 2012"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/0512/re_RAGTIME_sokuho2_0512.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -6622,6 +7152,13 @@ window.ARCHIVE = {
      "source": "https://www.mbs.jp/joshikousei-souninaru/",
      "asset": "d9b742d70a880f83",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_01.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -6873,6 +7410,13 @@ window.ARCHIVE = {
      "source": "https://www.aoi-pro.com/jp/news/20230904/43097/",
      "asset": "dccc280a1ee718d4",
      "resolution": "750 × 394"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/0904/konton_cast.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -7083,6 +7627,13 @@ window.ARCHIVE = {
      "source": "https://www.tohostage.com/tohomusicallab/",
      "asset": "aa3f247496387325",
      "resolution": "540 × 714"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1005/LAB_kumi.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -7146,6 +7697,13 @@ window.ARCHIVE = {
      "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1013/toritoodoru_cast.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     }
@@ -7350,6 +7908,32 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "nat_otokomae24",
+   "date": "2024-01-16",
+   "end": "",
+   "category": "活动",
+   "title": "《OTOKOMAE Fes》DAY1 出演",
+   "japanese": "OTOKOMAE フェス",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/553774",
+   "note": "国立代々木競技場第一体育館，两天的音乐节，东启介出演1月16日场。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1219/1218RELEASE_OTOKOMAEFES_MV_cr.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/553774",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "m8189",
    "date": "2024-01-17",
    "end": "",
@@ -7377,6 +7961,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_utsukushi24",
+   "date": "2024-01-31",
+   "end": "",
+   "category": "电视节目",
+   "title": "BS-TBS《邂逅美丽日本的旅程》｜与濑户康史游信州",
+   "japanese": "美しい日本に出会う旅「信州 善光寺から渋温泉へ」",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/556670",
+   "note": "带着相机从善光寺走到涩温泉，濑户康史担任旅行向导。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/0111/higashi_utsukushinihon01.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/556670",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "bro_202402",
@@ -7427,6 +8037,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1122/WEAREMUSIC_cast.jpg",
+     "caption": "告知视觉／海报（Natalie 报道）",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/QJuXEN12tJI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDkpEjbJwZ9YwBrpDADGaRpWOfdSg",
      "caption": "视频封面：【PR】東啓介×加藤大悟 ▷Musical shoW「WE ",
@@ -7616,6 +8233,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_yoshiomyu12",
+   "date": "2024-03-12",
+   "end": "",
+   "category": "电视节目",
+   "title": "WOWOW《芳雄のミュー》#12｜《VIOLET》团队嘉宾",
+   "japanese": "生放送！井上芳雄ミュージカルアワー『芳雄のミュー』#12",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/564165",
+   "note": "《VIOLET》剧组做客，五位演员合唱剧中曲《My Way》。日期以节目表为准。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/0308/yoshionomyuviolet_done_done.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/564165",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "bro_202404",
@@ -8791,6 +9434,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "nat_musicfair25",
+   "date": "2025-04-19",
+   "end": "",
+   "category": "电视节目",
+   "title": "富士电视台《MUSIC FAIR》｜《长靴皇后》&《泽西男孩》",
+   "japanese": "MUSIC FAIR",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/620249",
+   "note": "《长靴皇后》剧组演唱《RAISE YOU UP / JUST BE》，同期《泽西男孩》2025剧组演唱JB组曲，东启介两边都出演。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2025/0416/musicfair_KB.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/620249",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "e68",
    "date": "2025-04-27",
    "end": "2025-06-08",
@@ -8878,6 +9547,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "nat_yoshiomyu23",
+   "date": "2025-05-21",
+   "end": "",
+   "category": "电视节目",
+   "title": "WOWOW《芳雄のミュー》#23｜《长靴皇后》四人嘉宾",
+   "japanese": "生放送！井上芳雄ミュージカルアワー『芳雄のミュー』#23",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/621172",
+   "note": "与有泽樟太郎、甲斐翔真、松下优也以《长靴皇后》嘉宾身份出演，生放送。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2025/0423/50450mu.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/621172",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "bro_202506",
@@ -9230,6 +9925,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "nat_utakon25",
+   "date": "2025-09-30",
+   "end": "",
+   "category": "电视节目",
+   "title": "NHK《うたコン》初登场｜翻唱《Love is Over》",
+   "japanese": "うたコン「秋 大切なあなたへ贈る歌」",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/641328",
+   "note": "NHK综合生放送，大阪NHK大阪Hall。东启介首次登上《うたコン》，翻唱欧阳菲菲《ラヴ・イズ・オーヴァー》。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2025/0922/0930_web.jpg",
+     "caption": "Natalie 报道图",
+     "source": "https://natalie.mu/stage/news/641328",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "bro_202510",
    "date": "2025-10-01",
    "category": "活动",
@@ -9489,6 +10210,13 @@ window.ARCHIVE = {
      "source": "https://bs.tbs.co.jp/utsukushii/archives/arch260204.html",
      "asset": "7e0afb85b71c632a",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2026/0116/u2.jpg",
+     "caption": "Natalie 报道图（八丈岛）",
+     "source": "https://natalie.mu/stage/news/656358",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
