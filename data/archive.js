@@ -166,7 +166,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/booksdream/cabinet/racoon_332/b00net6e54.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -216,7 +224,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://animeanime.jp/imgs/ogp_f/47960.jpg",
+     "caption": "活动报道图（animeanime）",
+     "source": "https://animeanime.jp/imgs/ogp_f/47960.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -353,7 +369,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/music/2015/0423/ETA_2015_main.jpg?imwidth=750&imdensity=1",
+     "caption": "活动告知视觉（Natalie）",
+     "source": "https://ogre.natalie.mu/media/news/music/2015/0423/ETA_2015_main.jpg?imwidth=750&imdensity=1",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -759,7 +783,15 @@ window.ARCHIVE = {
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/comicset/cabinet/13492474/mgkmsawiyck1ghjt.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -888,7 +920,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1164/neobk-2160754.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1481,7 +1521,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1184/neobk-2191855.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1502,7 +1550,15 @@ window.ARCHIVE = {
    "status": "乐天市场商品信息线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/hmvjapan/cabinet/8742000/8740876.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1572,7 +1628,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/booksupply/cabinet/04216212/683/9784331803370.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1656,7 +1720,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1144/neobk-2130555.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -1735,7 +1807,15 @@ window.ARCHIVE = {
    "status": "煤炉出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/kaitoriouji/cabinet/202303061540/4331803996.jpg?_ex=500x500",
+     "caption": "乐天市场公开商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -2341,7 +2421,15 @@ window.ARCHIVE = {
    "status": "官方推文存档线索",
    "origin": "补充检索",
    "dateKind": "节目播出日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/EDh2dBlVUAEpqXm.jpg",
+     "caption": "节目官方推特图",
+     "source": "https://pbs.twimg.com/media/EDh2dBlVUAEpqXm.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "音声",
@@ -2449,7 +2537,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2019/1125/mayukidaiyakai3.jpg?imwidth=750&imdensity=1",
+     "caption": "演出照（音乐自然报道）",
+     "source": "https://natalie.mu/stage/news/356716",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -2499,7 +2595,15 @@ window.ARCHIVE = {
    "status": "官网／主办方已核对",
    "origin": "原履历",
    "dateKind": "首发上线日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
+     "caption": "剧照（Natalie 报道）",
+     "source": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -2901,7 +3005,15 @@ window.ARCHIVE = {
    "status": "雅虎拍卖出品线索；待核",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://nicovideo.cdn.nimg.jp/thumbnails/37740891/37740891.49896194",
+     "caption": "官方拍摄花絮视频封面",
+     "source": "https://www.nicovideo.jp/watch/so37740891",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -3879,7 +3991,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.tbs.co.jp/tbs-ch/item/o2900/thumbs/title-752.jpg",
+     "caption": "TBS频道节目图",
+     "source": "https://www.tbs.co.jp/tbs-ch/item/o2900/thumbs/title-752.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -4370,7 +4490,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/FQc6LgTacAQ7JCS?format=jpg&name=large",
+     "caption": "节目官方宣传图",
+     "source": "https://pbs.twimg.com/media/FQc6LgTacAQ7JCS?format=jpg&name=large",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -4862,7 +4990,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://stage.parco.jp/image/parcoplay/store/storage/h600/theparty_omote.jpg",
+     "caption": "PARCO STAGE 官方宣传图",
+     "source": "https://stage.parco.jp/image/parcoplay/store/storage/h600/theparty_omote.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -5455,7 +5591,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/pp/wowow-entasuonstage/wowow-entasuonstage_051.jpg?imwidth=1200&imdensity=1",
+     "caption": "演出照（Natalie 特集）",
+     "source": "https://ogre.natalie.mu/media/pp/wowow-entasuonstage/wowow-entasuonstage_051.jpg?imwidth=1200&imdensity=1",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -5476,7 +5620,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://engeki-audience.com/wp-content/uploads/2023/03/shibu2_senden.jpg",
+     "caption": "公演宣传图",
+     "source": "https://engeki-audience.com/wp-content/uploads/2023/03/shibu2_senden.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -5669,7 +5821,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/fx06NTIJsxzY5wH2axRTtwOWo3s8KPoo91x69Z2AOYehA6YNRLnNvbPiGoqKztzC/",
+     "caption": "SPICE 报道图",
+     "source": "https://spice.eplus.jp/images/fx06NTIJsxzY5wH2axRTtwOWo3s8KPoo91x69Z2AOYehA6YNRLnNvbPiGoqKztzC/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -8059,7 +8219,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
+     "caption": "演出照（音乐自然报道）",
+     "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -8426,7 +8594,15 @@ window.ARCHIVE = {
    "status": "WE Goods Info 官方推文确认；公演日程待核",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://teket.jp/data/flyer/41493/jZdppuKlsP.jpg",
+     "caption": "活动官方宣传单",
+     "source": "https://teket.jp/data/flyer/41493/jZdppuKlsP.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -8764,7 +8940,15 @@ window.ARCHIVE = {
    "status": "维基补充线索；待原主办方复核",
    "origin": "补充检索",
    "dateKind": "活动日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://engeki-audience.com/wp-content/uploads/2025/06/Lifes-A-Joy-Life-Goes-On.jpg",
+     "caption": "公演宣传图",
+     "source": "https://engeki-audience.com/wp-content/uploads/2025/06/Lifes-A-Joy-Life-Goes-On.jpg",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -10183,7 +10367,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
+     "caption": "演出照（音乐自然报道）",
+     "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -10291,7 +10483,15 @@ window.ARCHIVE = {
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
-   "images": [],
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
+     "caption": "演出照（音乐自然报道）",
+     "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
