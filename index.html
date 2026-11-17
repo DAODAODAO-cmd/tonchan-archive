@@ -229,6 +229,16 @@ footer p{margin:4px 0}
   .news li{grid-template-columns:1fr;gap:2px}
   .logo{font-size:16px}
 }
+
+.tabbar{display:none}
+@media (max-width:720px){
+  body{padding-bottom:calc(70px + env(safe-area-inset-bottom))}
+  .tabbar{display:flex;position:fixed;left:12px;right:12px;bottom:calc(10px + env(safe-area-inset-bottom));z-index:60;background:rgba(255,253,249,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid #ece3d6;border-radius:22px;box-shadow:0 8px 28px rgba(120,96,70,.16);padding:6px;justify-content:space-between}
+  .tabbar a{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;border-radius:16px;color:#8d847a;text-decoration:none;font-size:11px;line-height:1.2}
+  .tabbar a i{font-style:normal;font-size:18px;line-height:1}
+  .tabbar a.main{background:#7f9c88;color:#fff;margin:0 2px}
+  .tabbar a.on{color:#3b3631;font-weight:600}
+}
 </style>
 </head>
 <body>
@@ -411,5 +421,6 @@ $('workLinks').innerHTML=H.channels.works.map(c=>ext(c.url,c.name+' ↗')).join(
 const secs=[...document.querySelectorAll('section.sec')],pl=[...document.querySelectorAll('#pills a')];
 addEventListener('scroll',()=>{let cur='';for(const s of secs)if(s.getBoundingClientRect().top<120)cur=s.id;pl.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+cur))},{passive:true});
 </script>
+<nav class="tabbar" aria-label="快捷导航"><a href="#top"><i>⌂</i>首页</a><a href="#upcoming"><i>◷</i>日程</a><a class="main" href="list.html?g=all"><i>☰</i>编年档案</a><a href="#videos"><i>▷</i>视频</a><a href="#goods"><i>♡</i>周边</a></nav>
 </body>
 </html>
