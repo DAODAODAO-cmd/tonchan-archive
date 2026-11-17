@@ -1,0 +1,16022 @@
+/* 东启介编年档案数据。编辑方法见 README.md */
+window.ARCHIVE = {
+ "events": [
+  {
+   "id": "e1",
+   "date": "2013-12-19",
+   "end": "2014-03-02",
+   "category": "舞台",
+   "title": "音乐剧《网球王子》第二季：青学vs四天宝寺",
+   "japanese": "ミュージカル『テニスの王子様』2ndシーズン 青学vs四天宝寺",
+   "role": "千岁千里",
+   "crew": "",
+   "key": "chitose",
+   "url": "https://www.tennimu.com/second/play_2013shitenhoji/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.tennimu.com/img/cast/shitenhoji/imgB02chitose.jpg",
+     "caption": "官网真人角色照：东启介饰千岁千里",
+     "source": "https://www.tennimu.com/cast_2nd/sh02chitose.html",
+     "asset": "863e36c56ed019e3",
+     "resolution": "730 × 209"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2013 テニミュ",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KRoDY2_LPrTBItrUQZvTzHB"
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "date": "2014-04-26",
+   "end": "",
+   "category": "活动",
+   "title": "《网球王子》春季大运动会2014",
+   "japanese": "ミュージカル『テニスの王子様』春の大運動会2014",
+   "role": "千岁千里",
+   "crew": "",
+   "key": "",
+   "url": "https://www.tennimu.com/second/play_2014undokai/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e3",
+   "date": "2014-07-12",
+   "end": "2014-09-28",
+   "category": "舞台",
+   "title": "音乐剧《网球王子》第二季：全国大会 青学vs立海",
+   "japanese": "ミュージカル『テニスの王子様』全国大会 青学vs立海",
+   "role": "千岁千里",
+   "crew": "",
+   "key": "",
+   "url": "https://www.tennimu.com/second/play_2014rikkai/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基拆分原履历",
+   "dateKind": "作品首演日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s167",
+   "date": "2014-11-07",
+   "end": "",
+   "category": "活动",
+   "title": "NEL FES in 武道馆",
+   "japanese": "ネルフェス in 武道館",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e4",
+   "date": "2014-11-15",
+   "end": "2014-11-24",
+   "category": "音乐会",
+   "title": "《网球王子》Dream Live 2014",
+   "japanese": "ミュージカル『テニスの王子様』コンサート Dream Live 2014",
+   "role": "千岁千里",
+   "crew": "",
+   "key": "",
+   "url": "https://www.tennimu.com/second/play_dl2014/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基拆分原履历",
+   "dateKind": "活动首日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e5",
+   "date": "2015-02-11",
+   "end": "2015-03-01",
+   "category": "舞台",
+   "title": "《心灵侦探八云：祈祷之柩》",
+   "japanese": "心霊探偵八雲 祈りの柩",
+   "role": "织田亮",
+   "crew": "导演：伊藤マサミ",
+   "key": "yakumo",
+   "url": "https://www.nelke.co.jp/stage/yakumo2015/index.html",
+   "note": "官网核对出演与日程；角色名由维基及作品资料补充。",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.nelke.co.jp/uploads/2024/07/b4c548a468627b09f1ecb9578ccd87ebcb9b39a4.jpg",
+     "caption": "官方作品海报",
+     "source": "https://www.nelke.co.jp/stage/yakumo2015/index.html",
+     "asset": "933f3c59382781e5",
+     "resolution": "530 × 750"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e6",
+   "date": "2015-05-23",
+   "end": "2015-06-14",
+   "category": "舞台",
+   "title": "音乐剧《薄樱鬼：黎明录》",
+   "japanese": "ミュージカル『薄桜鬼』黎明録",
+   "role": "原田左之助",
+   "crew": "导演：毛利亘宏",
+   "key": "haku2015",
+   "url": "https://www.marv.jp/special/m-hakuoki-reimeiroku/cast.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.marv.jp/special/m-hakuoki-reimeiroku/images/cast/higashi.jpg",
+     "caption": "官网演员介绍照片（非角色定装照）",
+     "source": "https://www.marv.jp/special/m-hakuoki-reimeiroku/cast.html",
+     "asset": "32773476fa14877c",
+     "resolution": "120 × 170"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e7",
+   "date": "2015-07-15",
+   "end": "2015-07-20",
+   "category": "舞台",
+   "title": "《Raspberry Boy 2》再演",
+   "japanese": "ラズベリーボーイ2 再演",
+   "role": "小林淕",
+   "crew": "",
+   "key": "",
+   "url": "https://www.suruga-ya.jp/product/detail/G3134726",
+   "note": "旧官网未找到可用档案；保留待核，不作最终定稿。",
+   "status": "参演有商品记录；日期与角色待原主办方复核",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134726.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.suruga-ya.jp/product/detail/G3134726",
+     "asset": "ecd4b627b909ec41",
+     "resolution": "358 × 512"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s168",
+   "date": "2015-08-20",
+   "end": "",
+   "category": "活动",
+   "title": "EXIT TUNES ACADEMY 日本武道馆2015",
+   "japanese": "EXIT TUNES ACADEMY 日本武道館 2015",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e8",
+   "date": "2015-10-10",
+   "end": "2015-10-31",
+   "category": "舞台",
+   "title": "《BOYBAND》",
+   "japanese": "BOYBAND",
+   "role": "",
+   "crew": "导演：板垣恭一",
+   "key": "boyband",
+   "url": "https://ireikanata.com/contents/166664",
+   "note": "10月10日志木预演；东京10月15–25日；大阪10月31日。官网未标具体角色，不补猜。",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://ireikanata.com/s3/skiyaki/uploads/ckeditor/pictures/153915/content_BOYbanD730_omote-1-212x300.jpg",
+     "caption": "官方作品传单",
+     "source": "https://ireikanata.com/contents/166664",
+     "asset": "53bafdd54a872d3a",
+     "resolution": "212 × 300"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e9",
+   "date": "2016-01-04",
+   "end": "2016-01-17",
+   "category": "舞台",
+   "title": "音乐剧《薄樱鬼：新选组奇谭》",
+   "japanese": "ミュージカル『薄桜鬼』新選組奇譚",
+   "role": "原田左之助",
+   "crew": "导演：毛利亘宏",
+   "key": "haku2016",
+   "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/cast.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/higashi.jpg",
+     "caption": "官网演员介绍照片（非角色定装照）",
+     "source": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/cast.html",
+     "asset": "32773476fa14877c",
+     "resolution": "120 × 170"
+    }
+   ],
+   "videos": [
+    {
+     "id": "kyqxdo_tRJI",
+     "title": "官网嵌入的视频（标题待复核）",
+     "url": "https://www.youtube.com/watch?v=kyqxdo_tRJI",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/cast.html"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e10",
+   "date": "2016-03-04",
+   "end": "2016-03-27",
+   "category": "舞台",
+   "title": "《飙速宅男：总北新世代，启动》",
+   "japanese": "弱虫ペダル ～総北新世代、始動～",
+   "role": "苇木场拓斗",
+   "crew": "导演：西田シャトナー",
+   "key": "",
+   "url": "https://www.marv.jp/titles/st/756/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.marv.jp/assets/img/common/ogp.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.marv.jp/titles/st/756/",
+     "asset": "58daa6ea467942ec",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e11",
+   "date": "2016-05-03",
+   "end": "2016-05-20",
+   "category": "舞台",
+   "title": "《刀剑乱舞》虚传 燃烧的本能寺",
+   "japanese": "刀剣乱舞 虚伝 燃ゆる本能寺",
+   "role": "烛台切光忠",
+   "crew": "编剧／导演：末满健一",
+   "key": "kyoden",
+   "url": "https://stage-toukenranbu.jp/archive/kyoden/",
+   "note": "2016初演单独列项；不混用再演或2026年造型。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e12",
+   "date": "2016-07-06",
+   "end": "2016-07-17",
+   "category": "舞台",
+   "title": "《Club SLAZY -Another world-》",
+   "japanese": "Club SLAZY -Another world-",
+   "role": "Will",
+   "crew": "",
+   "key": "slazy",
+   "url": "https://www.clie.asia/CSL-AW/",
+   "note": "修正原履历重复的“-world”。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.clie.asia/CSL-AW/images/cast/higashi2.png",
+     "caption": "官方角色写真：Will",
+     "source": "https://www.clie.asia/CSL-AW/",
+     "asset": "7cd13d3d826ee6ef",
+     "resolution": "350 × 500"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e13",
+   "date": "2016-08-12",
+   "end": "2016-08-17",
+   "category": "音乐会",
+   "title": "《薄樱鬼》HAKU-MYU LIVE 2",
+   "japanese": "ミュージカル『薄桜鬼』HAKU-MYU LIVE 2",
+   "role": "原田左之助",
+   "crew": "",
+   "key": "",
+   "url": "https://www.marv.jp/titles/st/763/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基拆分原履历",
+   "dateKind": "活动首日",
+   "images": [
+    {
+     "url": "https://www.marv.jp/assets/img/common/ogp.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.marv.jp/titles/st/763/",
+     "asset": "58daa6ea467942ec",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e94",
+   "date": "2016-08-13",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《飙速宅男》东启介×宫崎秋人专访",
+   "japanese": "《飙速宅男》东启介×宫崎秋人专访",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://engekisengen.com/genre/engekisengenbeta/84071/",
+   "note": "发布日期只确认到年份",
+   "status": "原文定位；准确发布日期待复核",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2024/05/pedal-2.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://engekisengen.com/genre/engekisengenbeta/84071/",
+     "asset": "8ca6bc46ca34fdb2",
+     "resolution": "600 × 411"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e14",
+   "date": "2016-09-30",
+   "end": "2016-10-10",
+   "category": "舞台",
+   "title": "《飙速宅男：箱根学园新世代，启动》",
+   "japanese": "弱虫ペダル ～箱根学園新世代、始動～",
+   "role": "苇木场拓斗（主演）",
+   "crew": "导演：西田シャトナー",
+   "key": "",
+   "url": "https://www.marv.jp/titles/st/766/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.marv.jp/assets/img/common/ogp.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.marv.jp/titles/st/766/",
+     "asset": "58daa6ea467942ec",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e15",
+   "date": "2016-12-15",
+   "end": "2017-01-17",
+   "category": "舞台",
+   "title": "《刀剑乱舞》虚传 燃烧的本能寺（再演）",
+   "japanese": "刀剣乱舞 虚伝 燃ゆる本能寺 再演",
+   "role": "烛台切光忠",
+   "crew": "编剧／导演：末满健一",
+   "key": "kyoden_saien",
+   "url": "https://stage-toukenranbu.jp/archive/kyoden_saien/cast11.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://stage-toukenranbu.jp/archive/kyoden_saien/images/cast/syokudai.jpg",
+     "caption": "官网角色写真：烛台切光忠／虚传再演",
+     "source": "https://stage-toukenranbu.jp/archive/kyoden_saien/cast11.html",
+     "asset": "cfd612799f9fb6c6",
+     "resolution": "300 × 420"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "pc181",
+   "date": "2017-02-04",
+   "end": "",
+   "category": "活动",
+   "title": "首张DVD发售纪念特别活动（第1天）",
+   "japanese": "東啓介、南へ行く。DVD発売記念イベント",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://higashikeisuke.ponycanyon.co.jp/",
+   "note": "Pony Canyon活动空间，16:00／18:00／20:00，谈话＋迷你演唱＋击掌会。",
+   "status": "发行方活动公告已核对",
+   "origin": "发行方补充",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "pc182",
+   "date": "2017-02-05",
+   "end": "",
+   "category": "活动",
+   "title": "首张DVD发售纪念特别活动（第2天）",
+   "japanese": "東啓介、南へ行く。DVD発売記念イベント",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://higashikeisuke.ponycanyon.co.jp/",
+   "note": "Pony Canyon活动空间，16:00／18:00。",
+   "status": "发行方活动公告已核对",
+   "origin": "发行方补充",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e16",
+   "date": "2017-02-25",
+   "end": "2017-03-12",
+   "category": "舞台",
+   "title": "《飙速宅男》新全国高中联赛篇：起跑线",
+   "japanese": "弱虫ペダル 新インターハイ篇～スタートライン～",
+   "role": "苇木场拓斗",
+   "crew": "导演：西田シャトナー",
+   "key": "pedal2017",
+   "url": "https://www.marv.jp/special/pedal_2017-023/cast.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.marv.jp/special/pedal_2017-023/images/cast/kayakiba.jpg",
+     "caption": "官网角色写真：苇木场拓斗",
+     "source": "https://www.marv.jp/special/pedal_2017-023/cast.html",
+     "asset": "9736334a1dd62089",
+     "resolution": "600 × 800"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e101",
+   "date": "2017-03-15",
+   "end": "",
+   "category": "写真／出版",
+   "title": "首本写真集《K》",
+   "japanese": "東啓介1st写真集 K",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://higashikeisuke.ponycanyon.co.jp/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基及发行方补充",
+   "dateKind": "发售日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "pc183",
+   "date": "2017-03-19",
+   "end": "",
+   "category": "活动",
+   "title": "《K》写真集发售纪念见面活动",
+   "japanese": "東啓介1st写真集 K 発売記念",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://higashikeisuke.ponycanyon.co.jp/",
+   "note": "12:00福家书店新宿；16:00 Animate新宿签名会。",
+   "status": "发行方活动公告已核对",
+   "origin": "发行方补充",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e17",
+   "date": "2017-04-14",
+   "end": "2017-04-30",
+   "category": "舞台",
+   "title": "音乐剧《薄樱鬼》原田左之助篇",
+   "japanese": "ミュージカル『薄桜鬼』原田左之助 篇",
+   "role": "原田左之助（主演）",
+   "crew": "导演：毛利亘宏",
+   "key": "haku2017",
+   "url": "https://www.marv.jp/special/m-hakuoki-harada/cast.html",
+   "note": "大阪4月14–16日；东京4月26–30日。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.marv.jp/special/m-hakuoki-harada/images/top/topImage_t.jpg",
+     "caption": "官方作品主视觉（含主演）",
+     "source": "https://www.marv.jp/special/m-hakuoki-harada/cast.html",
+     "asset": "98bee33caaeba415",
+     "resolution": "960 × 683"
+    }
+   ],
+   "videos": [
+    {
+     "id": "ttLGGm7WKMM",
+     "title": "官方公演CM",
+     "url": "https://www.youtube.com/watch?v=ttLGGm7WKMM",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.marv.jp/special/m-hakuoki-harada/cast.html"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e18",
+   "date": "2017-06-01",
+   "end": "2017-07-14",
+   "category": "舞台",
+   "title": "《刀剑乱舞》义传 黎明的独眼龙",
+   "japanese": "刀剣乱舞 義伝 暁の独眼竜",
+   "role": "烛台切光忠",
+   "crew": "编剧／导演：末满健一",
+   "key": "giden",
+   "url": "https://stage-toukenranbu.jp/archive/giden/cast.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://stage-toukenranbu.jp/archive/giden/images/cast/syokudai.jpg",
+     "caption": "官网角色写真：烛台切光忠／义传",
+     "source": "https://stage-toukenranbu.jp/archive/giden/cast.html",
+     "asset": "fd8231a83e079e85",
+     "resolution": "300 × 450"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e19",
+   "date": "2017-07-29",
+   "end": "2017-08-20",
+   "category": "舞台",
+   "title": "《Grand Guignol》",
+   "japanese": "グランギニョル",
+   "role": "李春林",
+   "crew": "编剧／导演：末满健一",
+   "key": "guignol",
+   "url": "https://www.grandguignol.westage.jp/",
+   "note": "中文可说明为“大吉尼奥尔”；保留原题，避免误当官方中文名。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.grandguignol.westage.jp/img/grandguignol_170324.jpg",
+     "caption": "官方作品主视觉",
+     "source": "https://www.grandguignol.westage.jp/",
+     "asset": "1e1fb3688849feff",
+     "resolution": "1000 × 801"
+    }
+   ],
+   "videos": [],
+   "biliLinks": [
+    {
+     "url": "https://www.bilibili.com/video/BV1AU4y1i7tS/",
+     "title": "《Grand Guignol》中文字幕舞台录像"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2017-2018 TRUMPシリーズ",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KT45NPNYu5BD1lDYe0lSf0v"
+    }
+   ]
+  },
+  {
+   "id": "e20",
+   "date": "2017-10-13",
+   "end": "2018-03-02",
+   "category": "电视剧",
+   "title": "《Club SLAZY Extra invitation ～Malachite～》",
+   "japanese": "Club SLAZY Extra invitation ～Malachite～",
+   "role": "Will",
+   "crew": "",
+   "key": "",
+   "url": "https://www.clie.asia/CSL-TV/",
+   "note": "月度播出作品；日期按TOKYO MX公布的放送日口径，跨午夜时实际日历日可能顺延。",
+   "status": "参演已核对；首播日待节目档案复核",
+   "origin": "原履历",
+   "dateKind": "官方标注首播日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e21",
+   "date": "2017-11-13",
+   "end": "2017-12-05",
+   "category": "舞台",
+   "title": "音乐剧《红花侠》",
+   "japanese": "スカーレット・ピンパーネル",
+   "role": "哈尔（ハル／Hal）",
+   "crew": "导演：石丸さち子",
+   "key": "pimpernel",
+   "url": "https://www.umegei.com/the-scarlet-pimpernel/",
+   "note": "不是罗伯斯庇尔；该角色由上原理生出演。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.umegei.com/the-scarlet-pimpernel/img/second/cast_10.jpg",
+     "caption": "官网人物照：哈尔（ハル）",
+     "source": "https://www.umegei.com/the-scarlet-pimpernel/",
+     "asset": "8f3e6469019248a8",
+     "resolution": "147 × 172"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2017 スカーレット・ピンパーネル",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KRv7VGdogwJ22EXUZaFisqg"
+    }
+   ]
+  },
+  {
+   "id": "e79",
+   "date": "2017-11-25",
+   "end": "",
+   "category": "采访／连载",
+   "title": "专访：以30岁前登上帝国剧场为目标",
+   "japanese": "要チェックの若手俳優、東啓介とは？",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.jprime.jp/articles/-/11125?page=2",
+   "note": "周刊女性PRIME",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://jprime.ismcdn.jp/mwimgs/3/7/-/img_37839af8add1c2224806b703276c5061720274.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.jprime.jp/articles/-/11125?page=2",
+     "asset": "73d7efd3110f67fd",
+     "resolution": "1280 × 854"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e22",
+   "date": "2018-01-21",
+   "end": "2018-02-18",
+   "category": "舞台",
+   "title": "音乐剧《玛塔·哈丽》",
+   "japanese": "マタ・ハリ",
+   "role": "阿尔芒（アルマン）",
+   "crew": "导演：石丸さち子",
+   "key": "mata2018",
+   "url": "https://www.umegei.com/matahari2018/",
+   "note": "官网为1月21日开演，维基写1月22日；采用官网。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.umegei.com/matahari2018/images/cast/cast_higashi.jpg",
+     "caption": "官网演员宣传照；请点原图核对造型",
+     "source": "https://www.umegei.com/matahari2018/",
+     "asset": "7904c1e43705c5ac",
+     "resolution": "590 × 800"
+    }
+   ],
+   "videos": [
+    {
+     "id": "C1EF-8m-Uv8",
+     "title": "官方舞台片段：加藤和树×东启介版",
+     "url": "https://www.youtube.com/watch?v=C1EF-8m-Uv8",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.umegei.com/matahari2018/"
+    },
+    {
+     "id": "rR34goiMhjo",
+     "title": "东启介本人出演感言",
+     "url": "https://www.youtube.com/watch?v=rR34goiMhjo",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.umegei.com/matahari2018/"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2018・2021 マタ・ハリ",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTQ8_KBHMUFNS0x7ZX_nfxn"
+    }
+   ]
+  },
+  {
+   "id": "e23",
+   "date": "2018-04-03",
+   "end": "2018-04-23",
+   "category": "舞台",
+   "title": "摇滚音乐剧《5DAYS：边境的罗密欧与朱丽叶》",
+   "japanese": "5DAYS 辺境のロミオとジュリエット",
+   "role": "哈瓦尔（ハワル，主演）",
+   "crew": "编剧／作词／导演：石丸さち子",
+   "key": "5days",
+   "url": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2018 5DAYS",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KS_CkwMHfPSaTFXCk9ny1jK"
+    }
+   ]
+  },
+  {
+   "id": "e24",
+   "date": "2018-06-02",
+   "end": "2018-07-29",
+   "category": "舞台",
+   "title": "《刀剑乱舞》悲传 结之目的不如归",
+   "japanese": "刀剣乱舞 悲伝 結いの目の不如帰",
+   "role": "烛台切光忠",
+   "crew": "编剧／导演：末满健一",
+   "key": "hiden",
+   "url": "https://stage-toukenranbu.jp/archive/hiden/cast.html",
+   "note": "中文为便于阅读的译写，日文原题一并保留。",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://stage-toukenranbu.jp/archive/hiden/images/cast/shokudai.jpg",
+     "caption": "官网角色写真：烛台切光忠／悲传",
+     "source": "https://stage-toukenranbu.jp/archive/hiden/cast.html",
+     "asset": "197d996f9649e33b",
+     "resolution": "400 × 600"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e25",
+   "date": "2018-08-25",
+   "end": "2018-09-09",
+   "category": "舞台",
+   "title": "音乐剧《Marigold（金盏花）》",
+   "japanese": "ミュージカル『マリーゴールド』",
+   "role": "科利乌斯（コリウス）",
+   "crew": "编剧／导演：末满健一",
+   "key": "marigold",
+   "url": "https://www.ponycanyon.co.jp/visual/PCBP000053909",
+   "note": "现有配图为发行方DVD封面，非东启介个人定装照。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.ponycanyon.co.jp/images/wcms/accessor/bin/jacket/PCBP000053909.jpg?size=3&order=1",
+     "caption": "发行方DVD封面",
+     "source": "https://www.ponycanyon.co.jp/visual/PCBP000053909",
+     "asset": "1122d79584a3d21a",
+     "resolution": "178 × 250"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2017-2018 TRUMPシリーズ",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KT45NPNYu5BD1lDYe0lSf0v"
+    }
+   ]
+  },
+  {
+   "id": "s148",
+   "date": "2018-10-04",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《あさステ！》周四主持首期",
+   "japanese": "あさステ！木曜日",
+   "role": "周四主持：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://www.joqr.co.jp/article/detail/316_216.php",
+   "note": "全节目2018年10月1日开播；周四担当首期按排期为10月4日，具体首期页面待核。不把周一节目开播日误记为本人首期。",
+   "status": "主持身份已核实；本人首期日期按周历推定",
+   "origin": "补充检索",
+   "dateKind": "本人首期日期（推定）",
+   "images": [
+    {
+     "url": "https://www.joqr.co.jp/article/images/asasute.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.joqr.co.jp/article/detail/316_216.php",
+     "asset": "ab117ace7229276a",
+     "resolution": "600 × 306"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "e26",
+   "date": "2018-10-06",
+   "end": "",
+   "category": "动画电影",
+   "title": "《薄墨樱 -GARO-》",
+   "japanese": "薄墨桜 -GARO-",
+   "role": "时丸（配音）",
+   "crew": "",
+   "key": "garo",
+   "url": "https://garo-project.jp/usuzumizakura/sp/news.php",
+   "note": "配音作品；动画角色图不属于东启介真人剧照。",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "上映日",
+   "images": [
+    {
+     "url": "https://garo-project.jp/usuzumizakura/sp/img/top/mainVisual.jpg",
+     "caption": "官方动画海报；本人为配音出演",
+     "source": "https://garo-project.jp/usuzumizakura/sp/news.php",
+     "asset": "bd995b7b2381ea09",
+     "resolution": "640 × 960"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s169",
+   "date": "2018-10-09",
+   "end": "",
+   "category": "音乐会",
+   "title": "《茧期夜会》",
+   "japanese": "繭期夜会",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e27",
+   "date": "2018-11-24",
+   "end": "2018-12-22",
+   "category": "舞台",
+   "title": "《性命出售》",
+   "japanese": "命売ります",
+   "role": "山田羽仁男（主演）",
+   "crew": "编剧／导演：ノゾエ征爾",
+   "key": "inochi",
+   "url": "https://stage.parco.jp/program/inochi/",
+   "note": "东京11月24日–12月9日；巡演另至12月22日。维基只列东京档期。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://stage.parco.jp//image/parcoplay/store/storage/h600/s_inochi_honchirashi.jpg",
+     "caption": "官方作品海报",
+     "source": "https://stage.parco.jp/program/inochi/",
+     "asset": "2e5c21c4552c81a9",
+     "resolution": "424 × 600"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e95",
+   "date": "2019",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《吸血鬼之舞》东启介专访（上）",
+   "japanese": "《吸血鬼之舞》东启介专访（上）",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ideanews.jp/archives/77471",
+   "note": "部分内容付费；日期只确认到年份",
+   "status": "原文定位；准确发布日期待复核",
+   "origin": "公开检索补充",
+   "dateKind": "发布日期精度有限",
+   "images": [
+    {
+     "url": "https://ideanews.jp/wp-content/uploads/2019/10/01-00_アイキャッチ用_B5A8527_ok-700x335.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://ideanews.jp/archives/77471",
+     "asset": "fe640ae962efe408",
+     "resolution": "700 × 335"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e96",
+   "date": "2019",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《吸血鬼之舞》东启介专访（下）",
+   "japanese": "《吸血鬼之舞》东启介专访（下）",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ideanews.jp/archives/77477",
+   "note": "部分内容付费；日期只确认到年份",
+   "status": "原文定位；准确发布日期待复核",
+   "origin": "公开检索补充",
+   "dateKind": "发布日期精度有限",
+   "images": [
+    {
+     "url": "https://ideanews.jp/wp-content/uploads/2019/10/02-00_アイキャッチ用_B5A8639_ok-700x335.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://ideanews.jp/archives/77477",
+     "asset": "b1956a48818119da",
+     "resolution": "700 × 335"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e80",
+   "date": "2019-04-23",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《Color of Life》三人专访",
+   "japanese": "石丸さち子、東啓介、青野紗穂インタビュー",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://magazine.stagebook.jp/interview/coloroflife",
+   "note": "Stagebook",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://magazine.stagebook.jp/wp-content/uploads/2019/04/re-ColorofLife_01.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://magazine.stagebook.jp/interview/coloroflife",
+     "asset": "6546cfa7e2c4a967",
+     "resolution": "600 × 345"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e28",
+   "date": "2019-04-26",
+   "end": "2019-05-27",
+   "category": "舞台",
+   "title": "音乐剧《Color of Life（生命的色彩）》",
+   "japanese": "Color of Life",
+   "role": "广濑和也（主演）",
+   "crew": "编剧／作词／导演：石丸さち子",
+   "key": "color",
+   "url": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/",
+   "note": "4月26日为相模预演；东京正式公演5月1–27日。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/img/main_img.jpg",
+     "caption": "官方作品主视觉",
+     "source": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/",
+     "asset": "8ea9015ce3da0185",
+     "resolution": "305 × 428"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e29",
+   "date": "2019-07-06",
+   "end": "2019-07-31",
+   "category": "舞台",
+   "title": "《胜小吉传：啊，我人生最美好的今天》",
+   "japanese": "勝小吉伝～ああ わが人生最良の今日～",
+   "role": "胜麟太郎",
+   "crew": "导演：鸿上尚史",
+   "key": "katsu",
+   "url": "https://www.meijiza.co.jp/lineup/2019/07/",
+   "note": "中村雅俊45周年纪念公演第一部；原履历副标题有错字。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2019/07/images/main_header.jpg",
+     "caption": "官方作品主视觉",
+     "source": "https://www.meijiza.co.jp/lineup/2019/07/",
+     "asset": "164eaf65d35f7464",
+     "resolution": "1280 × 610"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s158",
+   "date": "2019-09-03",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《Radio iNEWS》",
+   "japanese": "ラジオiNEWS",
+   "role": "当期主持：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://twfan.net/user/923437529428197376/old/2",
+   "note": "18:15–19:00；节目官方推文的第三方存档，待电台原始档案复核。",
+   "status": "官方推文存档线索",
+   "origin": "补充检索",
+   "dateKind": "节目播出日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "e30",
+   "date": "2019-10-12",
+   "end": "",
+   "category": "电视剧",
+   "title": "《Re:FOLLOWER》第2集",
+   "japanese": "Re:フォロワー 第2話",
+   "role": "安平胜成",
+   "crew": "",
+   "key": "",
+   "url": "https://www.asahi.co.jp/refollower/",
+   "note": "朝日电视台与ABC播出日期不同；ABC为10月13日。跨午夜的实际日历日期也可能不同。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "朝日电视台标注放送日",
+   "images": [
+    {
+     "url": "https://www.asahi.co.jp/refollower/img/common/og02.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.asahi.co.jp/refollower/",
+     "asset": "ca7d6ca21822657c",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e31",
+   "date": "2019-11-05",
+   "end": "2020-01-20",
+   "category": "舞台",
+   "title": "音乐剧《吸血鬼之舞》",
+   "japanese": "ダンス オブ ヴァンパイア",
+   "role": "阿尔弗雷德（アルフレート）",
+   "crew": "导演：山田和也",
+   "key": "",
+   "url": "https://www.artandlive.net/events/musical-vampire",
+   "note": "东京11月5–27日；巡演至2020年1月20日。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://talc-images.s3.ap-northeast-1.amazonaws.com/public/events/fe4XeIeCS86YSBaqFF7DN3LfqXKXuwCdDRLMa8MJ.jpeg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.artandlive.net/events/musical-vampire",
+     "asset": "7413652e46c92398",
+     "resolution": "280 × 396"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s149",
+   "date": "2019-11-10",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《よるステ！》特别直播：东启介×植田圭辅",
+   "japanese": "東啓介の「よるステ！」",
+   "role": "主持：东启介／嘉宾：植田圭辅",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000000003.000050435.html",
+   "note": "节目2019年11月10日播出；主办方报道11月15日发表。旧回看限时开放，现不保证可播放。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "节目播出日",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/50435/3/resize/d50435-3-810070-0.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://prtimes.jp/main/html/rd/p/000000003.000050435.html",
+     "asset": "4730daac59dbd897",
+     "resolution": "650 × 358"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "s170",
+   "date": "2019-11-18",
+   "end": "",
+   "category": "音乐会",
+   "title": "《茧期大夜会》",
+   "japanese": "繭期大夜会",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e32",
+   "date": "2020-01-24",
+   "end": "",
+   "category": "电影",
+   "title": "《信号100》",
+   "japanese": "シグナル100",
+   "role": "藤田阳太郎",
+   "crew": "导演：竹叶リサ",
+   "key": "",
+   "url": "https://eiga.com/movie/91657/",
+   "note": "",
+   "status": "上映日及角色经电影资料核对",
+   "origin": "原履历",
+   "dateKind": "上映日",
+   "images": [
+    {
+     "url": "https://media.eiga.com/images/movie/91657/photo/f64a09ceb60f2c8d.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://eiga.com/movie/91657/",
+     "asset": "d123543fd8772264",
+     "resolution": "800 × 533"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e33",
+   "date": "2020-02-28",
+   "end": "",
+   "category": "网络剧",
+   "title": "《湘南纯爱组！》",
+   "japanese": "湘南純愛組！",
+   "role": "神岛俊生",
+   "crew": "编剧／导演：内田英治",
+   "key": "",
+   "url": "https://younggto.com/trailer-character/",
+   "note": "2020年2月28日Prime Video上线，非电视首播。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "首发上线日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s150",
+   "date": "2020-03-16",
+   "end": "",
+   "category": "写真／出版",
+   "title": "《あさステ！》官方Fan Book",
+   "japanese": "あさステ！公式ファンブック",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.joqr.co.jp/article/detail/316_216.php",
+   "note": "收录六位主持人的拍摄与访谈。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://www.joqr.co.jp/article/images/asasute.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.joqr.co.jp/article/detail/316_216.php",
+     "asset": "ab117ace7229276a",
+     "resolution": "600 × 306"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e34",
+   "date": "2020-03-19",
+   "end": "2020-03-27",
+   "category": "舞台",
+   "title": "音乐剧《Whistle Down the Wind：纯真的眼眸》",
+   "japanese": "ホイッスル・ダウン・ザ・ウィンド～汚れなき瞳～",
+   "role": "埃莫斯（エイモス）",
+   "crew": "导演：白井晃",
+   "key": "whistle",
+   "url": "https://www.amuse.co.jp/about/stage/?k=ホイッスル・ダウン・ザ・ウィンド&y1=2020&y2=2020",
+   "note": "原定3月7日起巡演至4月30日；受疫情影响，实际仅3月19–27日上演。日程采用制作方Amuse取消说明。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.amuse.co.jp/assets/img/og.gif?v=20260701",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.amuse.co.jp/about/stage/?k=ホイッスル・ダウン・ザ・ウィンド&y1=2020&y2=2020",
+     "asset": "32dbc546f5959808",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e35",
+   "date": "2020-06-20",
+   "end": "",
+   "category": "朗读剧",
+   "title": "《血字的研究》",
+   "japanese": "リーディングシアター 緋色の研究",
+   "role": "夏洛克·福尔摩斯",
+   "crew": "",
+   "key": "",
+   "url": "https://sato-ryuji.com/contents/370307",
+   "note": "企划全期6月17–21日；东启介×桥本祥平为6月20日18:00。",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "东启介出演日",
+   "images": [
+    {
+     "url": "https://sato-ryuji.com/assets/satoryuji/app/og_image.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://sato-ryuji.com/contents/370307",
+     "asset": "17ef63bf09c3596f",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "asast_091",
+   "date": "2020-06-25",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《东启介的あさステ！》第91回｜藤田玲",
+   "japanese": "【第91回】東啓介の「あさステ！」ゲスト：藤田玲【6/25配信】",
+   "role": "主持：东启介；嘉宾：藤田玲",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/270919",
+   "note": "07:00–07:30，超！A&G+；同日20:00在YouTube及Niconico配信存档。两人谈共演作品与听众来信。",
+   "status": "当年出演公告确认日期；第91回期数据视频标题",
+   "origin": "当年节目出演公告",
+   "dateKind": "原节目播出日",
+   "images": [],
+   "videos": [],
+   "biliLinks": [
+    {
+     "url": "https://www.bilibili.com/video/BV1qa4y1h7dP/",
+     "title": "【第91回】东启介的《あさステ！》｜嘉宾：藤田玲"
+    }
+   ],
+   "pending": false,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "asast_fujita_200702",
+   "date": "2020-07-02",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《东启介的あさステ！》藤田玲嘉宾回（第二周）",
+   "japanese": "東啓介のあさステ！ 藤田玲ゲスト出演",
+   "role": "主持：东启介；嘉宾：藤田玲",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/270919",
+   "note": "藤田玲连续两周做客的第二回；07:00–07:30播出，同日20:00配信存档。",
+   "status": "当年出演公告确认日期；第91回期数据视频标题",
+   "origin": "当年节目出演公告",
+   "dateKind": "原节目播出日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "e36",
+   "date": "2020-07-05",
+   "end": "",
+   "category": "朗读剧",
+   "title": "《Defiled》朗读版",
+   "japanese": "Defiled-ディファイルド-",
+   "role": "哈里·门德尔松（ハリー・メンデルソン）",
+   "crew": "导演：铃木胜秀",
+   "key": "defiled",
+   "url": "https://stagegate-vr.jp/vol1/",
+   "note": "全项目7月1日起；官网明确7月5日18:30东启介×岸祐二。另有本人场次，不将单场误写为全项目档期。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "已核实的本人出演场次日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e37",
+   "date": "2020-07-06",
+   "end": "2020-08-09",
+   "category": "舞台",
+   "title": "音乐剧《泽西男孩》原定完整版（全公演取消）",
+   "japanese": "ジャージー・ボーイズ（2020年予定公演）",
+   "role": "鲍勃·高迪奥（ボブ・ゴーディオ）",
+   "crew": "导演：藤田俊太郎",
+   "key": "",
+   "url": "https://www.wowow.co.jp/eventinfo/detail/event-1260.html",
+   "note": "原定出演记录；实际未上演，不能当作完成的演出履历。另列实际音乐会版。",
+   "status": "已核实取消",
+   "origin": "原履历",
+   "dateKind": "原定首演日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e38",
+   "date": "2020-07-18",
+   "end": "2020-08-05",
+   "category": "音乐会",
+   "title": "《泽西男孩》音乐会版",
+   "japanese": "ジャージー・ボーイズ イン コンサート",
+   "role": "鲍勃·高迪奥",
+   "crew": "导演：藤田俊太郎",
+   "key": "",
+   "url": "https://www.tohostage.com/cancel2020_11/jersey.html",
+   "note": "7月18日以无观众线上配信开幕；7月18–21日有观众场次取消。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "线上开演日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e81",
+   "date": "2020-10-17",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《恋，燃烧吧。》专访（上）",
+   "japanese": "一度悪いヤツを作って、次はいい人で",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ideanews.jp/archives/97810",
+   "note": "Idea News；部分内容付费",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://ideanews.jp/wp-content/uploads/2020/10/01-00_アイキャッチ用_200918GB_DSC00493_h-700x335.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://ideanews.jp/archives/97810",
+     "asset": "a10d36b11b71e9f4",
+     "resolution": "700 × 335"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e82",
+   "date": "2020-10-18",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《恋，燃烧吧。》专访（下）",
+   "japanese": "心に空いた穴はちょっと残っています",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ideanews.jp/archives/97821",
+   "note": "Idea News；部分内容付费",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://ideanews.jp/wp-content/uploads/2020/10/02-00_アイキャッチ用_200918GB_DSC00465-700x335.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://ideanews.jp/archives/97821",
+     "asset": "ade1102285eb6629",
+     "resolution": "700 × 335"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e39",
+   "date": "2020-10-19",
+   "end": "2020-11-15",
+   "category": "舞台",
+   "title": "《恋，燃烧吧。》——改编自秋元松代《阿珊之恋》",
+   "japanese": "恋、燃ゆる。～秋元松代作「おさんの恋」より～",
+   "role": "政之助",
+   "crew": "导演：石丸さち子",
+   "key": "koi",
+   "url": "https://www.meijiza.co.jp/lineup/2020/10/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2020/10/images/main_cast.jpg",
+     "caption": "官方演员合照",
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/",
+     "asset": "e5ffef33904bd25c",
+     "resolution": "1280 × 830"
+    }
+   ],
+   "videos": [
+    {
+     "id": "4eOorayHphA",
+     "title": "东启介本人出演感言",
+     "url": "https://www.youtube.com/watch?v=4eOorayHphA",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+    },
+    {
+     "id": "w39FfpQ5i2w",
+     "title": "官方舞台片段",
+     "url": "https://www.youtube.com/watch?v=w39FfpQ5i2w",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2020 恋燃ゆる",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KQJdzlJIhmceDZB0MSOrtyQ"
+    }
+   ]
+  },
+  {
+   "id": "m405",
+   "date": "2020-11-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "本人专访（前篇）：想证明自己的存在意义",
+   "japanese": "東 啓介さん《前編》「存在意義を示していきたい」",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/405/",
+   "note": "原始采访／报道；正文请到发布方阅读。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw033.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/405/",
+     "asset": "161086235bd7c112",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m406",
+   "date": "2020-11-11",
+   "end": "",
+   "category": "采访／连载",
+   "title": "本人专访（后篇）：想证明自己的存在意义",
+   "japanese": "東 啓介さん《後編》「存在意義を示していきたい」",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/406/",
+   "note": "原始采访／报道；正文请到发布方阅读。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw034.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/406/",
+     "asset": "6a7e5f5ea08bfb7e",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e40",
+   "date": "2020-11-28",
+   "end": "2020-11-29",
+   "category": "音乐会",
+   "title": "首场个人音乐会《A NEW ME》",
+   "japanese": "東啓介1st Musical Concert A NEW ME",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://enterstage.jp/articles/78407",
+   "note": "",
+   "status": "本人演出报道已核对",
+   "origin": "维基补充",
+   "dateKind": "活动首日",
+   "images": [
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2020/12/78407_2.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://enterstage.jp/articles/78407",
+     "asset": "44f109bbf2d8a9f2",
+     "resolution": "758 × 568"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m428",
+   "date": "2021-01-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#1｜一切由此开始：原点《咖啡之歌》",
+   "japanese": "【#1】すべてはここから始まった　原点の「カフェ・ソング」（レ・ミゼラブル）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/428/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw048.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/428/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e41",
+   "date": "2021-01-13",
+   "end": "2021-03-17",
+   "category": "电视剧",
+   "title": "《我家女儿交不到男朋友!!》",
+   "japanese": "ウチの娘は、彼氏が出来ない!!",
+   "role": "涉周一",
+   "crew": "编剧：北川悦吏子",
+   "key": "uchikare",
+   "url": "https://www.ntv.co.jp/uchikare/articles/205261mefmaix3vhul5g.html",
+   "note": "官网首播1月13日，维基写1月12日；以电视台为准。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首播日",
+   "images": [
+    {
+     "url": "https://www.ntv.co.jp/uchikare/articles/images/47pv6t32e0uabk3lfvqg3bilpyea1t.jpg",
+     "caption": "电视台公开剧照（含其他演员）",
+     "source": "https://www.ntv.co.jp/uchikare/articles/205261mefmaix3vhul5g.html",
+     "asset": "8ea948e91249926d",
+     "resolution": "700 × 394"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e83",
+   "date": "2021-01-20",
+   "end": "",
+   "category": "采访／连载",
+   "title": "本人专访：舞台与影视，两边都想做好",
+   "japanese": "映像・舞台、どちらでも活躍できる役者になりたい",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://deview.co.jp/Interview?am_interview_id=993&am_view_page=1",
+   "note": "Deview",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m429",
+   "date": "2021-02-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#2｜放在当下也适用的《一小片勇气》",
+   "japanese": "【#2】今の時代にも通じる「ひとかけらの勇気」（スカーレット・ピンパーネル）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/429/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw057.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/429/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e102",
+   "date": "2021-03-10",
+   "end": "",
+   "category": "写真／出版",
+   "title": "写真集《何色》",
+   "japanese": "東啓介写真集 何色",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "",
+   "status": "维基待出版社复核",
+   "origin": "维基补充",
+   "dateKind": "发售日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m430",
+   "date": "2021-03-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#3｜从春马先生那里获得力量的《独白》",
+   "japanese": "【#3】春馬さんに力をもらった「独白」（ホイッスル・ダウン・ザ・ウィンド）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/430/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw065.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/430/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e84",
+   "date": "2021-03-12",
+   "end": "",
+   "category": "采访／连载",
+   "title": "本人专访：找到属于自己的武器——唱歌",
+   "japanese": "自分の武器は何かと考え抜いて、歌に行き着いた",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://fujinkoron.jp/articles/-/3491?display=full",
+   "note": "妇人公论",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://fujinkoronmw.ismcdn.jp/mwimgs/3/4/-/img_34b7c2191979cf1e5c0e22d5e8d05664398057.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://fujinkoron.jp/articles/-/3491?display=full",
+     "asset": "f4ce284135c7bf8c",
+     "resolution": "1000 × 563"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e97",
+   "date": "2021-03-23",
+   "end": "",
+   "category": "采访／连载",
+   "title": "BOYS Pia：经历《我家女儿交不到男朋友!!》后想飞得更高",
+   "japanese": "BOYS Pia：经历《我家女儿交不到男朋友!!》后想飞得更高",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://lp.p.pia.jp/article/series/176438/176443/index.html",
+   "note": "原始专访；日期待复核",
+   "status": "原文定位；准确发布日期待复核",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/462f1eb9-3f13-4b77-8910-fd89a0be6320/origin.JPG",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://lp.p.pia.jp/article/series/176438/176443/index.html",
+     "asset": "53326c7cef3b7ca4",
+     "resolution": "1200 × 800"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_cancam2105",
+   "date": "2021-03-23",
+   "end": "",
+   "category": "杂志",
+   "title": "《CanCam》2021年5月号｜妄想心动剧场",
+   "japanese": "CanCam 2021年5月号 妄想キュン♡劇場",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://cancam.jp/archives/939481",
+   "note": "图书馆恋爱故事的纸面企划，同步推出本人主演短片及拍摄后采访。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://cancam.jp/wp-content/uploads/2021/04/04/C0078-scaled-e1617800390681.jpg",
+     "caption": "CanCam官方短片及采访公开配图",
+     "source": "https://cancam.jp/archives/939481",
+     "asset": "6f17220b88d7e811",
+     "resolution": "1500 × 1000"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_cancam210324",
+   "date": "2021-03-24",
+   "end": "",
+   "category": "采访／连载",
+   "title": "CanCam图书馆短片与拍摄后专访（上）",
+   "japanese": "いつまでも初心のままで〜彼女と図書館で〜",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://cancam.jp/archives/939481",
+   "note": "主演恋爱短片，谈拍摄感受、约会与理想相处方式。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://cancam.jp/wp-content/uploads/2021/04/04/C0078-scaled-e1617800390681.jpg",
+     "caption": "CanCam官方公开配图",
+     "source": "https://cancam.jp/archives/939481",
+     "asset": "6f17220b88d7e811",
+     "resolution": "1500 × 1000"
+    }
+   ],
+   "videos": [
+    {
+     "id": "JjCFokZKmIg",
+     "url": "https://www.youtube.com/watch?v=JjCFokZKmIg",
+     "title": "CanCam｜东启介主演：图书馆恋爱短片及本人留言"
+    }
+   ],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e85",
+   "date": "2021-03-26",
+   "end": "",
+   "category": "采访／连载",
+   "title": "本人专访：通过与人交流不断成长",
+   "japanese": "周りの人とコミュニケーションを取ることによって成長できると思う",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://townwork.net/magazine/job/workstyle/109719/",
+   "note": "Townwork",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://media.townwork.net/uploads/2021/03/OGP-1.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://townwork.net/magazine/job/workstyle/109719/",
+     "asset": "4ebbc07f25d1150e",
+     "resolution": "620 × 325"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e42",
+   "date": "2021-03-27",
+   "end": "2021-04-28",
+   "category": "舞台",
+   "title": "百老汇音乐剧《IN THE HEIGHTS（身在高地）》",
+   "japanese": "IN THE HEIGHTS イン・ザ・ハイツ",
+   "role": "本尼（ベニー）",
+   "crew": "导演／编舞：TETSUHARU",
+   "key": "heights",
+   "url": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/",
+   "note": "3月27–28日为镰仓预演；后续东京部分场次受疫情影响，原定终演日期与实际执行需分看。",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/img/main_img01.jpg",
+     "caption": "官方作品主视觉",
+     "source": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/",
+     "asset": "9f301cb36994ca47",
+     "resolution": "550 × 778"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2021 イン・ザ・ハイツ",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KRp9nQqzjbjQKUqzubvpQYF"
+    }
+   ]
+  },
+  {
+   "id": "m431",
+   "date": "2021-04-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#4｜在原版现场听到《Waving Through a Window》的震撼",
+   "japanese": "【#4】本場で聞いて驚いた「Waving Through a Window」（Dear Evan Hansen）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/431/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw070.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/431/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m432",
+   "date": "2021-05-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#5｜从《成为英雄》到《普通的人生》的成长",
+   "japanese": "【#5】「英雄であれ」から「普通の人生」へ成長していく姿を（マタ・ハリ）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/432/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw081.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/432/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m433",
+   "date": "2021-06-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#6｜拓宽表达方式的《96,000》",
+   "japanese": "【#6】表現の幅を広げてくれた「96,000」（イン・ザ・ハイツ）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/433/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw091.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/433/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e43",
+   "date": "2021-06-15",
+   "end": "2021-07-20",
+   "category": "舞台",
+   "title": "音乐剧《玛塔·哈丽》再演",
+   "japanese": "マタ・ハリ（2021）",
+   "role": "阿尔芒·吉罗（アルマン・ジロー）",
+   "crew": "导演：石丸さち子",
+   "key": "mata2021",
+   "url": "https://www.umegei.com/matahari2021/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.umegei.com/matahari2021/images/cast/cast06.jpg",
+     "caption": "2021官网演员宣传照：东启介",
+     "source": "https://www.umegei.com/matahari2021/",
+     "asset": "9d730935686c9892",
+     "resolution": "250 × 280"
+    }
+   ],
+   "videos": [
+    {
+     "id": "q_IReA4lDkY",
+     "title": "东启介本人出演感言（2021）",
+     "url": "https://www.youtube.com/watch?v=q_IReA4lDkY",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.umegei.com/matahari2021/"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2018・2021 マタ・ハリ",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTQ8_KBHMUFNS0x7ZX_nfxn"
+    }
+   ]
+  },
+  {
+   "id": "m434",
+   "date": "2021-07-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#7｜想一直珍惜的《My Eyes Adored You》",
+   "japanese": "【#7】ずっと大事にしたい「My Eyes Adored You」（ジャージー・ボーイズ）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/434/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw099.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/434/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m435",
+   "date": "2021-08-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#8｜在百老汇再遇见《生生不息》",
+   "japanese": "【#8】ブロードウェイで再会した「サークル・オブ・ライフ」（ライオンキング）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/435/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw108-.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/435/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m436",
+   "date": "2021-09-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#9｜给予做自己勇气的《Let It Go》",
+   "japanese": "【#9】ありのまま進む勇気をくれた「Let It Go」（アナと雪の女王）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/436/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw116.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/436/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s171",
+   "date": "2021-09-25",
+   "end": "",
+   "category": "音乐会",
+   "title": "《REON JACK 4》嘉宾",
+   "japanese": "REON JACK 4",
+   "role": "轮替嘉宾",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m437",
+   "date": "2021-10-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#10｜坦露自己带来救赎：《And You Don’t Even Know It》",
+   "japanese": "【#10】さらけ出すことで救われる「And You Don’t Even Know It」（ジェイミー）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/437/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw129-.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/437/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e44",
+   "date": "2021-10-28",
+   "end": "2021-12-23",
+   "category": "电视剧",
+   "title": "《也就是说，我喜欢你。》",
+   "japanese": "つまり好きって言いたいんだけど、",
+   "role": "加贺见修",
+   "crew": "",
+   "key": "suki",
+   "url": "https://www.tv-tokyo.co.jp/tsumarisuki/cast/",
+   "note": "第4集起登场；官网角色名为「加賀見修」，维基「加賀美修」有误。作品首播为10月6日深夜（实际10月7日）。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "本人登场集播出日（实际日历日）",
+   "images": [
+    {
+     "url": "https://www.tv-tokyo.co.jp/tsumarisuki/image/cast/06.jpg",
+     "caption": "官方演员页：加贺见修",
+     "source": "https://www.tv-tokyo.co.jp/tsumarisuki/cast/",
+     "asset": "404fe5babd62f095",
+     "resolution": "650 × 700"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m438",
+   "date": "2021-11-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#11｜连交锋都能成为表演：《The Other Side》",
+   "japanese": "【#11】駆け引きすらショーになる「The Other Side」（グレイテスト・ショーマン）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/438/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw136.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/438/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e45",
+   "date": "2021-12-02",
+   "end": "",
+   "category": "网络剧",
+   "title": "《我变成野兽的夜晚：没有名字的关系》第5集",
+   "japanese": "私が獣になった夜〜名前のない関係〜 第5話",
+   "role": "井手祐",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "",
+   "status": "维基待原平台复核",
+   "origin": "维基补充",
+   "dateKind": "上线日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m439",
+   "date": "2021-12-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#12｜唱出惆怅的《Santa Fe》",
+   "japanese": "【#12】切なく歌い上げる「サンタフェ」（ニュージーズ）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/439/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw147-.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/439/",
+     "asset": "c2bc9ad068971741",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m440",
+   "date": "2022-01-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#13｜感受到阴影的《我就是音乐》",
+   "japanese": "【#13】影を感じる「僕こそ音楽」（モーツァルト！）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/440/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw158-.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/440/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e46",
+   "date": "2022-01-11",
+   "end": "2022-03-15",
+   "category": "电视剧",
+   "title": "《Fight Song（战斗之歌）》",
+   "japanese": "ファイトソング",
+   "role": "乌丸薰",
+   "crew": "编剧：冈田惠和",
+   "key": "fight",
+   "url": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首播日",
+   "images": [
+    {
+     "url": "https://www.tbs.co.jp/fight_song_tbs2022/img/ogp.png?555",
+     "caption": "电视台作品海报",
+     "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
+     "asset": "627eca80ca2cf665",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s151",
+   "date": "2022-01-17",
+   "end": "2022-01-28",
+   "category": "广播／音声",
+   "title": "NHK广播剧《六个说谎的大学生》",
+   "japanese": "青春アドベンチャー 六人の嘘つきな大学生",
+   "role": "久贺苍太",
+   "crew": "",
+   "key": "",
+   "url": "https://www.maimupro.co.jp/news/17002/?set=osaka&tab=",
+   "note": "NHK-FM全10集；时间经出演方公告核对，东启介的角色名待NHK原角色表复核。",
+   "status": "播出日已核对；角色待NHK原页复核",
+   "origin": "补充检索",
+   "dateKind": "广播剧首播日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "s172",
+   "date": "2022-01-28",
+   "end": "",
+   "category": "音乐会",
+   "title": "Japan Musical Festival 2022",
+   "japanese": "Japan Musical Festival 2022",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "biliLinks": [
+    {
+     "url": "https://www.bilibili.com/video/BV1Rq4y187Lu/",
+     "title": "加藤和树×东启介｜《闇が広がる》（阴霾渐袭）"
+    }
+   ],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m441",
+   "date": "2022-02-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#14｜美丽与悲剧交织的《Tonight》",
+   "japanese": "【#14】際立つ美しさと悲劇「Tonight(トゥナイト)」（映画「ウエスト・サイド・ストーリー」）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/441/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw170-.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/441/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e86",
+   "date": "2022-02-15",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《Fight Song》专访：最早的音乐启蒙",
+   "japanese": "小さいとき、親にSMAPさんの「世界に一つだけの花」を弾きたいと言ったら",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://deview.co.jp/Interview?am_interview_id=1119&am_view_page=2",
+   "note": "Deview",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m442",
+   "date": "2022-03-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#15｜番外：方方面面都很厉害的剧团四季《冰雪奇缘》",
+   "japanese": "【＃15 番外編】すべてがすごい劇団四季「アナと雪の女王」｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/442/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw177.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/442/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s173",
+   "date": "2022-03-27",
+   "end": "",
+   "category": "音乐会",
+   "title": "Musical Stars Symphonic Pops Concert",
+   "japanese": "Sound Inn S meets billboard classics ミュージカルスターズ シンフォニーポップス コンサート",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m443",
+   "date": "2022-04-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#16｜感受到日本漫画力量的《死亡笔记》",
+   "japanese": "【#16】日本の漫画の力を感じる「デスノート」（デスノート）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/443/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw190.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/443/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m444",
+   "date": "2022-05-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#17｜触动成年人内心的《Feed the Birds》",
+   "japanese": "【＃17】大人の心に響く「鳥に餌を／Feed the Birds」（メリー・ポピンズ）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/444/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw202.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/444/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e47",
+   "date": "2022-05-25",
+   "end": "",
+   "category": "电视剧",
+   "title": "《武士成为麦当劳店员这件事。》第2集",
+   "japanese": "武士が、マックで店員になった件。 第2話",
+   "role": "神秘男子",
+   "crew": "",
+   "key": "",
+   "url": "https://www.mcdonalds.co.jp/company/news/2022/0420a/",
+   "note": "",
+   "status": "作品与开播已核实；本人集数／日期待节目表复核",
+   "origin": "维基补充",
+   "dateKind": "本人出演集实际播出日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e48",
+   "date": "2022-06-08",
+   "end": "2022-06-22",
+   "category": "电视剧",
+   "title": "《难破MG5》",
+   "japanese": "ナンバMG5",
+   "role": "小暮翔",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujitv.co.jp/nanbaMG5/",
+   "note": "第8集至最终集；日程待逐集节目表再核。",
+   "status": "原履历确认角色；本人集数日程待复核",
+   "origin": "原履历",
+   "dateKind": "本人登场集播出日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m445",
+   "date": "2022-06-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#18｜眼前浮现不同风景的《Seasons of Love》",
+   "japanese": "【#18】いろんな風景が見える「Seasons of Love」（RENT）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/445/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw211.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/445/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m446",
+   "date": "2022-07-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#19｜传递孤独灵魂呐喊的《Heartbreak Hotel》",
+   "japanese": "【#19】孤独な魂の叫びが伝わる「Heartbreak Hotel」（映画「エルヴィス」）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/446/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw221.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/446/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m447",
+   "date": "2022-08-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#20｜与心意相反的歌词：《化为石头》",
+   "japanese": "【#20】思いと裏腹な歌詞が心に響く「石になろう」（ノートルダムの鐘）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/447/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw227.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/447/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e98",
+   "date": "2022-08-30",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《泽西男孩》东启介×有泽樟太郎专访",
+   "japanese": "《泽西男孩》东启介×有泽樟太郎专访",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://engekisengen.com/genre/musical/42787/",
+   "note": "已用于核对2022版日程",
+   "status": "原文定位；准确发布日期待复核",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://engekisengen.com/genre/musical/42787/",
+     "asset": "0ad08f94d290331d",
+     "resolution": "1707 × 2560"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e49",
+   "date": "2022-09-08",
+   "end": "2022-10-27",
+   "category": "电视剧",
+   "title": "《Chaser Game（追逐游戏）》",
+   "japanese": "チェイサーゲーム",
+   "role": "鱼川贵央",
+   "crew": "",
+   "key": "chaser",
+   "url": "https://www.tv-tokyo.co.jp/chasergame/",
+   "note": "电视台标注9月8日24:30；实际日历为9月9日00:30。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "官方标注首播日",
+   "images": [
+    {
+     "url": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/4c/45/d02f3cbee213eb9ba688995c9156.jpg",
+     "caption": "电视台作品海报",
+     "source": "https://www.tv-tokyo.co.jp/chasergame/",
+     "asset": "4cfc3086b05a59c3",
+     "resolution": "960 × 540"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m448",
+   "date": "2022-09-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#21｜纯粹心意相撞的《世界终结之夜》",
+   "japanese": "【#21】純粋な想いをぶつけ合う「世界が終わる夜のように」（ミス・サイゴン）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/448/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw246.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/448/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_photo130",
+   "date": "2022-09-16",
+   "end": "",
+   "category": "杂志",
+   "title": "《写真LIFE》No.130｜CAMERA LIFE",
+   "japanese": "写真ライフ No.130 2022秋",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://photo-con.net/SHOP/10-26.html",
+   "note": "CAMERA LIFE：东启介（演员）。",
+   "status": "出版社目录确认；发售日据书店记录",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://image1.shopserve.jp/photo-con.net/pic-labo/limg/4910044451026hyoushi.jpg",
+     "caption": "发行方公开封面",
+     "source": "https://photo-con.net/SHOP/10-26.html",
+     "asset": "23944cb79e198db5",
+     "resolution": "250 × 353"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e50",
+   "date": "2022-09-20",
+   "end": "2022-12-27",
+   "category": "电视剧",
+   "title": "《暗金丑岛君外传：暗金犀原小姐》",
+   "japanese": "闇金ウシジマくん外伝 闇金サイハラさん",
+   "role": "肉蝮",
+   "crew": "",
+   "key": "saihara",
+   "url": "https://www.mbs.jp/saihara/",
+   "note": "官方为9月20日深夜；实际日历为9月21日。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "官方标注首播日",
+   "images": [
+    {
+     "url": "https://www.mbs.jp/saihara/images/ogp-new.jpg?0808",
+     "caption": "电视台作品海报",
+     "source": "https://www.mbs.jp/saihara/",
+     "asset": "36b0be661d78a85a",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e51",
+   "date": "2022-10-06",
+   "end": "2022-12-11",
+   "category": "舞台",
+   "title": "音乐剧《泽西男孩》2022",
+   "japanese": "ジャージー・ボーイズ（2022）",
+   "role": "鲍勃·高迪奥",
+   "crew": "导演：藤田俊太郎",
+   "key": "",
+   "url": "https://engekisengen.com/genre/musical/42787/",
+   "note": "10月6–7日为收费预演，正式开演10月8日。2025官网已更新，图片不能直接沿用到2022。",
+   "status": "演员专访所列日程已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://engekisengen.com/genre/musical/42787/",
+     "asset": "0ad08f94d290331d",
+     "resolution": "1707 × 2560"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m449",
+   "date": "2022-10-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#22｜唱给弗兰基的《Cry for Me》",
+   "japanese": "【#22】フランキーへの思いをのせる「Cry for me」（ジャージー・ボーイズ）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/449/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw260.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/449/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m498",
+   "date": "2022-10-28",
+   "end": "",
+   "category": "采访／连载",
+   "title": "受付終了しました【マチ★ソワ先行抽選販売】「東啓介と聴活 クリスマススペシャルイベント」",
+   "japanese": "受付終了しました【マチ★ソワ先行抽選販売】「東啓介と聴活 クリスマススペシャルイベント」",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/498/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/Xmas_sam2_1027.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/498/",
+     "asset": "17abe3b44f178635",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s174",
+   "date": "2022-11-07",
+   "end": "",
+   "category": "活动",
+   "title": "《THE PARTY in PARCO剧场》嘉宾",
+   "japanese": "THE PARTY in PARCO劇場",
+   "role": "轮替嘉宾",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m450",
+   "date": "2022-11-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#23｜让人单纯感到幸福的《修行》",
+   "japanese": "【#23】シンプルに幸せになれる「修行」（バケモノの子）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/450/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw268.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/450/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m380",
+   "date": "2022-11-11",
+   "end": "",
+   "category": "采访／连载",
+   "title": "予定枚数終了しました【一般販売】11月12日（土）正午から販売開始（先着順）「東啓介と聴活 Christmas Special Event」",
+   "japanese": "予定枚数終了しました【一般販売】11月12日（土）正午から販売開始（先着順）「東啓介と聴活 Christmas Special Event」",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/380/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw269.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/380/",
+     "asset": "e7350f7e11a8ace5",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m382",
+   "date": "2022-11-14",
+   "end": "",
+   "category": "采访／连载",
+   "title": "受付終了しました【受注販売開始】東啓介と聴活「オリジナルTシャツ」",
+   "japanese": "受付終了しました【受注販売開始】東啓介と聴活「オリジナルTシャツ」",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/382/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw271.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/382/",
+     "asset": "82647b4d242ce32c",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m451",
+   "date": "2022-12-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#24｜自由又帅气的《The Rum Tum Tugger》",
+   "japanese": "【#24】自由でカッコいい「ザ・ラム・タム・タガー」（映画「CATS」）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/451/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw282.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/451/",
+     "asset": "e74a3d5bf8079be7",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e52",
+   "date": "2022-12-25",
+   "end": "",
+   "category": "活动",
+   "title": "“东启介と聴活”圣诞特别活动",
+   "japanese": "東啓介と聴活★Christmas Special Event",
+   "role": "本人／嘉宾：田代万里生",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/491/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基及主办方补充",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/R_Xmas_sam_2.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://matisowa.jp/491/",
+     "asset": "b3749f1b43b908db",
+     "resolution": "1120 × 692"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e99",
+   "date": "2023",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《婚礼续摊上的人们》东启介专访",
+   "japanese": "《婚礼续摊上的人们》东启介专访",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://stagenews25.jp/?p=85470",
+   "note": "原始专访；日期待复核",
+   "status": "原文定位；准确发布日期待复核",
+   "origin": "公开检索补充",
+   "dateKind": "发布日期精度有限",
+   "images": [
+    {
+     "url": "https://stagenews25.jp/wp-content/uploads/2023/03/DSC02785-Edit_rez.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://stagenews25.jp/?p=85470",
+     "asset": "0328210792242ce5",
+     "resolution": "853 × 1280"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e100",
+   "date": "2023",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《与鸟共舞》排练室专访",
+   "japanese": "《与鸟共舞》排练室专访",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+   "note": "东启介×斋藤瑠希；日期待复核",
+   "status": "原文定位；准确发布日期待复核",
+   "origin": "公开检索补充",
+   "dateKind": "发布日期精度有限",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e53",
+   "date": "2023-01-07",
+   "end": "2023-02-13",
+   "category": "舞台",
+   "title": "音乐剧《美丽的游戏》",
+   "japanese": "ザ・ビューティフル・ゲーム",
+   "role": "托马斯（トーマス）",
+   "crew": "导演：濑户山美咲",
+   "key": "beautiful",
+   "url": "https://grand-arts.com/works/stage/2022the_beautiful_game/",
+   "note": "原作品域名tbg2023.com现已变为其他内容，不能作为可用官网；保留出演方档案。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://grand-arts.com/wp/wp-content/uploads/2022/09/ogp.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://grand-arts.com/works/stage/2022the_beautiful_game/",
+     "asset": "fb0c7de1716e431b",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m768",
+   "date": "2023-01-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#25｜公开采访特别篇：《牛奶》与串联故事的角色",
+   "japanese": "【#25 公開取材スペシャル】場をかき回す狂言回しの面白さ「ミルク」（エリザベート）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/768/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/768/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s152",
+   "date": "2023-02-03",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《加藤和树的Music Bar“Entas” ON RADIO》",
+   "japanese": "加藤和樹のミュージックバー「エンタス」ON RADIO",
+   "role": "嘉宾：东启介；主持：加藤和树",
+   "crew": "",
+   "key": "",
+   "url": "https://www.joqr.co.jp/ag/article/79018/",
+   "note": "19:00–20:30；文化放送原公告。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "节目播出日",
+   "images": [
+    {
+     "url": "https://www.joqr.co.jp/wp/wp-content/uploads/2c0ef5721408793e3cfbc6a00f53a6a6-1024x576.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.joqr.co.jp/ag/article/79018/",
+     "asset": "f8f3bec6db717a05",
+     "resolution": "1024 × 576"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_person126",
+   "date": "2023-02-09",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV指南PERSON》vol.126",
+   "japanese": "TVガイドPERSON vol.126",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000002040.000006568.html",
+   "note": "日历写真书《2023.04–2024.03》发售专题。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/2040/6568-2040-8b5b6feea98a8084b8e46703e2ccf623-1000x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+     "caption": "发行方公开封面",
+     "source": "https://prtimes.jp/main/html/rd/p/000002040.000006568.html",
+     "asset": "08b7d13563024e95",
+     "resolution": "984 × 1260"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m1569",
+   "date": "2023-02-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#26｜性格相反的两人唱响《永不结束》",
+   "japanese": "【#26】正反対の2人で響かせる「終わらない」（ザ・ビューティフル・ゲーム）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/1569/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/1569/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m2814",
+   "date": "2023-03-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#27｜被充满力量的《And I’m Telling You I’m Not Going》打动",
+   "japanese": "【＃27】パワフルな歌に感動「 (And I’m Telling You) I’m Not Going」（ドリームガールズ）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/2814/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/2814/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s175",
+   "date": "2023-03-19",
+   "end": "",
+   "category": "音乐会",
+   "title": "《加藤和树的Music Bar“Entas”ON STAGE》",
+   "japanese": "加藤和樹のミュージックバー「エンタス」ON STAGE",
+   "role": "嘉宾",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s176",
+   "date": "2023-04-02",
+   "end": "",
+   "category": "活动",
+   "title": "《在涩谷再见吧》嘉宾",
+   "japanese": "シブヤデマタアイマショウ",
+   "role": "轮替嘉宾",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m3566",
+   "date": "2023-04-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#28｜一人唱出不同人格的《对决》",
+   "japanese": "【＃28】別人を歌い分ける「対決」（ジキル＆ハイド）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/3566/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/3566/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e54",
+   "date": "2023-04-14",
+   "end": "2023-05-07",
+   "category": "舞台",
+   "title": "《婚礼续摊上的人们》",
+   "japanese": "二次会のひとたち",
+   "role": "中内启介",
+   "crew": "导演：田村孝裕；编剧：冈田惠和",
+   "key": "nijikai",
+   "url": "https://nijikai-stage.com/",
+   "note": "东京4月14–30日；大阪5月6–7日。中文标题为暂译。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://nijikai-stage.com/common/fbimg1.png",
+     "caption": "官方作品主视觉",
+     "source": "https://nijikai-stage.com/",
+     "asset": "b8330495c722dfe0",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [
+    {
+     "id": "kdBhr7ock2k",
+     "title": "官网嵌入宣传视频",
+     "url": "https://www.youtube.com/watch?v=kdBhr7ock2k",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://nijikai-stage.com/"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2023 二次会のひとたち",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTL5MVWtzbR245pJ5MrS93q"
+    }
+   ]
+  },
+  {
+   "id": "m4355",
+   "date": "2023-05-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#29｜唱什么都可以：《Sunday》",
+   "japanese": "【＃29】何を歌ってもいい「Sunday」（映画『tick,tick…BOOM!』）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/4355/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/4355/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj85340",
+   "date": "2023-05-12",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜给日常带来一点变化的花",
+   "japanese": "東啓介、日常にちょっとした変化を与えてくれる花【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/85340/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/05/qjw_j_photo_0512.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/85340/",
+     "asset": "b79726fefe919733",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj85888",
+   "date": "2023-05-19",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜每个人自己的步调",
+   "japanese": "東啓介、人それぞれの速度【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/85888/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/05/qjw_j_photo_0519.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/85888/",
+     "asset": "28394eb0db30e1cc",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s177",
+   "date": "2023-05-24",
+   "end": "",
+   "category": "音乐会",
+   "title": "JBB Concert 2023",
+   "japanese": "JBBコンサート2023",
+   "role": "JBB成员",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj86530",
+   "date": "2023-05-26",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜想感受时间的时候",
+   "japanese": "東啓介、時間を感じたいときに【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/86530/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/05/qjw_j_photo_0526.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/86530/",
+     "asset": "2ce3752c8502b0c8",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj86847",
+   "date": "2023-06-02",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜猫咪带来的治愈",
+   "japanese": "東啓介、猫ちゃんがくれた癒やし【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/86847/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0602.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/86847/",
+     "asset": "8d39e8ba3776aa27",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj87159",
+   "date": "2023-06-09",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜让人想试试的公用电话",
+   "japanese": "東啓介、使いたくなる「公衆電話」【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/87159/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0609.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/87159/",
+     "asset": "7b5f3b7343f0dc85",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m4904",
+   "date": "2023-06-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#30｜也想推荐配音版的《Part of Your World》",
+   "japanese": "【#30】吹替版も見てほしい「パート・オブ・ユア・ワールド」（映画『リトル・マーメイド』）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/4904/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/4904/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj87604",
+   "date": "2023-06-16",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜家里竟然有树枝！",
+   "japanese": "東啓介「家に枝がっ!!」【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/87604/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0616.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/87604/",
+     "asset": "39bb3d734a0df44c",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj88099",
+   "date": "2023-06-23",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜让想象力延伸的水桶",
+   "japanese": "東啓介、想像がふくらむ「バケツ」【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/88099/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0623.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/88099/",
+     "asset": "8afa53005ffef5ad",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj88890",
+   "date": "2023-06-30",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜发现麻雀！",
+   "japanese": "東啓介、すずめ発見！【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/88890/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0630_b.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/88890/",
+     "asset": "d2c40e8cf7c683f6",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj89434",
+   "date": "2023-07-07",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜迷你海胆军舰寿司",
+   "japanese": "東啓介、ちびっこウニ軍艦【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/89434/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/07/qjw_j_photo_0707.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/89434/",
+     "asset": "0bd0c509e3272097",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m5690",
+   "date": "2023-07-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#31｜用全身享受音乐：《I Got Rhythm》",
+   "japanese": "【＃31】音を全身で楽しむ「I Got Rhythm」（『クレイジー・フォー・ユー』）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/5690/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/5690/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e55",
+   "date": "2023-07-14",
+   "end": "2023-07-15",
+   "category": "音乐会",
+   "title": "生日演唱会《音》",
+   "japanese": "HIGASHI KEISUKE BIRTHDAY LIVE ―音―",
+   "role": "本人／嘉宾：加藤和树、有泽樟太郎",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/5909/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "维基及主办方补充",
+   "dateKind": "活动首日",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/07/★_ZZZ8329_01.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://matisowa.jp/5909/",
+     "asset": "ad80807c2c471c14",
+     "resolution": "2055 × 1368"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj90027",
+   "date": "2023-07-14",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜用相机自拍",
+   "japanese": "東啓介、カメラで自撮り【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/90027/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/07/qjw_j_photo_0714.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/90027/",
+     "asset": "4b5a1a084a24bc37",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m5909",
+   "date": "2023-07-20",
+   "end": "",
+   "category": "采访／连载",
+   "title": "生日演唱会《音》现场报道",
+   "japanese": "【ライブレポート】東啓介さん、初のバースデーライブ「HIGASHI KEISUKE BIRTHDAY LIVE －音－」を開催",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/5909/",
+   "note": "原始采访／报道；正文请到发布方阅读。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/07/★_ZZZ8329_01.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/5909/",
+     "asset": "ad80807c2c471c14",
+     "resolution": "2055 × 1368"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj90537",
+   "date": "2023-07-21",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜看得入迷的鹿",
+   "japanese": "東啓介、見入ってしまった鹿【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/90537/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/07/qjw_j_photo_0721.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/90537/",
+     "asset": "fd931d2b88cf14d8",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj91049",
+   "date": "2023-07-28",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜夏日唤起的童年记忆",
+   "japanese": "東啓介、夏になると思い出す幼少期の思い出【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/91049/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/07/qjw_j_photo_0728.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/91049/",
+     "asset": "e296d7a03695cbc0",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj91584",
+   "date": "2023-08-04",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜从车底探头的小猫",
+   "japanese": "東啓介、車の下から猫ちゃん【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/91584/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0804.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/91584/",
+     "asset": "c59a2a73b201e674",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m6120",
+   "date": "2023-08-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#32｜特别对谈：从音乐走进《Ragtime》",
+   "japanese": "【 SPECIAL（#32）】音楽から迫るミュージカル『ラグタイム』｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/6120/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/6120/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    },
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
+     "caption": "角色宣传照：Younger Brother；原文注明东宝演剧部供图",
+     "source": "https://matisowa.jp/6120/",
+     "asset": "d878339cc942afd6",
+     "resolution": "2000 × 2012"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj92078",
+   "date": "2023-08-11",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜在相机店重新发现相机的魅力",
+   "japanese": "東啓介、カメラの魅力を再発見するカメラ屋【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/92078/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0811.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/92078/",
+     "asset": "4921f26f06c2b8c2",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj92436",
+   "date": "2023-08-18",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜散步时发现的夏日花朵",
+   "japanese": "東啓介、散歩中に見つけた「夏の花」【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/92436/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0818.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/92436/",
+     "asset": "2cb45f99136b4933",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e57",
+   "date": "2023-08-20",
+   "end": "2023-09-17",
+   "category": "电视剧",
+   "title": "《○○酱》第一章“Sex酱”",
+   "japanese": "●●ちゃん 第1章「セックスちゃん」",
+   "role": "高桥彰吾",
+   "crew": "",
+   "key": "",
+   "url": "https://www.asahi.co.jp/marumaruchan/cast/",
+   "note": "官方8月20日深夜；实际日历8月21日。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "官方标注首播日",
+   "images": [
+    {
+     "url": "https://www.asahi.co.jp/marumaruchan/img/common/og.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.asahi.co.jp/marumaruchan/cast/",
+     "asset": "7dbead054605c749",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj93039",
+   "date": "2023-08-25",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜与白色皮鞋相伴",
+   "japanese": "東啓介、真っ白な革靴と共に【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/93039/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0825.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/93039/",
+     "asset": "325d1f0f1813e498",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj93672",
+   "date": "2023-09-01",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜水缸里的小鱼们",
+   "japanese": "東啓介、水鉢のお魚ちゃんたち【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/93672/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0901.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/93672/",
+     "asset": "9b83e5167354c5f6",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj94278",
+   "date": "2023-09-08",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜装满梦想的包",
+   "japanese": "東啓介、夢が詰まったバッグ【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/94278/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/09/qjw_j_photo_0908.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/94278/",
+     "asset": "065709ea22fa8481",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e56",
+   "date": "2023-09-09",
+   "end": "2023-10-15",
+   "category": "舞台",
+   "title": "音乐剧《Ragtime（拉格泰姆）》",
+   "japanese": "ラグタイム",
+   "role": "Younger Brother（母亲的弟弟）",
+   "crew": "导演：藤田俊太郎",
+   "key": "ragtime",
+   "url": "https://matisowa.jp/6120/",
+   "note": "9月东京、10月大阪与爱知；官网角色宣传照由主办方提供给本篇连载。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
+     "caption": "角色宣传照：Younger Brother；原文注明东宝演剧部供图",
+     "source": "https://matisowa.jp/6120/",
+     "asset": "d878339cc942afd6",
+     "resolution": "2000 × 2012"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2023 ラグタイム",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTQM0LLHCbaTEEeuRsjub-K"
+    }
+   ]
+  },
+  {
+   "id": "m6680",
+   "date": "2023-09-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#33｜让不甘化作救赎的《Stick It to the Man》",
+   "japanese": "【#33】悔しさを救いに変える「支配者に立ち向かえ」（『スクールオブロック』）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/6680/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/6680/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj94690",
+   "date": "2023-09-15",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜在自然中听见的声音",
+   "japanese": "東啓介、自然の場所で感じた音【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/94690/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/09/qjw_j_photo_0915.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/94690/",
+     "asset": "6f6105a3e6a681fd",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e58",
+   "date": "2023-09-17",
+   "end": "2023-10-22",
+   "category": "电视剧",
+   "title": "《女高中生成为僧人。》",
+   "japanese": "女子高生、僧になる。",
+   "role": "里中树",
+   "crew": "",
+   "key": "joshiko",
+   "url": "https://www.mbs.jp/joshikousei-souninaru/",
+   "note": "MBS官方9月17日深夜开播；实际日历9月18日。维基日期差一天属于深夜节目口径。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "官方标注首播日",
+   "images": [
+    {
+     "url": "https://www.mbs.jp/joshikousei-souninaru/images/og-image_0908.jpg",
+     "caption": "电视台作品海报",
+     "source": "https://www.mbs.jp/joshikousei-souninaru/",
+     "asset": "d9b742d70a880f83",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "biliLinks": [
+    {
+     "url": "https://www.bilibili.com/video/BV1xh4y1P7Yt/",
+     "title": "《女高中生成为僧人。》双版本预告"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj95124",
+   "date": "2023-09-22",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜在《RAGTIME》的休息室放松",
+   "japanese": "東啓介、『RAGTIME』楽屋でまったり【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/95124/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/09/qjw_j_photo_0922.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/95124/",
+     "asset": "43d25f01d450e5cd",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj95555",
+   "date": "2023-09-29",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜平常却只有此刻才能看见的风景",
+   "japanese": "東啓介、何気ないけど「今だからこそ見られる風景」【QJWebカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/95555/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/09/qjw_j_photo_0929.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/95555/",
+     "asset": "918f97370278b222",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj95878",
+   "date": "2023-10-06",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜从“东”的视角看到的风景",
+   "japanese": "東啓介、東から見える景色【QJカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/95878/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/10/qjw_j_photo_1006.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/95878/",
+     "asset": "b759ed5af71ef394",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m6981",
+   "date": "2023-10-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#34｜明快的救赎之歌《Henry Ford》",
+   "japanese": "【#34】明るい救いの歌「Henry Ford」（『ラグタイム』）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/6981/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/6981/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj96663",
+   "date": "2023-10-13",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜初次去美国受到的震撼",
+   "japanese": "東啓介、初めてのアメリカで受けた衝撃【QJカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/96663/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/10/qjw_j_photo_1013-1.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/96663/",
+     "asset": "0403935db1149e73",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s153",
+   "date": "2023-10-15",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《井上芳雄 by MYSELF》嘉宾出演",
+   "japanese": "井上芳雄 by MYSELF",
+   "role": "嘉宾：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000001234.000003392.html",
+   "note": "22:00–22:30，含与井上芳雄的录音室二重唱；公告发表于10月9日。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "节目播出日",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/3392/1234/3392-1234-e35a15cc62844d562405e60eb4ff71e5-1800x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://prtimes.jp/main/html/rd/p/000001234.000003392.html",
+     "asset": "f9be3d375cdc7c68",
+     "resolution": "840 × 1260"
+    }
+   ],
+   "videos": [],
+   "biliLinks": [
+    {
+     "url": "https://www.bilibili.com/video/BV1Xu411L7oE/",
+     "title": "2023歌唱合集（含本人分段）"
+    }
+   ],
+   "pending": false,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj97221",
+   "date": "2023-10-20",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜公演期间与我一路同行的白色皮鞋",
+   "japanese": "東啓介が公演期間中、ともに走った真っ白な革靴【QJカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/97221/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/10/qjw_j_photo_1020.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/97221/",
+     "asset": "ac070cd530f8a5a4",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e59",
+   "date": "2023-10-27",
+   "end": "2023-10-29",
+   "category": "舞台",
+   "title": "喜剧短剧《混顿 vol.1》",
+   "japanese": "混頓 vol.1",
+   "role": "",
+   "crew": "导演：金泽知树、大野大辅",
+   "key": "konton",
+   "url": "https://www.aoi-pro.com/jp/news/20230904/43097/",
+   "note": "作品为短剧集形式，未找到可靠的单一角色名。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://cdn-corpprod.pressidium.com/jp/wp-content/uploads/sites/5/news_20230904_thumb.jpg",
+     "caption": "主办方发布的作品宣传图",
+     "source": "https://www.aoi-pro.com/jp/news/20230904/43097/",
+     "asset": "dccc280a1ee718d4",
+     "resolution": "750 × 394"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj97939",
+   "date": "2023-10-27",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜探头看一看……",
+   "japanese": "東啓介、のぞいてみたら……【QJカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/97939/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/10/qjw_j_photo_1027-1.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/97939/",
+     "asset": "5224630b52859844",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj98297",
+   "date": "2023-11-03",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜搭台前，能感受到努力和汗水的样子",
+   "japanese": "東啓介、努力と汗を感じる仕込み前の姿【QJカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/98297/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/11/qjw_j_photo_1103.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/98297/",
+     "asset": "088eda0bdda3281f",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "m7210",
+   "date": "2023-11-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#35｜男性间的对唱带来的兴奋：《Vortigern》",
+   "japanese": "【＃35】男性同士の掛け合いに高揚感「ボルティゲルン」（『ウィリアムとウィリアムのウィリアムたち』）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/7210/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/7210/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj98636",
+   "date": "2023-11-10",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜像财富与宝物一样的相遇",
+   "japanese": "東啓介、財産であり、宝物のような出会い【QJカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/98636/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/11/qjw_j_photo_1110.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/98636/",
+     "asset": "f959b102b3eebec7",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj99133",
+   "date": "2023-11-17",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜形形色色的艺术",
+   "japanese": "東啓介、いろんな芸術のかたち【QJカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/99133/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/11/qjw_j_photo_1117.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/99133/",
+     "asset": "a3991715a59f6589",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e60",
+   "date": "2023-11-22",
+   "end": "2023-11-23",
+   "category": "舞台",
+   "title": "东宝音乐剧实验室《DESK》",
+   "japanese": "TOHO MUSICAL LAB.「DESK」",
+   "role": "",
+   "crew": "作词／编剧／导演：池田亮",
+   "key": "lab",
+   "url": "https://www.tohostage.com/tohomusicallab/",
+   "note": "东启介演出单元为《DESK》；不是同场另一单元《わたしを、褒めて》。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.tohostage.com/tohomusicallab/images/cast_higashi.jpg",
+     "caption": "官方本人宣传照；DESK演员",
+     "source": "https://www.tohostage.com/tohomusicallab/",
+     "asset": "aa3f247496387325",
+     "resolution": "540 × 714"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "qj100047",
+   "date": "2023-11-24",
+   "end": "",
+   "category": "本人摄影／随笔",
+   "title": "QJ相机部｜发呆的时间",
+   "japanese": "東啓介、ぼーっとする時間【QJカメラ部】",
+   "role": "文／摄影：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://qjweb.jp/regular/100047/",
+   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
+   "status": "发布方作者档案、题名与日期已核对",
+   "origin": "QJWeb本人连载",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://qjweb.jp/wp-content/uploads/2023/11/qjw_j_photo_1124.jpg",
+     "caption": "东启介本人摄影／发布方原文配图",
+     "source": "https://qjweb.jp/regular/100047/",
+     "asset": "fa53a49096f8f77a",
+     "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e61",
+   "date": "2023-11-27",
+   "end": "2023-11-30",
+   "category": "朗读剧",
+   "title": "《与鸟共舞》",
+   "japanese": "鳥ト踊る",
+   "role": "B版出演：东启介×斋藤瑠希",
+   "crew": "编剧／导演：ノゾエ征爾",
+   "key": "tori",
+   "url": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+   "note": "全企划11月27–30日；本人B版出演日期需要按分卡表，不直接当作每天出演。现主办方旧URL跳至其他列表，改存原采访。",
+   "status": "排练采访确认参演；本人逐场日程待复核",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "m7866",
+   "date": "2023-12-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《东启介と聴活♪》#36｜不由自主落泪的《Defying Gravity》",
+   "japanese": "【＃36】勝手に涙が出てきた「自由を求めて」（『ウィキッド』）｜東啓介と聴活♪",
+   "role": "本人／音乐剧赏析连载",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/7866/",
+   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/7866/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e62",
+   "date": "2023-12-31",
+   "end": "",
+   "category": "音乐会",
+   "title": "2023–2024跨年音乐剧音乐会",
+   "japanese": "カウントダウン ミュージカルコンサート 2023-2024",
+   "role": "本人",
+   "crew": "",
+   "key": "countdown",
+   "url": "https://cdm2023.srptokyo.com/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://cdm2023.srptokyo.com/images/cast_img04.jpg",
+     "caption": "音乐会官网本人宣传照",
+     "source": "https://cdm2023.srptokyo.com/",
+     "asset": "2b4c2f9b176f75b6",
+     "resolution": "342 × 428"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e63",
+   "date": "2024-01-06",
+   "end": "2024-03-16",
+   "category": "电视剧",
+   "title": "《大叔的内裤穿什么都行吧！》",
+   "japanese": "おっさんのパンツがなんだっていいじゃないか！",
+   "role": "砂川圆",
+   "crew": "",
+   "key": "oppan",
+   "url": "https://www.tokai-tv.com/oppan/article03.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首播日",
+   "images": [
+    {
+     "url": "https://www.tokai-tv.com/oppan/ogp.png",
+     "caption": "电视台作品海报",
+     "source": "https://www.tokai-tv.com/oppan/article03.html",
+     "asset": "557f1259b60bb978",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTtUffbLn0TvtBrTHA8T8Pd"
+    }
+   ]
+  },
+  {
+   "id": "m8189",
+   "date": "2024-01-17",
+   "end": "",
+   "category": "采访／连载",
+   "title": "东启介×加藤大悟：《WE ARE MUSIC》对谈",
+   "japanese": "東啓介さん「バトンをつなぐ」×加藤大悟さん「爪痕残したい」▷Musical shoW「WE ARE MUSIC」vol.1",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/8189/",
+   "note": "原始采访／报道；正文请到发布方阅读。",
+   "status": "发布方原文与日期已核对",
+   "origin": "本人连载补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
+     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "source": "https://matisowa.jp/8189/",
+     "asset": "4ddbe858ec009526",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s159",
+   "date": "2024-02-23",
+   "end": "",
+   "category": "音乐会",
+   "title": "《WE ARE MUSIC》vol.1 DAY1嘉宾",
+   "japanese": "WE ARE MUSIC vol.1 DIVAS’ NIGHT",
+   "role": "嘉宾：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://yomi.otemachi-hall.com/event/musical_showwe_are_musicvol1.html",
+   "note": "全企划2月23–25日，东启介不是三天全部作为主演出。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s160",
+   "date": "2024-02-24",
+   "end": "",
+   "category": "音乐会",
+   "title": "《WE ARE MUSIC》DAY2：Connecting Puzzles",
+   "japanese": "WE ARE MUSIC vol.1 DAY2 Connecting Puzzles",
+   "role": "本人；嘉宾：加藤大悟／遥海",
+   "crew": "",
+   "key": "",
+   "url": "https://matisowa.jp/8189/",
+   "note": "14:00嘉宾加藤大悟；18:00嘉宾遥海。后续vol.2所指的前作。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://matisowa.jp/8189/",
+     "asset": "4ddbe858ec009526",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e88",
+   "date": "2024-02-28",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《VIOLET》东启介×立石俊树专访",
+   "japanese": "新キャストの東啓介と立石俊樹が「VIOLET」への想いを語る",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://lp.p.pia.jp/article/news/338691/index.html?detail=true",
+   "note": "Pia",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/6f417877-cb83-4ec0-b9eb-3a7b4b8ab930/origin.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://lp.p.pia.jp/article/news/338691/index.html?detail=true",
+     "asset": "ffd53202a499f0af",
+     "resolution": "1200 × 449"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e89",
+   "date": "2024-03-04",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《VIOLET》东启介×立石俊树专访",
+   "japanese": "ミュージカル「VIOLET」東啓介＆立石俊樹 インタビュー",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://engekisengen.com/genre/musical/76759/",
+   "note": "Lawson Ticket演剧宣言",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2024/02/b4df9fc8c3301e8866b2a01a90555aff.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://engekisengen.com/genre/musical/76759/",
+     "asset": "f1e6b439e0d959d5",
+     "resolution": "1538 × 707"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e90",
+   "date": "2024-03-06",
+   "end": "",
+   "category": "采访／连载",
+   "title": "本人专访：东启介与相机",
+   "japanese": "俳優・東啓介とカメラ。撮る側と撮られる側を往復しながら、カメラを携えて生きていく",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://neown.tokyo/2024/03/06/higashikeisuke/",
+   "note": "NEOWN",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e64",
+   "date": "2024-04-07",
+   "end": "2024-05-11",
+   "category": "舞台",
+   "title": "音乐剧《VIOLET（紫罗兰）》",
+   "japanese": "VIOLET",
+   "role": "弗利克（フリック）",
+   "crew": "导演：藤田俊太郎",
+   "key": "violet",
+   "url": "https://www.umegei.com/violet/",
+   "note": "东京4月7–21日；大阪4月27–29日；福冈5月4日；宫城5月10–11日。维基只列至大阪，遗漏5月巡演。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.geigeki.jp/wp-content/uploads/2023/11/t358_245.jpg",
+     "caption": "官方作品海报",
+     "source": "https://www.geigeki.jp/performance/theater358/",
+     "asset": "1f6f03273281cf2c",
+     "resolution": "245 × 184"
+    }
+   ],
+   "videos": [
+    {
+     "id": "favz9_CZYYY",
+     "title": "东启介本人出演感言（2024）",
+     "url": "https://www.youtube.com/watch?v=favz9_CZYYY",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.umegei.com/violet/"
+    },
+    {
+     "id": "h56RzZv3WBg",
+     "title": "官方舞台片段：长版",
+     "url": "https://www.youtube.com/watch?v=h56RzZv3WBg",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.umegei.com/violet/"
+    },
+    {
+     "id": "WQ3A8Sg6VsA",
+     "title": "官方制作发布会",
+     "url": "https://www.youtube.com/watch?v=WQ3A8Sg6VsA",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.umegei.com/violet/"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2024 VIOLET",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTCLpwUHlTp5wQCFPRvAbfP"
+    }
+   ]
+  },
+  {
+   "id": "s161",
+   "date": "2024-07-12",
+   "end": "",
+   "category": "活动",
+   "title": "2024生日活动《upstairs》",
+   "japanese": "東啓介バースデーイベント2024 upstairs",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.watanabepro.co.jp/liveinfo/18537/",
+   "note": "表参道GROUND，19:00开演。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://www.watanabepro.co.jp/ogp.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.watanabepro.co.jp/liveinfo/18537/",
+     "asset": "3d336b8f10129cc8",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e65",
+   "date": "2024-09-28",
+   "end": "2024-11-16",
+   "category": "舞台",
+   "title": "音乐剧《死神假期》",
+   "japanese": "DEATH TAKES A HOLIDAY",
+   "role": "埃里克（エリック）",
+   "crew": "改编／导演：生田大和（宝冢歌剧团）",
+   "key": "death",
+   "url": "https://theatre-orb.com/lineup/24_deathtakesaholiday/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://theatre-orb.com/data/files/2024/20241667/mainvisual.jpg",
+     "caption": "官方作品主视觉",
+     "source": "https://theatre-orb.com/lineup/24_deathtakesaholiday/",
+     "asset": "e5b57cea0e28a7d5",
+     "resolution": "700 × 481"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s163",
+   "date": "2024-10-17",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《Connecting Puzzles vol.2》官方专访",
+   "japanese": "東啓介 オフィシャルインタビュー",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://engekisengen.com/genre/dance-performance/98349/",
+   "note": "",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2024/10/3b95dea643de25878aa2026f0b5cf955.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://engekisengen.com/genre/dance-performance/98349/",
+     "asset": "bc63b02c37a4649b",
+     "resolution": "1000 × 667"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "s162",
+   "date": "2024-10-29",
+   "end": "",
+   "category": "音乐会",
+   "title": "个人音乐会《Connecting Puzzles vol.2》",
+   "japanese": "Connecting Puzzles vol.2",
+   "role": "本人；午场嘉宾：内藤大希",
+   "crew": "",
+   "key": "",
+   "url": "https://www.watanabepro.co.jp/liveinfo/19072/",
+   "note": "I’M A SHOW，15:00／19:00。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://www.watanabepro.co.jp/ogp.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.watanabepro.co.jp/liveinfo/19072/",
+     "asset": "3d336b8f10129cc8",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s164",
+   "date": "2024-10-30",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《Connecting Puzzles vol.2》官方现场报道与照片",
+   "japanese": "Connecting Puzzles vol.2 レポ＆フォト",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://theatertainment.jp/japanese-play/133100/",
+   "note": "",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://theatertainment.jp/wp-content/uploads/2024/10/0T0A9841.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://theatertainment.jp/japanese-play/133100/",
+     "asset": "7be9e3302a953358",
+     "resolution": "1200 × 800"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e66",
+   "date": "2024-12-11",
+   "end": "2024-12-18",
+   "category": "电视剧",
+   "title": "《我、我喜欢的他，以及你。》电视特别版",
+   "japanese": "ぼくとぼくが好きな彼と、君と。スペシャル版",
+   "role": "崎山亮二",
+   "crew": "",
+   "key": "",
+   "url": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
+   "note": "原作是BUMP短剧；电视特别版与最早上线日期应分开。深夜节目实际日期顺延。",
+   "status": "官网／主办方已核对",
+   "origin": "维基补充",
+   "dateKind": "官方标注放送日",
+   "images": [
+    {
+     "url": "https://tv-tokyo.imgix.net/txcms/media/release/content/c9/0d/9385f691788a79678d524adb9e64.jpg?auto=format,compress",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
+     "asset": "5447a3d44f3782bb",
+     "resolution": "3000 × 843"
+    }
+   ],
+   "videos": [],
+   "biliLinks": [
+    {
+     "url": "https://www.bilibili.com/video/BV1JXCRYMEQX/",
+     "title": "原短剧30话版（日语）"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s178",
+   "date": "2024-12-12",
+   "end": "",
+   "category": "音乐会",
+   "title": "TRUMP 15周年《茧期极夜会》",
+   "japanese": "繭期極夜会",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e91",
+   "date": "2025-01-09",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《长靴皇后》四人专访",
+   "japanese": "キンキーブーツ インタビュー 東啓介、有澤樟太郎、甲斐翔真、松下優也",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.astage-ent.com/stage-musical/i266546.html",
+   "note": "Astage",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2024/12/IMG_6652ans2.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.astage-ent.com/stage-musical/i266546.html",
+     "asset": "ecf4d145ca991cc8",
+     "resolution": "600 × 400"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e92",
+   "date": "2025-01-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《长靴皇后》东启介单人专访",
+   "japanese": "人との関わりの中で成長する“青き”チャーリーに自身を重ねて",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.musicaltheaterjapan.com/entry/2501-3",
+   "note": "Musical Theater Japan",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://cdn.image.st-hatena.com/image/scale/508e95e26584d0b4d70413604096febc62102c40/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FM%2FMTJapan%2F20250110%2F20250110171457.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.musicaltheaterjapan.com/entry/2501-3",
+     "asset": "6b7044b44863673f",
+     "resolution": "1300 × 731"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e67",
+   "date": "2025-01-22",
+   "end": "",
+   "category": "电视剧",
+   "title": "《问题住宅》第2集",
+   "japanese": "問題物件 第2話",
+   "role": "泷野高",
+   "crew": "",
+   "key": "mondai",
+   "url": "https://www.fujitv.co.jp/mondaibukken/story/story02.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "本人出演集播出日",
+   "images": [
+    {
+     "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph01.jpg",
+     "caption": "第2集官方剧照；不保证每张均含东启介",
+     "source": "https://www.fujitv.co.jp/mondaibukken/story/story02.html",
+     "asset": "e52f41e499ac9293",
+     "resolution": "1000 × 666"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e93",
+   "date": "2025-01-28",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《长靴皇后》四人专访（前篇）",
+   "japanese": "期待の遥か上をいけるように",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://theatergirl.jp/?p=59201",
+   "note": "THEATER GIRL",
+   "status": "发布方原文已定位",
+   "origin": "公开检索补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://theatergirl.jp/wp-content/uploads/2025/01/1119_キンキーブーツ-0030.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://theatergirl.jp/?p=59201",
+     "asset": "49e4889f00c208ce",
+     "resolution": "1200 × 800"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_sparkle59",
+   "date": "2025-01-31",
+   "end": "",
+   "category": "杂志",
+   "title": "《Sparkle》vol.59｜东启介×有泽樟太郎",
+   "japanese": "Sparkle vol.59",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://sparkle-stage.com/magazine/4245/",
+   "note": "《Kinky Boots》两位查理的写真与采访；附东启介单人折页海报。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://sparkle-stage.com/wp-content/uploads/2025/01/S59_H1-4-scaled.jpg",
+     "caption": "发行方公开封面",
+     "source": "https://sparkle-stage.com/magazine/4245/",
+     "asset": "ac2f7602e688b5af",
+     "resolution": "2560 × 1791"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e103",
+   "date": "2025-02-21",
+   "end": "",
+   "category": "写真／出版",
+   "title": "2025.04–2026.03日历写真书",
+   "japanese": "東啓介2025.04-2026.03カレンダーブック",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000002955.000006568.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "发行方公告补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/2955/6568-2955-901250ec74978566e50d4eeb4f1c4eed-1000x1498.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://prtimes.jp/main/html/rd/p/000002955.000006568.html",
+     "asset": "1278357c35e4cf61",
+     "resolution": "841 × 1260"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_stars4",
+   "date": "2025-02-26",
+   "end": "",
+   "category": "杂志",
+   "title": "《音乐剧之星》vol.4",
+   "japanese": "TVガイドPERSON別冊 ミュージカルスターズ vol.4",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000003017.000006568.html",
+   "note": "《2025.04–2026.03日历写真书》专题写真与采访。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/3017/6568-3017-6d782b9ce7050246f40d58da1ab9ad16-1000x1264.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+     "caption": "发行方公开封面",
+     "source": "https://prtimes.jp/main/html/rd/p/000003017.000006568.html",
+     "asset": "f23a76cb80f594df",
+     "resolution": "997 × 1260"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s154",
+   "date": "2025-03-16",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《望海风斗的Sound Imagine》#84",
+   "japanese": "望海風斗のサウンドイマジン #84",
+   "role": "嘉宾：东启介",
+   "crew": "",
+   "key": "",
+   "url": "https://soundimagine.hatenablog.com/entry/2025/03/16/000000",
+   "note": "21:00–21:50；目前保留节目记录，NHK历史页无法读取，待广播台原档复核。",
+   "status": "听众节目记录；待NHK原档复核",
+   "origin": "补充检索",
+   "dateKind": "节目播出日",
+   "images": [
+    {
+     "url": "https://ogimage.blog.st-hatena.com/6802418398513148452/6802418398529815452/1754977546",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://soundimagine.hatenablog.com/entry/2025/03/16/000000",
+     "asset": "789f9f3bf62de45c",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "s155",
+   "date": "2025-03-29",
+   "end": "",
+   "category": "广播／音声",
+   "title": "FM COCOLO《MAG:NET SUNDAY》",
+   "japanese": "MAG:NET SUNDAY",
+   "role": "嘉宾：东启介、松下优也",
+   "crew": "",
+   "key": "",
+   "url": "https://cocolo.jp/site/guest_calendar/2025/03",
+   "note": "FM COCOLO官方嘉宾日历，14时台。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "节目播出日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "e68",
+   "date": "2025-04-27",
+   "end": "2025-06-08",
+   "category": "舞台",
+   "title": "百老汇音乐剧《长靴皇后》",
+   "japanese": "キンキーブーツ",
+   "role": "查理·普莱斯（チャーリー・プライス，主演）",
+   "crew": "导演／编舞：杰里·米切尔",
+   "key": "kinky",
+   "url": "https://www.fujitv.co.jp/events/stage/kinkyboots/index.html",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [],
+   "videos": [
+    {
+     "id": "2YS9y8jsdmQ",
+     "title": "官方MV：NOT MY FATHER’S SON",
+     "url": "https://www.youtube.com/watch?v=2YS9y8jsdmQ",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.fujitv.co.jp/events/stage/kinkyboots/index.html"
+    },
+    {
+     "id": "p2EmeE3Yu9U",
+     "title": "2025官方预告",
+     "url": "https://www.youtube.com/watch?v=p2EmeE3Yu9U",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.fujitv.co.jp/events/stage/kinkyboots/index.html"
+    },
+    {
+     "id": "KODtsBuEHQA",
+     "title": "官方视觉拍摄幕后花絮",
+     "url": "https://www.youtube.com/watch?v=KODtsBuEHQA",
+     "sourceType": "官方作品页／官方频道",
+     "source": "https://www.fujitv.co.jp/events/stage/kinkyboots/index.html"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "東啓介 2025 キンキーブーツ",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KQfW9ZnPspbRA6hCdzM1XfF"
+    }
+   ]
+  },
+  {
+   "id": "e69",
+   "date": "2025-06-28",
+   "end": "",
+   "category": "电视剧",
+   "title": "《大叔的内裤穿什么都行吧！》SP",
+   "japanese": "おっさんのパンツがなんだっていいじゃないか！SP",
+   "role": "砂川圆",
+   "crew": "",
+   "key": "",
+   "url": "https://www.tokai-tv.com/oppan/",
+   "note": "",
+   "status": "本人出演见维基及片方；日期待SP官网档案复核",
+   "origin": "维基补充",
+   "dateKind": "播出日",
+   "images": [
+    {
+     "url": "https://www.tokai-tv.com/oppan/ogp.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.tokai-tv.com/oppan/",
+     "asset": "557f1259b60bb978",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e70",
+   "date": "2025-07-04",
+   "end": "",
+   "category": "电影",
+   "title": "电影《大叔的内裤穿什么都行吧！》",
+   "japanese": "映画 おっさんのパンツがなんだっていいじゃないか！",
+   "role": "砂川圆",
+   "crew": "导演：二宫崇",
+   "key": "",
+   "url": "https://www.asmik-ace.co.jp/works/lineup/18266/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "上映日",
+   "images": [
+    {
+     "url": "https://www.asmik-ace.co.jp/wp-content/uploads/2023/08/OGP_AsmicAce.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.asmik-ace.co.jp/works/lineup/18266/",
+     "asset": "41fabd23fcfce840",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s165",
+   "date": "2025-07-11",
+   "end": "",
+   "category": "音乐会",
+   "title": "30岁生日音乐会《afterglow》",
+   "japanese": "東啓介Birthday Concert - afterglow -",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/",
+   "note": "COTTON CLUB，16:00／19:00；活动日不是生日7月14日。",
+   "status": "主办方／原发布方已核对",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/images/special_HigashiKeisuke.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/",
+     "asset": "f141a6a0cde187e0",
+     "resolution": "1600 × 2426"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s179",
+   "date": "2025-07-19",
+   "end": "",
+   "category": "音乐会",
+   "title": "莫里·叶斯顿80周年纪念音乐会",
+   "japanese": "Life’s A Joy! Life Goes On!!",
+   "role": "本人具体出演场次待确认",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e71",
+   "date": "2025-08-10",
+   "end": "2025-09-30",
+   "category": "舞台",
+   "title": "音乐剧《泽西男孩》2025",
+   "japanese": "ジャージー・ボーイズ（2025）",
+   "role": "鲍勃·高迪奥／Team BLACK",
+   "crew": "导演：藤田俊太郎",
+   "key": "jersey",
+   "url": "https://www.tohostage.com/jersey/",
+   "note": "作品至9月30日，东启介本人的最终出演日须按分卡表；粉丝整理记9月29日。",
+   "status": "官网／主办方已核对",
+   "origin": "原履历",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.tohostage.com/jersey/images/visual2025_3.jpg",
+     "caption": "2025官方作品主视觉",
+     "source": "https://www.tohostage.com/jersey/",
+     "asset": "d1e89954427001ae",
+     "resolution": "1800 × 2545"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [
+    {
+     "title": "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)",
+     "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KQTdgxwr-mtVICldXSrU4Ps"
+    }
+   ]
+  },
+  {
+   "id": "s156",
+   "date": "2025-09-22",
+   "end": "2025-09-26",
+   "category": "广播／音声",
+   "title": "NHK广播剧《月之速写本》",
+   "japanese": "青春アドベンチャー 月のスケッチブック",
+   "role": "本人配音出演（单元剧）",
+   "crew": "",
+   "key": "",
+   "url": "https://audiodrama-note.com/blog-entry-11836.html",
+   "note": "全5回；个人记录与维基相符，但NHK原页面读取受限，暂不标为官网核验完成。",
+   "status": "维基＋广播剧记录；待NHK原档复核",
+   "origin": "补充检索",
+   "dateKind": "广播剧首播日",
+   "images": [
+    {
+     "url": "https://audiodrama-note.com/wp-content/uploads/2023/05/omnibus_competition.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://audiodrama-note.com/blog-entry-11836.html",
+     "asset": "322c0ba9a16d366e",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "e72",
+   "date": "2025-11-08",
+   "end": "2025-11-09",
+   "category": "音乐会",
+   "title": "《Musical Lovers 2025》",
+   "japanese": "Musical Lovers2025",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://masaaki-fujioka.com/contents/965414",
+   "note": "11月8–9日；出演方官网公布东启介参演。",
+   "status": "出演方官网已核对",
+   "origin": "维基补充",
+   "dateKind": "活动首日",
+   "images": [
+    {
+     "url": "https://masaaki-fujioka.com/assets/fujiokamasaaki/ogp.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://masaaki-fujioka.com/contents/965414",
+     "asset": "fcbbaad8ee9613da",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e73",
+   "date": "2025-11-13",
+   "end": "",
+   "category": "朗读剧",
+   "title": "体感型朗读剧《神乐坂怪奇谭 二〇二五：栖》",
+   "japanese": "神楽坂怪奇譚二〇二五「棲」",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://kaidankagura.wixsite.com/sumu2025",
+   "note": "",
+   "status": "官网入口已定位；本人场次待日程表复核",
+   "origin": "维基及粉丝索引补充",
+   "dateKind": "本人出演日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s180",
+   "date": "2025-12-31",
+   "end": "",
+   "category": "音乐会",
+   "title": "2025–2026跨年音乐剧音乐会",
+   "japanese": "カウントダウン ミュージカルコンサート2025-2026",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
+   "status": "维基补充线索；待原主办方复核",
+   "origin": "补充检索",
+   "dateKind": "活动日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s166",
+   "date": "2026-02-04",
+   "end": "",
+   "category": "电视节目",
+   "title": "《邂逅美丽日本的旅程》",
+   "japanese": "美しい日本に出会う旅",
+   "role": "本人／旅行节目",
+   "crew": "",
+   "key": "",
+   "url": "https://bs.tbs.co.jp/utsukushii/archives/arch260204.html",
+   "note": "21:00，BS-TBS；公开节目页。",
+   "status": "电台官网入口由粉丝索引定位；原页待复核",
+   "origin": "补充检索",
+   "dateKind": "节目播出日",
+   "images": [
+    {
+     "url": "https://bs.tbs.co.jp/utsukushii/img/common/ogp.png",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://bs.tbs.co.jp/utsukushii/archives/arch260204.html",
+     "asset": "7e0afb85b71c632a",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "s157",
+   "date": "2026-04-20",
+   "end": "2026-04-24",
+   "category": "广播／音声",
+   "title": "NHK广播剧《斜阳之国的鲁苏丹》",
+   "japanese": "青春アドベンチャー 斜陽の国のルスダン",
+   "role": "迪米特里（ディミトリ）",
+   "crew": "",
+   "key": "",
+   "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/blog/bl/pN1pnOaa3q/bp/pY4z7bn1ro/",
+   "note": "全5回；NHK官网入口已定位，但页面读取受限；日期与角色由维基及粉丝索引交叉发现。",
+   "status": "官网链接已定位；原页内容待复核",
+   "origin": "补充检索",
+   "dateKind": "广播剧首播日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "音声",
+   "playlistLinks": []
+  },
+  {
+   "id": "e74",
+   "date": "2026-08-07",
+   "end": "",
+   "category": "电影",
+   "title": "真人电影《蓝色监狱》",
+   "japanese": "ブルーロック",
+   "role": "马狼照英",
+   "crew": "",
+   "key": "",
+   "url": "https://bluelock-movie.jp/",
+   "note": "",
+   "status": "官网／主办方已核对",
+   "origin": "现官网补充",
+   "dateKind": "上映日",
+   "images": [
+    {
+     "url": "https://bluelock-movie.jp/assets/img/ogp_image3.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://bluelock-movie.jp/",
+     "asset": "37a94da506481fff",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_pash2609",
+   "date": "2026-08-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《PASH!》2026年9月号｜《蓝色监狱》专访",
+   "japanese": "PASH! 2026年09月号",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://pash-up.jp/content/60000139",
+   "note": "电影《蓝色监狱》马狼照英役：写真与采访。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://cdn.pash-up.jp/thum/60000/60000139/60000139-p.jpg",
+     "caption": "发行方公开封面",
+     "source": "https://pash-up.jp/content/60000139",
+     "asset": "3fdf94b07bfdfa6c",
+     "resolution": "200 × 253"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e75",
+   "date": "2026-08-09",
+   "end": "2026-10-13",
+   "category": "舞台",
+   "title": "《王者天下Ⅱ：继承》",
+   "japanese": "キングダムⅡ -継承-",
+   "role": "庞煖（龐煖）",
+   "crew": "导演：山田和也",
+   "key": "",
+   "url": "https://www.tohostage.com/kingdom2/",
+   "note": "东京8月9日–9月13日；大阪9月21–29日；福冈10月6–13日。",
+   "status": "官网／主办方已核对",
+   "origin": "现官网补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.tohostage.com/kingdom2/images/gallery_solo_higashi.jpg",
+     "caption": "官网舞台剧照：东启介饰庞煖",
+     "source": "https://www.tohostage.com/kingdom2/",
+     "asset": "",
+     "resolution": "1200 × 1696"
+    },
+    {
+     "url": "https://www.tohostage.com/kingdom2/images/report2_p_higashi.jpg",
+     "caption": "官网开幕报道舞台照",
+     "source": "https://www.tohostage.com/kingdom2/",
+     "asset": "",
+     "resolution": "1800 × 1200"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_talent260901",
+   "date": "2026-09-01",
+   "end": "",
+   "category": "采访／连载",
+   "title": "Talent Databank｜《麦斯》四位主演专访",
+   "japanese": "秋谷郁甫×安宅波颯×堀川梨心×東啓介 インタビュー",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.talent-databank.co.jp/special/interview/56797/",
+   "note": "四位演员谈各自角色、拍摄中发现的彼此魅力及故事看点。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "文章发布日期",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_animate260902",
+   "date": "2026-09-02",
+   "end": "",
+   "category": "采访／连载",
+   "title": "Animate Times｜华武利与Maou的“顽皮魅力”",
+   "japanese": "仮面ライダーマイス 嶺髙華武利役・東啓介インタビュー",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.animatetimes.com/news/details.php?id=1788235894",
+   "note": "谈角色的存在感、与皮套演员的沟通以及特摄拍摄体验。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "文章发布日期",
+   "images": [],
+   "videos": [
+    {
+     "id": "gKa8yBXfzcE",
+     "url": "https://www.youtube.com/watch?v=gKa8yBXfzcE",
+     "title": "Animate Times｜东启介《假面骑士麦斯》专访配套视频"
+    }
+   ],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e76",
+   "date": "2026-09-04",
+   "end": "2026-09-09",
+   "category": "朗读剧",
+   "title": "《SWAN：Ballet cross Reading》",
+   "japanese": "SWAN -Ballet cross Reading-",
+   "role": "草壁飞翔",
+   "crew": "",
+   "key": "",
+   "url": "https://ja.wikipedia.org/wiki/東啓介",
+   "note": "待官网核查本人分场日程；暂不作为确认完毕的履历。",
+   "status": "维基条目待作品官网复核",
+   "origin": "维基补充",
+   "dateKind": "作品首演日",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e77",
+   "date": "2026-09-06",
+   "end": "",
+   "category": "电视剧",
+   "title": "《假面骑士麦斯》",
+   "japanese": "仮面ライダーマイス",
+   "role": "岭高华武利／假面骑士Maou",
+   "crew": "",
+   "key": "",
+   "url": "https://www.tv-asahi.co.jp/my-th/",
+   "note": "2026年9月6日起，每周日9:00–9:30在朝日电视台系列播出。",
+   "status": "电视台及东映官网确认",
+   "origin": "现官网补充",
+   "dateKind": "作品首播日",
+   "images": [
+    {
+     "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
+     "caption": "朝日电视台官网角色图：岭高华武利／假面骑士Maou",
+     "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
+     "asset": "",
+     "resolution": "524 × 584"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "add_12shi",
+   "date": "2026-09-12",
+   "end": "",
+   "category": "网络剧",
+   "title": "《假面骑士麦斯 十二支十色》",
+   "japanese": "仮面ライダーマイス 十二支十色",
+   "role": "岭高华武利",
+   "crew": "",
+   "key": "",
+   "url": "https://www.toei-tokusatsu-fc.jp/",
+   "note": "东映特摄FANCLUB配信的衍生短剧；第7话《スパダリ検定～嶺髙華武利編～》以华武利为主角。",
+   "status": "维基＋东映特撮官方预告确认",
+   "origin": "2026.11.17补充",
+   "dateKind": "配信开始日",
+   "images": [
+    {
+     "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
+     "caption": "朝日电视台官网角色图：岭高华武利／假面骑士Maou",
+     "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
+     "asset": "",
+     "resolution": "524 × 584"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_uchusen194",
+   "date": "2026-10-01",
+   "end": "",
+   "category": "杂志",
+   "title": "《宇宙船》vol.194｜《假面骑士麦斯》专访",
+   "japanese": "宇宙船 vol.194",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.uchusen-mag.jp/post/宇宙船vol-194-好評発売中！",
+   "note": "东启介专访刊于第41页；另有《十二支十色》介绍、Maou海报及“十二支同盟演义”别册。",
+   "status": "出版社目录及东映发售日期确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/390655_1686310b3b45431e83908543084ddc8c~mv2.jpg",
+     "caption": "发行方公开封面",
+     "source": "https://www.uchusen-mag.jp/post/宇宙船vol-194-好評発売中！",
+     "asset": "b635f6f9f60bf321",
+     "resolution": "1490 × 2106"
+    }
+   ],
+   "videos": [],
+   "biliSearch": [
+    {
+     "year": "2026",
+     "title": "《麦斯》东启介杂志专访中文译介",
+     "query": "东启介 杂志全译 龙首 意外地普通",
+     "channel": "航海水上ライオン連合",
+     "note": "2026.11.09上传；约5分27秒。",
+     "source": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%A3%85%E5%8A%A8",
+     "url": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%90%AF%E4%BB%8B%20%E6%9D%82%E5%BF%97%E5%85%A8%E8%AF%91%20%E9%BE%99%E9%A6%96%20%E6%84%8F%E5%A4%96%E5%9C%B0%E6%99%AE%E9%80%9A"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e104",
+   "date": "2026-10-18",
+   "end": "",
+   "category": "写真／出版",
+   "title": "最新写真集发表消息",
+   "japanese": "東啓介最新写真集（仮）発売決定",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
+   "note": "宣布2027年1月8日发售；本项属于2026年的发表消息。",
+   "status": "官网／主办方已核对",
+   "origin": "发行方公告补充",
+   "dateKind": "消息发布日期",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/3537/6568-3537-1eddf834bf77b7f27dc01c1fd0d3bd19-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
+     "asset": "b4ccb520b19a2bb1",
+     "resolution": "1890 × 1260"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_anan2517",
+   "date": "2026-10-28",
+   "end": "",
+   "category": "杂志",
+   "title": "《anan》No.2517｜刀舞《陽伝》特集",
+   "japanese": "anan No.2517／増刊スペシャルエディション／Special Edition",
+   "role": "烛台切光忠",
+   "crew": "",
+   "key": "",
+   "url": "https://ananweb.jp/categories/covers/113785",
+   "note": "烛台切光忠（东启介）单人写真与采访，以及13振集合写真。共三种版本，正文相同，封面、封底及附录配置有别；购买时须对照具体版本。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://api.ananweb.jp/wp-content/uploads/2026/10/33c252e72e7fd23ed82e90581bfb450c.jpg",
+     "caption": "anan刀舞特装版公开封面（封面人物：三日月宗近）",
+     "source": "https://ananweb.jp/categories/covers/113785",
+     "asset": "1811fe426385c875",
+     "resolution": "1250 × 1600"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_televikun2612",
+   "date": "2026-10-28",
+   "end": "",
+   "category": "杂志",
+   "title": "《SUPER电视君×假面骑士麦斯》2026年12月增刊",
+   "japanese": "SUPERてれびくん×仮面ライダーマイス 秋のマイス祭り!ねずみさんになあれ号",
+   "role": "《假面骑士麦斯》关联刊物",
+   "crew": "",
+   "key": "",
+   "url": "https://televi-kun.net/wp/book_archive/1152/",
+   "note": "关联作品刊物：十二支同盟、角色关系与骑士资料特集。官网目录未列东启介本人专访。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://televi-kun.net/wp/wp-content/uploads/2026/11/20261109115929.png",
+     "caption": "发行方公开封面",
+     "source": "https://televi-kun.net/wp/book_archive/1152/",
+     "asset": "435fdfeb0b4d7e40",
+     "resolution": "582 × 707"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e78",
+   "date": "2026-11-10",
+   "end": "2026-12-31",
+   "category": "舞台",
+   "title": "《刀剑乱舞》陽伝 月亮、太阳与繁星",
+   "japanese": "刀剣乱舞 陽伝 月と太陽と星々よ",
+   "role": "烛台切光忠",
+   "crew": "编剧／导演：末满健一",
+   "key": "",
+   "url": "https://stage-toukenranbu.jp/stage/",
+   "note": "11月10日预演；东京11月11–29日；大阪12月6–23日；东京凯旋12月29–31日。后续场次尚未发生。 东京凯旋公演12月29–31日有“岁末感谢·开运巡游”企画（刀剑男士演员巡游各层客席，并发放开运团扇）。",
+   "status": "官网／主办方已核对",
+   "origin": "现官网补充",
+   "dateKind": "作品首演日",
+   "images": [
+    {
+     "url": "https://www.stage-toukenranbu.jp/wp-content/themes/touken_2021/assets/og/hiden4_ogp.jpg",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://stage-toukenranbu.jp/stage/",
+     "asset": "9786558cbccb766f",
+     "resolution": "1200 × 630"
+    }
+   ],
+   "videos": [],
+   "biliLinks": [
+    {
+     "url": "https://www.bilibili.com/video/BV1ezNuzLEp9/",
+     "title": "刀舞《陽伝 月と太陽と星々よ》PV"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_pash2612",
+   "date": "2026-11-10",
+   "end": "",
+   "category": "杂志",
+   "title": "《PASH!》2026年12月号｜秋谷郁甫×东启介",
+   "japanese": "PASH! 2026年12月号「仮面ライダーマイス 十二支画報」",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.pashplus.jp/blog/500710/",
+   "note": "“十二支画报”连载第1回：音澄宙与岭高华武利的写真及对谈。",
+   "status": "发行方资料确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://www.pashplus.jp/wp-content/uploads/98cd612673d8e3650f94eccd04421809.jpg",
+     "caption": "发行方公开封面",
+     "source": "https://www.pashplus.jp/blog/500710/",
+     "asset": "5576fd0de46fde45",
+     "resolution": "719 × 900"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "add_ganba",
+   "date": "2026-11-12",
+   "end": "",
+   "category": "活动",
+   "title": "街机《假面骑士 Battle Ganba Legends》VS之路第5弹｜配音",
+   "japanese": "仮面ライダーバトル ガンバレジェンズ",
+   "role": "假面骑士Maou",
+   "crew": "",
+   "key": "",
+   "url": "https://www.youtube.com/watch?v=9VPedwZW6vg",
+   "note": "第5弹起假面骑士Maou参战，本人担任语音（维基记载）。",
+   "status": "维基＋万代官方宣传确认",
+   "origin": "2026.11.17补充",
+   "dateKind": "稼动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_stage34",
+   "date": "2026-12-03",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV指南Stage Stars》vol.34｜写真集未使用照片",
+   "japanese": "TVガイドStage Stars vol.34",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://zasshi.tv/products/62998/",
+   "note": "Special Other Cuts栏目：东启介最新写真集未使用照片。",
+   "status": "发行方发售日与官方指定书店目录确认",
+   "origin": "原始发布页",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2026/11/stagestars_vol34_cover_00_1.jpg",
+     "caption": "发行方公开封面",
+     "source": "https://zasshi.tv/products/62998/",
+     "asset": "9a6bda52c3306f52",
+     "resolution": "500 × 500"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e105",
+   "date": "2027-01-08",
+   "end": "",
+   "category": "写真／出版",
+   "title": "最新写真集（暂定名）预定发售",
+   "japanese": "東啓介最新写真集（仮）",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
+   "note": "未来安排，未当作已完成活动。",
+   "status": "官网／主办方已核对",
+   "origin": "发行方公告补充",
+   "dateKind": "预定发售日",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/3537/6568-3537-1eddf834bf77b7f27dc01c1fd0d3bd19-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
+     "asset": "b4ccb520b19a2bb1",
+     "resolution": "1890 × 1260"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "photo_event_2027-01-10",
+   "date": "2027-01-10",
+   "end": "",
+   "category": "活动",
+   "title": "最新写真集发售纪念活动｜涩谷SHIBUYA TSUTAYA",
+   "japanese": "東啓介最新写真集（仮） 発売記念イベント",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://zasshi.tv/products/62295/",
+   "note": "13:00起；本人递交写真集，拍立得等内容依参与券种。",
+   "status": "出版社官网活动公告确认",
+   "origin": "原始发布页",
+   "dateKind": "本人活动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "photo_event_2027-01-17",
+   "date": "2027-01-17",
+   "end": "",
+   "category": "活动",
+   "title": "最新写真集发售纪念活动｜池袋HMVエソラ",
+   "japanese": "東啓介最新写真集（仮） 発売記念イベント",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://zasshi.tv/products/62295/",
+   "note": "13:00起；本人递交写真集，拍立得等内容依参与券种。",
+   "status": "出版社官网活动公告确认",
+   "origin": "原始发布页",
+   "dateKind": "本人活动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "photo_event_2027-01-24",
+   "date": "2027-01-24",
+   "end": "",
+   "category": "活动",
+   "title": "最新写真集发售纪念活动｜新宿Book First",
+   "japanese": "東啓介最新写真集（仮） 発売記念イベント",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://zasshi.tv/products/62295/",
+   "note": "13:00起；本人递交写真集，拍立得等内容依参与券种。",
+   "status": "出版社官网活动公告确认",
+   "origin": "原始发布页",
+   "dateKind": "本人活动日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "event_nostalgic27",
+   "date": "2027-05-02",
+   "end": "",
+   "category": "音乐会",
+   "title": "《Nostalgic Cabaret》嘉宾出演",
+   "japanese": "Nostalgic Cabaret（ノスタルジック キャバレー）",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://www.tohostage.com/nostalgic_cabaret/",
+   "note": "东京・Theatre Crea。当天日替嘉宾为东启介与安美佳（アン ミカ）。",
+   "status": "东宝官网出演日确认",
+   "origin": "原始发布页",
+   "dateKind": "本人出演日",
+   "images": [
+    {
+     "url": "https://www.tohostage.com/nostalgic_cabaret/images/cast2027/guest_higashi.jpg",
+     "caption": "《Nostalgic Cabaret》官网东启介嘉宾宣传照",
+     "source": "https://www.tohostage.com/nostalgic_cabaret/",
+     "asset": "c7eeb06e385ebe7b",
+     "resolution": "600 × 770"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "add_hiden_bd",
+   "date": "2027-05-19",
+   "end": "",
+   "category": "写真／出版",
+   "title": "刀舞《陽伝 月亮、太阳与繁星》Blu-ray/DVD发售",
+   "japanese": "舞台『刀剣乱舞』陽伝 月と太陽と星々よ Blu-ray/DVD",
+   "role": "烛台切光忠",
+   "crew": "",
+   "key": "",
+   "url": "https://stage-toukenranbu.jp/stage/",
+   "note": "2026.11.10官网宣布；TOHO animation STORE限定特典附发售纪念活动抽选应募券。",
+   "status": "官网／主办方已核对",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "4ANW1anPBF4",
+   "title": "【井桁弘恵】朗読×バレエ、新感覚舞台『SWANーBallet cross Readingー』とは舞台『SWANーBallet cross Readingー』公開ゲネプロ",
+   "channel": "日テレNEWSカルチャー【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/4ANW1anPBF4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLC1pIEtyZlqYGznQcq1pjiib8s-Hw",
+   "playlists": [
+    "東啓介 2026 SWANーBallet cross Readingー"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=4ANW1anPBF4",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "211276d5392431f0"
+  },
+  {
+   "id": "D1dOGYHMg6A",
+   "title": "【BALLET.jp】Stage Play \"SWAN —Ballet cross Reading—\" Public Dress Rehearsal",
+   "channel": "クララチャンネル CLARA Channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/D1dOGYHMg6A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDbvyu37xIPU_ljSEJIwd4fkaKlAg",
+   "playlists": [
+    "東啓介 2026 SWANーBallet cross Readingー"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=D1dOGYHMg6A",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "0e54794d217d7174"
+  },
+  {
+   "id": "8X39E1Z6TOc",
+   "title": "舞台『SWAN Ballet cross Reading』ゲネプロ　井桁弘恵、村川絵梨、東啓介、西野遼、福士誠治、秋元康臣、厚地康雄、飯島望未、今井智也、菊地研、木村優里、塩谷綾菜、柴山紗帆、関野海斗",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/8X39E1Z6TOc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBeM8h5jHBqqmFrJ3IkKvLfk52_ZQ",
+   "playlists": [
+    "東啓介 2026 SWANーBallet cross Readingー"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=8X39E1Z6TOc",
+   "years": [
+    "2026"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "650b961f392d5bc2"
+  },
+  {
+   "id": "X_NYvj42l_A",
+   "title": "Stage Play \"Kingdom II: Succession\" Promotional Footage",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/X_NYvj42l_A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYTCBWKGUwDw==&rs=AOn4CLDgA_YK_zbQTNDE72JjL3rabgaqyw",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=X_NYvj42l_A",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "51d8becbed8f2bd5"
+  },
+  {
+   "id": "okwyOUKOVf8",
+   "title": "Stage Play \"KINGDOM II -Inheritance-\" / Promotional Video",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/okwyOUKOVf8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpvmwtKp6jAGXAT-1LBEgaA_OjBA",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=okwyOUKOVf8",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "539260456a9391b9"
+  },
+  {
+   "id": "sTz7QLKvlrg",
+   "title": "舞台『キングダムⅡ-継承-』／2026年8月10日(月) 13時公演 特別カーテンコール映像",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/sTz7QLKvlrg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHLXSqHtn3ypgX-ErskqfG-rna9g",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=sTz7QLKvlrg",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "857a6f06f987b3c8"
+  },
+  {
+   "id": "3g1h5UbPimY",
+   "title": "王騎死す…屈指の名シーンまでを三浦宏規＆高野洸の主演で舞台化！“羌瘣”山本千尋のアクションは圧巻！舞台「キングダムⅡ-継承-」公開ゲネプロ＆開幕記念会見 #舞台キングダム2 #三浦宏規 #高野洸",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/3g1h5UbPimY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBeKFUwDw==&rs=AOn4CLDOE2NlRaVGUCs8VkXng3hMC61WYQ",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=3g1h5UbPimY",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "91106b11d5e57766"
+  },
+  {
+   "id": "sa1rsQT9df0",
+   "title": "舞台『キングダムⅡ-継承-』開幕記念会見 三浦宏規 高野洸 山本千尋 東啓介 章平 石川禅  山口祐一郎 華優希 元木聖也 竹内將人 清水葉月  渡辺大 飯作雄太郎",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/sa1rsQT9df0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8BouPxdZxvWxJC-sUautgl4Wh6Q",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=sa1rsQT9df0",
+   "years": [
+    "2026"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "808b03b90de7efa1"
+  },
+  {
+   "id": "yb8Kqb_WUG4",
+   "title": "Hiroki Miura & Akira Takano give a passionate performance in the stage play \"Kingdom II: Successi...",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yb8Kqb_WUG4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5hPL4E6Z46aTzBOi0fa7vVM3Z5A",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=yb8Kqb_WUG4",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "5becc8dcbabf30ec"
+  },
+  {
+   "id": "xlIBfL1sOcg",
+   "title": "舞台『キングダムⅡ-継承-』／2026年8月9日(日) 18時公演 初日特別カーテンコール映像",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/xlIBfL1sOcg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkSw_urI0s_nKIlQXWrMIbe8xQug",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=xlIBfL1sOcg",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "b8218e4b5a8485e9"
+  },
+  {
+   "id": "XgiT7y8zBnw",
+   "title": "舞台『キングダムⅡ-継承-』舞台映像　三浦宏規 高野洸 山本千尋 東啓介 石川禅  山口祐一郎",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/XgiT7y8zBnw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7VDysHhLsD4g0DS9AtJIxIn5qHA",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=XgiT7y8zBnw",
+   "years": [
+    "2026"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "9141c172aea7a3f9"
+  },
+  {
+   "id": "nksmqPo8PXM",
+   "title": "舞台『キングダムⅡ-継承-』公開ゲネプロダイジェスト映像",
+   "channel": "おけぴネット",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/nksmqPo8PXM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5j6IimY7BqR1eIddlvVux377KwA",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=nksmqPo8PXM",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "6d84cab2fed4c20c"
+  },
+  {
+   "id": "0g3ZhFdlDj4",
+   "title": "【キングダム】王騎死す…屈指の名シーンまでを三浦宏規＆高野洸の主演で舞台化！“羌瘣”山本千尋のアクションは圧巻！舞台「キングダムⅡ-継承-」公開ゲネプロ＆開幕記念会見",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/0g3ZhFdlDj4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDx3xtSuWmlK_PqD2t1QeF08MB9yg",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=0g3ZhFdlDj4",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "aa2b493e14d21c08"
+  },
+  {
+   "id": "kB1halztCbY",
+   "title": "舞台『キングダムⅱ-継承-』 全メインキャスト会見",
+   "channel": "ミュージック・エア",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/kB1halztCbY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBD9mcadwQ5NukPFKONx-R9hMcUYQ",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=kB1halztCbY",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "cc8fb1efed6b6fce"
+  },
+  {
+   "id": "1G4VldyUdIE",
+   "title": "舞台『キングダムⅱ-継承-』公開稽古",
+   "channel": "ミュージック・エア",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/1G4VldyUdIE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQH7-FR62987t5p2J6fsw-anUNuQ",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=1G4VldyUdIE",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "46f917a02f6bf110"
+  },
+  {
+   "id": "6ShW86E7yAU",
+   "title": "🔵独占【舞台『キングダムⅡ－継承－』】〝奇跡的なWキャスト〟 三浦宏規＆高野洸を独占取材！「2人で一緒にやることに意味がある」",
+   "channel": "【公式】TBS芸能&情報まとめ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/6ShW86E7yAU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDvFUGTRFGnKY5SkFUtX20CqaHF9w",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=6ShW86E7yAU",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1aa2b03e41ef05cf"
+  },
+  {
+   "id": "RlMDLOexM5E",
+   "title": "舞台「キングダムII」“羌カイ”山本千尋、言ってみたいセリフは「我武神龐煖也」",
+   "channel": "MANTAN TV",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/RlMDLOexM5E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAt3GTMG47FDmOMVtbw9FhhK_jtxg",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=RlMDLOexM5E",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2268a00cfcbcf2b4"
+  },
+  {
+   "id": "Ec_t290Za0Y",
+   "title": "🔵独占【舞台『キングダムⅡ－継承－』】大迫力の稽古映像を独占お届け！三浦宏規＆高野洸に稽古の合間に直撃インタビュー",
+   "channel": "【公式】TBS芸能&情報まとめ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Ec_t290Za0Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8TOJlqwYEzpjpvA9We5DvWXnYLQ",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=Ec_t290Za0Y",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "d04055fa93a9a84f"
+  },
+  {
+   "id": "pvPDrs9rSSw",
+   "title": "舞台「キングダムII」“羌カイ”山本千尋、“信”三浦宏規＆高野洸らが意気込み！開幕直前にキャストが決起集会",
+   "channel": "MANTAN TV",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/pvPDrs9rSSw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCusm6TOmKKRQb_IWwtTKDPy8udFw",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=pvPDrs9rSSw",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "d70ffcf2d78fa07c"
+  },
+  {
+   "id": "EWuzyA6UxLc",
+   "title": "Stage Play \"KINGDOM II -Inheritance-\" Just Before Opening! Post-Event Cast Comments from the Rally",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/EWuzyA6UxLc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-dyldKSoawXa1tTKe0OhweZSdpg",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=EWuzyA6UxLc",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "9ac92796d31e04a5"
+  },
+  {
+   "id": "dYhneTTd768",
+   "title": "【キングダム】“信”三浦宏規考案の『キングダム』ポーズで会場が一つに！舞台 『キングダムⅡ-継承-』開幕直前！総決起集会",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/dYhneTTd768/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVEsYPJIJFl9G3-uW00Pvm0dPVgg",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=dYhneTTd768",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "36999605e2147cfd"
+  },
+  {
+   "id": "Y2z_qoOIQVc",
+   "title": "【キングダム】“信”三浦宏規＆高野洸、質疑応答でまさかの両思い発覚！？舞台 『キングダムⅡ-継承-』開幕直前！総決起集会",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Y2z_qoOIQVc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_J2NUdDoiCYASjgRnvsvmF2rHLg",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Y2z_qoOIQVc",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "622c3f4c6da8cf5b"
+  },
+  {
+   "id": "Z0xeHjuJqUE",
+   "title": "[Yuichiro Yamaguchi, 69] Playing Ouki in the stage play \"Kingdom II\": \"I'm glad I've lived to see...",
+   "channel": "日テレNEWSカルチャー【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Z0xeHjuJqUE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDISn63s1GQvmV8bvjof3DV82TkoA",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=Z0xeHjuJqUE",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1d56a0c87946defd"
+  },
+  {
+   "id": "kwzvPcpSAdc",
+   "title": "【舞台『キングダムⅡ-継承-』公開稽古】大迫力の公開稽古をお届け《Wキャスト：三浦宏規＆東啓介Ver》",
+   "channel": "【公式】TBS芸能&情報まとめ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/kwzvPcpSAdc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0kSYgmff0CWQgrj3MRIjBELv3PQ",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=kwzvPcpSAdc",
+   "years": [
+    "2026"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "7a378d7d628fae90"
+  },
+  {
+   "id": "K7DPynI9ABI",
+   "title": "【キングダム】“信”高野洸のあいさつに“王騎”山口祐一郎が「もう一回！」舞台「キングダムⅡ－継承－」 全メインキャスト会見",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/K7DPynI9ABI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNXFqv81xPtQlnJ3uDQB7aLHWDVA",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=K7DPynI9ABI",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "886ad2950c6eb88d"
+  },
+  {
+   "id": "d1bPgaMakiQ",
+   "title": "舞台『キングダムⅡ-継承-』30秒PV／7月13日(月)一般販売開始！",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/d1bPgaMakiQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ0CLGQSb4gvd9taHgd5gmkdyjXw",
+   "playlists": [
+    "東啓介 2026 舞台キングダムⅡ 継承"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=d1bPgaMakiQ",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "3669dff90c61d06d"
+  },
+  {
+   "id": "z7Pd-5nNOSk",
+   "title": "【予告】仮面ライダーマイス　十二支十色　二話　十二支ファッションチェック①",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/z7Pd-5nNOSk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1WwPHdQFl2IqpJXeVe30ZpYw9OA",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=z7Pd-5nNOSk",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2b96b66b8439afeb"
+  },
+  {
+   "id": "cQHjgl5dyAA",
+   "title": "【予告第１弾】仮面ライダーマイス　十二支十色",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/cQHjgl5dyAA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASV6jdjCgPnD_sgLbaja-YKZOldw",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=cQHjgl5dyAA",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "46a44f94fc9f1c89"
+  },
+  {
+   "id": "GTKfOKIZ-ME",
+   "title": "仮面ライダーマイスを徹底解剖！スペシャル座談会　仲良しキャストの素顔丸見え！？わちゃわちゃトークで大爆笑！",
+   "channel": "oricon",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/GTKfOKIZ-ME/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA3rb4byYrO_2VwEFGVKjNl7EuBRg",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=GTKfOKIZ-ME",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2312eea506304a8c"
+  },
+  {
+   "id": "eIsBS9RmPtU",
+   "title": "【仮面ライダーマイス】オーディション秘話を暴露!?キャストの素顔を最速大解剖！「仮面ライダーマイス」激アツ座談会!!",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/eIsBS9RmPtU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIU5ISiAFFPKKf_DorYMDHeL5vzA",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=eIsBS9RmPtU",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7018b97be78704ab"
+  },
+  {
+   "id": "a7xOIwwNLOA",
+   "title": "【仮面ライダーマイス】十二支同盟が登場！キャスト解禁！　「仮面ライダーマイス」制作発表記者会見",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/a7xOIwwNLOA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAir0HaigDXfYvPwytwalFpVGvIyQ",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=a7xOIwwNLOA",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "65502ea176799ac0"
+  },
+  {
+   "id": "klfi7fnJWPM",
+   "title": "【仮面ライダーマイス】“十二支同盟”キャスト初解禁！東啓介＆金子隼也ら登場　『仮面ライダーマイス』制作発表記者会見",
+   "channel": "oricon",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/klfi7fnJWPM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDE4oee8Ud_2kaik453XXGwvi7qlA",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=klfi7fnJWPM",
+   "years": [
+    "2026"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "b9df03f2458ca1ff"
+  },
+  {
+   "id": "SZEK7hWKliE",
+   "title": "10/28/26 GAMBA VR 5th Series 4 Short 1 First Draft",
+   "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/SZEK7hWKliE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBgwDw==&rs=AOn4CLCMlgJ_OvYSS6reusRIF3pFBLNZ7g",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=SZEK7hWKliE",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "74c9b14c42e856f4"
+  },
+  {
+   "id": "9VPedwZW6vg",
+   "title": "【ガンバレジェンズ】バーサスロード５弾で早くもあのライダーが…！！新PV＆激やばパラレルも公開⁉︎【VR4・5弾】【バンマニ!】【バンダイ公式】",
+   "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/9VPedwZW6vg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbG_1jqn1qX4YGK02rVLTviZDugw",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=9VPedwZW6vg",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "5f75b348305d965a"
+  },
+  {
+   "id": "sKfbmuKkuZY",
+   "title": "【ガンバレジェンズ】バーサスロード５弾稼働直前!! LRなど注目カードの情報を完全網羅!さらに不可思議なとっておき新情報も…!?今すぐチェック!!!【VR４・5弾】【バンマニ!】【バンダイ公式】",
+   "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/sKfbmuKkuZY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADUpVnyOiSXuurVX67wkQ17oiQwA",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=sKfbmuKkuZY",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "bd78010f46fb604e"
+  },
+  {
+   "id": "HTb2pl7yHC4",
+   "title": "【予告第２弾】仮面ライダーマイス　十二支十色",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/HTb2pl7yHC4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHphG-2HaKMJXM9IUeJLdHUZIYog",
+   "playlists": [
+    "東啓介 2026 仮面ライダーマイス"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=HTb2pl7yHC4",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7c7f6ce84d72282f"
+  },
+  {
+   "id": "7z-mf3a4X2E",
+   "title": "主題歌はAdo「モンストロ」｜映画『ブルーロック』予告②【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/7z-mf3a4X2E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbGWdFgyAQo7QAjTq1RWcowEWRRA",
+   "playlists": [
+    "東啓介 2026 ブルーロック"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=7z-mf3a4X2E",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2268592cffae12a4"
+  },
+  {
+   "id": "pfAjxZqCw44",
+   "title": "BLUELOCK ULTIMATE BACKSTAGE #1《ビジュアル撮影に密着》｜『ブルーロック』8月7日(金)公開",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/pfAjxZqCw44/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUF311SHqROG9Kl2QEcqFc65IVKg",
+   "playlists": [
+    "東啓介 2026 ブルーロック"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=pfAjxZqCw44",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "25a3d30a0ef42a6b"
+  },
+  {
+   "id": "WZvtwa2QghM",
+   "title": "Interview with Keisuke Higashi, who plays Teruaki Barou in the live-action film \"Blue Lock\": How ...",
+   "channel": "animate Times",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/WZvtwa2QghM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0bFUzlTqQOS_voCuiCrSD_BHxsQ",
+   "playlists": [
+    "東啓介 2026 ブルーロック"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=WZvtwa2QghM",
+   "years": [
+    "2026"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "24a404154261ba21"
+  },
+  {
+   "id": "gjkR_2NFHxY",
+   "title": "個性豊かなキャラクター×注目俳優陣｜映画『ブルーロック』8月7日(金)公開",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/gjkR_2NFHxY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGr6htbb7tRV9Reo96PwDF8vpKUg",
+   "playlists": [
+    "東啓介 2026 ブルーロック"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=gjkR_2NFHxY",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "c12a1b9aca1beaa7"
+  },
+  {
+   "id": "v7ywW3Oj3fo",
+   "title": "映画『ブルーロック』WEBCM〈熱い声篇〉【大ヒット上映中！】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/v7ywW3Oj3fo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAS3Ih4ntCri4MiS-iPNeTyf6hEPQ",
+   "playlists": [
+    "東啓介 2026 ブルーロック"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=v7ywW3Oj3fo",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "76694182eac5ccd7"
+  },
+  {
+   "id": "PXK_cInXWwA",
+   "title": "【最終回】BLUELOCK.LAB #12《映画『ブルーロック』を研究！キャスト12人でエゴトーク！》｜ 映画『ブルーロック』大ヒット上映中！",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/PXK_cInXWwA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwcTv5vdYHJIycMLSuMMeSKeLLCA",
+   "playlists": [
+    "東啓介 2026 ブルーロック"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=PXK_cInXWwA",
+   "years": [
+    "2026"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "eb397313561a65e3"
+  },
+  {
+   "id": "1fbwOcFEASg",
+   "title": "\"Blue Lock\" The Movie Release Commemoration SP: Yuki Sakurai (Gekidan EXILE) × Keisuke Higashi [S...",
+   "channel": "CL Official YouTube Channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/1fbwOcFEASg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVJopEq815nM23yy7bbfb-Bf1QnA",
+   "playlists": [
+    "東啓介 2026 ブルーロック"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=1fbwOcFEASg",
+   "years": [
+    "2026"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "f072f058effe3a87"
+  },
+  {
+   "id": "tSfsOIXDSR0",
+   "title": "ミュージカル『JERSEY BOYS』(2025) Movie “What’ｓ JB？”",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/tSfsOIXDSR0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAB6ti2uUXmjkMfL6Om7cG4BW_5rA",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=tSfsOIXDSR0",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "6aa5a601021638d4"
+  },
+  {
+   "id": "L0ZOUa3tZ8U",
+   "title": "ミュージカル『JERSEY BOYS』(2025) Movie “About JB？”【Team BLACK ver.】",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/L0ZOUa3tZ8U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAevLjwRYJG92Jc1jRapCy924RnFQ",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=L0ZOUa3tZ8U",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "518b82383369c670"
+  },
+  {
+   "id": "-fq8P9gHcnA",
+   "title": "【ジャージー・ボーイズ】石井一孝の情熱観劇レビュー★中川晃教／藤岡正明／東啓介／大山真志／加藤潤一／阿部裕／戸井勝海／藤田俊太郎/Jersey Boys【フランキー・ヴァリ】【ミュージカル】",
+   "channel": "石井一孝の情熱マニアchannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/-fq8P9gHcnA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_5r5-cMGFWZrelze5xelPRX3U4g",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=-fq8P9gHcnA",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "9d7a4e409a5e6b42"
+  },
+  {
+   "id": "jpRbH2fes4I",
+   "title": "【＃ジャージーボーイズ】＃石井一孝 の情熱観劇レビュー★ #中川晃教／#藤岡正明／#東啓介／#大山真志／#加藤潤一／#阿部裕／#戸井勝海／#川口竜也【#フランキーヴァリ】【#ミュージカル】",
+   "channel": "石井一孝の情熱マニアchannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/jpRbH2fes4I/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYfyATKB4wDw==&rs=AOn4CLBKLZhQwF1oVGgukHLd1zZXKSq4sg",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=jpRbH2fes4I",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "989c55abff71f1aa"
+  },
+  {
+   "id": "c32MiGQ1TU4",
+   "title": "ミュージカル『ジャージー・ボーイズ』2022年舞台映像版 PV",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/c32MiGQ1TU4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDC16jhSjE8ziXiwlyRgBRa_55Uag",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=c32MiGQ1TU4",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1fd4a51fcdafae73"
+  },
+  {
+   "id": "3Ih3b4cGKU8",
+   "title": "JERSEY BOYS Osaka Shinkabukiza 20221105 J-LOD(3) 【4K VIDEO】",
+   "channel": "新歌舞伎座 SHINKABUKIZA",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/3Ih3b4cGKU8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSCBcKGUwDw==&rs=AOn4CLC_ayzy0YRV8XlQ4b45raFghx_4Lw",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=3Ih3b4cGKU8",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "524adf2953847b93"
+  },
+  {
+   "id": "ecZ-mNoxAI8",
+   "title": "『JERSEY BOYS』JAPAN 2022Trailer　★★★★★",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ecZ-mNoxAI8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcIY018uVgmY7eDQaqeErO2e7NZg",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)",
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=ecZ-mNoxAI8",
+   "years": [
+    "2020",
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "8447b4e7642aa4c8"
+  },
+  {
+   "id": "pakliZdcpWs",
+   "title": "『JERSEY BOYS』JAPAN 2022　大阪公演　15秒スポット映像",
+   "channel": "新歌舞伎座 SHINKABUKIZA",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/pakliZdcpWs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBM8gYtzMLx2pMFmNf7JtuK0bKgKA",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=pakliZdcpWs",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "b32cfb2485e166c5"
+  },
+  {
+   "id": "XK8uEh1kIVM",
+   "title": "JERSYBOYS SPOT30 tickets on sale from 9/3",
+   "channel": "博多座チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/XK8uEh1kIVM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4L_Ni6FYG14jXEsdwyNFyFMUSNw",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=XK8uEh1kIVM",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "ad1d2aa910e22e94"
+  },
+  {
+   "id": "QWSKBjG6_mw",
+   "title": "『JERSEY BOYS』2022 コメント映像／中川晃教　（チームBLACK　フランキー・ヴァリ役）",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/QWSKBjG6_mw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA8KDowDw==&rs=AOn4CLBS3k5RcY2j5saYrRXs00uC-NCn3w",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=QWSKBjG6_mw",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1b3d5adec19b1d98"
+  },
+  {
+   "id": "vIkahNKrw9M",
+   "title": "『JERSEY BOYS』2022 コメント映像／藤岡正明　（チームBLACK　トミー・デヴィート役）",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/vIkahNKrw9M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAcKBUwDw==&rs=AOn4CLDNhcFnxAg8CINDH0GS4gg4yJIT5g",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=vIkahNKrw9M",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "ceed8480d89024e3"
+  },
+  {
+   "id": "gJMztELBKgc",
+   "title": "『JERSEY BOYS』2022 コメント映像／東啓介　（チームBLACK　ボブ・ゴーディオ役）",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/gJMztELBKgc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAhKBswDw==&rs=AOn4CLBMS2HhuA8aQs9tltRFcjSVxOU75w",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=gJMztELBKgc",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "b6c6cccb44c55159"
+  },
+  {
+   "id": "UUyoZY7ZgyE",
+   "title": "『JERSEY BOYS』2022 コメント映像／大山真志　（チームBLACK　ニック・マッシ役）",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/UUyoZY7ZgyE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyA8KC0wDw==&rs=AOn4CLCtga8x_Mwn7OhecSnLalwOK1VLwg",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=UUyoZY7ZgyE",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "24b8cd9214d57ed9"
+  },
+  {
+   "id": "V5B54irF_OY",
+   "title": "~Akita native and director Shuntaro Fujita talks~ A guide to the musical \"Jersey Boys\"",
+   "channel": "キョードー東北",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/V5B54irF_OY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr1AF47Bxpq3MKocHa6oSdMXN75Q",
+   "playlists": [
+    "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=V5B54irF_OY",
+   "years": [
+    "2022",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "201228a928b35d02"
+  },
+  {
+   "id": "EnbsoErdPGc",
+   "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 公演初日ダイジェスト映像!!",
+   "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/EnbsoErdPGc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYPSBlKDowDw==&rs=AOn4CLB2NTE7k-5iP1qu2evw8h0tA6e6wg",
+   "playlists": [
+    "東啓介 2013 テニミュ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=EnbsoErdPGc",
+   "years": [
+    "2013"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "10e462dec9ef19ce"
+  },
+  {
+   "id": "O1qwx9YeEGI",
+   "title": "Musical \"The Prince of Tennis\" National Tournament Seigaku vs Rikkai performance first day digest...",
+   "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/O1qwx9YeEGI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYNiBYKH8wDw==&rs=AOn4CLBQxGaFtiaYUtSaQy7gWRmGjpEwvg",
+   "playlists": [
+    "東啓介 2013 テニミュ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=O1qwx9YeEGI",
+   "years": [
+    "2013"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "bb1a3aeb4350d526"
+  },
+  {
+   "id": "pJ8WM6ZjB0M",
+   "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 四天宝寺スペシャル映像！",
+   "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/pJ8WM6ZjB0M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYciBOKCwwDw==&rs=AOn4CLBUttQVm7CrVbOyZw37EB-K6vaPLg",
+   "playlists": [
+    "東啓介 2013 テニミュ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=pJ8WM6ZjB0M",
+   "years": [
+    "2013"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "31e30f9a458beeaa"
+  },
+  {
+   "id": "JSw3CZ6T6ro",
+   "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 DVD CM",
+   "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/JSw3CZ6T6ro/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZJnrk3t8h7MEbB4hQ9Vj2_uVnfQ",
+   "playlists": [
+    "東啓介 2013 テニミュ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=JSw3CZ6T6ro",
+   "years": [
+    "2013"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "e103f0579dcd29a3"
+  },
+  {
+   "id": "mZBvO3s39nA",
+   "title": "Musical \"The Prince of Tennis\" DVD PV COLLECTION vol.3 CM video",
+   "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/mZBvO3s39nA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBWKFkwDw==&rs=AOn4CLA5nVRhRlOUytDFXzhzUAPWc8f2Vw",
+   "playlists": [
+    "東啓介 2013 テニミュ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=mZBvO3s39nA",
+   "years": [
+    "2013"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2e01518722478bc7"
+  },
+  {
+   "id": "q6VF3dN7VgU",
+   "title": "ミュージカル『テニスの王子様』コンサート Dream Live 2014",
+   "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/q6VF3dN7VgU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdAGgALeA4oCDAgAEAEYZSBTKEgwDw==&rs=AOn4CLCCCFnIx2lvAhBoj6x1IrrIF5bH1A",
+   "playlists": [
+    "東啓介 2013 テニミュ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=q6VF3dN7VgU",
+   "years": [
+    "2013"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "ce0cfdccaf8ed0ec"
+  },
+  {
+   "id": "ZIOD5qnM7Do",
+   "title": "Musical \"The Prince of Tennis\" Spring Athletic Meet 2014 DVD Commercial",
+   "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ZIOD5qnM7Do/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBUKE8wDw==&rs=AOn4CLDRVb7FJ-wTagFXbaQgZboSy15KxQ",
+   "playlists": [
+    "東啓介 2013 テニミュ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=ZIOD5qnM7Do",
+   "years": [
+    "2013"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "6dfc7fb97708fe33"
+  },
+  {
+   "id": "F7rOBM2W63c",
+   "title": "ミュージカル『ラグタイム』舞台映像版PV",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/F7rOBM2W63c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJlO8Y7BHnv4UXWBTjmtaMVy8OWA",
+   "playlists": [
+    "東啓介 2023 ラグタイム"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=F7rOBM2W63c",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "b93ee69c08892ddf"
+  },
+  {
+   "id": "E8Y1uiiUF_E",
+   "title": "ミュージカル『ラグタイム』ゲネプロ 石丸幹二 井上芳雄 安蘭けい  遥海 川口竜也 東啓介 EXILE NESMITH",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/E8Y1uiiUF_E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASWMpPOP9FX_Hh-CiJldNuFl1ZGg",
+   "playlists": [
+    "東啓介 2023 ラグタイム",
+    "東啓介 歌"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=E8Y1uiiUF_E",
+   "years": [
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "12febbe176a054ab"
+  },
+  {
+   "id": "BV6956LaS-M",
+   "title": "石丸幹二＆井上芳雄＆安蘭けいが熱演！ ミュージカル「ラグタイム」公開ゲネプロ（RAGTIME／石丸幹二 井上芳雄 安蘭けい ＥＸＩＬＥ ＮＥＳＭＩＴＨ 遥海 東啓介 綺咲愛里）",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/BV6956LaS-M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8zbwAoGvvfWGvovD_3OZWRmJ-Yg",
+   "playlists": [
+    "東啓介 2023 ラグタイム"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=BV6956LaS-M",
+   "years": [
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "dd626a0174a7cbba"
+  },
+  {
+   "id": "vYtbI_wPC2k",
+   "title": "ミュージカル『ラグタイム』公開稽古 石丸幹二 井上芳雄 安蘭けい2023/8/23",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/vYtbI_wPC2k/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYVSBeKGUwDw==&rs=AOn4CLB2Ii160nOKqlHyBqzQaNdXf7QrCw",
+   "playlists": [
+    "東啓介 2023 ラグタイム"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=vYtbI_wPC2k",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "a05d7bb8b76300e2"
+  },
+  {
+   "id": "CbmMXDMzr4k",
+   "title": "【白熱！公開稽古】THE MUSICAL「RAGTIME(ラグタイム)」石丸幹二＆井上芳雄＆安蘭けい＆遥海が劇中歌を披露！",
+   "channel": "【公式】TBS芸能&情報まとめ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/CbmMXDMzr4k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHLd2EQ5crxlbCEinF-5lVta34vg",
+   "playlists": [
+    "東啓介 2023 ラグタイム"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=CbmMXDMzr4k",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "181955f7f1117eba"
+  },
+  {
+   "id": "1k0UY_4Ad0w",
+   "title": "【貴重】石丸幹二＆井上芳雄＆安蘭けい、ミュージカル「ラグタイム」公開稽古で熱唱！（石丸幹二 井上芳雄 安蘭けい 遥海 川口竜也 東啓介 土井ケイト 館形比呂一 畠中洋 EXILE NESMITH）",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/1k0UY_4Ad0w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOj8VyGf167WZexFd_b23U9R2fzA",
+   "playlists": [
+    "東啓介 2023 ラグタイム"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=1k0UY_4Ad0w",
+   "years": [
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "f49217f333e4569d"
+  },
+  {
+   "id": "BkLlGlkBQws",
+   "title": "ミュージカル『ラグタイム』Behind the Scenes 動画",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/BkLlGlkBQws/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0sLr7_eX0tLYoqo6LOgNurcRJ6A",
+   "playlists": [
+    "東啓介 2023 ラグタイム"
+   ],
+   "sourceType": "官方／机构",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=BkLlGlkBQws",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "5622510f747d6d14"
+  },
+  {
+   "id": "LrkhLv8z3ZY",
+   "title": "ミュージカル『ラグタイム』稽古場映像ダイジェスト",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/LrkhLv8z3ZY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCFquNlWu7Pj1Iof-MkRr7k8DCDg",
+   "playlists": [
+    "東啓介 2023 ラグタイム"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=LrkhLv8z3ZY",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "b93ee69c08892ddf"
+  },
+  {
+   "id": "Lw3yMhOmE-c",
+   "title": "『映画  おっパン』本編冒頭映像解禁【絶賛公開！】",
+   "channel": "ギャガ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Lw3yMhOmE-c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLACWHhYTN14h4du80G35p2IfOe1EQ",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Lw3yMhOmE-c",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "610e6eb4a0a212c9"
+  },
+  {
+   "id": "15vv317-0ow",
+   "title": "\"Oppan the Movie\" official trailer opens nationwide on Friday, July 4th!",
+   "channel": "ギャガ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/15vv317-0ow/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7CsMVeFX-qcFKn0ncyaEDjZ3Krg",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=15vv317-0ow",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "dfa40ab9486702d6"
+  },
+  {
+   "id": "K43A_Euy30w",
+   "title": "『映画  おっパン』ショート予告  7/4（金）全国ロードショー！",
+   "channel": "ギャガ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/K43A_Euy30w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDtbP-MjeRCu9TDzIfCzTjk3w5O4Q",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=K43A_Euy30w",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "07c0b68331d21e1a"
+  },
+  {
+   "id": "V-5VydFvkOo",
+   "title": "\"Whatever the old man's underwear is! Special\" will be broadcast on Saturday, June 28th at 11:40p...",
+   "channel": "東海テレビ 公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/V-5VydFvkOo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDuyJdVvGgW6gkCqybNWcYO4J9dCA",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=V-5VydFvkOo",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7f06d0f8ccf22789"
+  },
+  {
+   "id": "KxeudWn9KZQ",
+   "title": "Opening footage of the film and character introduction footage! Opening footage of the film \"What...",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/KxeudWn9KZQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpibA7NURKiUsmqij3xWSjp_xftg",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=KxeudWn9KZQ",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "4edd4ea6c0e93ad6"
+  },
+  {
+   "id": "NJuQcqoxBxk",
+   "title": "【おっパン】中島颯太、“円先輩”東啓介とのデート現場を目撃されパニック「どういう状況？」　『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+   "channel": "oricon",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/NJuQcqoxBxk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHGIIItW6qsN_JhhFHHvwQ4AgGDw",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=NJuQcqoxBxk",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "d3b8dc94e9705d33"
+  },
+  {
+   "id": "fVfE_apEhpo",
+   "title": "『映画  おっパン』舞台挨拶ダイジェスト&メイキング映像解禁【絶賛公開！】",
+   "channel": "ギャガ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/fVfE_apEhpo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8w1n03HKSNIWVpXgqYzmUTiROkg",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "官方／机构",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=fVfE_apEhpo",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "e51b3a5819c99de2"
+  },
+  {
+   "id": "pqYg8t4cFQk",
+   "title": "\"The Movie: Oppai\" - This will tell you everything you need to know about Oppai! Special video - ...",
+   "channel": "ギャガ公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/pqYg8t4cFQk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBg2zgyACzACbCjdVFg5eqgksgAUQ",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=pqYg8t4cFQk",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "355cac847a553e11"
+  },
+  {
+   "id": "5ArkZQN9kb4",
+   "title": "【映画おっパン】 “誠”原田泰造が1年前に逆戻り！？『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像が解禁！",
+   "channel": "oricon",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/5ArkZQN9kb4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0W7Ijgpfa-HeMe-7f4vs6JyyNhg",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=5ArkZQN9kb4",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "847a9f19854c8950"
+  },
+  {
+   "id": "takIM5eYh4w",
+   "title": "中島颯太＆原田泰造、食卓で繰り広げられる波乱のやり取りにハラハラ…! 『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像",
+   "channel": "ザテレビジョン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/takIM5eYh4w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDr3itWciwolEtdcBT45wNJMVJQ1A",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=takIM5eYh4w",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "641ef8d8959be56a"
+  },
+  {
+   "id": "rgGl1ak28fA",
+   "title": "FANTASTICS' Nakajima Sota is spotted on a date with \"that person\" at the stage greeting to commem...",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/rgGl1ak28fA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgPD2b8v8tqlsJ5kcsY9MsgzQ41g",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=rgGl1ak28fA",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "cccf7f039ee9d329"
+  },
+  {
+   "id": "AE4ikpdzmdE",
+   "title": "FANTASTICS' Nakajima Sota encounters a viewer while walking with Yen-senpai, \"What's the situatio...",
+   "channel": "マイナビニュース【エンタメ・ホビー】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/AE4ikpdzmdE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6-BwHaVWOuUtxO4rtHXcTYwSRgQ",
+   "playlists": [
+    "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=AE4ikpdzmdE",
+   "years": [
+    "2024",
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "e5c59ea27759847b"
+  },
+  {
+   "id": "PadjmtzQjG8",
+   "title": "運命感じだことありますか？？#ぼく彼 #bumpドラマ #三角関係 #ショートドラマ",
+   "channel": "ショートドラマ【BUMP】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/PadjmtzQjG8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYSSBlKFYwDw==&rs=AOn4CLAmqKnijEMcVnrpdutY_SO81Y1W3A",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=PadjmtzQjG8",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2d2d3785454e9825"
+  },
+  {
+   "id": "m22O3yV7XqM",
+   "title": "運命の人は彼女と修羅場中でした...『ぼくとぼくが好きな彼と、君と。』1話 #ぼく彼 #bumpドラマ #恋愛 #ショートドラマ",
+   "channel": "BUMPドラマ【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/m22O3yV7XqM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUhMn-Owy26OTmd5FpxzDSp599Yg",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=m22O3yV7XqM",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7becf9b0f584b168"
+  },
+  {
+   "id": "_HJrqdA820s",
+   "title": "運命の人と一つ屋根の下で住むことになり...『ぼくとぼくが好きな彼と、君と。』2話 #ぼく彼 #bumpドラマ #同居生活 #ショートドラマ",
+   "channel": "BUMPドラマ【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/_HJrqdA820s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMCCwCeuWBNc4VrtHTNwHA33ugTA",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=_HJrqdA820s",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "a58373430762155b"
+  },
+  {
+   "id": "wBkmtgIUfK4",
+   "title": "一つ屋根の下、何かが始まる予感... 『ぼくとぼくが好きな彼と、君と。』3話#ぼく彼 #bumpドラマ #同居生活 #ショートドラマ",
+   "channel": "BUMPドラマ【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/wBkmtgIUfK4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVwN_IF-ELCW2MGrmOUkwdiK5OSA",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=wBkmtgIUfK4",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "8daa358ac0f2c14a"
+  },
+  {
+   "id": "4lD8P1_VE8w",
+   "title": "全ての始まりはここからでした... #ぼく彼 #bumpドラマ #三角関係",
+   "channel": "BUMPドラマ【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/4lD8P1_VE8w/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKEMwDw==&rs=AOn4CLA-f6LEMKnvmUFTPjuYSXUqr66BtQ",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=4lD8P1_VE8w",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "4567ea0ee9e94426"
+  },
+  {
+   "id": "Tre7NfVFk6o",
+   "title": "「胃袋を掴む」は恋愛の教科書１ページ目... #ぼく彼 #bumpドラマ #三角関係",
+   "channel": "BUMPドラマ【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Tre7NfVFk6o/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBfKFcwDw==&rs=AOn4CLD1mbVXV3qdX3C6aG2_2KFBztq5Gw",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Tre7NfVFk6o",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1a55a24eaa639327"
+  },
+  {
+   "id": "yTUc2Nb5F20",
+   "title": "スキンシップでアピしたらやり返されました... #ぼく彼 #bumpドラマ #三角関係",
+   "channel": "BUMP切り抜き【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yTUc2Nb5F20/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBTKDswDw==&rs=AOn4CLBKLFcTsqUXE44cwgAunxoWT3-YAQ",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=yTUc2Nb5F20",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "37b077fe185900c1"
+  },
+  {
+   "id": "tp-RX8Qxm24",
+   "title": "恋はいつも突然やってくる... #ぼく彼 #bumpドラマ #三角関係",
+   "channel": "BUMP切り抜き【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/tp-RX8Qxm24/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYTiBlKF0wDw==&rs=AOn4CLDUQXT2dSBW8MDs95cdR_u1li_4VQ",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=tp-RX8Qxm24",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "4a50626de516ef16"
+  },
+  {
+   "id": "YWnAgZOkUcU",
+   "title": "『彼女に浮気されて、しかもキレられました』 #ぼくとぼくが好きな彼と君と 続きは. #DMMTV アプリから！ #DMMショート #ぼく彼 #ショートドラマ #恋愛 #浮気 #仕事中毒 #逆ギレ",
+   "channel": "【DMMショート】切り抜き",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/YWnAgZOkUcU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBWKDowDw==&rs=AOn4CLCSHs2oOPV1gMmLxJUkx9qNV8otvw",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=YWnAgZOkUcU",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "44f2894b8485e0d3"
+  },
+  {
+   "id": "u9bAu_dq5MU",
+   "title": "『入った喫茶店がまさかの修羅場』 #ぼくとぼくが好きな彼と君と 全話視聴は #DMMTV アプリから！ #DMMショート #ぼく彼 #ショートドラマ #恋愛 #喧嘩 #修羅場",
+   "channel": "【DMMショート】切り抜き",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/u9bAu_dq5MU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKD8wDw==&rs=AOn4CLDssY55QlN9CiQ2CYPZQPC1o9zmzw",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=u9bAu_dq5MU",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "6c06bdf2852a4352"
+  },
+  {
+   "id": "mpHpquev-K4",
+   "title": "『好きなオトコの落とし方教えます』#ぼくとぼくが好きな彼と君と 続きは #DMMTV アプリから！#DMMショート #ぼく彼 #ショートドラマ #胃袋 #料理 #シェアハウス",
+   "channel": "【DMMショート】切り抜き",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/mpHpquev-K4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBbKEMwDw==&rs=AOn4CLAPwnHEhrlonJD9juYmNrmb7phCXw",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=mpHpquev-K4",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "76c5af66a232bfaf"
+  },
+  {
+   "id": "u-wGHXXntMg",
+   "title": "『男を連れ込むイケメン同居人 』 #ぼくとぼくが好きな彼と君と 全話視聴は #DMMTV アプリから🎬 #DMMショート #ぼく彼 #ショートドラマ #イケメン #BL",
+   "channel": "【DMMショート】切り抜き",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/u-wGHXXntMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBYKEMwDw==&rs=AOn4CLB7eiCDeemlDtp8kxHcnKmin8-hkg",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=u-wGHXXntMg",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "398c7a1fb82f9e50"
+  },
+  {
+   "id": "ihE7Vx7tjSE",
+   "title": "男3人の部屋で三角関係になりました... #ぼく彼 #bumpドラマ #三角関係",
+   "channel": "BUMPドラマ【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ihE7Vx7tjSE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKDUwDw==&rs=AOn4CLCXintk68S8Cf-QgOULtZWmrgAdcw",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=ihE7Vx7tjSE",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1ad2d975a79d5648"
+  },
+  {
+   "id": "_4RacP-OtSg",
+   "title": "『断られる覚悟で告白した結果は...？ 』 #ぼくとぼくが好きな彼と君と 全話視聴は #DMMTV アプリから🎬 #DMMショート #ぼく彼 #ショートドラマ #BL #告白",
+   "channel": "【DMMショート】切り抜き",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/_4RacP-OtSg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYPyBlKFwwDw==&rs=AOn4CLAAh_fI4Wzu7jZUGTaP0uNYBiYYpg",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=_4RacP-OtSg",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "5d5c567d38e459a8"
+  },
+  {
+   "id": "h4M0gPiFM30",
+   "title": "味方になってあげることで好感度爆あがり... #ぼく彼 #bumpドラマ #三角関係",
+   "channel": "BUMP切り抜き【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/h4M0gPiFM30/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKDowDw==&rs=AOn4CLAY0kTenWeIpvDFUfIN4L_wXWlOuQ",
+   "playlists": [
+    "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=h4M0gPiFM30",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "a5aa47aa7b56c220"
+  },
+  {
+   "id": "D8r_YIZdwKo",
+   "title": "『スカーレット・ピンパーネル』（2017）舞台映像",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/D8r_YIZdwKo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCb7Hit-6kvfTO0hUvlWmoo8dlS3A",
+   "playlists": [
+    "東啓介 2017 スカーレット・ピンパーネル"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=D8r_YIZdwKo",
+   "years": [
+    "2017"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "0879886435fc1b4f"
+  },
+  {
+   "id": "DTE9EzwUWhs",
+   "title": "ミュージカル『スカーレット・ピンパーネル』東啓介コメント動画",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/DTE9EzwUWhs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDl-huOjGmiV5fTDQF4sD7RRV7yvQ",
+   "playlists": [
+    "東啓介 2017 スカーレット・ピンパーネル"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=DTE9EzwUWhs",
+   "years": [
+    "2017"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "05531f541c56fa75"
+  },
+  {
+   "id": "fDn_xCRJ8w4",
+   "title": "石丸幹二・安蘭けい・石井一孝らが「スカーレット・ピンパーネル」の稽古場で劇中歌を披露！",
+   "channel": "エントレ 演劇動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/fDn_xCRJ8w4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAQ1rr9rg-F1JGWk8WEThFCIrCS6g",
+   "playlists": [
+    "東啓介 2017 スカーレット・ピンパーネル"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=fDn_xCRJ8w4",
+   "years": [
+    "2017"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2a3af9206f92d9b5"
+  },
+  {
+   "id": "79Tk5LgzS9M",
+   "title": "Rehearsal footage from the musical \"The Scarlet Pimpernel\"",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/79Tk5LgzS9M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAjZhXwCLY68YXvn5x37j8jhd7mEA",
+   "playlists": [
+    "東啓介 2017 スカーレット・ピンパーネル"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=79Tk5LgzS9M",
+   "years": [
+    "2017"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "a77115675a5d95eb"
+  },
+  {
+   "id": "KxfBvX3iSzU",
+   "title": "ミュージカル「スカーレット・ピンパーネル」公開稽古♪「謎～疑いのダンス」　（ノーカットフル）2017/10/04",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/KxfBvX3iSzU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAdK-3AX56QZHmaQ80B4MlaPHe8UQ",
+   "playlists": [
+    "東啓介 2017 スカーレット・ピンパーネル"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=KxfBvX3iSzU",
+   "years": [
+    "2017"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "8b0bf02e178f1674"
+  },
+  {
+   "id": "w39FfpQ5i2w",
+   "title": "恋、燃ゆる。～秋元松代作『おさんの恋』より～　ダイジェスト舞台映像",
+   "channel": "明治座公式YouTubeチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/w39FfpQ5i2w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6PsVP0WcXQARu9lLdFoAPyIc_vQ",
+   "playlists": [
+    "東啓介 2020 恋燃ゆる"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=w39FfpQ5i2w",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "95da55fb2a42db0f"
+  },
+  {
+   "id": "OKH_bC0wg5Y",
+   "title": "中村橋之助、檀れいに「大好きです」（舞台　恋、燃ゆる。／檀れい　中村橋之助）",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/OKH_bC0wg5Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyavud5FT2Bk0P2AbxpPJYYcT9Hg",
+   "playlists": [
+    "東啓介 2020 恋燃ゆる"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=OKH_bC0wg5Y",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "d7454006aec90e08"
+  },
+  {
+   "id": "ZhEELCTq3tM",
+   "title": "恋、燃ゆる。～秋元松代作『おさんの恋』より～　PR動画ロングバージョン",
+   "channel": "明治座公式YouTubeチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ZhEELCTq3tM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFbcqNj6qfjcSak2CiJnCHVsJmIg",
+   "playlists": [
+    "東啓介 2020 恋燃ゆる"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=ZhEELCTq3tM",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "4f97aa08eb786586"
+  },
+  {
+   "id": "4eOorayHphA",
+   "title": "恋、燃ゆる。～秋元松代作『おさんの恋』より～ 東啓介コメント動画",
+   "channel": "明治座公式YouTubeチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/4eOorayHphA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXbbtEcSxkqxQn_AEHllnttMQtAA",
+   "playlists": [
+    "東啓介 2020 恋燃ゆる"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=4eOorayHphA",
+   "years": [
+    "2020"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "fc6162af31f4dbc3"
+  },
+  {
+   "id": "Hxk7GEd5F_8",
+   "title": "『恋、燃ゆる。』ライブ配信★ポスタープレゼントキャンペーンのお知らせ★",
+   "channel": "明治座公式YouTubeチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Hxk7GEd5F_8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5ryiL_Al8ajtDGAoWOdKoxUmatA",
+   "playlists": [
+    "東啓介 2020 恋燃ゆる"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Hxk7GEd5F_8",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "e4f9196ccc5b238f"
+  },
+  {
+   "id": "mbqWnqx_GS4",
+   "title": "The best body bag found by 190cm tall actor Keisuke Azuma in Shikoku [Keisuke Azuma's Camera Jour...",
+   "channel": "TIMELINE - タイムライン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/mbqWnqx_GS4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNkxJViU5NR-avR8-ZbaLyPIVTEw",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=mbqWnqx_GS4",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "e5ff6b464d94f575"
+  },
+  {
+   "id": "eR4WyQs5Fk8",
+   "title": "[Food terrorism] Actor Keisuke Azuma eats delicious meat soba! A famous restaurant recommended by...",
+   "channel": "TIMELINE - タイムライン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/eR4WyQs5Fk8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLZRLkDK02ySFgUEdJ8_r3ffSLUQ",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=eR4WyQs5Fk8",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "8e0b2621354d8414"
+  },
+  {
+   "id": "V4Linc0JINA",
+   "title": "[Super rare sake] Actor Keisuke Azuma goes on an unannounced trip around Kagawa and encounters ex...",
+   "channel": "TIMELINE - タイムライン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/V4Linc0JINA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDL42zCxGUYXl5IZ22ZKVbsg-aM4w",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=V4Linc0JINA",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "c0694d2986066e0a"
+  },
+  {
+   "id": "h3CvVkGFxJI",
+   "title": "[Azuma Keisuke's Day Off] A day spent visiting photo spots, having a BBQ, and relaxing in the sauna.",
+   "channel": "TIMELINE - タイムライン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/h3CvVkGFxJI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAZba0QVnes3dwl8Byk5AZ0l7pZyw",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=h3CvVkGFxJI",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "8552d6886cd64aa9"
+  },
+  {
+   "id": "DG2SNGa-vVE",
+   "title": "Keisuke Higashi's \"Totonoi\" experience at a hidden sauna – check the description for details #shorts",
+   "channel": "TIMELINE - タイムライン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/DG2SNGa-vVE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyA5KC8wDw==&rs=AOn4CLDh_plX5dSOmMTEXNLl1Cgq409gww",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=DG2SNGa-vVE",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "2d6633379cb736fd"
+  },
+  {
+   "id": "r9cN36MGX2A",
+   "title": "Higashi Keisuke rides on heavy machinery and eats clams. For details, please see the explanation.",
+   "channel": "TIMELINE - タイムライン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/r9cN36MGX2A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBhnLzSVHaopGUH-zHwabCP-gnPMQ",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=r9cN36MGX2A",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "e9077cd6c5e4a8e0"
+  },
+  {
+   "id": "MRrQvA_9fMg",
+   "title": "Will Keisuke Higashi eat some delicious catfish dishes? See the explanation for details.",
+   "channel": "TIMELINE - タイムライン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/MRrQvA_9fMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBSKEAwDw==&rs=AOn4CLAxrTL151JJ2zLXYive_xcXAqXnsQ",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=MRrQvA_9fMg",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "b39c9845921f485a"
+  },
+  {
+   "id": "f3BJWAVjrcI",
+   "title": "俳優、東啓介が鹿嶋グルメを爆食い　詳細は説明へ",
+   "channel": "TIMELINE - タイムライン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/f3BJWAVjrcI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBHKC4wDw==&rs=AOn4CLC0tceGmHMRwjcB-oSS7tUTZVdEbw",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=f3BJWAVjrcI",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "b0ee6bde87cb3cd7"
+  },
+  {
+   "id": "u6W4OrtxgnU",
+   "title": "長身小顔のイケメン芸能人と仕事をするカバン屋社長の1日に密着！",
+   "channel": "カワニシカバンの休日",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/u6W4OrtxgnU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNhmYZGLZXjG3jGgzudF86-asB9w",
+   "playlists": [
+    "東啓介 2022-2023 カメラ旅"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=u6W4OrtxgnU",
+   "years": [
+    "2022",
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "70760b35f360eec9"
+  },
+  {
+   "id": "AHvAQBT5Dbg",
+   "title": "TRUMPシリーズ『繭期夜会』（2018年）ダイジェスト映像！",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/AHvAQBT5Dbg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCc2j2R5ndKWowceXX0ek1kvcflFQ",
+   "playlists": [
+    "東啓介 2017-2018 TRUMPシリーズ",
+    "東啓介 歌"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=AHvAQBT5Dbg",
+   "years": [
+    "2017",
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "15a60edc6543f3aa"
+  },
+  {
+   "id": "AH7rsvUeZN8",
+   "title": "ミュージカル「マリーゴールド」公開ゲネプロ",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/AH7rsvUeZN8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBAEyekpnk0cXLGIZP4TJuX0FH60Q",
+   "playlists": [
+    "東啓介 2017-2018 TRUMPシリーズ",
+    "東啓介 歌"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=AH7rsvUeZN8",
+   "years": [
+    "2017",
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "e639c06d84fe6a4d"
+  },
+  {
+   "id": "TrTEDXyD8cs",
+   "title": "ミュージカル『マリーゴールド』キャストパレード",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/TrTEDXyD8cs/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYLyBBKH8wD7gC8xg=&rs=AOn4CLCSJTkVotYHaa8FxEuVB15pOsAZhA",
+   "playlists": [
+    "東啓介 2017-2018 TRUMPシリーズ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=TrTEDXyD8cs",
+   "years": [
+    "2017",
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "5cd020ccb4b3baf2"
+  },
+  {
+   "id": "uJLU1AgHH2Y",
+   "title": "TRUMP Series Musical \"Marigold\" Press Preview | EnterStage",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/uJLU1AgHH2Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBJwhMFcbsYd2GIyMk1W1wi8KFedQ",
+   "playlists": [
+    "東啓介 2017-2018 TRUMPシリーズ",
+    "東啓介 歌"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=uJLU1AgHH2Y",
+   "years": [
+    "2017",
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "331ed34bcb1ff9d6"
+  },
+  {
+   "id": "nH8f7OIAcN0",
+   "title": "ピースピット2017年本公演『グランギニョル』キャストパレード",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/nH8f7OIAcN0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYWSBMKGUwD7gC8xg=&rs=AOn4CLD71Ch-wsCAXoOv-zQ4fmat6TCZww",
+   "playlists": [
+    "東啓介 2017-2018 TRUMPシリーズ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=nH8f7OIAcN0",
+   "years": [
+    "2017",
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "42b7c71dc24c358c"
+  },
+  {
+   "id": "Xpih6bICvBs",
+   "title": "【TRUMP】TRUMP series Blu-ray Revival ピースピット2017年本公演「グランギニョル」発売記念！冒頭10分を特別に公開！",
+   "channel": "ポニーキャニオンVIDEO",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Xpih6bICvBs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCmzlB1lpmegVmcYEJlPBmCnlYg9g",
+   "playlists": [
+    "東啓介 2017-2018 TRUMPシリーズ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Xpih6bICvBs",
+   "years": [
+    "2017",
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "d5a4d8b71a56a322"
+  },
+  {
+   "id": "l2fdHeJA1eE",
+   "title": "染谷俊之、三浦涼介らが紡ぐ美しき残酷劇『グランギニョル』公開ゲネプロ | エンタステージ",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/l2fdHeJA1eE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCaHZxKaMFvAM8EQOqhFBTKSo9qZQ",
+   "playlists": [
+    "東啓介 2017-2018 TRUMPシリーズ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=l2fdHeJA1eE",
+   "years": [
+    "2017",
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "9d57f611d7d33736"
+  },
+  {
+   "id": "Rv4bh6-iGHI",
+   "title": "「グランギニョル」公開ゲネプロ　作・演出：末満健一　出演：染谷俊之、三浦涼介",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Rv4bh6-iGHI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLD-sWHJlmCbhpErF283EEFyLID3Dw",
+   "playlists": [
+    "東啓介 2017-2018 TRUMPシリーズ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=Rv4bh6-iGHI",
+   "years": [
+    "2017",
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1fb82037901990cc"
+  },
+  {
+   "id": "g7DACP1iScI",
+   "title": "Actor Azuma Keisuke heads to Hachijojima! He'll be feeding milk to a farm for the first time in h...",
+   "channel": "BS-TBS公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/g7DACP1iScI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCyo4ft6oL0cfLT87QzYH8ulh2akg",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=g7DACP1iScI",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "f06b03c668c0b471"
+  },
+  {
+   "id": "LSaXLZTd7GU",
+   "title": "俳優・東啓介が長野・善光寺＆渋温泉へ！イイ湯加減に思わず歌っちゃう？温泉街で卓球や射的も体験「美しい日本に出会う旅」1/31(水)夜9時",
+   "channel": "BS-TBS公式チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/LSaXLZTd7GU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCKKMBeX8RtTecUrb6R4n6yWVTmSQ",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=LSaXLZTd7GU",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "9cf9e9de28d429a1"
+  },
+  {
+   "id": "Fup2SyX_OGI",
+   "title": "【東啓介】20代最後のカレンダーブック発売！📅✨右足負傷「体の維持を意識したい」",
+   "channel": "【公式】TBS芸能&情報まとめ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Fup2SyX_OGI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBUHk05H3gKDtGOUD5ZGeCHt63Sig",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Fup2SyX_OGI",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "9d41c7d470ee8fd0"
+  },
+  {
+   "id": "75MdBW4tZTY",
+   "title": "Keisuke Higashi 2025.04-2026.03 Calendar Book Launch Press Conference",
+   "channel": "東京ニュース通信社チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/75MdBW4tZTY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBZKFkwD7gC9xg=&rs=AOn4CLARiApx14mOVmdnvPFR6aLLpTnmFA",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=75MdBW4tZTY",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "40ccc40c04ec07e4"
+  },
+  {
+   "id": "OC7uW794590",
+   "title": "東啓介【ワタナベエンターテインメントに定点カメラ置いてみた】",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/OC7uW794590/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKEcwD7gC9xg=&rs=AOn4CLD-Jwe7IVwWvRKQDBwOiX72up2J4Q",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=OC7uW794590",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "8465b6c0fd2f8649"
+  },
+  {
+   "id": "aZCETIv2Npc",
+   "title": "ミュージカル等で活躍中の東啓介、連載「D-DAYS＋Plus」Vol.200 撮影メイキング映像",
+   "channel": "DeviewOfficial",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/aZCETIv2Npc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDjnpfCH90dV_vx30ll27FO1XeNBw",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=aZCETIv2Npc",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "744ed5e20d542163"
+  },
+  {
+   "id": "a2e6hRYW5yU",
+   "title": "「東啓介2024.04-2025.03カレンダーブック」発売記者会見",
+   "channel": "東京ニュース通信社チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/a2e6hRYW5yU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBeKFEwD7gC9xg=&rs=AOn4CLBRqe6skwHT66CMdw_8UBobetMXQg",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=a2e6hRYW5yU",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "d9a33232b5e4bbd2"
+  },
+  {
+   "id": "zDHj8O3Hi8Q",
+   "title": "ミュージカルなどで活躍中の東啓介、10月にソロコンサート第2弾を開催!!｜『デビュー』連載「D-DAYS ＋Plus」Vol.200",
+   "channel": "DeviewOfficial",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/zDHj8O3Hi8Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDmIYtlUgpPCQUfDs83mqkRbbjewQ",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=zDHj8O3Hi8Q",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "1c4515d7e8888a1e"
+  },
+  {
+   "id": "z1OOQ-Wrbao",
+   "title": "Keisuke Higashi quips \"It's huge!\" at his own calendar book and jokes, \"Don't hang it in the bath...",
+   "channel": "MANTAN TV",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/z1OOQ-Wrbao/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAPUzLqzMzgyFQY1cGqFGTE_t3V_A",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=z1OOQ-Wrbao",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "b1cd48afb6d6d9f0"
+  },
+  {
+   "id": "6Oh66vnv84g",
+   "title": "「東啓介カレンダーブック2023.04-2024.03」発売記者会見",
+   "channel": "東京ニュース通信社チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/6Oh66vnv84g/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA5KEowD7gC9xg=&rs=AOn4CLCwDrTjDeABy-iHQiI9JsHXbCHvAA",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=6Oh66vnv84g",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "de127002903318db"
+  },
+  {
+   "id": "7JijCuDPnfU",
+   "title": "東啓介、今年は「キャンプに行きたい！」と熱望　「焚き火とバーベキューがあればいい」",
+   "channel": "MANTAN TV",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/7JijCuDPnfU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCR52cOFR2JH2olhos3C2HFBxLxxg",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=7JijCuDPnfU",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "ac7ced69e9b5e8b0"
+  },
+  {
+   "id": "-b6HRNyMBSU",
+   "title": "「#ノンフィクションズ」× 東啓介さん",
+   "channel": "Da-iCE Official YouTube Channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/-b6HRNyMBSU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwD7gC9xg=&rs=AOn4CLAG9x2_Wj0XmFAL-2tf8zj4Y8h_kg",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=-b6HRNyMBSU",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "652bf0fab7c8afcd"
+  },
+  {
+   "id": "4g79pBZNHDk",
+   "title": "東啓介さん、芸能活動10年目を迎え初のバースデーライブ♪７月１４日（金）・１５日（土）に開催決定！！（2023年4月11日撮影）",
+   "channel": "マチソワ Channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/4g79pBZNHDk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLB8s8oE3v22yoRQZ2cFe2KkaiTDlQ",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=4g79pBZNHDk",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "654de3b954e2510a"
+  },
+  {
+   "id": "QJuXEN12tJI",
+   "title": "【PR】東啓介×加藤大悟 ▷Musical shoW「WE ARE MUSIC」で初共演するのお二人のわちゃわちゃトーク必見！",
+   "channel": "マチソワ Channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/QJuXEN12tJI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDkpEjbJwZ9YwBrpDADGaRpWOfdSg",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=QJuXEN12tJI",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "f9a9b7326830c25a"
+  },
+  {
+   "id": "ai6SEmeE9lg",
+   "title": "写真ライフ130秋号【CAMERA LIFE】東 啓介さん",
+   "channel": "フォトコン編集部",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ai6SEmeE9lg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAoM_HF7u4fAfr5wuk_YUT1Soa3Zw",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=ai6SEmeE9lg",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "48944f0b56233e69"
+  },
+  {
+   "id": "JjCFokZKmIg",
+   "title": "\"Delusional Heart-Pounding ♡ Theater RETURNS\" Special Movie #4 \"Stay Innocent Forever\" A passiona...",
+   "channel": "CanCam",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/JjCFokZKmIg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLA6eeS4R6iGhkjjGLN8H3SDYt5w9Q",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=JjCFokZKmIg",
+   "years": [],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "cd0e55120fbaf804"
+  },
+  {
+   "id": "qQZglL0gS6Q",
+   "title": "『ウチカレ』で話題・東啓介、「写真集を最初に見せたのは…」 写真集『何色』発売記念独占インタビュー",
+   "channel": "ザテレビジョン",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/qQZglL0gS6Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLApWda21DgwVjGNOF3Od1fyhywF-A",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=qQZglL0gS6Q",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "42b01b4920370f49"
+  },
+  {
+   "id": "9nsfPqZlbyU",
+   "title": "東啓介、2022年の飛躍誓う「もっと知ってもらえるように」　1月期連続ドラマ「ファイトソング」出演も　“お正月スペシャルメッセージ”",
+   "channel": "MANTAN TV",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/9nsfPqZlbyU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLC183K40eMwgRJCj4OPvY3Jy8OPsw",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=9nsfPqZlbyU",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "182cf229071e4842"
+  },
+  {
+   "id": "8SFh8VbX8Rs",
+   "title": "Keisuke Higashi talks about his role in the drama \"Fight Song,\" his commitment to the look with \"...",
+   "channel": "MANTAN TV",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/8SFh8VbX8Rs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBmj2ygTN8KCBZAZ_KI9-W9g5Qzsw",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=8SFh8VbX8Rs",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "5e15247063a65de2"
+  },
+  {
+   "id": "H4PR-TNvs2A",
+   "title": "【待ちそわコメント】＃３ 東 啓介",
+   "channel": "マチソワ Channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/H4PR-TNvs2A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAwifQ8DB_vL3getIOWasUBOLlvvQ",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=H4PR-TNvs2A",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "cce0e9655b80b8c2"
+  },
+  {
+   "id": "_0XZ9yFswhQ",
+   "title": "『ウチの娘は、彼氏が出来ない!!』イケメン整体師で話題の東啓介、ドラマの見どころを語る",
+   "channel": "DeviewOfficial",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/_0XZ9yFswhQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCgYW2f_wcjLW6roE1hRg-BW2J6sA",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=_0XZ9yFswhQ",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "23e5ac274611481a"
+  },
+  {
+   "id": "K2b9XXw6bpA",
+   "title": "【TVガイドStage Stars vol.1】東啓介　グラビアメイキング",
+   "channel": "東京ニュース通信社チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/K2b9XXw6bpA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBQdVP6x0V9ZKn25nXlA79VkNG6mA",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=K2b9XXw6bpA",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "c6f39ba26851107f"
+  },
+  {
+   "id": "oHksN3f31_o",
+   "title": "Keisuke Higashi \"Touken Ranbu: The Stage\" Special Comment | girlswalker",
+   "channel": "TOKYO GIRLS COLLECTION",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/oHksN3f31_o/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBYKCwwD7gC9xg=&rs=AOn4CLCX4DAyynAua4aCueAhVRR881iJkA",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=oHksN3f31_o",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "afe8e635af525281"
+  },
+  {
+   "id": "OYEvOfoTYmo",
+   "title": "【あさステ！】公式ファンブックのメイキング映像をチラ見せ！",
+   "channel": "文化放送",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/OYEvOfoTYmo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLApMKvEzKJVwI9pXBeXCLJLKlifMw",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=OYEvOfoTYmo",
+   "years": [],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "ef70f6c98eb2f3d4"
+  },
+  {
+   "id": "EhumaPqcLd8",
+   "title": "「2.5次元俳優」東啓介が初写真集",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/EhumaPqcLd8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLA9dMBjmXn0C1t7jftjF58Xc1jRYQ",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=EhumaPqcLd8",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "669362eb8e7c354d"
+  },
+  {
+   "id": "MQAQBY_5bdE",
+   "title": "Watanabe Entertainment to Hold \"2.5D Star Audition\"! Shuto Miyazaki & Keisuke Higashi Discuss the...",
+   "channel": "DeviewOfficial",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/MQAQBY_5bdE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBXKEgwD7gC9xg=&rs=AOn4CLA9hVl-HvUX0P_P7S4ad00ZS3_K5A",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=MQAQBY_5bdE",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "b703a62338d69081"
+  },
+  {
+   "id": "vqQzvMpJneA",
+   "title": "東啓介、有澤樟太郎、甲斐翔真、松下優也ら新キャストが挑む！ブロードウェイミュージカル「キンキーブーツ」開幕",
+   "channel": "ステージナタリー",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/vqQzvMpJneA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLB8QTftPX17pWERCmIVn3615tL_KQ",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=vqQzvMpJneA",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "49533be615ea40c0"
+  },
+  {
+   "id": "jn_8qnQvReQ",
+   "title": "キンキーブーツ2025 #anan撮影ビハインド！ 東啓介さん、有澤樟太郎さん、甲斐翔真さん、松下優也さん",
+   "channel": "anan",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/jn_8qnQvReQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwD7gC9xg=&rs=AOn4CLA4ohvOmM17J4-FB2e-P8-N61u2Iw",
+   "playlists": [
+    "東啓介  番宣・インタビュー・オフショット・PR等",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=jn_8qnQvReQ",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "8a98a9ef24d2a87c"
+  },
+  {
+   "id": "n5xS0TZwhSE",
+   "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』公開ゲネプロ",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/n5xS0TZwhSE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9HxJCR5rjl75VuNk2AQTMpbnzNw",
+   "playlists": [
+    "東啓介 2018 5DAYS"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=n5xS0TZwhSE",
+   "years": [
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "30e23be3647a51d0"
+  },
+  {
+   "id": "_cCeqwBZ4J0",
+   "title": "「5DAYS　辺境のロミオとジュリエット」公開ゲネプロ",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/_cCeqwBZ4J0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBY53IxHFo7Z0C8_95u1K-bmVNCEQ",
+   "playlists": [
+    "東啓介 2018 5DAYS"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=_cCeqwBZ4J0",
+   "years": [
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "e478742c893d8d2e"
+  },
+  {
+   "id": "2_UkRy2fOQw",
+   "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』稽古場ダイジェスト | エンタステージ",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/2_UkRy2fOQw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUxXg37tN90TaQ_mySpY5zUgf0qg",
+   "playlists": [
+    "東啓介 2018 5DAYS"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=2_UkRy2fOQw",
+   "years": [
+    "2018"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2c7e5a2aef7e11e4"
+  },
+  {
+   "id": "bUE0UERDYMM",
+   "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』【東啓介】コメント動画",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/bUE0UERDYMM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSIhWLnTbYtZXjipU1W9NbEIjYMA",
+   "playlists": [
+    "東啓介 2018 5DAYS"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=bUE0UERDYMM",
+   "years": [
+    "2018"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "a4ac52c04be37175"
+  },
+  {
+   "id": "rZ2KYmNEqw4",
+   "title": "【plus a限定】東 啓介さんへ一問一答！舞台『二次会のひとたち』",
+   "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/rZ2KYmNEqw4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAx3YnQy6bliiB-ERFnn2myWB4Fag",
+   "playlists": [
+    "東啓介 2023 二次会のひとたち"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=rZ2KYmNEqw4",
+   "years": [
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "4e1ec0a64d2e275b"
+  },
+  {
+   "id": "kdBhr7ock2k",
+   "title": "舞台『二次会のひとたち』ダイジェスト映像",
+   "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/kdBhr7ock2k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCj-OvMm6fPPuFtoZjUYZTULNe0Mw",
+   "playlists": [
+    "東啓介 2023 二次会のひとたち"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=kdBhr7ock2k",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "df495490a489ff87"
+  },
+  {
+   "id": "Yolag2Vh-7k",
+   "title": "舞台『二次会のひとたち』稽古場映像",
+   "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Yolag2Vh-7k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3rCMV_3MyxgjhGwyg6YURza6zQg",
+   "playlists": [
+    "東啓介 2023 二次会のひとたち"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Yolag2Vh-7k",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "494921d32d54d47a"
+  },
+  {
+   "id": "_LyUckxlhAo",
+   "title": "二次会のひとたち コメント映像／東 啓介",
+   "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/_LyUckxlhAo/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBTKEIwDw==&rs=AOn4CLCZ-SdTCSeBTROZxwKJyLj83VjMDQ",
+   "playlists": [
+    "東啓介 2023 二次会のひとたち"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=_LyUckxlhAo",
+   "years": [
+    "2023"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "1d9767a655b829df"
+  },
+  {
+   "id": "ID3qJ-zoXh4",
+   "title": "【plus a限定】舞台『二次会のひとたち』建て込み映像",
+   "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ID3qJ-zoXh4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5-ciGYwOv7PX8cxnregQiwNBwmA",
+   "playlists": [
+    "東啓介 2023 二次会のひとたち"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=ID3qJ-zoXh4",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "f8da32335fe100ea"
+  },
+  {
+   "id": "2YS9y8jsdmQ",
+   "title": "『NOT MY FATHER’S SON』from Kinky Boots -SPECIAL MUSIC VIDEO-",
+   "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/2YS9y8jsdmQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHyRzXhj4-3WMzCNI699uMCAChyQ",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=2YS9y8jsdmQ",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "0758c94b17eafd0f"
+  },
+  {
+   "id": "boRc5-hnsMg",
+   "title": "東啓介1st Musical Concert「A NEW ME」",
+   "channel": "watanabe",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/boRc5-hnsMg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAU1qZUAY9V1X5lV6YxNUqQfLnlsQ",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=boRc5-hnsMg",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "149e4570c7087b6e"
+  },
+  {
+   "id": "eBFFewdNJWM",
+   "title": "New Musical『Color of Life』東啓介レコーディング映像",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/eBFFewdNJWM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvcgnLN5qw1qb5EYb_qhMzHhUk3A",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=eBFFewdNJWM",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "e65b2a31bbd311c7"
+  },
+  {
+   "id": "GF7l8BRFRh4",
+   "title": "東啓介『こえ』",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/GF7l8BRFRh4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_gf3oNTHWXowJ_v223CEdd53tkQ",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=GF7l8BRFRh4",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "47de655589794c30"
+  },
+  {
+   "id": "yi86HdzfGjk",
+   "title": "【東啓介】香水",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yi86HdzfGjk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDz2v0JZFwj9bVOffPM031EiGhbfg",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=yi86HdzfGjk",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "09b3a4ae7b5a1c8c"
+  },
+  {
+   "id": "dAKVfOzqyKY",
+   "title": "『キンキーブーツ』ゲネプロ 東啓介＆甲斐翔真＆田村芽実 2025/4/26",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/dAKVfOzqyKY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxPdANQjzxzFsM4OCpGNlRZzsGkw",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=dAKVfOzqyKY",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "ce751407e383a957"
+  },
+  {
+   "id": "7Pppy7NLDl4",
+   "title": "BWミュージカル『キンキーブーツ』公開ゲネプロ（Ｗキャスト：甲斐翔真、東啓介、田村芽実 ver.）",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/7Pppy7NLDl4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4PKVor9rMsbitNRO4JNhXsbWV9w",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=7Pppy7NLDl4",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "ea3dfcab6a905836"
+  },
+  {
+   "id": "Azla2mQbVsM",
+   "title": "甲斐翔真演じるローラが「キンキーブーツ」の世界にいざなう",
+   "channel": "ステージナタリー",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Azla2mQbVsM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBowDw==&rs=AOn4CLDK77grzpM-Ks7TwqbT6g-qUDKMmQ",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Azla2mQbVsM",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "cc14536938c0853e"
+  },
+  {
+   "id": "sjxrg7zV0Z8",
+   "title": "東啓介、甲斐翔真ら新キャストが“本当の自分を探し求めるあなた”に寄り添う「キンキーブーツ」幕開け",
+   "channel": "ステージナタリー",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/sjxrg7zV0Z8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYWSAvKH8wDw==&rs=AOn4CLAmhnfm1hnStcbZDfq2gas9b5JrMw",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=sjxrg7zV0Z8",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "578b5f76edbdc8ea"
+  },
+  {
+   "id": "g3Q5cflEb1w",
+   "title": "BWミュージカル『キンキーブーツ』より「Everybody Say Yeah／～みんなでYEAH！～」（Ｗキャスト：甲斐翔真、東啓介、田村芽実） #キンキーブーツ #shorts",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/g3Q5cflEb1w/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBMwDw==&rs=AOn4CLBexfe2bCdP_bMAQZW16x32g99mjA",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=g3Q5cflEb1w",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "ab7e17db5f748af2"
+  },
+  {
+   "id": "F1t-a8s_KFk",
+   "title": "『キンキーブーツ』ゲネプロ「Raise You Up/~上げたげる~、Just Be/ただなりなさい」#shorts",
+   "channel": "【公式】TBS芸能&情報まとめ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/F1t-a8s_KFk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYESBlKHIwDw==&rs=AOn4CLCE71x52_jCtfYrHcegBDUdkR6vdA",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=F1t-a8s_KFk",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "e8fd589ebdfc1962"
+  },
+  {
+   "id": "h56RzZv3WBg",
+   "title": "ミュージカル『VIOLET』舞台映像ダイジェスト（ロングVer.）",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/h56RzZv3WBg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjDUfDXz4tiXBLVWnR0PvkFNNmiQ",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=h56RzZv3WBg",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "93bd9220f17c5011"
+  },
+  {
+   "id": "w9GeneGePig",
+   "title": "Musical “VIOLET” (2024) [Toko Miura ver.] public performance!",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/w9GeneGePig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ9q8gJfxiY06OFhr9JNSZ6kqV_Q",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=w9GeneGePig",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "296b6107ed510b9a"
+  },
+  {
+   "id": "pUa4IpJkhhY",
+   "title": "Musical “VIOLET” (2024) [Tomona Yabiku ver.] public performance!",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/pUa4IpJkhhY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3IuAKU_-40e7x9_IgHdREMk46yg",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=pUa4IpJkhhY",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1e17f7be80324d2c"
+  },
+  {
+   "id": "Lw3wJWc6dF4",
+   "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Lw3wJWc6dF4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBTKEAwDw==&rs=AOn4CLCChueESsV5BZxXeNxRf2Xw5kxNgw",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Lw3wJWc6dF4",
+   "years": [
+    "2024"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "c666d657a6367805"
+  },
+  {
+   "id": "2I5VWOQ8Nfk",
+   "title": "TOHO MUSICAL LAB.『DESK』プロモーションビデオ",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/2I5VWOQ8Nfk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSdNtitAalX-k19PO4xRq7bUfhYQ",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=2I5VWOQ8Nfk",
+   "years": [],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "0e5bd00b9187b5a6"
+  },
+  {
+   "id": "Sf9TNXynoPw",
+   "title": "【WE25th】 ジャパニーズ・スタンダード・メドレー #4",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Sf9TNXynoPw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYHSAkKH8wDw==&rs=AOn4CLCaHGyVv0jl5d6I2rNzhVx6UugGig",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Sf9TNXynoPw",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7413a7ca2c45f908"
+  },
+  {
+   "id": "O_ak89qKSyM",
+   "title": "♪桜坂♪ 東啓介  | 【WE25th】",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/O_ak89qKSyM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLDTzwXDA1-V8yVpPfleBz2Zdx3cHA",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=O_ak89qKSyM",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "d7afdad319564112"
+  },
+  {
+   "id": "5nguS_2JsXI",
+   "title": "平間壮一、Micro（Def Tech）、東啓介、田村芽実ら出演！ミュージカル『IN THE HEIGHTS イン・ザ・ハイツ』ダイジェスト│エンタステージ",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/5nguS_2JsXI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAr3MDDV-5QM-YAOlku3fnhDclSkQ",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=5nguS_2JsXI",
+   "years": [
+    "2021"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "4d6f102ebb6b70f4"
+  },
+  {
+   "id": "fqUcGg5xT4c",
+   "title": "Musical \"Mata Hari\" 2021 performance_stage footage June-July performances in Tokyo, Aichi, and Os...",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/fqUcGg5xT4c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANJKQOtIhyIfl-0vvmGS5hrYiJHw",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=fqUcGg5xT4c",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "217ec5973e8e6242"
+  },
+  {
+   "id": "BLR72K5lvms",
+   "title": "Tanz der Vampire JAPAN 2019 Official Trailer",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/BLR72K5lvms/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2DEKwPJqXPQb9zumUpo7rhfXWFg",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=BLR72K5lvms",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "13a52a751a1d6d55"
+  },
+  {
+   "id": "8cO4fKsS01o",
+   "title": "ミュージカル『ダンス オブ ヴァンパイア』公開ゲネプロ（映像：東宝提供）| エンタステージ",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/8cO4fKsS01o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZm5QdgBWvICnLTa-eNYADCW5OCw",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=8cO4fKsS01o",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "5874e54347b39398"
+  },
+  {
+   "id": "I4PP0wUqiJQ",
+   "title": "『WDTW』ダイジェスト舞台映像",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/I4PP0wUqiJQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTXc9tIhcpHzUcBeeN5Ugyj3Vv8w",
+   "playlists": [
+    "東啓介 歌",
+    "東啓介 2020 ホイッスル・ダウン・ザ・ウィンド"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=I4PP0wUqiJQ",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "354ff707a0949523"
+  },
+  {
+   "id": "DJT4IpjD1Kk",
+   "title": "マルシアの生声ライブ／「罪な遊び」マルシア×東啓介",
+   "channel": "マルシアYouTube",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/DJT4IpjD1Kk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCJsiwt95G_8CDAlJkPXksT5bZQTQ",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=DJT4IpjD1Kk",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "fedaaa6956caf42f"
+  },
+  {
+   "id": "usrWktwD9oI",
+   "title": "かずこらぼ 1 〜東啓介〜",
+   "channel": "KAZUKI KATO official channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/usrWktwD9oI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAK4CIoCDAgAEAEYZSBSKE8wDw==&rs=AOn4CLC80ZMN7XX3D0vY8GVqoasoPVcjzg",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=usrWktwD9oI",
+   "years": [],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "eff11bbdf31a4941"
+  },
+  {
+   "id": "lLonV9TewBQ",
+   "title": "マルシア Debut 30th Anniversary Kick Off Live～私はどうしてここに？～ ＃2 番組予告",
+   "channel": "歌謡ポップスチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/lLonV9TewBQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYy6CvteCr2vcYGKB41FOHz_nflQ",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=lLonV9TewBQ",
+   "years": [],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "be8c882568e46c83"
+  },
+  {
+   "id": "jkMwyyx94uM",
+   "title": "A sneak peek at the public dress rehearsal of \"Club SLAZY-Another world-\" starring Oyama Masashi,...",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/jkMwyyx94uM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBFhyHWORKV20dqjkuPGm6tc1gMnQ",
+   "playlists": [
+    "東啓介 歌"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=jkMwyyx94uM",
+   "years": [],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "79ba292986577638"
+  },
+  {
+   "id": "85s5o1uEViI",
+   "title": "ミュージカル『VIOLET』舞台映像ダイジェスト",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/85s5o1uEViI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0s2bVlJMs3JrzakLA1x764uM67w",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=85s5o1uEViI",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "64a236eed6493603"
+  },
+  {
+   "id": "WQ3A8Sg6VsA",
+   "title": "ミュージカル『VIOLET』 制作発表記者会見より",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/WQ3A8Sg6VsA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyBEKCUwDw==&rs=AOn4CLA3UlDIu_J6kuYVTFz88qnmC1DgIg",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=WQ3A8Sg6VsA",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "8f8d4a0d75afe0e0"
+  },
+  {
+   "id": "13i8Pn8u9nA",
+   "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら出演！ミュージカル『VIOLET』明日開幕 #violet #ミュージカル",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/13i8Pn8u9nA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBdKEYwDw==&rs=AOn4CLCcA8kxNbrWWhHnpblc2UoIA0g30A",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=13i8Pn8u9nA",
+   "years": [
+    "2024"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "eb3a0d960a12bbef"
+  },
+  {
+   "id": "ZHlwiMQSyzY",
+   "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ZHlwiMQSyzY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvE3KSMc_8xg40qF58ZA3n5HnNTw",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=ZHlwiMQSyzY",
+   "years": [
+    "2024"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "493a58e6d444c36b"
+  },
+  {
+   "id": "2kibUUITmvU",
+   "title": "ミュージカル『VIOLET』歌唱披露 ”♪マイウェイ”2024/3/8",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/2kibUUITmvU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDH-eQ1-hjV9nRNZVbbapoHATYoFg",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=2kibUUITmvU",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "29834cad4135a7bc"
+  },
+  {
+   "id": "dqU2e4FTdS8",
+   "title": "三浦透子＆屋比久知奈、ミュージカル「ＶＩＯＬＥＴ」劇中曲を披露（VIOLET／藤田俊太郎 三浦透子 屋比久知奈 東啓介 立石俊樹 sara 若林星弥 森山大輔 谷口ゆうな 樹里咲穂 原田優一 spi）",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/dqU2e4FTdS8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2vNem6zWV0X2GX9hdLYpxaav4tA",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=dqU2e4FTdS8",
+   "years": [
+    "2024"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "d8f9808a24b3935f"
+  },
+  {
+   "id": "Dfj3wDzTh84",
+   "title": "ミュージカル『VIOLET』制作発表記者会見 三浦透子 屋比久知奈 東啓介 立石俊樹 sara 若林星弥 森山大輔 谷口ゆうな 樹里咲穂 原田優一 spi  生田志守葉 嘉村咲良 水谷優月",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Dfj3wDzTh84/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSpfYq1mGVQqEIeKUlwyOFlQYhhg",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=Dfj3wDzTh84",
+   "years": [
+    "2024"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "814e427ed8a93380"
+  },
+  {
+   "id": "l2iD6-jBkvY",
+   "title": "三浦透子、屋比久知奈の新しいヴァイオレットに期待！ミュージカル『VIOLET』制作発表 完全版｜#エンタステージ",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/l2iD6-jBkvY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIjyVkjyi27Gxxo9H43JpNUM15-Q",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=l2iD6-jBkvY",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "4eae7adbea247b6c"
+  },
+  {
+   "id": "WodsnL6O_hY",
+   "title": "ミュージカル『VIOLET』制作発表より",
+   "channel": "アイデアニュース チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/WodsnL6O_hY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGL1YUWi83_sgZRzcS295sKQLDPg",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=WodsnL6O_hY",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "3d5e003745fce9ac"
+  },
+  {
+   "id": "favz9_CZYYY",
+   "title": "Musical \"VIOLET\" Keisuke Higashi Comment",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/favz9_CZYYY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA8KD4wDw==&rs=AOn4CLDLfWXxNy5qf8jZNLQljQARyXzhVA",
+   "playlists": [
+    "東啓介 2024 VIOLET"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=favz9_CZYYY",
+   "years": [
+    "2024"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "7f372aa176c12e58"
+  },
+  {
+   "id": "MBGoy56Zzuk",
+   "title": "ミュージカル『マタ・ハリ』稽古場ダイジェスト動画",
+   "channel": "ローチケチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/MBGoy56Zzuk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYaSBpKGkwDw==&rs=AOn4CLBZbkpX_hMODdJVGUOSP95IXiUXiw",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=MBGoy56Zzuk",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "e7bfdd5095161870"
+  },
+  {
+   "id": "bqZBXtNTkFg",
+   "title": "柚希礼音・愛希れいかW主演でマタ・ハリを熱演！ミュージカル「マタ・ハリ」ゲネプロ",
+   "channel": "AMUSE Official Channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/bqZBXtNTkFg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXGxF77KzlgDiJgLpOdBVzeNqPLA",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=bqZBXtNTkFg",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "dc5aa9e196ffc8d3"
+  },
+  {
+   "id": "C1EF-8m-Uv8",
+   "title": "ミュージカル「マタ・ハリ」舞台映像＜ラドゥー加藤和樹、アルマン東啓介＞",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/C1EF-8m-Uv8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCksO7THFQmUbVA-hF2vLB50pJUjw",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=C1EF-8m-Uv8",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "3eb397d40aff892c"
+  },
+  {
+   "id": "0pJZ3x7jw8Q",
+   "title": "ミュージカル「マタ・ハリ」公演DVD　PR映像★7/31まで特典付き先行予約受付中★",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/0pJZ3x7jw8Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCEXWMnrHcWHI7huoj8gILk97mwRQ",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=0pJZ3x7jw8Q",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "946f491f0bfa4227"
+  },
+  {
+   "id": "yV4PTvO8lTA",
+   "title": "【2/3(土)～18(日)】ミュージカル『マタ・ハリ』チケット好評発売中!",
+   "channel": "ローチケチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yV4PTvO8lTA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkoR9s8juyOTk_pRyHlP0h8dCsog",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=yV4PTvO8lTA",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2426b0fdf36d4458"
+  },
+  {
+   "id": "q_IReA4lDkY",
+   "title": "ミュージカル『マタ・ハリ』アルマン役（Wキャスト）東啓介コメント映像",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/q_IReA4lDkY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA2PTjsq3HzTasA-s7hUY0esoaQWg",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=q_IReA4lDkY",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "dd5e01921ffec965"
+  },
+  {
+   "id": "yY52NXSwpU0",
+   "title": "ミュージカル『マタ・ハリ』稽古映像【いよいよ開幕！】",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yY52NXSwpU0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPlngvHBa5d1fwHNSPyFbgaf3Kpg",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=yY52NXSwpU0",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "a0801a1a3c28aa29"
+  },
+  {
+   "id": "mjhSOLUhhyI",
+   "title": "ミュージカル『マタ・ハリ』アルマン役 東啓介コメント動画",
+   "channel": "ローチケチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/mjhSOLUhhyI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDFy723JTtd6EGt8hsvX0IQuxt0oA",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=mjhSOLUhhyI",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "d723bd202d86f7fd"
+  },
+  {
+   "id": "d4UKEZfbJD0",
+   "title": "ミュージカル『マタ・ハリ』稽古場映像",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/d4UKEZfbJD0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7p7s_lUYIo1Eblwv3WFZ3VecCrA",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=d4UKEZfbJD0",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "cd63adb0c70d466a"
+  },
+  {
+   "id": "rR34goiMhjo",
+   "title": "ミュージカル「マタ・ハリ」東啓介コメント",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/rR34goiMhjo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXmGjAzV3ogksC7s21Ab1B4R4yxQ",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=rR34goiMhjo",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "51bd56786e1bf5ef"
+  },
+  {
+   "id": "lcDb84xA_wA",
+   "title": "ミュージカル「マタ・ハリ」スポット",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/lcDb84xA_wA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHv-zQY4ZNtHg85Jx6lzN3pKaqXw",
+   "playlists": [
+    "東啓介 2018・2021 マタ・ハリ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=lcDb84xA_wA",
+   "years": [
+    "2018",
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "9cede3b58f67c9ab"
+  },
+  {
+   "id": "sqVyw5kHGEc",
+   "title": "『JERSEY BOYS IN CONCERT @IMPERIAL THEATRE』JAPAN 2020 　DIGEST＜For JLODlive＞",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/sqVyw5kHGEc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5Ry8RaYnuHD2wIrCjVIdoHYiSug",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=sqVyw5kHGEc",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "31566dccb86fd43b"
+  },
+  {
+   "id": "OrwkEc0-OGY",
+   "title": "『JERSEY BOYS IN CONCERT @IMPERIAL THEATRE』JAPAN 2020 　DIGEST　★★★★★",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/OrwkEc0-OGY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2nUgicGk1yuhVxf15gpz86thTgg",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=OrwkEc0-OGY",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "3c5842585478a748"
+  },
+  {
+   "id": "OwFaf1tPoK8",
+   "title": "帝国劇場７・８月公演　ミュージカル『ジャージー・ボーイズ　イン コンサート』7/23(木・祝）初日カーテンコール映像",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/OwFaf1tPoK8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpYYfDupyDO0fxkSHsPBnyqdZg5Q",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=OwFaf1tPoK8",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "88d56cedbf27c4bf"
+  },
+  {
+   "id": "XecXdK4kckA",
+   "title": "『JERSEY BOYS IN CONCERT @IMPERIAL THEATRE』JAPAN 2020 Trailer　★★★★★",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/XecXdK4kckA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPXJFARJBO5llIDoc7UUKN1jM_nw",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=XecXdK4kckA",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "6f5bb57aee2b5b35"
+  },
+  {
+   "id": "r9scF0DUSjg",
+   "title": "帝国劇場7・8月公演　ミュージカル『ジャージー・ボーイズ　イン コンサート』8/5(水）千穐楽カーテンコール映像",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/r9scF0DUSjg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtg6Es0b2PQqOjmOmRedo-EPeLhw",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=r9scF0DUSjg",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "15d43bceb57b4c1e"
+  },
+  {
+   "id": "VK4nL2Lbyws",
+   "title": "『JERSEY BOYS』2020 コメント映像／中川晃教",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/VK4nL2Lbyws/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4LpeQ4ZnZdfgia-VwZ9b-wKMNFw",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=VK4nL2Lbyws",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "bdf4f6c4bfae2613"
+  },
+  {
+   "id": "Bn2B2LCRTf0",
+   "title": "『JERSEY BOYS』2020 コメント映像／藤岡正明",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Bn2B2LCRTf0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWWV81Jp2CkbHM750h5_Uvkv-0VA",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=Bn2B2LCRTf0",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "f09938156ad04047"
+  },
+  {
+   "id": "xgpO3PQKDm8",
+   "title": "『JERSEY BOYS』2020 コメント映像／東 啓介",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/xgpO3PQKDm8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCdylodhVqS4jm-jsd2pkfDdAuBcQ",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=xgpO3PQKDm8",
+   "years": [
+    "2020"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "d865b2153f681813"
+  },
+  {
+   "id": "PjkNFfH23t4",
+   "title": "『JERSEY BOYS』2020 コメント映像／大山真志",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/PjkNFfH23t4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBXY2Fi7BaBuU_nYEHJ4vvoUXMW6Q",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=PjkNFfH23t4",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "c0ac5560c4c5950d"
+  },
+  {
+   "id": "OhC8U4M8ynA",
+   "title": "『JERSEY BOYS』JAPAN 2020 Trailer　★★★★★",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/OhC8U4M8ynA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYo5Jpy_6_OUnaQzxfydYdfxANQA",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=OhC8U4M8ynA",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "af9ca0266c35d06d"
+  },
+  {
+   "id": "YMrNaUqcBTM",
+   "title": "SCRAPE THE STORY JERSEY BOYS #1",
+   "channel": "Stage O-beron",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/YMrNaUqcBTM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDwEF3wwklSy7p-94wCChx7hYRhWw",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=YMrNaUqcBTM",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "19f6bfd63518c157"
+  },
+  {
+   "id": "_ogn-9b671g",
+   "title": "SCRAPE THE STORY　JERSEY BOYS #2",
+   "channel": "Stage O-beron",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/_ogn-9b671g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCarBQROdqMmHFWAVqpAFkqj98W1w",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=_ogn-9b671g",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "3141dae08b62bb38"
+  },
+  {
+   "id": "htZ3x3DbpJ0",
+   "title": "SCRAPE THE STORY　JERSEY BOYS #3",
+   "channel": "Stage O-beron",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/htZ3x3DbpJ0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDS08JY1An69OiGnyEJDPrCgGyoA",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=htZ3x3DbpJ0",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "18a325f742755a23"
+  },
+  {
+   "id": "RpTCJrvDKBk",
+   "title": "SCRAPE THE STORY　JERSEY BOYS #4",
+   "channel": "Stage O-beron",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/RpTCJrvDKBk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAa5YlIEPXGMcVEO_iO6cFvdeyY5w",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=RpTCJrvDKBk",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "b9117e5f46c45e6e"
+  },
+  {
+   "id": "4fmsdpSB9Mk",
+   "title": "Shuntaro Fujita talks about \"Jersey Boys\" and \"VIOLET\" (Part 1)",
+   "channel": "演劇系YouTube《クロネコチャンネル》",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/4fmsdpSB9Mk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCripB_lIhPLTckJ3mVvHjmKoMekA",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=4fmsdpSB9Mk",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "300dc8d47ad24ccd"
+  },
+  {
+   "id": "V3aI8e-YCmE",
+   "title": "大山真志さんと「ジャージー・ボーイズ」を語ります",
+   "channel": "演劇系YouTube《クロネコチャンネル》",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/V3aI8e-YCmE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBa7qo7nK67YN7ApU_D60YxSYG55w",
+   "playlists": [
+    "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=V3aI8e-YCmE",
+   "years": [
+    "2020"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "0b04e5f6936a7926"
+  },
+  {
+   "id": "8tLMXMPLLug",
+   "title": "『WDTW』コメント映像／東 啓介",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/8tLMXMPLLug/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCiz26lpebCZFl7_Htka_Zm4EBXlg",
+   "playlists": [
+    "東啓介 2020 ホイッスル・ダウン・ザ・ウィンド"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=8tLMXMPLLug",
+   "years": [
+    "2020"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "1d7e22acd477e1ca"
+  },
+  {
+   "id": "ZXO1rYmbMrM",
+   "title": "\"Dance of the Vampires\" Curtain Call on Wednesday, November 6, 2019",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ZXO1rYmbMrM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_0Vt8hHaqA6rXC7lI9u9eIuUnKg",
+   "playlists": [
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=ZXO1rYmbMrM",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "eba6e51237b5bacc"
+  },
+  {
+   "id": "TtEXbCdmE3g",
+   "title": "ミュージカル『ダンス オブ ヴァンパイア』2019年11月27日（水）帝国劇城公演千穐楽カーテンコール",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/TtEXbCdmE3g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCeBKu5ESdf2J1DvPmcgI2K4LeFUQ",
+   "playlists": [
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=TtEXbCdmE3g",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "eea2b42d220ff5df"
+  },
+  {
+   "id": "-hu_xeW4WAA",
+   "title": "ミュージカル『ダンス オブ ヴァンパイア』 コメント映像／東 啓介",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/-hu_xeW4WAA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4yYU-fqhh8AhfYSAGsHfKl6Z1ZQ",
+   "playlists": [
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=-hu_xeW4WAA",
+   "years": [
+    "2019"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "15503a330266ad52"
+  },
+  {
+   "id": "HVhVRL0I5uM",
+   "title": "【2019 TDV NEWS】アルちゃん紹介♫",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/HVhVRL0I5uM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDEF03ZFUfhfoYB0FYsrYZJSnlFIg",
+   "playlists": [
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=HVhVRL0I5uM",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "fa00b38a2b16ae8d"
+  },
+  {
+   "id": "Y3oGKZk9_Ew",
+   "title": "【2019 TDV NEWS】みんなで踊ろう！振付講座",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Y3oGKZk9_Ew/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBt0_1qER9Ogft6432DE9Ar0RYh3A",
+   "playlists": [
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Y3oGKZk9_Ew",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "18978f909f1b4f1e"
+  },
+  {
+   "id": "sQzy8Om6hsI",
+   "title": "【2019 TDV NEWS】人間紹介①",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/sQzy8Om6hsI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8LOShFZX15MesbGZraFhAmLXNRw",
+   "playlists": [
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=sQzy8Om6hsI",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7737f86563ece54a"
+  },
+  {
+   "id": "RxXPVtx6y2M",
+   "title": "【2019 TDV NEWS】さあ、開幕です！",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/RxXPVtx6y2M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-PE5GNXAPuJPP5Sw_jqdyPA9BVg",
+   "playlists": [
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=RxXPVtx6y2M",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "39dd1da52b841a00"
+  },
+  {
+   "id": "VR195NfgMT8",
+   "title": "【2019 TDV NEWS】サラ紹介",
+   "channel": "TohoChannel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/VR195NfgMT8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIUDYxLBfn9BXQYGEPWWLpSUeK5w",
+   "playlists": [
+    "東啓介 2019 ダンス・オブ・ヴァンパイア"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=VR195NfgMT8",
+   "years": [
+    "2019"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "3cff954e66f968fa"
+  },
+  {
+   "id": "zjS1Rr880jk",
+   "title": "【WE25th】テーマソング「幸せナベの作り方」",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/zjS1Rr880jk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYXCBUKGUwDw==&rs=AOn4CLASkmdVLaV8v_sFEPcUoXY5qxiXMQ",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=zjS1Rr880jk",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "82cb624c278f5e07"
+  },
+  {
+   "id": "KP7ZZAbnfB4",
+   "title": "【WE25th】ジャパニーズ・スタンダード・メドレー #1",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/KP7ZZAbnfB4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWSBHKGUwDw==&rs=AOn4CLDPMAdqOgI1P5NIf7CAgBlnH7f_OQ",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=KP7ZZAbnfB4",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "8ae191f308d6e779"
+  },
+  {
+   "id": "IAnrMU1vZ70",
+   "title": "【WE25th】ワタナベエンターテインメント誕生の年のヒット曲 バースデーイヤーソングメドレー",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/IAnrMU1vZ70/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYSBXKGUwDw==&rs=AOn4CLA-MeqAAVQKKVt5s8uIVNoLKNG57Q",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=IAnrMU1vZ70",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "885cbd3390a9d0de"
+  },
+  {
+   "id": "kBqu1i5IZ6g",
+   "title": "【WE25th】 アニメソングメドレー",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/kBqu1i5IZ6g/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYJCAmKH8wDw==&rs=AOn4CLDfMMjG-UwHHMAyV0MsH04LnVSLyg",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=kBqu1i5IZ6g",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "2c7f933b208e27d7"
+  },
+  {
+   "id": "Rwytj8Y3kSU",
+   "title": "【WE25th】ジャパニーズ・スタンダード・メドレー #5",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/Rwytj8Y3kSU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBIKEYwDw==&rs=AOn4CLByC3Pr1R-ntudSJqYMtM67AZH-lQ",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=Rwytj8Y3kSU",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7bee8b3825c3bb05"
+  },
+  {
+   "id": "BK-ynxRzEBI",
+   "title": "【WE25th】 クレイジーキャッツメドレー",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/BK-ynxRzEBI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYOSBKKHIwDw==&rs=AOn4CLCE_3SmE5tc8njkwj0dCIfWZ8w2VA",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=BK-ynxRzEBI",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "8e05b7beb97527a4"
+  },
+  {
+   "id": "eGVdsx8FbyI",
+   "title": "【WE25th】コンサート最終日の様子をお届け！ | 出演者挨拶・「幸せナベの作り方」アンコール歌唱",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/eGVdsx8FbyI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZGX8UwEFJHh_NrH_tsd7DolTlqg",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=eGVdsx8FbyI",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "3031e98c727f6bc4"
+  },
+  {
+   "id": "rBB-3WZu0sk",
+   "title": "【WE25th】ワタナベ25thコンサート 裏側の様子を公開！ 撮影 INSPi 北",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/rBB-3WZu0sk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7bsNGvHuME3wErlPUtHkFMr4VBQ",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=rBB-3WZu0sk",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "cadf3ed39a07f31b"
+  },
+  {
+   "id": "yonEpRL7md0",
+   "title": "出演者全員で歌唱！「幸せナベの作り方」",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yonEpRL7md0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLALXV9H5Agc8uSfSHTkQXuYZnQlWA",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=yonEpRL7md0",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "36bc7341450fd9bc"
+  },
+  {
+   "id": "XA5QxtKjl0s",
+   "title": "♪銀色の道♪ 出演者全員で歌唱  | 【WE25th】",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/XA5QxtKjl0s/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLA_gLhnS1ZTp9fDty-1vQZGPNiS-A",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=XA5QxtKjl0s",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "99d62834ad78fd16"
+  },
+  {
+   "id": "J65ZPqa1GzE",
+   "title": "【WE25th 記念】コンサート出演者が自己紹介します‼️",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/J65ZPqa1GzE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdwEgAK2CIoCDAgAEAEYSyBiKGUwDw==&rs=AOn4CLCgyrlgJC3f62y7ZzpmlVLGHtrODA",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=J65ZPqa1GzE",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "5938811f2a0fc6d9"
+  },
+  {
+   "id": "wY43ruqzhi0",
+   "title": "♪ハイそれまでョ♪ 出演者全員で歌唱  | 【WE25th】",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/wY43ruqzhi0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLDUI8678bDrj_dpPZiDLK1B8mTwWw",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=wY43ruqzhi0",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "3492166cf2b4fc04"
+  },
+  {
+   "id": "g5KEMvvVFrs",
+   "title": "「幸せナベの作り方」リハーサルver.",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/g5KEMvvVFrs/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AegEgALKCIoCDAgAEAEYOCBhKGUwDw==&rs=AOn4CLBuUvxlY0mpnL94rSJQJCD1WgZWuA",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=g5KEMvvVFrs",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "cc7d85932022418f"
+  },
+  {
+   "id": "YHYHYSww42M",
+   "title": "【WE25th記念】コンサート出演者の次の誕生日に欲しいものは？",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/YHYHYSww42M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdwEgAK2CIoCDAgAEAEYTCBiKGUwDw==&rs=AOn4CLAFBVySVDa_KRdbef54eta1rCyGNg",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=YHYHYSww42M",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7a4c617483f667e1"
+  },
+  {
+   "id": "GeVk3Df0gUE",
+   "title": "【WE25th記念】 ＃新木宏典×＃東啓介×＃大久保祥太郎",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/GeVk3Df0gUE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AYIFgAL6CIoCDAgAEAEYZSBYKEowDw==&rs=AOn4CLCJYOy5yQq5bskfU-ud9a5KTIRjJA",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=GeVk3Df0gUE",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "a0099c9bd965b550"
+  },
+  {
+   "id": "wAjbAMzdDGA",
+   "title": "【WE25th記念】#東啓介 からのメッセージ",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/wAjbAMzdDGA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyAhKBUwDw==&rs=AOn4CLBng6mmaNVbC44j23_3dOFrVxw9zQ",
+   "playlists": [
+    "東啓介 2025 ワタナベ25thコンサート"
+   ],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=wAjbAMzdDGA",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "328335ff12802432"
+  },
+  {
+   "id": "p2EmeE3Yu9U",
+   "title": "Kinky Boots JAPAN | Official Trailer 2025",
+   "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDHo7jmeSCYoNuLInPaRwwR_JvBVA",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=p2EmeE3Yu9U",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "d0689272b1813273"
+  },
+  {
+   "id": "neOfbzwQiVU",
+   "title": "ミュージカル「キンキーブーツ」2025公開ゲネプロ　東啓介×甲斐翔真×田村芽実ver.（東啓介 甲斐翔真 田村芽実 熊谷彩春 大山真志 ひのあらた）",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/neOfbzwQiVU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLAVdxd1wRllqv5ZW_qWbK4zB3RTQw",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=neOfbzwQiVU",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "3669d60126a7d9e4"
+  },
+  {
+   "id": "yRfVJQOx9gE",
+   "title": "【BWミュージカル『キンキーブーツ』ゲネプロ】4度目の日本上演！東啓介×甲斐翔真×田村芽実ver",
+   "channel": "【公式】TBS芸能&情報まとめ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yRfVJQOx9gE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCi416dcufrCec7r5FTt1SIfC0ioA",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=yRfVJQOx9gE",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "68bf4831eb5553e5"
+  },
+  {
+   "id": "2yoFurjbCX4",
+   "title": "東啓介、甲斐翔真、田村芽実らがパワフルな歌声を響かせる「キンキーブーツ」開幕",
+   "channel": "ステージナタリー",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/2yoFurjbCX4/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYLCBWKH8wD7gC8xg=&rs=AOn4CLBcSgtg3X33GICzZD2RNAZjJM6O6Q",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=2yoFurjbCX4",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "410ca6abd6207924"
+  },
+  {
+   "id": "VRjJfRzCLVg",
+   "title": "ベルトコンベア上でパフォーマンス＆ボクシング対決のゆくえは？",
+   "channel": "ステージナタリー",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/VRjJfRzCLVg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYJyBRKH8wD7gC8xg=&rs=AOn4CLCI_KEqC-XM_DWp8rxYf5JoAWrlcA",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=VRjJfRzCLVg",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "b37333c76aee4127"
+  },
+  {
+   "id": "r-rbcb4ltTk",
+   "title": "『キンキーブーツ』ゲネプロ「Sex Is in the Heel/~SEX はヒールにある~」（甲斐翔真ver）#shorts",
+   "channel": "【公式】TBS芸能&情報まとめ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/r-rbcb4ltTk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYRyBFKGUwD7gC8xg=&rs=AOn4CLCyf69OF_tvufi155Pl8lu-woGU0w",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=r-rbcb4ltTk",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "ddf768643d329048"
+  },
+  {
+   "id": "KODtsBuEHQA",
+   "title": "ブロードウェイミュージカル「Kinky Boots」Visual shooting~behind the scenes∼",
+   "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/KODtsBuEHQA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDFnJy98MeyJMcPROOTwe2fK-W-3Q",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "幕后／拍摄",
+   "url": "https://www.youtube.com/watch?v=KODtsBuEHQA",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "65d45b9bf9fbd8c8"
+  },
+  {
+   "id": "vLuunHOJ1xY",
+   "title": "Lola is Super Busy with Makeup and Costume Changes! Kinky Boots Cast Discusses the Role",
+   "channel": "ステージナタリー",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/vLuunHOJ1xY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBAKEUwD7gC8xg=&rs=AOn4CLBv0vUaHiKZvZ1Rm1NlcRB9drhCQQ",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=vLuunHOJ1xY",
+   "years": [
+    "2025"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "fb3240a7f6a4e969"
+  },
+  {
+   "id": "yEqqNFXlDFE",
+   "title": "Musical \"Kinky Boots\" 2025 press conference (Keisuke Azuma, Shotaro Arisawa, Shoma Kai, Yuya Mats...",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yEqqNFXlDFE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBnamUE3w2jCEJXMHXFNGAEWAoW1A",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=yEqqNFXlDFE",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "c9a158172207ac17"
+  },
+  {
+   "id": "wkCCKjUPOss",
+   "title": "『キンキーブーツ』開幕前取材会！甲斐翔真＆松下優也、東啓介＆有澤樟太郎ら新キャスト勢ぞろい",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/wkCCKjUPOss/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCzdvCWHy-le3Xga8hoeR5q18MO5w",
+   "playlists": [
+    "東啓介 2025 キンキーブーツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=wkCCKjUPOss",
+   "years": [
+    "2025"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "cbaf9ef34bb32651"
+  },
+  {
+   "id": "zxJbIxqUQQA",
+   "title": "Broadway Musical「IN THE HEIGHTS　イン・ザ・ハイツ」2021年版／舞台映像スポット",
+   "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/zxJbIxqUQQA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYSCBNKGUwDw==&rs=AOn4CLCsJcndaOU5CwVDC_dNP2as3AI3lA",
+   "playlists": [
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=zxJbIxqUQQA",
+   "years": [
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "5cc64bff5c53c7a6"
+  },
+  {
+   "id": "wMqGzjDZ2vw",
+   "title": "【第２弾！】Broadway Musical「IN THE HEIGHTS　イン・ザ・ハイツ」2021年版舞台映像",
+   "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/wMqGzjDZ2vw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYUiBWKGUwDw==&rs=AOn4CLCXwFhJjJ05A8iTzKVrACChTazhbQ",
+   "playlists": [
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=wMqGzjDZ2vw",
+   "years": [
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "7af7f7a016f459e1"
+  },
+  {
+   "id": "NpLizyJ5tQs",
+   "title": "Broadway Musical『IN THE HEIGHTS イン・ザ・ハイツ』オフィシャル映像より",
+   "channel": "アイデアニュース チャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/NpLizyJ5tQs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1aN-TykJJrd0SaXJ-dE16oMgl6w",
+   "playlists": [
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=NpLizyJ5tQs",
+   "years": [
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "058649c4aeb8a509"
+  },
+  {
+   "id": "kuit-UDofRY",
+   "title": "Broadway Musical「IN THE HEIGHTS イン・ザ・ハイツ」舞台映像",
+   "channel": "SCREEN＋Plus CHANNEL",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/kuit-UDofRY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYPyBeKHIwDw==&rs=AOn4CLB333Y8mJ_QHBqAdkkbT73vobqW7w",
+   "playlists": [
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=kuit-UDofRY",
+   "years": [
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "86fae1c0e71cc8d7"
+  },
+  {
+   "id": "_c8AasL0QZ8",
+   "title": "Broadway Musical「IN THE HEIGHTS イン・ザ・ハイツ」開幕! 舞台映像",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/_c8AasL0QZ8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGD3ztAZmUMz2B363UDYxvSRVDjQ",
+   "playlists": [
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=_c8AasL0QZ8",
+   "years": [
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "1f207a058927434e"
+  },
+  {
+   "id": "qUoDQ6pE3O0",
+   "title": "平間壮一・石田ニコル・阪本奨悟出演のブロードウェイミュージカル「IN THE HEIGHTS イン・ザ・ハイツ」4月3日（土）より大阪・名古屋・東京にて本公演が上演！",
+   "channel": "AMUSE Official Channel",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/qUoDQ6pE3O0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNMWP7dwpv6rhNkpBLjtsJajelQQ",
+   "playlists": [
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=qUoDQ6pE3O0",
+   "years": [
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "22064d797d1d5c28"
+  },
+  {
+   "id": "8Xv1rnigvkU",
+   "title": "#02 一生聴けない？！KREVAのラップ翻訳｜ In The Heights - Benny's Dispatch【ラジオ 宇多丸のAfter 6 Junction】",
+   "channel": "Cappuccino Music",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/8Xv1rnigvkU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuT7lKRhhUyQuQGADdYMstk7Db8g",
+   "playlists": [
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=8Xv1rnigvkU",
+   "years": [
+    "2021"
+   ],
+   "rel": "作品片单关联",
+   "platform": "YouTube",
+   "asset": "b2388bd2017a1f2f"
+  },
+  {
+   "id": "6qpsEkIIY0U",
+   "title": "インザハイツ2021年公演／東 啓介",
+   "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/6qpsEkIIY0U/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYXyBfKF8wDw==&rs=AOn4CLBvLQbRX8ZDrh3sMKce_XoMy5oKBg",
+   "playlists": [
+    "東啓介 2021 イン・ザ・ハイツ"
+   ],
+   "sourceType": "演员／其他频道",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=6qpsEkIIY0U",
+   "years": [
+    "2021"
+   ],
+   "rel": "标题提及东启介",
+   "platform": "YouTube",
+   "asset": "e5dffbc1c1c37ee0"
+  },
+  {
+   "id": "gKa8yBXfzcE",
+   "title": "Animate Times｜东启介《假面骑士麦斯》专访配套视频",
+   "channel": "Animate Times",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=gKa8yBXfzcE",
+   "thumbnail": "https://i.ytimg.com/vi/gKa8yBXfzcE/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "2026.09.02专访原文内嵌视频",
+   "source": "https://www.animatetimes.com/news/details.php?id=1788235894",
+   "asset": "a6aa5ae10c7e4895"
+  },
+  {
+   "id": "BV1vgtG6wES9",
+   "title": "【中日字幕】《麦斯》四位主演专访：哥哥姐姐和两个同岁的弟弟",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1vgtG6wES9/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.01上传；原始采访拍摄日期未注明",
+   "source": "https://www.bilibili.com/video/BV1vgtG6wES9/",
+   "uploadDate": "2026-09-01",
+   "dateLabel": "2026.09.01 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1qa4y1h7dP",
+   "title": "【第91回】东启介的《あさステ！》｜嘉宾：藤田玲",
+   "channel": "",
+   "type": "广播／音声",
+   "sourceType": "广播转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1qa4y1h7dP/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜主持：东启介；嘉宾：藤田玲。原节目当日07:00播出，20:00配信存档。",
+   "source": "https://spice.eplus.jp/articles/270919",
+   "japanese": "【第91回】東啓介の「あさステ！」ゲスト：藤田玲【6/25配信】",
+   "contentDate": "2020-06-25",
+   "dateLabel": "2020.06.25 原播出",
+   "asset": ""
+  },
+  {
+   "id": "BV1Rq4y187Lu",
+   "title": "加藤和树×东启介｜《闇が広がる》（阴霾渐袭）",
+   "japanese": "【加藤和樹＆東啓介】「闇が広がる」",
+   "channel": "黑兔麻薯",
+   "type": "演出／歌唱",
+   "sourceType": "字幕转载",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Rq4y187Lu/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜Japan Musical Festival 2022音乐会片段，非《伊丽莎白》正式舞台卡司；中字。",
+   "source": "https://www.bilibili.com/video/BV1Rq4y187Lu/",
+   "uploadDate": "2022-01-29",
+   "contentDate": "",
+   "dateLabel": "2022.01.29 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Dm411R7Ys",
+   "title": "GREEN & BLACKS #65｜《泽西男孩》组曲",
+   "japanese": "GB#65「Jersey Boys Medley」「My Eyes Adored You」「Who Loves You」",
+   "channel": "Next_to_Yoshio",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Dm411R7Ys/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜中川晃教、藤冈正明、东启介、大山真志合唱；2024为B站上传年份，原节目播出日待核。",
+   "source": "https://www.bilibili.com/video/BV1Dm411R7Ys/",
+   "uploadDate": "2024-03-23",
+   "contentDate": "",
+   "dateLabel": "2024.03.23 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Xu411L7oE",
+   "title": "《井上芳雄 by MYSELF》2023歌唱合集｜东启介参与分段",
+   "japanese": "【井上芳雄】by MYSELF 唱歌合集（2023年）",
+   "channel": "Next_to_Yoshio",
+   "type": "广播／音声",
+   "sourceType": "转载",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Xu411L7oE/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜合集含2023.10.15《Corner of the Sky》及“芳雄歌合戦2023”东启介合唱分段；其余分段为其他嘉宾。",
+   "source": "https://www.bilibili.com/video/BV1Xu411L7oE/",
+   "uploadDate": "",
+   "contentDate": "2023-10-15",
+   "dateLabel": "2023.10.15 原播出／演出",
+   "asset": ""
+  },
+  {
+   "id": "BV1es5fz3Eam",
+   "title": "《泽西男孩》2025年4月节目组曲",
+   "japanese": "【泽西男孩】音乐剧组曲表演 Can’t Take My Eyes Off Of You等",
+   "channel": "",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1es5fz3Eam/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜中川晃教、花村想太、小林唯、藤冈正明、东启介、大山真志；含《Sherry》《Can’t Take My Eyes Off You》等。",
+   "source": "https://www.bilibili.com/video/BV1es5fz3Eam/",
+   "uploadDate": "2025-04-20",
+   "contentDate": "",
+   "dateLabel": "2025.04.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1xh4y1P7Yt",
+   "title": "《女高中生成为僧人。》双版本预告",
+   "japanese": "MBS每日放送《女高中生成为僧人/女子高生、僧になる。》预告",
+   "channel": "RealElle",
+   "type": "预告／宣传",
+   "sourceType": "转载",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV1xh4y1P7Yt/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜片头曲版与片尾曲版预告；东启介饰里中树。",
+   "source": "https://www.bilibili.com/video/BV1xh4y1P7Yt/",
+   "uploadDate": "2023-09-08",
+   "contentDate": "",
+   "dateLabel": "2023.09.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ezNuzLEp9",
+   "title": "刀舞《陽伝 月と太陽と星々よ》PV",
+   "japanese": "舞台『刀剣乱舞』陽伝 月と太陽と星々よ PV",
+   "channel": "",
+   "type": "预告／宣传",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ezNuzLEp9/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜对应2026年《陽伝》；东启介饰烛台切光忠。简介保留原X发布地址。",
+   "source": "https://www.bilibili.com/video/BV1ezNuzLEp9/",
+   "uploadDate": "2026-03-08",
+   "contentDate": "",
+   "dateLabel": "2026.03.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1AU4y1i7tS",
+   "title": "《Grand Guignol》中文字幕舞台录像",
+   "japanese": "【中字/原创翻译】舞台剧 グランギニョル Grand-guignol 残酷剧",
+   "channel": "Mystery千羽",
+   "type": "舞台／剧集",
+   "sourceType": "字幕转载",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1AU4y1i7tS/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜对应2017年公演，东启介饰李春林；B站于2022.07.19上传。",
+   "source": "https://www.bilibili.com/video/BV1AU4y1i7tS/",
+   "uploadDate": "2022-07-19",
+   "contentDate": "",
+   "dateLabel": "2017年公演 · 2022.07.19 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1JXCRYMEQX",
+   "title": "《我、我喜欢的他，以及你。》原短剧30话合集",
+   "japanese": "【30话全】【生肉】【饭岛宽骑】我与我喜欢的他，与你",
+   "channel": "",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1JXCRYMEQX/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜原短剧30话日语版；饭岛宽骑、东启介、见津贤出演。与2024年12月电视特别编辑版分开标注。",
+   "source": "https://www.bilibili.com/video/BV1JXCRYMEQX/",
+   "uploadDate": "2024-10-19",
+   "contentDate": "",
+   "dateLabel": "2024.10.19 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "kyqxdo_tRJI",
+   "title": "官网嵌入的视频（标题待复核）",
+   "url": "https://www.youtube.com/watch?v=kyqxdo_tRJI",
+   "channel": "来源：ミュージカル『薄桜鬼』新選組奇譚官方网站",
+   "thumbnail": "",
+   "duration": "",
+   "available": true,
+   "playlists": [
+    "ミュージカル『薄桜鬼』新選組奇譚｜官网视频"
+   ],
+   "sourceType": "官方／机构",
+   "type": "官网视频",
+   "years": [
+    "2016"
+   ],
+   "rel": "对应作品官网列出",
+   "asset": ""
+  },
+  {
+   "id": "ttLGGm7WKMM",
+   "title": "官方公演CM",
+   "url": "https://www.youtube.com/watch?v=ttLGGm7WKMM",
+   "channel": "来源：ミュージカル『薄桜鬼』原田左之助 篇官方网站",
+   "thumbnail": "",
+   "duration": "",
+   "available": true,
+   "playlists": [
+    "ミュージカル『薄桜鬼』原田左之助 篇｜官网视频"
+   ],
+   "sourceType": "官方／机构",
+   "type": "官网视频",
+   "years": [
+    "2017"
+   ],
+   "rel": "对应作品官网列出",
+   "asset": ""
+  },
+  {
+   "id": "SFJZONd-R7s",
+   "title": "Japan Musical Festival 2022 東啓介さんのインタビュー動画",
+   "channel": "musical jmf",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/SFJZONd-R7s/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=SFJZONd-R7s",
+   "years": [
+    "2022"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2021-11-30",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2021-11-30"
+  },
+  {
+   "id": "puDSgVIvi_c",
+   "title": "ミュージカル『キンキーブーツ』3年ぶり再演に向けて　東啓介×有澤樟太郎×甲斐翔真×松下優也インタビュー",
+   "channel": "JP STAR",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/puDSgVIvi_c/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=puDSgVIvi_c",
+   "years": [
+    "2025"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2024-12-16",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2024-12-16"
+  },
+  {
+   "id": "homXEU412qk",
+   "title": "シンディ・ローパー登壇『キンキーブーツ』初日カーテンコール 東啓介×甲斐翔真×田村芽実2025/4/27",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/homXEU412qk/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "媒体原发布",
+   "type": "演出／歌唱",
+   "url": "https://www.youtube.com/watch?v=homXEU412qk",
+   "years": [
+    "2025"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2025-04-27",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2025-04-27"
+  },
+  {
+   "id": "2DCSAh_hgrI",
+   "title": "東啓介 コメント動画 カウントダウン ミュージカルコンサート 2025-2026",
+   "channel": "サンライズプロモーション公式",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/2DCSAh_hgrI/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=2DCSAh_hgrI",
+   "years": [
+    "2025"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2025-11-27",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2025-11-27"
+  },
+  {
+   "id": "2hpFfAzxf6E",
+   "title": "New Musical『Color of Life』東啓介コメント動画",
+   "channel": "ワタナベエンターテインメント【公式】",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/2hpFfAzxf6E/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=2hpFfAzxf6E",
+   "years": [
+    "2019"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2019-02-10",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2019-02-10"
+  },
+  {
+   "id": "98alqMvB4Ww",
+   "title": "舞台『キングダムⅡ-継承-』全メインキャスト会見",
+   "channel": "Astage",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/98alqMvB4Ww/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=98alqMvB4Ww",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-07-15",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-07-15"
+  },
+  {
+   "id": "TF6jpVaBJbo",
+   "title": "仮面ライダー新シリーズ「仮面ライダーマイス」が登場！変身ポーズも披露！制作発表記者会見",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/TF6jpVaBJbo/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=TF6jpVaBJbo",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-08-03",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-08-03"
+  },
+  {
+   "id": "yS5dDVs9E54",
+   "title": "【仮面ライダーマイス】“十二支同盟”一部キャスト解禁！役どころや今作の魅力を語る 制作発表記者会見",
+   "channel": "クランクイン !",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/yS5dDVs9E54/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=yS5dDVs9E54",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-08-04",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-08-04"
+  },
+  {
+   "id": "VsE38iHYLx0",
+   "title": "THE RAMPAGE、「仮面ライダーマイス」の主題歌を担当！制作発表記者会見",
+   "channel": "シネマトゥデイ",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/VsE38iHYLx0/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "媒体原发布",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=VsE38iHYLx0",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-08-03",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-08-03"
+  },
+  {
+   "id": "jnAoQzFPoFY",
+   "title": "【予告】仮面ライダーマイス　十二支十色　三話　スパダリ検定～音澄宙編～",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/jnAoQzFPoFY/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=jnAoQzFPoFY",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-09-19",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-09-19"
+  },
+  {
+   "id": "QwypVOdYuAA",
+   "title": "【予告】仮面ライダーマイス　十二支十色　四話　おばあさんとリド①",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/QwypVOdYuAA/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=QwypVOdYuAA",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-09-26",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-09-26"
+  },
+  {
+   "id": "LP_qxigQtC0",
+   "title": "【予告】仮面ライダーマイス　十二支十色　六話　ケン様と図書館で",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/LP_qxigQtC0/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=LP_qxigQtC0",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-10-10",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-10-10"
+  },
+  {
+   "id": "HiW6nsnVHo8",
+   "title": "【予告】仮面ライダーマイス　十二支十色　七話　スパダリ検定～嶺髙華武利編～",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/HiW6nsnVHo8/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=HiW6nsnVHo8",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-10-17",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-10-17"
+  },
+  {
+   "id": "-PV7YLF2W30",
+   "title": "【予告】仮面ライダーマイス　十二支十色　九話　名探偵ティグル　事件編",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/-PV7YLF2W30/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=-PV7YLF2W30",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-11-07",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-11-07"
+  },
+  {
+   "id": "7jzQ-eSHNF0",
+   "title": "【予告】仮面ライダーマイス　十二支十色　十話　名探偵ティグル　解決編",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/7jzQ-eSHNF0/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=7jzQ-eSHNF0",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-11-14",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-11-14"
+  },
+  {
+   "id": "baMEfVIuI-w",
+   "title": "【仮面ライダーマイス】「変身ベルト DXマオウドライバー」TVCM",
+   "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/baMEfVIuI-w/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=baMEfVIuI-w",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.17补充｜YouTube上传 2026-10-19",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-10-19"
+  },
+  {
+   "id": "BV1WZ4X6tEqJ",
+   "title": "【中日字幕】《麦斯》特别座谈会｜有爱的三人小队与剧内外反差",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1WZ4X6tEqJ/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜oricon座谈会中字版；秋谷郁甫、堀川梨心、安宅波飒、东启介。",
+   "source": "https://www.bilibili.com/video/BV1WZ4X6tEqJ/",
+   "uploadDate": "2026-08-30",
+   "dateLabel": "2026.08.30 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1nLnX6vEPL",
+   "title": "【中日字幕】东启介Instagram直播2026.10.25｜试玩赤猫驱动器与变身",
+   "channel": "航海水上ライオン連合",
+   "type": "节目／其他",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1nLnX6vEPL/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜本人Ins直播中字版（约15分钟剪辑）。",
+   "source": "https://www.bilibili.com/video/BV1nLnX6vEPL/",
+   "uploadDate": "2026-10-25",
+   "dateLabel": "2026.10.25 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Mjxj6oEFJ",
+   "title": "【中日字幕】2026.10.25 Ins直播切片②｜华武利变身",
+   "channel": "蒜瓣烧鸟",
+   "type": "节目／其他",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Mjxj6oEFJ/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜本人Ins直播切片。",
+   "source": "https://www.bilibili.com/video/BV1Mjxj6oEFJ/",
+   "uploadDate": "2026-10-28",
+   "dateLabel": "2026.10.28 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV12CWj6nEvw",
+   "title": "【杂志全译】《PASH!》麦斯十二支画报｜秋谷郁甫×东启介",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV12CWj6nEvw/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜《PASH!》2026年12月号对谈的中文全译。",
+   "source": "https://www.bilibili.com/video/BV12CWj6nEvw/",
+   "uploadDate": "2026-11-11",
+   "dateLabel": "2026.11.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ge4x6FEif",
+   "title": "东启介写真集拍摄花絮",
+   "channel": "新小DJ",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ge4x6FEif/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2027年1月写真集相关花絮短片。",
+   "source": "https://www.bilibili.com/video/BV1ge4x6FEif/",
+   "uploadDate": "2026-11-08",
+   "dateLabel": "2026.11.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1LgsN6MEZ8",
+   "title": "【中日字幕】东启介得知要出写真集的瞬间",
+   "channel": "航海水上ライオン連合",
+   "type": "幕后／拍摄",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1LgsN6MEZ8/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约9秒短片。",
+   "source": "https://www.bilibili.com/video/BV1LgsN6MEZ8/",
+   "uploadDate": "2026-11-16",
+   "dateLabel": "2026.11.16 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1misn6vENG",
+   "title": "【中日字幕】《麦斯》第10集花絮",
+   "channel": "航海水上ライオン連合",
+   "type": "幕后／拍摄",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1misn6vENG/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜十二支同盟演员群像花絮，东启介出镜。",
+   "source": "https://www.bilibili.com/video/BV1misn6vENG/",
+   "uploadDate": "2026-11-15",
+   "dateLabel": "2026.11.15 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1VfHC6uEDk",
+   "title": "华武利个人cut｜TV合集",
+   "channel": "誰もいない-",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1VfHC6uEDk/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜《麦斯》中华武利出场片段剪辑。",
+   "source": "https://www.bilibili.com/video/BV1VfHC6uEDk/",
+   "uploadDate": "2026-10-07",
+   "dateLabel": "2026.10.07 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1aA411T7ww",
+   "title": "2021.02.22《大师的节目》挑战大胃王｜东启介部分",
+   "channel": "KKRooo",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1aA411T7ww/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜综艺出演片段。",
+   "source": "https://www.bilibili.com/video/BV1aA411T7ww/",
+   "uploadDate": "2021-03-11",
+   "dateLabel": "2021.03.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV13b411L7Bk",
+   "title": "东启介的歌唱：录音室 vs 无修音生放送（分P）",
+   "channel": "KKRooo",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV13b411L7Bk/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜多段歌唱合集。",
+   "source": "https://www.bilibili.com/video/BV13b411L7Bk/",
+   "uploadDate": "2019-04-18",
+   "dateLabel": "2019.04.18 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Ub411c7BK",
+   "title": "2018.11.08《あさステ！》东启介宣传短片",
+   "channel": "iyomaki",
+   "type": "广播／音声",
+   "sourceType": "广播转载",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Ub411c7BK/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜超!A&G+《あさステ！》周四档宣传。",
+   "source": "https://www.bilibili.com/video/BV1Ub411c7BK/",
+   "uploadDate": "2018-11-09",
+   "dateLabel": "2018.11.09 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ex411i7T9",
+   "title": "【東啓介】钢琴自弹自唱三段＋纯钢琴演奏一段",
+   "channel": "kazanemasaki",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ex411i7T9/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜本人钢琴弹唱。",
+   "source": "https://www.bilibili.com/video/BV1ex411i7T9/",
+   "uploadDate": "2017-07-21",
+   "dateLabel": "2017.07.21 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Hk4y16769",
+   "title": "加藤和树＆东启介《Always lovin' you》",
+   "channel": "SakuraiNanase",
+   "type": "演出／歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Hk4y16769/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜合唱片段。",
+   "source": "https://www.bilibili.com/video/BV1Hk4y16769/",
+   "uploadDate": "2020-05-11",
+   "dateLabel": "2020.05.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1zmkuB8ETB",
+   "title": "三浦凉介＆东启介 Ins直播2021.06.09（机翻字幕）",
+   "channel": "云也睡觉",
+   "type": "节目／其他",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1zmkuB8ETB/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜双人Ins直播。",
+   "source": "https://www.bilibili.com/video/BV1zmkuB8ETB/",
+   "uploadDate": "2026-01-19",
+   "dateLabel": "2026.01.19 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1DA411s7wY",
+   "title": "东启介 2020.12.25 Ins直播",
+   "channel": "TNT那位别再用我号了",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1DA411s7wY/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1DA411s7wY/",
+   "uploadDate": "2020-12-25",
+   "dateLabel": "2020.12.25 B站上传",
+   "asset": ""
+  }
+ ],
+ "playlists": [
+  {
+   "id": "PLbaW2pgvVyYY",
+   "title": "東啓介 2026 SWANーBallet cross Readingー",
+   "videos": [
+    {
+     "id": "4ANW1anPBF4",
+     "title": "【井桁弘恵】朗読×バレエ、新感覚舞台『SWANーBallet cross Readingー』とは舞台『SWANーBallet cross Readingー』公開ゲネプロ",
+     "channel": "日テレNEWSカルチャー【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/4ANW1anPBF4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLC1pIEtyZlqYGznQcq1pjiib8s-Hw"
+    },
+    {
+     "id": "D1dOGYHMg6A",
+     "title": "【BALLET.jp】Stage Play \"SWAN —Ballet cross Reading—\" Public Dress Rehearsal",
+     "channel": "クララチャンネル CLARA Channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/D1dOGYHMg6A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDbvyu37xIPU_ljSEJIwd4fkaKlAg"
+    },
+    {
+     "id": "8X39E1Z6TOc",
+     "title": "舞台『SWAN Ballet cross Reading』ゲネプロ　井桁弘恵、村川絵梨、東啓介、西野遼、福士誠治、秋元康臣、厚地康雄、飯島望未、今井智也、菊地研、木村優里、塩谷綾菜、柴山紗帆、関野海斗",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/8X39E1Z6TOc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBeM8h5jHBqqmFrJ3IkKvLfk52_ZQ"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLA_uxakNA6tY",
+   "title": "東啓介 2026 舞台キングダムⅡ 継承",
+   "videos": [
+    {
+     "id": "X_NYvj42l_A",
+     "title": "Stage Play \"Kingdom II: Succession\" Promotional Footage",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/X_NYvj42l_A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYTCBWKGUwDw==&rs=AOn4CLDgA_YK_zbQTNDE72JjL3rabgaqyw"
+    },
+    {
+     "id": "okwyOUKOVf8",
+     "title": "Stage Play \"KINGDOM II -Inheritance-\" / Promotional Video",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/okwyOUKOVf8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpvmwtKp6jAGXAT-1LBEgaA_OjBA"
+    },
+    {
+     "id": "sTz7QLKvlrg",
+     "title": "舞台『キングダムⅡ-継承-』／2026年8月10日(月) 13時公演 特別カーテンコール映像",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/sTz7QLKvlrg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHLXSqHtn3ypgX-ErskqfG-rna9g"
+    },
+    {
+     "id": "3g1h5UbPimY",
+     "title": "王騎死す…屈指の名シーンまでを三浦宏規＆高野洸の主演で舞台化！“羌瘣”山本千尋のアクションは圧巻！舞台「キングダムⅡ-継承-」公開ゲネプロ＆開幕記念会見 #舞台キングダム2 #三浦宏規 #高野洸",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/3g1h5UbPimY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBeKFUwDw==&rs=AOn4CLDOE2NlRaVGUCs8VkXng3hMC61WYQ"
+    },
+    {
+     "id": "sa1rsQT9df0",
+     "title": "舞台『キングダムⅡ-継承-』開幕記念会見 三浦宏規 高野洸 山本千尋 東啓介 章平 石川禅  山口祐一郎 華優希 元木聖也 竹内將人 清水葉月  渡辺大 飯作雄太郎",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/sa1rsQT9df0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8BouPxdZxvWxJC-sUautgl4Wh6Q"
+    },
+    {
+     "id": "yb8Kqb_WUG4",
+     "title": "Hiroki Miura & Akira Takano give a passionate performance in the stage play \"Kingdom II: Successi...",
+     "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/yb8Kqb_WUG4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5hPL4E6Z46aTzBOi0fa7vVM3Z5A"
+    },
+    {
+     "id": "xlIBfL1sOcg",
+     "title": "舞台『キングダムⅡ-継承-』／2026年8月9日(日) 18時公演 初日特別カーテンコール映像",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/xlIBfL1sOcg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkSw_urI0s_nKIlQXWrMIbe8xQug"
+    },
+    {
+     "id": "XgiT7y8zBnw",
+     "title": "舞台『キングダムⅡ-継承-』舞台映像　三浦宏規 高野洸 山本千尋 東啓介 石川禅  山口祐一郎",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/XgiT7y8zBnw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7VDysHhLsD4g0DS9AtJIxIn5qHA"
+    },
+    {
+     "id": "nksmqPo8PXM",
+     "title": "舞台『キングダムⅡ-継承-』公開ゲネプロダイジェスト映像",
+     "channel": "おけぴネット",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/nksmqPo8PXM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5j6IimY7BqR1eIddlvVux377KwA"
+    },
+    {
+     "id": "0g3ZhFdlDj4",
+     "title": "【キングダム】王騎死す…屈指の名シーンまでを三浦宏規＆高野洸の主演で舞台化！“羌瘣”山本千尋のアクションは圧巻！舞台「キングダムⅡ-継承-」公開ゲネプロ＆開幕記念会見",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/0g3ZhFdlDj4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDx3xtSuWmlK_PqD2t1QeF08MB9yg"
+    },
+    {
+     "id": "kB1halztCbY",
+     "title": "舞台『キングダムⅱ-継承-』 全メインキャスト会見",
+     "channel": "ミュージック・エア",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/kB1halztCbY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBD9mcadwQ5NukPFKONx-R9hMcUYQ"
+    },
+    {
+     "id": "1G4VldyUdIE",
+     "title": "舞台『キングダムⅱ-継承-』公開稽古",
+     "channel": "ミュージック・エア",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/1G4VldyUdIE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQH7-FR62987t5p2J6fsw-anUNuQ"
+    },
+    {
+     "id": "6ShW86E7yAU",
+     "title": "🔵独占【舞台『キングダムⅡ－継承－』】〝奇跡的なWキャスト〟 三浦宏規＆高野洸を独占取材！「2人で一緒にやることに意味がある」",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/6ShW86E7yAU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDvFUGTRFGnKY5SkFUtX20CqaHF9w"
+    },
+    {
+     "id": "RlMDLOexM5E",
+     "title": "舞台「キングダムII」“羌カイ”山本千尋、言ってみたいセリフは「我武神龐煖也」",
+     "channel": "MANTAN TV",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/RlMDLOexM5E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAt3GTMG47FDmOMVtbw9FhhK_jtxg"
+    },
+    {
+     "id": "Ec_t290Za0Y",
+     "title": "🔵独占【舞台『キングダムⅡ－継承－』】大迫力の稽古映像を独占お届け！三浦宏規＆高野洸に稽古の合間に直撃インタビュー",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Ec_t290Za0Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8TOJlqwYEzpjpvA9We5DvWXnYLQ"
+    },
+    {
+     "id": "pvPDrs9rSSw",
+     "title": "舞台「キングダムII」“羌カイ”山本千尋、“信”三浦宏規＆高野洸らが意気込み！開幕直前にキャストが決起集会",
+     "channel": "MANTAN TV",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/pvPDrs9rSSw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCusm6TOmKKRQb_IWwtTKDPy8udFw"
+    },
+    {
+     "id": "EWuzyA6UxLc",
+     "title": "Stage Play \"KINGDOM II -Inheritance-\" Just Before Opening! Post-Event Cast Comments from the Rally",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/EWuzyA6UxLc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-dyldKSoawXa1tTKe0OhweZSdpg"
+    },
+    {
+     "id": "dYhneTTd768",
+     "title": "【キングダム】“信”三浦宏規考案の『キングダム』ポーズで会場が一つに！舞台 『キングダムⅡ-継承-』開幕直前！総決起集会",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/dYhneTTd768/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVEsYPJIJFl9G3-uW00Pvm0dPVgg"
+    },
+    {
+     "id": "Y2z_qoOIQVc",
+     "title": "【キングダム】“信”三浦宏規＆高野洸、質疑応答でまさかの両思い発覚！？舞台 『キングダムⅡ-継承-』開幕直前！総決起集会",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Y2z_qoOIQVc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_J2NUdDoiCYASjgRnvsvmF2rHLg"
+    },
+    {
+     "id": "Z0xeHjuJqUE",
+     "title": "[Yuichiro Yamaguchi, 69] Playing Ouki in the stage play \"Kingdom II\": \"I'm glad I've lived to see...",
+     "channel": "日テレNEWSカルチャー【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Z0xeHjuJqUE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDISn63s1GQvmV8bvjof3DV82TkoA"
+    },
+    {
+     "id": "kwzvPcpSAdc",
+     "title": "【舞台『キングダムⅡ-継承-』公開稽古】大迫力の公開稽古をお届け《Wキャスト：三浦宏規＆東啓介Ver》",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/kwzvPcpSAdc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0kSYgmff0CWQgrj3MRIjBELv3PQ"
+    },
+    {
+     "id": "K7DPynI9ABI",
+     "title": "【キングダム】“信”高野洸のあいさつに“王騎”山口祐一郎が「もう一回！」舞台「キングダムⅡ－継承－」 全メインキャスト会見",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/K7DPynI9ABI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNXFqv81xPtQlnJ3uDQB7aLHWDVA"
+    },
+    {
+     "id": "d1bPgaMakiQ",
+     "title": "舞台『キングダムⅡ-継承-』30秒PV／7月13日(月)一般販売開始！",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/d1bPgaMakiQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ0CLGQSb4gvd9taHgd5gmkdyjXw"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLYLROXQLoPf4",
+   "title": "東啓介 2026 仮面ライダーマイス",
+   "videos": [
+    {
+     "id": "z7Pd-5nNOSk",
+     "title": "【予告】仮面ライダーマイス　十二支十色　二話　十二支ファッションチェック①",
+     "channel": "東映特撮YouTube Official",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/z7Pd-5nNOSk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1WwPHdQFl2IqpJXeVe30ZpYw9OA"
+    },
+    {
+     "id": "cQHjgl5dyAA",
+     "title": "【予告第１弾】仮面ライダーマイス　十二支十色",
+     "channel": "東映特撮YouTube Official",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/cQHjgl5dyAA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASV6jdjCgPnD_sgLbaja-YKZOldw"
+    },
+    {
+     "id": "GTKfOKIZ-ME",
+     "title": "仮面ライダーマイスを徹底解剖！スペシャル座談会　仲良しキャストの素顔丸見え！？わちゃわちゃトークで大爆笑！",
+     "channel": "oricon",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/GTKfOKIZ-ME/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA3rb4byYrO_2VwEFGVKjNl7EuBRg"
+    },
+    {
+     "id": "eIsBS9RmPtU",
+     "title": "【仮面ライダーマイス】オーディション秘話を暴露!?キャストの素顔を最速大解剖！「仮面ライダーマイス」激アツ座談会!!",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/eIsBS9RmPtU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIU5ISiAFFPKKf_DorYMDHeL5vzA"
+    },
+    {
+     "id": "a7xOIwwNLOA",
+     "title": "【仮面ライダーマイス】十二支同盟が登場！キャスト解禁！　「仮面ライダーマイス」制作発表記者会見",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/a7xOIwwNLOA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAir0HaigDXfYvPwytwalFpVGvIyQ"
+    },
+    {
+     "id": "klfi7fnJWPM",
+     "title": "【仮面ライダーマイス】“十二支同盟”キャスト初解禁！東啓介＆金子隼也ら登場　『仮面ライダーマイス』制作発表記者会見",
+     "channel": "oricon",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/klfi7fnJWPM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDE4oee8Ud_2kaik453XXGwvi7qlA"
+    },
+    {
+     "id": "SZEK7hWKliE",
+     "title": "10/28/26 GAMBA VR 5th Series 4 Short 1 First Draft",
+     "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/SZEK7hWKliE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBgwDw==&rs=AOn4CLCMlgJ_OvYSS6reusRIF3pFBLNZ7g"
+    },
+    {
+     "id": "9VPedwZW6vg",
+     "title": "【ガンバレジェンズ】バーサスロード５弾で早くもあのライダーが…！！新PV＆激やばパラレルも公開⁉︎【VR4・5弾】【バンマニ!】【バンダイ公式】",
+     "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/9VPedwZW6vg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbG_1jqn1qX4YGK02rVLTviZDugw"
+    },
+    {
+     "id": "sKfbmuKkuZY",
+     "title": "【ガンバレジェンズ】バーサスロード５弾稼働直前!! LRなど注目カードの情報を完全網羅!さらに不可思議なとっておき新情報も…!?今すぐチェック!!!【VR４・5弾】【バンマニ!】【バンダイ公式】",
+     "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/sKfbmuKkuZY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADUpVnyOiSXuurVX67wkQ17oiQwA"
+    },
+    {
+     "id": "HTb2pl7yHC4",
+     "title": "【予告第２弾】仮面ライダーマイス　十二支十色",
+     "channel": "東映特撮YouTube Official",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/HTb2pl7yHC4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHphG-2HaKMJXM9IUeJLdHUZIYog"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLPMjWzwEbXqk",
+   "title": "東啓介 2026 ブルーロック",
+   "videos": [
+    {
+     "id": "7z-mf3a4X2E",
+     "title": "主題歌はAdo「モンストロ」｜映画『ブルーロック』予告②【8月7日(金)公開】",
+     "channel": "映画『ブルーロック』チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/7z-mf3a4X2E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbGWdFgyAQo7QAjTq1RWcowEWRRA"
+    },
+    {
+     "id": "pfAjxZqCw44",
+     "title": "BLUELOCK ULTIMATE BACKSTAGE #1《ビジュアル撮影に密着》｜『ブルーロック』8月7日(金)公開",
+     "channel": "映画『ブルーロック』チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/pfAjxZqCw44/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUF311SHqROG9Kl2QEcqFc65IVKg"
+    },
+    {
+     "id": "WZvtwa2QghM",
+     "title": "Interview with Keisuke Higashi, who plays Teruaki Barou in the live-action film \"Blue Lock\": How ...",
+     "channel": "animate Times",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/WZvtwa2QghM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0bFUzlTqQOS_voCuiCrSD_BHxsQ"
+    },
+    {
+     "id": "gjkR_2NFHxY",
+     "title": "個性豊かなキャラクター×注目俳優陣｜映画『ブルーロック』8月7日(金)公開",
+     "channel": "映画『ブルーロック』チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/gjkR_2NFHxY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGr6htbb7tRV9Reo96PwDF8vpKUg"
+    },
+    {
+     "id": "v7ywW3Oj3fo",
+     "title": "映画『ブルーロック』WEBCM〈熱い声篇〉【大ヒット上映中！】",
+     "channel": "映画『ブルーロック』チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/v7ywW3Oj3fo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAS3Ih4ntCri4MiS-iPNeTyf6hEPQ"
+    },
+    {
+     "id": "PXK_cInXWwA",
+     "title": "【最終回】BLUELOCK.LAB #12《映画『ブルーロック』を研究！キャスト12人でエゴトーク！》｜ 映画『ブルーロック』大ヒット上映中！",
+     "channel": "映画『ブルーロック』チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/PXK_cInXWwA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwcTv5vdYHJIycMLSuMMeSKeLLCA"
+    },
+    {
+     "id": "1fbwOcFEASg",
+     "title": "\"Blue Lock\" The Movie Release Commemoration SP: Yuki Sakurai (Gekidan EXILE) × Keisuke Higashi [S...",
+     "channel": "CL Official YouTube Channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/1fbwOcFEASg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVJopEq815nM23yy7bbfb-Bf1QnA"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KQTdgxwr-mtVICldXSrU4Ps",
+   "title": "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)",
+   "videos": [
+    {
+     "id": "tSfsOIXDSR0",
+     "title": "ミュージカル『JERSEY BOYS』(2025) Movie “What’ｓ JB？”",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/tSfsOIXDSR0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAB6ti2uUXmjkMfL6Om7cG4BW_5rA"
+    },
+    {
+     "id": "L0ZOUa3tZ8U",
+     "title": "ミュージカル『JERSEY BOYS』(2025) Movie “About JB？”【Team BLACK ver.】",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/L0ZOUa3tZ8U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAevLjwRYJG92Jc1jRapCy924RnFQ"
+    },
+    {
+     "id": "-fq8P9gHcnA",
+     "title": "【ジャージー・ボーイズ】石井一孝の情熱観劇レビュー★中川晃教／藤岡正明／東啓介／大山真志／加藤潤一／阿部裕／戸井勝海／藤田俊太郎/Jersey Boys【フランキー・ヴァリ】【ミュージカル】",
+     "channel": "石井一孝の情熱マニアchannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/-fq8P9gHcnA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_5r5-cMGFWZrelze5xelPRX3U4g"
+    },
+    {
+     "id": "jpRbH2fes4I",
+     "title": "【＃ジャージーボーイズ】＃石井一孝 の情熱観劇レビュー★ #中川晃教／#藤岡正明／#東啓介／#大山真志／#加藤潤一／#阿部裕／#戸井勝海／#川口竜也【#フランキーヴァリ】【#ミュージカル】",
+     "channel": "石井一孝の情熱マニアchannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/jpRbH2fes4I/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYfyATKB4wDw==&rs=AOn4CLBKLZhQwF1oVGgukHLd1zZXKSq4sg"
+    },
+    {
+     "id": "c32MiGQ1TU4",
+     "title": "ミュージカル『ジャージー・ボーイズ』2022年舞台映像版 PV",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/c32MiGQ1TU4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDC16jhSjE8ziXiwlyRgBRa_55Uag"
+    },
+    {
+     "id": "3Ih3b4cGKU8",
+     "title": "JERSEY BOYS Osaka Shinkabukiza 20221105 J-LOD(3) 【4K VIDEO】",
+     "channel": "新歌舞伎座 SHINKABUKIZA",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/3Ih3b4cGKU8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSCBcKGUwDw==&rs=AOn4CLC_ayzy0YRV8XlQ4b45raFghx_4Lw"
+    },
+    {
+     "id": "ecZ-mNoxAI8",
+     "title": "『JERSEY BOYS』JAPAN 2022Trailer　★★★★★",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ecZ-mNoxAI8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcIY018uVgmY7eDQaqeErO2e7NZg"
+    },
+    {
+     "id": "pakliZdcpWs",
+     "title": "『JERSEY BOYS』JAPAN 2022　大阪公演　15秒スポット映像",
+     "channel": "新歌舞伎座 SHINKABUKIZA",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/pakliZdcpWs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBM8gYtzMLx2pMFmNf7JtuK0bKgKA"
+    },
+    {
+     "id": "XK8uEh1kIVM",
+     "title": "JERSYBOYS SPOT30 tickets on sale from 9/3",
+     "channel": "博多座チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/XK8uEh1kIVM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4L_Ni6FYG14jXEsdwyNFyFMUSNw"
+    },
+    {
+     "id": "QWSKBjG6_mw",
+     "title": "『JERSEY BOYS』2022 コメント映像／中川晃教　（チームBLACK　フランキー・ヴァリ役）",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/QWSKBjG6_mw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA8KDowDw==&rs=AOn4CLBS3k5RcY2j5saYrRXs00uC-NCn3w"
+    },
+    {
+     "id": "vIkahNKrw9M",
+     "title": "『JERSEY BOYS』2022 コメント映像／藤岡正明　（チームBLACK　トミー・デヴィート役）",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/vIkahNKrw9M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAcKBUwDw==&rs=AOn4CLDNhcFnxAg8CINDH0GS4gg4yJIT5g"
+    },
+    {
+     "id": "gJMztELBKgc",
+     "title": "『JERSEY BOYS』2022 コメント映像／東啓介　（チームBLACK　ボブ・ゴーディオ役）",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/gJMztELBKgc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAhKBswDw==&rs=AOn4CLBMS2HhuA8aQs9tltRFcjSVxOU75w"
+    },
+    {
+     "id": "UUyoZY7ZgyE",
+     "title": "『JERSEY BOYS』2022 コメント映像／大山真志　（チームBLACK　ニック・マッシ役）",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/UUyoZY7ZgyE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyA8KC0wDw==&rs=AOn4CLCtga8x_Mwn7OhecSnLalwOK1VLwg"
+    },
+    {
+     "id": "V5B54irF_OY",
+     "title": "~Akita native and director Shuntaro Fujita talks~ A guide to the musical \"Jersey Boys\"",
+     "channel": "キョードー東北",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/V5B54irF_OY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr1AF47Bxpq3MKocHa6oSdMXN75Q"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KRoDY2_LPrTBItrUQZvTzHB",
+   "title": "東啓介 2013 テニミュ",
+   "videos": [
+    {
+     "id": "EnbsoErdPGc",
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 公演初日ダイジェスト映像!!",
+     "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/EnbsoErdPGc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYPSBlKDowDw==&rs=AOn4CLB2NTE7k-5iP1qu2evw8h0tA6e6wg"
+    },
+    {
+     "id": "O1qwx9YeEGI",
+     "title": "Musical \"The Prince of Tennis\" National Tournament Seigaku vs Rikkai performance first day digest...",
+     "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/O1qwx9YeEGI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYNiBYKH8wDw==&rs=AOn4CLBQxGaFtiaYUtSaQy7gWRmGjpEwvg"
+    },
+    {
+     "id": "pJ8WM6ZjB0M",
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 四天宝寺スペシャル映像！",
+     "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/pJ8WM6ZjB0M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYciBOKCwwDw==&rs=AOn4CLBUttQVm7CrVbOyZw37EB-K6vaPLg"
+    },
+    {
+     "id": "JSw3CZ6T6ro",
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 DVD CM",
+     "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/JSw3CZ6T6ro/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZJnrk3t8h7MEbB4hQ9Vj2_uVnfQ"
+    },
+    {
+     "id": "mZBvO3s39nA",
+     "title": "Musical \"The Prince of Tennis\" DVD PV COLLECTION vol.3 CM video",
+     "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/mZBvO3s39nA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBWKFkwDw==&rs=AOn4CLA5nVRhRlOUytDFXzhzUAPWc8f2Vw"
+    },
+    {
+     "id": "q6VF3dN7VgU",
+     "title": "ミュージカル『テニスの王子様』コンサート Dream Live 2014",
+     "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/q6VF3dN7VgU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdAGgALeA4oCDAgAEAEYZSBTKEgwDw==&rs=AOn4CLCCCFnIx2lvAhBoj6x1IrrIF5bH1A"
+    },
+    {
+     "id": "ZIOD5qnM7Do",
+     "title": "Musical \"The Prince of Tennis\" Spring Athletic Meet 2014 DVD Commercial",
+     "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ZIOD5qnM7Do/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBUKE8wDw==&rs=AOn4CLDRVb7FJ-wTagFXbaQgZboSy15KxQ"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KTQM0LLHCbaTEEeuRsjub-K",
+   "title": "東啓介 2023 ラグタイム",
+   "videos": [
+    {
+     "id": "F7rOBM2W63c",
+     "title": "ミュージカル『ラグタイム』舞台映像版PV",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/F7rOBM2W63c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJlO8Y7BHnv4UXWBTjmtaMVy8OWA"
+    },
+    {
+     "id": "E8Y1uiiUF_E",
+     "title": "ミュージカル『ラグタイム』ゲネプロ 石丸幹二 井上芳雄 安蘭けい  遥海 川口竜也 東啓介 EXILE NESMITH",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/E8Y1uiiUF_E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASWMpPOP9FX_Hh-CiJldNuFl1ZGg"
+    },
+    {
+     "id": "BV6956LaS-M",
+     "title": "石丸幹二＆井上芳雄＆安蘭けいが熱演！ ミュージカル「ラグタイム」公開ゲネプロ（RAGTIME／石丸幹二 井上芳雄 安蘭けい ＥＸＩＬＥ ＮＥＳＭＩＴＨ 遥海 東啓介 綺咲愛里）",
+     "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/BV6956LaS-M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8zbwAoGvvfWGvovD_3OZWRmJ-Yg"
+    },
+    {
+     "id": "vYtbI_wPC2k",
+     "title": "ミュージカル『ラグタイム』公開稽古 石丸幹二 井上芳雄 安蘭けい2023/8/23",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/vYtbI_wPC2k/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYVSBeKGUwDw==&rs=AOn4CLB2Ii160nOKqlHyBqzQaNdXf7QrCw"
+    },
+    {
+     "id": "CbmMXDMzr4k",
+     "title": "【白熱！公開稽古】THE MUSICAL「RAGTIME(ラグタイム)」石丸幹二＆井上芳雄＆安蘭けい＆遥海が劇中歌を披露！",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/CbmMXDMzr4k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHLd2EQ5crxlbCEinF-5lVta34vg"
+    },
+    {
+     "id": "1k0UY_4Ad0w",
+     "title": "【貴重】石丸幹二＆井上芳雄＆安蘭けい、ミュージカル「ラグタイム」公開稽古で熱唱！（石丸幹二 井上芳雄 安蘭けい 遥海 川口竜也 東啓介 土井ケイト 館形比呂一 畠中洋 EXILE NESMITH）",
+     "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/1k0UY_4Ad0w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOj8VyGf167WZexFd_b23U9R2fzA"
+    },
+    {
+     "id": "BkLlGlkBQws",
+     "title": "ミュージカル『ラグタイム』Behind the Scenes 動画",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/BkLlGlkBQws/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0sLr7_eX0tLYoqo6LOgNurcRJ6A"
+    },
+    {
+     "id": "LrkhLv8z3ZY",
+     "title": "ミュージカル『ラグタイム』稽古場映像ダイジェスト",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/LrkhLv8z3ZY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCFquNlWu7Pj1Iof-MkRr7k8DCDg"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KTtUffbLn0TvtBrTHA8T8Pd",
+   "title": "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか",
+   "videos": [
+    {
+     "id": "Lw3yMhOmE-c",
+     "title": "『映画  おっパン』本編冒頭映像解禁【絶賛公開！】",
+     "channel": "ギャガ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Lw3yMhOmE-c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLACWHhYTN14h4du80G35p2IfOe1EQ"
+    },
+    {
+     "id": "15vv317-0ow",
+     "title": "\"Oppan the Movie\" official trailer opens nationwide on Friday, July 4th!",
+     "channel": "ギャガ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/15vv317-0ow/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7CsMVeFX-qcFKn0ncyaEDjZ3Krg"
+    },
+    {
+     "id": "K43A_Euy30w",
+     "title": "『映画  おっパン』ショート予告  7/4（金）全国ロードショー！",
+     "channel": "ギャガ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/K43A_Euy30w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDtbP-MjeRCu9TDzIfCzTjk3w5O4Q"
+    },
+    {
+     "id": "V-5VydFvkOo",
+     "title": "\"Whatever the old man's underwear is! Special\" will be broadcast on Saturday, June 28th at 11:40p...",
+     "channel": "東海テレビ 公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/V-5VydFvkOo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDuyJdVvGgW6gkCqybNWcYO4J9dCA"
+    },
+    {
+     "id": "KxeudWn9KZQ",
+     "title": "Opening footage of the film and character introduction footage! Opening footage of the film \"What...",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/KxeudWn9KZQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpibA7NURKiUsmqij3xWSjp_xftg"
+    },
+    {
+     "id": "NJuQcqoxBxk",
+     "title": "【おっパン】中島颯太、“円先輩”東啓介とのデート現場を目撃されパニック「どういう状況？」　『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "channel": "oricon",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/NJuQcqoxBxk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHGIIItW6qsN_JhhFHHvwQ4AgGDw"
+    },
+    {
+     "id": "fVfE_apEhpo",
+     "title": "『映画  おっパン』舞台挨拶ダイジェスト&メイキング映像解禁【絶賛公開！】",
+     "channel": "ギャガ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/fVfE_apEhpo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8w1n03HKSNIWVpXgqYzmUTiROkg"
+    },
+    {
+     "id": "pqYg8t4cFQk",
+     "title": "\"The Movie: Oppai\" - This will tell you everything you need to know about Oppai! Special video - ...",
+     "channel": "ギャガ公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/pqYg8t4cFQk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBg2zgyACzACbCjdVFg5eqgksgAUQ"
+    },
+    {
+     "id": "5ArkZQN9kb4",
+     "title": "【映画おっパン】 “誠”原田泰造が1年前に逆戻り！？『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像が解禁！",
+     "channel": "oricon",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/5ArkZQN9kb4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0W7Ijgpfa-HeMe-7f4vs6JyyNhg"
+    },
+    {
+     "id": "takIM5eYh4w",
+     "title": "中島颯太＆原田泰造、食卓で繰り広げられる波乱のやり取りにハラハラ…! 『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像",
+     "channel": "ザテレビジョン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/takIM5eYh4w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDr3itWciwolEtdcBT45wNJMVJQ1A"
+    },
+    {
+     "id": "rgGl1ak28fA",
+     "title": "FANTASTICS' Nakajima Sota is spotted on a date with \"that person\" at the stage greeting to commem...",
+     "channel": "シネマトゥデイ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/rgGl1ak28fA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgPD2b8v8tqlsJ5kcsY9MsgzQ41g"
+    },
+    {
+     "id": "AE4ikpdzmdE",
+     "title": "FANTASTICS' Nakajima Sota encounters a viewer while walking with Yen-senpai, \"What's the situatio...",
+     "channel": "マイナビニュース【エンタメ・ホビー】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/AE4ikpdzmdE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6-BwHaVWOuUtxO4rtHXcTYwSRgQ"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KRWE7_cG34yYGp-PyI-o7AQ",
+   "title": "東啓介 2025 ぼくとぼくが好きな彼と、君と。",
+   "videos": [
+    {
+     "id": "PadjmtzQjG8",
+     "title": "運命感じだことありますか？？#ぼく彼 #bumpドラマ #三角関係 #ショートドラマ",
+     "channel": "ショートドラマ【BUMP】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/PadjmtzQjG8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYSSBlKFYwDw==&rs=AOn4CLAmqKnijEMcVnrpdutY_SO81Y1W3A"
+    },
+    {
+     "id": "m22O3yV7XqM",
+     "title": "運命の人は彼女と修羅場中でした...『ぼくとぼくが好きな彼と、君と。』1話 #ぼく彼 #bumpドラマ #恋愛 #ショートドラマ",
+     "channel": "BUMPドラマ【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/m22O3yV7XqM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUhMn-Owy26OTmd5FpxzDSp599Yg"
+    },
+    {
+     "id": "_HJrqdA820s",
+     "title": "運命の人と一つ屋根の下で住むことになり...『ぼくとぼくが好きな彼と、君と。』2話 #ぼく彼 #bumpドラマ #同居生活 #ショートドラマ",
+     "channel": "BUMPドラマ【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/_HJrqdA820s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMCCwCeuWBNc4VrtHTNwHA33ugTA"
+    },
+    {
+     "id": "wBkmtgIUfK4",
+     "title": "一つ屋根の下、何かが始まる予感... 『ぼくとぼくが好きな彼と、君と。』3話#ぼく彼 #bumpドラマ #同居生活 #ショートドラマ",
+     "channel": "BUMPドラマ【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/wBkmtgIUfK4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVwN_IF-ELCW2MGrmOUkwdiK5OSA"
+    },
+    {
+     "id": "4lD8P1_VE8w",
+     "title": "全ての始まりはここからでした... #ぼく彼 #bumpドラマ #三角関係",
+     "channel": "BUMPドラマ【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/4lD8P1_VE8w/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKEMwDw==&rs=AOn4CLA-f6LEMKnvmUFTPjuYSXUqr66BtQ"
+    },
+    {
+     "id": "Tre7NfVFk6o",
+     "title": "「胃袋を掴む」は恋愛の教科書１ページ目... #ぼく彼 #bumpドラマ #三角関係",
+     "channel": "BUMPドラマ【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Tre7NfVFk6o/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBfKFcwDw==&rs=AOn4CLD1mbVXV3qdX3C6aG2_2KFBztq5Gw"
+    },
+    {
+     "id": "yTUc2Nb5F20",
+     "title": "スキンシップでアピしたらやり返されました... #ぼく彼 #bumpドラマ #三角関係",
+     "channel": "BUMP切り抜き【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/yTUc2Nb5F20/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBTKDswDw==&rs=AOn4CLBKLFcTsqUXE44cwgAunxoWT3-YAQ"
+    },
+    {
+     "id": "tp-RX8Qxm24",
+     "title": "恋はいつも突然やってくる... #ぼく彼 #bumpドラマ #三角関係",
+     "channel": "BUMP切り抜き【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/tp-RX8Qxm24/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYTiBlKF0wDw==&rs=AOn4CLDUQXT2dSBW8MDs95cdR_u1li_4VQ"
+    },
+    {
+     "id": "YWnAgZOkUcU",
+     "title": "『彼女に浮気されて、しかもキレられました』 #ぼくとぼくが好きな彼と君と 続きは. #DMMTV アプリから！ #DMMショート #ぼく彼 #ショートドラマ #恋愛 #浮気 #仕事中毒 #逆ギレ",
+     "channel": "【DMMショート】切り抜き",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/YWnAgZOkUcU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBWKDowDw==&rs=AOn4CLCSHs2oOPV1gMmLxJUkx9qNV8otvw"
+    },
+    {
+     "id": "u9bAu_dq5MU",
+     "title": "『入った喫茶店がまさかの修羅場』 #ぼくとぼくが好きな彼と君と 全話視聴は #DMMTV アプリから！ #DMMショート #ぼく彼 #ショートドラマ #恋愛 #喧嘩 #修羅場",
+     "channel": "【DMMショート】切り抜き",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/u9bAu_dq5MU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKD8wDw==&rs=AOn4CLDssY55QlN9CiQ2CYPZQPC1o9zmzw"
+    },
+    {
+     "id": "mpHpquev-K4",
+     "title": "『好きなオトコの落とし方教えます』#ぼくとぼくが好きな彼と君と 続きは #DMMTV アプリから！#DMMショート #ぼく彼 #ショートドラマ #胃袋 #料理 #シェアハウス",
+     "channel": "【DMMショート】切り抜き",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/mpHpquev-K4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBbKEMwDw==&rs=AOn4CLAPwnHEhrlonJD9juYmNrmb7phCXw"
+    },
+    {
+     "id": "u-wGHXXntMg",
+     "title": "『男を連れ込むイケメン同居人 』 #ぼくとぼくが好きな彼と君と 全話視聴は #DMMTV アプリから🎬 #DMMショート #ぼく彼 #ショートドラマ #イケメン #BL",
+     "channel": "【DMMショート】切り抜き",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/u-wGHXXntMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBYKEMwDw==&rs=AOn4CLB7eiCDeemlDtp8kxHcnKmin8-hkg"
+    },
+    {
+     "id": "ihE7Vx7tjSE",
+     "title": "男3人の部屋で三角関係になりました... #ぼく彼 #bumpドラマ #三角関係",
+     "channel": "BUMPドラマ【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ihE7Vx7tjSE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKDUwDw==&rs=AOn4CLCXintk68S8Cf-QgOULtZWmrgAdcw"
+    },
+    {
+     "id": "_4RacP-OtSg",
+     "title": "『断られる覚悟で告白した結果は...？ 』 #ぼくとぼくが好きな彼と君と 全話視聴は #DMMTV アプリから🎬 #DMMショート #ぼく彼 #ショートドラマ #BL #告白",
+     "channel": "【DMMショート】切り抜き",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/_4RacP-OtSg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYPyBlKFwwDw==&rs=AOn4CLAAh_fI4Wzu7jZUGTaP0uNYBiYYpg"
+    },
+    {
+     "id": "h4M0gPiFM30",
+     "title": "味方になってあげることで好感度爆あがり... #ぼく彼 #bumpドラマ #三角関係",
+     "channel": "BUMP切り抜き【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/h4M0gPiFM30/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKDowDw==&rs=AOn4CLAY0kTenWeIpvDFUfIN4L_wXWlOuQ"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KRv7VGdogwJ22EXUZaFisqg",
+   "title": "東啓介 2017 スカーレット・ピンパーネル",
+   "videos": [
+    {
+     "id": "D8r_YIZdwKo",
+     "title": "『スカーレット・ピンパーネル』（2017）舞台映像",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/D8r_YIZdwKo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCb7Hit-6kvfTO0hUvlWmoo8dlS3A"
+    },
+    {
+     "id": "DTE9EzwUWhs",
+     "title": "ミュージカル『スカーレット・ピンパーネル』東啓介コメント動画",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/DTE9EzwUWhs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDl-huOjGmiV5fTDQF4sD7RRV7yvQ"
+    },
+    {
+     "id": "fDn_xCRJ8w4",
+     "title": "石丸幹二・安蘭けい・石井一孝らが「スカーレット・ピンパーネル」の稽古場で劇中歌を披露！",
+     "channel": "エントレ 演劇動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/fDn_xCRJ8w4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAQ1rr9rg-F1JGWk8WEThFCIrCS6g"
+    },
+    {
+     "id": "79Tk5LgzS9M",
+     "title": "Rehearsal footage from the musical \"The Scarlet Pimpernel\"",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/79Tk5LgzS9M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAjZhXwCLY68YXvn5x37j8jhd7mEA"
+    },
+    {
+     "id": "KxfBvX3iSzU",
+     "title": "ミュージカル「スカーレット・ピンパーネル」公開稽古♪「謎～疑いのダンス」　（ノーカットフル）2017/10/04",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/KxfBvX3iSzU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAdK-3AX56QZHmaQ80B4MlaPHe8UQ"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KQJdzlJIhmceDZB0MSOrtyQ",
+   "title": "東啓介 2020 恋燃ゆる",
+   "videos": [
+    {
+     "id": "w39FfpQ5i2w",
+     "title": "恋、燃ゆる。～秋元松代作『おさんの恋』より～　ダイジェスト舞台映像",
+     "channel": "明治座公式YouTubeチャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/w39FfpQ5i2w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6PsVP0WcXQARu9lLdFoAPyIc_vQ"
+    },
+    {
+     "id": "OKH_bC0wg5Y",
+     "title": "中村橋之助、檀れいに「大好きです」（舞台　恋、燃ゆる。／檀れい　中村橋之助）",
+     "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/OKH_bC0wg5Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyavud5FT2Bk0P2AbxpPJYYcT9Hg"
+    },
+    {
+     "id": "ZhEELCTq3tM",
+     "title": "恋、燃ゆる。～秋元松代作『おさんの恋』より～　PR動画ロングバージョン",
+     "channel": "明治座公式YouTubeチャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ZhEELCTq3tM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFbcqNj6qfjcSak2CiJnCHVsJmIg"
+    },
+    {
+     "id": "4eOorayHphA",
+     "title": "恋、燃ゆる。～秋元松代作『おさんの恋』より～ 東啓介コメント動画",
+     "channel": "明治座公式YouTubeチャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/4eOorayHphA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXbbtEcSxkqxQn_AEHllnttMQtAA"
+    },
+    {
+     "id": "Hxk7GEd5F_8",
+     "title": "『恋、燃ゆる。』ライブ配信★ポスタープレゼントキャンペーンのお知らせ★",
+     "channel": "明治座公式YouTubeチャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Hxk7GEd5F_8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5ryiL_Al8ajtDGAoWOdKoxUmatA"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KQZCARxzJZga1mzGsb7aQf3",
+   "title": "東啓介 2022-2023 カメラ旅",
+   "videos": [
+    {
+     "id": "mbqWnqx_GS4",
+     "title": "The best body bag found by 190cm tall actor Keisuke Azuma in Shikoku [Keisuke Azuma's Camera Jour...",
+     "channel": "TIMELINE - タイムライン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/mbqWnqx_GS4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNkxJViU5NR-avR8-ZbaLyPIVTEw"
+    },
+    {
+     "id": "eR4WyQs5Fk8",
+     "title": "[Food terrorism] Actor Keisuke Azuma eats delicious meat soba! A famous restaurant recommended by...",
+     "channel": "TIMELINE - タイムライン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/eR4WyQs5Fk8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLZRLkDK02ySFgUEdJ8_r3ffSLUQ"
+    },
+    {
+     "id": "V4Linc0JINA",
+     "title": "[Super rare sake] Actor Keisuke Azuma goes on an unannounced trip around Kagawa and encounters ex...",
+     "channel": "TIMELINE - タイムライン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/V4Linc0JINA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDL42zCxGUYXl5IZ22ZKVbsg-aM4w"
+    },
+    {
+     "id": "h3CvVkGFxJI",
+     "title": "[Azuma Keisuke's Day Off] A day spent visiting photo spots, having a BBQ, and relaxing in the sauna.",
+     "channel": "TIMELINE - タイムライン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/h3CvVkGFxJI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAZba0QVnes3dwl8Byk5AZ0l7pZyw"
+    },
+    {
+     "id": "DG2SNGa-vVE",
+     "title": "Keisuke Higashi's \"Totonoi\" experience at a hidden sauna – check the description for details #shorts",
+     "channel": "TIMELINE - タイムライン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/DG2SNGa-vVE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyA5KC8wDw==&rs=AOn4CLDh_plX5dSOmMTEXNLl1Cgq409gww"
+    },
+    {
+     "id": "r9cN36MGX2A",
+     "title": "Higashi Keisuke rides on heavy machinery and eats clams. For details, please see the explanation.",
+     "channel": "TIMELINE - タイムライン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/r9cN36MGX2A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBhnLzSVHaopGUH-zHwabCP-gnPMQ"
+    },
+    {
+     "id": "MRrQvA_9fMg",
+     "title": "Will Keisuke Higashi eat some delicious catfish dishes? See the explanation for details.",
+     "channel": "TIMELINE - タイムライン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/MRrQvA_9fMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBSKEAwDw==&rs=AOn4CLAxrTL151JJ2zLXYive_xcXAqXnsQ"
+    },
+    {
+     "id": "f3BJWAVjrcI",
+     "title": "俳優、東啓介が鹿嶋グルメを爆食い　詳細は説明へ",
+     "channel": "TIMELINE - タイムライン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/f3BJWAVjrcI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBHKC4wDw==&rs=AOn4CLC0tceGmHMRwjcB-oSS7tUTZVdEbw"
+    },
+    {
+     "id": "u6W4OrtxgnU",
+     "title": "長身小顔のイケメン芸能人と仕事をするカバン屋社長の1日に密着！",
+     "channel": "カワニシカバンの休日",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/u6W4OrtxgnU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNhmYZGLZXjG3jGgzudF86-asB9w"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KT45NPNYu5BD1lDYe0lSf0v",
+   "title": "東啓介 2017-2018 TRUMPシリーズ",
+   "videos": [
+    {
+     "id": "AHvAQBT5Dbg",
+     "title": "TRUMPシリーズ『繭期夜会』（2018年）ダイジェスト映像！",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/AHvAQBT5Dbg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCc2j2R5ndKWowceXX0ek1kvcflFQ"
+    },
+    {
+     "id": "AH7rsvUeZN8",
+     "title": "ミュージカル「マリーゴールド」公開ゲネプロ",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/AH7rsvUeZN8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBAEyekpnk0cXLGIZP4TJuX0FH60Q"
+    },
+    {
+     "id": "TrTEDXyD8cs",
+     "title": "ミュージカル『マリーゴールド』キャストパレード",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/TrTEDXyD8cs/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYLyBBKH8wD7gC8xg=&rs=AOn4CLCSJTkVotYHaa8FxEuVB15pOsAZhA"
+    },
+    {
+     "id": "uJLU1AgHH2Y",
+     "title": "TRUMP Series Musical \"Marigold\" Press Preview | EnterStage",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/uJLU1AgHH2Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBJwhMFcbsYd2GIyMk1W1wi8KFedQ"
+    },
+    {
+     "id": "nH8f7OIAcN0",
+     "title": "ピースピット2017年本公演『グランギニョル』キャストパレード",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/nH8f7OIAcN0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYWSBMKGUwD7gC8xg=&rs=AOn4CLD71Ch-wsCAXoOv-zQ4fmat6TCZww"
+    },
+    {
+     "id": "Xpih6bICvBs",
+     "title": "【TRUMP】TRUMP series Blu-ray Revival ピースピット2017年本公演「グランギニョル」発売記念！冒頭10分を特別に公開！",
+     "channel": "ポニーキャニオンVIDEO",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Xpih6bICvBs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCmzlB1lpmegVmcYEJlPBmCnlYg9g"
+    },
+    {
+     "id": "l2fdHeJA1eE",
+     "title": "染谷俊之、三浦涼介らが紡ぐ美しき残酷劇『グランギニョル』公開ゲネプロ | エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/l2fdHeJA1eE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCaHZxKaMFvAM8EQOqhFBTKSo9qZQ"
+    },
+    {
+     "id": "Rv4bh6-iGHI",
+     "title": "「グランギニョル」公開ゲネプロ　作・演出：末満健一　出演：染谷俊之、三浦涼介",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Rv4bh6-iGHI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLD-sWHJlmCbhpErF283EEFyLID3Dw"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KRqNfbBFT0sP0Uwv__XoLzJ",
+   "title": "東啓介  番宣・インタビュー・オフショット・PR等",
+   "videos": [
+    {
+     "id": "g7DACP1iScI",
+     "title": "Actor Azuma Keisuke heads to Hachijojima! He'll be feeding milk to a farm for the first time in h...",
+     "channel": "BS-TBS公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/g7DACP1iScI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCyo4ft6oL0cfLT87QzYH8ulh2akg"
+    },
+    {
+     "id": "LSaXLZTd7GU",
+     "title": "俳優・東啓介が長野・善光寺＆渋温泉へ！イイ湯加減に思わず歌っちゃう？温泉街で卓球や射的も体験「美しい日本に出会う旅」1/31(水)夜9時",
+     "channel": "BS-TBS公式チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/LSaXLZTd7GU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCKKMBeX8RtTecUrb6R4n6yWVTmSQ"
+    },
+    {
+     "id": "Fup2SyX_OGI",
+     "title": "【東啓介】20代最後のカレンダーブック発売！📅✨右足負傷「体の維持を意識したい」",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Fup2SyX_OGI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBUHk05H3gKDtGOUD5ZGeCHt63Sig"
+    },
+    {
+     "id": "75MdBW4tZTY",
+     "title": "Keisuke Higashi 2025.04-2026.03 Calendar Book Launch Press Conference",
+     "channel": "東京ニュース通信社チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/75MdBW4tZTY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBZKFkwD7gC9xg=&rs=AOn4CLARiApx14mOVmdnvPFR6aLLpTnmFA"
+    },
+    {
+     "id": "OC7uW794590",
+     "title": "東啓介【ワタナベエンターテインメントに定点カメラ置いてみた】",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/OC7uW794590/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKEcwD7gC9xg=&rs=AOn4CLD-Jwe7IVwWvRKQDBwOiX72up2J4Q"
+    },
+    {
+     "id": "aZCETIv2Npc",
+     "title": "ミュージカル等で活躍中の東啓介、連載「D-DAYS＋Plus」Vol.200 撮影メイキング映像",
+     "channel": "DeviewOfficial",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/aZCETIv2Npc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDjnpfCH90dV_vx30ll27FO1XeNBw"
+    },
+    {
+     "id": "a2e6hRYW5yU",
+     "title": "「東啓介2024.04-2025.03カレンダーブック」発売記者会見",
+     "channel": "東京ニュース通信社チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/a2e6hRYW5yU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBeKFEwD7gC9xg=&rs=AOn4CLBRqe6skwHT66CMdw_8UBobetMXQg"
+    },
+    {
+     "id": "zDHj8O3Hi8Q",
+     "title": "ミュージカルなどで活躍中の東啓介、10月にソロコンサート第2弾を開催!!｜『デビュー』連載「D-DAYS ＋Plus」Vol.200",
+     "channel": "DeviewOfficial",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/zDHj8O3Hi8Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDmIYtlUgpPCQUfDs83mqkRbbjewQ"
+    },
+    {
+     "id": "z1OOQ-Wrbao",
+     "title": "Keisuke Higashi quips \"It's huge!\" at his own calendar book and jokes, \"Don't hang it in the bath...",
+     "channel": "MANTAN TV",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/z1OOQ-Wrbao/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAPUzLqzMzgyFQY1cGqFGTE_t3V_A"
+    },
+    {
+     "id": "6Oh66vnv84g",
+     "title": "「東啓介カレンダーブック2023.04-2024.03」発売記者会見",
+     "channel": "東京ニュース通信社チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/6Oh66vnv84g/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA5KEowD7gC9xg=&rs=AOn4CLCwDrTjDeABy-iHQiI9JsHXbCHvAA"
+    },
+    {
+     "id": "7JijCuDPnfU",
+     "title": "東啓介、今年は「キャンプに行きたい！」と熱望　「焚き火とバーベキューがあればいい」",
+     "channel": "MANTAN TV",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/7JijCuDPnfU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCR52cOFR2JH2olhos3C2HFBxLxxg"
+    },
+    {
+     "id": "-b6HRNyMBSU",
+     "title": "「#ノンフィクションズ」× 東啓介さん",
+     "channel": "Da-iCE Official YouTube Channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/-b6HRNyMBSU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwD7gC9xg=&rs=AOn4CLAG9x2_Wj0XmFAL-2tf8zj4Y8h_kg"
+    },
+    {
+     "id": "4g79pBZNHDk",
+     "title": "東啓介さん、芸能活動10年目を迎え初のバースデーライブ♪７月１４日（金）・１５日（土）に開催決定！！（2023年4月11日撮影）",
+     "channel": "マチソワ Channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/4g79pBZNHDk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLB8s8oE3v22yoRQZ2cFe2KkaiTDlQ"
+    },
+    {
+     "id": "QJuXEN12tJI",
+     "title": "【PR】東啓介×加藤大悟 ▷Musical shoW「WE ARE MUSIC」で初共演するのお二人のわちゃわちゃトーク必見！",
+     "channel": "マチソワ Channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/QJuXEN12tJI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDkpEjbJwZ9YwBrpDADGaRpWOfdSg"
+    },
+    {
+     "id": "ai6SEmeE9lg",
+     "title": "写真ライフ130秋号【CAMERA LIFE】東 啓介さん",
+     "channel": "フォトコン編集部",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ai6SEmeE9lg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAoM_HF7u4fAfr5wuk_YUT1Soa3Zw"
+    },
+    {
+     "id": "JjCFokZKmIg",
+     "title": "\"Delusional Heart-Pounding ♡ Theater RETURNS\" Special Movie #4 \"Stay Innocent Forever\" A passiona...",
+     "channel": "CanCam",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/JjCFokZKmIg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLA6eeS4R6iGhkjjGLN8H3SDYt5w9Q"
+    },
+    {
+     "id": "qQZglL0gS6Q",
+     "title": "『ウチカレ』で話題・東啓介、「写真集を最初に見せたのは…」 写真集『何色』発売記念独占インタビュー",
+     "channel": "ザテレビジョン",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/qQZglL0gS6Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLApWda21DgwVjGNOF3Od1fyhywF-A"
+    },
+    {
+     "id": "9nsfPqZlbyU",
+     "title": "東啓介、2022年の飛躍誓う「もっと知ってもらえるように」　1月期連続ドラマ「ファイトソング」出演も　“お正月スペシャルメッセージ”",
+     "channel": "MANTAN TV",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/9nsfPqZlbyU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLC183K40eMwgRJCj4OPvY3Jy8OPsw"
+    },
+    {
+     "id": "8SFh8VbX8Rs",
+     "title": "Keisuke Higashi talks about his role in the drama \"Fight Song,\" his commitment to the look with \"...",
+     "channel": "MANTAN TV",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/8SFh8VbX8Rs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBmj2ygTN8KCBZAZ_KI9-W9g5Qzsw"
+    },
+    {
+     "id": "H4PR-TNvs2A",
+     "title": "【待ちそわコメント】＃３ 東 啓介",
+     "channel": "マチソワ Channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/H4PR-TNvs2A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAwifQ8DB_vL3getIOWasUBOLlvvQ"
+    },
+    {
+     "id": "_0XZ9yFswhQ",
+     "title": "『ウチの娘は、彼氏が出来ない!!』イケメン整体師で話題の東啓介、ドラマの見どころを語る",
+     "channel": "DeviewOfficial",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/_0XZ9yFswhQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCgYW2f_wcjLW6roE1hRg-BW2J6sA"
+    },
+    {
+     "id": "K2b9XXw6bpA",
+     "title": "【TVガイドStage Stars vol.1】東啓介　グラビアメイキング",
+     "channel": "東京ニュース通信社チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/K2b9XXw6bpA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBQdVP6x0V9ZKn25nXlA79VkNG6mA"
+    },
+    {
+     "id": "oHksN3f31_o",
+     "title": "Keisuke Higashi \"Touken Ranbu: The Stage\" Special Comment | girlswalker",
+     "channel": "TOKYO GIRLS COLLECTION",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/oHksN3f31_o/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBYKCwwD7gC9xg=&rs=AOn4CLCX4DAyynAua4aCueAhVRR881iJkA"
+    },
+    {
+     "id": "OYEvOfoTYmo",
+     "title": "【あさステ！】公式ファンブックのメイキング映像をチラ見せ！",
+     "channel": "文化放送",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/OYEvOfoTYmo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLApMKvEzKJVwI9pXBeXCLJLKlifMw"
+    },
+    {
+     "id": "EhumaPqcLd8",
+     "title": "「2.5次元俳優」東啓介が初写真集",
+     "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/EhumaPqcLd8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLA9dMBjmXn0C1t7jftjF58Xc1jRYQ"
+    },
+    {
+     "id": "MQAQBY_5bdE",
+     "title": "Watanabe Entertainment to Hold \"2.5D Star Audition\"! Shuto Miyazaki & Keisuke Higashi Discuss the...",
+     "channel": "DeviewOfficial",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/MQAQBY_5bdE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBXKEgwD7gC9xg=&rs=AOn4CLA9hVl-HvUX0P_P7S4ad00ZS3_K5A"
+    },
+    {
+     "id": "vqQzvMpJneA",
+     "title": "東啓介、有澤樟太郎、甲斐翔真、松下優也ら新キャストが挑む！ブロードウェイミュージカル「キンキーブーツ」開幕",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/vqQzvMpJneA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLB8QTftPX17pWERCmIVn3615tL_KQ"
+    },
+    {
+     "id": "jn_8qnQvReQ",
+     "title": "キンキーブーツ2025 #anan撮影ビハインド！ 東啓介さん、有澤樟太郎さん、甲斐翔真さん、松下優也さん",
+     "channel": "anan",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/jn_8qnQvReQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwD7gC9xg=&rs=AOn4CLA4ohvOmM17J4-FB2e-P8-N61u2Iw"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KS_CkwMHfPSaTFXCk9ny1jK",
+   "title": "東啓介 2018 5DAYS",
+   "videos": [
+    {
+     "id": "n5xS0TZwhSE",
+     "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』公開ゲネプロ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/n5xS0TZwhSE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9HxJCR5rjl75VuNk2AQTMpbnzNw"
+    },
+    {
+     "id": "_cCeqwBZ4J0",
+     "title": "「5DAYS　辺境のロミオとジュリエット」公開ゲネプロ",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/_cCeqwBZ4J0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBY53IxHFo7Z0C8_95u1K-bmVNCEQ"
+    },
+    {
+     "id": "2_UkRy2fOQw",
+     "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』稽古場ダイジェスト | エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/2_UkRy2fOQw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUxXg37tN90TaQ_mySpY5zUgf0qg"
+    },
+    {
+     "id": "bUE0UERDYMM",
+     "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』【東啓介】コメント動画",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/bUE0UERDYMM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSIhWLnTbYtZXjipU1W9NbEIjYMA"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KTL5MVWtzbR245pJ5MrS93q",
+   "title": "東啓介 2023 二次会のひとたち",
+   "videos": [
+    {
+     "id": "rZ2KYmNEqw4",
+     "title": "【plus a限定】東 啓介さんへ一問一答！舞台『二次会のひとたち』",
+     "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/rZ2KYmNEqw4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAx3YnQy6bliiB-ERFnn2myWB4Fag"
+    },
+    {
+     "id": "kdBhr7ock2k",
+     "title": "舞台『二次会のひとたち』ダイジェスト映像",
+     "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/kdBhr7ock2k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCj-OvMm6fPPuFtoZjUYZTULNe0Mw"
+    },
+    {
+     "id": "Yolag2Vh-7k",
+     "title": "舞台『二次会のひとたち』稽古場映像",
+     "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Yolag2Vh-7k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3rCMV_3MyxgjhGwyg6YURza6zQg"
+    },
+    {
+     "id": "_LyUckxlhAo",
+     "title": "二次会のひとたち コメント映像／東 啓介",
+     "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/_LyUckxlhAo/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBTKEIwDw==&rs=AOn4CLCZ-SdTCSeBTROZxwKJyLj83VjMDQ"
+    },
+    {
+     "id": "ID3qJ-zoXh4",
+     "title": "【plus a限定】舞台『二次会のひとたち』建て込み映像",
+     "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ID3qJ-zoXh4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5-ciGYwOv7PX8cxnregQiwNBwmA"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KRgyLUb3ZkPcqa3Luo9bYok",
+   "title": "東啓介 歌",
+   "videos": [
+    {
+     "id": "2YS9y8jsdmQ",
+     "title": "『NOT MY FATHER’S SON』from Kinky Boots -SPECIAL MUSIC VIDEO-",
+     "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/2YS9y8jsdmQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHyRzXhj4-3WMzCNI699uMCAChyQ"
+    },
+    {
+     "id": "boRc5-hnsMg",
+     "title": "東啓介1st Musical Concert「A NEW ME」",
+     "channel": "watanabe",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/boRc5-hnsMg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAU1qZUAY9V1X5lV6YxNUqQfLnlsQ"
+    },
+    {
+     "id": "eBFFewdNJWM",
+     "title": "New Musical『Color of Life』東啓介レコーディング映像",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/eBFFewdNJWM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvcgnLN5qw1qb5EYb_qhMzHhUk3A"
+    },
+    {
+     "id": "GF7l8BRFRh4",
+     "title": "東啓介『こえ』",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/GF7l8BRFRh4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_gf3oNTHWXowJ_v223CEdd53tkQ"
+    },
+    {
+     "id": "yi86HdzfGjk",
+     "title": "【東啓介】香水",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/yi86HdzfGjk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDz2v0JZFwj9bVOffPM031EiGhbfg"
+    },
+    {
+     "id": "dAKVfOzqyKY",
+     "title": "『キンキーブーツ』ゲネプロ 東啓介＆甲斐翔真＆田村芽実 2025/4/26",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/dAKVfOzqyKY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxPdANQjzxzFsM4OCpGNlRZzsGkw"
+    },
+    {
+     "id": "7Pppy7NLDl4",
+     "title": "BWミュージカル『キンキーブーツ』公開ゲネプロ（Ｗキャスト：甲斐翔真、東啓介、田村芽実 ver.）",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/7Pppy7NLDl4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4PKVor9rMsbitNRO4JNhXsbWV9w"
+    },
+    {
+     "id": "Azla2mQbVsM",
+     "title": "甲斐翔真演じるローラが「キンキーブーツ」の世界にいざなう",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Azla2mQbVsM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBowDw==&rs=AOn4CLDK77grzpM-Ks7TwqbT6g-qUDKMmQ"
+    },
+    {
+     "id": "sjxrg7zV0Z8",
+     "title": "東啓介、甲斐翔真ら新キャストが“本当の自分を探し求めるあなた”に寄り添う「キンキーブーツ」幕開け",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/sjxrg7zV0Z8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYWSAvKH8wDw==&rs=AOn4CLAmhnfm1hnStcbZDfq2gas9b5JrMw"
+    },
+    {
+     "id": "g3Q5cflEb1w",
+     "title": "BWミュージカル『キンキーブーツ』より「Everybody Say Yeah／～みんなでYEAH！～」（Ｗキャスト：甲斐翔真、東啓介、田村芽実） #キンキーブーツ #shorts",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/g3Q5cflEb1w/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBMwDw==&rs=AOn4CLBexfe2bCdP_bMAQZW16x32g99mjA"
+    },
+    {
+     "id": "F1t-a8s_KFk",
+     "title": "『キンキーブーツ』ゲネプロ「Raise You Up/~上げたげる~、Just Be/ただなりなさい」#shorts",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/F1t-a8s_KFk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYESBlKHIwDw==&rs=AOn4CLCE71x52_jCtfYrHcegBDUdkR6vdA"
+    },
+    {
+     "id": "h56RzZv3WBg",
+     "title": "ミュージカル『VIOLET』舞台映像ダイジェスト（ロングVer.）",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/h56RzZv3WBg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjDUfDXz4tiXBLVWnR0PvkFNNmiQ"
+    },
+    {
+     "id": "w9GeneGePig",
+     "title": "Musical “VIOLET” (2024) [Toko Miura ver.] public performance!",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/w9GeneGePig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ9q8gJfxiY06OFhr9JNSZ6kqV_Q"
+    },
+    {
+     "id": "pUa4IpJkhhY",
+     "title": "Musical “VIOLET” (2024) [Tomona Yabiku ver.] public performance!",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/pUa4IpJkhhY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3IuAKU_-40e7x9_IgHdREMk46yg"
+    },
+    {
+     "id": "Lw3wJWc6dF4",
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Lw3wJWc6dF4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBTKEAwDw==&rs=AOn4CLCChueESsV5BZxXeNxRf2Xw5kxNgw"
+    },
+    {
+     "id": "2I5VWOQ8Nfk",
+     "title": "TOHO MUSICAL LAB.『DESK』プロモーションビデオ",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/2I5VWOQ8Nfk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSdNtitAalX-k19PO4xRq7bUfhYQ"
+    },
+    {
+     "id": "AHvAQBT5Dbg",
+     "title": "TRUMPシリーズ『繭期夜会』（2018年）ダイジェスト映像！",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/AHvAQBT5Dbg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCiyWRBuSwaM7pWtLR-FIa1emAoEA"
+    },
+    {
+     "id": "Sf9TNXynoPw",
+     "title": "【WE25th】 ジャパニーズ・スタンダード・メドレー #4",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Sf9TNXynoPw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYHSAkKH8wDw==&rs=AOn4CLCaHGyVv0jl5d6I2rNzhVx6UugGig"
+    },
+    {
+     "id": "O_ak89qKSyM",
+     "title": "♪桜坂♪ 東啓介  | 【WE25th】",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/O_ak89qKSyM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLDTzwXDA1-V8yVpPfleBz2Zdx3cHA"
+    },
+    {
+     "id": "5nguS_2JsXI",
+     "title": "平間壮一、Micro（Def Tech）、東啓介、田村芽実ら出演！ミュージカル『IN THE HEIGHTS イン・ザ・ハイツ』ダイジェスト│エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/5nguS_2JsXI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAr3MDDV-5QM-YAOlku3fnhDclSkQ"
+    },
+    {
+     "id": "AH7rsvUeZN8",
+     "title": "ミュージカル「マリーゴールド」公開ゲネプロ",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/AH7rsvUeZN8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBb5WhDzNezZwlrktdb_CIyyYo_Ww"
+    },
+    {
+     "id": "uJLU1AgHH2Y",
+     "title": "TRUMP Series Musical \"Marigold\" Press Preview | EnterStage",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/uJLU1AgHH2Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2oYxo7msDtdLa6nFf1tB0iWzCqg"
+    },
+    {
+     "id": "fqUcGg5xT4c",
+     "title": "Musical \"Mata Hari\" 2021 performance_stage footage June-July performances in Tokyo, Aichi, and Os...",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/fqUcGg5xT4c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANJKQOtIhyIfl-0vvmGS5hrYiJHw"
+    },
+    {
+     "id": "E8Y1uiiUF_E",
+     "title": "ミュージカル『ラグタイム』ゲネプロ 石丸幹二 井上芳雄 安蘭けい  遥海 川口竜也 東啓介 EXILE NESMITH",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/E8Y1uiiUF_E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASWMpPOP9FX_Hh-CiJldNuFl1ZGg"
+    },
+    {
+     "id": "BLR72K5lvms",
+     "title": "Tanz der Vampire JAPAN 2019 Official Trailer",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/BLR72K5lvms/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2DEKwPJqXPQb9zumUpo7rhfXWFg"
+    },
+    {
+     "id": "8cO4fKsS01o",
+     "title": "ミュージカル『ダンス オブ ヴァンパイア』公開ゲネプロ（映像：東宝提供）| エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/8cO4fKsS01o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZm5QdgBWvICnLTa-eNYADCW5OCw"
+    },
+    {
+     "id": "I4PP0wUqiJQ",
+     "title": "『WDTW』ダイジェスト舞台映像",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/I4PP0wUqiJQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTXc9tIhcpHzUcBeeN5Ugyj3Vv8w"
+    },
+    {
+     "id": "DJT4IpjD1Kk",
+     "title": "マルシアの生声ライブ／「罪な遊び」マルシア×東啓介",
+     "channel": "マルシアYouTube",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/DJT4IpjD1Kk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCJsiwt95G_8CDAlJkPXksT5bZQTQ"
+    },
+    {
+     "id": "usrWktwD9oI",
+     "title": "かずこらぼ 1 〜東啓介〜",
+     "channel": "KAZUKI KATO official channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/usrWktwD9oI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAK4CIoCDAgAEAEYZSBSKE8wDw==&rs=AOn4CLC80ZMN7XX3D0vY8GVqoasoPVcjzg"
+    },
+    {
+     "id": "lLonV9TewBQ",
+     "title": "マルシア Debut 30th Anniversary Kick Off Live～私はどうしてここに？～ ＃2 番組予告",
+     "channel": "歌謡ポップスチャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/lLonV9TewBQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYy6CvteCr2vcYGKB41FOHz_nflQ"
+    },
+    {
+     "id": "jkMwyyx94uM",
+     "title": "A sneak peek at the public dress rehearsal of \"Club SLAZY-Another world-\" starring Oyama Masashi,...",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/jkMwyyx94uM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBFhyHWORKV20dqjkuPGm6tc1gMnQ"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KROcx_0RKrc_VEgyMaG5NcF",
+   "title": "JBB 2023-2024",
+   "videos": [],
+   "error": "未解析到公开视频条目"
+  },
+  {
+   "id": "PLIy6KwjpV9KTCLpwUHlTp5wQCFPRvAbfP",
+   "title": "東啓介 2024 VIOLET",
+   "videos": [
+    {
+     "id": "85s5o1uEViI",
+     "title": "ミュージカル『VIOLET』舞台映像ダイジェスト",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/85s5o1uEViI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0s2bVlJMs3JrzakLA1x764uM67w"
+    },
+    {
+     "id": "h56RzZv3WBg",
+     "title": "ミュージカル『VIOLET』舞台映像ダイジェスト（ロングVer.）",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/h56RzZv3WBg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjDUfDXz4tiXBLVWnR0PvkFNNmiQ"
+    },
+    {
+     "id": "WQ3A8Sg6VsA",
+     "title": "ミュージカル『VIOLET』 制作発表記者会見より",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/WQ3A8Sg6VsA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyBEKCUwDw==&rs=AOn4CLA3UlDIu_J6kuYVTFz88qnmC1DgIg"
+    },
+    {
+     "id": "w9GeneGePig",
+     "title": "Musical “VIOLET” (2024) [Toko Miura ver.] public performance!",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/w9GeneGePig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ9q8gJfxiY06OFhr9JNSZ6kqV_Q"
+    },
+    {
+     "id": "pUa4IpJkhhY",
+     "title": "Musical “VIOLET” (2024) [Tomona Yabiku ver.] public performance!",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/pUa4IpJkhhY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3IuAKU_-40e7x9_IgHdREMk46yg"
+    },
+    {
+     "id": "13i8Pn8u9nA",
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら出演！ミュージカル『VIOLET』明日開幕 #violet #ミュージカル",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/13i8Pn8u9nA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBdKEYwDw==&rs=AOn4CLCcA8kxNbrWWhHnpblc2UoIA0g30A"
+    },
+    {
+     "id": "Lw3wJWc6dF4",
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Lw3wJWc6dF4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBTKEAwDw==&rs=AOn4CLCChueESsV5BZxXeNxRf2Xw5kxNgw"
+    },
+    {
+     "id": "ZHlwiMQSyzY",
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ZHlwiMQSyzY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvE3KSMc_8xg40qF58ZA3n5HnNTw"
+    },
+    {
+     "id": "2kibUUITmvU",
+     "title": "ミュージカル『VIOLET』歌唱披露 ”♪マイウェイ”2024/3/8",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/2kibUUITmvU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDH-eQ1-hjV9nRNZVbbapoHATYoFg"
+    },
+    {
+     "id": "dqU2e4FTdS8",
+     "title": "三浦透子＆屋比久知奈、ミュージカル「ＶＩＯＬＥＴ」劇中曲を披露（VIOLET／藤田俊太郎 三浦透子 屋比久知奈 東啓介 立石俊樹 sara 若林星弥 森山大輔 谷口ゆうな 樹里咲穂 原田優一 spi）",
+     "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/dqU2e4FTdS8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2vNem6zWV0X2GX9hdLYpxaav4tA"
+    },
+    {
+     "id": "Dfj3wDzTh84",
+     "title": "ミュージカル『VIOLET』制作発表記者会見 三浦透子 屋比久知奈 東啓介 立石俊樹 sara 若林星弥 森山大輔 谷口ゆうな 樹里咲穂 原田優一 spi  生田志守葉 嘉村咲良 水谷優月",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Dfj3wDzTh84/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSpfYq1mGVQqEIeKUlwyOFlQYhhg"
+    },
+    {
+     "id": "l2iD6-jBkvY",
+     "title": "三浦透子、屋比久知奈の新しいヴァイオレットに期待！ミュージカル『VIOLET』制作発表 完全版｜#エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/l2iD6-jBkvY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIjyVkjyi27Gxxo9H43JpNUM15-Q"
+    },
+    {
+     "id": "WodsnL6O_hY",
+     "title": "ミュージカル『VIOLET』制作発表より",
+     "channel": "アイデアニュース チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/WodsnL6O_hY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGL1YUWi83_sgZRzcS295sKQLDPg"
+    },
+    {
+     "id": "favz9_CZYYY",
+     "title": "Musical \"VIOLET\" Keisuke Higashi Comment",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/favz9_CZYYY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA8KD4wDw==&rs=AOn4CLDLfWXxNy5qf8jZNLQljQARyXzhVA"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KTQ8_KBHMUFNS0x7ZX_nfxn",
+   "title": "東啓介 2018・2021 マタ・ハリ",
+   "videos": [
+    {
+     "id": "MBGoy56Zzuk",
+     "title": "ミュージカル『マタ・ハリ』稽古場ダイジェスト動画",
+     "channel": "ローチケチャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/MBGoy56Zzuk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYaSBpKGkwDw==&rs=AOn4CLBZbkpX_hMODdJVGUOSP95IXiUXiw"
+    },
+    {
+     "id": "fqUcGg5xT4c",
+     "title": "Musical \"Mata Hari\" 2021 performance_stage footage June-July performances in Tokyo, Aichi, and Os...",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/fqUcGg5xT4c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANJKQOtIhyIfl-0vvmGS5hrYiJHw"
+    },
+    {
+     "id": "bqZBXtNTkFg",
+     "title": "柚希礼音・愛希れいかW主演でマタ・ハリを熱演！ミュージカル「マタ・ハリ」ゲネプロ",
+     "channel": "AMUSE Official Channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/bqZBXtNTkFg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXGxF77KzlgDiJgLpOdBVzeNqPLA"
+    },
+    {
+     "id": "C1EF-8m-Uv8",
+     "title": "ミュージカル「マタ・ハリ」舞台映像＜ラドゥー加藤和樹、アルマン東啓介＞",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/C1EF-8m-Uv8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCksO7THFQmUbVA-hF2vLB50pJUjw"
+    },
+    {
+     "id": "0pJZ3x7jw8Q",
+     "title": "ミュージカル「マタ・ハリ」公演DVD　PR映像★7/31まで特典付き先行予約受付中★",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/0pJZ3x7jw8Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCEXWMnrHcWHI7huoj8gILk97mwRQ"
+    },
+    {
+     "id": "yV4PTvO8lTA",
+     "title": "【2/3(土)～18(日)】ミュージカル『マタ・ハリ』チケット好評発売中!",
+     "channel": "ローチケチャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/yV4PTvO8lTA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkoR9s8juyOTk_pRyHlP0h8dCsog"
+    },
+    {
+     "id": "q_IReA4lDkY",
+     "title": "ミュージカル『マタ・ハリ』アルマン役（Wキャスト）東啓介コメント映像",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/q_IReA4lDkY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA2PTjsq3HzTasA-s7hUY0esoaQWg"
+    },
+    {
+     "id": "yY52NXSwpU0",
+     "title": "ミュージカル『マタ・ハリ』稽古映像【いよいよ開幕！】",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/yY52NXSwpU0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPlngvHBa5d1fwHNSPyFbgaf3Kpg"
+    },
+    {
+     "id": "mjhSOLUhhyI",
+     "title": "ミュージカル『マタ・ハリ』アルマン役 東啓介コメント動画",
+     "channel": "ローチケチャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/mjhSOLUhhyI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDFy723JTtd6EGt8hsvX0IQuxt0oA"
+    },
+    {
+     "id": "d4UKEZfbJD0",
+     "title": "ミュージカル『マタ・ハリ』稽古場映像",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/d4UKEZfbJD0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7p7s_lUYIo1Eblwv3WFZ3VecCrA"
+    },
+    {
+     "id": "rR34goiMhjo",
+     "title": "ミュージカル「マタ・ハリ」東啓介コメント",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/rR34goiMhjo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXmGjAzV3ogksC7s21Ab1B4R4yxQ"
+    },
+    {
+     "id": "lcDb84xA_wA",
+     "title": "ミュージカル「マタ・ハリ」スポット",
+     "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/lcDb84xA_wA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHv-zQY4ZNtHg85Jx6lzN3pKaqXw"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KS8agFd36S1xfm1HQyAS0_N",
+   "title": "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)",
+   "videos": [
+    {
+     "id": "sqVyw5kHGEc",
+     "title": "『JERSEY BOYS IN CONCERT @IMPERIAL THEATRE』JAPAN 2020 　DIGEST＜For JLODlive＞",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/sqVyw5kHGEc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5Ry8RaYnuHD2wIrCjVIdoHYiSug"
+    },
+    {
+     "id": "OrwkEc0-OGY",
+     "title": "『JERSEY BOYS IN CONCERT @IMPERIAL THEATRE』JAPAN 2020 　DIGEST　★★★★★",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/OrwkEc0-OGY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2nUgicGk1yuhVxf15gpz86thTgg"
+    },
+    {
+     "id": "OwFaf1tPoK8",
+     "title": "帝国劇場７・８月公演　ミュージカル『ジャージー・ボーイズ　イン コンサート』7/23(木・祝）初日カーテンコール映像",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/OwFaf1tPoK8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpYYfDupyDO0fxkSHsPBnyqdZg5Q"
+    },
+    {
+     "id": "XecXdK4kckA",
+     "title": "『JERSEY BOYS IN CONCERT @IMPERIAL THEATRE』JAPAN 2020 Trailer　★★★★★",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/XecXdK4kckA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPXJFARJBO5llIDoc7UUKN1jM_nw"
+    },
+    {
+     "id": "r9scF0DUSjg",
+     "title": "帝国劇場7・8月公演　ミュージカル『ジャージー・ボーイズ　イン コンサート』8/5(水）千穐楽カーテンコール映像",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/r9scF0DUSjg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtg6Es0b2PQqOjmOmRedo-EPeLhw"
+    },
+    {
+     "id": "VK4nL2Lbyws",
+     "title": "『JERSEY BOYS』2020 コメント映像／中川晃教",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/VK4nL2Lbyws/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4LpeQ4ZnZdfgia-VwZ9b-wKMNFw"
+    },
+    {
+     "id": "Bn2B2LCRTf0",
+     "title": "『JERSEY BOYS』2020 コメント映像／藤岡正明",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Bn2B2LCRTf0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWWV81Jp2CkbHM750h5_Uvkv-0VA"
+    },
+    {
+     "id": "xgpO3PQKDm8",
+     "title": "『JERSEY BOYS』2020 コメント映像／東 啓介",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/xgpO3PQKDm8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCdylodhVqS4jm-jsd2pkfDdAuBcQ"
+    },
+    {
+     "id": "PjkNFfH23t4",
+     "title": "『JERSEY BOYS』2020 コメント映像／大山真志",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/PjkNFfH23t4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBXY2Fi7BaBuU_nYEHJ4vvoUXMW6Q"
+    },
+    {
+     "id": "OhC8U4M8ynA",
+     "title": "『JERSEY BOYS』JAPAN 2020 Trailer　★★★★★",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/OhC8U4M8ynA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYo5Jpy_6_OUnaQzxfydYdfxANQA"
+    },
+    {
+     "id": "YMrNaUqcBTM",
+     "title": "SCRAPE THE STORY JERSEY BOYS #1",
+     "channel": "Stage O-beron",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/YMrNaUqcBTM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDwEF3wwklSy7p-94wCChx7hYRhWw"
+    },
+    {
+     "id": "_ogn-9b671g",
+     "title": "SCRAPE THE STORY　JERSEY BOYS #2",
+     "channel": "Stage O-beron",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/_ogn-9b671g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCarBQROdqMmHFWAVqpAFkqj98W1w"
+    },
+    {
+     "id": "htZ3x3DbpJ0",
+     "title": "SCRAPE THE STORY　JERSEY BOYS #3",
+     "channel": "Stage O-beron",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/htZ3x3DbpJ0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDS08JY1An69OiGnyEJDPrCgGyoA"
+    },
+    {
+     "id": "RpTCJrvDKBk",
+     "title": "SCRAPE THE STORY　JERSEY BOYS #4",
+     "channel": "Stage O-beron",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/RpTCJrvDKBk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAa5YlIEPXGMcVEO_iO6cFvdeyY5w"
+    },
+    {
+     "id": "4fmsdpSB9Mk",
+     "title": "Shuntaro Fujita talks about \"Jersey Boys\" and \"VIOLET\" (Part 1)",
+     "channel": "演劇系YouTube《クロネコチャンネル》",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/4fmsdpSB9Mk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCripB_lIhPLTckJ3mVvHjmKoMekA"
+    },
+    {
+     "id": "V3aI8e-YCmE",
+     "title": "大山真志さんと「ジャージー・ボーイズ」を語ります",
+     "channel": "演劇系YouTube《クロネコチャンネル》",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/V3aI8e-YCmE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBa7qo7nK67YN7ApU_D60YxSYG55w"
+    },
+    {
+     "id": "ecZ-mNoxAI8",
+     "title": "『JERSEY BOYS』JAPAN 2022Trailer　★★★★★",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ecZ-mNoxAI8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcIY018uVgmY7eDQaqeErO2e7NZg"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KQMwb0Qbb2lNP9GCvbamYK1",
+   "title": "東啓介 2020 ホイッスル・ダウン・ザ・ウィンド",
+   "videos": [
+    {
+     "id": "I4PP0wUqiJQ",
+     "title": "『WDTW』ダイジェスト舞台映像",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/I4PP0wUqiJQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTXc9tIhcpHzUcBeeN5Ugyj3Vv8w"
+    },
+    {
+     "id": "8tLMXMPLLug",
+     "title": "『WDTW』コメント映像／東 啓介",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/8tLMXMPLLug/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCiz26lpebCZFl7_Htka_Zm4EBXlg"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KRaCMyYe11wW3k_Tqzh-lhZ",
+   "title": "東啓介 2019 ダンス・オブ・ヴァンパイア",
+   "videos": [
+    {
+     "id": "BLR72K5lvms",
+     "title": "Tanz der Vampire JAPAN 2019 Official Trailer",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/BLR72K5lvms/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2DEKwPJqXPQb9zumUpo7rhfXWFg"
+    },
+    {
+     "id": "8cO4fKsS01o",
+     "title": "ミュージカル『ダンス オブ ヴァンパイア』公開ゲネプロ（映像：東宝提供）| エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/8cO4fKsS01o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZm5QdgBWvICnLTa-eNYADCW5OCw"
+    },
+    {
+     "id": "ZXO1rYmbMrM",
+     "title": "\"Dance of the Vampires\" Curtain Call on Wednesday, November 6, 2019",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/ZXO1rYmbMrM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_0Vt8hHaqA6rXC7lI9u9eIuUnKg"
+    },
+    {
+     "id": "TtEXbCdmE3g",
+     "title": "ミュージカル『ダンス オブ ヴァンパイア』2019年11月27日（水）帝国劇城公演千穐楽カーテンコール",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/TtEXbCdmE3g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCeBKu5ESdf2J1DvPmcgI2K4LeFUQ"
+    },
+    {
+     "id": "-hu_xeW4WAA",
+     "title": "ミュージカル『ダンス オブ ヴァンパイア』 コメント映像／東 啓介",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/-hu_xeW4WAA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4yYU-fqhh8AhfYSAGsHfKl6Z1ZQ"
+    },
+    {
+     "id": "HVhVRL0I5uM",
+     "title": "【2019 TDV NEWS】アルちゃん紹介♫",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/HVhVRL0I5uM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDEF03ZFUfhfoYB0FYsrYZJSnlFIg"
+    },
+    {
+     "id": "Y3oGKZk9_Ew",
+     "title": "【2019 TDV NEWS】みんなで踊ろう！振付講座",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Y3oGKZk9_Ew/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBt0_1qER9Ogft6432DE9Ar0RYh3A"
+    },
+    {
+     "id": "sQzy8Om6hsI",
+     "title": "【2019 TDV NEWS】人間紹介①",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/sQzy8Om6hsI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8LOShFZX15MesbGZraFhAmLXNRw"
+    },
+    {
+     "id": "RxXPVtx6y2M",
+     "title": "【2019 TDV NEWS】さあ、開幕です！",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/RxXPVtx6y2M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-PE5GNXAPuJPP5Sw_jqdyPA9BVg"
+    },
+    {
+     "id": "VR195NfgMT8",
+     "title": "【2019 TDV NEWS】サラ紹介",
+     "channel": "TohoChannel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/VR195NfgMT8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIUDYxLBfn9BXQYGEPWWLpSUeK5w"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KQn1XzkY-DMGmfce6T_zUmY",
+   "title": "東啓介 2025 ワタナベ25thコンサート",
+   "videos": [
+    {
+     "id": "zjS1Rr880jk",
+     "title": "【WE25th】テーマソング「幸せナベの作り方」",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/zjS1Rr880jk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYXCBUKGUwDw==&rs=AOn4CLASkmdVLaV8v_sFEPcUoXY5qxiXMQ"
+    },
+    {
+     "id": "KP7ZZAbnfB4",
+     "title": "【WE25th】ジャパニーズ・スタンダード・メドレー #1",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/KP7ZZAbnfB4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWSBHKGUwDw==&rs=AOn4CLDPMAdqOgI1P5NIf7CAgBlnH7f_OQ"
+    },
+    {
+     "id": "IAnrMU1vZ70",
+     "title": "【WE25th】ワタナベエンターテインメント誕生の年のヒット曲 バースデーイヤーソングメドレー",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/IAnrMU1vZ70/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYSBXKGUwDw==&rs=AOn4CLA-MeqAAVQKKVt5s8uIVNoLKNG57Q"
+    },
+    {
+     "id": "kBqu1i5IZ6g",
+     "title": "【WE25th】 アニメソングメドレー",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/kBqu1i5IZ6g/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYJCAmKH8wDw==&rs=AOn4CLDfMMjG-UwHHMAyV0MsH04LnVSLyg"
+    },
+    {
+     "id": "Sf9TNXynoPw",
+     "title": "【WE25th】 ジャパニーズ・スタンダード・メドレー #4",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Sf9TNXynoPw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYHSAkKH8wDw==&rs=AOn4CLCaHGyVv0jl5d6I2rNzhVx6UugGig"
+    },
+    {
+     "id": "Rwytj8Y3kSU",
+     "title": "【WE25th】ジャパニーズ・スタンダード・メドレー #5",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Rwytj8Y3kSU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBIKEYwDw==&rs=AOn4CLByC3Pr1R-ntudSJqYMtM67AZH-lQ"
+    },
+    {
+     "id": "BK-ynxRzEBI",
+     "title": "【WE25th】 クレイジーキャッツメドレー",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/BK-ynxRzEBI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYOSBKKHIwDw==&rs=AOn4CLCE_3SmE5tc8njkwj0dCIfWZ8w2VA"
+    },
+    {
+     "id": "eGVdsx8FbyI",
+     "title": "【WE25th】コンサート最終日の様子をお届け！ | 出演者挨拶・「幸せナベの作り方」アンコール歌唱",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/eGVdsx8FbyI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZGX8UwEFJHh_NrH_tsd7DolTlqg"
+    },
+    {
+     "id": "rBB-3WZu0sk",
+     "title": "【WE25th】ワタナベ25thコンサート 裏側の様子を公開！ 撮影 INSPi 北",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/rBB-3WZu0sk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7bsNGvHuME3wErlPUtHkFMr4VBQ"
+    },
+    {
+     "id": "O_ak89qKSyM",
+     "title": "♪桜坂♪ 東啓介  | 【WE25th】",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/O_ak89qKSyM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLDTzwXDA1-V8yVpPfleBz2Zdx3cHA"
+    },
+    {
+     "id": "yonEpRL7md0",
+     "title": "出演者全員で歌唱！「幸せナベの作り方」",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/yonEpRL7md0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLALXV9H5Agc8uSfSHTkQXuYZnQlWA"
+    },
+    {
+     "id": "XA5QxtKjl0s",
+     "title": "♪銀色の道♪ 出演者全員で歌唱  | 【WE25th】",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/XA5QxtKjl0s/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLA_gLhnS1ZTp9fDty-1vQZGPNiS-A"
+    },
+    {
+     "id": "J65ZPqa1GzE",
+     "title": "【WE25th 記念】コンサート出演者が自己紹介します‼️",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/J65ZPqa1GzE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdwEgAK2CIoCDAgAEAEYSyBiKGUwDw==&rs=AOn4CLCgyrlgJC3f62y7ZzpmlVLGHtrODA"
+    },
+    {
+     "id": "wY43ruqzhi0",
+     "title": "♪ハイそれまでョ♪ 出演者全員で歌唱  | 【WE25th】",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/wY43ruqzhi0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLDUI8678bDrj_dpPZiDLK1B8mTwWw"
+    },
+    {
+     "id": "g5KEMvvVFrs",
+     "title": "「幸せナベの作り方」リハーサルver.",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/g5KEMvvVFrs/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AegEgALKCIoCDAgAEAEYOCBhKGUwDw==&rs=AOn4CLBuUvxlY0mpnL94rSJQJCD1WgZWuA"
+    },
+    {
+     "id": "YHYHYSww42M",
+     "title": "【WE25th記念】コンサート出演者の次の誕生日に欲しいものは？",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/YHYHYSww42M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdwEgAK2CIoCDAgAEAEYTCBiKGUwDw==&rs=AOn4CLAFBVySVDa_KRdbef54eta1rCyGNg"
+    },
+    {
+     "id": "GeVk3Df0gUE",
+     "title": "【WE25th記念】 ＃新木宏典×＃東啓介×＃大久保祥太郎",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/GeVk3Df0gUE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AYIFgAL6CIoCDAgAEAEYZSBYKEowDw==&rs=AOn4CLCJYOy5yQq5bskfU-ud9a5KTIRjJA"
+    },
+    {
+     "id": "wAjbAMzdDGA",
+     "title": "【WE25th記念】#東啓介 からのメッセージ",
+     "channel": "ワタナベエンターテインメント【公式】",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/wAjbAMzdDGA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyAhKBUwDw==&rs=AOn4CLBng6mmaNVbC44j23_3dOFrVxw9zQ"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KQfW9ZnPspbRA6hCdzM1XfF",
+   "title": "東啓介 2025 キンキーブーツ",
+   "videos": [
+    {
+     "id": "2YS9y8jsdmQ",
+     "title": "『NOT MY FATHER’S SON』from Kinky Boots -SPECIAL MUSIC VIDEO-",
+     "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/2YS9y8jsdmQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDldKvVC4j9hjUbNcYROhHp5galyw"
+    },
+    {
+     "id": "p2EmeE3Yu9U",
+     "title": "Kinky Boots JAPAN | Official Trailer 2025",
+     "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDHo7jmeSCYoNuLInPaRwwR_JvBVA"
+    },
+    {
+     "id": "vqQzvMpJneA",
+     "title": "東啓介、有澤樟太郎、甲斐翔真、松下優也ら新キャストが挑む！ブロードウェイミュージカル「キンキーブーツ」開幕",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/vqQzvMpJneA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCouPR92JpfPHHa5yLpC-qEqC0gPQ"
+    },
+    {
+     "id": "dAKVfOzqyKY",
+     "title": "『キンキーブーツ』ゲネプロ 東啓介＆甲斐翔真＆田村芽実 2025/4/26",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/dAKVfOzqyKY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCmX8MTv04tj1dwLxLAb85MPil4IA"
+    },
+    {
+     "id": "neOfbzwQiVU",
+     "title": "ミュージカル「キンキーブーツ」2025公開ゲネプロ　東啓介×甲斐翔真×田村芽実ver.（東啓介 甲斐翔真 田村芽実 熊谷彩春 大山真志 ひのあらた）",
+     "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/neOfbzwQiVU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLAVdxd1wRllqv5ZW_qWbK4zB3RTQw"
+    },
+    {
+     "id": "7Pppy7NLDl4",
+     "title": "BWミュージカル『キンキーブーツ』公開ゲネプロ（Ｗキャスト：甲斐翔真、東啓介、田村芽実 ver.）",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/7Pppy7NLDl4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDcJc0UqZqQQCYial6ejXrruQ7W0w"
+    },
+    {
+     "id": "yRfVJQOx9gE",
+     "title": "【BWミュージカル『キンキーブーツ』ゲネプロ】4度目の日本上演！東啓介×甲斐翔真×田村芽実ver",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/yRfVJQOx9gE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCi416dcufrCec7r5FTt1SIfC0ioA"
+    },
+    {
+     "id": "Azla2mQbVsM",
+     "title": "甲斐翔真演じるローラが「キンキーブーツ」の世界にいざなう",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/Azla2mQbVsM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBowD7gC8xg=&rs=AOn4CLDGF6Xlf-7N1MlZmezUBHmcKuPHDg"
+    },
+    {
+     "id": "2yoFurjbCX4",
+     "title": "東啓介、甲斐翔真、田村芽実らがパワフルな歌声を響かせる「キンキーブーツ」開幕",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/2yoFurjbCX4/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYLCBWKH8wD7gC8xg=&rs=AOn4CLBcSgtg3X33GICzZD2RNAZjJM6O6Q"
+    },
+    {
+     "id": "VRjJfRzCLVg",
+     "title": "ベルトコンベア上でパフォーマンス＆ボクシング対決のゆくえは？",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/VRjJfRzCLVg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYJyBRKH8wD7gC8xg=&rs=AOn4CLCI_KEqC-XM_DWp8rxYf5JoAWrlcA"
+    },
+    {
+     "id": "sjxrg7zV0Z8",
+     "title": "東啓介、甲斐翔真ら新キャストが“本当の自分を探し求めるあなた”に寄り添う「キンキーブーツ」幕開け",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/sjxrg7zV0Z8/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYWSAvKH8wD7gC8xg=&rs=AOn4CLCLgtAKb-oGlkxdWVfEUZ66VeG_Vg"
+    },
+    {
+     "id": "g3Q5cflEb1w",
+     "title": "BWミュージカル『キンキーブーツ』より「Everybody Say Yeah／～みんなでYEAH！～」（Ｗキャスト：甲斐翔真、東啓介、田村芽実） #キンキーブーツ #shorts",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/g3Q5cflEb1w/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBMwD7gC8xg=&rs=AOn4CLCPl0FUKPb6QF91SBRMCKSuqg7SDg"
+    },
+    {
+     "id": "F1t-a8s_KFk",
+     "title": "『キンキーブーツ』ゲネプロ「Raise You Up/~上げたげる~、Just Be/ただなりなさい」#shorts",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/F1t-a8s_KFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYESBlKHIwD7gC8xg=&rs=AOn4CLDZF5jc-OUh-PJw_wNlnDRiYy-c2w"
+    },
+    {
+     "id": "r-rbcb4ltTk",
+     "title": "『キンキーブーツ』ゲネプロ「Sex Is in the Heel/~SEX はヒールにある~」（甲斐翔真ver）#shorts",
+     "channel": "【公式】TBS芸能&情報まとめ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/r-rbcb4ltTk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYRyBFKGUwD7gC8xg=&rs=AOn4CLCyf69OF_tvufi155Pl8lu-woGU0w"
+    },
+    {
+     "id": "jn_8qnQvReQ",
+     "title": "キンキーブーツ2025 #anan撮影ビハインド！ 東啓介さん、有澤樟太郎さん、甲斐翔真さん、松下優也さん",
+     "channel": "anan",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/jn_8qnQvReQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwD7gC8xg=&rs=AOn4CLBwT-RTWBQ6v8oz0Ovhtrx_E5a5FQ"
+    },
+    {
+     "id": "KODtsBuEHQA",
+     "title": "ブロードウェイミュージカル「Kinky Boots」Visual shooting~behind the scenes∼",
+     "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/KODtsBuEHQA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDFnJy98MeyJMcPROOTwe2fK-W-3Q"
+    },
+    {
+     "id": "vLuunHOJ1xY",
+     "title": "Lola is Super Busy with Makeup and Costume Changes! Kinky Boots Cast Discusses the Role",
+     "channel": "ステージナタリー",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/vLuunHOJ1xY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBAKEUwD7gC8xg=&rs=AOn4CLBv0vUaHiKZvZ1Rm1NlcRB9drhCQQ"
+    },
+    {
+     "id": "yEqqNFXlDFE",
+     "title": "Musical \"Kinky Boots\" 2025 press conference (Keisuke Azuma, Shotaro Arisawa, Shoma Kai, Yuya Mats...",
+     "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/yEqqNFXlDFE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBnamUE3w2jCEJXMHXFNGAEWAoW1A"
+    },
+    {
+     "id": "wkCCKjUPOss",
+     "title": "『キンキーブーツ』開幕前取材会！甲斐翔真＆松下優也、東啓介＆有澤樟太郎ら新キャスト勢ぞろい",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/wkCCKjUPOss/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCzdvCWHy-le3Xga8hoeR5q18MO5w"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "id": "PLIy6KwjpV9KRp9nQqzjbjQKUqzubvpQYF",
+   "title": "東啓介 2021 イン・ザ・ハイツ",
+   "videos": [
+    {
+     "id": "zxJbIxqUQQA",
+     "title": "Broadway Musical「IN THE HEIGHTS　イン・ザ・ハイツ」2021年版／舞台映像スポット",
+     "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/zxJbIxqUQQA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYSCBNKGUwDw==&rs=AOn4CLCsJcndaOU5CwVDC_dNP2as3AI3lA"
+    },
+    {
+     "id": "wMqGzjDZ2vw",
+     "title": "【第２弾！】Broadway Musical「IN THE HEIGHTS　イン・ザ・ハイツ」2021年版舞台映像",
+     "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/wMqGzjDZ2vw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYUiBWKGUwDw==&rs=AOn4CLCXwFhJjJ05A8iTzKVrACChTazhbQ"
+    },
+    {
+     "id": "NpLizyJ5tQs",
+     "title": "Broadway Musical『IN THE HEIGHTS イン・ザ・ハイツ』オフィシャル映像より",
+     "channel": "アイデアニュース チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/NpLizyJ5tQs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1aN-TykJJrd0SaXJ-dE16oMgl6w"
+    },
+    {
+     "id": "5nguS_2JsXI",
+     "title": "平間壮一、Micro（Def Tech）、東啓介、田村芽実ら出演！ミュージカル『IN THE HEIGHTS イン・ザ・ハイツ』ダイジェスト│エンタステージ",
+     "channel": "エンタステージ 舞台の最新動画チャンネル",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/5nguS_2JsXI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAr3MDDV-5QM-YAOlku3fnhDclSkQ"
+    },
+    {
+     "id": "kuit-UDofRY",
+     "title": "Broadway Musical「IN THE HEIGHTS イン・ザ・ハイツ」舞台映像",
+     "channel": "SCREEN＋Plus CHANNEL",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/kuit-UDofRY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYPyBeKHIwDw==&rs=AOn4CLB333Y8mJ_QHBqAdkkbT73vobqW7w"
+    },
+    {
+     "id": "_c8AasL0QZ8",
+     "title": "Broadway Musical「IN THE HEIGHTS イン・ザ・ハイツ」開幕! 舞台映像",
+     "channel": "Astage",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/_c8AasL0QZ8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGD3ztAZmUMz2B363UDYxvSRVDjQ"
+    },
+    {
+     "id": "qUoDQ6pE3O0",
+     "title": "平間壮一・石田ニコル・阪本奨悟出演のブロードウェイミュージカル「IN THE HEIGHTS イン・ザ・ハイツ」4月3日（土）より大阪・名古屋・東京にて本公演が上演！",
+     "channel": "AMUSE Official Channel",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/qUoDQ6pE3O0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNMWP7dwpv6rhNkpBLjtsJajelQQ"
+    },
+    {
+     "id": "8Xv1rnigvkU",
+     "title": "#02 一生聴けない？！KREVAのラップ翻訳｜ In The Heights - Benny's Dispatch【ラジオ 宇多丸のAfter 6 Junction】",
+     "channel": "Cappuccino Music",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/8Xv1rnigvkU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuT7lKRhhUyQuQGADdYMstk7Db8g"
+    },
+    {
+     "id": "6qpsEkIIY0U",
+     "title": "インザハイツ2021年公演／東 啓介",
+     "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
+     "duration": "",
+     "available": true,
+     "thumbnail": "https://i.ytimg.com/vi/6qpsEkIIY0U/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYXyBfKF8wDw==&rs=AOn4CLBvLQbRX8ZDrh3sMKce_XoMy5oKBg"
+    }
+   ],
+   "error": ""
+  }
+ ],
+ "checks": [
+  [
+   "2018《玛塔·哈丽》首演日",
+   "维基：2018-01-22",
+   "官网：2018-01-21",
+   "已采用官网日期",
+   "https://www.umegei.com/matahari2018/"
+  ],
+  [
+   "《我家女儿交不到男朋友!!》首播",
+   "维基：2021-01-12",
+   "电视台：2021-01-13",
+   "已采用电视台日期",
+   "https://www.ntv.co.jp/uchikare/story/01.html"
+  ],
+  [
+   "《也就是说，我喜欢你。》角色名",
+   "维基：加賀美修",
+   "电视台：加賀見修",
+   "采用官网：加贺见修",
+   "https://www.tv-tokyo.co.jp/tsumarisuki/cast/"
+  ],
+  [
+   "《VIOLET》2024巡演范围",
+   "维基只列东京／大阪至4月29日",
+   "官网另公布5月福冈／宫城巡演",
+   "补齐至2024-05-11；场次以各地日程为准",
+   "https://www.umegei.com/violet/"
+  ],
+  [
+   "2020《泽西男孩》完整版",
+   "经纪公司与维基列有原定出演",
+   "原定完整版全公演取消；另上演音乐会版",
+   "保留取消记录，音乐会单列",
+   "https://www.wowow.co.jp/eventinfo/detail/event-1260.html"
+  ],
+  [
+   "《TOHO MUSICAL LAB.》演出单元",
+   "原履历仅写总项目名",
+   "东启介出演《DESK》",
+   "《わたしを、褒めて》为同场另一单元",
+   "https://www.tohostage.com/tohomusicallab/"
+  ],
+  [
+   "《红花侠》角色",
+   "容易与其他角色混淆",
+   "东启介饰哈尔（ハル）",
+   "不是罗伯斯庇尔",
+   "https://l-tike.com/play/mevent/?mid=283181"
+  ],
+  [
+   "2019《Color of Life》起始日",
+   "只写5月1日会漏掉预演",
+   "2019-04-26相模预演，5月1日东京开演",
+   "预演与正式公演在备注区分",
+   "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/"
+  ],
+  [
+   "深夜电视剧日期",
+   "日历日期可能比电视台“放送日”晚一天",
+   "如9月8日24:30实际为9月9日00:30",
+   "保留官方放送日，并注明实际日历日",
+   "https://www.tv-tokyo.co.jp/chasergame/lineup/202209/27048_202209082430.html"
+  ],
+  [
+   "《緋色の研究》本人出演日",
+   "全企划2020-06-17至21日",
+   "东启介×桥本祥平：2020-06-20 18:00",
+   "本人编年条目使用出演日",
+   "https://sato-ryuji.com/contents/370307"
+  ],
+  [
+   "《胜小吉传》副标题",
+   "原履历有缺字／错字",
+   "ああ わが人生最良の今日",
+   "标题据剧场原档修正",
+   "https://www.meijiza.co.jp/lineup/2019/07/"
+  ],
+  [
+   "历史官网现状",
+   "tbg2023.com及部分主办方旧链接已改变内容",
+   "《美丽的游戏》改用出演方档案；《与鸟共舞》留原专访",
+   "避免把当前已变更页面误当旧版官网",
+   "https://grand-arts.com/works/stage/2022the_beautiful_game/"
+  ]
+ ],
+ "stats": {
+  "magazines": 11,
+  "events": 235,
+  "videos": 314,
+  "playlists": 26,
+  "series": 36,
+  "qj": 29,
+  "images": 178,
+  "pending": 38
+ },
+ "assets": {
+  "2b4c2f9b176f75b6": "assets/img/2b4c2f9b176f75b6.jpg",
+  "dccc280a1ee718d4": "assets/img/dccc280a1ee718d4.jpg",
+  "bd995b7b2381ea09": "assets/img/bd995b7b2381ea09.jpg",
+  "53bafdd54a872d3a": "assets/img/53bafdd54a872d3a.jpg",
+  "17abe3b44f178635": "assets/img/17abe3b44f178635.jpg",
+  "161086235bd7c112": "assets/img/161086235bd7c112.jpg",
+  "6a7e5f5ea08bfb7e": "assets/img/6a7e5f5ea08bfb7e.jpg",
+  "c2bc9ad068971741": "assets/img/c2bc9ad068971741.jpg",
+  "e74a3d5bf8079be7": "assets/img/e74a3d5bf8079be7.jpg",
+  "e7350f7e11a8ace5": "assets/img/e7350f7e11a8ace5.jpg",
+  "82647b4d242ce32c": "assets/img/82647b4d242ce32c.jpg",
+  "241a407e191d7715": "assets/img/241a407e191d7715.jpg",
+  "ad80807c2c471c14": "assets/img/ad80807c2c471c14.jpg",
+  "4ddbe858ec009526": "assets/img/4ddbe858ec009526.jpg",
+  "b8330495c722dfe0": "assets/img/b8330495c722dfe0.png",
+  "fd8231a83e079e85": "assets/img/fd8231a83e079e85.jpg",
+  "197d996f9649e33b": "assets/img/197d996f9649e33b.jpg",
+  "cfd612799f9fb6c6": "assets/img/cfd612799f9fb6c6.jpg",
+  "2e5c21c4552c81a9": "assets/img/2e5c21c4552c81a9.jpg",
+  "e5b57cea0e28a7d5": "assets/img/e5b57cea0e28a7d5.jpg",
+  "7cd13d3d826ee6ef": "assets/img/7cd13d3d826ee6ef.png",
+  "e52f41e499ac9293": "assets/img/e52f41e499ac9293.jpg",
+  "1f6f03273281cf2c": "assets/img/1f6f03273281cf2c.jpg",
+  "1e1fb3688849feff": "assets/img/1e1fb3688849feff.jpg",
+  "98bee33caaeba415": "assets/img/98bee33caaeba415.jpg",
+  "32773476fa14877c": "assets/img/32773476fa14877c.jpg",
+  "9736334a1dd62089": "assets/img/9736334a1dd62089.jpg",
+  "d9b742d70a880f83": "assets/img/d9b742d70a880f83.jpg",
+  "36b0be661d78a85a": "assets/img/36b0be661d78a85a.jpg",
+  "164eaf65d35f7464": "assets/img/164eaf65d35f7464.jpg",
+  "e5ffef33904bd25c": "assets/img/e5ffef33904bd25c.jpg",
+  "8ea948e91249926d": "assets/img/8ea948e91249926d.jpg",
+  "1122d79584a3d21a": "assets/img/1122d79584a3d21a.jpg",
+  "8ea9015ce3da0185": "assets/img/8ea9015ce3da0185.jpg",
+  "9f301cb36994ca47": "assets/img/9f301cb36994ca47.jpg",
+  "627eca80ca2cf665": "assets/img/627eca80ca2cf665.png",
+  "863e36c56ed019e3": "assets/img/863e36c56ed019e3.jpg",
+  "d1e89954427001ae": "assets/img/d1e89954427001ae.jpg",
+  "aa3f247496387325": "assets/img/aa3f247496387325.jpg",
+  "557f1259b60bb978": "assets/img/557f1259b60bb978.png",
+  "404fe5babd62f095": "assets/img/404fe5babd62f095.jpg",
+  "4cfc3086b05a59c3": "assets/img/4cfc3086b05a59c3.jpg",
+  "7904c1e43705c5ac": "assets/img/7904c1e43705c5ac.jpg",
+  "ecf4d145ca991cc8": "assets/img/ecf4d145ca991cc8.jpg",
+  "322c0ba9a16d366e": "assets/img/322c0ba9a16d366e.jpg",
+  "37a94da506481fff": "assets/img/37a94da506481fff.jpg",
+  "7e0afb85b71c632a": "assets/img/7e0afb85b71c632a.png",
+  "6b7044b44863673f": "assets/img/6b7044b44863673f.jpg",
+  "ecd4b627b909ec41": "assets/img/ecd4b627b909ec41.jpg",
+  "0ad08f94d290331d": "assets/img/0ad08f94d290331d.jpg",
+  "f1e6b439e0d959d5": "assets/img/f1e6b439e0d959d5.jpg",
+  "8ca6bc46ca34fdb2": "assets/img/8ca6bc46ca34fdb2.jpg",
+  "bc63b02c37a4649b": "assets/img/bc63b02c37a4649b.jpg",
+  "44f109bbf2d8a9f2": "assets/img/44f109bbf2d8a9f2.jpg",
+  "f4ce284135c7bf8c": "assets/img/f4ce284135c7bf8c.jpg",
+  "fb0c7de1716e431b": "assets/img/fb0c7de1716e431b.png",
+  "fe640ae962efe408": "assets/img/fe640ae962efe408.jpg",
+  "b1956a48818119da": "assets/img/b1956a48818119da.jpg",
+  "a10d36b11b71e9f4": "assets/img/a10d36b11b71e9f4.jpg",
+  "ade1102285eb6629": "assets/img/ade1102285eb6629.jpg",
+  "73d7efd3110f67fd": "assets/img/73d7efd3110f67fd.jpg",
+  "53326c7cef3b7ca4": "assets/img/53326c7cef3b7ca4.jpg",
+  "ffd53202a499f0af": "assets/img/ffd53202a499f0af.jpg",
+  "6546cfa7e2c4a967": "assets/img/6546cfa7e2c4a967.jpg",
+  "fcbbaad8ee9613da": "assets/img/fcbbaad8ee9613da.png",
+  "b3749f1b43b908db": "assets/img/b3749f1b43b908db.jpg",
+  "d878339cc942afd6": "assets/img/d878339cc942afd6.jpg",
+  "d123543fd8772264": "assets/img/d123543fd8772264.jpg",
+  "4ebbc07f25d1150e": "assets/img/4ebbc07f25d1150e.jpg",
+  "789f9f3bf62de45c": "assets/img/789f9f3bf62de45c.png",
+  "f9be3d375cdc7c68": "assets/img/f9be3d375cdc7c68.jpg",
+  "1278357c35e4cf61": "assets/img/1278357c35e4cf61.jpg",
+  "b4ccb520b19a2bb1": "assets/img/b4ccb520b19a2bb1.jpg",
+  "4730daac59dbd897": "assets/img/4730daac59dbd897.png",
+  "4b5a1a084a24bc37": "assets/img/4b5a1a084a24bc37.jpg",
+  "17ef63bf09c3596f": "assets/img/17ef63bf09c3596f.png",
+  "0328210792242ce5": "assets/img/0328210792242ce5.jpg",
+  "7413652e46c92398": "assets/img/7413652e46c92398.jpg",
+  "49e4889f00c208ce": "assets/img/49e4889f00c208ce.jpg",
+  "7be9e3302a953358": "assets/img/7be9e3302a953358.jpg",
+  "5447a3d44f3782bb": "assets/img/5447a3d44f3782bb.jpg",
+  "32dbc546f5959808": "assets/img/32dbc546f5959808.gif",
+  "7dbead054605c749": "assets/img/7dbead054605c749.jpg",
+  "ca7d6ca21822657c": "assets/img/ca7d6ca21822657c.jpg",
+  "41fabd23fcfce840": "assets/img/41fabd23fcfce840.jpg",
+  "f141a6a0cde187e0": "assets/img/f141a6a0cde187e0.jpg",
+  "ab117ace7229276a": "assets/img/ab117ace7229276a.jpg",
+  "f8f3bec6db717a05": "assets/img/f8f3bec6db717a05.jpg",
+  "58daa6ea467942ec": "assets/img/58daa6ea467942ec.png",
+  "933f3c59382781e5": "assets/img/933f3c59382781e5.jpg",
+  "9786558cbccb766f": "assets/img/9786558cbccb766f.jpg",
+  "9d730935686c9892": "assets/img/9d730935686c9892.jpg",
+  "8f3e6469019248a8": "assets/img/8f3e6469019248a8.jpg",
+  "3d336b8f10129cc8": "assets/img/3d336b8f10129cc8.jpg",
+  "5576fd0de46fde45": "assets/img/5576fd0de46fde45.jpg",
+  "23944cb79e198db5": "assets/img/23944cb79e198db5.jpg",
+  "08b7d13563024e95": "assets/img/08b7d13563024e95.jpg",
+  "3fdf94b07bfdfa6c": "assets/img/3fdf94b07bfdfa6c.jpg",
+  "1811fe426385c875": "assets/img/1811fe426385c875.jpg",
+  "435fdfeb0b4d7e40": "assets/img/435fdfeb0b4d7e40.png",
+  "b635f6f9f60bf321": "assets/img/b635f6f9f60bf321.jpg",
+  "a6aa5ae10c7e4895": "assets/img/a6aa5ae10c7e4895.jpg",
+  "ac2f7602e688b5af": "assets/img/ac2f7602e688b5af.jpg",
+  "6f17220b88d7e811": "assets/img/6f17220b88d7e811.jpg",
+  "c7eeb06e385ebe7b": "assets/img/c7eeb06e385ebe7b.jpg",
+  "f23a76cb80f594df": "assets/img/f23a76cb80f594df.jpg",
+  "9a6bda52c3306f52": "assets/img/9a6bda52c3306f52.jpg",
+  "211276d5392431f0": "assets/img/211276d5392431f0.jpg",
+  "0e54794d217d7174": "assets/img/0e54794d217d7174.jpg",
+  "650b961f392d5bc2": "assets/img/650b961f392d5bc2.jpg",
+  "51d8becbed8f2bd5": "assets/img/51d8becbed8f2bd5.jpg",
+  "539260456a9391b9": "assets/img/539260456a9391b9.jpg",
+  "857a6f06f987b3c8": "assets/img/857a6f06f987b3c8.jpg",
+  "91106b11d5e57766": "assets/img/91106b11d5e57766.jpg",
+  "808b03b90de7efa1": "assets/img/808b03b90de7efa1.jpg",
+  "5becc8dcbabf30ec": "assets/img/5becc8dcbabf30ec.jpg",
+  "b8218e4b5a8485e9": "assets/img/b8218e4b5a8485e9.jpg",
+  "9141c172aea7a3f9": "assets/img/9141c172aea7a3f9.jpg",
+  "6d84cab2fed4c20c": "assets/img/6d84cab2fed4c20c.jpg",
+  "aa2b493e14d21c08": "assets/img/aa2b493e14d21c08.jpg",
+  "cc8fb1efed6b6fce": "assets/img/cc8fb1efed6b6fce.jpg",
+  "46f917a02f6bf110": "assets/img/46f917a02f6bf110.jpg",
+  "1aa2b03e41ef05cf": "assets/img/1aa2b03e41ef05cf.jpg",
+  "2268a00cfcbcf2b4": "assets/img/2268a00cfcbcf2b4.jpg",
+  "d04055fa93a9a84f": "assets/img/d04055fa93a9a84f.jpg",
+  "d70ffcf2d78fa07c": "assets/img/d70ffcf2d78fa07c.jpg",
+  "9ac92796d31e04a5": "assets/img/9ac92796d31e04a5.jpg",
+  "36999605e2147cfd": "assets/img/36999605e2147cfd.jpg",
+  "622c3f4c6da8cf5b": "assets/img/622c3f4c6da8cf5b.jpg",
+  "1d56a0c87946defd": "assets/img/1d56a0c87946defd.jpg",
+  "7a378d7d628fae90": "assets/img/7a378d7d628fae90.jpg",
+  "886ad2950c6eb88d": "assets/img/886ad2950c6eb88d.jpg",
+  "3669dff90c61d06d": "assets/img/3669dff90c61d06d.jpg",
+  "2b96b66b8439afeb": "assets/img/2b96b66b8439afeb.jpg",
+  "46a44f94fc9f1c89": "assets/img/46a44f94fc9f1c89.jpg",
+  "2312eea506304a8c": "assets/img/2312eea506304a8c.jpg",
+  "7018b97be78704ab": "assets/img/7018b97be78704ab.jpg",
+  "65502ea176799ac0": "assets/img/65502ea176799ac0.jpg",
+  "b9df03f2458ca1ff": "assets/img/b9df03f2458ca1ff.jpg",
+  "74c9b14c42e856f4": "assets/img/74c9b14c42e856f4.jpg",
+  "5f75b348305d965a": "assets/img/5f75b348305d965a.jpg",
+  "bd78010f46fb604e": "assets/img/bd78010f46fb604e.jpg",
+  "7c7f6ce84d72282f": "assets/img/7c7f6ce84d72282f.jpg",
+  "2268592cffae12a4": "assets/img/2268592cffae12a4.jpg",
+  "25a3d30a0ef42a6b": "assets/img/25a3d30a0ef42a6b.jpg",
+  "24a404154261ba21": "assets/img/24a404154261ba21.jpg",
+  "c12a1b9aca1beaa7": "assets/img/c12a1b9aca1beaa7.jpg",
+  "76694182eac5ccd7": "assets/img/76694182eac5ccd7.jpg",
+  "eb397313561a65e3": "assets/img/eb397313561a65e3.jpg",
+  "f072f058effe3a87": "assets/img/f072f058effe3a87.jpg",
+  "6aa5a601021638d4": "assets/img/6aa5a601021638d4.jpg",
+  "518b82383369c670": "assets/img/518b82383369c670.jpg",
+  "9d7a4e409a5e6b42": "assets/img/9d7a4e409a5e6b42.jpg",
+  "989c55abff71f1aa": "assets/img/989c55abff71f1aa.jpg",
+  "1fd4a51fcdafae73": "assets/img/1fd4a51fcdafae73.jpg",
+  "524adf2953847b93": "assets/img/524adf2953847b93.jpg",
+  "8447b4e7642aa4c8": "assets/img/8447b4e7642aa4c8.jpg",
+  "b32cfb2485e166c5": "assets/img/b32cfb2485e166c5.jpg",
+  "ad1d2aa910e22e94": "assets/img/ad1d2aa910e22e94.jpg",
+  "1b3d5adec19b1d98": "assets/img/1b3d5adec19b1d98.jpg",
+  "ceed8480d89024e3": "assets/img/ceed8480d89024e3.jpg",
+  "b6c6cccb44c55159": "assets/img/b6c6cccb44c55159.jpg",
+  "24b8cd9214d57ed9": "assets/img/24b8cd9214d57ed9.jpg",
+  "201228a928b35d02": "assets/img/201228a928b35d02.jpg",
+  "10e462dec9ef19ce": "assets/img/10e462dec9ef19ce.jpg",
+  "bb1a3aeb4350d526": "assets/img/bb1a3aeb4350d526.jpg",
+  "31e30f9a458beeaa": "assets/img/31e30f9a458beeaa.jpg",
+  "e103f0579dcd29a3": "assets/img/e103f0579dcd29a3.jpg",
+  "2e01518722478bc7": "assets/img/2e01518722478bc7.jpg",
+  "ce0cfdccaf8ed0ec": "assets/img/ce0cfdccaf8ed0ec.jpg",
+  "6dfc7fb97708fe33": "assets/img/6dfc7fb97708fe33.jpg",
+  "b93ee69c08892ddf": "assets/img/b93ee69c08892ddf.jpg",
+  "12febbe176a054ab": "assets/img/12febbe176a054ab.jpg",
+  "dd626a0174a7cbba": "assets/img/dd626a0174a7cbba.jpg",
+  "a05d7bb8b76300e2": "assets/img/a05d7bb8b76300e2.jpg",
+  "181955f7f1117eba": "assets/img/181955f7f1117eba.jpg",
+  "f49217f333e4569d": "assets/img/f49217f333e4569d.jpg",
+  "5622510f747d6d14": "assets/img/5622510f747d6d14.jpg",
+  "610e6eb4a0a212c9": "assets/img/610e6eb4a0a212c9.jpg",
+  "dfa40ab9486702d6": "assets/img/dfa40ab9486702d6.jpg",
+  "07c0b68331d21e1a": "assets/img/07c0b68331d21e1a.jpg",
+  "7f06d0f8ccf22789": "assets/img/7f06d0f8ccf22789.jpg",
+  "4edd4ea6c0e93ad6": "assets/img/4edd4ea6c0e93ad6.jpg",
+  "d3b8dc94e9705d33": "assets/img/d3b8dc94e9705d33.jpg",
+  "e51b3a5819c99de2": "assets/img/e51b3a5819c99de2.jpg",
+  "355cac847a553e11": "assets/img/355cac847a553e11.jpg",
+  "847a9f19854c8950": "assets/img/847a9f19854c8950.jpg",
+  "641ef8d8959be56a": "assets/img/641ef8d8959be56a.jpg",
+  "cccf7f039ee9d329": "assets/img/cccf7f039ee9d329.jpg",
+  "e5c59ea27759847b": "assets/img/e5c59ea27759847b.jpg",
+  "2d2d3785454e9825": "assets/img/2d2d3785454e9825.jpg",
+  "7becf9b0f584b168": "assets/img/7becf9b0f584b168.jpg",
+  "a58373430762155b": "assets/img/a58373430762155b.jpg",
+  "8daa358ac0f2c14a": "assets/img/8daa358ac0f2c14a.jpg",
+  "4567ea0ee9e94426": "assets/img/4567ea0ee9e94426.jpg",
+  "1a55a24eaa639327": "assets/img/1a55a24eaa639327.jpg",
+  "37b077fe185900c1": "assets/img/37b077fe185900c1.jpg",
+  "4a50626de516ef16": "assets/img/4a50626de516ef16.jpg",
+  "44f2894b8485e0d3": "assets/img/44f2894b8485e0d3.jpg",
+  "6c06bdf2852a4352": "assets/img/6c06bdf2852a4352.jpg",
+  "76c5af66a232bfaf": "assets/img/76c5af66a232bfaf.jpg",
+  "398c7a1fb82f9e50": "assets/img/398c7a1fb82f9e50.jpg",
+  "1ad2d975a79d5648": "assets/img/1ad2d975a79d5648.jpg",
+  "5d5c567d38e459a8": "assets/img/5d5c567d38e459a8.jpg",
+  "a5aa47aa7b56c220": "assets/img/a5aa47aa7b56c220.jpg",
+  "0879886435fc1b4f": "assets/img/0879886435fc1b4f.jpg",
+  "05531f541c56fa75": "assets/img/05531f541c56fa75.jpg",
+  "2a3af9206f92d9b5": "assets/img/2a3af9206f92d9b5.jpg",
+  "a77115675a5d95eb": "assets/img/a77115675a5d95eb.jpg",
+  "8b0bf02e178f1674": "assets/img/8b0bf02e178f1674.jpg",
+  "95da55fb2a42db0f": "assets/img/95da55fb2a42db0f.jpg",
+  "d7454006aec90e08": "assets/img/d7454006aec90e08.jpg",
+  "4f97aa08eb786586": "assets/img/4f97aa08eb786586.jpg",
+  "fc6162af31f4dbc3": "assets/img/fc6162af31f4dbc3.jpg",
+  "e4f9196ccc5b238f": "assets/img/e4f9196ccc5b238f.jpg",
+  "e5ff6b464d94f575": "assets/img/e5ff6b464d94f575.jpg",
+  "8e0b2621354d8414": "assets/img/8e0b2621354d8414.jpg",
+  "c0694d2986066e0a": "assets/img/c0694d2986066e0a.jpg",
+  "8552d6886cd64aa9": "assets/img/8552d6886cd64aa9.jpg",
+  "2d6633379cb736fd": "assets/img/2d6633379cb736fd.jpg",
+  "e9077cd6c5e4a8e0": "assets/img/e9077cd6c5e4a8e0.jpg",
+  "b39c9845921f485a": "assets/img/b39c9845921f485a.jpg",
+  "b0ee6bde87cb3cd7": "assets/img/b0ee6bde87cb3cd7.jpg",
+  "70760b35f360eec9": "assets/img/70760b35f360eec9.jpg",
+  "15a60edc6543f3aa": "assets/img/15a60edc6543f3aa.jpg",
+  "e639c06d84fe6a4d": "assets/img/e639c06d84fe6a4d.jpg",
+  "5cd020ccb4b3baf2": "assets/img/5cd020ccb4b3baf2.jpg",
+  "331ed34bcb1ff9d6": "assets/img/331ed34bcb1ff9d6.jpg",
+  "42b7c71dc24c358c": "assets/img/42b7c71dc24c358c.jpg",
+  "d5a4d8b71a56a322": "assets/img/d5a4d8b71a56a322.jpg",
+  "9d57f611d7d33736": "assets/img/9d57f611d7d33736.jpg",
+  "1fb82037901990cc": "assets/img/1fb82037901990cc.jpg",
+  "f06b03c668c0b471": "assets/img/f06b03c668c0b471.jpg",
+  "9cf9e9de28d429a1": "assets/img/9cf9e9de28d429a1.jpg",
+  "9d41c7d470ee8fd0": "assets/img/9d41c7d470ee8fd0.jpg",
+  "40ccc40c04ec07e4": "assets/img/40ccc40c04ec07e4.jpg",
+  "8465b6c0fd2f8649": "assets/img/8465b6c0fd2f8649.jpg",
+  "744ed5e20d542163": "assets/img/744ed5e20d542163.jpg",
+  "d9a33232b5e4bbd2": "assets/img/d9a33232b5e4bbd2.jpg",
+  "1c4515d7e8888a1e": "assets/img/1c4515d7e8888a1e.jpg",
+  "b1cd48afb6d6d9f0": "assets/img/b1cd48afb6d6d9f0.jpg",
+  "de127002903318db": "assets/img/de127002903318db.jpg",
+  "ac7ced69e9b5e8b0": "assets/img/ac7ced69e9b5e8b0.jpg",
+  "652bf0fab7c8afcd": "assets/img/652bf0fab7c8afcd.jpg",
+  "654de3b954e2510a": "assets/img/654de3b954e2510a.jpg",
+  "f9a9b7326830c25a": "assets/img/f9a9b7326830c25a.jpg",
+  "48944f0b56233e69": "assets/img/48944f0b56233e69.jpg",
+  "cd0e55120fbaf804": "assets/img/cd0e55120fbaf804.jpg",
+  "42b01b4920370f49": "assets/img/42b01b4920370f49.jpg",
+  "182cf229071e4842": "assets/img/182cf229071e4842.jpg",
+  "5e15247063a65de2": "assets/img/5e15247063a65de2.jpg",
+  "cce0e9655b80b8c2": "assets/img/cce0e9655b80b8c2.jpg",
+  "23e5ac274611481a": "assets/img/23e5ac274611481a.jpg",
+  "c6f39ba26851107f": "assets/img/c6f39ba26851107f.jpg",
+  "afe8e635af525281": "assets/img/afe8e635af525281.jpg",
+  "ef70f6c98eb2f3d4": "assets/img/ef70f6c98eb2f3d4.jpg",
+  "669362eb8e7c354d": "assets/img/669362eb8e7c354d.jpg",
+  "b703a62338d69081": "assets/img/b703a62338d69081.jpg",
+  "49533be615ea40c0": "assets/img/49533be615ea40c0.jpg",
+  "8a98a9ef24d2a87c": "assets/img/8a98a9ef24d2a87c.jpg",
+  "30e23be3647a51d0": "assets/img/30e23be3647a51d0.jpg",
+  "e478742c893d8d2e": "assets/img/e478742c893d8d2e.jpg",
+  "2c7e5a2aef7e11e4": "assets/img/2c7e5a2aef7e11e4.jpg",
+  "a4ac52c04be37175": "assets/img/a4ac52c04be37175.jpg",
+  "4e1ec0a64d2e275b": "assets/img/4e1ec0a64d2e275b.jpg",
+  "df495490a489ff87": "assets/img/df495490a489ff87.jpg",
+  "494921d32d54d47a": "assets/img/494921d32d54d47a.jpg",
+  "1d9767a655b829df": "assets/img/1d9767a655b829df.jpg",
+  "f8da32335fe100ea": "assets/img/f8da32335fe100ea.jpg",
+  "0758c94b17eafd0f": "assets/img/0758c94b17eafd0f.jpg",
+  "149e4570c7087b6e": "assets/img/149e4570c7087b6e.jpg",
+  "e65b2a31bbd311c7": "assets/img/e65b2a31bbd311c7.jpg",
+  "47de655589794c30": "assets/img/47de655589794c30.jpg",
+  "09b3a4ae7b5a1c8c": "assets/img/09b3a4ae7b5a1c8c.jpg",
+  "ce751407e383a957": "assets/img/ce751407e383a957.jpg",
+  "ea3dfcab6a905836": "assets/img/ea3dfcab6a905836.jpg",
+  "cc14536938c0853e": "assets/img/cc14536938c0853e.jpg",
+  "578b5f76edbdc8ea": "assets/img/578b5f76edbdc8ea.jpg",
+  "ab7e17db5f748af2": "assets/img/ab7e17db5f748af2.jpg",
+  "e8fd589ebdfc1962": "assets/img/e8fd589ebdfc1962.jpg",
+  "93bd9220f17c5011": "assets/img/93bd9220f17c5011.jpg",
+  "296b6107ed510b9a": "assets/img/296b6107ed510b9a.jpg",
+  "1e17f7be80324d2c": "assets/img/1e17f7be80324d2c.jpg",
+  "c666d657a6367805": "assets/img/c666d657a6367805.jpg",
+  "0e5bd00b9187b5a6": "assets/img/0e5bd00b9187b5a6.jpg",
+  "7413a7ca2c45f908": "assets/img/7413a7ca2c45f908.jpg",
+  "d7afdad319564112": "assets/img/d7afdad319564112.jpg",
+  "4d6f102ebb6b70f4": "assets/img/4d6f102ebb6b70f4.jpg",
+  "217ec5973e8e6242": "assets/img/217ec5973e8e6242.jpg",
+  "13a52a751a1d6d55": "assets/img/13a52a751a1d6d55.jpg",
+  "5874e54347b39398": "assets/img/5874e54347b39398.jpg",
+  "354ff707a0949523": "assets/img/354ff707a0949523.jpg",
+  "fedaaa6956caf42f": "assets/img/fedaaa6956caf42f.jpg",
+  "eff11bbdf31a4941": "assets/img/eff11bbdf31a4941.jpg",
+  "be8c882568e46c83": "assets/img/be8c882568e46c83.jpg",
+  "79ba292986577638": "assets/img/79ba292986577638.jpg",
+  "64a236eed6493603": "assets/img/64a236eed6493603.jpg",
+  "8f8d4a0d75afe0e0": "assets/img/8f8d4a0d75afe0e0.jpg",
+  "eb3a0d960a12bbef": "assets/img/eb3a0d960a12bbef.jpg",
+  "493a58e6d444c36b": "assets/img/493a58e6d444c36b.jpg",
+  "29834cad4135a7bc": "assets/img/29834cad4135a7bc.jpg",
+  "d8f9808a24b3935f": "assets/img/d8f9808a24b3935f.jpg",
+  "814e427ed8a93380": "assets/img/814e427ed8a93380.jpg",
+  "4eae7adbea247b6c": "assets/img/4eae7adbea247b6c.jpg",
+  "3d5e003745fce9ac": "assets/img/3d5e003745fce9ac.jpg",
+  "7f372aa176c12e58": "assets/img/7f372aa176c12e58.jpg",
+  "e7bfdd5095161870": "assets/img/e7bfdd5095161870.jpg",
+  "dc5aa9e196ffc8d3": "assets/img/dc5aa9e196ffc8d3.jpg",
+  "3eb397d40aff892c": "assets/img/3eb397d40aff892c.jpg",
+  "946f491f0bfa4227": "assets/img/946f491f0bfa4227.jpg",
+  "2426b0fdf36d4458": "assets/img/2426b0fdf36d4458.jpg",
+  "dd5e01921ffec965": "assets/img/dd5e01921ffec965.jpg",
+  "a0801a1a3c28aa29": "assets/img/a0801a1a3c28aa29.jpg",
+  "d723bd202d86f7fd": "assets/img/d723bd202d86f7fd.jpg",
+  "cd63adb0c70d466a": "assets/img/cd63adb0c70d466a.jpg",
+  "51bd56786e1bf5ef": "assets/img/51bd56786e1bf5ef.jpg",
+  "9cede3b58f67c9ab": "assets/img/9cede3b58f67c9ab.jpg",
+  "31566dccb86fd43b": "assets/img/31566dccb86fd43b.jpg",
+  "3c5842585478a748": "assets/img/3c5842585478a748.jpg",
+  "88d56cedbf27c4bf": "assets/img/88d56cedbf27c4bf.jpg",
+  "6f5bb57aee2b5b35": "assets/img/6f5bb57aee2b5b35.jpg",
+  "15d43bceb57b4c1e": "assets/img/15d43bceb57b4c1e.jpg",
+  "bdf4f6c4bfae2613": "assets/img/bdf4f6c4bfae2613.jpg",
+  "f09938156ad04047": "assets/img/f09938156ad04047.jpg",
+  "d865b2153f681813": "assets/img/d865b2153f681813.jpg",
+  "c0ac5560c4c5950d": "assets/img/c0ac5560c4c5950d.jpg",
+  "af9ca0266c35d06d": "assets/img/af9ca0266c35d06d.jpg",
+  "19f6bfd63518c157": "assets/img/19f6bfd63518c157.jpg",
+  "3141dae08b62bb38": "assets/img/3141dae08b62bb38.jpg",
+  "18a325f742755a23": "assets/img/18a325f742755a23.jpg",
+  "b9117e5f46c45e6e": "assets/img/b9117e5f46c45e6e.jpg",
+  "300dc8d47ad24ccd": "assets/img/300dc8d47ad24ccd.jpg",
+  "0b04e5f6936a7926": "assets/img/0b04e5f6936a7926.jpg",
+  "1d7e22acd477e1ca": "assets/img/1d7e22acd477e1ca.jpg",
+  "eba6e51237b5bacc": "assets/img/eba6e51237b5bacc.jpg",
+  "eea2b42d220ff5df": "assets/img/eea2b42d220ff5df.jpg",
+  "15503a330266ad52": "assets/img/15503a330266ad52.jpg",
+  "fa00b38a2b16ae8d": "assets/img/fa00b38a2b16ae8d.jpg",
+  "18978f909f1b4f1e": "assets/img/18978f909f1b4f1e.jpg",
+  "7737f86563ece54a": "assets/img/7737f86563ece54a.jpg",
+  "39dd1da52b841a00": "assets/img/39dd1da52b841a00.jpg",
+  "3cff954e66f968fa": "assets/img/3cff954e66f968fa.jpg",
+  "82cb624c278f5e07": "assets/img/82cb624c278f5e07.jpg",
+  "8ae191f308d6e779": "assets/img/8ae191f308d6e779.jpg",
+  "885cbd3390a9d0de": "assets/img/885cbd3390a9d0de.jpg",
+  "2c7f933b208e27d7": "assets/img/2c7f933b208e27d7.jpg",
+  "7bee8b3825c3bb05": "assets/img/7bee8b3825c3bb05.jpg",
+  "8e05b7beb97527a4": "assets/img/8e05b7beb97527a4.jpg",
+  "3031e98c727f6bc4": "assets/img/3031e98c727f6bc4.jpg",
+  "cadf3ed39a07f31b": "assets/img/cadf3ed39a07f31b.jpg",
+  "36bc7341450fd9bc": "assets/img/36bc7341450fd9bc.jpg",
+  "99d62834ad78fd16": "assets/img/99d62834ad78fd16.jpg",
+  "5938811f2a0fc6d9": "assets/img/5938811f2a0fc6d9.jpg",
+  "3492166cf2b4fc04": "assets/img/3492166cf2b4fc04.jpg",
+  "cc7d85932022418f": "assets/img/cc7d85932022418f.jpg",
+  "7a4c617483f667e1": "assets/img/7a4c617483f667e1.jpg",
+  "a0099c9bd965b550": "assets/img/a0099c9bd965b550.jpg",
+  "328335ff12802432": "assets/img/328335ff12802432.jpg",
+  "d0689272b1813273": "assets/img/d0689272b1813273.jpg",
+  "3669d60126a7d9e4": "assets/img/3669d60126a7d9e4.jpg",
+  "68bf4831eb5553e5": "assets/img/68bf4831eb5553e5.jpg",
+  "410ca6abd6207924": "assets/img/410ca6abd6207924.jpg",
+  "b37333c76aee4127": "assets/img/b37333c76aee4127.jpg",
+  "ddf768643d329048": "assets/img/ddf768643d329048.jpg",
+  "65d45b9bf9fbd8c8": "assets/img/65d45b9bf9fbd8c8.jpg",
+  "fb3240a7f6a4e969": "assets/img/fb3240a7f6a4e969.jpg",
+  "c9a158172207ac17": "assets/img/c9a158172207ac17.jpg",
+  "cbaf9ef34bb32651": "assets/img/cbaf9ef34bb32651.jpg",
+  "5cc64bff5c53c7a6": "assets/img/5cc64bff5c53c7a6.jpg",
+  "7af7f7a016f459e1": "assets/img/7af7f7a016f459e1.jpg",
+  "058649c4aeb8a509": "assets/img/058649c4aeb8a509.jpg",
+  "86fae1c0e71cc8d7": "assets/img/86fae1c0e71cc8d7.jpg",
+  "1f207a058927434e": "assets/img/1f207a058927434e.jpg",
+  "22064d797d1d5c28": "assets/img/22064d797d1d5c28.jpg",
+  "b2388bd2017a1f2f": "assets/img/b2388bd2017a1f2f.jpg",
+  "e5dffbc1c1c37ee0": "assets/img/e5dffbc1c1c37ee0.jpg",
+  "fa53a49096f8f77a": "assets/img/fa53a49096f8f77a.jpg",
+  "a3991715a59f6589": "assets/img/a3991715a59f6589.jpg",
+  "f959b102b3eebec7": "assets/img/f959b102b3eebec7.jpg",
+  "088eda0bdda3281f": "assets/img/088eda0bdda3281f.jpg",
+  "5224630b52859844": "assets/img/5224630b52859844.jpg",
+  "ac070cd530f8a5a4": "assets/img/ac070cd530f8a5a4.jpg",
+  "0403935db1149e73": "assets/img/0403935db1149e73.jpg",
+  "b759ed5af71ef394": "assets/img/b759ed5af71ef394.jpg",
+  "918f97370278b222": "assets/img/918f97370278b222.jpg",
+  "43d25f01d450e5cd": "assets/img/43d25f01d450e5cd.jpg",
+  "6f6105a3e6a681fd": "assets/img/6f6105a3e6a681fd.jpg",
+  "065709ea22fa8481": "assets/img/065709ea22fa8481.jpg",
+  "9b83e5167354c5f6": "assets/img/9b83e5167354c5f6.jpg",
+  "325d1f0f1813e498": "assets/img/325d1f0f1813e498.jpg",
+  "2cb45f99136b4933": "assets/img/2cb45f99136b4933.jpg",
+  "4921f26f06c2b8c2": "assets/img/4921f26f06c2b8c2.jpg",
+  "c59a2a73b201e674": "assets/img/c59a2a73b201e674.jpg",
+  "e296d7a03695cbc0": "assets/img/e296d7a03695cbc0.jpg",
+  "fd931d2b88cf14d8": "assets/img/fd931d2b88cf14d8.jpg",
+  "0bd0c509e3272097": "assets/img/0bd0c509e3272097.jpg",
+  "d2c40e8cf7c683f6": "assets/img/d2c40e8cf7c683f6.jpg",
+  "8afa53005ffef5ad": "assets/img/8afa53005ffef5ad.jpg",
+  "39bb3d734a0df44c": "assets/img/39bb3d734a0df44c.jpg",
+  "7b5f3b7343f0dc85": "assets/img/7b5f3b7343f0dc85.jpg",
+  "8d39e8ba3776aa27": "assets/img/8d39e8ba3776aa27.jpg",
+  "2ce3752c8502b0c8": "assets/img/2ce3752c8502b0c8.jpg",
+  "28394eb0db30e1cc": "assets/img/28394eb0db30e1cc.jpg",
+  "b79726fefe919733": "assets/img/b79726fefe919733.jpg"
+ },
+ "biliLeads": [
+  {
+   "year": "2017",
+   "title": "东启介×纳谷健《我们的休息室》Room1",
+   "query": "東啓介 納谷健 僕らの休憩室 Room1",
+   "channel": "三千吉彩花",
+   "note": "2017.08.07上传；约11分57秒。",
+   "source": "https://search.bilibili.com/all?keyword=%E8%A8%AD%E6%A8%82%E5%95%93%E5%A4%AA",
+   "url": "https://search.bilibili.com/all?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E7%B4%8D%E8%B0%B7%E5%81%A5%20%E5%83%95%E3%82%89%E3%81%AE%E4%BC%91%E6%86%A9%E5%AE%A4%20Room1"
+  },
+  {
+   "year": "2024",
+   "title": "饭岛宽骑×东启介×见津贤｜短剧拍摄花絮",
+   "query": "飯島寛騎 東啓介 見津賢 拍戏 花絮",
+   "channel": "wttchh",
+   "note": "2024.12.15上传；约1分14秒。",
+   "source": "https://search.bilibili.com/all?keyword=%E9%A5%AD%E5%B2%9B%E5%AF%9B%E9%AA%91",
+   "url": "https://search.bilibili.com/all?keyword=%E9%A3%AF%E5%B3%B6%E5%AF%9B%E9%A8%8E%20%E6%9D%B1%E5%95%93%E4%BB%8B%20%E8%A6%8B%E6%B4%A5%E8%B3%A2%20%E6%8B%8D%E6%88%8F%20%E8%8A%B1%E7%B5%AE"
+  },
+  {
+   "year": "2026",
+   "title": "2026.10.25 Instagram直播｜中文字幕版",
+   "query": "东启介 红猫戏服 腰带 instagram 2026.10.25",
+   "channel": "航海水上ライオン連合",
+   "note": "谈红猫服装、腰带、剧情及新写真集；约41分45秒。",
+   "source": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%B1%B1%E6%9C%AC%E8%A3%95%E5%85%B8",
+   "url": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%90%AF%E4%BB%8B%20%E7%BA%A2%E7%8C%AB%E6%88%8F%E6%9C%8D%20%E8%85%B0%E5%B8%A6%20instagram%202026.10.25"
+  },
+  {
+   "year": "2026",
+   "title": "2026.10.25 Instagram直播切片②｜华武利变身",
+   "query": "东启介 261025 直播 形质转换",
+   "channel": "蒜瓣烧鸟",
+   "note": "2026.10.28上传；中日字幕切片。",
+   "source": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%B0%8F%E6%B8%8A%E6%B3%BD%E6%8A%A5%E6%BF%91",
+   "url": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%90%AF%E4%BB%8B%20261025%20%E7%9B%B4%E6%92%AD%20%E5%BD%A2%E8%B4%A8%E8%BD%AC%E6%8D%A2"
+  },
+  {
+   "year": "2026",
+   "title": "《麦斯》特别座谈会｜有爱的三人小队与剧内外反差",
+   "query": "东启介 有爱的三人小队 麦斯 特别座谈会",
+   "channel": "航海水上ライオン連合",
+   "note": "四位主演参与的中日字幕座谈会；约17分51秒。",
+   "source": "https://www.bilibili.com/video/BV1vgtG6wES9/",
+   "url": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%90%AF%E4%BB%8B%20%E6%9C%89%E7%88%B1%E7%9A%84%E4%B8%89%E4%BA%BA%E5%B0%8F%E9%98%9F%20%E9%BA%A6%E6%96%AF%20%E7%89%B9%E5%88%AB%E5%BA%A7%E8%B0%88%E4%BC%9A"
+  },
+  {
+   "year": "2026",
+   "title": "《麦斯》超燃座谈会｜从试镜印象到建立羁绊",
+   "query": "东启介 从试镜时印象不好到建立羁绊",
+   "channel": "航海水上ライオン連合",
+   "note": "四位主演参与的中日字幕座谈会。",
+   "source": "https://www.bilibili.com/video/BV1vgtG6wES9/",
+   "url": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%90%AF%E4%BB%8B%20%E4%BB%8E%E8%AF%95%E9%95%9C%E6%97%B6%E5%8D%B0%E8%B1%A1%E4%B8%8D%E5%A5%BD%E5%88%B0%E5%BB%BA%E7%AB%8B%E7%BE%81%E7%BB%8A"
+  },
+  {
+   "year": "2026",
+   "title": "《麦斯》东启介杂志专访中文译介",
+   "query": "东启介 杂志全译 龙首 意外地普通",
+   "channel": "航海水上ライオン連合",
+   "note": "2026.11.09上传；约5分27秒。",
+   "source": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%A3%85%E5%8A%A8",
+   "url": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%90%AF%E4%BB%8B%20%E6%9D%82%E5%BF%97%E5%85%A8%E8%AF%91%20%E9%BE%99%E9%A6%96%20%E6%84%8F%E5%A4%96%E5%9C%B0%E6%99%AE%E9%80%9A"
+  }
+ ]
+};

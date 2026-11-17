@@ -1,327 +1,398 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="./support.js"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>东启介 资讯站｜Keisuke Higashi</title>
+<meta name="description" content="东启介（東啓介）的舞台、影视、采访、杂志、广播与周边资讯整理站。">
+<style>
+:root{
+  --bg:#fbf6ef;--bg2:#f4ece1;--card:#fffdf9;--ink:#3b3631;--muted:#8d847a;--line:#ece3d6;
+  --sage:#7f9c88;--sage-soft:#e6eee7;--peach:#e7a98c;--peach-soft:#fbe9df;--rose:#d98f9a;--rose-soft:#f8e4e6;
+  --sky:#8aa9c4;--sky-soft:#e5eef6;--butter:#e9c46a;--butter-soft:#fbf1d6;--lav:#a698c4;--lav-soft:#eee9f6;
+  --r:22px;--r-sm:14px;--shadow:0 6px 24px rgba(120,96,70,.08),0 1px 3px rgba(120,96,70,.06);
+  --serif:"Noto Serif SC","Songti SC","Source Han Serif SC",Georgia,serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:84px}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.75 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+img{display:block;max-width:100%}
+button{font:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--peach);outline-offset:3px;border-radius:8px}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+/* nav */
+.nav{position:sticky;top:0;z-index:20;background:rgba(251,246,239,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid rgba(236,227,214,.7)}
+.nav .wrap{display:flex;align-items:center;gap:18px;height:64px}
+.logo{font-family:var(--serif);font-size:19px;letter-spacing:.08em;white-space:nowrap}
+.logo span{display:inline-grid;place-items:center;width:32px;height:32px;border-radius:50%;background:var(--peach-soft);color:#b8694a;font-size:14px;margin-right:8px}
+.pills{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;margin-left:auto}
+.pills::-webkit-scrollbar{display:none}
+.pills a{padding:7px 14px;border-radius:999px;font-size:13px;color:var(--muted);white-space:nowrap;transition:.2s}
+.pills a:hover,.pills a.on{background:var(--card);color:var(--ink);box-shadow:var(--shadow)}
+.pills a.arch{background:var(--sage);color:#fff}
+
+/* hero */
+.hero{padding:44px 0 26px}
+.hero-card{position:relative;display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);gap:36px;background:linear-gradient(135deg,#fffaf3 0%,#fdf1e8 55%,#f3efe6 100%);border-radius:34px;padding:44px;box-shadow:var(--shadow);overflow:hidden}
+.hero-card:before{content:"";position:absolute;width:340px;height:340px;border-radius:50%;background:radial-gradient(circle,rgba(231,169,140,.22),transparent 70%);right:22%;top:-120px}
+.hero-card:after{content:"";position:absolute;width:260px;height:260px;border-radius:50%;background:radial-gradient(circle,rgba(127,156,136,.18),transparent 70%);left:-80px;bottom:-110px}
+.hero-txt{position:relative;z-index:1}
+.kana{font-size:13px;letter-spacing:.3em;color:var(--muted)}
+.hero h1{font-family:var(--serif);font-weight:600;font-size:clamp(44px,6vw,72px);line-height:1.1;margin:10px 0 6px;letter-spacing:.06em}
+.hero h1 small{display:block;font-size:16px;font-weight:400;letter-spacing:.24em;color:var(--muted);margin-top:12px}
+.tagline{font-size:16px;color:#5f5750;max-width:560px;margin:18px 0 22px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{display:inline-flex;align-items:center;gap:6px;padding:6px 13px;border-radius:999px;font-size:12.5px;background:var(--card);box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.chip b{font-weight:600}
+.hero-stats{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}
+.hs{background:rgba(255,255,255,.75);border-radius:18px;padding:12px 18px;min-width:108px}
+.hs strong{display:block;font-family:var(--serif);font-size:26px;line-height:1.2}
+.hs span{font-size:12px;color:var(--muted)}
+.hero-photo{position:relative;z-index:1;align-self:center;justify-self:center;width:100%;max-width:300px}
+.hero-photo .ph{aspect-ratio:3/4;border-radius:180px 180px 26px 26px;overflow:hidden;background:var(--bg2);box-shadow:0 18px 40px rgba(120,96,70,.18)}
+.hero-photo img{width:100%;height:100%;object-fit:cover;object-position:top}
+.cap{font-size:11px;color:var(--muted);margin-top:8px;text-align:center}
+.updated{display:inline-block;margin-top:16px;font-size:12px;color:var(--muted)}
+
+/* section */
+section.sec{padding:34px 0}
+.sec-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;margin-bottom:20px;flex-wrap:wrap}
+.sec-head h2{font-family:var(--serif);font-weight:600;font-size:26px;margin:0;letter-spacing:.05em}
+.sec-head h2 em{font-style:normal;font-size:12px;letter-spacing:.24em;color:var(--peach);display:block;font-family:inherit;margin-bottom:2px}
+.more{font-size:13px;color:var(--sage);padding:7px 14px;border-radius:999px;background:var(--sage-soft);white-space:nowrap}
+.more:hover{background:var(--sage);color:#fff}
+.card{background:var(--card);border-radius:var(--r);box-shadow:var(--shadow);overflow:hidden}
+
+/* now */
+.now-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+.now{display:grid;grid-template-columns:200px minmax(0,1fr)}
+.now .img{background:var(--bg2);min-height:100%}
+.now .img img{width:100%;height:100%;object-fit:cover;object-position:top}
+.now .body{padding:22px 24px}
+.badge{display:inline-block;font-size:11.5px;padding:3px 10px;border-radius:999px;background:var(--peach-soft);color:#b46a4b;margin-bottom:8px}
+.badge.live{background:var(--rose-soft);color:#b45d6c}
+.badge.live:before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--rose);margin-right:6px;vertical-align:middle;animation:pulse 1.8s infinite}
+@keyframes pulse{50%{opacity:.25}}
+.now h3,.g h3{font-family:var(--serif);font-size:19px;margin:0 0 2px;line-height:1.4}
+.ja{font-size:12px;color:var(--muted);margin:0 0 8px}
+.role{font-size:13.5px;color:#6b8a75;font-weight:600;margin:0 0 10px}
+.lines{list-style:none;padding:0;margin:0 0 10px;font-size:13.5px}
+.lines li{padding:4px 0 4px 18px;position:relative}
+.lines li:before{content:"";position:absolute;left:3px;top:13px;width:7px;height:7px;border-radius:50%;background:var(--sage-soft);border:2px solid var(--sage)}
+.note{font-size:12.5px;color:var(--muted);background:var(--bg);border-radius:12px;padding:10px 12px;margin:0 0 12px}
+.lk{display:flex;flex-wrap:wrap;gap:6px}
+.lk a{font-size:12.5px;padding:5px 11px;border-radius:999px;background:var(--sky-soft);color:#4f7393}
+.lk a:hover{background:var(--sky);color:#fff}
+.imgnote{font-size:10.5px;color:var(--muted);padding:6px 12px}
+.recent{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-top:22px}
+.rc{display:flex;gap:14px;align-items:center;padding:12px;border-radius:18px}
+.rc .t{width:64px;height:84px;border-radius:12px;overflow:hidden;flex:none;background:var(--bg2);display:grid;place-items:center;color:var(--muted);font-family:var(--serif)}
+.rc .t img{width:100%;height:100%;object-fit:cover;object-position:top}
+.rc b{display:block;font-size:14px;line-height:1.45}
+.rc span{font-size:12px;color:var(--muted)}
+
+/* upcoming */
+.cal{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.ev{display:flex;gap:14px;padding:16px;border-radius:20px;align-items:flex-start}
+.dt{flex:none;width:62px;text-align:center;border-radius:16px;padding:8px 0;background:var(--butter-soft)}
+.dt .m{font-size:11px;color:#a8873a;letter-spacing:.08em}
+.dt .d{font-family:var(--serif);font-size:24px;line-height:1.1}
+.dt .y{font-size:10px;color:var(--muted)}
+.ev .c{font-size:11px;color:var(--muted)}
+.ev b{display:block;font-size:14px;line-height:1.5;margin:2px 0}
+.ev p{margin:0;font-size:12px;color:var(--muted)}
+.ev.live .dt{background:var(--rose-soft)}
+.ev.live .dt .m{color:#b45d6c}
+
+/* news */
+.news-wrap{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:22px;align-items:start}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.filters button{border:0;background:var(--card);padding:6px 14px;border-radius:999px;font-size:12.5px;color:var(--muted);box-shadow:0 1px 2px rgba(0,0,0,.05)}
+.filters button.on{background:var(--ink);color:#fff}
+.news{list-style:none;margin:0;padding:6px 22px}
+.news li{display:grid;grid-template-columns:92px minmax(0,1fr);gap:14px;padding:16px 0;border-bottom:1px dashed var(--line)}
+.news li:last-child{border:0}
+.news time{font-size:12.5px;color:var(--muted);padding-top:2px}
+.tag{display:inline-block;font-size:11px;padding:1px 9px;border-radius:999px;margin-right:8px;vertical-align:2px}
+.news a b{font-weight:600}
+.news a:hover b{color:#b46a4b}
+.news p{margin:4px 0 0;font-size:13px;color:var(--muted)}
+.side-card{padding:22px}
+.side-card h3{font-family:var(--serif);font-size:17px;margin:0 0 12px}
+.mini{list-style:none;margin:0;padding:0}
+.mini li{padding:9px 0;border-bottom:1px solid var(--line);font-size:13px}
+.mini li:last-child{border:0}
+.mini a:hover{color:#b46a4b}
+.mini small{display:block;color:var(--muted);font-size:11.5px}
+
+/* category tabs */
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}
+.tabs button{border:0;padding:9px 18px;border-radius:999px;background:var(--card);color:var(--muted);font-size:13.5px;box-shadow:0 1px 2px rgba(0,0,0,.05);transition:.2s}
+.tabs button.on{background:var(--sage);color:#fff;box-shadow:0 6px 16px rgba(127,156,136,.35)}
+.tabs button small{opacity:.7;margin-left:4px;font-size:11px}
+.works{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:18px}
+.w{display:flex;flex-direction:column;transition:transform .25s}
+.w:hover{transform:translateY(-3px)}
+.w .img{aspect-ratio:4/5;background:linear-gradient(135deg,#f4ece1,#efe6f2);display:grid;place-items:center;overflow:hidden}
+.w .img img{width:100%;height:100%;object-fit:cover;object-position:top}
+.w .img .ph{font-family:var(--serif);font-size:34px;color:#cdbfae}
+.w .b{padding:14px 16px 16px}
+.w .meta{font-size:11.5px;color:var(--muted)}
+.w b{display:block;font-size:14px;line-height:1.5;margin:3px 0}
+.w .r{font-size:12px;color:#6b8a75}
+.w.textonly .img{aspect-ratio:auto;height:8px}
+
+/* videos */
+.vids{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
+.v .th{aspect-ratio:16/9;background:var(--bg2);position:relative;overflow:hidden}
+.v .th img{width:100%;height:100%;object-fit:cover}
+.v .th .pf{position:absolute;left:10px;top:10px;font-size:11px;padding:2px 9px;border-radius:999px;background:rgba(255,255,255,.92)}
+.v .th .bili{position:absolute;inset:0;display:grid;place-items:center;background:linear-gradient(135deg,#e5f3fb,#fde8ef);color:#5b8fb4;font-family:var(--serif);font-size:22px}
+.v .b{padding:12px 14px 14px}
+.v b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:13px;line-height:1.55;font-weight:600}
+.v small{display:block;margin-top:6px;font-size:11.5px;color:var(--muted)}
+
+/* goods */
+.goods{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px}
+.g{display:flex;flex-direction:column}
+.g .img{aspect-ratio:4/3;background:linear-gradient(135deg,var(--butter-soft),var(--peach-soft));display:grid;place-items:center;overflow:hidden}
+.g .img img{width:100%;height:100%;object-fit:contain;background:#f6efe5}
+.g .img .ph{font-family:var(--serif);font-size:15px;color:#b89a73;letter-spacing:.2em}
+.g .b{padding:16px 18px 18px;flex:1;display:flex;flex-direction:column}
+.g .meta{font-size:12px;color:var(--muted);margin-bottom:6px}
+.g ul{margin:6px 0 12px;padding-left:18px;font-size:12.5px;color:#5f5750;flex:1}
+.g .go{align-self:flex-start;font-size:12.5px;padding:6px 14px;border-radius:999px;background:var(--peach-soft);color:#b46a4b}
+.g .go:hover{background:var(--peach);color:#fff}
+
+/* profile */
+.prof{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:22px}
+.facts{padding:24px 26px}
+.facts dl{display:grid;grid-template-columns:72px 1fr;gap:10px 14px;margin:0;font-size:14px}
+.facts dt{color:var(--muted)}
+.facts dd{margin:0}
+.nick{margin-top:18px;padding-top:16px;border-top:1px dashed var(--line);font-size:13px;color:var(--muted)}
+.skills{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.sk{padding:16px 18px;border-radius:20px;display:flex;gap:12px}
+.sk i{flex:none;font-style:normal;width:40px;height:40px;border-radius:14px;display:grid;place-items:center;font-family:var(--serif);font-size:18px}
+.sk b{display:block;font-size:14.5px}
+.sk p{margin:2px 0 0;font-size:12.5px;color:var(--muted);line-height:1.6}
+.ms{margin-top:22px;padding:24px 26px}
+.ms ol{list-style:none;margin:0;padding:0;position:relative}
+.ms ol:before{content:"";position:absolute;left:46px;top:8px;bottom:8px;width:2px;border-radius:2px;background:var(--line)}
+.ms li{display:grid;grid-template-columns:42px 1fr;gap:22px;padding:7px 0;font-size:13.5px;position:relative}
+.ms li b{font-family:var(--serif);color:#b46a4b}
+.ms li:before{content:"";position:absolute;left:41px;top:15px;width:12px;height:12px;border-radius:50%;background:var(--card);border:3px solid var(--peach)}
+.src{font-size:12px;color:var(--muted);margin-top:14px}
+.src a{color:var(--sage);margin-right:10px}
+
+/* channels */
+.ch{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.chc{padding:18px;border-radius:20px;display:block;transition:.2s}
+.chc:hover{transform:translateY(-2px)}
+.chc .n{font-weight:600}
+.chc .h{font-size:12px;color:var(--muted)}
+.chc p{margin:8px 0 0;font-size:12.5px;color:#6a625a}
+.worklinks{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.worklinks a{padding:7px 14px;border-radius:999px;background:var(--card);box-shadow:0 1px 2px rgba(0,0,0,.05);font-size:13px}
+.worklinks a:hover{background:var(--sage);color:#fff}
+.notice{margin-top:16px;font-size:12.5px;color:#8a6f5c;background:var(--peach-soft);border-radius:14px;padding:12px 16px}
+
+footer{margin-top:40px;padding:34px 0 50px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted)}
+footer p{margin:4px 0}
+.empty{padding:26px;text-align:center;color:var(--muted);font-size:13px}
+
+@media (max-width:900px){
+  .hero-card{grid-template-columns:1fr;padding:30px 24px;border-radius:28px}
+  .hero-photo{max-width:220px;grid-row:1}
+  .now-grid,.prof,.news-wrap{grid-template-columns:1fr}
+  .recent{grid-template-columns:1fr}
+  .now{grid-template-columns:130px minmax(0,1fr)}
+}
+@media (max-width:560px){
+  .wrap{padding:0 16px}
+  .now{grid-template-columns:1fr}
+  .now .img{aspect-ratio:16/10}
+  .skills{grid-template-columns:1fr}
+  .news{padding:4px 16px}
+  .news li{grid-template-columns:1fr;gap:2px}
+  .logo{font-size:16px}
+}
+</style>
 </head>
 <body>
-<x-dc>
-<helmet>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=M+PLUS+Rounded+1c:wght@500;700;800&display=swap" rel="stylesheet">
-<style>
-*{box-sizing:border-box;-webkit-tap-highlight-color:transparent;margin:0;padding:0;}
-body{background:#15110e;}
-@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
-@keyframes twinkle{0%,100%{opacity:.15;transform:scale(.6) rotate(0deg)}50%{opacity:1;transform:scale(1.25) rotate(25deg)}}
-@keyframes pop{0%{transform:scale(.3);opacity:0}55%{transform:scale(1.1)}100%{transform:scale(1);opacity:1}}
-@keyframes glowpulse{0%,100%{box-shadow:0 0 22px rgba(120,225,255,.55),0 6px 18px rgba(0,0,0,.25)}50%{box-shadow:0 0 52px rgba(140,235,255,.95),0 6px 18px rgba(0,0,0,.25)}}
-@keyframes spinslow{to{transform:rotate(360deg)}}
-@keyframes holoshift{0%{background-position:0% 50%}100%{background-position:300% 50%}}
-@keyframes risein{0%{transform:translateY(14px);opacity:0}100%{transform:translateY(0);opacity:1}}
-@keyframes hint{0%,100%{opacity:.4}50%{opacity:1}}
-</style>
-<template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" fill="#2c6f6b"/><circle cx="50" cy="44" r="18" fill="#fff"/><circle cx="50" cy="66" r="14" fill="none" stroke="#ec3d80" stroke-width="5"/></svg></template>
-</helmet>
-<div style="min-height:100vh;display:flex;justify-content:center;font-family:'M PLUS Rounded 1c',sans-serif;">
-<div style="position:relative;width:100%;max-width:430px;min-height:100vh;overflow:hidden;background:linear-gradient(180deg,#2c6f6b 0%,#2c6f6b 5%,#b8923f 14%,#e6cf94 38%,#e3c684 70%,#d3b06e 100%);">
-
-  <!-- status bar -->
-  <div style="position:relative;z-index:5;display:flex;align-items:center;justify-content:space-between;padding:9px 22px 4px;font-size:14px;font-weight:700;color:#3a2e16;">
-    <span>9:41</span>
-    <span style="letter-spacing:1px;">●●●● ᯤ 📶 88</span>
+<nav class="nav"><div class="wrap">
+  <a class="logo" href="#top"><span>東</span>东启介 资讯站</a>
+  <div class="pills" id="pills">
+    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边</a><a href="#profile">个人资料</a><a href="#links">官方渠道</a><a class="arch" href="archive.html">编年档案 →</a>
   </div>
+</div></nav>
 
-  <!-- ornate corner frame overlay -->
-  <div style="position:absolute;inset:0;z-index:4;pointer-events:none;">
-    <div style="position:absolute;inset:12px;border:2px solid rgba(150,112,42,.55);border-radius:8px;"></div>
-    <div style="position:absolute;inset:17px;border:1px solid rgba(231,201,126,.5);border-radius:5px;"></div>
-    <div style="position:absolute;top:6px;left:6px;">{{ cornerSvg }}</div>
-    <div style="position:absolute;top:6px;right:6px;transform:scaleX(-1);">{{ cornerSvg }}</div>
-    <div style="position:absolute;bottom:6px;left:6px;transform:scaleY(-1);">{{ cornerSvg }}</div>
-    <div style="position:absolute;bottom:6px;right:6px;transform:scale(-1,-1);">{{ cornerSvg }}</div>
+<header class="hero" id="top"><div class="wrap"><div class="hero-card">
+  <div class="hero-txt">
+    <div class="kana" id="kana"></div>
+    <h1 id="name"></h1>
+    <p class="tagline" id="tagline"></p>
+    <div class="chips" id="heroChips"></div>
+    <div class="hero-stats" id="heroStats"></div>
+    <span class="updated" id="updated"></span>
   </div>
+  <div class="hero-photo"><div class="ph"><img id="portrait" alt="东启介官方宣传照"></div><div class="cap">官方宣传照 · 2023–2024跨年音乐会</div></div>
+</div></div></header>
 
-  <!-- ===================== HOME ===================== -->
-  <sc-if value="{{ isHome }}" hint-placeholder-val="{{ true }}">
-  <div style="position:relative;z-index:3;display:flex;flex-direction:column;align-items:center;padding:6px 30px 34px;min-height:calc(100vh - 38px);">
-    <div style="margin-top:4px;width:100%;display:flex;gap:4px;padding:4px;border-radius:24px;background:rgba(255,252,244,.75);border:2px solid #c8a24e;">
-      <button onClick="{{ pickZezts }}" style="{{ tabZezts }}">ゼッツ</button>
-      <button onClick="{{ pickOmega }}" style="{{ tabOmega }}">オメガホーン</button>
+<main>
+<section class="sec" id="now"><div class="wrap">
+  <div class="sec-head"><h2><em>NOW</em>正在进行</h2></div>
+  <div class="now-grid" id="nowGrid"></div>
+  <div class="recent" id="recent"></div>
+</div></section>
+
+<section class="sec" id="upcoming"><div class="wrap">
+  <div class="sec-head"><h2><em>SCHEDULE</em>即将到来</h2><a class="more" href="archive.html">完整编年 →</a></div>
+  <div class="cal" id="cal"></div>
+</div></section>
+
+<section class="sec" id="news"><div class="wrap">
+  <div class="sec-head"><h2><em>NEWS</em>最新动态</h2></div>
+  <div class="news-wrap">
+    <div>
+      <div class="filters" id="newsFilters"></div>
+      <ul class="news card" id="newsList"></ul>
     </div>
-    <img src="images/ui/happyclo_banner.jpg" alt="ハピクロ!" style="display:block;width:100%;margin-top:10px;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,.2);">
-    <sc-if value="{{ isOmega }}" hint-placeholder-val="{{ false }}">
-      <img src="images/ui/omega_logo.png" alt="角醒ハンター オメガホーン" style="display:block;width:170px;margin-top:10px;">
-    </sc-if>
-    <sc-if value="{{ isZezts }}" hint-placeholder-val="{{ true }}">
-      <img src="images/ui/zezts_logo.png" alt="仮面ライダーゼッツ" style="display:block;width:230px;margin-top:10px;">
-
-    </sc-if>
-    <h1 style="margin-top:14px;font-family:'Mochiy Pop One';font-size:30px;line-height:1.25;text-align:center;color:#fff;text-shadow:0 2px 0 #c0392b,0 3px 0 #8e2820,2px 4px 6px rgba(0,0,0,.35);">かおかおおかお<br>ヘアゴム</h1>
-    <div style="margin-top:6px;font-weight:800;color:#7a5a1e;font-size:15px;letter-spacing:3px;">{{ kindCount }}</div>
-    <div style="margin-top:7px;font-weight:800;color:#3a2e16;font-size:13px;background:rgba(255,255,255,.6);padding:3px 16px;border-radius:14px;box-shadow:0 1px 3px rgba(0,0,0,.12);">販売価格 990円（税込）／ 1回</div>
-
-    <div style="position:relative;margin-top:14px;animation:floaty 3.4s ease-in-out infinite;">
-      <sc-if value="{{ isZezts }}" hint-placeholder-val="{{ true }}">
-        <div style="filter:drop-shadow(0 12px 14px rgba(0,0,0,.28));">{{ featTie }}</div>
-      </sc-if>
-      <sc-if value="{{ isOmega }}" hint-placeholder-val="{{ false }}">
-        <img src="images/ui/omega_kv.jpg" alt="オメガホーン かおかおおかおヘアゴム" style="display:block;width:250px;height:250px;object-fit:cover;border-radius:14px;border:3px solid #fff;box-shadow:0 10px 18px rgba(0,0,0,.3);">
-      </sc-if>
-      <span style="position:absolute;top:-6px;left:-10px;font-size:22px;animation:twinkle 2s infinite;">✦</span>
-      <span style="position:absolute;top:18px;right:-14px;font-size:15px;animation:twinkle 2.4s .5s infinite;">✦</span>
-      <span style="position:absolute;bottom:6px;left:-16px;font-size:14px;animation:twinkle 2.8s .9s infinite;">✦</span>
-    </div>
-
-    <!-- collection progress -->
-    <div style="width:100%;margin-top:18px;background:rgba(255,252,244,.72);border:2px solid #c8a24e;border-radius:14px;padding:10px 16px;box-shadow:inset 0 1px 0 rgba(255,255,255,.7),0 3px 8px rgba(0,0,0,.12);">
-      <div style="display:flex;justify-content:space-between;align-items:center;font-weight:800;color:#6b4e18;font-size:14px;">
-        <span style="white-space:nowrap;">📖 コレクション</span><span style="white-space:nowrap;">{{ ownedCount }} / {{ total }}</span>
-      </div>
-      <div style="margin-top:7px;height:9px;border-radius:6px;background:#e6d3a6;overflow:hidden;">
-        <div style="height:100%;width:{{ progressPct }};background:linear-gradient(90deg,#5fd0ff,#2a8fe0);border-radius:6px;transition:width .5s;"></div>
-      </div>
-    </div>
-
-    <button onClick="{{ goDex }}" style="margin-top:20px;cursor:pointer;background:none;border:none;color:#6b4e18;font-weight:800;font-size:15px;text-decoration:underline;">コレクションを見る ▸</button>
-    <img src="images/ui/happyclo_howto.jpg" alt="ハピクロ! 購入方法" style="display:block;width:100%;margin-top:18px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.2);">
-    <div style="height:130px;flex:none;"></div>
+    <aside class="card side-card">
+      <h3>最近的杂志与采访</h3>
+      <ul class="mini" id="miniMedia"></ul>
+    </aside>
   </div>
+</div></section>
 
-  <!-- fixed buy bar -->
-  <div style="position:fixed;left:50%;transform:translateX(-50%);bottom:0;z-index:20;width:100%;max-width:430px;">
-    <div style="background:#143038;display:flex;align-items:center;justify-content:center;gap:10px;padding:5px 0;">
-      <span style="color:#46c6d6;font-size:11px;letter-spacing:1px;">&#187;&#187;&#187;&#187;</span>
-      <span style="color:#cfe6e9;font-size:9px;white-space:nowrap;">{{ copyright }}</span>
-      <span style="color:#46c6d6;font-size:11px;letter-spacing:1px;">&#171;&#171;&#171;&#171;</span>
-    </div>
-    <div style="background:#e9eef2;display:flex;gap:10px;padding:12px 14px 18px;box-shadow:0 -4px 14px rgba(0,0,0,.28);">
-      <button onClick="{{ drawOnce }}" style="flex:1;min-width:0;cursor:pointer;background:none;border:none;padding:0;" style-active="transform:scale(.96);"><img src="images/ui/buy1.png" alt="購入する" style="display:block;width:100%;height:auto;"></button>
-      <button onClick="{{ draw10 }}" style="flex:1;min-width:0;cursor:pointer;background:none;border:none;padding:0;" style-active="transform:scale(.96);"><img src="images/ui/buy10.png" alt="10連 購入する" style="display:block;width:100%;height:auto;"></button>
-    </div>
+<section class="sec" id="works"><div class="wrap">
+  <div class="sec-head"><h2><em>WORKS & MEDIA</em>作品与媒体露出</h2><a class="more" id="worksMore" href="archive.html">在编年档案里看全部 →</a></div>
+  <div class="tabs" id="workTabs"></div>
+  <div class="works" id="worksGrid"></div>
+</div></section>
+
+<section class="sec" id="videos"><div class="wrap">
+  <div class="sec-head"><h2><em>VIDEOS</em>最新视频</h2><a class="more" href="archive.html?tab=videos">全部视频资料 →</a></div>
+  <div class="tabs" id="vidTabs"></div>
+  <div class="vids" id="vidGrid"></div>
+</div></section>
+
+<section class="sec" id="goods"><div class="wrap">
+  <div class="sec-head"><h2><em>GOODS</em>周边与商品</h2></div>
+  <div class="goods" id="goodsGrid"></div>
+</div></section>
+
+<section class="sec" id="profile"><div class="wrap">
+  <div class="sec-head"><h2><em>PROFILE</em>个人资料</h2></div>
+  <div class="prof">
+    <div class="card facts"><dl id="facts"></dl><div class="nick" id="nick"></div></div>
+    <div class="skills" id="skills"></div>
   </div>
-  </sc-if>
+  <div class="card ms"><h3 style="font-family:var(--serif);margin:0 0 14px;font-size:17px">经历小记</h3><ol id="milestones"></ol><div class="src" id="profSrc"></div></div>
+</div></section>
 
-  <!-- ===================== REVEAL ===================== -->
-  <sc-if value="{{ isReveal }}" hint-placeholder-val="{{ false }}">
-  <div onClick="{{ next }}" style="position:relative;z-index:3;min-height:calc(100vh - 38px);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:30px;cursor:pointer;">
+<section class="sec" id="links"><div class="wrap">
+  <div class="sec-head"><h2><em>OFFICIAL</em>官方渠道指路</h2></div>
+  <div class="ch" id="selfLinks"></div>
+  <div class="worklinks" id="workLinks"></div>
+  <p class="notice">本人的 X、Instagram 日常更新请直接到官方账号查看。本站不转载粉丝俱乐部（FC）的会员图片和文字，只放入口链接。</p>
+</div></section>
+</main>
 
-    <sc-if value="{{ multi }}" hint-placeholder-val="{{ false }}">
-      <div style="position:absolute;top:8px;right:26px;display:flex;align-items:center;gap:14px;">
-        <span style="font-weight:800;color:#6b4e18;font-size:16px;">{{ revealStep }} / {{ revealTotal }}</span>
-        <button onClick="{{ openAll }}" style="cursor:pointer;background:linear-gradient(180deg,#fff1c2,#ffd566);border:2px solid #cf9a2a;border-radius:8px;padding:6px 12px;font-family:'Mochiy Pop One';font-size:14px;color:#9a6a12;box-shadow:0 3px 0 #b9871f;">OPEN ALL ≫</button>
-      </div>
-    </sc-if>
+<footer><div class="wrap">
+  <p>东启介资讯站 · 粉丝整理 · 非官方</p>
+  <p>图片只用官方公开的剧照、海报和宣传图，并标注出处；版权归原权利人所有。全文与视频请到原发布页阅读、观看。</p>
+  <p id="footUpdated"></p>
+</div></footer>
 
-    <!-- holo backdrop -->
-    <sc-if value="{{ curHolo }}" hint-placeholder-val="{{ false }}">
-      <div style="position:absolute;width:330px;height:330px;border-radius:50%;background:conic-gradient(from 0deg,#ff6ec7,#ffe066,#6effc4,#6ec8ff,#c79bff,#ff6ec7);filter:blur(34px);opacity:.55;animation:spinslow 8s linear infinite;"></div>
-    </sc-if>
+<script src="data/archive.js"></script>
+<script src="data/hub.js"></script>
+<script>
+'use strict';
+const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10); // 日本时间
+const imgOf=im=>im?(im.asset&&A.assets[im.asset])||im.url||'':'';
+const ext=(u,t)=>'<a href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">'+esc(t)+'</a>';
+const fmt=d=>d?d.replaceAll('-','.'):'';
+const tagColor={舞台:['--peach-soft','#b46a4b'],影视:['--sky-soft','#4f7393'],采访:['--sage-soft','#5d7d67'],杂志:['--lav-soft','#7a6aa0'],广播:['--butter-soft','#9a7a2a'],综艺:['--rose-soft','#b45d6c'],周边:['--butter-soft','#9a7a2a'],活动:['--rose-soft','#b45d6c']};
+const tagHtml=t=>{const c=tagColor[t]||['--bg2','#7a7067'];return '<span class="tag" style="background:var('+c[0]+');color:'+c[1]+'">'+esc(t)+'</span>'};
 
-    <div style="position:relative;animation:pop .55s cubic-bezier(.2,1.3,.4,1) both;">
-      <div style="background:#fff;border-radius:28px;padding:26px;{{ tileGlow }}">{{ curTie }}</div>
-      <sc-if value="{{ curHolo }}" hint-placeholder-val="{{ false }}">
-        <span style="position:absolute;top:-2px;left:-6px;font-size:26px;animation:twinkle 1.6s infinite;">✦</span>
-        <span style="position:absolute;top:30%;right:-12px;font-size:18px;animation:twinkle 2s .4s infinite;">✧</span>
-        <span style="position:absolute;bottom:8px;left:-10px;font-size:20px;animation:twinkle 2.3s .8s infinite;">✦</span>
-        <span style="position:absolute;bottom:-4px;right:14px;font-size:15px;animation:twinkle 1.9s 1.1s infinite;">✧</span>
-      </sc-if>
-    </div>
+/* hero */
+const P=H.profile;
+$('kana').textContent=P.kana+' · '+P.roman.toUpperCase();
+$('name').innerHTML=esc(P.name)+'<small>'+esc(P.nameJa)+' · KEISUKE HIGASHI</small>';
+$('tagline').textContent=P.tagline;
+$('heroChips').innerHTML=[['生日','7/14'],['身高','190cm'],['书道','六段'],['爱好','钢琴 · 摄影'],['所属','Watanabe Ent.']].map(([a,b])=>'<span class="chip">'+a+' <b>'+b+'</b></span>').join('');
+const yearsActive=new Date(today).getFullYear()-2013;
+$('heroStats').innerHTML=[[A.events.length,'条编年记录'],[A.videos.length,'条视频资料'],[A.events.filter(e=>e.category==='舞台').length,'部舞台作品'],[yearsActive+'年','演艺生涯']].map(([n,t])=>'<div class="hs"><strong>'+n+'</strong><span>'+t+'</span></div>').join('');
+$('updated').textContent='资料更新：'+fmt(H.updated);
+$('footUpdated').textContent='最后更新 '+fmt(H.updated);
+const pe=A.events.find(e=>e.key==='countdown');if(pe)$('portrait').src=imgOf(pe.images[0]);
 
-    <sc-if value="{{ curHolo }}" hint-placeholder-val="{{ false }}">
-      <div style="margin-top:18px;font-family:'Mochiy Pop One';font-size:14px;letter-spacing:2px;padding:4px 16px;border-radius:16px;color:#fff;background:linear-gradient(90deg,#ff6ec7,#ffe066,#6ec8ff,#ff6ec7);background-size:300% 100%;animation:holoshift 3s linear infinite;box-shadow:0 2px 8px rgba(0,0,0,.2);">★ ホロ ver. ★</div>
-    </sc-if>
+/* now */
+$('nowGrid').innerHTML=H.now.map(n=>'<article class="card now"><div class="img">'+(n.image?'<img src="'+esc(n.image)+'" alt="'+esc(n.title)+'" loading="lazy">':'')+(n.imageNote?'<div class="imgnote">'+esc(n.imageNote)+'</div>':'')+'</div><div class="body"><span class="badge live">'+esc(n.kind)+'</span><h3>'+esc(n.title)+'</h3><p class="ja">'+esc(n.ja)+'</p><p class="role">饰 '+esc(n.role)+'</p><ul class="lines">'+n.lines.map(l=>'<li>'+esc(l)+'</li>').join('')+'</ul>'+(n.note?'<p class="note">'+esc(n.note)+'</p>':'')+'<div class="lk">'+n.links.map(([t,u])=>ext(u,t+' ↗')).join('')+'</div></div></article>').join('');
+$('recent').innerHTML=H.recent.map(r=>'<a class="card rc" href="'+esc(r.url)+'" target="_blank" rel="noopener noreferrer"><div class="t">'+(r.image?'<img src="'+esc(r.image)+'" alt="" loading="lazy">':'東')+'</div><div><span>刚结束 · '+esc(r.date)+'</span><b>'+esc(r.title)+'</b><span>饰 '+esc(r.role)+'</span></div></a>').join('');
 
-    <div style="margin-top:16px;background:rgba(255,253,247,.94);border:2px solid #c8a24e;border-radius:14px;padding:11px 26px;min-width:60%;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,.15);">
-      <div style="font-weight:800;font-size:22px;color:#4a3712;">{{ curName }}</div>
-    </div>
+/* upcoming：从编年档案自动读取未来/进行中的条目 */
+const up=A.events.filter(e=>e.date>=today||(e.end&&e.end>=today)).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,12);
+$('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="archive.html#'+esc(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese)+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
 
-    <div style="margin-top:26px;font-weight:800;color:#7a5a1e;font-size:14px;animation:hint 1.5s infinite;">タップして次へ ▸</div>
-  </div>
-  </sc-if>
+/* news */
+const tags=['全部',...new Set(H.news.map(n=>n.tag))];let curTag='全部';
+function drawNews(){$('newsList').innerHTML=H.news.filter(n=>curTag==='全部'||n.tag===curTag).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
+$('newsFilters').onclick=e=>{const b=e.target.closest('button');if(b){curTag=b.dataset.t;drawNews()}};drawNews();
+const media=A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,8);
+$('miniMedia').innerHTML=media.map(e=>'<li><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.title)+'</a><small>'+fmt(e.date)+' · '+esc(e.category)+'</small></li>').join('');
 
-  <!-- ===================== RESULT LIST ===================== -->
-  <sc-if value="{{ isResult }}" hint-placeholder-val="{{ false }}">
-  <div style="position:relative;z-index:3;min-height:calc(100vh - 38px);display:flex;flex-direction:column;padding:6px 24px 26px;">
-    <h2 style="text-align:center;font-family:'Mochiy Pop One';font-size:24px;color:#fff;text-shadow:0 2px 0 #c0392b,1px 2px 4px rgba(0,0,0,.3);margin:8px 0 14px;">けっか</h2>
-    <div style="flex:1;overflow-y:auto;display:flex;flex-direction:column;gap:11px;padding:2px;">
-      <sc-for list="{{ resultList }}" as="row" hint-placeholder-count="4">
-        <div style="display:flex;align-items:center;gap:14px;animation:risein .4s both;">
-          <div style="flex:none;width:74px;height:74px;border-radius:14px;background:#fff;display:flex;align-items:center;justify-content:center;{{ row.thumbStyle }}">{{ row.tie }}</div>
-          <div style="flex:1;background:#fff;border-radius:18px;padding:16px 20px;font-weight:800;font-size:18px;color:#3a2c12;box-shadow:0 2px 6px rgba(0,0,0,.12);{{ row.nameStyle }}">{{ row.name }}</div>
-        </div>
-      </sc-for>
-    </div>
+/* works：按类别分组 */
+const groups=[
+  {k:'stage',t:'舞台',cats:['舞台','朗读剧']},
+  {k:'screen',t:'影视',cats:['电视剧','网络剧','电影','动画电影']},
+  {k:'mag',t:'杂志',cats:['杂志','写真／出版']},
+  {k:'int',t:'采访·连载',cats:['采访／连载','本人摄影／随笔']},
+  {k:'radio',t:'广播',cats:['广播／音声']},
+  {k:'variety',t:'综艺·节目',cats:['电视节目']},
+  {k:'live',t:'音乐会·活动',cats:['音乐会','活动']}
+];
+let curG='stage';
+function drawWorks(){const g=groups.find(x=>x.k===curG);let list=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
+  let extra='';
+  if(curG==='variety'){const vv=A.videos.filter(v=>/TIMELINE|BS-TBS|大师|大師|MANTAN|カメラ旅|休日/.test(v.title+v.channel)).slice(0,6);extra=vv.map(v=>'<a class="card w" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="img">'+(v.thumbnail?'<img src="'+esc(v.thumbnail)+'" alt="" loading="lazy" style="object-fit:cover">':'<span class="ph">节目</span>')+'</div><div class="b"><span class="meta">节目视频 · '+esc(v.channel)+'</span><b>'+esc(v.title)+'</b></div></a>').join('')}
+  $('worksGrid').innerHTML=list.slice(0,12).map(e=>{const im=e.images[0];return '<a class="card w" href="archive.html#'+esc(e.id)+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'" alt="'+esc(im.caption)+'" loading="lazy">':'<span class="ph">'+e.date.slice(0,4)+'</span>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')+extra||'<div class="empty">暂无</div>';
+  $('worksMore').href='archive.html?cat='+encodeURIComponent(g.cats[0]);
+  $('workTabs').innerHTML=groups.map(x=>'<button class="'+(x.k===curG?'on':'')+'" data-k="'+x.k+'">'+x.t+'<small>'+A.events.filter(e=>x.cats.includes(e.category)).length+'</small></button>').join('')}
+$('workTabs').onclick=e=>{const b=e.target.closest('button');if(b){curG=b.dataset.k;drawWorks()}};drawWorks();
 
-    <div style="position:relative;margin-top:18px;">
-      <div style="position:absolute;top:-15px;left:50%;transform:translateX(-50%);z-index:2;background:linear-gradient(180deg,#ff7ab0,#ec3d80);color:#fff;font-family:'Mochiy Pop One';font-size:17px;padding:6px 30px;clip-path:polygon(8% 0,92% 0,100% 50%,92% 100%,8% 100%,0 50%);box-shadow:0 3px 6px rgba(0,0,0,.25);">続けて購入</div>
-      <div style="display:flex;gap:10px;padding-top:18px;">
-        <button onClick="{{ drawOnce }}" style="flex:1;min-width:0;cursor:pointer;background:none;border:none;padding:0;" style-active="transform:scale(.96);"><img src="images/ui/buy1.png" alt="購入する" style="display:block;width:100%;height:auto;"></button>
-        <button onClick="{{ draw10 }}" style="flex:1;min-width:0;cursor:pointer;background:none;border:none;padding:0;" style-active="transform:scale(.96);"><img src="images/ui/buy10.png" alt="10連 購入する" style="display:block;width:100%;height:auto;"></button>
-      </div>
-      <div style="display:flex;gap:12px;margin-top:11px;">
-        <button onClick="{{ goDex }}" style="flex:1;cursor:pointer;background:rgba(255,255,255,.85);border:2px solid #c8a24e;border-radius:30px;padding:10px;color:#6b4e18;font-weight:800;font-size:15px;">コレクション</button>
-        <button onClick="{{ goHome }}" style="flex:1;cursor:pointer;background:rgba(255,255,255,.85);border:2px solid #c8a24e;border-radius:30px;padding:10px;color:#6b4e18;font-weight:800;font-size:15px;">ホーム</button>
-      </div>
-    </div>
-  </div>
-  </sc-if>
+/* videos */
+let curV='yt';
+function vdate(v){return v.uploadDate||(v.years&&v.years[0])||''}
+function drawVids(){const list=A.videos.filter(v=>curV==='yt'?v.platform!=='B站':v.platform==='B站').sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,12);
+  $('vidGrid').innerHTML=list.map(v=>{const th=v.asset&&A.assets[v.asset]||v.thumbnail;return '<a class="card v" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="th">'+(th?'<img src="'+esc(th)+'" alt="" loading="lazy">':'<div class="bili">bilibili</div>')+'<span class="pf">'+esc(v.type||'')+'</span></div><div class="b"><b>'+esc(v.title)+'</b><small>'+esc(v.channel)+(vdate(v)?' · '+esc(fmt(vdate(v))):'')+'</small></div></a>'}).join('');
+  $('vidTabs').innerHTML=[['yt','YouTube'],['bili','B站']].map(([k,t])=>'<button class="'+(k===curV?'on':'')+'" data-k="'+k+'">'+t+'<small>'+A.videos.filter(v=>k==='yt'?v.platform!=='B站':v.platform==='B站').length+'</small></button>').join('')}
+$('vidTabs').onclick=e=>{const b=e.target.closest('button');if(b){curV=b.dataset.k;drawVids()}};drawVids();
 
-  <!-- ===================== DEX ===================== -->
-  <sc-if value="{{ isDex }}" hint-placeholder-val="{{ false }}">
-  <div style="position:relative;z-index:3;min-height:calc(100vh - 38px);display:flex;flex-direction:column;padding:6px 24px 26px;">
-    <h2 style="text-align:center;font-family:'Mochiy Pop One';font-size:24px;color:#fff;text-shadow:0 2px 0 #c0392b,1px 2px 4px rgba(0,0,0,.3);margin:8px 0 4px;">コレクション</h2>
-    <div style="text-align:center;font-weight:800;color:#7a5a1e;margin-bottom:14px;">{{ ownedCount }} / {{ total }} 種</div>
-    <div style="flex:1;overflow-y:auto;display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:2px;">
-      <sc-for list="{{ dexList }}" as="cell" hint-placeholder-count="9">
-        <div style="background:#fff;border-radius:14px;padding:8px 6px;display:flex;flex-direction:column;align-items:center;box-shadow:0 2px 5px rgba(0,0,0,.12);{{ cell.cardStyle }}">
-          <div style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;">{{ cell.tie }}</div>
-          <div style="margin-top:5px;font-size:10px;font-weight:800;color:#5a4516;text-align:center;line-height:1.2;height:24px;overflow:hidden;">{{ cell.label }}</div>
-        </div>
-      </sc-for>
-    </div>
-    <button onClick="{{ goHome }}" style="margin-top:16px;cursor:pointer;background:linear-gradient(180deg,#8edcff,#36a6ef);border:3px solid #1f7fc4;border-radius:38px;padding:13px;color:#fff;font-weight:800;font-size:18px;text-shadow:0 2px 0 rgba(20,80,130,.5);box-shadow:0 5px 0 #1769a8;">ホームへ戻る</button>
-  </div>
-  </sc-if>
+/* goods */
+$('goodsGrid').innerHTML=H.goods.map(g=>'<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy">':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span>':'')+'<h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul><a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">查看详情 ↗</a></div></article>').join('');
 
-</div>
-</div>
-</x-dc>
-<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:430,&quot;height&quot;:860}}">
-class Component extends DCLogic {
-  constructor(props){
-    super(props);
-    this.base = [
-      {key:'manzuha', name:'万津莫',           ring:'#d23b3b', img:'images/manzuha.jpg', imgH:'images/manzuha_h.jpg', weight:6},
-      {key:'noxp',    name:'ノクス',           ring:'#2a4f9c', img:'images/noxp.jpg',    imgH:'images/noxp_h.jpg',    weight:6},
-      {key:'sieg',    name:'ジーク',           ring:'#7a3fae', img:'images/sieg.jpg',    imgH:'images/sieg_h.jpg',    weight:6},
-      {key:'nemu',    name:'ねむ',             ring:'#8a4fc0', img:'images/nemu.jpg',    imgH:'images/nemu_h.jpg',    weight:6},
-      {key:'minami',  name:'美浪',             ring:'#d23b3b', img:'images/minami.jpg',  imgH:'images/minami_h.jpg',  weight:6},
-      {key:'fujimi',  name:'富士見',           ring:'#243f7a', img:'images/fujimi.jpg',  imgH:'images/fujimi_h.jpg',  weight:6},
-      {key:'nasuka',  name:'なすか',           ring:'#243f7a', img:'images/nasuka.jpg',  imgH:'images/nasuka_h.jpg',  weight:6},
-      {key:'zezts',   name:'仮面ライダーゼッツ',   ring:'#1aa86a', img:'images/zezts.jpg',   imgH:'images/zezts_h.jpg',   weight:6},
-      {key:'nox',     name:'仮面ライダーノクス',   ring:'#2a6fd0', img:'images/nox.jpg',     imgH:'images/nox_h.jpg',     weight:6},
-      {key:'doan',    name:'仮面ライダードォーン', ring:'#7a3fae', img:'images/doan.jpg',    imgH:'images/doan_h.jpg',    weight:6},
-    ];
-    const zz = [];
-    this.base.forEach(b=>{
-      zz.push(Object.assign({}, b, {holo:false, id:b.key,      src:b.img,  weight:6, rate:'6%'}));
-      zz.push(Object.assign({}, b, {holo:true,  id:b.key+'_h', src:b.imgH, weight:4, rate:'4%'}));
-    });
-    const om = [
-      ['shout','炎のシャウト',2.7],['captain','キャプテン・オメガホーン',2.7],['enkaku_m','炎角',2.7],['enkaku','角獣エンカク',2.7],
-      ['giriko','波斬のギリコ',2.7],['zankaku','角獣ザンカク',2.7],['ibaru','絶暴のイバル',2.7],['zetsuenkaku_m','絶炎角',2.7],
-      ['zetsuenkaku','角獣ゼツエンカク',2.7],['baser','飛導のバーサー',2.6],['hikaku','角獣ヒカク',2.6],['gennou','砕厄のゲンノウ',2.6],
-      ['saikaku','角獣サイカク',2.6],['reiji','鉄壁のレイジ',2.7],['hekikaku','角獣ヘキカク',2.6]
-    ];
-    const oo = [];
-    om.forEach(([k,n,r])=>{
-      oo.push({key:k,name:n,holo:false,id:k,src:'images/omega/'+k+'.jpg',weight:4,rate:'4%',grade:'N'});
-      oo.push({key:k,name:n,holo:true,id:k+'_h',src:'images/omega/'+k+'_h.jpg',weight:r,rate:r+'%',grade:'R'});
-    });
-    this.series = {
-      zezts:{label:'仮面ライダーゼッツ',tab:'ゼッツ',lineup:zz,store:'zezts_owned',feat:14,copy:'©2025 石森プロ・テレビ朝日・ADK EM・東映'},
-      omega:{label:'角醒ハンター オメガホーン',tab:'オメガホーン',lineup:oo,store:'omega_owned',feat:1,copy:'(C)テレビ朝日・東映AG・東映'}
-    };
-    this.failed = {};
-    let sk='zezts'; try{ sk = localStorage.getItem('kaokao_series')||'zezts'; }catch(e){}
-    if(!this.series[sk]) sk='zezts';
-    this.state = {screen:'home', results:[], revealIndex:0, seriesKey:sk, owned:this.loadOwned(sk)};
-  }
-  get lineup(){ return this.series[this.state.seriesKey].lineup; }
-  loadOwned(sk){ try{ return JSON.parse(localStorage.getItem(this.series[sk].store)||'{}'); }catch(e){ return {}; } }
-  setSeries(sk){
-    if(sk===this.state.seriesKey) return;
-    try{ localStorage.setItem('kaokao_series', sk); }catch(e){}
-    this.setState({seriesKey:sk, owned:this.loadOwned(sk), results:[], revealIndex:0, screen:'home'});
-  }
+/* profile */
+$('facts').innerHTML=P.facts.map(([a,b])=>'<dt>'+esc(a)+'</dt><dd>'+esc(b)+'</dd>').join('');
+$('nick').innerHTML='爱称：'+P.nicknames.map(esc).join('、')+'（“とんすけ”出自网球王子音乐剧共演的佐藤流司）';
+const skc=['--peach-soft','--sage-soft','--sky-soft','--lav-soft','--butter-soft','--rose-soft'];
+$('skills').innerHTML=P.skills.map((s,i)=>'<div class="card sk"><i style="background:var('+skc[i%6]+')">'+esc(s.icon)+'</i><div><b>'+esc(s.title)+'</b><p>'+esc(s.text)+'</p></div></div>').join('');
+$('milestones').innerHTML=P.milestones.map(([y,t])=>'<li><b>'+esc(y)+'</b><span>'+esc(t)+'</span></li>').join('');
+$('profSrc').innerHTML='资料来源：'+P.sources.map(([t,u])=>ext(u,t)).join('');
 
-  fullName(it){ return it.holo ? it.name+'（ホロver.）' : it.name; }
-  shortName(it){ return it.holo ? it.name+'（ホロ）' : it.name; }
+/* channels */
+const chc=['--peach-soft','--lav-soft','--rose-soft','--sage-soft','--sky-soft'];
+$('selfLinks').innerHTML=H.channels.self.map((c,i)=>'<a class="chc" style="background:var('+chc[i%5]+')" href="'+esc(c.url)+'" target="_blank" rel="noopener noreferrer"><div class="n">'+esc(c.name)+' ↗</div><div class="h">'+esc(c.handle)+'</div><p>'+esc(c.note)+'</p></a>').join('');
+$('workLinks').innerHTML=H.channels.works.map(c=>ext(c.url,c.name+' ↗')).join('');
 
-  pick(){
-    const tot = this.lineup.reduce((s,i)=>s+i.weight,0);
-    let r = Math.random()*tot;
-    for(const it of this.lineup){ r-=it.weight; if(r<=0) return it; }
-    return this.lineup[0];
-  }
-  collect(items){
-    const owned = Object.assign({}, this.state.owned);
-    items.forEach(it=>{ owned[it.id] = (owned[it.id]||0)+1; });
-    try{ localStorage.setItem(this.series[this.state.seriesKey].store, JSON.stringify(owned)); }catch(e){}
-    return owned;
-  }
-  drawOnce(){ const it=this.pick(); const owned=this.collect([it]); this.setState({screen:'reveal',results:[it],revealIndex:0,owned}); }
-  draw10(){ const r=[]; for(let i=0;i<10;i++) r.push(this.pick()); const owned=this.collect(r); this.setState({screen:'reveal',results:r,revealIndex:0,owned}); }
-  next(){ const {revealIndex,results}=this.state; if(revealIndex<results.length-1) this.setState({revealIndex:revealIndex+1}); else this.setState({screen:'result'}); }
-  openAll(){ this.setState({screen:'result'}); }
-
-  hairTie(it, px){
-    if(this.failed[it.src]){
-      return React.createElement('div',{style:{width:px+'px',height:px+'px',display:'flex',flexDirection:'column',alignItems:'center',justifyContent:'center',gap:'4px',borderRadius:'12px',border:'2px dashed '+(it.holo?'#5fd0ff':'#d8c592'),background:it.holo?'linear-gradient(135deg,#fdf0ff,#e8f8ff,#fffbe6)':'#faf6ea',color:'#7a5a1e',fontWeight:800,fontSize:Math.max(9,px*0.1)+'px',textAlign:'center',lineHeight:1.2,padding:'4px'}},
-        React.createElement('span',{key:'a',style:{fontSize:Math.max(11,px*0.16)+'px'}},it.grade||(it.holo?'ホロ':'')),
-        px>=100?React.createElement('span',{key:'b'},it.name):null);
-    }
-    return React.createElement('img',{src:it.src, alt:it.name, draggable:false, onError:()=>{ this.failed[it.src]=1; this.forceUpdate(); }, style:{width:px+'px',height:px+'px',objectFit:'contain',display:'block'}});
-  }
-
-  cornerSvg(){
-    return React.createElement('div',{dangerouslySetInnerHTML:{__html:
-      "<svg viewBox='0 0 120 120' width='104' height='104'>"+
-      "<g fill='none' stroke='#bd9446' stroke-width='6' stroke-linecap='round'><path d='M14 16 H92'/><path d='M16 14 V92'/></g>"+
-      "<g fill='none' stroke='#e8cb80' stroke-width='3' stroke-linecap='round'>"+
-      "<path d='M16 52 C40 52 52 40 52 16'/>"+
-      "<path d='M52 54 C52 76 68 86 90 82 C74 76 70 58 84 50 C68 54 56 48 52 54 Z'/>"+
-      "<path d='M24 90 C24 68 40 58 60 62'/>"+
-      "<path d='M16 92 C16 70 20 62 28 60'/></g>"+
-      "<circle cx='52' cy='52' r='5' fill='#e8cb80'/></svg>"
-    }});
-  }
-
-  renderVals(){
-    const {screen,results,revealIndex,owned,seriesKey} = this.state;
-    const S = this.series[seriesKey];
-    const tabOn='flex:1;cursor:pointer;border:none;border-radius:20px;padding:8px 4px;font-family:inherit;font-weight:800;font-size:14px;background:linear-gradient(180deg,#2a2f3a,#10131a);color:#fff;box-shadow:0 2px 5px rgba(0,0,0,.3);';
-    const tabOff='flex:1;cursor:pointer;border:none;border-radius:20px;padding:8px 4px;font-family:inherit;font-weight:800;font-size:14px;background:transparent;color:#6b4e18;';
-    const cur = results[revealIndex] || null;
-    const ownedCount = Object.keys(owned).filter(k=>owned[k]>0).length;
-    const tileGlow = (cur&&cur.holo) ? 'animation:glowpulse 1.6s ease-in-out infinite;' : 'box-shadow:0 8px 22px rgba(0,0,0,.28);';
-    return {
-      cornerSvg: this.cornerSvg(),
-      isOmega: seriesKey==='omega', isZezts: seriesKey==='zezts',
-      seriesLabel:S.label, copyright:S.copy, kindCount:'― 全'+S.lineup.length+'種 ―',
-      pickZezts:()=>this.setSeries('zezts'), pickOmega:()=>this.setSeries('omega'),
-      tabZezts: seriesKey==='zezts'?tabOn:tabOff, tabOmega: seriesKey==='omega'?tabOn:tabOff,
-      featTie: this.hairTie(S.lineup[S.feat], 180),
-      isHome:screen==='home', isReveal:screen==='reveal', isResult:screen==='result', isDex:screen==='dex',
-      drawOnce:()=>this.drawOnce(), draw10:()=>this.draw10(), next:()=>this.next(), openAll:()=>this.openAll(),
-      goHome:()=>this.setState({screen:'home'}), goDex:()=>this.setState({screen:'dex'}),
-      ownedCount, total:this.lineup.length, progressPct: Math.round(ownedCount/this.lineup.length*100)+'%',
-      curName: cur?this.fullName(cur):'', curHolo: cur?cur.holo:false, curTie: cur?this.hairTie(cur,210):null,
-      tileGlow,
-      multi: results.length>1, revealStep:revealIndex+1, revealTotal:results.length,
-      resultList: results.map((it,i)=>({
-        key:i, name:this.fullName(it), tie:this.hairTie(it,58),
-        thumbStyle: it.holo?'border:2px solid #5fd0ff;box-shadow:0 0 12px rgba(95,208,255,.7);':'border:2px solid #e3d3a6;',
-        nameStyle: it.holo?'color:#1d7fbf;':''
-      })),
-      dexList: this.lineup.map(it=>{
-        const have=(owned[it.id]||0)>0;
-        return {
-          key:it.id, label: have?this.shortName(it):'？？？', rate:'当選確率 '+it.rate,
-          tie: have?this.hairTie(it,64):this.lockTie(it,64),
-          cardStyle: have?(it.holo?'border:2px solid #5fd0ff;box-shadow:0 0 10px rgba(95,208,255,.6);':'border:2px solid #e3d3a6;'):'opacity:.62;border:2px solid #d8cbb0;'
-        };
-      })
-    };
-  }
-
-  lockTie(it, px){
-    return React.createElement('div',{style:{width:px,height:px,display:'flex',alignItems:'center',justifyContent:'center',color:'#b9a87e',fontWeight:800,fontSize:px*0.5+'px'}},'?');
-  }
-}
+/* 导航高亮 */
+const secs=[...document.querySelectorAll('section.sec')],pl=[...document.querySelectorAll('#pills a')];
+addEventListener('scroll',()=>{let cur='';for(const s of secs)if(s.getBoundingClientRect().top<120)cur=s.id;pl.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+cur))},{passive:true});
 </script>
 </body>
 </html>
