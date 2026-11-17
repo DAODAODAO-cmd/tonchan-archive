@@ -15856,6 +15856,10 @@ window.ARCHIVE = {
     {
      "title": "【無料パート】『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
      "url": "https://www.nicovideo.jp/watch/so46942722"
+    },
+    {
+     "title": "七周年惊喜现身片段（B站）",
+     "url": "https://www.bilibili.com/video/BV1KC4q6XEFF/"
     }
    ],
    "pending": false,
@@ -28928,6 +28932,26 @@ window.ARCHIVE = {
    "uploadDate": "2020-04-03",
    "contentDate": "2017-09-22",
    "dateLabel": "2020.04.03 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1KC4q6XEFF",
+   "title": "《玉城裕规的月下美人》七周年 惊喜现身片段",
+   "channel": "传说中的陌老板",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1KC4q6XEFF/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/64f219e0e7cf5b3d10eb160be859bcb3c6483b02.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1KC4q6XEFF/",
+   "uploadDate": "2026-11-06",
+   "contentDate": "2026-10-18",
+   "dateLabel": "2026.11.06 B站上传",
    "asset": ""
   }
  ],
