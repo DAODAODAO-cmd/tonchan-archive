@@ -781,14 +781,14 @@ window.HUB = {
   },
   {
    "title": "变身腰带 DX Maou Driver",
-   "date": "",
-   "price": "",
+   "date": "2026-10-17",
+   "price": "7,920円（含税）",
    "publisher": "万代 BANDAI",
-   "image": "https://i.ytimg.com/vi/baMEfVIuI-w/hqdefault.jpg",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000257519_1.jpg",
    "points": [
     "《假面骑士麦斯》假面骑士Maou的变身玩具；官方TVCM见视频栏"
    ],
-   "url": "https://www.youtube.com/watch?v=baMEfVIuI-w"
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21234/"
   },
   {
    "title": "过往写真集与日历写真书",
@@ -803,6 +803,74 @@ window.HUB = {
     "详细在“作品与媒体露出 → 写真·出版”"
    ],
    "url": "archive.html?cat=%E5%86%99%E7%9C%9F%EF%BC%8F%E5%87%BA%E7%89%88"
+  },
+  {
+   "date": "2026-09-05",
+   "title": "Rider Hero Series 假面骑士Maou",
+   "price": "990円（含税）",
+   "publisher": "万代 BANDAI",
+   "image": "https://assets-toy.bandai.co.jp/toy/ja/product/2026/08/p2a3QIYpeJmPvCjf/1000255432_1.jpg",
+   "points": [
+    "软胶人偶，赤猫变身后的样子"
+   ],
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20954/"
+  },
+  {
+   "date": "2026-09-19",
+   "title": "TAF 假面骑士Maou",
+   "price": "4,400円（含税）",
+   "publisher": "万代 BANDAI",
+   "image": "https://assets-toy.bandai.co.jp/toy/ja/product/2026/08/i04Ub4bU5VuN3QTZ/1000255433_1.jpg",
+   "points": [
+    "可动人偶，可以和蛋道具联动"
+   ],
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20955/"
+  },
+  {
+   "date": "2026-10-17",
+   "title": "变身腰带 DX Maou Driver & Maou Blade 套装",
+   "price": "13,750円（含税）",
+   "publisher": "万代 BANDAI",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000257517_1.jpg",
+   "points": [
+    "腰带和Maou剑一起的套装",
+    "腰带的变身语音是他本人配的"
+   ],
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21232/"
+  },
+  {
+   "date": "2027-03",
+   "title": "S.H.Figuarts 假面骑士Maou",
+   "price": "9,900円（含税）",
+   "publisher": "BANDAI SPIRITS 魂ウェブ",
+   "image": "https://tamashiiweb.com/storage/images/products/thumbnail/69043fb0-2497-4cba-9b36-3c57594dd215.webp",
+   "points": [
+    "一般店头贩售，2027年3月发售"
+   ],
+   "url": "https://tamashiiweb.com/item/16020/"
+  },
+  {
+   "date": "2026-09-15",
+   "title": "岭高华武利 猫・猫眼戒指",
+   "price": "",
+   "publisher": "Premium Bandai",
+   "image": "",
+   "points": [
+    "剧中华武利戴的猫戒指，有尾戒和“猫眼”两款",
+    "Premium Bandai 受注"
+   ],
+   "url": "https://p-bandai.jp/item/item-1000261104/"
+  },
+  {
+   "date": "2026",
+   "title": "Hero T恤（假面骑士Maou）",
+   "price": "",
+   "publisher": "Premium Bandai",
+   "image": "",
+   "points": [
+    "Premium Bandai 受注"
+   ],
+   "url": "https://p-bandai.jp/item/item-1000256283/"
   }
  ],
  "channels": {

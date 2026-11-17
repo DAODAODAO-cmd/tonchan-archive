@@ -15449,6 +15449,13 @@ window.ARCHIVE = {
    "dateKind": "作品首播日",
    "images": [
     {
+     "url": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
+     "caption": "作品海报",
+     "source": "https://www.tv-asahi.co.jp/my-th/",
+     "asset": "",
+     "resolution": "780×462"
+    },
+    {
      "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
      "caption": "朝日电视台官网角色图：岭高华武利／假面骑士Maou",
      "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
@@ -15556,6 +15563,13 @@ window.ARCHIVE = {
    "origin": "2026.11.17补充",
    "dateKind": "配信开始日",
    "images": [
+    {
+     "url": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
+     "caption": "作品海报",
+     "source": "https://www.tv-asahi.co.jp/my-th/",
+     "asset": "",
+     "resolution": "780×462"
+    },
     {
      "url": "https://i.ytimg.com/vi/jkqp4qMS_Zg/maxresdefault.jpg",
      "caption": "第1话 免费公开版",
