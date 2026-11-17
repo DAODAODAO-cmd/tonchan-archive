@@ -23749,7 +23749,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1vz411B78d/",
    "uploadDate": "2020-04-16",
    "dateLabel": "2020.04.16 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2020-04-09"
   },
   {
    "id": "BV1Hb41127Wc",
@@ -24629,7 +24630,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1Dy4y1v7R2/",
    "uploadDate": "2020-12-19",
    "dateLabel": "2020.12.19 放送",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2020-12-17"
   },
   {
    "id": "BV1Fz4y1C7gA",
@@ -24648,7 +24650,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1Fz4y1C7gA/",
    "uploadDate": "2020-12-13",
    "dateLabel": "2020.12.13 放送",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2020-12-10"
   },
   {
    "id": "BV1fA411x7aj",
@@ -24705,7 +24708,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1b5411571P/",
    "uploadDate": "2020-11-25",
    "dateLabel": "2020.11.25 放送",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2020-11-05"
   },
   {
    "id": "BV1VK4y177tx",
@@ -24724,7 +24728,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1VK4y177tx/",
    "uploadDate": "2020-11-25",
    "dateLabel": "2020.11.25 放送",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2020-11-19"
   },
   {
    "id": "BV1yy4y167Sh",
@@ -24743,7 +24748,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1yy4y167Sh/",
    "uploadDate": "2020-11-24",
    "dateLabel": "2020.11.24 放送",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2020-11-12"
   },
   {
    "id": "BV1ZK4y177BM",
@@ -24781,7 +24787,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV19v411k7eG/",
    "uploadDate": "2020-10-28",
    "dateLabel": "2020.10.28 放送",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2020-10-22"
   },
   {
    "id": "BV1cZ4y1L7wt",
@@ -24933,7 +24940,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1Nh411o7BW/",
    "uploadDate": "2020-08-18",
    "dateLabel": "2020.08.18 放送",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2020-08-13"
   },
   {
    "id": "BV1mf4y1X7qU",
