@@ -448,13 +448,13 @@ addEventListener('scroll',()=>{let cur='';for(const s of secs)if(s.getBoundingCl
 
 /* 饰演角色卡 */
 (function(){
-const RC=['舞台','朗读剧','电视剧','网络剧','电影','动画电影','音乐会'];
+const RC=['舞台','朗读剧','电视剧','网络剧','电影','动画电影'];
 const PAL=[['#5e1f24','#e8d9c6'],['#26324a','#d9dde2'],['#4f7a6e','#e3e8d6'],['#7a6a4a','#d6cba0'],['#3d4f63','#e6e1d8'],['#6b3b5a','#ecdfe6'],['#2f5a4e','#dfe8e1'],['#8a4b2f','#f0e2d3'],['#4a4560','#e4e1ec'],['#5a5a2f','#e9e7cf']];
-const isRole=c=>/角色|人物|演员照|剧照|舞台照|定装|扮相|Will|宣传照/.test(c||'');
+const isRole=c=>/角色|人物|演员照|剧照|舞台照|定装|扮相|Will|宣传照|生写真/.test(c||'');
 const isPoster=c=>/海报|主视觉|场刊|封面|视觉/.test(c||'');
-const L=A.events.filter(e=>RC.includes(e.category)&&e.role&&e.role!=='本人'&&e.images&&e.images.length&&e.date<=today).sort((a,b)=>a.date.localeCompare(b.date));
+const L=A.events.filter(e=>RC.includes(e.category)&&e.role&&!/^(本人|嘉宾|主演|出演|轮替嘉宾)/.test(e.role)&&e.images&&e.images.length&&e.date<=today).sort((a,b)=>a.date.localeCompare(b.date));
 const hash=s=>{let h=0;for(const ch of s)h=(h*31+ch.charCodeAt(0))>>>0;return h};
-$('roleStrip').innerHTML=L.map(e=>{const ims=e.images.map(i=>({u:imgOf(i),c:i.caption}));const ro=ims.find(i=>isRole(i.c));const po=ims.find(i=>isPoster(i.c))||ims.find(i=>i!==ro)||ims[0];const p=PAL[hash(e.key||e.title.replace(/[（(].*$/,''))%PAL.length];const role=e.role.split(/[／/]/)[0];const sub=(e.japanese||'').replace(/[『』「」《》]/g,'');
+$('roleStrip').innerHTML=L.map(e=>{const ims=e.images.map(i=>({u:imgOf(i),c:i.caption}));const ro=ims.find(i=>isRole(i.c));const po=ims.find(i=>isPoster(i.c))||ims.find(i=>i!==ro)||ims[0];const p=PAL[hash(e.key||e.title.replace(/[（(].*$/,''))%PAL.length];const role=e.role.split(/[／/]/)[0].replace(/[（(][^）)]*[）)]/g,'').replace(/^.*出演：/,'').trim();const sub=(e.japanese||'').replace(/[『』「」《》]/g,'');
 return '<a class="rl" href="list.html?g=all#'+esc(e.id)+'" style="--c1:'+p[0]+';--c2:'+p[1]+'"><div class="rl-band"></div><div class="rl-pst">'+(po?'<img src="'+esc(po.u)+'" alt="" loading="lazy">':'')+'</div><div class="rl-yr">'+e.date.slice(0,4)+'</div><div class="rl-dv"><span>✦</span><i></i><span>✦</span></div><div class="rl-nm"><b>'+esc(role)+'</b><small>'+esc(sub)+'</small></div><div class="rl-wk">'+esc(e.title.replace(/[《》]/g,''))+'</div><div class="rl-ph">'+(ro?'<img src="'+esc(ro.u)+'" alt="'+esc(role)+'" loading="lazy">':(po?'<img src="'+esc(po.u)+'" alt="" loading="lazy">':''))+'</div><div class="rl-lb">'+esc(role)+'</div></a>'}).join('');
 const st=$('roleStrip');$('rPrev').onclick=()=>st.scrollBy({left:-st.clientWidth*.8,behavior:'smooth'});$('rNext').onclick=()=>st.scrollBy({left:st.clientWidth*.8,behavior:'smooth'});
 })();
