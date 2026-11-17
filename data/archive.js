@@ -23196,6 +23196,25 @@ window.ARCHIVE = {
    "uploadDate": "2020-06-02",
    "dateLabel": "2020.06.02 B站上传",
    "asset": ""
+  },
+  {
+   "id": "BV12x411a7r2",
+   "title": "【刀舞】公开彩排＆采访（20170609 Music Japan TV）",
+   "channel": "君影相思",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV12x411a7r2/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/9ee16f3d145e7e9e297e0a180ef4173d902ce127.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2017.06.09上传",
+   "source": "https://www.bilibili.com/video/BV12x411a7r2/",
+   "uploadDate": "2017-06-09",
+   "dateLabel": "2017.06.09 B站上传",
+   "asset": ""
   }
  ],
  "playlists": [
