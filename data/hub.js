@@ -230,7 +230,7 @@ window.HUB = {
       "bday": 1,
       "status": "已结束",
       "price": "700円（L判4枚）",
-      "image": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639106m.jpg.webp",
+      "image": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639106.jpg",
       "points": [
         "西装造型，\"像时尚杂志内页一样\"的生日生写真",
         "WE SHOP表参道店限定 2017.7.14–8.31"

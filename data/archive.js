@@ -54,21 +54,21 @@ window.ARCHIVE = {
      "resolution": "730 × 209"
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5818255m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5818255.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g6290994m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g6290994.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5815775m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5815775.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -109,14 +109,14 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5325666m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325666.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5325667m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325667.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -152,21 +152,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5325663m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325663.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5325662m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325662.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4301069m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4301069.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -325,21 +325,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5380469m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380469.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5380468m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380468.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g5380470m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380470.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -375,14 +375,14 @@ window.ARCHIVE = {
      "resolution": "530 × 750"
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4369898m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4369898.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4369897m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4369897.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -418,21 +418,21 @@ window.ARCHIVE = {
      "resolution": "120 × 170"
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4420798m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420798.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4368622m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4368622.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4368623m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4368623.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -503,21 +503,21 @@ window.ARCHIVE = {
      "resolution": "358 × 512"
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134729m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134729.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134723m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134723.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134733m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134733.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -745,21 +745,21 @@ window.ARCHIVE = {
      "resolution": "120 × 170"
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4447257m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447257.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4447258m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447258.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4447255m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447255.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -810,21 +810,21 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134719m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134719.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3134720m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134720.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3186061m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3186061.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -889,21 +889,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3269915m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269915.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3269913m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269913.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3269912m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269912.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -931,21 +931,21 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3220542m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220542.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3220543m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220543.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3220544m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220544.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -971,21 +971,21 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200500m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200500.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200501m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200501.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200499m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200499.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1026,21 +1026,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3284922m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284922.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3284924m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284924.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3284921m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284921.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1094,21 +1094,21 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200503m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200503.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200502m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200502.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3200504m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200504.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1149,21 +1149,21 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3143693m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143693.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3143694m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143694.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3143692m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143692.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1264,21 +1264,21 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3185988m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185988.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3185990m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185990.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3185989m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185989.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1306,28 +1306,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3594739m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594739.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3594738m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594738.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3594740m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594740.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg997007m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg997007.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1353,28 +1353,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg821576m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg821576.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg714583m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg714583.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg714582m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg714582.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg821577m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg821577.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1429,28 +1429,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699353m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699353.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699352m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699352.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699354m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699354.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699351m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699351.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1673,28 +1673,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699355m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699355.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699356m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699356.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699358m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699358.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699357m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699357.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1728,21 +1728,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3578882m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578882.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3578881m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578881.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3578883m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578883.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1775,28 +1775,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545447m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545447.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545448m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545448.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545450m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545450.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545449m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545449.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1895,21 +1895,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3315627m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315627.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3315674m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315674.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3315675m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315675.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -1937,28 +1937,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545453m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545453.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545452m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545452.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545454m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545454.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545451m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545451.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2014,7 +2014,7 @@ window.ARCHIVE = {
    "dateKind": "活动日",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/jb3310m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/jb3310.jpg",
      "caption": "1st写真集《K》封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2042,28 +2042,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545455m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545455.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545456m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545456.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545457m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545457.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3545458m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545458.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2104,21 +2104,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3361333m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361333.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3361335m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361335.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3361332m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361332.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2213,7 +2213,7 @@ window.ARCHIVE = {
    "dateKind": "发售期（约）",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/zsome15041m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/zsome15041.jpg",
      "caption": "封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2256,21 +2256,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3405197m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405197.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3405199m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405199.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3405158m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405158.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2298,28 +2298,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699349m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699349.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699350m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699350.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699347m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699347.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3699348m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699348.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2392,28 +2392,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3435695m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435695.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3435693m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435693.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3435694m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435694.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3435696m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435696.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2454,28 +2454,28 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3581238m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581238.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3581239m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581239.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3581240m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581240.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo32444m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo32444.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2543,28 +2543,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639092m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639092.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639091m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639091.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639094m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639094.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639093m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639093.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2619,21 +2619,21 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639095m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639095.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639097m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639097.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639096m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639096.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2688,28 +2688,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3683296m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683296.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3683297m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683297.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3683299m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683299.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3683298m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683298.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2771,28 +2771,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639100m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639100.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639099m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639099.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639101m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639101.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639102m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639102.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2833,21 +2833,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3958543m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3958543.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3958545m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3958545.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3639108m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639108.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -2909,21 +2909,21 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439021m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439021.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg624775m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg624775.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439022m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439022.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3036,21 +3036,21 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3717120m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717120.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3717121m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717121.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3717122m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717122.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3161,28 +3161,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439024m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439024.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439025m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439025.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439023m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439023.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg703175m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg703175.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3208,28 +3208,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3735851m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735851.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3735849m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735849.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3735850m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735850.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3735848m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735848.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3284,28 +3284,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271344m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271344.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271343m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271343.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271345m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271345.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271342m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271342.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3346,14 +3346,14 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg655396m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg655396.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo42077m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo42077.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3386,28 +3386,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271347m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271347.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271348m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271348.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271349m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271349.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271346m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271346.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3433,28 +3433,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271350m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271350.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271351m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271351.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271352m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271352.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg271353m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271353.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3495,21 +3495,21 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3745225m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745225.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3745145m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745145.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g3745171m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745171.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3566,28 +3566,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439026m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439026.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439027m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439027.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439029m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439029.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439028m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439028.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3639,28 +3639,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435126m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435126.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435125m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435125.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435127m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435127.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435128m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435128.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3730,28 +3730,28 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg145117m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg145117.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937051m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937051.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937048m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937048.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo37817m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo37817.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3784,28 +3784,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435132m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435132.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435130m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435130.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435131m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435131.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg435129m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435129.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -3918,28 +3918,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439033m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439033.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439030m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439030.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439032m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439032.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg439031m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439031.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -4092,28 +4092,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937030m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937030.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937028m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937028.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937027m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937027.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937029m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937029.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -4154,28 +4154,28 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg427182m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg427182.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937045m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937045.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937046m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937046.jpg",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo55853m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo55853.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -4348,14 +4348,14 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937035m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937035.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937038m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937038.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -4381,28 +4381,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937042m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937042.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937040m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937040.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937041m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937041.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gg937039m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937039.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -4559,7 +4559,7 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo41034m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo41034.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -4616,28 +4616,28 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723926m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723926.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723923m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723923.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723925m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723925.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723924m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723924.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -5448,21 +5448,21 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu814333m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814333.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu814331m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814331.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu814334m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814334.jpg",
      "caption": "骏河屋商品图（个人生写真）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -5561,7 +5561,7 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo52995m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo52995.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -5617,14 +5617,14 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723934m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723934.jpg",
      "caption": "杂志附赠随机生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/gu723936m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723936.jpg",
      "caption": "杂志附赠随机生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -7689,7 +7689,7 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo63666m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo63666.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -8518,7 +8518,7 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo67582m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo67582.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -10698,7 +10698,7 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo74114m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo74114.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
@@ -11904,7 +11904,7 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/ztuwo78246m.jpg.webp",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo78246.jpg",
      "caption": "公演场刊封面（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
