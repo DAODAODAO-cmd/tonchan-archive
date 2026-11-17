@@ -2490,6 +2490,10 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
+     "title": "正片（B站）",
+     "url": "https://www.bilibili.com/video/BV1rWx26YEzC/"
+    },
+    {
      "id": "ttLGGm7WKMM",
      "title": "官方公演CM",
      "url": "https://www.youtube.com/watch?v=ttLGGm7WKMM",
@@ -28882,8 +28886,28 @@ window.ARCHIVE = {
    "rel": "B站搬运｜2017",
    "source": "https://www.bilibili.com/video/BV1Hx411r7Aq/",
    "uploadDate": "2017-03-16",
-   "contentDate": "2014-01-01",
+   "contentDate": "2013-12-19",
    "dateLabel": "2017.03.16 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1rWx26YEzC",
+   "title": "音乐剧《薄樱鬼》原田左之助篇 正片（自存）",
+   "channel": "冬冬冬蛎蛎",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1rWx26YEzC/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/a34ab4d2d475e978c17e654afa70201293fed8a8.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1rWx26YEzC/",
+   "uploadDate": "2026-11-03",
+   "contentDate": "2017-04-14",
+   "dateLabel": "2026.11.03 B站上传",
    "asset": ""
   }
  ],
