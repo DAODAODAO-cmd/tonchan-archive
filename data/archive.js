@@ -173,7 +173,36 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 公演初日ダイジェスト映像!!",
+     "url": "https://www.youtube.com/watch?v=EnbsoErdPGc"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』全国大会 青学vs立海 公演初日ダイジェスト映像!!",
+     "url": "https://www.youtube.com/watch?v=O1qwx9YeEGI"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 四天宝寺スペシャル映像！",
+     "url": "https://www.youtube.com/watch?v=pJ8WM6ZjB0M"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 DVD CM",
+     "url": "https://www.youtube.com/watch?v=JSw3CZ6T6ro"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』DVD PV COLLECTION vol.3 CM映像",
+     "url": "https://www.youtube.com/watch?v=mZBvO3s39nA"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』コンサート Dream Live 2014",
+     "url": "https://www.youtube.com/watch?v=q6VF3dN7VgU"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』春の大運動会2014 DVD CM映像",
+     "url": "https://www.youtube.com/watch?v=ZIOD5qnM7Do"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -346,7 +375,36 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 公演初日ダイジェスト映像!!",
+     "url": "https://www.youtube.com/watch?v=EnbsoErdPGc"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』全国大会 青学vs立海 公演初日ダイジェスト映像!!",
+     "url": "https://www.youtube.com/watch?v=O1qwx9YeEGI"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 四天宝寺スペシャル映像！",
+     "url": "https://www.youtube.com/watch?v=pJ8WM6ZjB0M"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』青学vs四天宝寺 DVD CM",
+     "url": "https://www.youtube.com/watch?v=JSw3CZ6T6ro"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』DVD PV COLLECTION vol.3 CM映像",
+     "url": "https://www.youtube.com/watch?v=mZBvO3s39nA"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』コンサート Dream Live 2014",
+     "url": "https://www.youtube.com/watch?v=q6VF3dN7VgU"
+    },
+    {
+     "title": "ミュージカル『テニスの王子様』春の大運動会2014 DVD CM映像",
+     "url": "https://www.youtube.com/watch?v=ZIOD5qnM7Do"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -831,7 +889,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "舞台『弱虫ペダル』～総北新世代、始動～ 公開ゲネプロをチラッと見せ",
+     "url": "https://www.nicovideo.jp/watch/so28400916"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -910,7 +973,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "＃011 舞台「刀剣乱舞」終わりで生放送！",
+     "url": "https://www.nicovideo.jp/watch/so28816886"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -1047,7 +1115,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "大山真志、Kimeru、東啓介らが出演の『Club SLAZY-Another world-』公開ゲネプロをチラッと見せ！",
+     "url": "https://www.youtube.com/watch?v=jkMwyyx94uM"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -1285,7 +1358,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "舞台『弱虫ペダル』～総北新世代、始動～ 公開ゲネプロをチラッと見せ",
+     "url": "https://www.nicovideo.jp/watch/so28400916"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -1536,7 +1614,12 @@ window.ARCHIVE = {
      "resolution": "300 × 420"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "＃011 舞台「刀剣乱舞」終わりで生放送！",
+     "url": "https://www.nicovideo.jp/watch/so28816886"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -1916,7 +1999,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "舞台『弱虫ペダル』～総北新世代、始動～ 公開ゲネプロをチラッと見せ",
+     "url": "https://www.nicovideo.jp/watch/so28400916"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -2277,7 +2365,16 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "東啓介『舞台 刀剣乱舞』スペシャルコメント｜girlswalker",
+     "url": "https://www.youtube.com/watch?v=oHksN3f31_o"
+    },
+    {
+     "title": "＃011 舞台「刀剣乱舞」終わりで生放送！",
+     "url": "https://www.nicovideo.jp/watch/so28816886"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -2482,7 +2579,24 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "染谷俊之、三浦涼介らが紡ぐ美しき残酷劇『グランギニョル』公開ゲネプロ | エンタステージ",
+     "url": "https://www.youtube.com/watch?v=l2fdHeJA1eE"
+    },
+    {
+     "title": "「グランギニョル」公開ゲネプロ　作・演出：末満健一　出演：染谷俊之、三浦涼介",
+     "url": "https://www.youtube.com/watch?v=Rv4bh6-iGHI"
+    },
+    {
+     "title": "#24 末満健一の幽機交流領域『グランギニョル』稽古場より生放送！",
+     "url": "https://www.nicovideo.jp/watch/so31659875"
+    },
+    {
+     "title": "ピースピット2017年本公演『グランギニョル』PV",
+     "url": "https://www.youtube.com/watch?v=ut53_LdNZDQ"
+    }
+   ],
    "biliLinks": [
     {
      "url": "https://www.bilibili.com/video/BV1AU4y1i7tS/",
@@ -2750,7 +2864,16 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "大山真志、Kimeru、東啓介らが出演の『Club SLAZY-Another world-』公開ゲネプロをチラッと見せ！",
+     "url": "https://www.youtube.com/watch?v=jkMwyyx94uM"
+    },
+    {
+     "title": "「Club SLAZY Extra invitaion ～Malachite～」最終話",
+     "url": "https://www.bilibili.com/video/BV1NW411x7j7/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -2854,7 +2977,28 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "『スカーレット・ピンパーネル』（2017）舞台映像",
+     "url": "https://www.youtube.com/watch?v=D8r_YIZdwKo"
+    },
+    {
+     "title": "ミュージカル『スカーレット・ピンパーネル』東啓介コメント動画",
+     "url": "https://www.youtube.com/watch?v=DTE9EzwUWhs"
+    },
+    {
+     "title": "石丸幹二・安蘭けい・石井一孝らが「スカーレット・ピンパーネル」の稽古場で劇中歌を披露！",
+     "url": "https://www.youtube.com/watch?v=fDn_xCRJ8w4"
+    },
+    {
+     "title": "ミュージカル『スカーレット・ピンパーネル』稽古場映像",
+     "url": "https://www.youtube.com/watch?v=79Tk5LgzS9M"
+    },
+    {
+     "title": "ミュージカル「スカーレット・ピンパーネル」公開稽古♪「謎～疑いのダンス」　（ノーカットフル）2017/10/04",
+     "url": "https://www.youtube.com/watch?v=KxfBvX3iSzU"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [
@@ -3105,6 +3249,18 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/watch?v=rR34goiMhjo",
      "sourceType": "官方作品页／官方频道",
      "source": "https://www.umegei.com/matahari2018/"
+    },
+    {
+     "title": "【2/3(土)～18(日)】ミュージカル『マタ・ハリ』チケット好評発売中!",
+     "url": "https://www.youtube.com/watch?v=yV4PTvO8lTA"
+    },
+    {
+     "title": "ミュージカル『マタ・ハリ』稽古場映像",
+     "url": "https://www.youtube.com/watch?v=d4UKEZfbJD0"
+    },
+    {
+     "title": "ミュージカル「マタ・ハリ」スポット",
+     "url": "https://www.youtube.com/watch?v=lcDb84xA_wA"
     }
    ],
    "pending": false,
@@ -3360,7 +3516,24 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』公開ゲネプロ",
+     "url": "https://www.youtube.com/watch?v=n5xS0TZwhSE"
+    },
+    {
+     "title": "「5DAYS　辺境のロミオとジュリエット」公開ゲネプロ",
+     "url": "https://www.youtube.com/watch?v=_cCeqwBZ4J0"
+    },
+    {
+     "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』稽古場ダイジェスト | エンタステージ",
+     "url": "https://www.youtube.com/watch?v=2_UkRy2fOQw"
+    },
+    {
+     "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』【東啓介】コメント動画",
+     "url": "https://www.youtube.com/watch?v=bUE0UERDYMM"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [
@@ -3516,7 +3689,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "東啓介『舞台 刀剣乱舞』スペシャルコメント｜girlswalker",
+     "url": "https://www.youtube.com/watch?v=oHksN3f31_o"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -3758,7 +3936,28 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "ミュージカル「マリーゴールド」公開ゲネプロ",
+     "url": "https://www.youtube.com/watch?v=AH7rsvUeZN8"
+    },
+    {
+     "title": "ミュージカル『マリーゴールド』キャストパレード",
+     "url": "https://www.youtube.com/watch?v=TrTEDXyD8cs"
+    },
+    {
+     "title": "TRUMPシリーズ ミュージカル『マリーゴールド』公開ゲネプロ | エンタステージ",
+     "url": "https://www.youtube.com/watch?v=uJLU1AgHH2Y"
+    },
+    {
+     "title": "【中字】TRUMP系列 ミュージカル「マリーゴールド」MARIGOLD",
+     "url": "https://www.bilibili.com/video/BV184411y7Ga/"
+    },
+    {
+     "title": "中字 Trump - marigold ミュージカル「マリーゴールド」",
+     "url": "https://www.bilibili.com/video/BV1et411t7CU/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [
@@ -4009,7 +4208,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "薄墨桜 -GARO-",
+     "url": "https://www.nicovideo.jp/watch/sm33862660"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -4071,7 +4275,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "TRUMPシリーズ『繭期夜会』（2018年）ダイジェスト映像！",
+     "url": "https://www.youtube.com/watch?v=AHvAQBT5Dbg"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -4566,7 +4775,32 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "New Musical『Color of Life』東啓介レコーディング映像",
+     "url": "https://www.youtube.com/watch?v=eBFFewdNJWM"
+    },
+    {
+     "title": "New Musical『Color of Life』東啓介コメント動画",
+     "url": "https://www.youtube.com/watch?v=2hpFfAzxf6E"
+    },
+    {
+     "title": "New Musical『Color of Life』東啓介レコーディング映像(short ver.)",
+     "url": "https://www.youtube.com/watch?v=kYWPu9ti5FM"
+    },
+    {
+     "title": "【東啓介】【青野紗穂】New Musical「Color of Life」公開舞台稽古",
+     "url": "https://www.bilibili.com/video/BV13K41157Dt/"
+    },
+    {
+     "title": "【东启介】New Musical『Color of Life』レコーディング映像",
+     "url": "https://www.bilibili.com/video/BV1Xb411a77s/"
+    },
+    {
+     "title": "東啓介、青野紗穂 New Musical『Color of Life』公開舞台稽古",
+     "url": "https://www.youtube.com/watch?v=1GWWzPtC5i0"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -4765,7 +4999,24 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "ミュージカル『ダンス オブ ヴァンパイア』公開ゲネプロ（映像：東宝提供）| エンタステージ",
+     "url": "https://www.youtube.com/watch?v=8cO4fKsS01o"
+    },
+    {
+     "title": "『ダンス オブ ヴァンパイア』2019年11月6日(水)カーテンコール",
+     "url": "https://www.youtube.com/watch?v=ZXO1rYmbMrM"
+    },
+    {
+     "title": "ミュージカル『ダンス オブ ヴァンパイア』2019年11月27日（水）帝国劇城公演千穐楽カーテンコール",
+     "url": "https://www.youtube.com/watch?v=TtEXbCdmE3g"
+    },
+    {
+     "title": "ミュージカル『ダンス オブ ヴァンパイア』 コメント映像／東 啓介",
+     "url": "https://www.youtube.com/watch?v=-hu_xeW4WAA"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -5321,7 +5572,20 @@ window.ARCHIVE = {
      "resolution": "1707 × 2560"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "帝国劇場７・８月公演　ミュージカル『ジャージー・ボーイズ　イン コンサート』7/23(木・祝）初日カーテンコール映像",
+     "url": "https://www.youtube.com/watch?v=OwFaf1tPoK8"
+    },
+    {
+     "title": "帝国劇場7・8月公演　ミュージカル『ジャージー・ボーイズ　イン コンサート』8/5(水）千穐楽カーテンコール映像",
+     "url": "https://www.youtube.com/watch?v=r9scF0DUSjg"
+    },
+    {
+     "title": "大山真志さんと「ジャージー・ボーイズ」を語ります",
+     "url": "https://www.youtube.com/watch?v=V3aI8e-YCmE"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -5590,6 +5854,10 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/watch?v=w39FfpQ5i2w",
      "sourceType": "官方作品页／官方频道",
      "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+    },
+    {
+     "title": "恋、燃ゆる。～秋元松代作『おさんの恋』より～　PR動画ロングバージョン",
+     "url": "https://www.youtube.com/watch?v=ZhEELCTq3tM"
     }
    ],
    "pending": false,
@@ -5726,7 +5994,12 @@ window.ARCHIVE = {
      "resolution": "758 × 568"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "東啓介1st Musical Concert「A NEW ME」",
+     "url": "https://www.youtube.com/watch?v=boRc5-hnsMg"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -5876,7 +6149,12 @@ window.ARCHIVE = {
      "resolution": "700 × 394"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "『ウチの娘は、彼氏が出来ない!!』イケメン整体師で話題の東啓介、ドラマの見どころを語る",
+     "url": "https://www.youtube.com/watch?v=_0XZ9yFswhQ"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -6379,7 +6657,28 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "平間壮一、Micro（Def Tech）、東啓介、田村芽実ら出演！ミュージカル『IN THE HEIGHTS イン・ザ・ハイツ』ダイジェスト│エンタステージ",
+     "url": "https://www.youtube.com/watch?v=5nguS_2JsXI"
+    },
+    {
+     "title": "Broadway Musical『IN THE HEIGHTS イン・ザ・ハイツ』オフィシャル映像より",
+     "url": "https://www.youtube.com/watch?v=NpLizyJ5tQs"
+    },
+    {
+     "title": "Broadway Musical「IN THE HEIGHTS イン・ザ・ハイツ」舞台映像",
+     "url": "https://www.youtube.com/watch?v=kuit-UDofRY"
+    },
+    {
+     "title": "Broadway Musical「IN THE HEIGHTS イン・ザ・ハイツ」開幕! 舞台映像",
+     "url": "https://www.youtube.com/watch?v=_c8AasL0QZ8"
+    },
+    {
+     "title": "平間壮一・石田ニコル・阪本奨悟出演のブロードウェイミュージカル「IN THE HEIGHTS イン・ザ・ハイツ」4月3日（土）より大阪・名古屋・東京にて本公演が上演！",
+     "url": "https://www.youtube.com/watch?v=qUoDQ6pE3O0"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [
@@ -6995,7 +7294,24 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "東啓介、2022年の飛躍誓う「もっと知ってもらえるように」　1月期連続ドラマ「ファイトソング」出演も　“お正月スペシャルメッセージ”",
+     "url": "https://www.youtube.com/watch?v=9nsfPqZlbyU"
+    },
+    {
+     "title": "東啓介、ドラマ「ファイトソング」出演で髪形にもこだわり「モジャモジャにしました」　まさかのドラマー役に驚きも",
+     "url": "https://www.youtube.com/watch?v=8SFh8VbX8Rs"
+    },
+    {
+     "title": "東啓介、2022年の飛躍誓う「もっと知ってもらえるように」1月期連続ドラマ「ファイトソング」出演も“お正月スペシャルメッセージ”",
+     "url": "https://www.bilibili.com/video/BV13D4y1F7of/"
+    },
+    {
+     "title": "東啓介、ドラマ「ファイトソング」出演で髪形にもこだわり「モジャモジャにしました」まさかのドラマー役に驚きも",
+     "url": "https://www.bilibili.com/video/BV1Y3411a7uN/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -7089,7 +7405,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "Japan Musical Festival 2022 東啓介さんのインタビュー動画",
+     "url": "https://www.youtube.com/watch?v=SFJZONd-R7s"
+    }
+   ],
    "biliLinks": [
     {
      "url": "https://www.bilibili.com/video/BV1Rq4y187Lu/",
@@ -8425,7 +8746,20 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+     "url": "https://www.youtube.com/watch?v=Lw3wJWc6dF4"
+    },
+    {
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+     "url": "https://www.youtube.com/watch?v=ZHlwiMQSyzY"
+    },
+    {
+     "title": "三浦透子、屋比久知奈の新しいヴァイオレットに期待！ミュージカル『VIOLET』制作発表 完全版｜#エンタステージ",
+     "url": "https://www.youtube.com/watch?v=l2iD6-jBkvY"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -8540,6 +8874,22 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/watch?v=kdBhr7ock2k",
      "sourceType": "官方作品页／官方频道",
      "source": "https://nijikai-stage.com/"
+    },
+    {
+     "title": "【plus a限定】東 啓介さんへ一問一答！舞台『二次会のひとたち』",
+     "url": "https://www.youtube.com/watch?v=rZ2KYmNEqw4"
+    },
+    {
+     "title": "舞台『二次会のひとたち』稽古場映像",
+     "url": "https://www.youtube.com/watch?v=Yolag2Vh-7k"
+    },
+    {
+     "title": "二次会のひとたち コメント映像／東 啓介",
+     "url": "https://www.youtube.com/watch?v=_LyUckxlhAo"
+    },
+    {
+     "title": "【plus a限定】舞台『二次会のひとたち』建て込み映像",
+     "url": "https://www.youtube.com/watch?v=ID3qJ-zoXh4"
     }
    ],
    "pending": false,
@@ -9537,7 +9887,40 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "ミュージカル『ラグタイム』舞台映像版PV",
+     "url": "https://www.youtube.com/watch?v=F7rOBM2W63c"
+    },
+    {
+     "title": "ミュージカル『ラグタイム』ゲネプロ 石丸幹二 井上芳雄 安蘭けい  遥海 川口竜也 東啓介 EXILE NESMITH",
+     "url": "https://www.youtube.com/watch?v=E8Y1uiiUF_E"
+    },
+    {
+     "title": "石丸幹二＆井上芳雄＆安蘭けいが熱演！ ミュージカル「ラグタイム」公開ゲネプロ（RAGTIME／石丸幹二 井上芳雄 安蘭けい ＥＸＩＬＥ ＮＥＳＭＩＴＨ 遥海 東啓介 綺咲愛里）",
+     "url": "https://www.youtube.com/watch?v=BV6956LaS-M"
+    },
+    {
+     "title": "ミュージカル『ラグタイム』公開稽古 石丸幹二 井上芳雄 安蘭けい2023/8/23",
+     "url": "https://www.youtube.com/watch?v=vYtbI_wPC2k"
+    },
+    {
+     "title": "【白熱！公開稽古】THE MUSICAL「RAGTIME(ラグタイム)」石丸幹二＆井上芳雄＆安蘭けい＆遥海が劇中歌を披露！",
+     "url": "https://www.youtube.com/watch?v=CbmMXDMzr4k"
+    },
+    {
+     "title": "【貴重】石丸幹二＆井上芳雄＆安蘭けい、ミュージカル「ラグタイム」公開稽古で熱唱！（石丸幹二 井上芳雄 安蘭けい 遥海 川口竜也 東啓介 土井ケイト 館形比呂一 畠中洋 EXILE NESMITH）",
+     "url": "https://www.youtube.com/watch?v=1k0UY_4Ad0w"
+    },
+    {
+     "title": "ミュージカル『ラグタイム』Behind the Scenes 動画",
+     "url": "https://www.youtube.com/watch?v=BkLlGlkBQws"
+    },
+    {
+     "title": "ミュージカル『ラグタイム』稽古場映像ダイジェスト",
+     "url": "https://www.youtube.com/watch?v=LrkhLv8z3ZY"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [
@@ -10214,7 +10597,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "TOHO MUSICAL LAB.『DESK』プロモーションビデオ",
+     "url": "https://www.youtube.com/watch?v=2I5VWOQ8Nfk"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -10482,7 +10870,36 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "『おっさんのパンツがなんだっていいじゃないか！SP』6月28日（土）23時40分から放送！予告動画を初公開！",
+     "url": "https://www.youtube.com/watch?v=V-5VydFvkOo"
+    },
+    {
+     "title": "本編冒頭映像＆キャラクター紹介映像！『映画 おっさんのパンツがなんだっていいじゃないか！』 冒頭映像",
+     "url": "https://www.youtube.com/watch?v=KxeudWn9KZQ"
+    },
+    {
+     "title": "【おっパン】中島颯太、“円先輩”東啓介とのデート現場を目撃されパニック「どういう状況？」　『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "url": "https://www.youtube.com/watch?v=NJuQcqoxBxk"
+    },
+    {
+     "title": "【映画おっパン】 “誠”原田泰造が1年前に逆戻り！？『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像が解禁！",
+     "url": "https://www.youtube.com/watch?v=5ArkZQN9kb4"
+    },
+    {
+     "title": "中島颯太＆原田泰造、食卓で繰り広げられる波乱のやり取りにハラハラ…! 『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像",
+     "url": "https://www.youtube.com/watch?v=takIM5eYh4w"
+    },
+    {
+     "title": "FANTASTICS・中島颯太、“あの人”とのデート現場を目撃されてしまう『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台あいさつ",
+     "url": "https://www.youtube.com/watch?v=rgGl1ak28fA"
+    },
+    {
+     "title": "FANTASTICS中島颯太、円先輩と2人で散歩中に視聴者に遭遇「『どういう状況？』って」『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "url": "https://www.youtube.com/watch?v=AE4ikpdzmdE"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [
@@ -10945,6 +11362,58 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/watch?v=WQ3A8Sg6VsA",
      "sourceType": "官方作品页／官方频道",
      "source": "https://www.umegei.com/violet/"
+    },
+    {
+     "title": "ミュージカル『VIOLET』（2024）【三浦透子ver.】公開ゲネプロ！",
+     "url": "https://www.youtube.com/watch?v=w9GeneGePig"
+    },
+    {
+     "title": "ミュージカル『VIOLET』（2024）【屋比久知奈ver.】公開ゲネプロ！",
+     "url": "https://www.youtube.com/watch?v=pUa4IpJkhhY"
+    },
+    {
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+     "url": "https://www.youtube.com/watch?v=Lw3wJWc6dF4"
+    },
+    {
+     "title": "ミュージカル『VIOLET』舞台映像ダイジェスト",
+     "url": "https://www.youtube.com/watch?v=85s5o1uEViI"
+    },
+    {
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら出演！ミュージカル『VIOLET』明日開幕 #violet #ミュージカル",
+     "url": "https://www.youtube.com/watch?v=13i8Pn8u9nA"
+    },
+    {
+     "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
+     "url": "https://www.youtube.com/watch?v=ZHlwiMQSyzY"
+    },
+    {
+     "title": "ミュージカル『VIOLET』歌唱披露 ”♪マイウェイ”2024/3/8",
+     "url": "https://www.youtube.com/watch?v=2kibUUITmvU"
+    },
+    {
+     "title": "三浦透子＆屋比久知奈、ミュージカル「ＶＩＯＬＥＴ」劇中曲を披露（VIOLET／藤田俊太郎 三浦透子 屋比久知奈 東啓介 立石俊樹 sara 若林星弥 森山大輔 谷口ゆうな 樹里咲穂 原田優一 spi）",
+     "url": "https://www.youtube.com/watch?v=dqU2e4FTdS8"
+    },
+    {
+     "title": "ミュージカル『VIOLET』制作発表記者会見 三浦透子 屋比久知奈 東啓介 立石俊樹 sara 若林星弥 森山大輔 谷口ゆうな 樹里咲穂 原田優一 spi  生田志守葉 嘉村咲良 水谷優月",
+     "url": "https://www.youtube.com/watch?v=Dfj3wDzTh84"
+    },
+    {
+     "title": "三浦透子、屋比久知奈の新しいヴァイオレットに期待！ミュージカル『VIOLET』制作発表 完全版｜#エンタステージ",
+     "url": "https://www.youtube.com/watch?v=l2iD6-jBkvY"
+    },
+    {
+     "title": "ミュージカル『VIOLET』制作発表より",
+     "url": "https://www.youtube.com/watch?v=WodsnL6O_hY"
+    },
+    {
+     "title": "240327 「My Way」屋比久知奈&東啓介&立石俊樹&樹里咲穂&原田優一（VIOLET）",
+     "url": "https://www.bilibili.com/video/BV1yx421Q7Ac/"
+    },
+    {
+     "title": "ミュージカル「VIOLET」舞台映像ダイジェスト（Long.ver）",
+     "url": "https://www.bilibili.com/video/BV1Pw4m1m7yg/"
     }
    ],
    "pending": false,
@@ -12082,7 +12551,16 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [
+    {
+     "title": "【PR】東啓介×加藤大悟 ▷Musical shoW「WE ARE MUSIC」で初共演するのお二人のわちゃわちゃトーク必見！",
+     "url": "https://www.youtube.com/watch?v=QJuXEN12tJI"
+    },
+    {
+     "title": "『NOT MY FATHER’S SON』from Kinky Boots -SPECIAL MUSIC VIDEO-",
+     "url": "https://www.youtube.com/watch?v=2YS9y8jsdmQ"
+    }
+   ]
   },
   {
    "id": "e68",
@@ -12143,6 +12621,74 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/watch?v=KODtsBuEHQA",
      "sourceType": "官方作品页／官方频道",
      "source": "https://www.fujitv.co.jp/events/stage/kinkyboots/index.html"
+    },
+    {
+     "title": "東啓介、有澤樟太郎、甲斐翔真、松下優也ら新キャストが挑む！ブロードウェイミュージカル「キンキーブーツ」開幕",
+     "url": "https://www.youtube.com/watch?v=vqQzvMpJneA"
+    },
+    {
+     "title": "キンキーブーツ2025 #anan撮影ビハインド！ 東啓介さん、有澤樟太郎さん、甲斐翔真さん、松下優也さん",
+     "url": "https://www.youtube.com/watch?v=jn_8qnQvReQ"
+    },
+    {
+     "title": "『キンキーブーツ』ゲネプロ 東啓介＆甲斐翔真＆田村芽実 2025/4/26",
+     "url": "https://www.youtube.com/watch?v=dAKVfOzqyKY"
+    },
+    {
+     "title": "BWミュージカル『キンキーブーツ』公開ゲネプロ（Ｗキャスト：甲斐翔真、東啓介、田村芽実 ver.）",
+     "url": "https://www.youtube.com/watch?v=7Pppy7NLDl4"
+    },
+    {
+     "title": "甲斐翔真演じるローラが「キンキーブーツ」の世界にいざなう",
+     "url": "https://www.youtube.com/watch?v=Azla2mQbVsM"
+    },
+    {
+     "title": "東啓介、甲斐翔真ら新キャストが“本当の自分を探し求めるあなた”に寄り添う「キンキーブーツ」幕開け",
+     "url": "https://www.youtube.com/watch?v=sjxrg7zV0Z8"
+    },
+    {
+     "title": "BWミュージカル『キンキーブーツ』より「Everybody Say Yeah／～みんなでYEAH！～」（Ｗキャスト：甲斐翔真、東啓介、田村芽実） #キンキーブーツ #shorts",
+     "url": "https://www.youtube.com/watch?v=g3Q5cflEb1w"
+    },
+    {
+     "title": "『キンキーブーツ』ゲネプロ「Raise You Up/~上げたげる~、Just Be/ただなりなさい」#shorts",
+     "url": "https://www.youtube.com/watch?v=F1t-a8s_KFk"
+    },
+    {
+     "title": "ミュージカル「キンキーブーツ」2025公開ゲネプロ　東啓介×甲斐翔真×田村芽実ver.（東啓介 甲斐翔真 田村芽実 熊谷彩春 大山真志 ひのあらた）",
+     "url": "https://www.youtube.com/watch?v=neOfbzwQiVU"
+    },
+    {
+     "title": "【BWミュージカル『キンキーブーツ』ゲネプロ】4度目の日本上演！東啓介×甲斐翔真×田村芽実ver",
+     "url": "https://www.youtube.com/watch?v=yRfVJQOx9gE"
+    },
+    {
+     "title": "東啓介、甲斐翔真、田村芽実らがパワフルな歌声を響かせる「キンキーブーツ」開幕",
+     "url": "https://www.youtube.com/watch?v=2yoFurjbCX4"
+    },
+    {
+     "title": "『キンキーブーツ』ゲネプロ「Sex Is in the Heel/~SEX はヒールにある~」（甲斐翔真ver）#shorts",
+     "url": "https://www.youtube.com/watch?v=r-rbcb4ltTk"
+    },
+    {
+     "title": "ローラはメイクと着替えで大忙し！「キンキーブーツ」キャストが語る",
+     "url": "https://www.youtube.com/watch?v=vLuunHOJ1xY"
+    },
+    {
+     "title": "ミュージカル「キンキーブーツ」2025取材会（東啓介 有澤樟太郎 甲斐翔真 松下優也 ジェリー・ミッチェル）",
+     "url": "https://www.youtube.com/watch?v=yEqqNFXlDFE"
+    },
+    {
+     "title": "『キンキーブーツ』開幕前取材会！甲斐翔真＆松下優也、東啓介＆有澤樟太郎ら新キャスト勢ぞろい",
+     "url": "https://www.youtube.com/watch?v=wkCCKjUPOss"
+    },
+    {
+     "title": "ミュージカル『キンキーブーツ』3年ぶり再演に向けて　東啓介×有澤樟太郎×甲斐翔真×松下優也インタビュー",
+     "url": "https://www.youtube.com/watch?v=puDSgVIvi_c"
+    },
+    {
+     "title": "シンディ・ローパー登壇『キンキーブーツ』初日カーテンコール 東啓介×甲斐翔真×田村芽実2025/4/27",
+     "url": "https://www.youtube.com/watch?v=homXEU412qk"
     }
    ],
    "pending": false,
@@ -12289,7 +12835,12 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "『おっさんのパンツがなんだっていいじゃないか！SP』6月28日（土）23時40分から放送！予告動画を初公開！",
+     "url": "https://www.youtube.com/watch?v=V-5VydFvkOo"
+    }
+   ],
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -12344,7 +12895,32 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "本編冒頭映像＆キャラクター紹介映像！『映画 おっさんのパンツがなんだっていいじゃないか！』 冒頭映像",
+     "url": "https://www.youtube.com/watch?v=KxeudWn9KZQ"
+    },
+    {
+     "title": "【おっパン】中島颯太、“円先輩”東啓介とのデート現場を目撃されパニック「どういう状況？」　『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "url": "https://www.youtube.com/watch?v=NJuQcqoxBxk"
+    },
+    {
+     "title": "【映画おっパン】 “誠”原田泰造が1年前に逆戻り！？『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像が解禁！",
+     "url": "https://www.youtube.com/watch?v=5ArkZQN9kb4"
+    },
+    {
+     "title": "中島颯太＆原田泰造、食卓で繰り広げられる波乱のやり取りにハラハラ…! 『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像",
+     "url": "https://www.youtube.com/watch?v=takIM5eYh4w"
+    },
+    {
+     "title": "FANTASTICS・中島颯太、“あの人”とのデート現場を目撃されてしまう『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台あいさつ",
+     "url": "https://www.youtube.com/watch?v=rgGl1ak28fA"
+    },
+    {
+     "title": "FANTASTICS中島颯太、円先輩と2人で散歩中に視聴者に遭遇「『どういう状況？』って」『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "url": "https://www.youtube.com/watch?v=AE4ikpdzmdE"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -12658,7 +13234,32 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [
+    {
+     "title": "東啓介、有澤樟太郎、甲斐翔真、松下優也ら新キャストが挑む！ブロードウェイミュージカル「キンキーブーツ」開幕",
+     "url": "https://www.youtube.com/watch?v=vqQzvMpJneA"
+    },
+    {
+     "title": "キンキーブーツ2025 #anan撮影ビハインド！ 東啓介さん、有澤樟太郎さん、甲斐翔真さん、松下優也さん",
+     "url": "https://www.youtube.com/watch?v=jn_8qnQvReQ"
+    },
+    {
+     "title": "ミュージカル「キンキーブーツ」2025取材会（東啓介 有澤樟太郎 甲斐翔真 松下優也 ジェリー・ミッチェル）",
+     "url": "https://www.youtube.com/watch?v=yEqqNFXlDFE"
+    },
+    {
+     "title": "『キンキーブーツ』開幕前取材会！甲斐翔真＆松下優也、東啓介＆有澤樟太郎ら新キャスト勢ぞろい",
+     "url": "https://www.youtube.com/watch?v=wkCCKjUPOss"
+    },
+    {
+     "title": "ミュージカル『キンキーブーツ』3年ぶり再演に向けて　東啓介×有澤樟太郎×甲斐翔真×松下優也インタビュー",
+     "url": "https://www.youtube.com/watch?v=puDSgVIvi_c"
+    },
+    {
+     "title": "【Kinky Boots】MV：「Not My Father's Son」東啓介×有澤樟太郎×甲斐翔真×松下優也",
+     "url": "https://www.bilibili.com/video/BV1UqznY1EEr/"
+    }
+   ]
   },
   {
    "id": "bro_202511",
@@ -12717,7 +13318,12 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "【PR】東啓介×加藤大悟 ▷Musical shoW「WE ARE MUSIC」で初共演するのお二人のわちゃわちゃトーク必見！",
+     "url": "https://www.youtube.com/watch?v=QJuXEN12tJI"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -12815,7 +13421,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "東啓介 コメント動画 カウントダウン ミュージカルコンサート 2025-2026",
+     "url": "https://www.youtube.com/watch?v=2DCSAh_hgrI"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -12877,7 +13488,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "俳優・東啓介さんが八丈島へ！牧場で人生初のミルクやり、八丈太鼓の演奏にも挑戦…井上芳雄さんがご案内「美しい日本に出会う旅」2/4(水)夜9時",
+     "url": "https://www.youtube.com/watch?v=g7DACP1iScI"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -13094,7 +13710,36 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "主題歌はAdo「モンストロ」｜映画『ブルーロック』予告②【8月7日(金)公開】",
+     "url": "https://www.youtube.com/watch?v=7z-mf3a4X2E"
+    },
+    {
+     "title": "BLUELOCK ULTIMATE BACKSTAGE #1《ビジュアル撮影に密着》｜『ブルーロック』8月7日(金)公開",
+     "url": "https://www.youtube.com/watch?v=pfAjxZqCw44"
+    },
+    {
+     "title": "実写映画『ブルーロック』馬狼照英役・東啓介インタビュー｜“圧倒的なエゴイスト”の演じ方",
+     "url": "https://www.youtube.com/watch?v=WZvtwa2QghM"
+    },
+    {
+     "title": "個性豊かなキャラクター×注目俳優陣｜映画『ブルーロック』8月7日(金)公開",
+     "url": "https://www.youtube.com/watch?v=gjkR_2NFHxY"
+    },
+    {
+     "title": "映画『ブルーロック』WEBCM〈熱い声篇〉【大ヒット上映中！】",
+     "url": "https://www.youtube.com/watch?v=v7ywW3Oj3fo"
+    },
+    {
+     "title": "【最終回】BLUELOCK.LAB #12《映画『ブルーロック』を研究！キャスト12人でエゴトーク！》｜ 映画『ブルーロック』大ヒット上映中！",
+     "url": "https://www.youtube.com/watch?v=PXK_cInXWwA"
+    },
+    {
+     "title": "映画『ブルーロック』公開記念SP 劇団EXILE 櫻井佑樹 × 東啓介【シュートを決めろ！スマホなしでゴールへ辿り着け！前半戦】【ダイジェスト】",
+     "url": "https://www.youtube.com/watch?v=1fbwOcFEASg"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -13166,7 +13811,84 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "舞台『キングダムⅡ‐継承‐』舞台映像",
+     "url": "https://www.youtube.com/watch?v=X_NYvj42l_A"
+    },
+    {
+     "title": "舞台『キングダムⅡ-継承-』／2026年8月10日(月) 13時公演 特別カーテンコール映像",
+     "url": "https://www.youtube.com/watch?v=sTz7QLKvlrg"
+    },
+    {
+     "title": "王騎死す…屈指の名シーンまでを三浦宏規＆高野洸の主演で舞台化！“羌瘣”山本千尋のアクションは圧巻！舞台「キングダムⅡ-継承-」公開ゲネプロ＆開幕記念会見 #舞台キングダム2 #三浦宏規 #高野洸",
+     "url": "https://www.youtube.com/watch?v=3g1h5UbPimY"
+    },
+    {
+     "title": "舞台『キングダムⅡ-継承-』開幕記念会見 三浦宏規 高野洸 山本千尋 東啓介 章平 石川禅  山口祐一郎 華優希 元木聖也 竹内將人 清水葉月  渡辺大 飯作雄太郎",
+     "url": "https://www.youtube.com/watch?v=sa1rsQT9df0"
+    },
+    {
+     "title": "三浦宏規＆高野洸、舞台「キングダムⅡ-継承-」で熱演！",
+     "url": "https://www.youtube.com/watch?v=yb8Kqb_WUG4"
+    },
+    {
+     "title": "舞台『キングダムⅡ-継承-』／2026年8月9日(日) 18時公演 初日特別カーテンコール映像",
+     "url": "https://www.youtube.com/watch?v=xlIBfL1sOcg"
+    },
+    {
+     "title": "舞台『キングダムⅡ-継承-』舞台映像　三浦宏規 高野洸 山本千尋 東啓介 石川禅  山口祐一郎",
+     "url": "https://www.youtube.com/watch?v=XgiT7y8zBnw"
+    },
+    {
+     "title": "舞台『キングダムⅡ-継承-』公開ゲネプロダイジェスト映像",
+     "url": "https://www.youtube.com/watch?v=nksmqPo8PXM"
+    },
+    {
+     "title": "【キングダム】王騎死す…屈指の名シーンまでを三浦宏規＆高野洸の主演で舞台化！“羌瘣”山本千尋のアクションは圧巻！舞台「キングダムⅡ-継承-」公開ゲネプロ＆開幕記念会見",
+     "url": "https://www.youtube.com/watch?v=0g3ZhFdlDj4"
+    },
+    {
+     "title": "🔵独占【舞台『キングダムⅡ－継承－』】〝奇跡的なWキャスト〟 三浦宏規＆高野洸を独占取材！「2人で一緒にやることに意味がある」",
+     "url": "https://www.youtube.com/watch?v=6ShW86E7yAU"
+    },
+    {
+     "title": "🔵独占【舞台『キングダムⅡ－継承－』】大迫力の稽古映像を独占お届け！三浦宏規＆高野洸に稽古の合間に直撃インタビュー",
+     "url": "https://www.youtube.com/watch?v=Ec_t290Za0Y"
+    },
+    {
+     "title": "舞台『キングダムⅡ-継承-』開幕直前！総決起集会　終了直後キャストコメント",
+     "url": "https://www.youtube.com/watch?v=EWuzyA6UxLc"
+    },
+    {
+     "title": "【キングダム】“信”三浦宏規考案の『キングダム』ポーズで会場が一つに！舞台 『キングダムⅡ-継承-』開幕直前！総決起集会",
+     "url": "https://www.youtube.com/watch?v=dYhneTTd768"
+    },
+    {
+     "title": "【キングダム】“信”三浦宏規＆高野洸、質疑応答でまさかの両思い発覚！？舞台 『キングダムⅡ-継承-』開幕直前！総決起集会",
+     "url": "https://www.youtube.com/watch?v=Y2z_qoOIQVc"
+    },
+    {
+     "title": "【山口祐一郎 69歳】舞台「キングダムⅡ」で王騎役　「今日まで生きてきてよかったな」",
+     "url": "https://www.youtube.com/watch?v=Z0xeHjuJqUE"
+    },
+    {
+     "title": "【舞台『キングダムⅡ-継承-』公開稽古】大迫力の公開稽古をお届け《Wキャスト：三浦宏規＆東啓介Ver》",
+     "url": "https://www.youtube.com/watch?v=kwzvPcpSAdc"
+    },
+    {
+     "title": "【キングダム】“信”高野洸のあいさつに“王騎”山口祐一郎が「もう一回！」舞台「キングダムⅡ－継承－」 全メインキャスト会見",
+     "url": "https://www.youtube.com/watch?v=K7DPynI9ABI"
+    },
+    {
+     "title": "舞台『キングダムⅡ-継承-』30秒PV／7月13日(月)一般販売開始！",
+     "url": "https://www.youtube.com/watch?v=d1bPgaMakiQ"
+    },
+    {
+     "title": "舞台『キングダムⅡ-継承-』全メインキャスト会見",
+     "url": "https://www.youtube.com/watch?v=98alqMvB4Ww"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -13375,6 +14097,18 @@ window.ARCHIVE = {
     {
      "title": "『SWAN -Ballet cross Reading-』東啓介インタビュー",
      "url": "https://www.youtube.com/watch?v=0hsF8IqwY1o"
+    },
+    {
+     "title": "【井桁弘恵】朗読×バレエ、新感覚舞台『SWANーBallet cross Readingー』とは舞台『SWANーBallet cross Readingー』公開ゲネプロ",
+     "url": "https://www.youtube.com/watch?v=4ANW1anPBF4"
+    },
+    {
+     "title": "【BALLET.jp】舞台「SWAN―Ballet cross Reading―」公開ゲネプロ",
+     "url": "https://www.youtube.com/watch?v=D1dOGYHMg6A"
+    },
+    {
+     "title": "舞台『SWAN Ballet cross Reading』ゲネプロ　井桁弘恵、村川絵梨、東啓介、西野遼、福士誠治、秋元康臣、厚地康雄、飯島望未、今井智也、菊地研、木村優里、塩谷綾菜、柴山紗帆、関野海斗",
+     "url": "https://www.youtube.com/watch?v=8X39E1Z6TOc"
     }
    ],
    "pending": false,
@@ -13441,7 +14175,76 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　二話　十二支ファッションチェック①",
+     "url": "https://www.youtube.com/watch?v=z7Pd-5nNOSk"
+    },
+    {
+     "title": "【予告第１弾】仮面ライダーマイス　十二支十色",
+     "url": "https://www.youtube.com/watch?v=cQHjgl5dyAA"
+    },
+    {
+     "title": "【仮面ライダーマイス】オーディション秘話を暴露!?キャストの素顔を最速大解剖！「仮面ライダーマイス」激アツ座談会!!",
+     "url": "https://www.youtube.com/watch?v=eIsBS9RmPtU"
+    },
+    {
+     "title": "【仮面ライダーマイス】十二支同盟が登場！キャスト解禁！　「仮面ライダーマイス」制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=a7xOIwwNLOA"
+    },
+    {
+     "title": "【仮面ライダーマイス】“十二支同盟”キャスト初解禁！東啓介＆金子隼也ら登場　『仮面ライダーマイス』制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=klfi7fnJWPM"
+    },
+    {
+     "title": "【予告第２弾】仮面ライダーマイス　十二支十色",
+     "url": "https://www.youtube.com/watch?v=HTb2pl7yHC4"
+    },
+    {
+     "title": "仮面ライダー新シリーズ「仮面ライダーマイス」が登場！変身ポーズも披露！制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=TF6jpVaBJbo"
+    },
+    {
+     "title": "【仮面ライダーマイス】“十二支同盟”一部キャスト解禁！役どころや今作の魅力を語る 制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=yS5dDVs9E54"
+    },
+    {
+     "title": "THE RAMPAGE、「仮面ライダーマイス」の主題歌を担当！制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=VsE38iHYLx0"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　三話　スパダリ検定～音澄宙編～",
+     "url": "https://www.youtube.com/watch?v=jnAoQzFPoFY"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　四話　おばあさんとリド①",
+     "url": "https://www.youtube.com/watch?v=QwypVOdYuAA"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　六話　ケン様と図書館で",
+     "url": "https://www.youtube.com/watch?v=LP_qxigQtC0"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　七話　スパダリ検定～嶺髙華武利編～",
+     "url": "https://www.youtube.com/watch?v=HiW6nsnVHo8"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　九話　名探偵ティグル　事件編",
+     "url": "https://www.youtube.com/watch?v=-PV7YLF2W30"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　十話　名探偵ティグル　解決編",
+     "url": "https://www.youtube.com/watch?v=7jzQ-eSHNF0"
+    },
+    {
+     "title": "【仮面ライダーマイス】「変身ベルト DXマオウドライバー」TVCM",
+     "url": "https://www.youtube.com/watch?v=baMEfVIuI-w"
+    },
+    {
+     "title": "【新番組】「仮面ライダーマイス」スペシャルティザー！",
+     "url": "https://www.nicovideo.jp/watch/sm46625219"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -13470,7 +14273,76 @@ window.ARCHIVE = {
      "resolution": "524 × 584"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　二話　十二支ファッションチェック①",
+     "url": "https://www.youtube.com/watch?v=z7Pd-5nNOSk"
+    },
+    {
+     "title": "【予告第１弾】仮面ライダーマイス　十二支十色",
+     "url": "https://www.youtube.com/watch?v=cQHjgl5dyAA"
+    },
+    {
+     "title": "【仮面ライダーマイス】オーディション秘話を暴露!?キャストの素顔を最速大解剖！「仮面ライダーマイス」激アツ座談会!!",
+     "url": "https://www.youtube.com/watch?v=eIsBS9RmPtU"
+    },
+    {
+     "title": "【仮面ライダーマイス】十二支同盟が登場！キャスト解禁！　「仮面ライダーマイス」制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=a7xOIwwNLOA"
+    },
+    {
+     "title": "【仮面ライダーマイス】“十二支同盟”キャスト初解禁！東啓介＆金子隼也ら登場　『仮面ライダーマイス』制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=klfi7fnJWPM"
+    },
+    {
+     "title": "【予告第２弾】仮面ライダーマイス　十二支十色",
+     "url": "https://www.youtube.com/watch?v=HTb2pl7yHC4"
+    },
+    {
+     "title": "仮面ライダー新シリーズ「仮面ライダーマイス」が登場！変身ポーズも披露！制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=TF6jpVaBJbo"
+    },
+    {
+     "title": "【仮面ライダーマイス】“十二支同盟”一部キャスト解禁！役どころや今作の魅力を語る 制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=yS5dDVs9E54"
+    },
+    {
+     "title": "THE RAMPAGE、「仮面ライダーマイス」の主題歌を担当！制作発表記者会見",
+     "url": "https://www.youtube.com/watch?v=VsE38iHYLx0"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　三話　スパダリ検定～音澄宙編～",
+     "url": "https://www.youtube.com/watch?v=jnAoQzFPoFY"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　四話　おばあさんとリド①",
+     "url": "https://www.youtube.com/watch?v=QwypVOdYuAA"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　六話　ケン様と図書館で",
+     "url": "https://www.youtube.com/watch?v=LP_qxigQtC0"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　七話　スパダリ検定～嶺髙華武利編～",
+     "url": "https://www.youtube.com/watch?v=HiW6nsnVHo8"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　九話　名探偵ティグル　事件編",
+     "url": "https://www.youtube.com/watch?v=-PV7YLF2W30"
+    },
+    {
+     "title": "【予告】仮面ライダーマイス　十二支十色　十話　名探偵ティグル　解決編",
+     "url": "https://www.youtube.com/watch?v=7jzQ-eSHNF0"
+    },
+    {
+     "title": "【仮面ライダーマイス】「変身ベルト DXマオウドライバー」TVCM",
+     "url": "https://www.youtube.com/watch?v=baMEfVIuI-w"
+    },
+    {
+     "title": "【新番組】「仮面ライダーマイス」スペシャルティザー！",
+     "url": "https://www.nicovideo.jp/watch/sm46625219"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -13568,7 +14440,16 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "10月18日放送『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
+     "url": "https://www.nicovideo.jp/watch/so46943143"
+    },
+    {
+     "title": "【無料パート】『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
+     "url": "https://www.nicovideo.jp/watch/so46942722"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -13720,7 +14601,32 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "本編冒頭映像＆キャラクター紹介映像！『映画 おっさんのパンツがなんだっていいじゃないか！』 冒頭映像",
+     "url": "https://www.youtube.com/watch?v=KxeudWn9KZQ"
+    },
+    {
+     "title": "【おっパン】中島颯太、“円先輩”東啓介とのデート現場を目撃されパニック「どういう状況？」　『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "url": "https://www.youtube.com/watch?v=NJuQcqoxBxk"
+    },
+    {
+     "title": "【映画おっパン】 “誠”原田泰造が1年前に逆戻り！？『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像が解禁！",
+     "url": "https://www.youtube.com/watch?v=5ArkZQN9kb4"
+    },
+    {
+     "title": "中島颯太＆原田泰造、食卓で繰り広げられる波乱のやり取りにハラハラ…! 『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像",
+     "url": "https://www.youtube.com/watch?v=takIM5eYh4w"
+    },
+    {
+     "title": "FANTASTICS・中島颯太、“あの人”とのデート現場を目撃されてしまう『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台あいさつ",
+     "url": "https://www.youtube.com/watch?v=rgGl1ak28fA"
+    },
+    {
+     "title": "FANTASTICS中島颯太、円先輩と2人で散歩中に視聴者に遭遇「『どういう状況？』って」『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "url": "https://www.youtube.com/watch?v=AE4ikpdzmdE"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -14098,7 +15004,32 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "本編冒頭映像＆キャラクター紹介映像！『映画 おっさんのパンツがなんだっていいじゃないか！』 冒頭映像",
+     "url": "https://www.youtube.com/watch?v=KxeudWn9KZQ"
+    },
+    {
+     "title": "【おっパン】中島颯太、“円先輩”東啓介とのデート現場を目撃されパニック「どういう状況？」　『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "url": "https://www.youtube.com/watch?v=NJuQcqoxBxk"
+    },
+    {
+     "title": "【映画おっパン】 “誠”原田泰造が1年前に逆戻り！？『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像が解禁！",
+     "url": "https://www.youtube.com/watch?v=5ArkZQN9kb4"
+    },
+    {
+     "title": "中島颯太＆原田泰造、食卓で繰り広げられる波乱のやり取りにハラハラ…! 『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像",
+     "url": "https://www.youtube.com/watch?v=takIM5eYh4w"
+    },
+    {
+     "title": "FANTASTICS・中島颯太、“あの人”とのデート現場を目撃されてしまう『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台あいさつ",
+     "url": "https://www.youtube.com/watch?v=rgGl1ak28fA"
+    },
+    {
+     "title": "FANTASTICS中島颯太、円先輩と2人で散歩中に視聴者に遭遇「『どういう状況？』って」『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
+     "url": "https://www.youtube.com/watch?v=AE4ikpdzmdE"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
