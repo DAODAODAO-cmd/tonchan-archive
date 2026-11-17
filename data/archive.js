@@ -16067,7 +16067,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "免费部分中字（B站）",
+     "url": "https://www.bilibili.com/video/BV1PQWE69EMx/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -28971,6 +28976,25 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1CdxY6PECg/",
    "uploadDate": "2026-10-30",
    "dateLabel": "2026.10.30 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1PQWE69EMx",
+   "title": "刀ステ十周年配信番组《感謝の宴》免费部分（中字）",
+   "channel": "欠坑一堆的阿忆忆",
+   "type": "节目／其他",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1PQWE69EMx/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/091fd65c01952c526335bb99d25b5347651e54c2.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1PQWE69EMx/",
+   "uploadDate": "2026-11-08",
+   "dateLabel": "2026.11.08 B站上传",
    "asset": ""
   }
  ],
