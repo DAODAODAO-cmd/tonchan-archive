@@ -9847,6 +9847,10 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
+     "title": "全场录像（B站）",
+     "url": "https://www.bilibili.com/video/BV12b4y1T7Kr/"
+    },
+    {
      "title": "三浦透子、屋比久知奈、東啓介、立石俊樹ら劇中曲「マイ・ウェイ」披露！ミュージカル『VIOLET』制作発表｜#エンタステージ",
      "url": "https://www.youtube.com/watch?v=Lw3wJWc6dF4"
     },
@@ -13397,7 +13401,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "全场录像（B站）",
+     "url": "https://www.bilibili.com/video/BV18CC4Y6EK9/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -16330,7 +16339,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "全场录像（B站）",
+     "url": "https://www.bilibili.com/video/BV18CC4Y6EK9/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -16478,7 +16492,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "全场录像（B站）",
+     "url": "https://www.bilibili.com/video/BV18CC4Y6EK9/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -28995,6 +29014,46 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1PQWE69EMx/",
    "uploadDate": "2026-11-08",
    "dateLabel": "2026.11.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV12b4y1T7Kr",
+   "title": "加藤和树的音乐酒吧「エンタス」ON STAGE #1 第1部（2023.03.19）",
+   "channel": "kanemochinaru",
+   "type": "演出／歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV12b4y1T7Kr/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/d36a950a31d89da7a83ea6b63726d232c4dcc972.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2023",
+   "source": "https://www.bilibili.com/video/BV12b4y1T7Kr/",
+   "uploadDate": "2023-11-28",
+   "contentDate": "2023-03-19",
+   "dateLabel": "2023.11.28 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV18CC4Y6EK9",
+   "title": "TRUMP series 15th ANNIVERSARY FINAL『繭期極夜会』DAY1・DAY2",
+   "channel": "啪啦嘙",
+   "type": "演出／歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV18CC4Y6EK9/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/c8ba7976a8d38d885b7d6ad93777f096b9cccb30.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV18CC4Y6EK9/",
+   "uploadDate": "2024-12-28",
+   "contentDate": "2024-12-12",
+   "dateLabel": "2024.12.28 B站上传",
    "asset": ""
   }
  ],
