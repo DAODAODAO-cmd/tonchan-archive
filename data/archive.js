@@ -7446,12 +7446,19 @@ window.ARCHIVE = {
    "role": "井手祐",
    "crew": "",
    "key": "",
-   "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "",
+   "url": "https://abema.tv/video/episode/90-1602_s2_p15",
+   "note": "ABEMA 上可以看第5话。",
    "status": "",
    "origin": "",
    "dateKind": "上线日",
    "images": [
+    {
+     "url": "https://image.p-c2-x.abema-tv.com/image/programs/90-1602_s2_p15/thumb002.png?height=720&quality=75&version=1725609505&width=1280",
+     "caption": "第5话剧照",
+     "source": "https://abema.tv/video/episode/90-1602_s2_p15",
+     "asset": "",
+     "resolution": "1280×720"
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw268.jpg",
      "caption": "文章配图",
@@ -7461,7 +7468,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
    "roleRoma": "IDE YU",
