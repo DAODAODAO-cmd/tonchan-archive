@@ -28909,6 +28909,26 @@ window.ARCHIVE = {
    "contentDate": "2017-04-14",
    "dateLabel": "2026.11.03 B站上传",
    "asset": ""
+  },
+  {
+   "id": "BV1z54y1R7zT",
+   "title": "【中字】タウンワーク僕らの休憩室 东启介×纳谷健 猫咪猜谜@猫咖打工",
+   "channel": "新米练习菌",
+   "type": "节目／其他",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1z54y1R7zT/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/9905b52b9a375392bdc377f87d9593b6126a9878.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2020",
+   "source": "https://www.bilibili.com/video/BV1z54y1R7zT/",
+   "uploadDate": "2020-04-03",
+   "contentDate": "2017-09-22",
+   "dateLabel": "2020.04.03 B站上传",
+   "asset": ""
   }
  ],
  "playlists": [
