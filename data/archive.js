@@ -243,6 +243,25 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "am_tencho14",
+   "date": "2014-08-26",
+   "end": "",
+   "category": "活动",
+   "title": "WE SHOP表参道店「1小时店长」（与安川纯平、宫崎秋人）",
+   "japanese": "WE SHOP表参道店1時間店長",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-11899644830.html",
+   "note": "和安川纯平、宫崎秋人一起当1小时店长，亲手递特大Special生写真。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_rm_59553811",
    "date": "2014-10",
    "end": "",
@@ -462,6 +481,33 @@ window.ARCHIVE = {
    "roleName": "织田亮"
   },
   {
+   "id": "am_ayakashi_bro1",
+   "date": "2015-05-01",
+   "end": "",
+   "category": "活动",
+   "title": "妖～AYAKASHI～ 官方生写真［A］［B］",
+   "japanese": "妖～AYAKASHI～オフィシャルブロマイド",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12017058255.html",
+   "note": "组合五人的集合生写真，他的角色名是晒名灵示。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://stat.ameba.jp/user_images/20150421/21/we-goodsinfo/05/82/j/o0700070013283037165.jpg",
+     "caption": "官方周边图",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12017058255.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e6",
    "date": "2015-05-23",
    "end": "2015-06-14",
@@ -603,6 +649,25 @@ window.ARCHIVE = {
    "roleName": "小林淕"
   },
   {
+   "id": "am_tencho15",
+   "date": "2015-07-28",
+   "end": "",
+   "category": "活动",
+   "title": "20岁纪念 WE SHOP表参道店「1小时店长」",
+   "japanese": "WE SHOP表参道店1時間店長",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12029624265.html",
+   "note": "20岁生日纪念，亲手递特大Special生写真。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "ayakashi15",
    "date": "2015-08-12",
    "end": "",
@@ -679,6 +744,33 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "am_ayakashi_bro2",
+   "date": "2015-09-05",
+   "end": "",
+   "category": "活动",
+   "title": "妖～AYAKASHI～ 官方生写真 第2弹［C］",
+   "japanese": "妖～AYAKASHI～オフィシャルブロマイド[C]",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12066752699.html",
+   "note": "第2弹集合生写真。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://stat.ameba.jp/user_images/20150828/15/we-goodsinfo/17/0e/j/o0500035613408935475.jpg",
+     "caption": "官方周边图",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12066752699.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e8",
    "date": "2015-10-10",
    "end": "2015-10-31",
@@ -706,6 +798,25 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "am_premset15",
+   "date": "2015-12-24",
+   "end": "",
+   "category": "活动",
+   "title": "WE!プレミアム会员限定 东启介生写真复刻套组",
+   "japanese": "WE!プレミアム会員限定 東啓介ブロマイドセット",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12109108557.html",
+   "note": "从2016年1月起每月更新生写真，借这个机会把之前的生写真做成复刻套组，会员限定受注。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "mag_rk14140910",
@@ -1274,6 +1385,25 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "am_tencho16",
+   "date": "2016-08-18",
+   "end": "",
+   "category": "活动",
+   "title": "WE SHOP表参道店「1小时店长」2016",
+   "japanese": "東啓介1時間店長イベント",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12180128303.html",
+   "note": "会员限定，和特大Special生写真2016一起。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "pr_entamix1610",
@@ -2346,6 +2476,25 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "am_broW1705",
+   "date": "2017-05-03",
+   "end": "",
+   "category": "活动",
+   "title": "WE SHOP官方生写真W《First-on》纪念",
+   "japanese": "東啓介 WE SHOPオフィシャルブロマイドW",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12269183444.html",
+   "note": "第一次个人活动纪念，表参道店限定2L判。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_rk14901918",
    "date": "2017-05-10",
    "end": "",
@@ -2925,6 +3074,33 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639096.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "am_gg_goods17",
+   "date": "2017-09-01",
+   "end": "",
+   "category": "活动",
+   "title": "《グランギニョル》公演周边 店铺贩售",
+   "japanese": "『グランギニョル』公演グッズ",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12306664504.html",
+   "note": "公演周边在WE SHOP和ワタナベ商店上架，有角色徽章等。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://stat.ameba.jp/user_images/20170901/12/we-goodsinfo/2e/ce/j/o1032081814017742589.jpg",
+     "caption": "官方周边图",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12306664504.html",
      "asset": "",
      "resolution": ""
     }
@@ -3787,6 +3963,25 @@ window.ARCHIVE = {
    "roleName": "哈瓦尔"
   },
   {
+   "id": "am_broW1804",
+   "date": "2018-04-28",
+   "end": "",
+   "category": "活动",
+   "title": "WE SHOP官方生写真W《Two-ton》纪念",
+   "japanese": "東啓介 WE SHOPオフィシャルブロマイドW",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12369632177.html",
+   "note": "第二次个人活动纪念，表参道店限定。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "bro_201805",
    "date": "2018-05-01",
    "category": "活动",
@@ -3830,6 +4025,25 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "am_broW1806",
+   "date": "2018-05-25",
+   "end": "",
+   "category": "活动",
+   "title": "WE SHOP官方生写真W｜刀ステ悲传（与三津谷亮、前山刚久）",
+   "japanese": "WE SHOPオフィシャルブロマイドW",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12378187743.html",
+   "note": "悲传出演成员的W生写真，表参道店限定。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
    "videos": [],
    "kind": "bromide"
   },
@@ -4053,6 +4267,25 @@ window.ARCHIVE = {
     }
    ],
    "videos": []
+  },
+  {
+   "id": "am_broW1808",
+   "date": "2018-07-25",
+   "end": "",
+   "category": "活动",
+   "title": "WE SHOP官方生写真W｜马里戈尔德",
+   "japanese": "WE SHOPオフィシャルブロマイドW",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12393030765.html",
+   "note": "《マリーゴールド》出演之际推出。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "bro_201808",
@@ -4543,6 +4776,25 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "am_broW1811",
+   "date": "2018-10-25",
+   "end": "",
+   "category": "活动",
+   "title": "WE SHOP官方生写真W｜命売ります",
+   "japanese": "WE SHOPオフィシャルブロマイドW",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12414096100.html",
+   "note": "主演《命売ります》之际推出。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "bro_201811",
