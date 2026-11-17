@@ -34,7 +34,7 @@ window.HUB = {
       { icon: "◎", title: "摄影", text: "官方特技之一。在QJWeb连载「QJ相机部」，还有网络节目《东启介的相机之旅》。" },
       { icon: "♫", title: "吉他 · 音乐鉴赏", text: "事务所资料写的爱好；2020年公开原创曲《こえ》。" },
       { icon: "●", title: "篮球 · 网球", text: "篮球2年；软式网球3年，曾打进东京都大赛。" },
-      { icon: "~", title: "滑板 · 电影 · 散步", text: "维基所列的日常爱好。" }
+      { icon: "~", title: "滑板 · 电影 · 散步", text: "" }
     ],
     milestones: [
       ["2013", "D-BOYS 第10届选拔赛决赛入围，同年以《网球王子》音乐剧第二季正式出道"],
@@ -111,7 +111,7 @@ window.HUB = {
     { date: "2026-11-02", tag: "周边", title: "WE官方生写真〈2026年11月〉开放预约", text: "Watanabe商店（7net）受理至11/15，12/2前后发货。", url: "https://x.com/we_goods_info/status/2117089419144622119" },
     { date: "2026-10-18", tag: "综艺", title: "《玉城裕规的月下美人》第八十三夜 7周年BBQ特别篇 嘉宾出演", text: "与和田琢磨一同作为嘉宾；niconico 有前10分钟免费片段。", url: "https://www.nicovideo.jp/watch/so46942722" },
     { date: "2026-11-16", tag: "采访", title: "刀舞《陽伝》官网更新媒体露出一览", text: "收录各媒体陽伝相关采访的发布日期和链接，会持续追加。", url: "https://stage-toukenranbu.jp/news/hiden2/4184" },
-    { date: "2026-11-12", tag: "影视", title: "街机《假面骑士 Ganba Legends》第5弹上线，假面骑士Maou参战", text: "维基记载本人担任Maou语音；万代官方宣传片已公开。", url: "https://www.youtube.com/watch?v=9VPedwZW6vg" },
+    { date: "2026-11-12", tag: "影视", title: "街机《假面骑士 Ganba Legends》第5弹上线，假面骑士Maou参战", text: "Maou 的变身语音是他配的，万代官方宣传片里能听到。", url: "https://www.youtube.com/watch?v=9VPedwZW6vg" },
     { date: "2026-11-10", tag: "舞台", title: "刀舞《陽伝》预演开幕；Blu-ray/DVD定于2027年5月19日发售", text: "东启介时隔八年再演烛台切光忠。前后编二部作，演至12月31日。", url: "https://stage-toukenranbu.jp/stage/" },
     { date: "2026-11-10", tag: "杂志", title: "《PASH!》2026年12月号｜秋谷郁甫×东启介", text: "“十二支画报”连载第1回，音澄宙与岭高华武利的写真和对谈。", url: "https://www.pashplus.jp/blog/500710/" },
     { date: "2026-10-28", tag: "杂志", title: "《anan》No.2517 刀舞总力特集", text: "烛台切光忠单人写真＋采访，以及13振集合写真。共三种版本，买前请对照版本。", url: "https://ananweb.jp/categories/covers/113785" },
@@ -142,7 +142,7 @@ window.HUB = {
       "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwbf62c4fb/033131/2110671822.jpg",
       "points": [
         "2025.7.11 COTTON CLUB 生日音乐会官方周边",
-        "亚克力钥匙扣已售罄；场刊、收纳包请以7net页面为准"
+        "亚克力钥匙扣已经卖完了，场刊和收纳包看7net页面"
       ],
       "url": "https://7net.omni7.jp/search?q=afterglow%20%E6%9D%B1%E5%95%93%E4%BB%8B",
       "publisher": "WE SHOP／ワタナベ商店"
@@ -351,7 +351,7 @@ window.HUB = {
       price: "",
       publisher: "官网 GOODS 页",
       image: "https://stage-toukenranbu.jp/wp-content/uploads/2026/09/1_%E9%99%BD%E4%BC%9D_%E5%85%AC%E6%BC%94%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.jpg",
-      points: ["会场与通贩周边以官网 GOODS 页为准"],
+      points: ["会场和通贩周边看官网 GOODS 页"],
       url: "https://stage-toukenranbu.jp/"
     },
     {

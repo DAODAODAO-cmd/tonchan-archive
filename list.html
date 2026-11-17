@@ -104,7 +104,7 @@ footer a{color:var(--sage)}
   <div class="tools"><div class="chips" id="chips"></div><div class="chips sm" id="chips2"></div></div>
   <main id="out"></main>
 </div>
-<footer><div class="wrap">东启介资讯站 · 粉丝整理 · 非官方。图片版权归原权利人所有；标“待核”的条目来自二手市场等线索，以官方为准。· <a href="archive.html">旧版详细档案（含核对记录）</a></div></footer>
+<footer><div class="wrap">东启介资讯站 · 粉丝自制 · 非官方。图片版权归原作者。· <a href="archive.html">旧版档案</a></div></footer>
 <script src="data/archive.js"></script>
 <script src="data/hub.js"></script>
 <script>
@@ -116,7 +116,7 @@ const fmt=d=>d?d.replaceAll('-','.'):'';
 const imgOf=im=>im?(im.asset&&A.assets[im.asset])||im.url||'':'';
 /* 分类：作品 / 媒体 / 其他 三组；ls=横版卡片 */
 const G={
-  all:{t:'全部编年',d:'所有记录按时间排列，可按年份跳转。'},
+  all:{t:'全部编年',d:'从出道到现在，按时间排。'},
   stage:{t:'舞台',cats:['舞台','朗读剧']},
   screen:{t:'影视',cats:['电视剧','网络剧','电影','动画电影'],ls:1},
   live:{t:'音乐会',cats:['音乐会'],ls:1},
@@ -151,7 +151,7 @@ function draw(){let html='';$('chips').innerHTML='';$('chips2').innerHTML='';$('
     $('chips').innerHTML=Object.keys(VT).map(x=>'<button class="'+(x===vt?'on':'')+'" data-vt="'+x+'">'+x+'</button>').join('');
     $('chips2').innerHTML=['全平台','YouTube','B站','niconico'].map(x=>'<button class="'+(x===vp?'on':'')+'" data-vp="'+x+'">'+x+'</button>').join('');
     let L=A.videos.filter(v=>(!VT[vt]||VT[vt].includes(v.type))&&(vp==='全平台'||(v.platform||'YouTube')===vp)&&match(v.title+' '+v.channel));L.forEach(v=>v._d=v.contentDate||v.uploadDate||(v.years&&v.years[0])||'');L.sort((a,b)=>b._d.localeCompare(a._d));$('desc').textContent=L.length+' 条 · 从新到旧';html=grouped(L,vcard,false,'grid ls')}
-  else if(g==='schedule'){$('desc').textContent='进行中与未来的日程，按日期先后。联动、展览类以官方公告为准。';let L=A.events.filter(e=>e.date>=today||(e.end&&e.end>=today)).filter(e=>match(e.title+e.japanese));L.forEach(e=>e._d=e.date);L.sort((a,b)=>a.date.localeCompare(b.date));html=grouped(L,tlrow,true,'tl')}
+  else if(g==='schedule'){$('desc').textContent='正在进行和接下来的安排。';let L=A.events.filter(e=>e.date>=today||(e.end&&e.end>=today)).filter(e=>match(e.title+e.japanese));L.forEach(e=>e._d=e.date);L.sort((a,b)=>a.date.localeCompare(b.date));html=grouped(L,tlrow,true,'tl')}
   else if(g==='all'){let L=A.events.filter(e=>match(e.title+e.japanese+e.role+e.category));L.forEach(e=>e._d=e.date);L.sort((a,b)=>b.date.localeCompare(a.date));$('desc').textContent=L.length+' 条记录 · 从新到旧 · '+G.all.d;html=grouped(L,tlrow,false,'tl')}
   else{const cats=G[g].cats;let L=A.events.filter(e=>cats.includes(e.category)).filter(e=>match(e.title+e.japanese+e.role+(e.note||'')));L.forEach(e=>e._d=e.date);L.sort((a,b)=>b.date.localeCompare(a.date));$('desc').textContent=L.length+' 条 · 从新到旧';const VM={radio:['广播／音声'],variety:['节目／其他'],int:['采访／发布会']};if(VM[g]){const used=new Set(L.flatMap(e=>[e.url,...(e.videos||[]).map(v=>v.url)]));const V=A.videos.filter(v=>VM[g].includes(v.type)&&!used.has(v.url)&&match(v.title+' '+v.channel));V.forEach(v=>{v._d=v.contentDate||v.uploadDate||(v.years&&v.years[0])||'';v._v=1});L=L.concat(V);L.sort((a,b)=>b._d.localeCompare(a._d));$('desc').textContent=L.length+' 条 · 从新到旧 · 含节目回放'}html=grouped(L,x=>x._v?vcard(x):card(x),false,G[g].ls?'grid ls':'grid')}
   $('out').innerHTML=html||'<div class="empty">暂无</div>';spy()}

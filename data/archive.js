@@ -19,7 +19,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3472/9784863363472.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/12522387/",
      "asset": "",
      "resolution": ""
@@ -42,8 +42,8 @@ window.ARCHIVE = {
    "key": "chitose",
    "url": "https://www.tennimu.com/second/play_2013shitenhoji/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -55,21 +55,21 @@ window.ARCHIVE = {
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5818255.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g6290994.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5815775.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -97,27 +97,27 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.tennimu.com/second/play_2014undokai/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://www.tennimu.com/second/play_2014undokai/img/Phdr-img.jpg",
-     "caption": "官方公演主视觉",
+     "caption": "主视觉",
      "source": "https://www.tennimu.com/second/play_2014undokai/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325666.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325667.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -140,34 +140,34 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.tennimu.com/second/play_2014rikkai/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基拆分原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.tennimu.com/second/play_2014rikkai/img/Phdr-img.jpg",
-     "caption": "官方公演主视觉",
+     "caption": "主视觉",
      "source": "https://www.tennimu.com/second/play_2014rikkai/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325663.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325662.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4301069.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -214,18 +214,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《グッカム》VOL.32（2014 AUTUMN）",
    "japanese": "グッカム VOL.32",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/%E3%82%B0%E3%83%83%E3%82%AB%E3%83%A0%20VOL.32%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场搜索\"东启介\"能搜到这一期，但乐天图书的内容介绍里没有列出东启介，登场与否待核（可能只是小篇幅或搜索误匹配）。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4158/9784863364158.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -243,18 +243,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《月刊Cheek》2014年11月号",
    "japanese": "月刊Cheek 2014年11月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/%E6%9C%88%E5%88%8ACheek%202014%E5%B9%B411%E6%9C%88%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/booksdream/cabinet/racoon_332/b00net6e54.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
+     "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -272,18 +272,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《グッカム》VOL.33（2014 WINTER）",
    "japanese": "グッカム VOL.33",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/%E3%82%B0%E3%83%83%E3%82%AB%E3%83%A0%20VOL.33%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场搜索\"东启介\"能搜到这一期，但乐天图书的内容介绍里没有列出东启介，登场与否待核（可能只是小篇幅或搜索误匹配）。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4332/9784863364332.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -306,7 +306,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "NEL FES. 2014 in 日本武道馆，以网球王子音乐剧第二季四天宝寺成员身份出演（同组：安西慎太郎、福岛海太、杉江大志、碕理人、山内圭辅、佐藤流司、松冈广大、君沢ユウキ）。",
-   "status": "已核实（官方出演名单：网球王子音乐剧・四天宝寺）",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -342,34 +342,34 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.tennimu.com/second/play_dl2014/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基拆分原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "活动首日",
    "images": [
     {
      "url": "https://www.tennimu.com/second/play_dl2014/img/Phdr-img.jpg",
-     "caption": "官方公演主视觉",
+     "caption": "主视觉",
      "source": "https://www.tennimu.com/second/play_dl2014/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380469.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380468.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380470.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -420,28 +420,28 @@ window.ARCHIVE = {
    "crew": "导演：伊藤マサミ",
    "key": "yakumo",
    "url": "https://www.nelke.co.jp/stage/yakumo2015/index.html",
-   "note": "官网核对出演与日程；角色名由维基及作品资料补充。",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "note": "",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.nelke.co.jp/uploads/2024/07/b4c548a468627b09f1ecb9578ccd87ebcb9b39a4.jpg",
-     "caption": "官方作品海报",
+     "caption": "海报",
      "source": "https://www.nelke.co.jp/stage/yakumo2015/index.html",
      "asset": "933f3c59382781e5",
      "resolution": "530 × 750"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4369898.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4369897.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -464,8 +464,8 @@ window.ARCHIVE = {
    "key": "haku2015",
    "url": "https://www.marv.jp/special/m-hakuoki-reimeiroku/cast.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -477,21 +477,21 @@ window.ARCHIVE = {
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420798.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4368622.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4368623.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -548,35 +548,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.suruga-ya.jp/product/detail/G3134726",
-   "note": "旧官网未找到可用档案；保留待核，不作最终定稿。",
-   "status": "已核实（骏河屋商品登记含东启介）",
-   "origin": "维基补充",
+   "note": "旧官网未找到可用档案。",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134726.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.suruga-ya.jp/product/detail/G3134726",
      "asset": "ecd4b627b909ec41",
      "resolution": "358 × 512"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134729.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134723.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134733.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -629,18 +629,18 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "EXIT TUNES ACADEMY 日本武道馆2015",
    "japanese": "EXIT TUNES ACADEMY 日本武道館 2015",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。 以虚拟偶像企划“妖～AYAKASHI～”成员身份出演。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "以虚拟偶像企划“妖～AYAKASHI～”成员身份出演。",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/music/2015/0423/ETA_2015_main.jpg?imwidth=750&imdensity=1",
-     "caption": "活动告知视觉（Natalie）",
+     "caption": "活动告知视觉",
      "source": "https://ogre.natalie.mu/media/news/music/2015/0423/ETA_2015_main.jpg?imwidth=750&imdensity=1",
      "asset": "",
      "resolution": ""
@@ -674,9 +674,9 @@ window.ARCHIVE = {
    "crew": "导演：板垣恭一",
    "key": "boyband",
    "url": "https://ireikanata.com/contents/166664",
-   "note": "10月10日志木预演；东京10月15–25日；大阪10月31日。官网未标具体角色，不补猜。",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "note": "10月10日志木预演；东京10月15–25日；大阪10月31日。",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -699,18 +699,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Sparkle》vol.26｜铃木拡树×荒牧庆彦×广濑大介×东启介",
    "japanese": "Sparkle vol.26",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14140910/",
-   "note": "四人特辑；发售日待核。",
-   "status": "乐天图书商品目录确认；日期待核",
+   "note": "四人特辑。",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/2072/9784863882072.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14140910/",
      "asset": "",
      "resolution": ""
@@ -728,18 +728,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.11｜植田圭辅特辑，东启介等登场",
    "japanese": "W! vol.11",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14427545/",
-   "note": "发售日待核。",
-   "status": "乐天图书商品目录确认；日期待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3417/9784331803417.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14427545/",
      "asset": "",
      "resolution": ""
@@ -757,18 +757,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南Stage Stars》vol.1",
    "japanese": "TVガイド Stage Stars vol.1",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.1%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/7272/9784863367272.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -791,8 +791,8 @@ window.ARCHIVE = {
    "key": "haku2016",
    "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/cast.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -804,21 +804,21 @@ window.ARCHIVE = {
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447257.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447258.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447255.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -849,41 +849,41 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.marv.jp/titles/st/756/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0215/s_pedalSS_KV3_RGBforweb.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://www.marv.jp/assets/img/common/ogp.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.marv.jp/titles/st/756/",
      "asset": "58daa6ea467942ec",
      "resolution": "1200 × 630"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134719.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134720.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3186061.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -906,7 +906,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《spoon.2Di Actors》vol.4｜刀舞封面卷头特辑",
    "japanese": "spoon.2Di Actors vol.4",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14108397/",
@@ -917,7 +917,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/2801/9784048982801.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14108397/",
      "asset": "",
      "resolution": ""
@@ -939,35 +939,35 @@ window.ARCHIVE = {
    "crew": "编剧／导演：末满健一",
    "key": "kyoden",
    "url": "https://stage-toukenranbu.jp/archive/kyoden/",
-   "note": "2016初演单独列项；不混用再演或2026年造型。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0318/butai_toukenranbu_image.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269915.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269913.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269912.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -993,28 +993,28 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B46%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220542.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220543.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220544.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1033,28 +1033,28 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B47%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200500.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200501.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200499.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1074,9 +1074,9 @@ window.ARCHIVE = {
    "crew": "",
    "key": "slazy",
    "url": "https://www.clie.asia/CSL-AW/",
-   "note": "修正原履历重复的“-world”。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -1088,28 +1088,28 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0611/slazyaw.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284922.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284924.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284921.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1143,7 +1143,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0712/omoshii6_cover.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/194280",
      "asset": "",
      "resolution": ""
@@ -1161,28 +1161,28 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B48%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200503.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200502.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200504.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1203,41 +1203,41 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.marv.jp/titles/st/763/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基拆分原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "活动首日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0726/LIVE2_KV.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://www.marv.jp/assets/img/common/ogp.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.marv.jp/titles/st/763/",
      "asset": "58daa6ea467942ec",
      "resolution": "1200 × 630"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143693.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143694.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143692.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1255,18 +1255,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《飙速宅男》东启介×宫崎秋人专访",
    "japanese": "《飙速宅男》东启介×宫崎秋人专访",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://engekisengen.com/genre/engekisengenbeta/84071/",
-   "note": "发布日期只确认到年份",
-   "status": "原文定位；准确发布日期待复核",
+   "note": "",
+   "status": "",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2024/05/pedal-2.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://engekisengen.com/genre/engekisengenbeta/84071/",
      "asset": "8ca6bc46ca34fdb2",
      "resolution": "600 × 411"
@@ -1284,7 +1284,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《JUNON》2016年10月号｜东启介「前へ!!」",
    "japanese": "JUNON 2016年10月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14379824/",
@@ -1295,7 +1295,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1061/4910013171061.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14379824/",
      "asset": "",
      "resolution": ""
@@ -1318,41 +1318,41 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.marv.jp/titles/st/766/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0823/pedalHSS-KV-3.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://www.marv.jp/assets/img/common/ogp.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.marv.jp/titles/st/766/",
      "asset": "58daa6ea467942ec",
      "resolution": "1200 × 630"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185988.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185990.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185989.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1378,35 +1378,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B410%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594739.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594738.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594740.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg997007.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1425,35 +1425,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B411%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg821576.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg714583.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg714582.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg821577.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1469,7 +1469,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《POTATO》2016年12月号｜东启介＆永田圣一郎",
    "japanese": "POTATO 2016年12月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14513360/",
@@ -1480,7 +1480,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/comicset/cabinet/13492474/mgkmsawiyck1ghjt.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
+     "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -1501,35 +1501,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B412%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699353.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699352.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699354.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699351.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1556,7 +1556,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/1102/logo_horizont.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/210341",
      "asset": "",
      "resolution": ""
@@ -1582,7 +1582,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/1207/butai_danshi_main.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/211991",
      "asset": "",
      "resolution": ""
@@ -1602,8 +1602,8 @@ window.ARCHIVE = {
    "key": "kyoden_saien",
    "url": "https://stage-toukenranbu.jp/archive/kyoden_saien/cast11.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -1631,18 +1631,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.12｜东启介SPECIAL美照＆与植田圭辅对谈",
    "japanese": "W! vol.12",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14585124/",
-   "note": "东启介个人特辑；发售日待核。",
-   "status": "乐天图书商品目录确认；日期待核",
+   "note": "东启介个人特辑。",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3509/9784331803509.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14585124/",
      "asset": "",
      "resolution": ""
@@ -1660,18 +1660,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南Stage Stars》vol.5",
    "japanese": "TVガイド Stage Stars vol.5",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.5%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/9016/9784863369016.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -1689,18 +1689,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.16",
    "japanese": "W! VOL.16",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.16%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1164/neobk-2160754.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
+     "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -1718,18 +1718,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Trickster Age》32｜北村谅、东启介等",
    "japanese": "Trickster Age トリックスターエイジ 32",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://auctions.yahoo.co.jp/search/search?p=Trickster+Age+32+%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "雅虎拍卖出品标题列出东启介；期号日期待核。",
-   "status": "雅虎拍卖出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4588/9784197204588.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -1750,35 +1750,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B41%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699355.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699356.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699358.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699357.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1794,7 +1794,7 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "首张个人DVD《东启介，南下去。》",
    "japanese": "東啓介1st DVD「東啓介、南へ行く。」",
-   "role": "本人",
+   "role": "",
    "crew": "导演：川野浩司",
    "key": "",
    "url": "https://higashikeisuke.ponycanyon.co.jp/",
@@ -1812,21 +1812,21 @@ window.ARCHIVE = {
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578882.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578881.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578883.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1852,35 +1852,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B42%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545447.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545448.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545450.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545449.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -1896,12 +1896,12 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "首张DVD发售纪念特别活动（第1天）",
    "japanese": "東啓介、南へ行く。DVD発売記念イベント",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://higashikeisuke.ponycanyon.co.jp/",
    "note": "Pony Canyon活动空间，16:00／18:00／20:00，谈话＋迷你演唱＋击掌会。",
-   "status": "发行方活动公告已核对",
+   "status": "",
    "origin": "发行方补充",
    "dateKind": "活动日",
    "images": [
@@ -1925,12 +1925,12 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "首张DVD发售纪念特别活动（第2天）",
    "japanese": "東啓介、南へ行く。DVD発売記念イベント",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://higashikeisuke.ponycanyon.co.jp/",
    "note": "Pony Canyon活动空间，16:00／18:00。",
-   "status": "发行方活动公告已核对",
+   "status": "",
    "origin": "发行方补充",
    "dateKind": "活动日",
    "images": [
@@ -1959,8 +1959,8 @@ window.ARCHIVE = {
    "key": "pedal2017",
    "url": "https://www.marv.jp/special/pedal_2017-023/cast.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -1972,28 +1972,28 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0127/s_pedalIHSL_KV-4_2.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315627.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315674.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315675.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2019,35 +2019,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B43%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545453.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545452.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545454.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545451.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2063,13 +2063,13 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "首本写真集《K》",
    "japanese": "東啓介1st写真集 K",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://higashikeisuke.ponycanyon.co.jp/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基及发行方补充",
+   "status": "",
+   "origin": "",
    "dateKind": "发售日",
    "images": [
     {
@@ -2092,18 +2092,18 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "《K》写真集发售纪念见面活动",
    "japanese": "東啓介1st写真集 K 発売記念",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://higashikeisuke.ponycanyon.co.jp/",
    "note": "12:00福家书店新宿；16:00 Animate新宿签名会。",
-   "status": "发行方活动公告已核对",
+   "status": "",
    "origin": "发行方补充",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/jb3310.jpg",
-     "caption": "1st写真集《K》封面（骏河屋商品图）",
+     "caption": "1st写真集《K》封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2124,35 +2124,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B44%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545455.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545456.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545457.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545458.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2173,8 +2173,8 @@ window.ARCHIVE = {
    "key": "haku2017",
    "url": "https://www.marv.jp/special/m-hakuoki-harada/cast.html",
    "note": "大阪4月14–16日；东京4月26–30日。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -2186,28 +2186,28 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0303/hakuoki_harada_main.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361333.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361335.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361332.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2233,7 +2233,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《JUNON》2017年6月号｜中尾畅树×东启介",
    "japanese": "JUNON 2017年6月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14799945/",
@@ -2244,7 +2244,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0675/4910013170675.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14799945/",
      "asset": "",
      "resolution": ""
@@ -2262,7 +2262,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《OTOMEDIA》2017年6月号｜刀舞《义伝》猪野广树×东启介",
    "japanese": "OTOMEDIA 2017年6月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14901918/",
@@ -2273,7 +2273,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0672/4910122170672.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14901918/",
      "asset": "",
      "resolution": ""
@@ -2291,18 +2291,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.14",
    "japanese": "W! VOL.14",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.14%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。 骏河屋登记发售日 2017/05/12（DVD付）。",
-   "status": "已核实（骏河屋商品登记含东启介）",
+   "note": "骏河屋登记发售日 2017/05/12（DVD付）。",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/zsome15041.jpg",
-     "caption": "封面（骏河屋商品图）",
+     "caption": "封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2325,8 +2325,8 @@ window.ARCHIVE = {
    "key": "giden",
    "url": "https://stage-toukenranbu.jp/archive/giden/cast.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -2338,28 +2338,28 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0325/s_toustagiden_kv_logo.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405197.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405199.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405158.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2389,35 +2389,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B46%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699349.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699350.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699347.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699348.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2433,7 +2433,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《POTATO》2017年7月号｜根岸拓哉＆东启介",
    "japanese": "POTATO 2017年7月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/14945701/",
@@ -2458,14 +2458,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://natalie.mu/stage/news/249775",
-   "note": "MC铃木拡树，第一季嘉宾有椎名鲷造、和田雅成、东启介等。播出日期待核（第一季于2017年播出）。",
+   "note": "MC铃木拡树，第一季嘉宾有椎名鲷造、和田雅成、东启介等。",
    "status": "已结束",
    "origin": "音乐自然 Natalie 新闻",
    "dateKind": "day",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0922/2_5jigen_scene.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/249775",
      "asset": "",
      "resolution": ""
@@ -2483,35 +2483,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B47%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435695.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435693.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435694.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435696.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2532,48 +2532,48 @@ window.ARCHIVE = {
    "key": "guignol",
    "url": "https://www.grandguignol.westage.jp/",
    "note": "中文可说明为“大吉尼奥尔”；保留原题，避免误当官方中文名。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.grandguignol.westage.jp/img/grandguignol_170324.jpg",
-     "caption": "官方作品主视觉",
+     "caption": "主视觉",
      "source": "https://www.grandguignol.westage.jp/",
      "asset": "1e1fb3688849feff",
      "resolution": "1000 × 801"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0729/grandguignol_kv.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581238.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581239.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581240.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo32444.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2619,18 +2619,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Ray》2017年9月号｜2.5次元特辑",
    "japanese": "Ray 2017年9月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=%E5%88%87%E3%82%8A%E6%8A%9C%E3%81%8D%20Ray%202017%E5%B9%B49%E6%9C%88%202.5%E6%AC%A1%E5%85%83",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0973/4910096950973.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -2651,35 +2651,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B48%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639092.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639091.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639094.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639093.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2695,18 +2695,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.15｜东启介、和田雅成、广濑智纪、染谷俊之等",
    "japanese": "W! VOL.15",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.15%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "已核实（骏河屋商品登记含东启介）",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1144/neobk-2130555.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
+     "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -2727,28 +2727,28 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B49%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639095.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639097.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639096.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2764,7 +2764,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《ViVi》2017年11月号｜tokyo boy cam #63 东启介",
    "japanese": "ViVi 2017年11月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/15120606/",
@@ -2775,7 +2775,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1177/4910013791177.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15120606/",
      "asset": "",
      "resolution": ""
@@ -2796,35 +2796,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B410%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683296.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683297.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683299.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683298.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2845,8 +2845,8 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.clie.asia/CSL-TV/",
    "note": "月度播出作品；日期按TOKYO MX公布的放送日口径，跨午夜时实际日历日可能顺延。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "官方标注首播日",
    "images": [
     {
@@ -2858,7 +2858,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0705/ClubSLAZYExtrainvitationMalachite_logo.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -2888,35 +2888,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B411%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639100.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639099.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639101.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639102.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -2937,8 +2937,8 @@ window.ARCHIVE = {
    "key": "pimpernel",
    "url": "https://www.umegei.com/the-scarlet-pimpernel/",
    "note": "不是罗伯斯庇尔；该角色由上原理生出演。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -2950,28 +2950,28 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0429/scarletpimpernel.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3958543.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3958545.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639108.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3015,18 +3015,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "专访：以30岁前登上帝国剧场为目标",
    "japanese": "要チェックの若手俳優、東啓介とは？",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.jprime.jp/articles/-/11125?page=2",
-   "note": "周刊女性PRIME",
+   "note": "周刊女性PRIME。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://jprime.ismcdn.jp/mwimgs/3/7/-/img_37839af8add1c2224806b703276c5061720274.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.jprime.jp/articles/-/11125?page=2",
      "asset": "73d7efd3110f67fd",
      "resolution": "1280 × 854"
@@ -3047,28 +3047,28 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B412%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439021.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg624775.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439022.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3084,18 +3084,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.20",
    "japanese": "W! VOL.20",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=W%21%20vol.20%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4056/9784331804056.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -3113,18 +3113,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.17",
    "japanese": "W! VOL.17",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.17%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1184/neobk-2191855.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
+     "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -3142,18 +3142,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.18",
    "japanese": "W! VOL.18",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.18%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/hmvjapan/cabinet/8742000/8740876.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
+     "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -3174,28 +3174,28 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B41%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717120.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717121.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717122.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3215,9 +3215,9 @@ window.ARCHIVE = {
    "crew": "导演：石丸さち子",
    "key": "mata2018",
    "url": "https://www.umegei.com/matahari2018/",
-   "note": "官网为1月21日开演，维基写1月22日；采用官网。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "采用官网。",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -3229,7 +3229,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0901/mata01.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -3279,18 +3279,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.10｜铃木拡树、植田圭辅、安西慎太郎、松田凌、东启介等",
    "japanese": "W! VOL.10",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.10%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/booksupply/cabinet/04216212/683/9784331803370.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
+     "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -3311,35 +3311,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B42%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439024.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439025.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439023.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg703175.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3358,35 +3358,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B43%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735851.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735849.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735850.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735848.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3402,7 +3402,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《BEST STAGE》2018年5月号｜《5DAYS》排练场报道",
    "japanese": "BEST STAGE 2018年5月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/15405076/",
@@ -3413,7 +3413,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0586/4910080090586.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15405076/",
      "asset": "",
      "resolution": ""
@@ -3434,35 +3434,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B44%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271344.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271343.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271345.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271342.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3483,34 +3483,34 @@ window.ARCHIVE = {
    "key": "5days",
    "url": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.stagegate.jp/stagegate/performance/2018/5days/img/main_img.jpg",
-     "caption": "官方公演主视觉",
+     "caption": "主视觉",
      "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/1222/5DAYS_visual.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg655396.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo42077.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3553,35 +3553,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B45%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271347.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271348.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271349.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271346.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3600,35 +3600,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B46%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271350.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271351.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271352.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271353.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3649,8 +3649,8 @@ window.ARCHIVE = {
    "key": "hiden",
    "url": "https://stage-toukenranbu.jp/archive/hiden/cast.html",
    "note": "中文为便于阅读的译写，日文原题一并保留。",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -3662,28 +3662,28 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0601/tousute_hidenKV.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745225.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745145.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745171.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3706,7 +3706,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《JUNON》2018年8月号｜「とんちゃん、ひとりじめ」",
    "japanese": "JUNON 2018年8月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/15531823/",
@@ -3717,7 +3717,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0880/4910013170880.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15531823/",
      "asset": "",
      "resolution": ""
@@ -3738,35 +3738,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B47%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439026.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439027.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439029.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439028.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3811,35 +3811,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B48%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435126.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435125.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435127.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435128.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3855,18 +3855,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.19",
    "japanese": "W! VOL.19（2018年8月）",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.19%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "已核实（骏河屋商品登记含东启介）",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/kaitoriouji/cabinet/202303061540/4331803996.jpg?_ex=500x500",
-     "caption": "乐天市场公开商品图",
+     "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -3889,8 +3889,8 @@ window.ARCHIVE = {
    "key": "marigold",
    "url": "https://www.ponycanyon.co.jp/visual/PCBP000053909",
    "note": "现有配图为发行方DVD封面，非东启介个人定装照。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -3902,35 +3902,35 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0712/marigold_keyvisual.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg145117.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937051.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937048.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo37817.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -3977,35 +3977,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B49%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435132.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435130.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435131.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435129.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -4021,18 +4021,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《BEST STAGE》2018年11月号｜《命売ります》东启介×上村海成",
    "japanese": "BEST STAGE 2018年11月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/15645554/",
-   "note": "视觉拍摄报道。",
+   "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1187/4910080091187.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15645554/",
      "asset": "",
      "resolution": ""
@@ -4050,18 +4050,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV navi》2018年12月号",
    "japanese": "TV navi 2018年12月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=TV%20navi%202018%E5%B9%B412%E6%9C%88%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1283/4910163351283.gif?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -4079,18 +4079,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《WiNK UP》2018年12月号｜山本凉介、安井谦太郎、森田美勇人、东启介",
    "japanese": "WiNK UP 2018年12月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=WiNK%20UP%20%E6%9D%B1%E5%95%93%E4%BB%8B%2018.12",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1286/4910018571286.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -4111,35 +4111,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B410%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439033.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439030.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439032.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439031.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -4159,14 +4159,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.joqr.co.jp/article/detail/316_216.php",
-   "note": "全节目2018年10月1日开播；周四担当首期按排期为10月4日，具体首期页面待核。不把周一节目开播日误记为本人首期。",
-   "status": "主持身份已核实；本人首期日期按周历推定",
+   "note": "全节目2018年10月1日开播；不把周一节目开播日误记为本人首期。",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "本人首期日期（推定）",
    "images": [
     {
      "url": "https://www.joqr.co.jp/article/images/asasute.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.joqr.co.jp/article/detail/316_216.php",
      "asset": "ab117ace7229276a",
      "resolution": "600 × 306"
@@ -4189,8 +4189,8 @@ window.ARCHIVE = {
    "key": "garo",
    "url": "https://garo-project.jp/usuzumizakura/sp/news.php",
    "note": "配音作品；动画角色图不属于东启介真人剧照。",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "上映日",
    "images": [
     {
@@ -4202,7 +4202,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2018/0907/usuzumizakura_garo_201809_01.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -4236,7 +4236,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0926/TRUMPten_logo.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/301217",
      "asset": "",
      "resolution": ""
@@ -4251,18 +4251,18 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "《茧期夜会》",
    "japanese": "繭期夜会",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/1011/mayukiyakai_scene.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -4295,35 +4295,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B411%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937030.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937028.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937027.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937029.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -4343,49 +4343,49 @@ window.ARCHIVE = {
    "crew": "编剧／导演：ノゾエ征爾",
    "key": "inochi",
    "url": "https://stage.parco.jp/program/inochi/",
-   "note": "东京11月24日–12月9日；巡演另至12月22日。维基只列东京档期。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "东京11月24日–12月9日；巡演另至12月22日。",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://stage.parco.jp//image/parcoplay/store/storage/h600/s_inochi_honchirashi.jpg",
-     "caption": "官方作品海报",
+     "caption": "海报",
      "source": "https://stage.parco.jp/program/inochi/",
      "asset": "2e5c21c4552c81a9",
      "resolution": "424 × 600"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0630/inochiurimasu.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg427182.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937045.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937046.jpg",
-     "caption": "官方生写真（骏河屋商品图）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo55853.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -4403,7 +4403,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《BEST STAGE》2019年2月号｜STAGE RE:ACT of 2018",
    "japanese": "BEST STAGE 2019年2月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/15760957/",
@@ -4414,7 +4414,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0296/4910080090296.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15760957/",
      "asset": "",
      "resolution": ""
@@ -4432,18 +4432,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《吸血鬼之舞》东启介专访（上）",
    "japanese": "《吸血鬼之舞》东启介专访（上）",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ideanews.jp/archives/77471",
-   "note": "部分内容付费；日期只确认到年份",
-   "status": "原文定位；准确发布日期待复核",
+   "note": "部分内容付费。",
+   "status": "",
    "origin": "公开检索补充",
-   "dateKind": "发布日期精度有限",
+   "dateKind": "",
    "images": [
     {
      "url": "https://ideanews.jp/wp-content/uploads/2019/10/01-00_アイキャッチ用_B5A8527_ok-700x335.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://ideanews.jp/archives/77471",
      "asset": "fe640ae962efe408",
      "resolution": "700 × 335"
@@ -4461,18 +4461,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《吸血鬼之舞》东启介专访（下）",
    "japanese": "《吸血鬼之舞》东启介专访（下）",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ideanews.jp/archives/77477",
-   "note": "部分内容付费；日期只确认到年份",
-   "status": "原文定位；准确发布日期待复核",
+   "note": "部分内容付费。",
+   "status": "",
    "origin": "公开检索补充",
-   "dateKind": "发布日期精度有限",
+   "dateKind": "",
    "images": [
     {
      "url": "https://ideanews.jp/wp-content/uploads/2019/10/02-00_アイキャッチ用_B5A8639_ok-700x335.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://ideanews.jp/archives/77477",
      "asset": "b1956a48818119da",
      "resolution": "700 × 335"
@@ -4490,18 +4490,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.24｜北园凉・东启介特集号（附DVD）",
    "japanese": "W! VOL.24",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=W%21%20Vol24%20%E5%8C%97%E5%9C%92%E6%B6%BC%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "已核实（骏河屋商品登记含东启介）",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4315/9784331804315.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -4519,18 +4519,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.21",
    "japanese": "W! VOL.21",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.21%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4094/9784331804094.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -4551,21 +4551,21 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B42%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937035.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937038.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -4584,35 +4584,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B43%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937042.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937040.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937041.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937039.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -4628,7 +4628,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《+act.》2019年4月号｜东启介×青野纱穗",
    "japanese": "+act. 2019年4月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/15831877/",
@@ -4639,7 +4639,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0499/4910179070499.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15831877/",
      "asset": "",
      "resolution": ""
@@ -4657,18 +4657,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《BEST STAGE》2019年5月号｜东启介×石丸幸子《Color of Life》",
    "japanese": "BEST STAGE 2019年5月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/15862247/",
-   "note": "视觉拍摄报道。",
+   "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0593/4910080090593.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15862247/",
      "asset": "",
      "resolution": ""
@@ -4686,18 +4686,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《LDK the Beauty》2019年6月号",
    "japanese": "LDK the Beauty 2019年6月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/LDK%20the%20Beauty%202019%E5%B9%B46%E6%9C%88%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0690/4910121210690.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -4715,18 +4715,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《Color of Life》三人专访",
    "japanese": "石丸さち子、東啓介、青野紗穂インタビュー",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://magazine.stagebook.jp/interview/coloroflife",
-   "note": "Stagebook",
+   "note": "Stagebook。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://magazine.stagebook.jp/wp-content/uploads/2019/04/re-ColorofLife_01.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://magazine.stagebook.jp/interview/coloroflife",
      "asset": "6546cfa7e2c4a967",
      "resolution": "600 × 345"
@@ -4749,27 +4749,27 @@ window.ARCHIVE = {
    "key": "color",
    "url": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/",
    "note": "4月26日为相模预演；东京正式公演5月1–27日。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/img/main_img.jpg",
-     "caption": "官方作品主视觉",
+     "caption": "主视觉",
      "source": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/",
      "asset": "8ea9015ce3da0185",
      "resolution": "305 × 428"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/0115/COL.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo41034.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -4812,18 +4812,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《W!》vol.22｜阪本奨悟SPECIAL，铃木拡树、有泽樟太郎、北园凉等",
    "japanese": "W! VOL.22",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.22%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4186/9784331804186.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -4844,35 +4844,35 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B47%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723926.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723923.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723925.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723924.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -4892,14 +4892,14 @@ window.ARCHIVE = {
    "crew": "导演：鸿上尚史",
    "key": "katsu",
    "url": "https://www.meijiza.co.jp/lineup/2019/07/",
-   "note": "中村雅俊45周年纪念公演第一部；原履历副标题有错字。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "中村雅俊45周年纪念公演第一部。",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.meijiza.co.jp/lineup/2019/07/images/main_header.jpg",
-     "caption": "官方作品主视觉",
+     "caption": "主视觉",
      "source": "https://www.meijiza.co.jp/lineup/2019/07/",
      "asset": "164eaf65d35f7464",
      "resolution": "1280 × 610"
@@ -4921,7 +4921,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://twfan.net/user/923437529428197376/old/2",
-   "note": "18:15–19:00；节目官方推文的第三方存档，待电台原始档案复核。",
+   "note": "18:15–19:00。",
    "status": "官方推文存档线索",
    "origin": "补充检索",
    "dateKind": "节目播出日",
@@ -4951,13 +4951,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.asahi.co.jp/refollower/",
    "note": "朝日电视台与ABC播出日期不同；ABC为10月13日。跨午夜的实际日历日期也可能不同。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "朝日电视台标注放送日",
    "images": [
     {
      "url": "https://www.asahi.co.jp/refollower/img/common/og02.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.asahi.co.jp/refollower/",
      "asset": "ca7d6ca21822657c",
      "resolution": "1200 × 630"
@@ -4980,20 +4980,20 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.artandlive.net/events/musical-vampire",
    "note": "东京11月5–27日；巡演至2020年1月20日。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://talc-images.s3.ap-northeast-1.amazonaws.com/public/events/fe4XeIeCS86YSBaqFF7DN3LfqXKXuwCdDRLMa8MJ.jpeg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.artandlive.net/events/musical-vampire",
      "asset": "7413652e46c92398",
      "resolution": "280 × 396"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/0426/TdV.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -5033,13 +5033,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://prtimes.jp/main/html/rd/p/000000003.000050435.html",
    "note": "节目2019年11月10日播出；主办方报道11月15日发表。旧回看限时开放，现不保证可播放。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "节目播出日",
    "images": [
     {
      "url": "https://prtimes.jp/i/50435/3/resize/d50435-3-810070-0.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://prtimes.jp/main/html/rd/p/000000003.000050435.html",
      "asset": "4730daac59dbd897",
      "resolution": "650 × 358"
@@ -5057,18 +5057,18 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "《茧期大夜会》",
    "japanese": "繭期大夜会",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/1125/mayukidaiyakai3.jpg?imwidth=750&imdensity=1",
-     "caption": "演出照（音乐自然报道）",
+     "caption": "剧照",
      "source": "https://natalie.mu/stage/news/356716",
      "asset": "",
      "resolution": ""
@@ -5091,20 +5091,20 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://eiga.com/movie/91657/",
    "note": "",
-   "status": "上映日及角色经电影资料核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "上映日",
    "images": [
     {
      "url": "https://media.eiga.com/images/movie/91657/photo/f64a09ceb60f2c8d.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://eiga.com/movie/91657/",
      "asset": "d123543fd8772264",
      "resolution": "800 × 533"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2019/0930/signal100_201909_01.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -5127,13 +5127,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://younggto.com/trailer-character/",
    "note": "2020年2月28日Prime Video上线，非电视首播。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "首发上线日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
-     "caption": "剧照（Natalie 报道）",
+     "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
      "asset": "",
      "resolution": ""
@@ -5151,7 +5151,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《POTATO》2020年4月号",
    "japanese": "POTATO 2020年4月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/16231273/",
@@ -5162,7 +5162,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0403/4910180750403.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16231273/",
      "asset": "",
      "resolution": ""
@@ -5180,18 +5180,18 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "《あさステ！》官方Fan Book",
    "japanese": "あさステ！公式ファンブック",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.joqr.co.jp/article/detail/316_216.php",
    "note": "收录六位主持人的拍摄与访谈。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "发售日",
    "images": [
     {
      "url": "https://www.joqr.co.jp/article/images/asasute.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.joqr.co.jp/article/detail/316_216.php",
      "asset": "ab117ace7229276a",
      "resolution": "600 × 306"
@@ -5214,20 +5214,20 @@ window.ARCHIVE = {
    "key": "whistle",
    "url": "https://www.amuse.co.jp/about/stage/?k=ホイッスル・ダウン・ザ・ウィンド&y1=2020&y2=2020",
    "note": "原定3月7日起巡演至4月30日；受疫情影响，实际仅3月19–27日上演。日程采用制作方Amuse取消说明。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.amuse.co.jp/assets/img/og.gif?v=20260701",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.amuse.co.jp/about/stage/?k=ホイッスル・ダウン・ザ・ウィンド&y1=2020&y2=2020",
      "asset": "32dbc546f5959808",
      "resolution": "1200 × 630"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/1004/wdtw_main_s.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -5249,14 +5249,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.bilibili.com/video/BV1TQ4y1T7TK/",
-   "note": "文化放送「あさステ！」木曜日，嘉宾 小南光司。B站有搬运。",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 小南光司。",
    "status": "已结束",
    "origin": "B站搬运",
    "dateKind": "day",
    "images": [
     {
      "url": "https://i0.hdslb.com/bfs/archive/49dfe4f050792e9d1071e30dbfcebd4465b8f53d.jpg",
-     "caption": "B站视频封面",
+     "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1TQ4y1T7TK/",
      "asset": "",
      "resolution": ""
@@ -5280,14 +5280,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.bilibili.com/video/BV1i5411x7WJ/",
-   "note": "文化放送「あさステ！」木曜日，嘉宾 小南光司。B站有搬运。",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 小南光司。",
    "status": "已结束",
    "origin": "B站搬运",
    "dateKind": "day",
    "images": [
     {
      "url": "https://i0.hdslb.com/bfs/archive/d497d9f26cee685492f7d57fa5c2a2fe2b333f4b.jpg",
-     "caption": "B站视频封面",
+     "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1i5411x7WJ/",
      "asset": "",
      "resolution": ""
@@ -5311,14 +5311,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.bilibili.com/video/BV1fp4y1S74K/",
-   "note": "文化放送「あさステ！」木曜日，嘉宾 植田圭輔。B站有搬运。",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 植田圭輔。",
    "status": "已结束",
    "origin": "B站搬运",
    "dateKind": "day",
    "images": [
     {
      "url": "https://i0.hdslb.com/bfs/archive/9e1d5d33389caf42bacea858e2e34b6c47db385d.jpg",
-     "caption": "B站视频封面",
+     "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1fp4y1S74K/",
      "asset": "",
      "resolution": ""
@@ -5395,13 +5395,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://sato-ryuji.com/contents/370307",
    "note": "企划全期6月17–21日；东启介×桥本祥平为6月20日18:00。",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "东启介出演日",
    "images": [
     {
      "url": "https://sato-ryuji.com/assets/satoryuji/app/og_image.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://sato-ryuji.com/contents/370307",
      "asset": "17ef63bf09c3596f",
      "resolution": "1200 × 630"
@@ -5495,9 +5495,9 @@ window.ARCHIVE = {
    "key": "defiled",
    "url": "https://stagegate-vr.jp/vol1/",
    "note": "全项目7月1日起；官网明确7月5日18:30东启介×岸祐二。另有本人场次，不将单场误写为全项目档期。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
-   "dateKind": "已核实的本人出演场次日",
+   "status": "",
+   "origin": "",
+   "dateKind": "",
    "images": [
     {
      "url": "https://stagegate-vr.jp/vol1/img_parallax/defiled1.jpg",
@@ -5524,20 +5524,20 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.wowow.co.jp/eventinfo/detail/event-1260.html",
    "note": "原定出演记录；实际未上演，不能当作完成的演出履历。另列实际音乐会版。",
-   "status": "已核实取消",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "原定首演日",
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://engekisengen.com/genre/musical/42787/",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0417/img1.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -5560,13 +5560,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.tohostage.com/cancel2020_11/jersey.html",
    "note": "7月18日以无观众线上配信开幕；7月18–21日有观众场次取消。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "线上开演日",
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://engekisengen.com/genre/musical/42787/",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
@@ -5601,14 +5601,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://matisowa.jp/963/",
-   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "note": "",
    "status": "已刊载",
    "origin": "Matisowa",
    "dateKind": "day",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw011.jpg",
-     "caption": "Matisowa 文章配图",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/963/",
      "asset": "",
      "resolution": ""
@@ -5634,7 +5634,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0723/HigashiKeisuke.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/388967",
      "asset": "",
      "resolution": ""
@@ -5653,14 +5653,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.bilibili.com/video/BV1rf4y1Q7h4/",
-   "note": "文化放送「あさステ！」木曜日，嘉宾 尾上右近。B站有搬运。",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 尾上右近。",
    "status": "已结束",
    "origin": "B站搬运",
    "dateKind": "day",
    "images": [
     {
      "url": "https://i0.hdslb.com/bfs/archive/70706d64449ff7fa9d48522191c26ced97fa48bd.jpg",
-     "caption": "B站视频封面",
+     "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1rf4y1Q7h4/",
      "asset": "",
      "resolution": ""
@@ -5684,14 +5684,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.bilibili.com/video/BV1Wv41117iS/",
-   "note": "文化放送「あさステ！」木曜日，嘉宾 尾上右近。B站有搬运。",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 尾上右近。",
    "status": "已结束",
    "origin": "B站搬运",
    "dateKind": "day",
    "images": [
     {
      "url": "https://i0.hdslb.com/bfs/archive/36e7ea0becaf226d34017fe902c6f353b6e72951.jpg",
-     "caption": "B站视频封面",
+     "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1Wv41117iS/",
      "asset": "",
      "resolution": ""
@@ -5714,28 +5714,28 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202020%E5%B9%B410%E6%9C%88",
-   "note": "渡边娱乐官方月度生写真（WE SHOP／ワタナベ商店），东启介当月个人生写真。图片为骏河屋商品图。",
+   "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814333.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814331.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814334.jpg",
-     "caption": "骏河屋商品图（个人生写真）",
+     "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -5751,18 +5751,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《恋，燃烧吧。》专访（上）",
    "japanese": "一度悪いヤツを作って、次はいい人で",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ideanews.jp/archives/97810",
-   "note": "Idea News；部分内容付费",
+   "note": "Idea News；部分内容付费。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://ideanews.jp/wp-content/uploads/2020/10/01-00_アイキャッチ用_200918GB_DSC00493_h-700x335.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://ideanews.jp/archives/97810",
      "asset": "a10d36b11b71e9f4",
      "resolution": "700 × 335"
@@ -5780,18 +5780,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《恋，燃烧吧。》专访（下）",
    "japanese": "心に空いた穴はちょっと残っています",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ideanews.jp/archives/97821",
-   "note": "Idea News；部分内容付费",
+   "note": "Idea News；部分内容付费。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://ideanews.jp/wp-content/uploads/2020/10/02-00_アイキャッチ用_200918GB_DSC00465-700x335.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://ideanews.jp/archives/97821",
      "asset": "ade1102285eb6629",
      "resolution": "700 × 335"
@@ -5814,8 +5814,8 @@ window.ARCHIVE = {
    "key": "koi",
    "url": "https://www.meijiza.co.jp/lineup/2020/10/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -5827,14 +5827,14 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0507/koi_moyuru.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo52995.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -5876,12 +5876,12 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《ザテレビジョン SQUARE》02｜东启介专访＆写真",
    "japanese": "ザテレビジョンSQUARE 02",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://auctions.yahoo.co.jp/search/search?p=%E3%82%B6%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3SQUARE+%E6%9D%B1%E5%95%93%E4%BB%8B",
    "note": "niconico 有同期的专访＆拍摄花絮视频（2020.11.16）；杂志随机生写真也在二手市场流通。",
-   "status": "已核实（骏河屋商品登记含东启介）",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
@@ -5894,14 +5894,14 @@ window.ARCHIVE = {
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723934.jpg",
-     "caption": "杂志附赠随机生写真（骏河屋商品图）",
+     "caption": "杂志附赠随机生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723936.jpg",
-     "caption": "杂志附赠随机生写真（骏河屋商品图）",
+     "caption": "杂志附赠随机生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -5919,18 +5919,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "本人专访（前篇）：想证明自己的存在意义",
    "japanese": "東 啓介さん《前編》「存在意義を示していきたい」",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/405/",
-   "note": "原始采访／报道；正文请到发布方阅读。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw033.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/405/",
      "asset": "161086235bd7c112",
      "resolution": "1120 × 692"
@@ -5948,18 +5948,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "本人专访（后篇）：想证明自己的存在意义",
    "japanese": "東 啓介さん《後編》「存在意義を示していきたい」",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/406/",
-   "note": "原始采访／报道；正文请到发布方阅读。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw034.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/406/",
      "asset": "6a7e5f5ea08bfb7e",
      "resolution": "1120 × 692"
@@ -5977,18 +5977,18 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "首场个人音乐会《A NEW ME》",
    "japanese": "東啓介1st Musical Concert A NEW ME",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://enterstage.jp/articles/78407",
    "note": "",
-   "status": "本人演出报道已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "活动首日",
    "images": [
     {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2020/12/78407_2.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://enterstage.jp/articles/78407",
      "asset": "44f109bbf2d8a9f2",
      "resolution": "758 × 568"
@@ -6011,12 +6011,12 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《周刊ザテレビジョン》2021年（连载等）",
    "japanese": "週刊ザテレビジョン 2021",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E9%80%B1%E5%88%8A%E3%82%B6%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%202021",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [],
@@ -6032,12 +6032,12 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《周女イケメン通信》vol.12｜柳下大×东启介",
    "japanese": "週女イケメン通信 vol.12",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/%E9%80%B1%E5%A5%B3%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E9%80%9A%E4%BF%A1%20vol.12%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [],
@@ -6053,12 +6053,12 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《月刊ザテレビジョン》｜东启介×滨边美波（《我家女儿交不到男朋友!!》）",
    "japanese": "月刊ザテレビジョン",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=%E6%9C%88%E5%88%8A%E3%82%B6%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%20%E6%9D%B1%E5%95%93%E4%BB%8B%20%E6%B5%9C%E8%BE%BA%E7%BE%8E%E6%B3%A2",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [],
@@ -6074,7 +6074,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Duet》2021年2月号",
    "japanese": "Duet 2021年2月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/16555281/",
@@ -6085,7 +6085,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0219/4910165170219.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16555281/",
      "asset": "",
      "resolution": ""
@@ -6103,18 +6103,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#1｜一切由此开始：原点《咖啡之歌》",
    "japanese": "【#1】すべてはここから始まった　原点の「カフェ・ソング」（レ・ミゼラブル）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/428/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw048.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/428/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6136,9 +6136,9 @@ window.ARCHIVE = {
    "crew": "编剧：北川悦吏子",
    "key": "uchikare",
    "url": "https://www.ntv.co.jp/uchikare/articles/205261mefmaix3vhul5g.html",
-   "note": "官网首播1月13日，维基写1月12日；以电视台为准。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "以电视台为准。",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首播日",
    "images": [
     {
@@ -6166,11 +6166,11 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "本人专访：舞台与影视，两边都想做好",
    "japanese": "映像・舞台、どちらでも活躍できる役者になりたい",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://deview.co.jp/Interview?am_interview_id=993&am_view_page=1",
-   "note": "Deview",
+   "note": "Deview。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
@@ -6206,7 +6206,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0125/DSC_9731.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/413660",
      "asset": "",
      "resolution": ""
@@ -6221,7 +6221,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Duet》2021年3月号",
    "japanese": "Duet 2021年3月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/16614594/",
@@ -6232,7 +6232,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0318/4910165170318.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16614594/",
      "asset": "",
      "resolution": ""
@@ -6250,18 +6250,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#2｜放在当下也适用的《一小片勇气》",
    "japanese": "【#2】今の時代にも通じる「ひとかけらの勇気」（スカーレット・ピンパーネル）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/429/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw057.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/429/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6279,18 +6279,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《女性自身》2021年3月2日号",
    "japanese": "女性自身 2021年3月2日号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E5%A5%B3%E6%80%A7%E8%87%AA%E8%BA%AB%202021%E5%B9%B43%E6%9C%882%E6%97%A5%E5%8F%B7",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0316/4910203010316.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -6308,18 +6308,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《妇人公论》2021年2月24日号",
    "japanese": "婦人公論 2021年2月24日号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/%E5%A9%A6%E4%BA%BA%E5%85%AC%E8%AB%96%202021%E5%B9%B42%E6%9C%8824%E6%97%A5%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0218/4910261040218.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -6337,7 +6337,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《BEST STAGE》2021年4月号｜《身在高地》四人",
    "japanese": "BEST STAGE 2021年4月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/16657557/",
@@ -6348,7 +6348,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0418/4910080090418.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16657557/",
      "asset": "",
      "resolution": ""
@@ -6366,7 +6366,7 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "日历写真书 2021.04–2022.03",
    "japanese": "東啓介 カレンダーブック 2021.04-2022.03（KADOKAWA）",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/16609471/",
@@ -6377,7 +6377,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/5353/9784047365353.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16609471/",
      "asset": "",
      "resolution": ""
@@ -6395,7 +6395,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Duet》2021年4月号",
    "japanese": "Duet 2021年4月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/16645554/",
@@ -6406,7 +6406,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0417/4910165170417.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16645554/",
      "asset": "",
      "resolution": ""
@@ -6424,13 +6424,13 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "写真集《何色》",
    "japanese": "東啓介写真集 何色",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "2021年3月10日 KADOKAWA 发行。本人参与企划的写真集。",
    "status": "已发售",
-   "origin": "维基补充",
+   "origin": "",
    "dateKind": "发售日",
    "images": [
     {
@@ -6453,18 +6453,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#3｜从春马先生那里获得力量的《独白》",
    "japanese": "【#3】春馬さんに力をもらった「独白」（ホイッスル・ダウン・ザ・ウィンド）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/430/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw065.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/430/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6482,18 +6482,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "本人专访：找到属于自己的武器——唱歌",
    "japanese": "自分の武器は何かと考え抜いて、歌に行き着いた",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://fujinkoron.jp/articles/-/3491?display=full",
-   "note": "妇人公论",
+   "note": "妇人公论。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://fujinkoronmw.ismcdn.jp/mwimgs/3/4/-/img_34b7c2191979cf1e5c0e22d5e8d05664398057.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://fujinkoron.jp/articles/-/3491?display=full",
      "asset": "f4ce284135c7bf8c",
      "resolution": "1000 × 563"
@@ -6511,18 +6511,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "BOYS Pia：经历《我家女儿交不到男朋友!!》后想飞得更高",
    "japanese": "BOYS Pia：经历《我家女儿交不到男朋友!!》后想飞得更高",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://lp.p.pia.jp/article/series/176438/176443/index.html",
-   "note": "原始专访；日期待复核",
-   "status": "原文定位；准确发布日期待复核",
+   "note": "原始专访。",
+   "status": "",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://lp.p.pia.jp/shared/materials/462f1eb9-3f13-4b77-8910-fd89a0be6320/origin.JPG",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://lp.p.pia.jp/article/series/176438/176443/index.html",
      "asset": "53326c7cef3b7ca4",
      "resolution": "1200 × 800"
@@ -6540,7 +6540,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《CanCam》2021年5月号｜妄想心动剧场",
    "japanese": "CanCam 2021年5月号 妄想キュン♡劇場",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://cancam.jp/archives/939481",
@@ -6569,7 +6569,7 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "CanCam图书馆短片与拍摄后专访（上）",
    "japanese": "いつまでも初心のままで〜彼女と図書館で〜",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://cancam.jp/archives/939481",
@@ -6604,18 +6604,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "本人专访：通过与人交流不断成长",
    "japanese": "周りの人とコミュニケーションを取ることによって成長できると思う",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://townwork.net/magazine/job/workstyle/109719/",
-   "note": "Townwork",
+   "note": "Townwork。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://media.townwork.net/uploads/2021/03/OGP-1.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://townwork.net/magazine/job/workstyle/109719/",
      "asset": "4ebbc07f25d1150e",
      "resolution": "620 × 325"
@@ -6638,20 +6638,20 @@ window.ARCHIVE = {
    "key": "heights",
    "url": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/",
    "note": "3月27–28日为镰仓预演；后续东京部分场次受疫情影响，原定终演日期与实际执行需分看。",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/img/main_img01.jpg",
-     "caption": "官方作品主视觉",
+     "caption": "主视觉",
      "source": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/",
      "asset": "9f301cb36994ca47",
      "resolution": "550 × 778"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0226/ITH_visual.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -6695,18 +6695,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#4｜在原版现场听到《Waving Through a Window》的震撼",
    "japanese": "【#4】本場で聞いて驚いた「Waving Through a Window」（Dear Evan Hansen）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/431/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw070.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/431/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6724,18 +6724,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#5｜从《成为英雄》到《普通的人生》的成长",
    "japanese": "【#5】「英雄であれ」から「普通の人生」へ成長していく姿を（マタ・ハリ）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/432/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw081.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/432/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6753,18 +6753,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#6｜拓宽表达方式的《96,000》",
    "japanese": "【#6】表現の幅を広げてくれた「96,000」（イン・ザ・ハイツ）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/433/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw091.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/433/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6787,8 +6787,8 @@ window.ARCHIVE = {
    "key": "mata2021",
    "url": "https://www.umegei.com/matahari2021/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -6800,7 +6800,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0213/mata21_main1_ol.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -6831,18 +6831,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Sunday每日》2021年7/4号｜封面：东启介",
    "japanese": "サンデー毎日 2021年 7/4号【表紙：東啓介】",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://auctions.yahoo.co.jp/search/search?p=%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E6%AF%8E%E6%97%A5+%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "雅虎拍卖出品标题注明“表紙：東啓介”；发售日按周刊惯例推算，待核。",
-   "status": "雅虎拍卖出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0714/4910200710714_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -6860,18 +6860,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#7｜想一直珍惜的《My Eyes Adored You》",
    "japanese": "【#7】ずっと大事にしたい「My Eyes Adored You」（ジャージー・ボーイズ）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/434/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw099.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/434/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6889,18 +6889,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#8｜在百老汇再遇见《生生不息》",
    "japanese": "【#8】ブロードウェイで再会した「サークル・オブ・ライフ」（ライオンキング）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/435/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw108-.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/435/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6929,7 +6929,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0831/ninodan_plus.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/443149",
      "asset": "",
      "resolution": ""
@@ -6944,18 +6944,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#9｜给予做自己勇气的《Let It Go》",
    "japanese": "【#9】ありのまま進む勇気をくれた「Let It Go」（アナと雪の女王）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/436/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw116.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/436/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -6977,8 +6977,8 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -7002,18 +7002,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#10｜坦露自己带来救赎：《And You Don’t Even Know It》",
    "japanese": "【#10】さらけ出すことで救われる「And You Don’t Even Know It」（ジェイミー）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/437/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw129-.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/437/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -7035,9 +7035,9 @@ window.ARCHIVE = {
    "crew": "",
    "key": "suki",
    "url": "https://www.tv-tokyo.co.jp/tsumarisuki/cast/",
-   "note": "第4集起登场；官网角色名为「加賀見修」，维基「加賀美修」有误。作品首播为10月6日深夜（实际10月7日）。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "第4集起登场；作品首播为10月6日深夜（实际10月7日）。",
+   "status": "",
+   "origin": "",
    "dateKind": "本人登场集播出日（实际日历日）",
    "images": [
     {
@@ -7049,7 +7049,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2021/0916/higashi_ishikawa_tsumarisuki.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -7067,18 +7067,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#11｜连交锋都能成为表演：《The Other Side》",
    "japanese": "【#11】駆け引きすらショーになる「The Other Side」（グレイテスト・ショーマン）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/438/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw136.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/438/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -7101,13 +7101,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
    "note": "",
-   "status": "维基待原平台复核",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "上线日",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw268.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/450/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7125,18 +7125,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#12｜唱出惆怅的《Santa Fe》",
    "japanese": "【#12】切なく歌い上げる「サンタフェ」（ニュージーズ）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/439/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw147-.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/439/",
      "asset": "c2bc9ad068971741",
      "resolution": "1120 × 692"
@@ -7154,18 +7154,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南Stage Stars》vol.19",
    "japanese": "TVガイドStage Stars vol.19",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89Stage%20Stars%20vol.19%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "已核实（骏河屋商品登记含东启介）",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4837/9784867014837_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -7183,18 +7183,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南Stage Stars》vol.21",
    "japanese": "TVガイドStage Stars vol.21",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89Stage%20Stars%20vol.21%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/5698/9784867015698_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -7212,18 +7212,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《WiNK UP》2022年3月号",
    "japanese": "WiNK UP 2022年3月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20WiNK%20UP%202022.3%E6%9C%88%E5%8F%B7",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0326/4910018570326_1_3.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -7241,18 +7241,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#13｜感受到阴影的《我就是音乐》",
    "japanese": "【#13】影を感じる「僕こそ音楽」（モーツァルト！）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/440/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw158-.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/440/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7275,20 +7275,20 @@ window.ARCHIVE = {
    "key": "fight",
    "url": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首播日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2021/1218/fightsong_202112.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://www.tbs.co.jp/fight_song_tbs2022/img/ogp.png?555",
-     "caption": "电视台作品海报",
+     "caption": "海报",
      "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
      "asset": "627eca80ca2cf665",
      "resolution": "1200 × 630"
@@ -7323,7 +7323,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《+act.》2022年2月号",
    "japanese": "+act. 2022年2月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/16989455/",
@@ -7334,7 +7334,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0222/4910179070222_1_3.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16989455/",
      "asset": "",
      "resolution": ""
@@ -7356,8 +7356,8 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.maimupro.co.jp/news/17002/?set=osaka&tab=",
-   "note": "NHK-FM全10集；时间经出演方公告核对，东启介的角色名待NHK原角色表复核。",
-   "status": "播出日已核对；角色待NHK原页复核",
+   "note": "NHK-FM全10集。",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "广播剧首播日",
    "images": [
@@ -7381,18 +7381,18 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "Japan Musical Festival 2022",
    "japanese": "Japan Musical Festival 2022",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/1209/jmf-musical2022.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -7428,18 +7428,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#14｜美丽与悲剧交织的《Tonight》",
    "japanese": "【#14】際立つ美しさと悲劇「Tonight(トゥナイト)」（映画「ウエスト・サイド・ストーリー」）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/441/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw170-.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/441/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7457,18 +7457,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《Fight Song》专访：最早的音乐启蒙",
    "japanese": "小さいとき、親にSMAPさんの「世界に一つだけの花」を弾きたいと言ったら",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://deview.co.jp/Interview?am_interview_id=1119&am_view_page=2",
-   "note": "Deview",
+   "note": "Deview。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://www.tbs.co.jp/fight_song_tbs2022/img/ogp.png?555",
-     "caption": "电视台作品海报",
+     "caption": "海报",
      "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
      "asset": "627eca80ca2cf665",
      "resolution": "1200 × 630"
@@ -7486,18 +7486,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#15｜番外：方方面面都很厉害的剧团四季《冰雪奇缘》",
    "japanese": "【＃15 番外編】すべてがすごい劇団四季「アナと雪の女王」｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/442/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw177.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/442/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7515,12 +7515,12 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "Musical Stars Symphonic Pops Concert",
    "japanese": "Sound Inn S meets billboard classics ミュージカルスターズ シンフォニーポップス コンサート",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -7544,18 +7544,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#16｜感受到日本漫画力量的《死亡笔记》",
    "japanese": "【#16】日本の漫画の力を感じる「デスノート」（デスノート）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/443/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw190.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/443/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7573,18 +7573,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#17｜触动成年人内心的《Feed the Birds》",
    "japanese": "【＃17】大人の心に響く「鳥に餌を／Feed the Birds」（メリー・ポピンズ）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/444/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw202.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/444/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7607,8 +7607,8 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.mcdonalds.co.jp/company/news/2022/0420a/",
    "note": "",
-   "status": "作品与开播已核实；本人集数／日期待节目表复核",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "本人出演集实际播出日",
    "images": [
     {
@@ -7636,8 +7636,8 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.fujitv.co.jp/nanbaMG5/",
    "note": "第8集至最终集；日程待逐集节目表再核。",
-   "status": "原履历确认角色；本人集数日程待复核",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "本人登场集播出日",
    "images": [
     {
@@ -7660,18 +7660,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#18｜眼前浮现不同风景的《Seasons of Love》",
    "japanese": "【#18】いろんな風景が見える「Seasons of Love」（RENT）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/445/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw211.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/445/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7689,18 +7689,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#19｜传递孤独灵魂呐喊的《Heartbreak Hotel》",
    "japanese": "【#19】孤独な魂の叫びが伝わる「Heartbreak Hotel」（映画「エルヴィス」）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/446/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw221.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/446/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7718,7 +7718,7 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "WE官方生写真（每月发售）",
    "japanese": "WEオフィシャルブロマイド",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://7net.omni7.jp/general/watanabeprobro.html",
@@ -7754,18 +7754,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#20｜与心意相反的歌词：《化为石头》",
    "japanese": "【#20】思いと裏腹な歌詞が心に響く「石になろう」（ノートルダムの鐘）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/447/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw227.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/447/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7794,7 +7794,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0819/GB01.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/490271",
      "asset": "",
      "resolution": ""
@@ -7809,12 +7809,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《泽西男孩》东启介×有泽樟太郎专访",
    "japanese": "《泽西男孩》东启介×有泽樟太郎专访",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://engekisengen.com/genre/musical/42787/",
-   "note": "已用于核对2022版日程",
-   "status": "原文定位；准确发布日期待复核",
+   "note": "",
+   "status": "",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
@@ -7843,20 +7843,20 @@ window.ARCHIVE = {
    "key": "chaser",
    "url": "https://www.tv-tokyo.co.jp/chasergame/",
    "note": "电视台标注9月8日24:30；实际日历为9月9日00:30。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "官方标注首播日",
    "images": [
     {
      "url": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/4c/45/d02f3cbee213eb9ba688995c9156.jpg",
-     "caption": "电视台作品海报",
+     "caption": "海报",
      "source": "https://www.tv-tokyo.co.jp/chasergame/",
      "asset": "4cfc3086b05a59c3",
      "resolution": "960 × 540"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2022/0822/chasergame_202208_main.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -7874,18 +7874,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#21｜纯粹心意相撞的《世界终结之夜》",
    "japanese": "【#21】純粋な想いをぶつけ合う「世界が終わる夜のように」（ミス・サイゴン）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/448/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw246.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/448/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -7903,7 +7903,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《写真LIFE》No.130｜CAMERA LIFE",
    "japanese": "写真ライフ No.130 2022秋",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://photo-con.net/SHOP/10-26.html",
@@ -7914,7 +7914,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://image1.shopserve.jp/photo-con.net/pic-labo/limg/4910044451026hyoushi.jpg",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://photo-con.net/SHOP/10-26.html",
      "asset": "23944cb79e198db5",
      "resolution": "250 × 353"
@@ -7937,20 +7937,20 @@ window.ARCHIVE = {
    "key": "saihara",
    "url": "https://www.mbs.jp/saihara/",
    "note": "官方为9月20日深夜；实际日历为9月21日。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "官方标注首播日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2022/0807/yamikinsaiharasan_20220807_01.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://www.mbs.jp/saihara/images/ogp-new.jpg?0808",
-     "caption": "电视台作品海报",
+     "caption": "海报",
      "source": "https://www.mbs.jp/saihara/",
      "asset": "36b0be661d78a85a",
      "resolution": "1200 × 630"
@@ -7979,7 +7979,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0924/GB_keikoba.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/494922",
      "asset": "",
      "resolution": ""
@@ -7999,27 +7999,27 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://engekisengen.com/genre/musical/42787/",
    "note": "10月6–7日为收费预演，正式开演10月8日。2025官网已更新，图片不能直接沿用到2022。",
-   "status": "演员专访所列日程已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://engekisengen.com/genre/musical/42787/",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0428/jerseyboys_2022.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo63666.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -8037,18 +8037,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#22｜唱给弗兰基的《Cry for Me》",
    "japanese": "【#22】フランキーへの思いをのせる「Cry for me」（ジャージー・ボーイズ）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/449/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw260.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/449/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -8066,18 +8066,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "受付終了しました【マチ★ソワ先行抽選販売】「東啓介と聴活 クリスマススペシャルイベント」",
    "japanese": "受付終了しました【マチ★ソワ先行抽選販売】「東啓介と聴活 クリスマススペシャルイベント」",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/498/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/Xmas_sam2_1027.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/498/",
      "asset": "17abe3b44f178635",
      "resolution": "1120 × 692"
@@ -8099,8 +8099,8 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -8124,18 +8124,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#23｜让人单纯感到幸福的《修行》",
    "japanese": "【#23】シンプルに幸せになれる「修行」（バケモノの子）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/450/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw268.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/450/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -8153,18 +8153,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "予定枚数終了しました【一般販売】11月12日（土）正午から販売開始（先着順）「東啓介と聴活 Christmas Special Event」",
    "japanese": "予定枚数終了しました【一般販売】11月12日（土）正午から販売開始（先着順）「東啓介と聴活 Christmas Special Event」",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/380/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw269.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/380/",
      "asset": "e7350f7e11a8ace5",
      "resolution": "1120 × 692"
@@ -8182,18 +8182,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "受付終了しました【受注販売開始】東啓介と聴活「オリジナルTシャツ」",
    "japanese": "受付終了しました【受注販売開始】東啓介と聴活「オリジナルTシャツ」",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/382/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw271.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/382/",
      "asset": "82647b4d242ce32c",
      "resolution": "1120 × 692"
@@ -8211,18 +8211,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《WiNK UP》2023年2月号｜井上祐贵×东启介",
    "japanese": "WiNK UP 2023年2月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=WINK%20UP%202023%E5%B9%B4%202%E6%9C%88%E5%8F%B7%20%E4%BA%95%E4%B8%8A%E7%A5%90%E8%B2%B4%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -8240,18 +8240,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#24｜自由又帅气的《The Rum Tum Tugger》",
    "japanese": "【#24】自由でカッコいい「ザ・ラム・タム・タガー」（映画「CATS」）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/451/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw282.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/451/",
      "asset": "e74a3d5bf8079be7",
      "resolution": "1120 × 692"
@@ -8274,13 +8274,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://matisowa.jp/491/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基及主办方补充",
+   "status": "",
+   "origin": "",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/R_Xmas_sam_2.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/491/",
      "asset": "b3749f1b43b908db",
      "resolution": "1120 × 692"
@@ -8298,7 +8298,7 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "StageNews｜《婚礼续摊上的人们》东启介专访",
    "japanese": "【インタビュー】舞台『二次会のひとたち』中内啓介役：東 啓介さん",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://stagenews25.jp/?p=85470",
@@ -8327,14 +8327,14 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《与鸟共舞》排练室专访",
    "japanese": "《与鸟共舞》排练室专访",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-   "note": "东启介×斋藤瑠希；日期待复核",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "东启介×斋藤瑠希。",
+   "status": "",
    "origin": "公开检索补充",
-   "dateKind": "发布日期精度有限",
+   "dateKind": "",
    "images": [
     {
      "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
@@ -8356,18 +8356,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南Stage Stars》vol.25｜东启介",
    "japanese": "TVガイド Stage Stars vol.25",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.25%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "已核实（骏河屋商品登记含东启介）",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/7777/9784867017777_1_3.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -8385,18 +8385,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《STAGE SQUARE》vol.49｜东启介、林翔太",
    "japanese": "STAGE SQUARE vol.49",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=STAGE%20SQUARE%20vol.49%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3204/9784838793204.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -8414,18 +8414,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南PLUS》vol.51",
    "japanese": "TVガイドPLUS vol.51",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89PLUS%20vol.51%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/6466/9784867016466_1_3.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -8448,20 +8448,20 @@ window.ARCHIVE = {
    "key": "beautiful",
    "url": "https://grand-arts.com/works/stage/2022the_beautiful_game/",
    "note": "原作品域名tbg2023.com现已变为其他内容，不能作为可用官网；保留出演方档案。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/1104/beautifulgame_cast.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://grand-arts.com/wp/wp-content/uploads/2022/09/ogp.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://grand-arts.com/works/stage/2022the_beautiful_game/",
      "asset": "fb0c7de1716e431b",
      "resolution": "1200 × 630"
@@ -8479,12 +8479,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#25｜公开采访特别篇：《牛奶》与串联故事的角色",
    "japanese": "【#25 公開取材スペシャル】場をかき回す狂言回しの面白さ「ミルク」（エリザベート）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/768/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -8497,7 +8497,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/768/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -8520,13 +8520,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.joqr.co.jp/ag/article/79018/",
    "note": "19:00–20:30；文化放送原公告。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "节目播出日",
    "images": [
     {
      "url": "https://www.joqr.co.jp/wp/wp-content/uploads/2c0ef5721408793e3cfbc6a00f53a6a6-1024x576.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.joqr.co.jp/ag/article/79018/",
      "asset": "f8f3bec6db717a05",
      "resolution": "1024 × 576"
@@ -8544,7 +8544,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南PERSON》vol.126",
    "japanese": "TVガイドPERSON vol.126",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://prtimes.jp/main/html/rd/p/000002040.000006568.html",
@@ -8555,7 +8555,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6568/2040/6568-2040-8b5b6feea98a8084b8e46703e2ccf623-1000x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://prtimes.jp/main/html/rd/p/000002040.000006568.html",
      "asset": "08b7d13563024e95",
      "resolution": "984 × 1260"
@@ -8573,12 +8573,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#26｜性格相反的两人唱响《永不结束》",
    "japanese": "【#26】正反対の2人で響かせる「終わらない」（ザ・ビューティフル・ゲーム）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/1569/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -8591,7 +8591,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/1569/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -8635,7 +8635,7 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "日历写真书 2023.04–2024.03",
    "japanese": "東啓介カレンダーブック 2023.04-2024.03",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://zasshi.tv/products/24058/",
@@ -8664,18 +8664,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《えんぶ》2023年4月号",
    "japanese": "えんぶ 2023年4月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://search.rakuten.co.jp/search/mall/%E3%81%88%E3%82%93%E3%81%B6%202023%E5%B9%B44%E6%9C%88%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "乐天市场商品说明里出现“东启介”；登场形式与页数待核。",
-   "status": "乐天市场商品信息线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0438/4910020630438_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -8693,12 +8693,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#27｜被充满力量的《And I’m Telling You I’m Not Going》打动",
    "japanese": "【＃27】パワフルな歌に感動「 (And I’m Telling You) I’m Not Going」（ドリームガールズ）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/2814/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -8711,7 +8711,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/2814/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -8733,14 +8733,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/pp/wowow-entasuonstage/wowow-entasuonstage_051.jpg?imwidth=1200&imdensity=1",
-     "caption": "演出照（Natalie 特集）",
+     "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/pp/wowow-entasuonstage/wowow-entasuonstage_051.jpg?imwidth=1200&imdensity=1",
      "asset": "",
      "resolution": ""
@@ -8775,8 +8775,8 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -8800,12 +8800,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#28｜一人唱出不同人格的《对决》",
    "japanese": "【＃28】別人を歌い分ける「対決」（ジキル＆ハイド）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/3566/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -8818,7 +8818,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/3566/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -8840,28 +8840,28 @@ window.ARCHIVE = {
    "crew": "导演：田村孝裕；编剧：冈田惠和",
    "key": "nijikai",
    "url": "https://nijikai-stage.com/",
-   "note": "东京4月14–30日；大阪5月6–7日。中文标题为暂译。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "东京4月14–30日；大阪5月6–7日。",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://nijikai-stage.com/common/fbimg1.png",
-     "caption": "官方作品主视觉",
+     "caption": "主视觉",
      "source": "https://nijikai-stage.com/",
      "asset": "b8330495c722dfe0",
      "resolution": "1200 × 630"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0222/2jikainohitotachi_mainV.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo67582.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -8912,14 +8912,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://matisowa.jp/3965/",
-   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "note": "",
    "status": "已刊载",
    "origin": "Matisowa",
    "dateKind": "day",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/04/nijikai_img_05.jpg",
-     "caption": "Matisowa 文章配图",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/3965/",
      "asset": "",
      "resolution": ""
@@ -8934,12 +8934,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#29｜唱什么都可以：《Sunday》",
    "japanese": "【＃29】何を歌ってもいい「Sunday」（映画『tick,tick…BOOM!』）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/4355/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -8952,7 +8952,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/4355/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -8970,25 +8970,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜给日常带来一点变化的花",
    "japanese": "東啓介、日常にちょっとした変化を与えてくれる花【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/85340/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/141096.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/85340/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/qjw_j_photo_0512.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/85340/",
      "asset": "b79726fefe919733",
      "resolution": "998 × 704"
@@ -9006,25 +9006,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜每个人自己的步调",
    "japanese": "東啓介、人それぞれの速度【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/85888/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/141934.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/85888/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/qjw_j_photo_0519.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/85888/",
      "asset": "28394eb0db30e1cc",
      "resolution": "998 × 704"
@@ -9046,8 +9046,8 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -9071,25 +9071,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜想感受时间的时候",
    "japanese": "東啓介、時間を感じたいときに【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/86530/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/IMG_7160.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/86530/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/qjw_j_photo_0526.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/86530/",
      "asset": "2ce3752c8502b0c8",
      "resolution": "998 × 704"
@@ -9107,25 +9107,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜猫咪带来的治愈",
    "japanese": "東啓介、猫ちゃんがくれた癒やし【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/86847/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/147527.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/86847/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0602.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/86847/",
      "asset": "8d39e8ba3776aa27",
      "resolution": "998 × 704"
@@ -9143,25 +9143,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜让人想试试的公用电话",
    "japanese": "東啓介、使いたくなる「公衆電話」【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/87159/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/149049.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/87159/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0609.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/87159/",
      "asset": "7b5f3b7343f0dc85",
      "resolution": "998 × 704"
@@ -9179,12 +9179,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#30｜也想推荐配音版的《Part of Your World》",
    "japanese": "【#30】吹替版も見てほしい「パート・オブ・ユア・ワールド」（映画『リトル・マーメイド』）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/4904/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -9197,7 +9197,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/4904/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -9215,25 +9215,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜家里竟然有树枝！",
    "japanese": "東啓介「家に枝がっ!!」【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/87604/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/150937.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/87604/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0616.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/87604/",
      "asset": "39bb3d734a0df44c",
      "resolution": "998 × 704"
@@ -9251,25 +9251,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜让想象力延伸的水桶",
    "japanese": "東啓介、想像がふくらむ「バケツ」【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/88099/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/152888.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/88099/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0623.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/88099/",
      "asset": "8afa53005ffef5ad",
      "resolution": "998 × 704"
@@ -9287,25 +9287,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜发现麻雀！",
    "japanese": "東啓介、すずめ発見！【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/88890/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/154382.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/88890/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/qjw_j_photo_0630_b.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/88890/",
      "asset": "d2c40e8cf7c683f6",
      "resolution": "998 × 704"
@@ -9323,25 +9323,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜迷你海胆军舰寿司",
    "japanese": "東啓介、ちびっこウニ軍艦【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/89434/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/IMG_6137.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/89434/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/qjw_j_photo_0707.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/89434/",
      "asset": "0bd0c509e3272097",
      "resolution": "998 × 704"
@@ -9359,12 +9359,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#31｜用全身享受音乐：《I Got Rhythm》",
    "japanese": "【＃31】音を全身で楽しむ「I Got Rhythm」（『クレイジー・フォー・ユー』）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/5690/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -9377,7 +9377,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/5690/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -9400,8 +9400,8 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://matisowa.jp/5909/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "维基及主办方补充",
+   "status": "",
+   "origin": "",
    "dateKind": "活动首日",
    "images": [
     {
@@ -9413,7 +9413,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/07/★_ZZZ8329_01.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/5909/",
      "asset": "ad80807c2c471c14",
      "resolution": "2055 × 1368"
@@ -9431,25 +9431,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜用相机自拍",
    "japanese": "東啓介、カメラで自撮り【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/90027/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/158571.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/90027/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/qjw_j_photo_0714.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/90027/",
      "asset": "4b5a1a084a24bc37",
      "resolution": "998 × 704"
@@ -9467,12 +9467,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "生日演唱会《音》现场报道",
    "japanese": "【ライブレポート】東啓介さん、初のバースデーライブ「HIGASHI KEISUKE BIRTHDAY LIVE －音－」を開催",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/5909/",
-   "note": "原始采访／报道；正文请到发布方阅读。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -9485,7 +9485,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/07/★_ZZZ8329_01.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/5909/",
      "asset": "ad80807c2c471c14",
      "resolution": "2055 × 1368"
@@ -9503,25 +9503,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜看得入迷的鹿",
    "japanese": "東啓介、見入ってしまった鹿【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/90537/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/IMG_6756.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/90537/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/qjw_j_photo_0721.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/90537/",
      "asset": "fd931d2b88cf14d8",
      "resolution": "998 × 704"
@@ -9539,25 +9539,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜夏日唤起的童年记忆",
    "japanese": "東啓介、夏になると思い出す幼少期の思い出【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/91049/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/162174.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/91049/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/qjw_j_photo_0728.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/91049/",
      "asset": "e296d7a03695cbc0",
      "resolution": "998 × 704"
@@ -9575,25 +9575,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜从车底探头的小猫",
    "japanese": "東啓介、車の下から猫ちゃん【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/91584/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/image0.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/91584/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0804.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/91584/",
      "asset": "c59a2a73b201e674",
      "resolution": "998 × 704"
@@ -9611,12 +9611,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#32｜特别对谈：从音乐走进《Ragtime》",
    "japanese": "【 SPECIAL（#32）】音楽から迫るミュージカル『ラグタイム』｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/6120/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -9629,7 +9629,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/6120/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -9647,25 +9647,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜在相机店重新发现相机的魅力",
    "japanese": "東啓介、カメラの魅力を再発見するカメラ屋【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/92078/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/166077.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/92078/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0811.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/92078/",
      "asset": "4921f26f06c2b8c2",
      "resolution": "998 × 704"
@@ -9683,25 +9683,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜散步时发现的夏日花朵",
    "japanese": "東啓介、散歩中に見つけた「夏の花」【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/92436/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/168546.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/92436/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0818.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/92436/",
      "asset": "2cb45f99136b4933",
      "resolution": "998 × 704"
@@ -9724,20 +9724,20 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.asahi.co.jp/marumaruchan/cast/",
    "note": "官方8月20日深夜；实际日历8月21日。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "官方标注首播日",
    "images": [
     {
      "url": "https://www.asahi.co.jp/marumaruchan/img/common/og.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.asahi.co.jp/marumaruchan/cast/",
      "asset": "7dbead054605c749",
      "resolution": "1200 × 630"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_danseicast.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -9755,25 +9755,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜与白色皮鞋相伴",
    "japanese": "東啓介、真っ白な革靴と共に【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/93039/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/171373.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/93039/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0825.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/93039/",
      "asset": "325d1f0f1813e498",
      "resolution": "998 × 704"
@@ -9791,25 +9791,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜水缸里的小鱼们",
    "japanese": "東啓介、水鉢のお魚ちゃんたち【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/93672/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/image0-1.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/93672/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/qjw_j_photo_0901.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/93672/",
      "asset": "9b83e5167354c5f6",
      "resolution": "998 × 704"
@@ -9827,25 +9827,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜装满梦想的包",
    "japanese": "東啓介、夢が詰まったバッグ【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/94278/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/image1.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/94278/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/qjw_j_photo_0908.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/94278/",
      "asset": "065709ea22fa8481",
      "resolution": "998 × 704"
@@ -9868,8 +9868,8 @@ window.ARCHIVE = {
    "key": "ragtime",
    "url": "https://matisowa.jp/6120/",
    "note": "9月东京、10月大阪与爱知；官网角色宣传照由主办方提供给本篇连载。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -9881,7 +9881,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0512/re_RAGTIME_sokuho2_0512.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -9937,12 +9937,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#33｜让不甘化作救赎的《Stick It to the Man》",
    "japanese": "【#33】悔しさを救いに変える「支配者に立ち向かえ」（『スクールオブロック』）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/6680/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -9955,7 +9955,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/6680/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -9973,25 +9973,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜在自然中听见的声音",
    "japanese": "東啓介、自然の場所で感じた音【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/94690/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/180115.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/94690/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/qjw_j_photo_0915.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/94690/",
      "asset": "6f6105a3e6a681fd",
      "resolution": "998 × 704"
@@ -10013,21 +10013,21 @@ window.ARCHIVE = {
    "crew": "",
    "key": "joshiko",
    "url": "https://www.mbs.jp/joshikousei-souninaru/",
-   "note": "MBS官方9月17日深夜开播；实际日历9月18日。维基日期差一天属于深夜节目口径。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "MBS官方9月17日深夜开播；实际日历9月18日。",
+   "status": "",
+   "origin": "",
    "dateKind": "官方标注首播日",
    "images": [
     {
      "url": "https://www.mbs.jp/joshikousei-souninaru/images/og-image_0908.jpg",
-     "caption": "电视台作品海报",
+     "caption": "海报",
      "source": "https://www.mbs.jp/joshikousei-souninaru/",
      "asset": "d9b742d70a880f83",
      "resolution": "1200 × 630"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_01.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -10055,14 +10055,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://matisowa.jp/6805/",
-   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "note": "",
    "status": "已刊载",
    "origin": "Matisowa",
    "dateKind": "day",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/09/TC_0474.jpg",
-     "caption": "Matisowa 文章配图",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/6805/",
      "asset": "",
      "resolution": ""
@@ -10077,25 +10077,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜在《RAGTIME》的休息室放松",
    "japanese": "東啓介、『RAGTIME』楽屋でまったり【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/95124/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/183105.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95124/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/qjw_j_photo_0922.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95124/",
      "asset": "43d25f01d450e5cd",
      "resolution": "998 × 704"
@@ -10113,25 +10113,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜平常却只有此刻才能看见的风景",
    "japanese": "東啓介、何気ないけど「今だからこそ見られる風景」【QJWebカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/95555/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/image01.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95555/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/qjw_j_photo_0929.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95555/",
      "asset": "918f97370278b222",
      "resolution": "998 × 704"
@@ -10149,25 +10149,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜从“东”的视角看到的风景",
    "japanese": "東啓介、東から見える景色【QJカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/95878/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/187446.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95878/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/qjw_j_photo_1006.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95878/",
      "asset": "b759ed5af71ef394",
      "resolution": "998 × 704"
@@ -10185,12 +10185,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#34｜明快的救赎之歌《Henry Ford》",
    "japanese": "【#34】明るい救いの歌「Henry Ford」（『ラグタイム』）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/6981/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -10203,7 +10203,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/6981/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -10221,25 +10221,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜初次去美国受到的震撼",
    "japanese": "東啓介、初めてのアメリカで受けた衝撃【QJカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/96663/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/190609.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/96663/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/qjw_j_photo_1013-1.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/96663/",
      "asset": "0403935db1149e73",
      "resolution": "998 × 704"
@@ -10262,13 +10262,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://prtimes.jp/main/html/rd/p/000001234.000003392.html",
    "note": "22:00–22:30，含与井上芳雄的录音室二重唱；公告发表于10月9日。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "节目播出日",
    "images": [
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/3392/1234/3392-1234-e35a15cc62844d562405e60eb4ff71e5-1800x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://prtimes.jp/main/html/rd/p/000001234.000003392.html",
      "asset": "f9be3d375cdc7c68",
      "resolution": "840 × 1260"
@@ -10292,25 +10292,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜公演期间与我一路同行的白色皮鞋",
    "japanese": "東啓介が公演期間中、ともに走った真っ白な革靴【QJカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/97221/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/194061.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/97221/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/qjw_j_photo_1020.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/97221/",
      "asset": "ac070cd530f8a5a4",
      "resolution": "998 × 704"
@@ -10333,8 +10333,8 @@ window.ARCHIVE = {
    "key": "konton",
    "url": "https://www.aoi-pro.com/jp/news/20230904/43097/",
    "note": "作品为短剧集形式，未找到可靠的单一角色名。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -10346,7 +10346,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0904/konton_cast.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -10364,25 +10364,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜探头看一看……",
    "japanese": "東啓介、のぞいてみたら……【QJカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/97939/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/image0-1.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/97939/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/qjw_j_photo_1027-1.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/97939/",
      "asset": "5224630b52859844",
      "resolution": "998 × 704"
@@ -10400,25 +10400,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜搭台前，能感受到努力和汗水的样子",
    "japanese": "東啓介、努力と汗を感じる仕込み前の姿【QJカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/98297/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/IMG_8406.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/98297/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/qjw_j_photo_1103.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/98297/",
      "asset": "088eda0bdda3281f",
      "resolution": "998 × 704"
@@ -10436,12 +10436,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#35｜男性间的对唱带来的兴奋：《Vortigern》",
    "japanese": "【＃35】男性同士の掛け合いに高揚感「ボルティゲルン」（『ウィリアムとウィリアムのウィリアムたち』）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/7210/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -10454,7 +10454,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/7210/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -10472,25 +10472,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜像财富与宝物一样的相遇",
    "japanese": "東啓介、財産であり、宝物のような出会い【QJカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/98636/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/image0.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/98636/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/qjw_j_photo_1110.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/98636/",
      "asset": "f959b102b3eebec7",
      "resolution": "998 × 704"
@@ -10508,7 +10508,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南PERSON》vol.135｜有泽樟太郎×东启介",
    "japanese": "TVガイドPERSON vol.135",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/17694186/",
@@ -10519,7 +10519,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1239/4910294571239_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/17694186/",
      "asset": "",
      "resolution": ""
@@ -10537,25 +10537,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜形形色色的艺术",
    "japanese": "東啓介、いろんな芸術のかたち【QJカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/99133/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/image0-1.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/99133/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/qjw_j_photo_1117.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/99133/",
      "asset": "a3991715a59f6589",
      "resolution": "998 × 704"
@@ -10578,8 +10578,8 @@ window.ARCHIVE = {
    "key": "lab",
    "url": "https://www.tohostage.com/tohomusicallab/",
    "note": "东启介演出单元为《DESK》；不是同场另一单元《わたしを、褒めて》。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -10591,7 +10591,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1005/LAB_kumi.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -10614,25 +10614,25 @@ window.ARCHIVE = {
    "category": "本人摄影／随笔",
    "title": "QJ相机部｜发呆的时间",
    "japanese": "東啓介、ぼーっとする時間【QJカメラ部】",
-   "role": "文／摄影：东启介",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://qjweb.jp/regular/100047/",
-   "note": "本人撰文与摄影的连载；配图可能是风景、物件或动物，并非每张都为本人肖像。",
-   "status": "发布方作者档案、题名与日期已核对",
+   "note": "他自己写、自己拍的连载。",
+   "status": "",
    "origin": "QJWeb本人连载",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/image0-2.jpg",
-     "caption": "东启介本人摄影（QJWeb 内文）",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/100047/",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/qjw_j_photo_1124.jpg",
-     "caption": "东启介本人摄影／发布方原文配图",
+     "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/100047/",
      "asset": "fa53a49096f8f77a",
      "resolution": "998 × 704"
@@ -10655,8 +10655,8 @@ window.ARCHIVE = {
    "key": "tori",
    "url": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
    "note": "全企划11月27–30日；本人B版出演日期需要按分卡表，不直接当作每天出演。现主办方旧URL跳至其他列表，改存原采访。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -10675,7 +10675,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1013/toritoodoru_cast.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -10693,18 +10693,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《POTATO》2024年2月号｜东启介×加藤大悟",
    "japanese": "POTATO 2024年2月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E5%8A%A0%E8%97%A4%E5%A4%A7%E6%82%9F%20POTATO%202024%E5%B9%B42%E6%9C%88%E5%8F%B7",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0241/4910180390241_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -10725,7 +10725,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1730445453446299880",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -10755,12 +10755,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《东启介と聴活♪》#36｜不由自主落泪的《Defying Gravity》",
    "japanese": "【＃36】勝手に涙が出てきた「自由を求めて」（『ウィキッド』）｜東啓介と聴活♪",
-   "role": "本人／音乐剧赏析连载",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/7866/",
-   "note": "这是本人谈音乐的连载，不代表他参演了文中所谈的每一部作品。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
@@ -10773,7 +10773,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/7866/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
@@ -10791,13 +10791,13 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "2023–2024跨年音乐剧音乐会",
    "japanese": "カウントダウン ミュージカルコンサート 2023-2024",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "countdown",
    "url": "https://cdm2023.srptokyo.com/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "活动日",
    "images": [
     {
@@ -10823,7 +10823,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1742742650464428271",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -10858,13 +10858,13 @@ window.ARCHIVE = {
    "key": "oppan",
    "url": "https://www.tokai-tv.com/oppan/article03.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首播日",
    "images": [
     {
      "url": "https://www.tokai-tv.com/oppan/ogp.png",
-     "caption": "电视台作品海报",
+     "caption": "海报",
      "source": "https://www.tokai-tv.com/oppan/article03.html",
      "asset": "557f1259b60bb978",
      "resolution": "1200 × 630"
@@ -10927,7 +10927,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1219/1218RELEASE_OTOKOMAEFES_MV_cr.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/553774",
      "asset": "",
      "resolution": ""
@@ -10942,18 +10942,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "东启介×加藤大悟：《WE ARE MUSIC》对谈",
    "japanese": "東啓介さん「バトンをつなぐ」×加藤大悟さん「爪痕残したい」▷Musical shoW「WE ARE MUSIC」vol.1",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/8189/",
-   "note": "原始采访／报道；正文请到发布方阅读。",
-   "status": "发布方原文与日期已核对",
+   "note": "",
+   "status": "",
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
-     "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/8189/",
      "asset": "4ddbe858ec009526",
      "resolution": "2055 × 1269"
@@ -10982,7 +10982,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0111/higashi_utsukushinihon01.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/556670",
      "asset": "",
      "resolution": ""
@@ -11000,7 +11000,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1752892023512989769",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11035,13 +11035,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://yomi.otemachi-hall.com/event/musical_showwe_are_musicvol1.html",
    "note": "全企划2月23–25日，东启介不是三天全部作为主演出。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1122/WEAREMUSIC_cast.jpg",
-     "caption": "告知视觉／海报（Natalie 报道）",
+     "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -11071,7 +11071,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://matisowa.jp/8189/",
    "note": "14:00嘉宾加藤大悟；18:00嘉宾遥海。后续vol.2所指的前作。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -11084,7 +11084,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/8189/",
      "asset": "4ddbe858ec009526",
      "resolution": "2055 × 1269"
@@ -11102,18 +11102,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《VIOLET》东启介×立石俊树专访",
    "japanese": "新キャストの東啓介と立石俊樹が「VIOLET」への想いを語る",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://lp.p.pia.jp/article/news/338691/index.html?detail=true",
-   "note": "Pia",
+   "note": "Pia。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://lp.p.pia.jp/shared/materials/6f417877-cb83-4ec0-b9eb-3a7b4b8ab930/origin.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://lp.p.pia.jp/article/news/338691/index.html?detail=true",
      "asset": "ffd53202a499f0af",
      "resolution": "1200 × 449"
@@ -11131,7 +11131,7 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "日历写真书 2024.04–2025.03",
    "japanese": "東啓介カレンダーブック 2024.04-2025.03",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://zasshi.tv/products/35361/",
@@ -11163,7 +11163,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1763402093019459858",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11193,18 +11193,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《VIOLET》东启介×立石俊树专访",
    "japanese": "ミュージカル「VIOLET」東啓介＆立石俊樹 インタビュー",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://engekisengen.com/genre/musical/76759/",
-   "note": "Lawson Ticket演剧宣言",
+   "note": "Lawson Ticket演剧宣言。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2024/02/b4df9fc8c3301e8866b2a01a90555aff.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://engekisengen.com/genre/musical/76759/",
      "asset": "f1e6b439e0d959d5",
      "resolution": "1538 × 707"
@@ -11222,11 +11222,11 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "本人专访：东启介与相机",
    "japanese": "俳優・東啓介とカメラ。撮る側と撮られる側を往復しながら、カメラを携えて生きていく",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://neown.tokyo/2024/03/06/higashikeisuke/",
-   "note": "NEOWN",
+   "note": "NEOWN。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
@@ -11262,7 +11262,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0308/yoshionomyuviolet_done_done.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/564165",
      "asset": "",
      "resolution": ""
@@ -11280,7 +11280,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1774633031112044863",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11314,28 +11314,28 @@ window.ARCHIVE = {
    "crew": "导演：藤田俊太郎",
    "key": "violet",
    "url": "https://www.umegei.com/violet/",
-   "note": "东京4月7–21日；大阪4月27–29日；福冈5月4日；宫城5月10–11日。维基只列至大阪，遗漏5月巡演。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "note": "东京4月7–21日；大阪4月27–29日；福冈5月4日；宫城5月10–11日。",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://www.geigeki.jp/wp-content/uploads/2023/11/t358_245.jpg",
-     "caption": "官方作品海报",
+     "caption": "海报",
      "source": "https://www.geigeki.jp/performance/theater358/",
      "asset": "1f6f03273281cf2c",
      "resolution": "245 × 184"
     },
     {
      "url": "https://ogre.natalie.mu/media/play/185/violet_kv.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/185",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo74114.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -11435,7 +11435,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1785504666819637589",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11476,7 +11476,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/702/JBB_art202404.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/702",
      "asset": "",
      "resolution": ""
@@ -11495,14 +11495,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://matisowa.jp/9842/",
-   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "note": "",
    "status": "已刊载",
    "origin": "Matisowa",
    "dateKind": "day",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2024/06/M_キンキーブーツ2025_情報解禁IMG_3208.jpg",
-     "caption": "Matisowa 文章配图",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/9842/",
      "asset": "",
      "resolution": ""
@@ -11520,7 +11520,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1807619359038423360",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11550,12 +11550,12 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "2024生日活动《upstairs》",
    "japanese": "東啓介バースデーイベント2024 upstairs",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.watanabepro.co.jp/liveinfo/18537/",
    "note": "表参道GROUND，19:00开演。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -11568,7 +11568,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://www.watanabepro.co.jp/ogp.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.watanabepro.co.jp/liveinfo/18537/",
      "asset": "3d336b8f10129cc8",
      "resolution": "1200 × 630"
@@ -11589,7 +11589,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1818844102340780541",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11619,18 +11619,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《POTATO》2024年11月号",
    "japanese": "POTATO 2024年11月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=POTATO%202024.11%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1149/4910180391149_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -11651,7 +11651,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1830442374746849722",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11692,7 +11692,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/1942/0516new_iwatanitokiko_memorialkumi.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1942",
      "asset": "",
      "resolution": ""
@@ -11712,20 +11712,20 @@ window.ARCHIVE = {
    "key": "death",
    "url": "https://theatre-orb.com/lineup/24_deathtakesaholiday/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://theatre-orb.com/data/files/2024/20241667/mainvisual.jpg",
-     "caption": "官方作品主视觉",
+     "caption": "主视觉",
      "source": "https://theatre-orb.com/lineup/24_deathtakesaholiday/",
      "asset": "e5b57cea0e28a7d5",
      "resolution": "700 × 481"
     },
     {
      "url": "https://ogre.natalie.mu/media/play/1307/DTH_kotaki.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1307",
      "asset": "",
      "resolution": ""
@@ -11746,7 +11746,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1840953404857958860",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11776,18 +11776,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《Connecting Puzzles vol.2》官方专访",
    "japanese": "東啓介 オフィシャルインタビュー",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://engekisengen.com/genre/dance-performance/98349/",
    "note": "",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2024/10/3b95dea643de25878aa2026f0b5cf955.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://engekisengen.com/genre/dance-performance/98349/",
      "asset": "bc63b02c37a4649b",
      "resolution": "1000 × 667"
@@ -11810,20 +11810,20 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.watanabepro.co.jp/liveinfo/19072/",
    "note": "I’M A SHOW，15:00／19:00。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/2091/connectingpuzzles_higashi.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/2091",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://www.watanabepro.co.jp/ogp.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.watanabepro.co.jp/liveinfo/19072/",
      "asset": "3d336b8f10129cc8",
      "resolution": "1200 × 630"
@@ -11841,18 +11841,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《Connecting Puzzles vol.2》官方现场报道与照片",
    "japanese": "Connecting Puzzles vol.2 レポ＆フォト",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://theatertainment.jp/japanese-play/133100/",
    "note": "",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://theatertainment.jp/wp-content/uploads/2024/10/0T0A9841.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://theatertainment.jp/japanese-play/133100/",
      "asset": "7be9e3302a953358",
      "resolution": "1200 × 800"
@@ -11870,7 +11870,7 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "《Connecting Puzzles vol.2》周边通贩",
    "japanese": "東啓介コンサート『Connecting Puzzles vol.2』グッズ通信販売",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://x.com/we_goods_info/status/1852289535859999163",
@@ -11881,7 +11881,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/8189/",
      "asset": "4ddbe858ec009526",
      "resolution": "2055 × 1269"
@@ -11902,7 +11902,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1852185681298428141",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11932,7 +11932,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《anan》2024年11/27号｜《长靴皇后》四人",
    "japanese": "anan 2024年11/27号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/18060821/",
@@ -11943,7 +11943,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1148/4910204841148_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/18060821/",
      "asset": "",
      "resolution": ""
@@ -11964,7 +11964,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1863569760505786551",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -11999,13 +11999,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
    "note": "原作是BUMP短剧；电视特别版与最早上线日期应分开。深夜节目实际日期顺延。",
-   "status": "官网／主办方已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "官方标注放送日",
    "images": [
     {
      "url": "https://tv-tokyo.imgix.net/txcms/media/release/content/c9/0d/9385f691788a79678d524adb9e64.jpg?auto=format,compress",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
      "asset": "5447a3d44f3782bb",
      "resolution": "3000 × 843"
@@ -12029,25 +12029,25 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "TRUMP 15周年《茧期极夜会》",
    "japanese": "繭期極夜会",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
-     "caption": "演出照（音乐自然报道）",
+     "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/play/1592/mayukigokuyakai_sokuho.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1592",
      "asset": "",
      "resolution": ""
@@ -12065,18 +12065,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Stage fan》vol.43｜《长靴皇后》松下优也、有泽樟太郎、东启介、甲斐翔真",
    "japanese": "Stagefan Vol.43",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=Stagefan%20Vol.43%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4786/9784863884786_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -12094,18 +12094,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Dance SQUARE》vol.65｜《长靴皇后》四人",
    "japanese": "Dance SQUARE vol.65",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=Dance%20SQUARE%20vol.65%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4560/9784838794560_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -12126,7 +12126,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1876103850496782674",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -12156,18 +12156,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《长靴皇后》四人专访",
    "japanese": "キンキーブーツ インタビュー 東啓介、有澤樟太郎、甲斐翔真、松下優也",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.astage-ent.com/stage-musical/i266546.html",
-   "note": "Astage",
+   "note": "Astage。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://astage-ent.com/wp/wp-content/uploads/2024/12/IMG_6652ans2.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.astage-ent.com/stage-musical/i266546.html",
      "asset": "ecf4d145ca991cc8",
      "resolution": "600 × 400"
@@ -12185,18 +12185,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《长靴皇后》东启介单人专访",
    "japanese": "人との関わりの中で成長する“青き”チャーリーに自身を重ねて",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.musicaltheaterjapan.com/entry/2501-3",
-   "note": "Musical Theater Japan",
+   "note": "Musical Theater Japan。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://cdn.image.st-hatena.com/image/scale/508e95e26584d0b4d70413604096febc62102c40/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FM%2FMTJapan%2F20250110%2F20250110171457.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.musicaltheaterjapan.com/entry/2501-3",
      "asset": "6b7044b44863673f",
      "resolution": "1300 × 731"
@@ -12219,8 +12219,8 @@ window.ARCHIVE = {
    "key": "mondai",
    "url": "https://www.fujitv.co.jp/mondaibukken/story/story02.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "本人出演集播出日",
    "images": [
     {
@@ -12254,7 +12254,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/2666/WMSTC.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/2666",
      "asset": "",
      "resolution": ""
@@ -12269,18 +12269,18 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《长靴皇后》四人专访（前篇）",
    "japanese": "期待の遥か上をいけるように",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://theatergirl.jp/?p=59201",
-   "note": "THEATER GIRL",
+   "note": "THEATER GIRL。",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
      "url": "https://theatergirl.jp/wp-content/uploads/2025/01/1119_キンキーブーツ-0030.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://theatergirl.jp/?p=59201",
      "asset": "49e4889f00c208ce",
      "resolution": "1200 × 800"
@@ -12298,7 +12298,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《Sparkle》vol.59｜东启介×有泽樟太郎",
    "japanese": "Sparkle vol.59",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://sparkle-stage.com/magazine/4245/",
@@ -12309,7 +12309,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://sparkle-stage.com/wp-content/uploads/2025/01/S59_H1-4-scaled.jpg",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://sparkle-stage.com/magazine/4245/",
      "asset": "ac2f7602e688b5af",
      "resolution": "2560 × 1791"
@@ -12330,7 +12330,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1886254744555167976",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -12353,7 +12353,7 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "2025.04–2026.03日历写真书",
    "japanese": "東啓介2025.04-2026.03カレンダーブック",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://zasshi.tv/products/49756/",
@@ -12382,7 +12382,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《音乐剧之星》vol.4",
    "japanese": "TVガイドPERSON別冊 ミュージカルスターズ vol.4",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://prtimes.jp/main/html/rd/p/000003017.000006568.html",
@@ -12393,7 +12393,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6568/3017/6568-3017-6d782b9ce7050246f40d58da1ab9ad16-1000x1264.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://prtimes.jp/main/html/rd/p/000003017.000006568.html",
      "asset": "f23a76cb80f594df",
      "resolution": "997 × 1260"
@@ -12414,7 +12414,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1896395159325245461",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -12437,12 +12437,12 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "Voice Friend《视えない案内人》周边再贩",
    "japanese": "ボイスフレンド『視えない案内人』グッズ再販",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://x.com/we_goods_info/status/1899656601776390511",
    "note": "2024年公演周边再贩（东启介、金之国 桃泽健辅）；同年4月起再演，6/10追加亚克力卡。",
-   "status": "WE Goods Info 官方推文确认；公演日程待核",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
    "images": [],
@@ -12462,14 +12462,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://soundimagine.hatenablog.com/entry/2025/03/16/000000",
-   "note": "21:00–21:50；目前保留节目记录，NHK历史页无法读取，待广播台原档复核。",
-   "status": "听众节目记录；待NHK原档复核",
+   "note": "21:00–21:50。",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "节目播出日",
    "images": [
     {
      "url": "https://ogimage.blog.st-hatena.com/6802418398513148452/6802418398529815452/1754977546",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://soundimagine.hatenablog.com/entry/2025/03/16/000000",
      "asset": "789f9f3bf62de45c",
      "resolution": "1200 × 630"
@@ -12492,7 +12492,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://cocolo.jp/site/guest_calendar/2025/03",
    "note": "FM COCOLO官方嘉宾日历，14时台。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "节目播出日",
    "images": [],
@@ -12511,7 +12511,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1906934385167011958",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -12545,7 +12545,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0416/musicfair_KB.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/620249",
      "asset": "",
      "resolution": ""
@@ -12574,13 +12574,13 @@ window.ARCHIVE = {
    "key": "kinky",
    "url": "https://www.fujitv.co.jp/events/stage/kinkyboots/index.html",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/1299/kinky_mv.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1299",
      "asset": "",
      "resolution": ""
@@ -12594,7 +12594,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo78246.jpg",
-     "caption": "公演场刊封面（骏河屋商品图）",
+     "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
@@ -12710,7 +12710,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1917777830601187352",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -12744,7 +12744,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0423/50450mu.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/621172",
      "asset": "",
      "resolution": ""
@@ -12762,7 +12762,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1929374420247740687",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -12796,7 +12796,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/3241/watanabe_25th.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3241",
      "asset": "",
      "resolution": ""
@@ -12816,8 +12816,8 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.tokai-tv.com/oppan/",
    "note": "",
-   "status": "本人出演见维基及片方；日期待SP官网档案复核",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "播出日",
    "images": [
     {
@@ -12829,7 +12829,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://www.tokai-tv.com/oppan/ogp.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.tokai-tv.com/oppan/",
      "asset": "557f1259b60bb978",
      "resolution": "1200 × 630"
@@ -12855,7 +12855,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1939883143169024115",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -12883,13 +12883,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.asmik-ace.co.jp/works/lineup/18266/",
    "note": "",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "上映日",
    "images": [
     {
      "url": "https://www.asmik-ace.co.jp/wp-content/uploads/2023/08/OGP_AsmicAce.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.asmik-ace.co.jp/works/lineup/18266/",
      "asset": "41fabd23fcfce840",
      "resolution": "1200 × 630"
@@ -12932,12 +12932,12 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "30岁生日音乐会《afterglow》",
    "japanese": "東啓介Birthday Concert - afterglow -",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/",
    "note": "30岁当天的一日限定生日音乐会。2025年7月11日（周五）于东京丸之内 COTTON CLUB 举行两场：1st 15:00开场/16:00开演，2nd 18:00开场/19:00开演。",
-   "status": "主办方／原发布方已核对",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -12950,14 +12950,14 @@ window.ARCHIVE = {
     },
     {
      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/images/special_HigashiKeisuke.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/",
      "asset": "f141a6a0cde187e0",
      "resolution": "1600 × 2426"
     },
     {
      "url": "https://ogre.natalie.mu/media/play/3941/higashikeisuke_mv.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3941",
      "asset": "",
      "resolution": ""
@@ -12985,14 +12985,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/3523/MY_flyer_c01-04_0326_120_c01.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3523",
      "asset": "",
      "resolution": ""
@@ -13020,7 +13020,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1951115772069290390",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13048,8 +13048,8 @@ window.ARCHIVE = {
    "key": "jersey",
    "url": "https://www.tohostage.com/jersey/",
    "note": "作品至9月30日，东启介本人的最终出演日须按分卡表；粉丝整理记9月29日。",
-   "status": "官网／主办方已核对",
-   "origin": "原履历",
+   "status": "",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -13061,7 +13061,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/play/2910/jb25_h1h4_0402.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/2910",
      "asset": "",
      "resolution": ""
@@ -13088,14 +13088,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://matisowa.jp/15126/",
-   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "note": "",
    "status": "已刊载",
    "origin": "Matisowa",
    "dateKind": "day",
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2025/08/JB_0002.jpg",
-     "caption": "Matisowa 文章配图",
+     "caption": "文章配图",
      "source": "https://matisowa.jp/15126/",
      "asset": "",
      "resolution": ""
@@ -13113,7 +13113,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1962472508835455371",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13140,14 +13140,14 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://audiodrama-note.com/blog-entry-11836.html",
-   "note": "全5回；个人记录与维基相符，但NHK原页面读取受限，暂不标为官网核验完成。",
-   "status": "维基＋广播剧记录；待NHK原档复核",
+   "note": "全5回。",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "广播剧首播日",
    "images": [
     {
      "url": "https://audiodrama-note.com/wp-content/uploads/2023/05/omnibus_competition.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://audiodrama-note.com/blog-entry-11836.html",
      "asset": "322c0ba9a16d366e",
      "resolution": "1200 × 630"
@@ -13176,7 +13176,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0922/0930_web.jpg",
-     "caption": "Natalie 报道图",
+     "caption": "报道图",
      "source": "https://natalie.mu/stage/news/641328",
      "asset": "",
      "resolution": ""
@@ -13194,7 +13194,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1973224824534405621",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13228,7 +13228,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/3962/aripa_KV_0602.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3962",
      "asset": "",
      "resolution": ""
@@ -13271,7 +13271,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1985542523205333199",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13294,25 +13294,25 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "《Musical Lovers 2025》",
    "japanese": "Musical Lovers2025",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://masaaki-fujioka.com/contents/965414",
    "note": "11月8–9日；出演方官网公布东启介参演。",
-   "status": "出演方官网已核对",
-   "origin": "维基补充",
+   "status": "",
+   "origin": "",
    "dateKind": "活动首日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/4285/ML2025.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/4285",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://masaaki-fujioka.com/assets/fujiokamasaaki/ogp.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://masaaki-fujioka.com/contents/965414",
      "asset": "fcbbaad8ee9613da",
      "resolution": "1200 × 630"
@@ -13335,25 +13335,25 @@ window.ARCHIVE = {
    "category": "朗读剧",
    "title": "体感型朗读剧《神乐坂怪奇谭 二〇二五：栖》",
    "japanese": "神楽坂怪奇譚二〇二五「棲」",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://kaidankagura.wixsite.com/sumu2025",
    "note": "",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
-   "origin": "维基及粉丝索引补充",
+   "status": "",
+   "origin": "",
    "dateKind": "本人出演日",
    "images": [
     {
      "url": "https://static.wixstatic.com/media/a0e5ad_5aa720f100e64b758bb65e1ff679c1d7~mv2.jpg/v1/fill/w_605,h_856,al_c,q_85/visual.jpg",
-     "caption": "官方公演主视觉",
+     "caption": "主视觉",
      "source": "https://kaidankagura.wixsite.com/sumu2025",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/play/4597/kagurazakakaikitan.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/4597",
      "asset": "",
      "resolution": ""
@@ -13374,7 +13374,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/1995403616744882570",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13397,18 +13397,18 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "2025–2026跨年音乐剧音乐会",
    "japanese": "カウントダウン ミュージカルコンサート2025-2026",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/play/3993/CDMC25-26_A4_0910_2.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3993",
      "asset": "",
      "resolution": ""
@@ -13441,7 +13441,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/2008012474168263077",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13469,13 +13469,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://bs.tbs.co.jp/utsukushii/archives/arch260204.html",
    "note": "21:00，BS-TBS；公开节目页。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "节目播出日",
    "images": [
     {
      "url": "https://bs.tbs.co.jp/utsukushii/img/common/ogp.png",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://bs.tbs.co.jp/utsukushii/archives/arch260204.html",
      "asset": "7e0afb85b71c632a",
      "resolution": "1200 × 630"
@@ -13508,7 +13508,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/2039283467339669914",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13535,8 +13535,8 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/blog/bl/pN1pnOaa3q/bp/pY4z7bn1ro/",
-   "note": "全5回；NHK官网入口已定位，但页面读取受限；日期与角色由维基及粉丝索引交叉发现。",
-   "status": "官网链接已定位；原页内容待复核",
+   "note": "全5回。",
+   "status": "",
    "origin": "补充检索",
    "dateKind": "广播剧首播日",
    "images": [
@@ -13563,7 +13563,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/2050050643692491082",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13589,7 +13589,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/2061281676546977884",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13615,7 +13615,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/2072153285755306087",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13638,12 +13638,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "《SWAN》官方演员访谈视频｜东启介（草壁飞翔）",
    "japanese": "『SWAN -Ballet cross Reading-』東啓介インタビュー",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.youtube.com/watch?v=0hsF8IqwY1o",
    "note": "官方YouTube与Instagram同步公开。",
-   "status": "官方发布已核对",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
    "images": [
@@ -13670,7 +13670,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/2084112199665254696",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -13698,13 +13698,13 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://bluelock-movie.jp/",
    "note": "",
-   "status": "官网／主办方已核对",
+   "status": "",
    "origin": "现官网补充",
    "dateKind": "上映日",
    "images": [
     {
      "url": "https://bluelock-movie.jp/assets/img/ogp_image3.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://bluelock-movie.jp/",
      "asset": "37a94da506481fff",
      "resolution": "1200 × 630"
@@ -13751,7 +13751,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《PASH!》2026年9月号｜《蓝色监狱》专访",
    "japanese": "PASH! 2026年09月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://pash-up.jp/content/60000139",
@@ -13762,7 +13762,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://cdn.pash-up.jp/thum/60000/60000139/60000139-p.jpg",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://pash-up.jp/content/60000139",
      "asset": "3fdf94b07bfdfa6c",
      "resolution": "200 × 253"
@@ -13785,7 +13785,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.tohostage.com/kingdom2/",
    "note": "东京8月9日–9月13日；大阪9月21–29日；福冈10月6–13日。",
-   "status": "官网／主办方已核对",
+   "status": "",
    "origin": "现官网补充",
    "dateKind": "作品首演日",
    "images": [
@@ -13805,7 +13805,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/play/5740/kingdom_miura_teaser.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/5740",
      "asset": "",
      "resolution": ""
@@ -13900,12 +13900,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "演剧媒体Audience｜东启介×西野辽《SWAN》对谈",
    "japanese": "東啓介×西野遼、舞台『SWAN―Ballet cross Reading―』インタビュー！",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://engeki-audience.com/article/detail/23194/",
    "note": "以“跨越芭蕾与戏剧之间的界线”为目标。",
-   "status": "发布方原文已核对",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
    "images": [
@@ -13929,18 +13929,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV LIFE》2026年9/18号｜《麦斯》秋谷郁甫、安宅波飒、堀川梨心、东启介",
    "japanese": "TV LIFE 9/18号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=TV%20LIFE%209/18%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B%20%E3%83%9E%E3%82%A4%E3%82%B9",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0965/4912240130965_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -13958,7 +13958,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《月刊ザテレビジョン》2026年11月号｜《麦斯》四人对谈",
    "japanese": "月刊ザテレビジョン 2026年11月号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://x.com/thetvjp/status/2104103746779426903",
@@ -13979,7 +13979,7 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "Talent Databank｜《麦斯》四位主演专访",
    "japanese": "秋谷郁甫×安宅波颯×堀川梨心×東啓介 インタビュー",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.talent-databank.co.jp/special/interview/56797/",
@@ -14011,7 +14011,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://x.com/we_goods_info/status/2094643934349988036",
-   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "note": "",
    "status": "已结束",
    "origin": "WE Goods Info",
    "dateKind": "month",
@@ -14034,7 +14034,7 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "Animate Times｜华武利与Maou的“顽皮魅力”",
    "japanese": "仮面ライダーマイス 嶺髙華武利役・東啓介インタビュー",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.animatetimes.com/news/details.php?id=1788235894",
@@ -14075,7 +14075,7 @@ window.ARCHIVE = {
    "url": "https://swan-balletcrossreading.com/",
    "note": "新国立剧场 中剧场。原作有吉京子《SWAN—白鸟—》，演员朗读×芭蕾舞者共演。",
    "status": "官网确认",
-   "origin": "维基补充",
+   "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
@@ -14087,7 +14087,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/play/5485/SWAN_main.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/5485",
      "asset": "",
      "resolution": ""
@@ -14122,12 +14122,12 @@ window.ARCHIVE = {
    "category": "采访／连载",
    "title": "STREAM｜东启介专访「人生只有一次，笔直奔跑的样子很帅」",
    "japanese": "東啓介「一回きりの人生なので、失敗しようが何しようが、真っ直ぐ走っている姿はかっこいい」",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://strmweb.jp/archives/22701/",
    "note": "《SWAN》相关专访。",
-   "status": "发布方原文已核对",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
    "images": [
@@ -14261,7 +14261,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.toei-tokusatsu-fc.jp/",
    "note": "东映特摄FANCLUB配信的衍生短剧；第7话《スパダリ検定～嶺髙華武利編～》以华武利为主角。",
-   "status": "维基＋东映特撮官方预告确认",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "配信开始日",
    "images": [
@@ -14354,7 +14354,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《宇宙船》vol.194｜《假面骑士麦斯》专访",
    "japanese": "宇宙船 vol.194",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.uchusen-mag.jp/post/宇宙船vol-194-好評発売中！",
@@ -14365,7 +14365,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://static.wixstatic.com/media/390655_1686310b3b45431e83908543084ddc8c~mv2.jpg",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://www.uchusen-mag.jp/post/宇宙船vol-194-好評発売中！",
      "asset": "b635f6f9f60bf321",
      "resolution": "1490 × 2106"
@@ -14394,18 +14394,18 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "最新写真集发表消息",
    "japanese": "東啓介最新写真集（仮）発売決定",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
    "note": "宣布2027年1月8日发售；本项属于2026年的发表消息。",
-   "status": "官网／主办方已核对",
+   "status": "",
    "origin": "发行方公告补充",
    "dateKind": "消息发布日期",
    "images": [
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6568/3537/6568-3537-1eddf834bf77b7f27dc01c1fd0d3bd19-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
      "asset": "b4ccb520b19a2bb1",
      "resolution": "1890 × 1260"
@@ -14428,7 +14428,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://www.nicovideo.jp/watch/so46942722",
    "note": "嘉宾：和田琢磨、东启介。niconico频道节目，10/23上线存档（前10分钟免费）。",
-   "status": "发布方原页已核对",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "播出日",
    "images": [
@@ -14501,7 +14501,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://televi-kun.net/wp/wp-content/uploads/2026/11/20261109115929.png",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://televi-kun.net/wp/book_archive/1152/",
      "asset": "435fdfeb0b4d7e40",
      "resolution": "582 × 707"
@@ -14548,18 +14548,18 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV LIFE》2026年11/20号｜东启介×国上将大 连载",
    "japanese": "TV LIFE 11/20号",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E5%9B%BD%E4%B8%8A%E5%B0%86%E5%A4%A7%20TV%20LIFE%2011/20%E5%8F%B7",
-   "note": "根据煤炉二手出品信息整理；期号、页数与具体内容待核。链接为煤炉搜索结果。",
-   "status": "煤炉出品线索；待核",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1160/4912240131160_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
@@ -14701,7 +14701,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://stage-toukenranbu.jp/stage/",
    "note": "11月10日预演；东京11月11–29日；大阪12月6–23日；东京凯旋12月29–31日。后续场次尚未发生。 东京凯旋公演12月29–31日有“岁末感谢·开运巡游”企画（刀剑男士演员巡游各层客席，并发放开运团扇）。",
-   "status": "官网／主办方已核对",
+   "status": "",
    "origin": "现官网补充",
    "dateKind": "作品首演日",
    "images": [
@@ -14714,14 +14714,14 @@ window.ARCHIVE = {
     },
     {
      "url": "https://www.stage-toukenranbu.jp/wp-content/themes/touken_2021/assets/og/hiden4_ogp.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://stage-toukenranbu.jp/stage/",
      "asset": "9786558cbccb766f",
      "resolution": "1200 × 630"
     },
     {
      "url": "https://ogre.natalie.mu/media/play/5950/toustayou_KV_0716-2.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/5950",
      "asset": "",
      "resolution": ""
@@ -14745,7 +14745,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《PASH!》2026年12月号｜秋谷郁甫×东启介",
    "japanese": "PASH! 2026年12月号「仮面ライダーマイス 十二支画報」",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.pashplus.jp/blog/500710/",
@@ -14756,7 +14756,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://www.pashplus.jp/wp-content/uploads/98cd612673d8e3650f94eccd04421809.jpg",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://www.pashplus.jp/blog/500710/",
      "asset": "5576fd0de46fde45",
      "resolution": "719 × 900"
@@ -14784,7 +14784,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1263/4912015771263_1_2.jpg?downsize=600:*",
-     "caption": "乐天图书公开封面",
+     "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/18881389/",
      "asset": "",
      "resolution": ""
@@ -14832,8 +14832,8 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.youtube.com/watch?v=9VPedwZW6vg",
-   "note": "第5弹起假面骑士Maou参战，本人担任语音（维基记载）。",
-   "status": "维基＋万代官方宣传确认",
+   "note": "",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "稼动日",
    "images": [
@@ -14893,7 +14893,7 @@ window.ARCHIVE = {
    "category": "电视节目",
    "title": "《繭期極夜会》DAY1 卫星剧场放送",
    "japanese": "TRUMP series 15th Anniversary FINAL「繭期極夜会」DAY1",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.eisei-gekijo.co.jp/",
@@ -14904,7 +14904,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
-     "caption": "演出照（音乐自然报道）",
+     "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
      "asset": "",
      "resolution": ""
@@ -14951,7 +14951,7 @@ window.ARCHIVE = {
    "category": "杂志",
    "title": "《TV指南Stage Stars》vol.34｜写真集未使用照片",
    "japanese": "TVガイドStage Stars vol.34",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://zasshi.tv/products/62998/",
@@ -14962,7 +14962,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2026/11/stagestars_vol34_cover_00_1.jpg",
-     "caption": "发行方公开封面",
+     "caption": "封面",
      "source": "https://zasshi.tv/products/62998/",
      "asset": "9a6bda52c3306f52",
      "resolution": "500 × 500"
@@ -15041,7 +15041,7 @@ window.ARCHIVE = {
    "category": "电视节目",
    "title": "《繭期極夜会》DAY2 卫星剧场放送",
    "japanese": "TRUMP series 15th Anniversary FINAL「繭期極夜会」DAY2",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.eisei-gekijo.co.jp/",
@@ -15052,7 +15052,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
-     "caption": "演出照（音乐自然报道）",
+     "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
      "asset": "",
      "resolution": ""
@@ -15099,12 +15099,12 @@ window.ARCHIVE = {
    "category": "写真／出版",
    "title": "最新写真集（暂定名）预定发售",
    "japanese": "東啓介最新写真集（仮）",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
    "note": "未来安排，未当作已完成活动。",
-   "status": "官网／主办方已核对",
+   "status": "",
    "origin": "发行方公告补充",
    "dateKind": "预定发售日",
    "images": [
@@ -15117,7 +15117,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6568/3537/6568-3537-1eddf834bf77b7f27dc01c1fd0d3bd19-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "文章配图",
      "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
      "asset": "b4ccb520b19a2bb1",
      "resolution": "1890 × 1260"
@@ -15135,7 +15135,7 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "最新写真集发售纪念活动｜涩谷SHIBUYA TSUTAYA",
    "japanese": "東啓介最新写真集（仮） 発売記念イベント",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://zasshi.tv/products/62295/",
@@ -15164,7 +15164,7 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "最新写真集发售纪念活动｜池袋HMVエソラ",
    "japanese": "東啓介最新写真集（仮） 発売記念イベント",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://zasshi.tv/products/62295/",
@@ -15222,7 +15222,7 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "最新写真集发售纪念活动｜新宿Book First",
    "japanese": "東啓介最新写真集（仮） 発売記念イベント",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://zasshi.tv/products/62295/",
@@ -15367,7 +15367,7 @@ window.ARCHIVE = {
    "category": "音乐会",
    "title": "《Nostalgic Cabaret》嘉宾出演",
    "japanese": "Nostalgic Cabaret（ノスタルジック キャバレー）",
-   "role": "本人",
+   "role": "",
    "crew": "",
    "key": "",
    "url": "https://www.tohostage.com/nostalgic_cabaret/",
@@ -15385,7 +15385,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/play/7172/NostalgicCabaret_visual.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/7172",
      "asset": "",
      "resolution": ""
@@ -15408,7 +15408,7 @@ window.ARCHIVE = {
    "key": "",
    "url": "https://stage-toukenranbu.jp/stage/",
    "note": "2026.11.10官网宣布；TOHO animation STORE限定特典附发售纪念活动抽选应募券。",
-   "status": "官网／主办方已核对",
+   "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
