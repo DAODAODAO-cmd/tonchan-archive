@@ -8168,12 +8168,19 @@ window.ARCHIVE = {
    "role": "久贺苍太",
    "crew": "",
    "key": "",
-   "url": "https://www.maimupro.co.jp/news/17002/?set=osaka&tab=",
-   "note": "NHK-FM全10集。",
+   "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/L39WPM67ZV/",
+   "note": "NHK-FM「青春アドベンチャー」，全10回，第1回2022年1月17日播出。原作浅仓秋成，出演：奥野壮、土村芳、东启介等。",
    "status": "",
    "origin": "补充检索",
-   "dateKind": "广播剧首播日",
+   "dateKind": "day",
    "images": [
+    {
+     "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/L39WPM67ZV/L39WPM67ZV-eyecatch_2bb48407b6dccd95b23e94c34986dc80.jpg",
+     "caption": "节目主视觉",
+     "source": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/L39WPM67ZV/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://img.nhk.jp/static/assets/images/radioseries/rs/X4X6N1XG8Z/X4X6N1XG8Z-eyecatch_a5bdc94187e0b501b2cfa223cbf28e4a.png",
      "caption": "NHK 青春冒险 节目图",
@@ -8183,7 +8190,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "音声",
    "playlistLinks": []
   },
