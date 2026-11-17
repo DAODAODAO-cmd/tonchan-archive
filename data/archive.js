@@ -751,35 +751,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_rm_14011777",
-   "date": "2016",
-   "end": "",
-   "category": "杂志",
-   "title": "《TV指南Stage Stars》vol.1",
-   "japanese": "TVガイド Stage Stars vol.1",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.1%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/7272/9784863367272.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "e9",
    "date": "2016-01-04",
    "end": "2016-01-17",
@@ -1278,6 +1249,33 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "pr_entamix1610",
+   "date": "2016-08-20",
+   "end": "",
+   "category": "杂志",
+   "title": "《エンタミクス》2016年10月号｜专访",
+   "japanese": "エンタミクス 2016年10月号",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000002599.000007006.html",
+   "note": "“2016年意外爆红”特辑里有他的单独专访。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/2599/resize/d7006-2599-796770-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000002599.000007006.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "magazine"
+  },
+  {
    "id": "mag_rk14379824",
    "date": "2016-08-23",
    "end": "",
@@ -1305,6 +1303,33 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "pr_starcre2",
+   "date": "2016-09-23",
+   "end": "",
+   "category": "杂志",
+   "title": "《Star Creators! PLUS stamp!》act_02｜宫崎秋人×东启介",
+   "japanese": "Star Creators! PLUS stamp! act_02",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000002689.000007006.html",
+   "note": "刀ミュ幕末天狼傳组合，附B2双面大海报。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/2689/resize/d7006-2689-200981-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000002689.000007006.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "magazine"
   },
   {
    "id": "e14",
@@ -2162,6 +2187,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "pr_butaidanshidoc",
+   "date": "2017-04-07",
+   "end": "",
+   "category": "写真／出版",
+   "title": "《舞台男子 the document》｜东启介的素直",
+   "japanese": "舞台男子 the document",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000003171.000007006.html",
+   "note": "おーちようこ采访的单行本，他那一章叫「東啓介の素直」。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/3171/resize/d7006-3171-888438-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000003171.000007006.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "e17",
    "date": "2017-04-14",
    "end": "2017-04-30",
@@ -2283,6 +2334,33 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "pr_otomedia1706",
+   "date": "2017-05-10",
+   "end": "",
+   "category": "杂志",
+   "title": "《オトメディア》2017年6月号｜猪野广树×东启介",
+   "japanese": "オトメディア 2017年6月号",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000001102.000002535.html",
+   "note": "刀ステ义传宣传，大俱利伽罗×烛台切。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/2535/1102/resize/d2535-1102-767873-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000001102.000002535.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "magazine"
   },
   {
    "id": "mag_rm_56038122",
@@ -2521,21 +2599,55 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "pr_starcre5",
+   "date": "2017-07-28",
+   "end": "",
+   "category": "杂志",
+   "title": "《Star Creators! PLUS stamp!》act_05｜染谷俊之×东启介 双封面",
+   "japanese": "Star Creators! PLUS stamp! act_05",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000003498.000007006.html",
+   "note": "和染谷俊之一起上了W封面之一，附B2双面海报。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/3498/resize/d7006-3498-963629-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000003498.000007006.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "magazine"
+  },
+  {
    "id": "e19",
    "date": "2017-07-29",
    "end": "2017-08-20",
    "category": "舞台",
-   "title": "《Grand Guignol》",
+   "title": "残酷剧《グランギニョル》",
    "japanese": "グランギニョル",
    "role": "李春林",
    "crew": "编剧／导演：末满健一",
    "key": "guignol",
-   "url": "https://www.grandguignol.westage.jp/",
-   "note": "中文可说明为“大吉尼奥尔”；保留原题，避免误当官方中文名。",
+   "url": "https://grandguignol-170401.themedia.jp/",
+   "note": "ピースピット2017年本公演，TRUMP系列，末满健一作・演出。B站有中字录像。",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
    "images": [
+    {
+     "url": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/274887/d841d9e5d769e15552f403e13dfc1758_6d5d8f957f8faa94f45c1c1b7201fedb.jpg",
+     "caption": "公演主视觉",
+     "source": "https://grandguignol-170401.themedia.jp/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://www.grandguignol.westage.jp/img/grandguignol_170324.jpg",
      "caption": "主视觉",
@@ -2580,6 +2692,10 @@ window.ARCHIVE = {
     }
    ],
    "videos": [
+    {
+     "title": "《グランギニョル》中文字幕舞台录像（B站）",
+     "url": "https://www.bilibili.com/video/BV1AU4y1i7tS/"
+    },
     {
      "title": "染谷俊之、三浦涼介らが紡ぐ美しき残酷劇『グランギニョル』公開ゲネプロ | エンタステージ",
      "url": "https://www.youtube.com/watch?v=l2fdHeJA1eE"
@@ -3009,6 +3125,33 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "pr_soda1801",
+   "date": "2017-11-22",
+   "end": "",
+   "category": "杂志",
+   "title": "《SODA》2018年1月号｜NEW FACE",
+   "japanese": "SODA 2018年1月号",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000000688.000011710.html",
+   "note": "「NEW FACE」栏目专访。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/11710/688/resize/d11710-688-910038-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000000688.000011710.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "magazine"
+  },
+  {
    "id": "e79",
    "date": "2017-11-25",
    "end": "",
@@ -3347,6 +3490,35 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_rm_14011777",
+   "date": "2018-02-21",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV指南Stage Stars》vol.1｜10页个人写真",
+   "japanese": "TVガイド Stage Stars vol.1",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000000374.000006568.html",
+   "note": "创刊号，他有10页个人写真。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/7272/9784863367272.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "bro_201803",
@@ -3780,7 +3952,7 @@ window.ARCHIVE = {
    "date": "2018-07-02",
    "end": "",
    "category": "采访／连载",
-   "title": "Natalie特集｜末满健一×东启介：与TRUMP同行的10年、《大木偶剧》幕后",
+   "title": "Natalie特集｜末满健一×东启介：与TRUMP同行的10年、《グランギニョル》",
    "japanese": "日テレプラス「グランギニョル」末満健一×東啓介 TRUMPと歩んだ10年間",
    "role": "",
    "crew": "",
@@ -6005,25 +6177,31 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_mc_37913419",
-   "date": "2021",
+   "id": "pr_tvzmonthly2102",
+   "date": "2020-12-16",
    "end": "",
    "category": "杂志",
-   "title": "《周刊ザテレビジョン》2021年（连载等）",
-   "japanese": "週刊ザテレビジョン 2021",
+   "title": "《月刊ザテレビジョン》新春特大号（2021年2月号）｜写真",
+   "japanese": "月刊ザテレビジョン 2021年2月号",
    "role": "",
    "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E9%80%B1%E5%88%8A%E3%82%B6%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%202021",
-   "note": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000007896.000007006.html",
+   "note": "电子版还多加了他的写真页。",
    "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [],
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/7896/resize/d7006-7896-629999-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000007896.000007006.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
+   "kind": "magazine"
   },
   {
    "id": "mag_rm_42632246",
@@ -6123,6 +6301,35 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_mc_37913419",
+   "date": "2021-01-13",
+   "end": "",
+   "category": "杂志",
+   "title": "《周刊ザテレビジョン》新连载「Days of gratitude!」开始",
+   "japanese": "週刊ザテレビジョン 1/22号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html",
+   "note": "从这期开始的个人连载「Days of gratitude!」。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/7988/resize/d7006-7988-262330-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
    "playlistLinks": []
   },
   {
@@ -6825,6 +7032,32 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "pr_katokazuki_pb",
+   "date": "2021-06-21",
+   "end": "",
+   "category": "写真／出版",
+   "title": "加藤和树写真书｜寄语",
+   "japanese": "加藤和樹 フォトブック",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000001400.000006568.html",
+   "note": "加藤和树15周年写真书，他是写寄语的嘉宾之一。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/6568/1400/resize/d6568-1400-120502-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000001400.000006568.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "mag_ya_sunday",
    "date": "2021-06-22",
    "end": "",
@@ -7148,33 +7381,30 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_rm_24909671",
-   "date": "2022",
+   "id": "pr_onitaiji21",
+   "date": "2021-12-31",
    "end": "",
-   "category": "杂志",
-   "title": "《TV指南Stage Stars》vol.19",
-   "japanese": "TVガイドStage Stars vol.19",
+   "category": "电视节目",
+   "title": "TBS《THE鬼タイジ～大晦日决战in鬼ヶ岛～》",
+   "japanese": "ＴＨＥ鬼タイジ～大晦日決戦ｉｎ鬼ヶ島～",
    "role": "",
    "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89Stage%20Stars%20vol.19%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000000056.000060459.html",
+   "note": "大年夜的体能综艺，19:40–23:45。",
    "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
+   "origin": "PR TIMES",
+   "dateKind": "day",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/4837/9784867014837_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "url": "https://prcdn.freetls.fastly.net/release_image/60459/56/60459-56-7de5a1004b14d0ee9500acb264249071-1706x960.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000000056.000060459.html",
      "asset": "",
      "resolution": ""
     }
    ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
+   "videos": []
   },
   {
    "id": "mag_rm_77611397",
@@ -7868,6 +8098,35 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_rm_24909671",
+   "date": "2022-09-09",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV指南Stage Stars》vol.19｜东启介×有泽樟太郎",
+   "japanese": "TVガイドStage Stars vol.19",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000001864.000006568.html",
+   "note": "《泽西男孩》两人对谈。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4837/9784867014837_1_2.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "m448",
    "date": "2022-09-10",
    "end": "",
@@ -8292,35 +8551,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "e99",
-   "date": "2023-03-07",
-   "end": "",
-   "category": "采访／连载",
-   "title": "StageNews｜《婚礼续摊上的人们》东启介专访",
-   "japanese": "【インタビュー】舞台『二次会のひとたち』中内啓介役：東 啓介さん",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://stagenews25.jp/?p=85470",
-   "note": "StageNews 专访：舞台《二次会のひとたち》中内启介役。",
-   "status": "已刊载",
-   "origin": "公开检索补充",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://stagenews25.jp/wp-content/uploads/2023/03/DSC02801-Edit_rez.jpg",
-     "caption": "StageNews 专访内文照",
-     "source": "https://stagenews25.jp/?p=85470",
-     "asset": "",
-     "resolution": "853 × 1280"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "文章",
-   "playlistLinks": []
-  },
-  {
    "id": "e100",
    "date": "2023",
    "end": "",
@@ -8684,6 +8914,35 @@ window.ARCHIVE = {
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "e99",
+   "date": "2023-03-07",
+   "end": "",
+   "category": "采访／连载",
+   "title": "StageNews｜《婚礼续摊上的人们》东启介专访",
+   "japanese": "【インタビュー】舞台『二次会のひとたち』中内啓介役：東 啓介さん",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://stagenews25.jp/?p=85470",
+   "note": "StageNews 专访：舞台《二次会のひとたち》中内启介役。",
+   "status": "已刊载",
+   "origin": "公开检索补充",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://stagenews25.jp/wp-content/uploads/2023/03/DSC02801-Edit_rez.jpg",
+     "caption": "StageNews 专访内文照",
+     "source": "https://stagenews25.jp/?p=85470",
+     "asset": "",
+     "resolution": "853 × 1280"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
    "playlistLinks": []
   },
   {
@@ -9711,6 +9970,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "pr_watako23",
+   "date": "2023-08-19",
+   "end": "",
+   "category": "活动",
+   "title": "WATAKO Fes2023｜与斋藤瑠希的特别对谈",
+   "japanese": "WATAKO Fes2023 プレミアムトークショー",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000000022.000083415.html",
+   "note": "渡边娱乐学院的开放校园活动，和斋藤瑠希一起做了对谈。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/83415/22/83415-22-3e4b55dacc0701874e4fffca59a0b40c-1145x730.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000000022.000083415.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "e57",
@@ -10863,6 +11148,13 @@ window.ARCHIVE = {
    "dateKind": "作品首播日",
    "images": [
     {
+     "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg",
+     "caption": "剧照：砂川圆",
+     "source": "https://prtimes.jp/main/html/rd/p/000000291.000012860.html",
+     "asset": "",
+     "resolution": "3000×2000"
+    },
+    {
      "url": "https://www.tokai-tv.com/oppan/ogp.png",
      "caption": "海报",
      "source": "https://www.tokai-tv.com/oppan/article03.html",
@@ -11216,6 +11508,33 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "pr_musicalstars2",
+   "date": "2024-03-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカルスターズ》vol.2｜东启介×立石俊树",
+   "japanese": "TVガイドPERSON別冊 ミュージカルスターズ vol.2",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000002536.000006568.html",
+   "note": "《VIOLET》两人对谈。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/2536/6568-2536-bfcef47a22f9f78b94dac2d35ceca23c-1000x1280.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000002536.000006568.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "magazine"
+  },
+  {
    "id": "e90",
    "date": "2024-03-06",
    "end": "",
@@ -11457,6 +11776,33 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "pr_confetti2406",
+   "date": "2024-05-06",
+   "end": "",
+   "category": "杂志",
+   "title": "《カンフェティ》2024年6月号｜JBB 封面",
+   "japanese": "カンフェティ 2024年6月号",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000002514.000013972.html",
+   "note": "中川晃教、藤冈正明、东启介、大山真志四人上封面。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/13972/2514/13972-2514-2fff6c4c14c3e3e15feeb5dc7d50dfee-800x565.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000002514.000013972.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "magazine"
   },
   {
    "id": "nat_jbb24",
@@ -11797,6 +12143,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "pr_voicefriend24",
+   "date": "2024-10-28",
+   "end": "",
+   "category": "活动",
+   "title": "Voice Friend《视えない案内人》文喫联动",
+   "japanese": "ボイスフレンド『視えない案内人』",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://prtimes.jp/main/html/rd/p/000000460.000023227.html",
+   "note": "和金の国 桃泽健辅合作的沉浸式声音企划，在文喫三家店陆续开展。",
+   "status": "",
+   "origin": "PR TIMES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/23227/460/23227-460-59c09f2358d5239cbb79cc9164812f0d-1733x1228.png",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000000460.000023227.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "s162",
@@ -13952,35 +14324,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_mc_40155677",
-   "date": "2026-09-24",
-   "end": "",
-   "category": "杂志",
-   "title": "《月刊ザテレビジョン》2026年11月号｜《麦斯》四人对谈",
-   "japanese": "月刊ザテレビジョン 2026年11月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://x.com/thetvjp/status/2104103746779426903",
-   "note": "与《仮面ライダーマイス》共演的秋谷郁甫、安宅波飒、堀川梨心同登场，对谈角色魅力、拍摄幕后，以及“四人中想和谁组搭档”等话题。2026年9月24日发售。",
-   "status": "已发售",
-   "origin": "ザテレビジョン官方X",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://pbs.twimg.com/media/HTMt1EdbgAAVzrk?format=jpg&name=large",
-     "caption": "杂志内页",
-     "source": "https://x.com/thetvjp/status/2104103746779426903",
-     "asset": "",
-     "resolution": "1616×2048"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "web_talent260901",
    "date": "2026-09-01",
    "end": "",
@@ -14351,6 +14694,35 @@ window.ARCHIVE = {
      "url": "https://www.nicovideo.jp/watch/sm46625219"
     }
    ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_mc_40155677",
+   "date": "2026-09-24",
+   "end": "",
+   "category": "杂志",
+   "title": "《月刊ザテレビジョン》2026年11月号｜《麦斯》四人对谈",
+   "japanese": "月刊ザテレビジョン 2026年11月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://x.com/thetvjp/status/2104103746779426903",
+   "note": "与《仮面ライダーマイス》共演的秋谷郁甫、安宅波飒、堀川梨心同登场，对谈角色魅力、拍摄幕后，以及“四人中想和谁组搭档”等话题。2026年9月24日发售。",
+   "status": "已发售",
+   "origin": "ザテレビジョン官方X",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HTMt1EdbgAAVzrk?format=jpg&name=large",
+     "caption": "杂志内页",
+     "source": "https://x.com/thetvjp/status/2104103746779426903",
+     "asset": "",
+     "resolution": "1616×2048"
+    }
+   ],
+   "videos": [],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
