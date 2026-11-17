@@ -287,6 +287,13 @@ window.ARCHIVE = {
      "source": "https://animeanime.jp/imgs/ogp_f/47960.jpg",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://animeanime.jp/imgs/ogp_f/47958.jpg",
+     "caption": "NEL FES 2014 现场（アニメ！アニメ！）",
+     "source": "https://animeanime.jp/article/2014/11/13/20839_2.html",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -428,6 +435,41 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/g4368623m.jpg.webp",
      "caption": "官方生写真（骏河屋商品图）",
      "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://animeanime.jp/imgs/zoom/62250.jpg",
+     "caption": "黎明録 舞台照（アニメ！アニメ！）",
+     "source": "https://animeanime.jp/article/2015/05/26/23417.html",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://animeanime.jp/imgs/zoom/62251.jpg",
+     "caption": "黎明録 舞台照（アニメ！アニメ！）",
+     "source": "https://animeanime.jp/article/2015/05/26/23417.html",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://animeanime.jp/imgs/zoom/62252.jpg",
+     "caption": "黎明録 舞台照（アニメ！アニメ！）",
+     "source": "https://animeanime.jp/article/2015/05/26/23417.html",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://animeanime.jp/imgs/zoom/62253.jpg",
+     "caption": "黎明録 舞台照（アニメ！アニメ！）",
+     "source": "https://animeanime.jp/article/2015/05/26/23417.html",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://animeanime.jp/imgs/zoom/62254.jpg",
+     "caption": "黎明録 舞台照（アニメ！アニメ！）",
+     "source": "https://animeanime.jp/article/2015/05/26/23417.html",
      "asset": "",
      "resolution": ""
     }
@@ -12812,6 +12854,33 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_shonenmag2636",
+   "date": "2026-08-05",
+   "end": "",
+   "category": "写真／出版",
+   "title": "《周刊少年Magazine》2026年36·37合并号｜真人《蓝色监狱》封面＆写真",
+   "japanese": "週刊少年マガジン 2026年36・37合併号",
+   "role": "馬狼照英",
+   "crew": "",
+   "key": false,
+   "url": "https://animeanime.jp/article/2026/08/05/101741.html",
+   "note": "真人电影《蓝色监狱》主演阵容包揽表封·里封，含拍摄写真企划。",
+   "status": "已发售",
+   "origin": "アニメ！アニメ！",
+   "dateKind": "day",
+   "kind": "magazine",
+   "images": [
+    {
+     "url": "https://animeanime.jp/imgs/ogp_f/914799.jpg",
+     "caption": "杂志写真（アニメ！アニメ！）",
+     "source": "https://animeanime.jp/article/2026/08/05/101741.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "e74",
