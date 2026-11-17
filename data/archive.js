@@ -15119,6 +15119,10 @@ window.ARCHIVE = {
     {
      "title": "映画『ブルーロック』公開記念SP 劇団EXILE 櫻井佑樹 × 東啓介【シュートを決めろ！スマホなしでゴールへ辿り着け！前半戦】【ダイジェスト】",
      "url": "https://www.youtube.com/watch?v=1fbwOcFEASg"
+    },
+    {
+     "title": "马狼照英 专访中日字幕（B站）",
+     "url": "https://www.bilibili.com/video/BV1EBu46eEZy/"
     }
    ],
    "pending": false,
