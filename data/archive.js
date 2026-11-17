@@ -948,6 +948,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/harada.jpg",
+     "caption": "角色照：原田左之助",
+     "source": "官方"
     }
    ],
    "videos": [
@@ -964,7 +969,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "HARADA SANOSUKE",
    "workRoma": "SHINSENGUMI KITAN",
-   "roleName": "原田左之助"
+   "roleName": "原田左之助",
+   "cardPhoto": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/harada.jpg"
   },
   {
    "id": "e10",
@@ -1272,7 +1278,7 @@ window.ARCHIVE = {
    "workRoma": "ANOTHER WORLD",
    "roleName": "Will",
    "cardPoster": "assets/img/roles/e12_poster.jpg",
-   "cardPhoto": "assets/img/roles/e12_photo.jpg"
+   "cardPhoto": "https://www.clie.asia/CSL-AW/images/cast/higashi2.png"
   },
   {
    "id": "nat_omoshii6",
@@ -1878,7 +1884,7 @@ window.ARCHIVE = {
    "workRoma": "KYODEN · REVIVAL",
    "roleName": "烛台切光忠",
    "cardPoster": "assets/img/roles/e15_poster.jpg",
-   "cardPhoto": "assets/img/roles/e15_photo.jpg"
+   "cardPhoto": "https://stage-toukenranbu.jp/archive/kyoden_saien/images/cast/syokudai.jpg"
   },
   {
    "id": "mag_rk14585124",
@@ -2275,7 +2281,7 @@ window.ARCHIVE = {
    "workRoma": "STARTING LINE",
    "roleName": "苇木场拓斗",
    "cardPoster": "assets/img/roles/e16_poster.jpg",
-   "cardPhoto": "assets/img/roles/e16_photo.jpg"
+   "cardPhoto": "https://www.marv.jp/special/pedal_2017-023/images/cast/kayakiba.jpg"
   },
   {
    "id": "bro_201703",
@@ -2505,6 +2511,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.marv.jp/special/m-hakuoki-harada/images/cast/harada.jpg",
+     "caption": "角色照：原田左之助",
+     "source": "官方"
     }
    ],
    "videos": [
@@ -2526,7 +2537,7 @@ window.ARCHIVE = {
    "roleRoma": "HARADA SANOSUKE",
    "workRoma": "HARADA SANOSUKE HEN",
    "roleName": "原田左之助",
-   "cardPhoto": "https://prtimes.jp/i/16719/148/resize/d16719-148-902711-0.jpg"
+   "cardPhoto": "https://www.marv.jp/special/m-hakuoki-harada/images/cast/harada.jpg"
   },
   {
    "id": "mag_rk14799945",
@@ -2763,7 +2774,7 @@ window.ARCHIVE = {
    "workRoma": "GIDEN",
    "roleName": "烛台切光忠",
    "cardPoster": "assets/img/roles/e18_poster.jpg",
-   "cardPhoto": "assets/img/roles/e18_photo.jpg"
+   "cardPhoto": "https://stage-toukenranbu.jp/archive/giden/images/cast/syokudai.jpg"
   },
   {
    "id": "bro_201706",
@@ -3474,7 +3485,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "HAL",
    "workRoma": "THE SCARLET PIMPERNEL",
-   "roleName": "哈尔"
+   "roleName": "哈尔",
+   "cardPhoto": "https://www.umegei.com/the-scarlet-pimpernel/img/second/cast_10.jpg"
   },
   {
    "id": "pr_soda1801",
@@ -3768,7 +3780,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "ARMAND",
    "workRoma": "MATA HARI",
-   "roleName": "阿尔芒"
+   "roleName": "阿尔芒",
+   "cardPhoto": "https://www.umegei.com/matahari2018/images/cast/cast_higashi.jpg"
   },
   {
    "id": "mag_mc_14353602",
@@ -4280,7 +4293,7 @@ window.ARCHIVE = {
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "HIDEN",
    "roleName": "烛台切光忠",
-   "cardPhoto": "https://pbs.twimg.com/media/Dfp8YSOVAAI4sTq?format=jpg&name=large"
+   "cardPhoto": "https://stage-toukenranbu.jp/archive/hiden/images/cast/shokudai.jpg"
   },
   {
    "id": "mag_rk15531823",
@@ -7591,7 +7604,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "ARMAND GIRAUD",
    "workRoma": "MATA HARI 2021",
-   "roleName": "阿尔芒"
+   "roleName": "阿尔芒",
+   "cardPhoto": "https://www.umegei.com/matahari2021/images/cast/cast06.jpg"
   },
   {
    "id": "pr_katokazuki_pb",
@@ -7884,7 +7898,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "KAGAMI OSAMU",
    "workRoma": "TSUMARI SUKI",
-   "roleName": "加贺见修"
+   "roleName": "加贺见修",
+   "cardPhoto": "https://www.tv-tokyo.co.jp/tsumarisuki/image/cast/06.jpg"
   },
   {
    "id": "m438",
@@ -8834,6 +8849,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.tv-tokyo.co.jp/txcms/media/others/d0/44/1b4877e9e88294898b56171ff594.jpg",
+     "caption": "角色照：鱼川贵央",
+     "source": "官方"
     }
    ],
    "videos": [],
@@ -8842,7 +8862,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "UOKAWA TAKAHIRO",
    "workRoma": "CHASER GAME",
-   "roleName": "鱼川贵央"
+   "roleName": "鱼川贵央",
+   "cardPhoto": "https://www.tv-tokyo.co.jp/txcms/media/others/d0/44/1b4877e9e88294898b56171ff594.jpg"
   },
   {
    "id": "mag_rm_24909671",
@@ -10947,6 +10968,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.asahi.co.jp/marumaruchan/img/common/img_cast04.jpg",
+     "caption": "角色照：高桥彰吾",
+     "source": "官方"
     }
    ],
    "videos": [],
@@ -10955,7 +10981,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "TAKAHASHI SHOGO",
    "workRoma": "MARUMARU-CHAN",
-   "roleName": "高桥彰吾"
+   "roleName": "高桥彰吾",
+   "cardPhoto": "https://www.asahi.co.jp/marumaruchan/img/common/img_cast04.jpg"
   },
   {
    "id": "qj93039",
@@ -11140,7 +11167,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "YOUNGER BROTHER",
    "workRoma": "RAGTIME",
-   "roleName": "Younger Brother"
+   "roleName": "Younger Brother",
+   "cardPhoto": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg"
   },
   {
    "id": "m6680",
@@ -12750,6 +12778,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.umegei.com/violet/images/cast/img_cast03.jpg",
+     "caption": "角色照：弗利克",
+     "source": "官方"
     }
    ],
    "videos": [
@@ -12838,7 +12871,7 @@ window.ARCHIVE = {
    "roleRoma": "FLICK",
    "workRoma": "VIOLET",
    "roleName": "弗利克",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2024/0407/violet2024_C1_0723.jpg"
+   "cardPhoto": "https://www.umegei.com/violet/images/cast/img_cast03.jpg"
   },
   {
    "id": "bro_202405",
