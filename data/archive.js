@@ -12881,18 +12881,18 @@ window.ARCHIVE = {
    "role": "砂川圆",
    "crew": "导演：二宫崇",
    "key": "",
-   "url": "https://www.asmik-ace.co.jp/works/lineup/18266/",
+   "url": "https://gaga.ne.jp/oppan-movie/",
    "note": "",
    "status": "",
    "origin": "",
    "dateKind": "上映日",
    "images": [
     {
-     "url": "https://www.asmik-ace.co.jp/wp-content/uploads/2023/08/OGP_AsmicAce.jpg",
-     "caption": "文章配图",
-     "source": "https://www.asmik-ace.co.jp/works/lineup/18266/",
-     "asset": "41fabd23fcfce840",
-     "resolution": "1200 × 630"
+     "url": "https://gaga.ne.jp/oppan-movie/assets/img/common/ogp_04.png",
+     "caption": "电影主视觉",
+     "source": "https://gaga.ne.jp/oppan-movie/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -13966,7 +13966,15 @@ window.ARCHIVE = {
    "status": "已发售",
    "origin": "ザテレビジョン官方X",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HTMt1EdbgAAVzrk?format=jpg&name=large",
+     "caption": "杂志内页",
+     "source": "https://x.com/thetvjp/status/2104103746779426903",
+     "asset": "",
+     "resolution": "1616×2048"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -14259,18 +14267,18 @@ window.ARCHIVE = {
    "role": "岭高华武利",
    "crew": "",
    "key": "",
-   "url": "https://www.toei-tokusatsu-fc.jp/",
+   "url": "https://www.tv-asahi.co.jp/my-th/news/0006/",
    "note": "东映特摄FANCLUB配信的衍生短剧；第7话《スパダリ検定～嶺髙華武利編～》以华武利为主角。",
    "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "配信开始日",
    "images": [
     {
-     "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
-     "caption": "朝日电视台官网角色图：岭高华武利／假面骑士Maou",
-     "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
+     "url": "https://i.ytimg.com/vi/jkqp4qMS_Zg/maxresdefault.jpg",
+     "caption": "第1话 免费公开版",
+     "source": "https://www.youtube.com/watch?v=jkqp4qMS_Zg",
      "asset": "",
-     "resolution": "524 × 584"
+     "resolution": ""
     }
    ],
    "videos": [
