@@ -11773,15 +11773,7 @@ window.ARCHIVE = {
    "status": "WE Goods Info 官方推文确认；公演日程待核",
    "origin": "2026.11.17补充",
    "dateKind": "发布日",
-   "images": [
-    {
-     "url": "https://teket.jp/data/flyer/41493/jZdppuKlsP.jpg",
-     "caption": "活动官方宣传单",
-     "source": "https://teket.jp/data/flyer/41493/jZdppuKlsP.jpg",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
+   "images": [],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -13072,7 +13064,7 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
-     "url": "https://www.talent-databank.co.jp/special/wp-content/uploads/2026/09/top01.jpg",
+     "url": "https://www.talent-databank.co.jp/special/wp-content/uploads/2026/09/top011.jpg",
      "caption": "Talent Databank 采访图",
      "source": "https://www.talent-databank.co.jp/special/interview/56797/",
      "asset": "",
@@ -13366,7 +13358,7 @@ window.ARCHIVE = {
    "dateKind": "播出日",
    "images": [
     {
-     "url": "https://nicovideo.cdn.nimg.jp/thumbnails/46942722/46942722",
+     "url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46942722/46942722.43640298.original/r1280x720l.webp?key=70a128b08d735d3a4eb91dcff8fdaae86d35afc93023b80578966df71792f342",
      "caption": "niconico节目缩略图",
      "source": "https://www.nicovideo.jp/watch/so46942722",
      "asset": "",
@@ -14077,7 +14069,7 @@ window.ARCHIVE = {
    "dateKind": "出演日",
    "images": [
     {
-     "url": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/OG.jpg",
+     "url": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/img/img_visual.webp",
      "caption": "超英雄祭2027 官方主视觉",
      "source": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/",
      "asset": "",
@@ -20894,7 +20886,7 @@ window.ARCHIVE = {
    "id": "so46942722",
    "title": "【無料パート】『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
    "channel": "玉城裕規の月下美人",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46942722/46942722.43640298",
+   "thumbnail": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46942722/46942722.43640298.original/r1280x720l.webp?key=70a128b08d735d3a4eb91dcff8fdaae86d35afc93023b80578966df71792f342",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so46942722",
