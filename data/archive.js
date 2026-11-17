@@ -272,12 +272,12 @@ window.ARCHIVE = {
    "category": "活动",
    "title": "NEL FES in 武道馆",
    "japanese": "ネルフェス in 武道館",
-   "role": "本人",
+   "role": "网球王子音乐剧・四天宝寺（千岁千里）",
    "crew": "",
    "key": "",
    "url": "https://ja.wikipedia.org/wiki/東啓介",
-   "note": "此项来自维基活动表，尚未完成原主办方逐项核对；不作为已核验定稿。",
-   "status": "已核实（音乐自然 Natalie 公演／新闻资料）",
+   "note": "NEL FES. 2014 in 日本武道馆，以网球王子音乐剧第二季四天宝寺成员身份出演（同组：安西慎太郎、福岛海太、杉江大志、碕理人、山内圭辅、佐藤流司、松冈广大、君沢ユウキ）。",
+   "status": "已核实（官方出演名单：网球王子音乐剧・四天宝寺）",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
@@ -486,6 +486,37 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "ayakashi15",
+   "date": "2015-08-12",
+   "end": "",
+   "category": "写真／出版",
+   "title": "妖～AYAKASHI～ 出道单曲《憑き夜に踊れ》发售",
+   "japanese": "妖～AYAKASHI～「憑き夜に踊れ」",
+   "role": "妖～AYAKASHI～ 成员",
+   "crew": "作词・作曲：蝶々P",
+   "key": false,
+   "url": "https://www.youtube.com/watch?v=orJz2nBzkAs",
+   "note": "以组合“妖～AYAKASHI～”成员身份参与的企划，2015年8月12日发售出道单曲（EXIT TUNES）。同年有niconico座谈会《あくP 秘密の座談怪》、WE SHOP官方生写真，并于EXIT TUNES ACADEMY 日本武道馆2015登台。",
+   "status": "已发售",
+   "origin": "官方MV／EXIT TUNES",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/orJz2nBzkAs/hqdefault.jpg",
+     "caption": "官方MV封面",
+     "source": "https://www.youtube.com/watch?v=orJz2nBzkAs",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "憑き夜に踊れ MV",
+     "url": "https://www.youtube.com/watch?v=orJz2nBzkAs"
+    }
+   ]
   },
   {
    "id": "s168",
@@ -17506,7 +17537,7 @@ window.ARCHIVE = {
     "東啓介 歌"
    ],
    "sourceType": "演员／其他频道",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "url": "https://www.youtube.com/watch?v=boRc5-hnsMg",
    "years": [],
    "rel": "标题提及东启介",
@@ -17560,7 +17591,7 @@ window.ARCHIVE = {
     "東啓介 歌"
    ],
    "sourceType": "官方／机构",
-   "type": "节目／其他",
+   "type": "本人歌唱",
    "url": "https://www.youtube.com/watch?v=yi86HdzfGjk",
    "years": [],
    "rel": "标题提及东启介",
@@ -17828,7 +17859,7 @@ window.ARCHIVE = {
     "東啓介 2025 ワタナベ25thコンサート"
    ],
    "sourceType": "官方／机构",
-   "type": "节目／其他",
+   "type": "本人歌唱",
    "url": "https://www.youtube.com/watch?v=O_ak89qKSyM",
    "years": [
     "2025"
@@ -17954,7 +17985,7 @@ window.ARCHIVE = {
     "東啓介 歌"
    ],
    "sourceType": "演员／其他频道",
-   "type": "节目／其他",
+   "type": "本人歌唱",
    "url": "https://www.youtube.com/watch?v=DJT4IpjD1Kk",
    "years": [],
    "rel": "标题提及东启介",
@@ -25476,6 +25507,25 @@ window.ARCHIVE = {
    "source": "https://www.youtube.com/watch?v=Xk9d_g3FG0E",
    "uploadDate": "2015-09-16",
    "dateLabel": "2015.09.16 公开",
+   "asset": ""
+  },
+  {
+   "id": "orJz2nBzkAs",
+   "title": "【8月12日発売】妖～AYAKASHI～／憑き夜に踊れ（出道单曲）",
+   "channel": "EXIT TUNES",
+   "type": "本人歌唱",
+   "sourceType": "官方",
+   "years": [
+    "2015"
+   ],
+   "url": "https://www.youtube.com/watch?v=orJz2nBzkAs",
+   "thumbnail": "https://i.ytimg.com/vi/orJz2nBzkAs/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "官方｜2015",
+   "source": "https://www.youtube.com/watch?v=orJz2nBzkAs",
+   "uploadDate": "2015-07-31",
+   "dateLabel": "2015 公开",
    "asset": ""
   }
  ],
