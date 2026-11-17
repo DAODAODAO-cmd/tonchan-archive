@@ -5121,7 +5121,15 @@ window.ARCHIVE = {
    "status": "已结束",
    "origin": "音乐自然 Natalie 新闻",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/GF7l8BRFRh4/maxresdefault.jpg",
+     "caption": "《こえ》官方视频封面",
+     "source": "https://www.youtube.com/watch?v=GF7l8BRFRh4",
+     "asset": "",
+     "resolution": "1280×720"
+    }
+   ],
    "videos": []
   },
   {
@@ -10602,7 +10610,15 @@ window.ARCHIVE = {
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期",
-   "images": [],
+   "images": [
+    {
+     "url": "https://neown.tokyo/wp-content/uploads/2024/03/1_20240117_neown_007_2500-1024x683.jpg",
+     "caption": "NEOWN 专访内文照",
+     "source": "https://web.archive.org/web/2024/https://neown.tokyo/2024/03/06/higashikeisuke/",
+     "asset": "",
+     "resolution": "1024×683"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "文章",
@@ -14337,7 +14353,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "211276d5392431f0"
+   "asset": "211276d5392431f0",
+   "uploadDate": "2026-09-05"
   },
   {
    "id": "D1dOGYHMg6A",
@@ -14357,7 +14374,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "0e54794d217d7174"
+   "asset": "0e54794d217d7174",
+   "uploadDate": "2026-09-05"
   },
   {
    "id": "8X39E1Z6TOc",
@@ -14377,7 +14395,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "650b961f392d5bc2"
+   "asset": "650b961f392d5bc2",
+   "uploadDate": "2026-09-04"
   },
   {
    "id": "X_NYvj42l_A",
@@ -14397,7 +14416,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "51d8becbed8f2bd5"
+   "asset": "51d8becbed8f2bd5",
+   "uploadDate": "2026-08-26"
   },
   {
    "id": "okwyOUKOVf8",
@@ -14417,7 +14437,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "539260456a9391b9"
+   "asset": "539260456a9391b9",
+   "uploadDate": "2026-08-14"
   },
   {
    "id": "sTz7QLKvlrg",
@@ -14437,7 +14458,9 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "857a6f06f987b3c8"
+   "asset": "857a6f06f987b3c8",
+   "uploadDate": "2026-08-12",
+   "contentDate": "2026-08-10"
   },
   {
    "id": "3g1h5UbPimY",
@@ -14457,7 +14480,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "91106b11d5e57766"
+   "asset": "91106b11d5e57766",
+   "uploadDate": "2026-08-12"
   },
   {
    "id": "sa1rsQT9df0",
@@ -14477,7 +14501,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "808b03b90de7efa1"
+   "asset": "808b03b90de7efa1",
+   "uploadDate": "2026-08-12"
   },
   {
    "id": "yb8Kqb_WUG4",
@@ -14497,7 +14522,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "5becc8dcbabf30ec"
+   "asset": "5becc8dcbabf30ec",
+   "uploadDate": "2026-08-11"
   },
   {
    "id": "xlIBfL1sOcg",
@@ -14517,7 +14543,9 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "b8218e4b5a8485e9"
+   "asset": "b8218e4b5a8485e9",
+   "uploadDate": "2026-08-11",
+   "contentDate": "2026-08-09"
   },
   {
    "id": "XgiT7y8zBnw",
@@ -14537,7 +14565,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "9141c172aea7a3f9"
+   "asset": "9141c172aea7a3f9",
+   "uploadDate": "2026-08-10"
   },
   {
    "id": "nksmqPo8PXM",
@@ -14557,7 +14586,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "6d84cab2fed4c20c"
+   "asset": "6d84cab2fed4c20c",
+   "uploadDate": "2026-08-10"
   },
   {
    "id": "0g3ZhFdlDj4",
@@ -14577,7 +14607,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "aa2b493e14d21c08"
+   "asset": "aa2b493e14d21c08",
+   "uploadDate": "2026-08-10"
   },
   {
    "id": "kB1halztCbY",
@@ -14597,7 +14628,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "cc8fb1efed6b6fce"
+   "asset": "cc8fb1efed6b6fce",
+   "uploadDate": "2026-08-08"
   },
   {
    "id": "1G4VldyUdIE",
@@ -14617,7 +14649,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "46f917a02f6bf110"
+   "asset": "46f917a02f6bf110",
+   "uploadDate": "2026-08-08"
   },
   {
    "id": "6ShW86E7yAU",
@@ -14637,7 +14670,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1aa2b03e41ef05cf"
+   "asset": "1aa2b03e41ef05cf",
+   "uploadDate": "2026-08-08"
   },
   {
    "id": "RlMDLOexM5E",
@@ -14657,7 +14691,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2268a00cfcbcf2b4"
+   "asset": "2268a00cfcbcf2b4",
+   "uploadDate": "2026-08-03"
   },
   {
    "id": "Ec_t290Za0Y",
@@ -14677,7 +14712,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "d04055fa93a9a84f"
+   "asset": "d04055fa93a9a84f",
+   "uploadDate": "2026-08-03"
   },
   {
    "id": "pvPDrs9rSSw",
@@ -14697,7 +14733,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "d70ffcf2d78fa07c"
+   "asset": "d70ffcf2d78fa07c",
+   "uploadDate": "2026-08-02"
   },
   {
    "id": "EWuzyA6UxLc",
@@ -14717,7 +14754,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "9ac92796d31e04a5"
+   "asset": "9ac92796d31e04a5",
+   "uploadDate": "2026-08-01"
   },
   {
    "id": "dYhneTTd768",
@@ -14737,7 +14775,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "36999605e2147cfd"
+   "asset": "36999605e2147cfd",
+   "uploadDate": "2026-08-01"
   },
   {
    "id": "Y2z_qoOIQVc",
@@ -14757,7 +14796,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "622c3f4c6da8cf5b"
+   "asset": "622c3f4c6da8cf5b",
+   "uploadDate": "2026-08-01"
   },
   {
    "id": "Z0xeHjuJqUE",
@@ -14777,7 +14817,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1d56a0c87946defd"
+   "asset": "1d56a0c87946defd",
+   "uploadDate": "2026-07-14"
   },
   {
    "id": "kwzvPcpSAdc",
@@ -14797,7 +14838,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "7a378d7d628fae90"
+   "asset": "7a378d7d628fae90",
+   "uploadDate": "2026-07-14"
   },
   {
    "id": "K7DPynI9ABI",
@@ -14817,7 +14859,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "886ad2950c6eb88d"
+   "asset": "886ad2950c6eb88d",
+   "uploadDate": "2026-07-14"
   },
   {
    "id": "d1bPgaMakiQ",
@@ -14837,7 +14880,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "3669dff90c61d06d"
+   "asset": "3669dff90c61d06d",
+   "uploadDate": "2026-07-12"
   },
   {
    "id": "z7Pd-5nNOSk",
@@ -14857,7 +14901,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2b96b66b8439afeb"
+   "asset": "2b96b66b8439afeb",
+   "uploadDate": "2026-09-12"
   },
   {
    "id": "cQHjgl5dyAA",
@@ -14877,7 +14922,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "46a44f94fc9f1c89"
+   "asset": "46a44f94fc9f1c89",
+   "uploadDate": "2026-09-05"
   },
   {
    "id": "GTKfOKIZ-ME",
@@ -14897,7 +14943,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2312eea506304a8c"
+   "asset": "2312eea506304a8c",
+   "uploadDate": "2026-08-29"
   },
   {
    "id": "eIsBS9RmPtU",
@@ -14917,7 +14964,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7018b97be78704ab"
+   "asset": "7018b97be78704ab",
+   "uploadDate": "2026-08-29"
   },
   {
    "id": "a7xOIwwNLOA",
@@ -14937,7 +14985,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "65502ea176799ac0"
+   "asset": "65502ea176799ac0",
+   "uploadDate": "2026-08-03"
   },
   {
    "id": "klfi7fnJWPM",
@@ -14957,7 +15006,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "b9df03f2458ca1ff"
+   "asset": "b9df03f2458ca1ff",
+   "uploadDate": "2026-08-03"
   },
   {
    "id": "SZEK7hWKliE",
@@ -14977,7 +15027,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "74c9b14c42e856f4"
+   "asset": "74c9b14c42e856f4",
+   "uploadDate": "2026-11-10"
   },
   {
    "id": "9VPedwZW6vg",
@@ -14997,7 +15048,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "5f75b348305d965a"
+   "asset": "5f75b348305d965a",
+   "uploadDate": "2026-11-09"
   },
   {
    "id": "sKfbmuKkuZY",
@@ -15017,7 +15069,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "bd78010f46fb604e"
+   "asset": "bd78010f46fb604e",
+   "uploadDate": "2026-11-11"
   },
   {
    "id": "HTb2pl7yHC4",
@@ -15037,7 +15090,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7c7f6ce84d72282f"
+   "asset": "7c7f6ce84d72282f",
+   "uploadDate": "2026-09-11"
   },
   {
    "id": "7z-mf3a4X2E",
@@ -15057,7 +15111,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2268592cffae12a4"
+   "asset": "2268592cffae12a4",
+   "uploadDate": "2026-06-04"
   },
   {
    "id": "pfAjxZqCw44",
@@ -15077,7 +15132,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "25a3d30a0ef42a6b"
+   "asset": "25a3d30a0ef42a6b",
+   "uploadDate": "2026-06-08"
   },
   {
    "id": "WZvtwa2QghM",
@@ -15097,7 +15153,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "24a404154261ba21"
+   "asset": "24a404154261ba21",
+   "uploadDate": "2026-08-06"
   },
   {
    "id": "gjkR_2NFHxY",
@@ -15117,7 +15174,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "c12a1b9aca1beaa7"
+   "asset": "c12a1b9aca1beaa7",
+   "uploadDate": "2026-08-05"
   },
   {
    "id": "v7ywW3Oj3fo",
@@ -15137,7 +15195,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "76694182eac5ccd7"
+   "asset": "76694182eac5ccd7",
+   "uploadDate": "2026-08-17"
   },
   {
    "id": "PXK_cInXWwA",
@@ -15157,7 +15216,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "eb397313561a65e3"
+   "asset": "eb397313561a65e3",
+   "uploadDate": "2026-09-05"
   },
   {
    "id": "1fbwOcFEASg",
@@ -15177,7 +15237,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "f072f058effe3a87"
+   "asset": "f072f058effe3a87",
+   "uploadDate": "2026-09-10"
   },
   {
    "id": "tSfsOIXDSR0",
@@ -15198,7 +15259,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "6aa5a601021638d4"
+   "asset": "6aa5a601021638d4",
+   "uploadDate": "2025-04-12"
   },
   {
    "id": "L0ZOUa3tZ8U",
@@ -15219,7 +15281,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "518b82383369c670"
+   "asset": "518b82383369c670",
+   "uploadDate": "2025-04-12"
   },
   {
    "id": "-fq8P9gHcnA",
@@ -15240,7 +15303,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "9d7a4e409a5e6b42"
+   "asset": "9d7a4e409a5e6b42",
+   "uploadDate": "2025-09-10"
   },
   {
    "id": "jpRbH2fes4I",
@@ -15261,7 +15325,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "989c55abff71f1aa"
+   "asset": "989c55abff71f1aa",
+   "uploadDate": "2025-09-11"
   },
   {
    "id": "c32MiGQ1TU4",
@@ -15282,7 +15347,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1fd4a51fcdafae73"
+   "asset": "1fd4a51fcdafae73",
+   "uploadDate": "2022-10-12"
   },
   {
    "id": "3Ih3b4cGKU8",
@@ -15298,12 +15364,13 @@ window.ARCHIVE = {
    "type": "节目／其他",
    "url": "https://www.youtube.com/watch?v=3Ih3b4cGKU8",
    "years": [
-    "2022",
-    "2025"
+    "2022"
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "524adf2953847b93"
+   "asset": "524adf2953847b93",
+   "uploadDate": "2022-11-29",
+   "contentDate": "2022-11-05"
   },
   {
    "id": "ecZ-mNoxAI8",
@@ -15326,7 +15393,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "8447b4e7642aa4c8"
+   "asset": "8447b4e7642aa4c8",
+   "uploadDate": "2022-06-12"
   },
   {
    "id": "pakliZdcpWs",
@@ -15347,7 +15415,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "b32cfb2485e166c5"
+   "asset": "b32cfb2485e166c5",
+   "uploadDate": "2022-08-25"
   },
   {
    "id": "XK8uEh1kIVM",
@@ -15368,7 +15437,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "ad1d2aa910e22e94"
+   "asset": "ad1d2aa910e22e94",
+   "uploadDate": "2022-08-26"
   },
   {
    "id": "QWSKBjG6_mw",
@@ -15389,7 +15459,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1b3d5adec19b1d98"
+   "asset": "1b3d5adec19b1d98",
+   "uploadDate": "2022-04-30"
   },
   {
    "id": "vIkahNKrw9M",
@@ -15410,7 +15481,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "ceed8480d89024e3"
+   "asset": "ceed8480d89024e3",
+   "uploadDate": "2022-04-28"
   },
   {
    "id": "gJMztELBKgc",
@@ -15431,7 +15503,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "b6c6cccb44c55159"
+   "asset": "b6c6cccb44c55159",
+   "uploadDate": "2022-04-28"
   },
   {
    "id": "UUyoZY7ZgyE",
@@ -15452,7 +15525,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "24b8cd9214d57ed9"
+   "asset": "24b8cd9214d57ed9",
+   "uploadDate": "2022-04-28"
   },
   {
    "id": "V5B54irF_OY",
@@ -15473,7 +15547,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "201228a928b35d02"
+   "asset": "201228a928b35d02",
+   "uploadDate": "2022-10-31"
   },
   {
    "id": "EnbsoErdPGc",
@@ -15493,7 +15568,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "10e462dec9ef19ce"
+   "asset": "10e462dec9ef19ce",
+   "uploadDate": "2015-08-10"
   },
   {
    "id": "O1qwx9YeEGI",
@@ -15513,7 +15589,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "bb1a3aeb4350d526"
+   "asset": "bb1a3aeb4350d526",
+   "uploadDate": "2015-08-10"
   },
   {
    "id": "pJ8WM6ZjB0M",
@@ -15533,7 +15610,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "31e30f9a458beeaa"
+   "asset": "31e30f9a458beeaa",
+   "uploadDate": "2015-08-10"
   },
   {
    "id": "JSw3CZ6T6ro",
@@ -15553,7 +15631,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "e103f0579dcd29a3"
+   "asset": "e103f0579dcd29a3",
+   "uploadDate": "2015-08-10"
   },
   {
    "id": "mZBvO3s39nA",
@@ -15573,7 +15652,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2e01518722478bc7"
+   "asset": "2e01518722478bc7",
+   "uploadDate": "2015-08-10"
   },
   {
    "id": "q6VF3dN7VgU",
@@ -15593,7 +15673,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "ce0cfdccaf8ed0ec"
+   "asset": "ce0cfdccaf8ed0ec",
+   "uploadDate": "2015-08-10"
   },
   {
    "id": "ZIOD5qnM7Do",
@@ -15613,7 +15694,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "6dfc7fb97708fe33"
+   "asset": "6dfc7fb97708fe33",
+   "uploadDate": "2015-08-10"
   },
   {
    "id": "F7rOBM2W63c",
@@ -15633,7 +15715,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "b93ee69c08892ddf"
+   "asset": "b93ee69c08892ddf",
+   "uploadDate": "2023-09-19"
   },
   {
    "id": "E8Y1uiiUF_E",
@@ -15654,7 +15737,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "12febbe176a054ab"
+   "asset": "12febbe176a054ab",
+   "uploadDate": "2023-09-08"
   },
   {
    "id": "BV6956LaS-M",
@@ -15674,7 +15758,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "dd626a0174a7cbba"
+   "asset": "dd626a0174a7cbba",
+   "uploadDate": "2023-09-11"
   },
   {
    "id": "vYtbI_wPC2k",
@@ -15694,7 +15779,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "a05d7bb8b76300e2"
+   "asset": "a05d7bb8b76300e2",
+   "uploadDate": "2023-08-23"
   },
   {
    "id": "CbmMXDMzr4k",
@@ -15714,7 +15800,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "181955f7f1117eba"
+   "asset": "181955f7f1117eba",
+   "uploadDate": "2023-08-23"
   },
   {
    "id": "1k0UY_4Ad0w",
@@ -15734,7 +15821,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "f49217f333e4569d"
+   "asset": "f49217f333e4569d",
+   "uploadDate": "2023-08-23"
   },
   {
    "id": "BkLlGlkBQws",
@@ -15754,7 +15842,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "5622510f747d6d14"
+   "asset": "5622510f747d6d14",
+   "uploadDate": "2023-05-26"
   },
   {
    "id": "LrkhLv8z3ZY",
@@ -15774,7 +15863,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "b93ee69c08892ddf"
+   "asset": "b93ee69c08892ddf",
+   "uploadDate": "2023-08-30"
   },
   {
    "id": "Lw3yMhOmE-c",
@@ -15795,7 +15885,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "610e6eb4a0a212c9"
+   "asset": "610e6eb4a0a212c9",
+   "uploadDate": "2025-07-08"
   },
   {
    "id": "15vv317-0ow",
@@ -15816,7 +15907,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "dfa40ab9486702d6"
+   "asset": "dfa40ab9486702d6",
+   "uploadDate": "2025-05-05"
   },
   {
    "id": "K43A_Euy30w",
@@ -15837,7 +15929,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "07c0b68331d21e1a"
+   "asset": "07c0b68331d21e1a",
+   "uploadDate": "2025-05-05"
   },
   {
    "id": "V-5VydFvkOo",
@@ -15858,7 +15951,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7f06d0f8ccf22789"
+   "asset": "7f06d0f8ccf22789",
+   "uploadDate": "2025-06-14"
   },
   {
    "id": "KxeudWn9KZQ",
@@ -15879,7 +15973,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "4edd4ea6c0e93ad6"
+   "asset": "4edd4ea6c0e93ad6",
+   "uploadDate": "2025-07-08"
   },
   {
    "id": "NJuQcqoxBxk",
@@ -15900,7 +15995,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "d3b8dc94e9705d33"
+   "asset": "d3b8dc94e9705d33",
+   "uploadDate": "2025-07-05"
   },
   {
    "id": "fVfE_apEhpo",
@@ -15921,7 +16017,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "e51b3a5819c99de2"
+   "asset": "e51b3a5819c99de2",
+   "uploadDate": "2025-07-18"
   },
   {
    "id": "pqYg8t4cFQk",
@@ -15942,7 +16039,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "355cac847a553e11"
+   "asset": "355cac847a553e11",
+   "uploadDate": "2025-06-28"
   },
   {
    "id": "5ArkZQN9kb4",
@@ -15963,7 +16061,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "847a9f19854c8950"
+   "asset": "847a9f19854c8950",
+   "uploadDate": "2025-07-08"
   },
   {
    "id": "takIM5eYh4w",
@@ -15984,7 +16083,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "641ef8d8959be56a"
+   "asset": "641ef8d8959be56a",
+   "uploadDate": "2025-07-08"
   },
   {
    "id": "rgGl1ak28fA",
@@ -16005,7 +16105,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "cccf7f039ee9d329"
+   "asset": "cccf7f039ee9d329",
+   "uploadDate": "2025-07-05"
   },
   {
    "id": "AE4ikpdzmdE",
@@ -16026,7 +16127,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "e5c59ea27759847b"
+   "asset": "e5c59ea27759847b",
+   "uploadDate": "2025-07-05"
   },
   {
    "id": "PadjmtzQjG8",
@@ -16046,7 +16148,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2d2d3785454e9825"
+   "asset": "2d2d3785454e9825",
+   "uploadDate": "2024-10-19"
   },
   {
    "id": "m22O3yV7XqM",
@@ -16066,7 +16169,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7becf9b0f584b168"
+   "asset": "7becf9b0f584b168",
+   "uploadDate": "2024-10-30"
   },
   {
    "id": "_HJrqdA820s",
@@ -16086,7 +16190,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "a58373430762155b"
+   "asset": "a58373430762155b",
+   "uploadDate": "2024-10-31"
   },
   {
    "id": "wBkmtgIUfK4",
@@ -16106,7 +16211,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "8daa358ac0f2c14a"
+   "asset": "8daa358ac0f2c14a",
+   "uploadDate": "2024-11-01"
   },
   {
    "id": "4lD8P1_VE8w",
@@ -16126,7 +16232,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "4567ea0ee9e94426"
+   "asset": "4567ea0ee9e94426",
+   "uploadDate": "2024-10-18"
   },
   {
    "id": "Tre7NfVFk6o",
@@ -16146,7 +16253,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1a55a24eaa639327"
+   "asset": "1a55a24eaa639327",
+   "uploadDate": "2024-10-19"
   },
   {
    "id": "yTUc2Nb5F20",
@@ -16166,7 +16274,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "37b077fe185900c1"
+   "asset": "37b077fe185900c1",
+   "uploadDate": "2024-10-25"
   },
   {
    "id": "tp-RX8Qxm24",
@@ -16186,7 +16295,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "4a50626de516ef16"
+   "asset": "4a50626de516ef16",
+   "uploadDate": "2024-10-22"
   },
   {
    "id": "YWnAgZOkUcU",
@@ -16206,7 +16316,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "44f2894b8485e0d3"
+   "asset": "44f2894b8485e0d3",
+   "uploadDate": "2025-09-13"
   },
   {
    "id": "u9bAu_dq5MU",
@@ -16226,7 +16337,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "6c06bdf2852a4352"
+   "asset": "6c06bdf2852a4352",
+   "uploadDate": "2025-09-11"
   },
   {
    "id": "mpHpquev-K4",
@@ -16246,7 +16358,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "76c5af66a232bfaf"
+   "asset": "76c5af66a232bfaf",
+   "uploadDate": "2025-09-15"
   },
   {
    "id": "u-wGHXXntMg",
@@ -16266,7 +16379,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "398c7a1fb82f9e50"
+   "asset": "398c7a1fb82f9e50",
+   "uploadDate": "2025-09-12"
   },
   {
    "id": "ihE7Vx7tjSE",
@@ -16286,7 +16400,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1ad2d975a79d5648"
+   "asset": "1ad2d975a79d5648",
+   "uploadDate": "2024-10-17"
   },
   {
    "id": "_4RacP-OtSg",
@@ -16306,7 +16421,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "5d5c567d38e459a8"
+   "asset": "5d5c567d38e459a8",
+   "uploadDate": "2025-09-13"
   },
   {
    "id": "h4M0gPiFM30",
@@ -16326,7 +16442,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "a5aa47aa7b56c220"
+   "asset": "a5aa47aa7b56c220",
+   "uploadDate": "2024-10-21"
   },
   {
    "id": "D8r_YIZdwKo",
@@ -16346,7 +16463,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "0879886435fc1b4f"
+   "asset": "0879886435fc1b4f",
+   "uploadDate": "2017-11-27"
   },
   {
    "id": "DTE9EzwUWhs",
@@ -16366,7 +16484,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "05531f541c56fa75"
+   "asset": "05531f541c56fa75",
+   "uploadDate": "2017-10-24"
   },
   {
    "id": "fDn_xCRJ8w4",
@@ -16386,7 +16505,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2a3af9206f92d9b5"
+   "asset": "2a3af9206f92d9b5",
+   "uploadDate": "2017-10-04"
   },
   {
    "id": "79Tk5LgzS9M",
@@ -16406,7 +16526,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "a77115675a5d95eb"
+   "asset": "a77115675a5d95eb",
+   "uploadDate": "2017-10-24"
   },
   {
    "id": "KxfBvX3iSzU",
@@ -16426,7 +16547,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "8b0bf02e178f1674"
+   "asset": "8b0bf02e178f1674",
+   "uploadDate": "2017-10-04"
   },
   {
    "id": "w39FfpQ5i2w",
@@ -16446,7 +16568,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "95da55fb2a42db0f"
+   "asset": "95da55fb2a42db0f",
+   "uploadDate": "2020-10-30"
   },
   {
    "id": "OKH_bC0wg5Y",
@@ -16466,7 +16589,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "d7454006aec90e08"
+   "asset": "d7454006aec90e08",
+   "uploadDate": "2020-10-19"
   },
   {
    "id": "ZhEELCTq3tM",
@@ -16486,7 +16610,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "4f97aa08eb786586"
+   "asset": "4f97aa08eb786586",
+   "uploadDate": "2020-08-20"
   },
   {
    "id": "4eOorayHphA",
@@ -16506,7 +16631,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "fc6162af31f4dbc3"
+   "asset": "fc6162af31f4dbc3",
+   "uploadDate": "2020-08-28"
   },
   {
    "id": "Hxk7GEd5F_8",
@@ -16526,7 +16652,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "e4f9196ccc5b238f"
+   "asset": "e4f9196ccc5b238f",
+   "uploadDate": "2020-11-12"
   },
   {
    "id": "mbqWnqx_GS4",
@@ -16547,7 +16674,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "e5ff6b464d94f575"
+   "asset": "e5ff6b464d94f575",
+   "uploadDate": "2022-11-19"
   },
   {
    "id": "eR4WyQs5Fk8",
@@ -16568,7 +16696,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "8e0b2621354d8414"
+   "asset": "8e0b2621354d8414",
+   "uploadDate": "2022-11-26"
   },
   {
    "id": "V4Linc0JINA",
@@ -16589,7 +16718,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "c0694d2986066e0a"
+   "asset": "c0694d2986066e0a",
+   "uploadDate": "2022-12-03"
   },
   {
    "id": "h3CvVkGFxJI",
@@ -16610,7 +16740,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "8552d6886cd64aa9"
+   "asset": "8552d6886cd64aa9",
+   "uploadDate": "2023-04-25"
   },
   {
    "id": "DG2SNGa-vVE",
@@ -16631,7 +16762,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "2d6633379cb736fd"
+   "asset": "2d6633379cb736fd",
+   "uploadDate": "2023-05-14"
   },
   {
    "id": "r9cN36MGX2A",
@@ -16652,7 +16784,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "e9077cd6c5e4a8e0"
+   "asset": "e9077cd6c5e4a8e0",
+   "uploadDate": "2023-05-20"
   },
   {
    "id": "MRrQvA_9fMg",
@@ -16673,7 +16806,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "b39c9845921f485a"
+   "asset": "b39c9845921f485a",
+   "uploadDate": "2023-05-27"
   },
   {
    "id": "f3BJWAVjrcI",
@@ -16694,7 +16828,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "b0ee6bde87cb3cd7"
+   "asset": "b0ee6bde87cb3cd7",
+   "uploadDate": "2023-05-29"
   },
   {
    "id": "u6W4OrtxgnU",
@@ -16715,7 +16850,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "70760b35f360eec9"
+   "asset": "70760b35f360eec9",
+   "uploadDate": "2022-11-24"
   },
   {
    "id": "AHvAQBT5Dbg",
@@ -16737,7 +16873,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "15a60edc6543f3aa"
+   "asset": "15a60edc6543f3aa",
+   "uploadDate": "2019-10-13"
   },
   {
    "id": "AH7rsvUeZN8",
@@ -16759,7 +16896,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "e639c06d84fe6a4d"
+   "asset": "e639c06d84fe6a4d",
+   "uploadDate": "2018-08-25"
   },
   {
    "id": "TrTEDXyD8cs",
@@ -16780,7 +16918,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "5cd020ccb4b3baf2"
+   "asset": "5cd020ccb4b3baf2",
+   "uploadDate": "2019-04-21"
   },
   {
    "id": "uJLU1AgHH2Y",
@@ -16802,7 +16941,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "331ed34bcb1ff9d6"
+   "asset": "331ed34bcb1ff9d6",
+   "uploadDate": "2018-08-25"
   },
   {
    "id": "nH8f7OIAcN0",
@@ -16823,7 +16963,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "42b7c71dc24c358c"
+   "asset": "42b7c71dc24c358c",
+   "uploadDate": "2019-04-20"
   },
   {
    "id": "Xpih6bICvBs",
@@ -16844,7 +16985,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "d5a4d8b71a56a322"
+   "asset": "d5a4d8b71a56a322",
+   "uploadDate": "2021-09-14"
   },
   {
    "id": "l2fdHeJA1eE",
@@ -16865,7 +17007,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "9d57f611d7d33736"
+   "asset": "9d57f611d7d33736",
+   "uploadDate": "2017-08-03"
   },
   {
    "id": "Rv4bh6-iGHI",
@@ -16886,7 +17029,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1fb82037901990cc"
+   "asset": "1fb82037901990cc",
+   "uploadDate": "2017-07-29"
   },
   {
    "id": "g7DACP1iScI",
@@ -16904,7 +17048,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "f06b03c668c0b471"
+   "asset": "f06b03c668c0b471",
+   "uploadDate": "2026-01-28"
   },
   {
    "id": "LSaXLZTd7GU",
@@ -16922,7 +17067,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "9cf9e9de28d429a1"
+   "asset": "9cf9e9de28d429a1",
+   "uploadDate": "2024-01-24"
   },
   {
    "id": "Fup2SyX_OGI",
@@ -16940,7 +17086,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "9d41c7d470ee8fd0"
+   "asset": "9d41c7d470ee8fd0",
+   "uploadDate": "2025-02-22"
   },
   {
    "id": "75MdBW4tZTY",
@@ -16958,7 +17105,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "40ccc40c04ec07e4"
+   "asset": "40ccc40c04ec07e4",
+   "uploadDate": "2025-02-25"
   },
   {
    "id": "OC7uW794590",
@@ -16976,7 +17124,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "8465b6c0fd2f8649"
+   "asset": "8465b6c0fd2f8649",
+   "uploadDate": "2024-09-03"
   },
   {
    "id": "aZCETIv2Npc",
@@ -16994,7 +17143,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "744ed5e20d542163"
+   "asset": "744ed5e20d542163",
+   "uploadDate": "2024-10-01"
   },
   {
    "id": "a2e6hRYW5yU",
@@ -17012,7 +17162,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "d9a33232b5e4bbd2"
+   "asset": "d9a33232b5e4bbd2",
+   "uploadDate": "2024-03-11"
   },
   {
    "id": "zDHj8O3Hi8Q",
@@ -17030,7 +17181,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "1c4515d7e8888a1e"
+   "asset": "1c4515d7e8888a1e",
+   "uploadDate": "2024-10-01"
   },
   {
    "id": "z1OOQ-Wrbao",
@@ -17048,7 +17200,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "b1cd48afb6d6d9f0"
+   "asset": "b1cd48afb6d6d9f0",
+   "uploadDate": "2023-03-05"
   },
   {
    "id": "6Oh66vnv84g",
@@ -17066,7 +17219,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "de127002903318db"
+   "asset": "de127002903318db",
+   "uploadDate": "2023-03-07"
   },
   {
    "id": "7JijCuDPnfU",
@@ -17084,7 +17238,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "ac7ced69e9b5e8b0"
+   "asset": "ac7ced69e9b5e8b0",
+   "uploadDate": "2023-03-07"
   },
   {
    "id": "-b6HRNyMBSU",
@@ -17102,7 +17257,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "652bf0fab7c8afcd"
+   "asset": "652bf0fab7c8afcd",
+   "uploadDate": "2025-10-17"
   },
   {
    "id": "4g79pBZNHDk",
@@ -17117,10 +17273,14 @@ window.ARCHIVE = {
    "sourceType": "媒体原发布",
    "type": "幕后／拍摄",
    "url": "https://www.youtube.com/watch?v=4g79pBZNHDk",
-   "years": [],
+   "years": [
+    "2023"
+   ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "654de3b954e2510a"
+   "asset": "654de3b954e2510a",
+   "uploadDate": "2023-04-26",
+   "contentDate": "2023-04-11"
   },
   {
    "id": "QJuXEN12tJI",
@@ -17138,7 +17298,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "f9a9b7326830c25a"
+   "asset": "f9a9b7326830c25a",
+   "uploadDate": "2024-01-14"
   },
   {
    "id": "ai6SEmeE9lg",
@@ -17156,7 +17317,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "48944f0b56233e69"
+   "asset": "48944f0b56233e69",
+   "uploadDate": "2022-09-19"
   },
   {
    "id": "JjCFokZKmIg",
@@ -17174,7 +17336,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "cd0e55120fbaf804"
+   "asset": "cd0e55120fbaf804",
+   "uploadDate": "2021-04-06"
   },
   {
    "id": "qQZglL0gS6Q",
@@ -17192,7 +17355,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "42b01b4920370f49"
+   "asset": "42b01b4920370f49",
+   "uploadDate": "2021-04-11"
   },
   {
    "id": "9nsfPqZlbyU",
@@ -17210,7 +17374,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "182cf229071e4842"
+   "asset": "182cf229071e4842",
+   "uploadDate": "2021-12-31"
   },
   {
    "id": "8SFh8VbX8Rs",
@@ -17228,7 +17393,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "5e15247063a65de2"
+   "asset": "5e15247063a65de2",
+   "uploadDate": "2022-01-11"
   },
   {
    "id": "H4PR-TNvs2A",
@@ -17246,7 +17412,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "cce0e9655b80b8c2"
+   "asset": "cce0e9655b80b8c2",
+   "uploadDate": "2020-10-29"
   },
   {
    "id": "_0XZ9yFswhQ",
@@ -17264,7 +17431,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "23e5ac274611481a"
+   "asset": "23e5ac274611481a",
+   "uploadDate": "2021-01-20"
   },
   {
    "id": "K2b9XXw6bpA",
@@ -17282,7 +17450,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "c6f39ba26851107f"
+   "asset": "c6f39ba26851107f",
+   "uploadDate": "2018-03-14"
   },
   {
    "id": "oHksN3f31_o",
@@ -17300,7 +17469,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "afe8e635af525281"
+   "asset": "afe8e635af525281",
+   "uploadDate": "2018-11-29"
   },
   {
    "id": "OYEvOfoTYmo",
@@ -17318,7 +17488,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "ef70f6c98eb2f3d4"
+   "asset": "ef70f6c98eb2f3d4",
+   "uploadDate": "2020-03-15"
   },
   {
    "id": "EhumaPqcLd8",
@@ -17336,7 +17507,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "669362eb8e7c354d"
+   "asset": "669362eb8e7c354d",
+   "uploadDate": "2017-03-19"
   },
   {
    "id": "MQAQBY_5bdE",
@@ -17354,7 +17526,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "b703a62338d69081"
+   "asset": "b703a62338d69081",
+   "uploadDate": "2016-01-06"
   },
   {
    "id": "vqQzvMpJneA",
@@ -17375,7 +17548,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "49533be615ea40c0"
+   "asset": "49533be615ea40c0",
+   "uploadDate": "2025-04-28"
   },
   {
    "id": "jn_8qnQvReQ",
@@ -17396,7 +17570,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "8a98a9ef24d2a87c"
+   "asset": "8a98a9ef24d2a87c",
+   "uploadDate": "2024-11-20"
   },
   {
    "id": "n5xS0TZwhSE",
@@ -17416,7 +17591,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "30e23be3647a51d0"
+   "asset": "30e23be3647a51d0",
+   "uploadDate": "2018-04-03"
   },
   {
    "id": "_cCeqwBZ4J0",
@@ -17436,7 +17612,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "e478742c893d8d2e"
+   "asset": "e478742c893d8d2e",
+   "uploadDate": "2018-04-04"
   },
   {
    "id": "2_UkRy2fOQw",
@@ -17456,7 +17633,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2c7e5a2aef7e11e4"
+   "asset": "2c7e5a2aef7e11e4",
+   "uploadDate": "2018-03-16"
   },
   {
    "id": "bUE0UERDYMM",
@@ -17476,7 +17654,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "a4ac52c04be37175"
+   "asset": "a4ac52c04be37175",
+   "uploadDate": "2017-12-21"
   },
   {
    "id": "rZ2KYmNEqw4",
@@ -17496,7 +17675,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "4e1ec0a64d2e275b"
+   "asset": "4e1ec0a64d2e275b",
+   "uploadDate": "2023-03-08"
   },
   {
    "id": "kdBhr7ock2k",
@@ -17516,7 +17696,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "df495490a489ff87"
+   "asset": "df495490a489ff87",
+   "uploadDate": "2023-04-19"
   },
   {
    "id": "Yolag2Vh-7k",
@@ -17536,7 +17717,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "494921d32d54d47a"
+   "asset": "494921d32d54d47a",
+   "uploadDate": "2023-04-12"
   },
   {
    "id": "_LyUckxlhAo",
@@ -17556,7 +17738,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "1d9767a655b829df"
+   "asset": "1d9767a655b829df",
+   "uploadDate": "2023-03-05"
   },
   {
    "id": "ID3qJ-zoXh4",
@@ -17576,7 +17759,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "f8da32335fe100ea"
+   "asset": "f8da32335fe100ea",
+   "uploadDate": "2023-04-20"
   },
   {
    "id": "2YS9y8jsdmQ",
@@ -17597,7 +17781,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "0758c94b17eafd0f"
+   "asset": "0758c94b17eafd0f",
+   "uploadDate": "2024-11-30"
   },
   {
    "id": "boRc5-hnsMg",
@@ -17615,7 +17800,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "149e4570c7087b6e"
+   "asset": "149e4570c7087b6e",
+   "uploadDate": "2020-12-27"
   },
   {
    "id": "eBFFewdNJWM",
@@ -17633,7 +17819,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "e65b2a31bbd311c7"
+   "asset": "e65b2a31bbd311c7",
+   "uploadDate": "2019-02-19"
   },
   {
    "id": "GF7l8BRFRh4",
@@ -17651,7 +17838,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "47de655589794c30"
+   "asset": "47de655589794c30",
+   "uploadDate": "2020-06-10"
   },
   {
    "id": "yi86HdzfGjk",
@@ -17669,7 +17857,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "09b3a4ae7b5a1c8c"
+   "asset": "09b3a4ae7b5a1c8c",
+   "uploadDate": "2020-06-21"
   },
   {
    "id": "dAKVfOzqyKY",
@@ -17690,7 +17879,9 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "ce751407e383a957"
+   "asset": "ce751407e383a957",
+   "uploadDate": "2025-04-27",
+   "contentDate": "2025-04-26"
   },
   {
    "id": "7Pppy7NLDl4",
@@ -17711,7 +17902,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "ea3dfcab6a905836"
+   "asset": "ea3dfcab6a905836",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "Azla2mQbVsM",
@@ -17732,7 +17924,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "cc14536938c0853e"
+   "asset": "cc14536938c0853e",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "sjxrg7zV0Z8",
@@ -17753,7 +17946,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "578b5f76edbdc8ea"
+   "asset": "578b5f76edbdc8ea",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "g3Q5cflEb1w",
@@ -17774,7 +17968,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "ab7e17db5f748af2"
+   "asset": "ab7e17db5f748af2",
+   "uploadDate": "2025-04-28"
   },
   {
    "id": "F1t-a8s_KFk",
@@ -17795,7 +17990,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "e8fd589ebdfc1962"
+   "asset": "e8fd589ebdfc1962",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "h56RzZv3WBg",
@@ -17816,7 +18012,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "93bd9220f17c5011"
+   "asset": "93bd9220f17c5011",
+   "uploadDate": "2024-04-16"
   },
   {
    "id": "w9GeneGePig",
@@ -17837,7 +18034,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "296b6107ed510b9a"
+   "asset": "296b6107ed510b9a",
+   "uploadDate": "2024-04-07"
   },
   {
    "id": "pUa4IpJkhhY",
@@ -17858,7 +18056,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1e17f7be80324d2c"
+   "asset": "1e17f7be80324d2c",
+   "uploadDate": "2024-04-07"
   },
   {
    "id": "Lw3wJWc6dF4",
@@ -17879,7 +18078,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "c666d657a6367805"
+   "asset": "c666d657a6367805",
+   "uploadDate": "2024-03-12"
   },
   {
    "id": "2I5VWOQ8Nfk",
@@ -17897,7 +18097,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "0e5bd00b9187b5a6"
+   "asset": "0e5bd00b9187b5a6",
+   "uploadDate": "2023-12-01"
   },
   {
    "id": "Sf9TNXynoPw",
@@ -17918,7 +18119,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7413a7ca2c45f908"
+   "asset": "7413a7ca2c45f908",
+   "uploadDate": "2025-09-05"
   },
   {
    "id": "O_ak89qKSyM",
@@ -17939,7 +18141,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "d7afdad319564112"
+   "asset": "d7afdad319564112",
+   "uploadDate": "2025-09-02"
   },
   {
    "id": "5nguS_2JsXI",
@@ -17960,7 +18163,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "4d6f102ebb6b70f4"
+   "asset": "4d6f102ebb6b70f4",
+   "uploadDate": "2021-03-30"
   },
   {
    "id": "fqUcGg5xT4c",
@@ -17982,7 +18186,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "217ec5973e8e6242"
+   "asset": "217ec5973e8e6242",
+   "uploadDate": "2021-06-19"
   },
   {
    "id": "BLR72K5lvms",
@@ -18003,7 +18208,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "13a52a751a1d6d55"
+   "asset": "13a52a751a1d6d55",
+   "uploadDate": "2019-11-15"
   },
   {
    "id": "8cO4fKsS01o",
@@ -18024,7 +18230,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "5874e54347b39398"
+   "asset": "5874e54347b39398",
+   "uploadDate": "2019-11-07"
   },
   {
    "id": "I4PP0wUqiJQ",
@@ -18045,7 +18252,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "354ff707a0949523"
+   "asset": "354ff707a0949523",
+   "uploadDate": "2020-03-27"
   },
   {
    "id": "DJT4IpjD1Kk",
@@ -18063,7 +18271,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "fedaaa6956caf42f"
+   "asset": "fedaaa6956caf42f",
+   "uploadDate": "2020-07-20"
   },
   {
    "id": "usrWktwD9oI",
@@ -18081,7 +18290,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "eff11bbdf31a4941"
+   "asset": "eff11bbdf31a4941",
+   "uploadDate": "2020-05-10"
   },
   {
    "id": "lLonV9TewBQ",
@@ -18099,7 +18309,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "be8c882568e46c83"
+   "asset": "be8c882568e46c83",
+   "uploadDate": "2019-04-23"
   },
   {
    "id": "jkMwyyx94uM",
@@ -18117,7 +18328,8 @@ window.ARCHIVE = {
    "years": [],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "79ba292986577638"
+   "asset": "79ba292986577638",
+   "uploadDate": "2016-07-12"
   },
   {
    "id": "85s5o1uEViI",
@@ -18137,7 +18349,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "64a236eed6493603"
+   "asset": "64a236eed6493603",
+   "uploadDate": "2024-04-08"
   },
   {
    "id": "WQ3A8Sg6VsA",
@@ -18157,7 +18370,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "8f8d4a0d75afe0e0"
+   "asset": "8f8d4a0d75afe0e0",
+   "uploadDate": "2024-03-14"
   },
   {
    "id": "13i8Pn8u9nA",
@@ -18177,7 +18391,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "eb3a0d960a12bbef"
+   "asset": "eb3a0d960a12bbef",
+   "uploadDate": "2024-04-06"
   },
   {
    "id": "ZHlwiMQSyzY",
@@ -18197,7 +18412,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "493a58e6d444c36b"
+   "asset": "493a58e6d444c36b",
+   "uploadDate": "2024-03-08"
   },
   {
    "id": "2kibUUITmvU",
@@ -18217,7 +18433,9 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "29834cad4135a7bc"
+   "asset": "29834cad4135a7bc",
+   "uploadDate": "2024-03-09",
+   "contentDate": "2024-03-08"
   },
   {
    "id": "dqU2e4FTdS8",
@@ -18237,7 +18455,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "d8f9808a24b3935f"
+   "asset": "d8f9808a24b3935f",
+   "uploadDate": "2024-03-11"
   },
   {
    "id": "Dfj3wDzTh84",
@@ -18257,7 +18476,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "814e427ed8a93380"
+   "asset": "814e427ed8a93380",
+   "uploadDate": "2024-03-09"
   },
   {
    "id": "l2iD6-jBkvY",
@@ -18277,7 +18497,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "4eae7adbea247b6c"
+   "asset": "4eae7adbea247b6c",
+   "uploadDate": "2024-03-08"
   },
   {
    "id": "WodsnL6O_hY",
@@ -18297,7 +18518,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "3d5e003745fce9ac"
+   "asset": "3d5e003745fce9ac",
+   "uploadDate": "2024-03-19"
   },
   {
    "id": "favz9_CZYYY",
@@ -18317,7 +18539,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "7f372aa176c12e58"
+   "asset": "7f372aa176c12e58",
+   "uploadDate": "2024-01-30"
   },
   {
    "id": "MBGoy56Zzuk",
@@ -18338,7 +18561,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "e7bfdd5095161870"
+   "asset": "e7bfdd5095161870",
+   "uploadDate": "2021-06-14"
   },
   {
    "id": "bqZBXtNTkFg",
@@ -18359,7 +18583,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "dc5aa9e196ffc8d3"
+   "asset": "dc5aa9e196ffc8d3",
+   "uploadDate": "2021-06-21"
   },
   {
    "id": "C1EF-8m-Uv8",
@@ -18380,7 +18605,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "3eb397d40aff892c"
+   "asset": "3eb397d40aff892c",
+   "uploadDate": "2018-01-21"
   },
   {
    "id": "0pJZ3x7jw8Q",
@@ -18401,7 +18627,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "946f491f0bfa4227"
+   "asset": "946f491f0bfa4227",
+   "uploadDate": "2021-07-29"
   },
   {
    "id": "yV4PTvO8lTA",
@@ -18422,7 +18649,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2426b0fdf36d4458"
+   "asset": "2426b0fdf36d4458",
+   "uploadDate": "2018-01-26"
   },
   {
    "id": "q_IReA4lDkY",
@@ -18443,7 +18671,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "dd5e01921ffec965"
+   "asset": "dd5e01921ffec965",
+   "uploadDate": "2021-04-21"
   },
   {
    "id": "yY52NXSwpU0",
@@ -18464,7 +18693,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "a0801a1a3c28aa29"
+   "asset": "a0801a1a3c28aa29",
+   "uploadDate": "2021-06-14"
   },
   {
    "id": "mjhSOLUhhyI",
@@ -18485,7 +18715,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "d723bd202d86f7fd"
+   "asset": "d723bd202d86f7fd",
+   "uploadDate": "2021-04-21"
   },
   {
    "id": "d4UKEZfbJD0",
@@ -18506,7 +18737,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "cd63adb0c70d466a"
+   "asset": "cd63adb0c70d466a",
+   "uploadDate": "2018-01-09"
   },
   {
    "id": "rR34goiMhjo",
@@ -18527,7 +18759,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "51bd56786e1bf5ef"
+   "asset": "51bd56786e1bf5ef",
+   "uploadDate": "2017-09-01"
   },
   {
    "id": "lcDb84xA_wA",
@@ -18548,7 +18781,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "9cede3b58f67c9ab"
+   "asset": "9cede3b58f67c9ab",
+   "uploadDate": "2017-09-01"
   },
   {
    "id": "sqVyw5kHGEc",
@@ -18568,7 +18802,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "31566dccb86fd43b"
+   "asset": "31566dccb86fd43b",
+   "uploadDate": "2020-08-31"
   },
   {
    "id": "OrwkEc0-OGY",
@@ -18588,7 +18823,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "3c5842585478a748"
+   "asset": "3c5842585478a748",
+   "uploadDate": "2020-08-03"
   },
   {
    "id": "OwFaf1tPoK8",
@@ -18608,7 +18844,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "88d56cedbf27c4bf"
+   "asset": "88d56cedbf27c4bf",
+   "uploadDate": "2020-07-23"
   },
   {
    "id": "XecXdK4kckA",
@@ -18628,7 +18865,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "6f5bb57aee2b5b35"
+   "asset": "6f5bb57aee2b5b35",
+   "uploadDate": "2020-07-03"
   },
   {
    "id": "r9scF0DUSjg",
@@ -18648,7 +18886,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "15d43bceb57b4c1e"
+   "asset": "15d43bceb57b4c1e",
+   "uploadDate": "2020-08-05"
   },
   {
    "id": "VK4nL2Lbyws",
@@ -18668,7 +18907,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "bdf4f6c4bfae2613"
+   "asset": "bdf4f6c4bfae2613",
+   "uploadDate": "2020-04-17"
   },
   {
    "id": "Bn2B2LCRTf0",
@@ -18688,7 +18928,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "f09938156ad04047"
+   "asset": "f09938156ad04047",
+   "uploadDate": "2020-04-17"
   },
   {
    "id": "xgpO3PQKDm8",
@@ -18708,7 +18949,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "d865b2153f681813"
+   "asset": "d865b2153f681813",
+   "uploadDate": "2020-04-21"
   },
   {
    "id": "PjkNFfH23t4",
@@ -18728,7 +18970,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "c0ac5560c4c5950d"
+   "asset": "c0ac5560c4c5950d",
+   "uploadDate": "2020-04-22"
   },
   {
    "id": "OhC8U4M8ynA",
@@ -18748,7 +18991,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "af9ca0266c35d06d"
+   "asset": "af9ca0266c35d06d",
+   "uploadDate": "2020-04-17"
   },
   {
    "id": "YMrNaUqcBTM",
@@ -18768,7 +19012,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "19f6bfd63518c157"
+   "asset": "19f6bfd63518c157",
+   "uploadDate": "2020-06-22"
   },
   {
    "id": "_ogn-9b671g",
@@ -18788,7 +19033,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "3141dae08b62bb38"
+   "asset": "3141dae08b62bb38",
+   "uploadDate": "2020-07-05"
   },
   {
    "id": "htZ3x3DbpJ0",
@@ -18808,7 +19054,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "18a325f742755a23"
+   "asset": "18a325f742755a23",
+   "uploadDate": "2020-07-11"
   },
   {
    "id": "RpTCJrvDKBk",
@@ -18828,7 +19075,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "b9117e5f46c45e6e"
+   "asset": "b9117e5f46c45e6e",
+   "uploadDate": "2020-07-22"
   },
   {
    "id": "4fmsdpSB9Mk",
@@ -18848,7 +19096,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "300dc8d47ad24ccd"
+   "asset": "300dc8d47ad24ccd",
+   "uploadDate": "2021-02-14"
   },
   {
    "id": "V3aI8e-YCmE",
@@ -18868,7 +19117,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "0b04e5f6936a7926"
+   "asset": "0b04e5f6936a7926",
+   "uploadDate": "2020-09-20"
   },
   {
    "id": "8tLMXMPLLug",
@@ -18888,7 +19138,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "1d7e22acd477e1ca"
+   "asset": "1d7e22acd477e1ca",
+   "uploadDate": "2019-11-03"
   },
   {
    "id": "ZXO1rYmbMrM",
@@ -18908,7 +19159,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "eba6e51237b5bacc"
+   "asset": "eba6e51237b5bacc",
+   "uploadDate": "2019-11-06"
   },
   {
    "id": "TtEXbCdmE3g",
@@ -18928,7 +19180,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "eea2b42d220ff5df"
+   "asset": "eea2b42d220ff5df",
+   "uploadDate": "2019-11-27"
   },
   {
    "id": "-hu_xeW4WAA",
@@ -18948,7 +19201,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "15503a330266ad52"
+   "asset": "15503a330266ad52",
+   "uploadDate": "2019-04-26"
   },
   {
    "id": "HVhVRL0I5uM",
@@ -18968,7 +19222,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "fa00b38a2b16ae8d"
+   "asset": "fa00b38a2b16ae8d",
+   "uploadDate": "2019-11-04"
   },
   {
    "id": "Y3oGKZk9_Ew",
@@ -18988,7 +19243,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "18978f909f1b4f1e"
+   "asset": "18978f909f1b4f1e",
+   "uploadDate": "2019-10-31"
   },
   {
    "id": "sQzy8Om6hsI",
@@ -19008,7 +19264,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7737f86563ece54a"
+   "asset": "7737f86563ece54a",
+   "uploadDate": "2019-10-28"
   },
   {
    "id": "RxXPVtx6y2M",
@@ -19028,7 +19285,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "39dd1da52b841a00"
+   "asset": "39dd1da52b841a00",
+   "uploadDate": "2019-11-04"
   },
   {
    "id": "VR195NfgMT8",
@@ -19048,7 +19306,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "3cff954e66f968fa"
+   "asset": "3cff954e66f968fa",
+   "uploadDate": "2019-11-05"
   },
   {
    "id": "zjS1Rr880jk",
@@ -19068,7 +19327,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "82cb624c278f5e07"
+   "asset": "82cb624c278f5e07",
+   "uploadDate": "2025-09-05"
   },
   {
    "id": "KP7ZZAbnfB4",
@@ -19088,7 +19348,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "8ae191f308d6e779"
+   "asset": "8ae191f308d6e779",
+   "uploadDate": "2025-09-05"
   },
   {
    "id": "IAnrMU1vZ70",
@@ -19108,7 +19369,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "885cbd3390a9d0de"
+   "asset": "885cbd3390a9d0de",
+   "uploadDate": "2025-09-05"
   },
   {
    "id": "kBqu1i5IZ6g",
@@ -19128,7 +19390,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "2c7f933b208e27d7"
+   "asset": "2c7f933b208e27d7",
+   "uploadDate": "2025-09-05"
   },
   {
    "id": "Rwytj8Y3kSU",
@@ -19148,7 +19411,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7bee8b3825c3bb05"
+   "asset": "7bee8b3825c3bb05",
+   "uploadDate": "2025-09-05"
   },
   {
    "id": "BK-ynxRzEBI",
@@ -19168,7 +19432,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "8e05b7beb97527a4"
+   "asset": "8e05b7beb97527a4",
+   "uploadDate": "2025-09-05"
   },
   {
    "id": "eGVdsx8FbyI",
@@ -19188,7 +19453,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "3031e98c727f6bc4"
+   "asset": "3031e98c727f6bc4",
+   "uploadDate": "2025-06-29"
   },
   {
    "id": "rBB-3WZu0sk",
@@ -19208,7 +19474,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "cadf3ed39a07f31b"
+   "asset": "cadf3ed39a07f31b",
+   "uploadDate": "2025-07-06"
   },
   {
    "id": "yonEpRL7md0",
@@ -19228,7 +19495,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "36bc7341450fd9bc"
+   "asset": "36bc7341450fd9bc",
+   "uploadDate": "2025-08-05"
   },
   {
    "id": "XA5QxtKjl0s",
@@ -19248,7 +19516,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "99d62834ad78fd16"
+   "asset": "99d62834ad78fd16",
+   "uploadDate": "2025-09-04"
   },
   {
    "id": "J65ZPqa1GzE",
@@ -19268,7 +19537,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "5938811f2a0fc6d9"
+   "asset": "5938811f2a0fc6d9",
+   "uploadDate": "2025-06-16"
   },
   {
    "id": "wY43ruqzhi0",
@@ -19288,7 +19558,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "3492166cf2b4fc04"
+   "asset": "3492166cf2b4fc04",
+   "uploadDate": "2025-09-05"
   },
   {
    "id": "g5KEMvvVFrs",
@@ -19308,7 +19579,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "cc7d85932022418f"
+   "asset": "cc7d85932022418f",
+   "uploadDate": "2025-06-16"
   },
   {
    "id": "YHYHYSww42M",
@@ -19328,7 +19600,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7a4c617483f667e1"
+   "asset": "7a4c617483f667e1",
+   "uploadDate": "2025-06-17"
   },
   {
    "id": "GeVk3Df0gUE",
@@ -19348,7 +19621,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "a0099c9bd965b550"
+   "asset": "a0099c9bd965b550",
+   "uploadDate": "2025-05-12"
   },
   {
    "id": "wAjbAMzdDGA",
@@ -19368,7 +19642,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "328335ff12802432"
+   "asset": "328335ff12802432",
+   "uploadDate": "2025-04-06"
   },
   {
    "id": "p2EmeE3Yu9U",
@@ -19388,7 +19663,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "d0689272b1813273"
+   "asset": "d0689272b1813273",
+   "uploadDate": "2025-05-03"
   },
   {
    "id": "neOfbzwQiVU",
@@ -19408,7 +19684,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "3669d60126a7d9e4"
+   "asset": "3669d60126a7d9e4",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "yRfVJQOx9gE",
@@ -19428,7 +19705,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "68bf4831eb5553e5"
+   "asset": "68bf4831eb5553e5",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "2yoFurjbCX4",
@@ -19448,7 +19726,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "410ca6abd6207924"
+   "asset": "410ca6abd6207924",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "VRjJfRzCLVg",
@@ -19468,7 +19747,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "b37333c76aee4127"
+   "asset": "b37333c76aee4127",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "r-rbcb4ltTk",
@@ -19488,7 +19768,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "ddf768643d329048"
+   "asset": "ddf768643d329048",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "KODtsBuEHQA",
@@ -19508,7 +19789,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "65d45b9bf9fbd8c8"
+   "asset": "65d45b9bf9fbd8c8",
+   "uploadDate": "2024-09-17"
   },
   {
    "id": "vLuunHOJ1xY",
@@ -19528,7 +19810,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "fb3240a7f6a4e969"
+   "asset": "fb3240a7f6a4e969",
+   "uploadDate": "2025-04-28"
   },
   {
    "id": "yEqqNFXlDFE",
@@ -19548,7 +19831,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "c9a158172207ac17"
+   "asset": "c9a158172207ac17",
+   "uploadDate": "2025-04-29"
   },
   {
    "id": "wkCCKjUPOss",
@@ -19568,7 +19852,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "cbaf9ef34bb32651"
+   "asset": "cbaf9ef34bb32651",
+   "uploadDate": "2025-04-27"
   },
   {
    "id": "zxJbIxqUQQA",
@@ -19588,7 +19873,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "5cc64bff5c53c7a6"
+   "asset": "5cc64bff5c53c7a6",
+   "uploadDate": "2021-04-03"
   },
   {
    "id": "wMqGzjDZ2vw",
@@ -19608,7 +19894,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "7af7f7a016f459e1"
+   "asset": "7af7f7a016f459e1",
+   "uploadDate": "2021-04-09"
   },
   {
    "id": "NpLizyJ5tQs",
@@ -19628,7 +19915,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "058649c4aeb8a509"
+   "asset": "058649c4aeb8a509",
+   "uploadDate": "2021-03-28"
   },
   {
    "id": "kuit-UDofRY",
@@ -19648,7 +19936,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "86fae1c0e71cc8d7"
+   "asset": "86fae1c0e71cc8d7",
+   "uploadDate": "2021-03-29"
   },
   {
    "id": "_c8AasL0QZ8",
@@ -19668,7 +19957,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "1f207a058927434e"
+   "asset": "1f207a058927434e",
+   "uploadDate": "2021-04-01"
   },
   {
    "id": "qUoDQ6pE3O0",
@@ -19688,7 +19978,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "22064d797d1d5c28"
+   "asset": "22064d797d1d5c28",
+   "uploadDate": "2021-04-02"
   },
   {
    "id": "8Xv1rnigvkU",
@@ -19708,7 +19999,8 @@ window.ARCHIVE = {
    ],
    "rel": "作品片单关联",
    "platform": "YouTube",
-   "asset": "b2388bd2017a1f2f"
+   "asset": "b2388bd2017a1f2f",
+   "uploadDate": "2021-10-31"
   },
   {
    "id": "6qpsEkIIY0U",
@@ -19728,7 +20020,8 @@ window.ARCHIVE = {
    ],
    "rel": "标题提及东启介",
    "platform": "YouTube",
-   "asset": "e5dffbc1c1c37ee0"
+   "asset": "e5dffbc1c1c37ee0",
+   "uploadDate": "2021-03-10"
   },
   {
    "id": "gKa8yBXfzcE",
@@ -19745,7 +20038,8 @@ window.ARCHIVE = {
    "platform": "YouTube",
    "rel": "2026.09.02专访原文内嵌视频",
    "source": "https://www.animatetimes.com/news/details.php?id=1788235894",
-   "asset": "a6aa5ae10c7e4895"
+   "asset": "a6aa5ae10c7e4895",
+   "uploadDate": "2026-08-26"
   },
   {
    "id": "BV1vgtG6wES9",
@@ -19971,7 +20265,8 @@ window.ARCHIVE = {
     "2016"
    ],
    "rel": "对应作品官网列出",
-   "asset": ""
+   "asset": "",
+   "uploadDate": "2015-12-12"
   },
   {
    "id": "ttLGGm7WKMM",
@@ -19990,7 +20285,8 @@ window.ARCHIVE = {
     "2017"
    ],
    "rel": "对应作品官网列出",
-   "asset": ""
+   "asset": "",
+   "uploadDate": "2017-04-05"
   },
   {
    "id": "SFJZONd-R7s",
@@ -20351,7 +20647,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1Mjxj6oEFJ/",
    "uploadDate": "2026-10-28",
    "dateLabel": "2026.10.28 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2026-10-25"
   },
   {
    "id": "BV12CWj6nEvw",
@@ -20433,7 +20730,7 @@ window.ARCHIVE = {
    "id": "BV1VfHC6uEDk",
    "title": "华武利个人cut｜TV合集",
    "channel": "誰もいない-",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "转载",
    "years": [
     "2026"
@@ -20465,7 +20762,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1aA411T7ww/",
    "uploadDate": "2021-03-11",
    "dateLabel": "2021.03.11 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2021-02-22"
   },
   {
    "id": "BV13b411L7Bk",
@@ -20503,7 +20801,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1Ub411c7BK/",
    "uploadDate": "2018-11-09",
    "dateLabel": "2018.11.09 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2018-11-08"
   },
   {
    "id": "BV1ex411i7T9",
@@ -20550,7 +20849,7 @@ window.ARCHIVE = {
    "type": "SNS／直播",
    "sourceType": "字幕搬运",
    "years": [
-    "2026"
+    "2021"
    ],
    "url": "https://www.bilibili.com/video/BV1zmkuB8ETB/",
    "thumbnail": "https://i1.hdslb.com/bfs/archive/3316b941c8f852b559f9cfaf656c378ec84a13a9.jpg",
@@ -20560,7 +20859,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1zmkuB8ETB/",
    "uploadDate": "2026-01-19",
    "dateLabel": "2026.01.19 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2021-06-09"
   },
   {
    "id": "BV1DA411s7wY",
@@ -21934,7 +22234,7 @@ window.ARCHIVE = {
    "id": "BV1vfrTBnEQs",
    "title": "平间壮一&东启介Cut 倒计时音乐会之泽西男孩",
    "channel": "十二烷烃",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "转载",
    "years": [
     "2026"
@@ -22063,7 +22363,7 @@ window.ARCHIVE = {
    "type": "演出／歌唱",
    "sourceType": "转载",
    "years": [
-    "2024"
+    "2023"
    ],
    "url": "https://www.bilibili.com/video/BV1fp4y1R7DJ/",
    "thumbnail": "https://i1.hdslb.com/bfs/archive/f6538e13a2b3cca37b0e9a6f4b86ed6fef09deac.jpg",
@@ -22075,7 +22375,8 @@ window.ARCHIVE = {
    "dateLabel": "2024.01.02 B站上传",
    "asset": "",
    "duration": "",
-   "available": true
+   "available": true,
+   "contentDate": "2023-12-31"
   },
   {
    "id": "BV169Ny6kE4V",
@@ -22480,7 +22781,7 @@ window.ARCHIVE = {
    "id": "BV1Yjuh6NEEk",
    "title": "【假面骑士麦斯】岭高华武利个人cut",
    "channel": "岭高华武利official",
-   "type": "幕后／拍摄",
+   "type": "剧集cut",
    "sourceType": "转载",
    "years": [
     "2026"
@@ -23509,7 +23810,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1Hb41127Wc/",
    "uploadDate": "2019-02-15",
    "dateLabel": "2019.02.15 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2019-02-14"
   },
   {
    "id": "BV1ib411U7KF",
@@ -23528,7 +23830,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1ib411U7KF/",
    "uploadDate": "2019-02-13",
    "dateLabel": "2019.02.13 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2019-02-07"
   },
   {
    "id": "BV18x411E7qC",
@@ -23737,7 +24040,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1SGxj6bEro/",
    "uploadDate": "2026-10-28",
    "dateLabel": "2026.10.28 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2026-10-25"
   },
   {
    "id": "BV1UVxj6ZEoZ",
@@ -23756,7 +24060,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1UVxj6ZEoZ/",
    "uploadDate": "2026-10-28",
    "dateLabel": "2026.10.28 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2026-10-25"
   },
   {
    "id": "BV1gmHg6qEDH",
@@ -23933,7 +24238,7 @@ window.ARCHIVE = {
    "id": "BV1GwrSB8EAt",
    "title": "田代万里生&东启介Cut 这个选段的每个卡司表现的都很不错",
    "channel": "十二烷烃",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "B站搬运",
    "years": [
     "2026"
@@ -23952,7 +24257,7 @@ window.ARCHIVE = {
    "id": "BV1GcrSBcEgN",
    "title": "田代万里生&东启介Cut 阿尔曼中尉啊，前线失守了，远东失守了，诺曼底登陆了，你是同盟军了。",
    "channel": "十二烷烃",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "B站搬运",
    "years": [
     "2026"
@@ -23971,7 +24276,7 @@ window.ARCHIVE = {
    "id": "BV13G2RBdESD",
    "title": "甲斐翔真Cut 东启介你抱过帕拉德也抱过永梦 我到底该羡慕你们三个人里的哪个 把燃冬过好吧",
    "channel": "十二烷烃",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "B站搬运",
    "years": [
     "2025"
@@ -23990,7 +24295,7 @@ window.ARCHIVE = {
    "id": "BV1uP411572a",
    "title": "9月深夜剧  东启介cut/相关",
    "channel": "KKRooo",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "B站搬运",
    "years": [
     "2022"
@@ -24028,7 +24333,7 @@ window.ARCHIVE = {
    "id": "BV13X4y1V7Tp",
    "title": "魔幻剧 我女儿怎么可能没人追 1080p无字 东启介cut 07",
    "channel": "KKRooo",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "B站搬运",
    "years": [
     "2021"
@@ -24066,7 +24371,7 @@ window.ARCHIVE = {
    "id": "BV1mK4y1n7Di",
    "title": "魔幻剧 我女儿怎么可能没人追 1080p无字 东启介cut 06",
    "channel": "KKRooo",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "B站搬运",
    "years": [
     "2021"
@@ -24085,7 +24390,7 @@ window.ARCHIVE = {
    "id": "BV1VK4y1n7bD",
    "title": "魔幻剧 我女儿怎么可能没人追 1080p无字 东启介cut 04",
    "channel": "KKRooo",
-   "type": "舞台／剧集",
+   "type": "剧集cut",
    "sourceType": "B站搬运",
    "years": [
     "2021"
@@ -24117,7 +24422,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1ab411v7k9/",
    "uploadDate": "2019-03-08",
    "dateLabel": "2019.03.08 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2019-03-07"
   },
   {
    "id": "BV11b411c796",
@@ -24136,7 +24442,8 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV11b411c796/",
    "uploadDate": "2018-11-09",
    "dateLabel": "2018.11.09 B站上传",
-   "asset": ""
+   "asset": "",
+   "contentDate": "2018-11-07"
   },
   {
    "id": "BV1TQ4y1T7TK",
@@ -25675,6 +25982,261 @@ window.ARCHIVE = {
    "source": "https://www.youtube.com/watch?v=1GWWzPtC5i0",
    "uploadDate": "2019-04-18",
    "dateLabel": "2019 公开",
+   "asset": ""
+  },
+  {
+   "id": "BV1yx411X778",
+   "title": "【中村雅俊45th アニバーサリー公演】撮影風景",
+   "channel": "4xx___",
+   "type": "幕后／拍摄",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1yx411X778/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/67fd34a3ff657ba898f35cf779eb0b11a8c93e90.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1yx411X778/",
+   "uploadDate": "2019-07-02",
+   "dateLabel": "2019.07.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ix411X7uJ",
+   "title": "【東啓介】2019.7.1 ins直播",
+   "channel": "4xx___",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ix411X7uJ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/9d0da2afc9ebe3b80f2496b7a3872b97fa0b5b3a.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1ix411X7uJ/",
+   "uploadDate": "2019-07-01",
+   "dateLabel": "2019.07.01 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV16b411L7zs",
+   "title": "【東啓介】2019.4.14 INS直播",
+   "channel": "4xx___",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV16b411L7zs/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/9f4c59191ecae513cc650a00fd8dea02c20835cf.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV16b411L7zs/",
+   "uploadDate": "2019-04-14",
+   "dateLabel": "2019.04.14 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ib411L75Q",
+   "title": "【東啓介】2019.4.11 ins直播",
+   "channel": "4xx___",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ib411L75Q/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/25a346be299cc9e671d06e82bcea8d080fd67b7c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1ib411L75Q/",
+   "uploadDate": "2019-04-14",
+   "dateLabel": "2019.04.14 B站上传",
+   "asset": "",
+   "contentDate": "2019-04-11"
+  },
+  {
+   "id": "BV1Yb411v7uu",
+   "title": "【東啓介】2019.3.4 ins搬运",
+   "channel": "4xx___",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Yb411v7uu/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/a410989b14e32ada3ef8acc4b60e933c1e7d31f5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1Yb411v7uu/",
+   "uploadDate": "2019-03-08",
+   "dateLabel": "2019.03.08 B站上传",
+   "asset": "",
+   "contentDate": "2019-03-04"
+  },
+  {
+   "id": "BV1Yb411v78P",
+   "title": "【東啓介】2019.3.3 ins搬运",
+   "channel": "4xx___",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Yb411v78P/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/c2031563729c6056228e9d80b001b1d6a1073bdc.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1Yb411v78P/",
+   "uploadDate": "2019-03-08",
+   "dateLabel": "2019.03.08 B站上传",
+   "asset": "",
+   "contentDate": "2019-03-03"
+  },
+  {
+   "id": "BV1Yb411v7W1",
+   "title": "【東啓介】2019.3.1的近况汇报",
+   "channel": "4xx___",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Yb411v7W1/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/fa952a3e63eb79585756757f957b66e3aaaf5eb5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1Yb411v7W1/",
+   "uploadDate": "2019-03-08",
+   "dateLabel": "2019.03.08 B站上传",
+   "asset": "",
+   "contentDate": "2019-03-01"
+  },
+  {
+   "id": "BV1co4y1Z7SG",
+   "title": "东启介 2021.01.24 Ins直播",
+   "channel": "TNT那位别再用我号了",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1co4y1Z7SG/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/6dfd7b9309cf3cc42bd4c0b02ddcb8d3ff9776eb.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1co4y1Z7SG/",
+   "uploadDate": "2021-01-24",
+   "dateLabel": "2021.01.24 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV12y4y127LS",
+   "title": "东启介 2021.01.08 Ins直播",
+   "channel": "TNT那位别再用我号了",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV12y4y127LS/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/166f05ba0f29bf8d07d399b4dbb21b4ac5e740ad.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV12y4y127LS/",
+   "uploadDate": "2021-01-09",
+   "dateLabel": "2021.01.09 B站上传",
+   "asset": "",
+   "contentDate": "2021-01-08"
+  },
+  {
+   "id": "BV14v41147Bj",
+   "title": "东启介 2020.12.19 ザテレビジョンSQUARE 生放送录屏",
+   "channel": "TNT那位别再用我号了",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV14v41147Bj/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/b0c0dc422ae40a039324af9d9113accfaf6162e7.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV14v41147Bj/",
+   "uploadDate": "2020-12-21",
+   "dateLabel": "2020.12.21 B站上传",
+   "asset": "",
+   "contentDate": "2020-12-19"
+  },
+  {
+   "id": "BV1Lv411b7vT",
+   "title": "东启介 2020.12.09 Ins直播",
+   "channel": "TNT那位别再用我号了",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Lv411b7vT/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/82681f35bd72db00a4c14f47a23b4d5c400b5cf1.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1Lv411b7vT/",
+   "uploadDate": "2020-12-10",
+   "dateLabel": "2020.12.10 B站上传",
+   "asset": "",
+   "contentDate": "2020-12-09"
+  },
+  {
+   "id": "BV1yA411j79D",
+   "title": "东启介 2020.11.20 ザテレビジョンSQUARE 生放送录屏",
+   "channel": "TNT那位别再用我号了",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1yA411j79D/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/0ef9ddc39a61ae7d9f9c92351803d7c6619e74fc.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1yA411j79D/",
+   "uploadDate": "2020-11-21",
+   "dateLabel": "2020.11.21 B站上传",
+   "asset": "",
+   "contentDate": "2020-11-20"
+  },
+  {
+   "id": "BV1YK4y177iD",
+   "title": "东启介 2020.10.24 Ins直播",
+   "channel": "TNT那位别再用我号了",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1YK4y177iD/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/32d0176c86e7015cb969bc68308f3a40ddc6e3ae.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约2小时直播录像。",
+   "source": "https://www.bilibili.com/video/BV1YK4y177iD/",
+   "uploadDate": "2020-10-24",
+   "dateLabel": "2020.10.24 B站上传",
    "asset": ""
   }
  ],
