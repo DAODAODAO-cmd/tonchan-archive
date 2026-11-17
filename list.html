@@ -141,7 +141,7 @@ function tlrow(e){const im=e.images&&e.images[0];return '<li id="'+esc(e.id)+'">
 function grouped(list,render,asc,wrapCls){const ys={};list.forEach(x=>{const y=(x._d||'').slice(0,4)||'—';(ys[y]=ys[y]||[]).push(x)});const keys=Object.keys(ys).sort((a,b)=>asc?a.localeCompare(b):b.localeCompare(a));
   $('years').innerHTML=keys.map(y=>'<a href="#y'+y+'">'+y+'</a>').join('');
   return keys.map(y=>'<section id="y'+y+'"><div class="year"><h2>'+y+'</h2><span>'+ys[y].length+' 条</span></div>'+(wrapCls==='tl'?'<ul class="tl">'+ys[y].map(render).join('')+'</ul>':'<div class="'+wrapCls+'">'+ys[y].map(render).join('')+'</div>')+'</section>').join('')}
-const VT={'全部':null,'舞台·演出':['舞台／剧集','演出／歌唱'],'采访·发布会':['采访／发布会'],'节目·综艺':['节目／其他'],'幕后·花絮':['幕后／拍摄'],'预告·宣传':['预告／宣传','官网视频'],'广播':['广播／音声']};
+const VT={'全部':null,'本人歌唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访·发布会':['采访／发布会'],'节目·综艺':['节目／其他'],'幕后·花絮':['幕后／拍摄'],'预告·宣传':['预告／宣传','官网视频'],'广播':['广播／音声']};
 function draw(){let html='';$('chips').innerHTML='';$('chips2').innerHTML='';$('years').innerHTML='';
   if(g==='news'){$('desc').textContent='按时间从新到旧。';const L=H.news.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>match(n.title+n.text));html='<ul class="news">'+L.map(n=>'<li><time>'+fmt(n.date)+'</time><div><a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('')+'</ul>'}
   else if(g==='videos'){

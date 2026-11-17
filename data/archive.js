@@ -15144,7 +15144,7 @@ window.ARCHIVE = {
     "東啓介 歌"
    ],
    "sourceType": "官方／机构",
-   "type": "节目／其他",
+   "type": "本人歌唱",
    "url": "https://www.youtube.com/watch?v=GF7l8BRFRh4",
    "years": [],
    "rel": "标题提及东启介",
@@ -17969,7 +17969,7 @@ window.ARCHIVE = {
    "id": "BV13b411L7Bk",
    "title": "东启介的歌唱：录音室 vs 无修音生放送（分P）",
    "channel": "KKRooo",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2019"
@@ -18007,7 +18007,7 @@ window.ARCHIVE = {
    "id": "BV1ex411i7T9",
    "title": "【東啓介】钢琴自弹自唱三段＋纯钢琴演奏一段",
    "channel": "kazanemasaki",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2017"
@@ -19663,7 +19663,7 @@ window.ARCHIVE = {
    "id": "BV1ft4y1y7cn",
    "title": "【東啓介】弾き語り",
    "channel": "4xx___",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2020"
@@ -19684,7 +19684,7 @@ window.ARCHIVE = {
    "id": "BV19X4y1P7xx",
    "title": "【东启介】弹唱『空と青』",
    "channel": "salty_yyy俞",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2021"
@@ -20381,6 +20381,823 @@ window.ARCHIVE = {
    "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/33862660/33862660",
    "uploadDate": "2018-09-16",
    "channel": "niconico"
+  },
+  {
+   "id": "BV1frWb6gELg",
+   "title": "【杂志全译】龙首“目前”仍有很多谜团 假面骑士麦斯 东启介(岭高华武利)专访：演出赤猫“意外地普通”的部分",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1frWb6gELg/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/6c0b4aa4571e42a37593c2c7dc10ab581e13eb21.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.09上传",
+   "source": "https://www.bilibili.com/video/BV1frWb6gELg/",
+   "uploadDate": "2026-11-09",
+   "dateLabel": "2026.11.09 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1QmHG65Emz",
+   "title": "【中日字幕】用“温柔”去体现赤猫的压迫感！麦斯第8集演员博客 东启介(岭高华武利)",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1QmHG65Emz/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/1e5475810586527ee1a5576a32027c9c71338169.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.25上传",
+   "source": "https://www.bilibili.com/video/BV1QmHG65Emz/",
+   "uploadDate": "2026-10-25",
+   "dateLabel": "2026.10.25 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ABnG6tEMF",
+   "title": "【中日字幕】成熟的31岁 东启介(岭高华武利)宣传最新写真集 2027年1月8日发售【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ABnG6tEMF/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/ffb49ac47c48564a7e85dec863985ab65e7605eb.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.18上传",
+   "source": "https://www.bilibili.com/video/BV1ABnG6tEMF/",
+   "uploadDate": "2026-10-18",
+   "dateLabel": "2026.10.18 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV19Hp76hEB3",
+   "title": "【中日字幕】羊姐可爱捏 麦斯第6集幕后花絮 秋谷郁甫 堀川梨心 安宅波飒 长谷川霞 岩永丞威 东启介 铃木浩文",
+   "channel": "航海水上ライオン連合",
+   "type": "幕后／拍摄",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV19Hp76hEB3/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/2b09fc310b3bd51296960608646a06a023594131.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.11上传",
+   "source": "https://www.bilibili.com/video/BV19Hp76hEB3/",
+   "uploadDate": "2026-10-11",
+   "dateLabel": "2026.10.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1v5pP6fEEs",
+   "title": "【中日字幕】山本千寻太厉害了 东启介(岭高华武利)舞台剧《王者天下2 继承》幕后花絮 饰：庞煖【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "幕后／拍摄",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1v5pP6fEEs/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/77f02336ec39ab45238f9c4d3fc909ca3c65e554.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.06上传",
+   "source": "https://www.bilibili.com/video/BV1v5pP6fEEs/",
+   "uploadDate": "2026-10-06",
+   "dateLabel": "2026.10.06 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1iDat69EXV",
+   "title": "【中日字幕】男主男二私下关系真的很好 麦斯第4集幕后花絮 堀川梨心(优菜) 安宅波飒(狸断) 东启介(赤猫) 长谷川霞(睦羊) 铃木浩文(猿帝)",
+   "channel": "航海水上ライオン連合",
+   "type": "幕后／拍摄",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1iDat69EXV/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/8cceaf67a83d38425cd44e374e7302e05d71ab42.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.27上传",
+   "source": "https://www.bilibili.com/video/BV1iDat69EXV/",
+   "uploadDate": "2026-09-27",
+   "dateLabel": "2026.09.27 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Cga46AE9G",
+   "title": "假面骑士麦斯 岭高华武利扮演者 东启介 宣传第4话视频2",
+   "channel": "新小DJ",
+   "type": "预告／宣传",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Cga46AE9G/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/d37253782492554f76bfc607bf1b32f223b70865.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.27上传",
+   "source": "https://www.bilibili.com/video/BV1Cga46AE9G/",
+   "uploadDate": "2026-09-27",
+   "dateLabel": "2026.09.27 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1nmh261EEF",
+   "title": "【中日字幕】优雅红猫 东启介(岭高华武利)喊你看后天麦斯第4集《狼有隐藏一面》",
+   "channel": "航海水上ライオン連合",
+   "type": "预告／宣传",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1nmh261EEF/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/71261191973af41d1d4168284696c4990fa932c4.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.25上传",
+   "source": "https://www.bilibili.com/video/BV1nmh261EEF/",
+   "uploadDate": "2026-09-25",
+   "dateLabel": "2026.09.25 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV17Nhy6iEe8",
+   "title": "假面骑士麦斯 岭高华武利扮演者 东启介 宣传第4话视频",
+   "channel": "新小DJ",
+   "type": "预告／宣传",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV17Nhy6iEe8/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/e4f91c40031035e1765c2e24c76bee35f9825dd5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.25上传",
+   "source": "https://www.bilibili.com/video/BV17Nhy6iEe8/",
+   "uploadDate": "2026-09-25",
+   "dateLabel": "2026.09.25 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1x7hf69EqT",
+   "title": "【中日字幕】麦斯4大主演现实中都想“投敌”？瑞生家和十二支同盟布景天差地别！秋谷郁甫(音澄宙) 堀川梨心(优菜) 安宅波飒(狸断) 东启介(赤猫)杂志专访",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1x7hf69EqT/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/205d298d55e2088274725ecabe03935ad86ecbc9.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.23上传",
+   "source": "https://www.bilibili.com/video/BV1x7hf69EqT/",
+   "uploadDate": "2026-09-23",
+   "dateLabel": "2026.09.23 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1onej6aEXz",
+   "title": "假面骑士麦斯 岭高华武利（东启介）",
+   "channel": "新小DJ",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1onej6aEXz/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/6890070fe42c137237af0a9280d42cfabc381aa1.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.15上传",
+   "source": "https://www.bilibili.com/video/BV1onej6aEXz/",
+   "uploadDate": "2026-09-15",
+   "dateLabel": "2026.09.15 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1faYU6nE7R",
+   "title": "【中日字幕】猫猫贴贴！东启介(岭高华武利):赤猫皮演绳田老师来看我演的《王者天下》舞台剧了【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1faYU6nE7R/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/6f66dbae74255c0d858ef19b1d2621960ba9f780.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.11上传",
+   "source": "https://www.bilibili.com/video/BV1faYU6nE7R/",
+   "uploadDate": "2026-09-11",
+   "dateLabel": "2026.09.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV18bbs6hEpk",
+   "title": "活用关键词完成宣传告知【55秒宣传挑战⏰】《#假面骑士麦斯》TVer平台免费播出#秋谷郁甫 #安宅波飒 #堀川梨心 #东启介",
+   "channel": "MY楓影_",
+   "type": "预告／宣传",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV18bbs6hEpk/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/73f3d12a85b46387c3ac397b50848c6daa2a3801.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.06上传",
+   "source": "https://www.bilibili.com/video/BV18bbs6hEpk/",
+   "uploadDate": "2026-09-06",
+   "dateLabel": "2026.09.06 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1zubp6iE5o",
+   "title": "【中日字幕】都去看下周兔姐的变身 假面骑士麦斯第1集花絮 十二支同盟篇 东启介 安藤奈奈子 长谷川霞 铃木浩文 坪仓康晴",
+   "channel": "航海水上ライオン連合",
+   "type": "幕后／拍摄",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1zubp6iE5o/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/36b9f3d67c1e0882928dbc31fb7e823d464c2378.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.06上传",
+   "source": "https://www.bilibili.com/video/BV1zubp6iE5o/",
+   "uploadDate": "2026-09-06",
+   "dateLabel": "2026.09.06 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1s5ti62EzZ",
+   "title": "【中日字幕】耄耋可爱捏 东启介(岭高华武利) 假面骑士麦斯开播倒数 还有2天",
+   "channel": "航海水上ライオン連合",
+   "type": "预告／宣传",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1s5ti62EzZ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/020e18be2809d1aeda83d70e4bcc86a8a7d29517.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.04上传",
+   "source": "https://www.bilibili.com/video/BV1s5ti62EzZ/",
+   "uploadDate": "2026-09-04",
+   "dateLabel": "2026.09.04 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV11Ftz69EAU",
+   "title": "【中日字幕】假面骑士麦斯红猫 东启介(岭高华武利)媒体报道:1.9米的当红BOSS专业户！为演出威严增重10公斤！",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV11Ftz69EAU/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/1d8cf3edb107e5f6a70443a2a538ef48c9b31cc7.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.04上传",
+   "source": "https://www.bilibili.com/video/BV11Ftz69EAU/",
+   "uploadDate": "2026-09-04",
+   "dateLabel": "2026.09.04 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV16gtE6xEz2",
+   "title": "【中日字幕】强到离谱的红猫 玩心与冷酷并存 假面骑士麦斯 岭高华武利/赤猫扮演者 东启介专访",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV16gtE6xEz2/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/4e596fd4e57816730dd5068ff383d4c65bea5e46.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.02上传",
+   "source": "https://www.bilibili.com/video/BV16gtE6xEz2/",
+   "uploadDate": "2026-09-02",
+   "dateLabel": "2026.09.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1FMtU6gEc9",
+   "title": "假面骑士魔王 岭高华武利扮演者东启介访谈",
+   "channel": "月亮是我的谎言",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1FMtU6gEc9/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/e1158dcd5611f63039a9e381dda06d8a8f962c7b.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.02上传",
+   "source": "https://www.bilibili.com/video/BV1FMtU6gEc9/",
+   "uploadDate": "2026-09-02",
+   "dateLabel": "2026.09.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1zQ8Q6WEte",
+   "title": "【中日字幕】东启介(岭高华武利) 真人电影《蓝色监狱》迷你专访 饰 马狼照英【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1zQ8Q6WEte/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/9ee8d65171c84a968fb9033851b7b5f0935c74cd.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.08.26上传",
+   "source": "https://www.bilibili.com/video/BV1zQ8Q6WEte/",
+   "uploadDate": "2026-08-26",
+   "dateLabel": "2026.08.26 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV11Ju16tEAi",
+   "title": "【中日字幕】身高差！东启介(岭高华武利)×山本千寻(鸟羽来叶) 宣传舞台剧《王者天下Ⅱ-继承-》【假面骑士麦斯 捷德奥特曼】",
+   "channel": "航海水上ライオン連合",
+   "type": "预告／宣传",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV11Ju16tEAi/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/c74de3a3b2bf98c388d052b26d642825b6afddd8.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.08.09上传",
+   "source": "https://www.bilibili.com/video/BV11Ju16tEAi/",
+   "uploadDate": "2026-08-09",
+   "dateLabel": "2026.08.09 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1EBu46eEZy",
+   "title": "【中日字幕】东启介(岭高华武利) 真人电影《蓝色监狱》专访 饰 马狼照英【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1EBu46eEZy/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/92934ea814b499c06c6a4f214dd7268ca4ff553c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.08.07上传",
+   "source": "https://www.bilibili.com/video/BV1EBu46eEZy/",
+   "uploadDate": "2026-08-07",
+   "dateLabel": "2026.08.07 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1MoMD61EMR",
+   "title": "【中日字幕】高桥文哉 樋口幸平 东启介等12位主演登场 真人电影《蓝色监狱》世界首映影院问候",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1MoMD61EMR/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/b69ebf50af2185b98aa6b95ef6274097f83b6678.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.08.03上传",
+   "source": "https://www.bilibili.com/video/BV1MoMD61EMR/",
+   "uploadDate": "2026-08-03",
+   "dateLabel": "2026.08.03 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1UxPve2Efy",
+   "title": "【饭岛宽骑 东启介 见津贤】 250225 《我和我喜欢的他和你》幕后花絮（ㄧ起玩烟花）",
+   "channel": "yukiss64",
+   "type": "幕后／拍摄",
+   "sourceType": "B站搬运",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1UxPve2Efy/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/64c4171b997cbe5adfcba43a820eac7659081cdd.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2025.02.25上传",
+   "source": "https://www.bilibili.com/video/BV1UxPve2Efy/",
+   "uploadDate": "2025-02-25",
+   "dateLabel": "2025.02.25 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1JWqdYxE3y",
+   "title": "飯島寛騎 ，東啓介 ，見津賢，拍戏时的花絮。这剧好像是重新编辑版正在地上波。",
+   "channel": "wttchh",
+   "type": "幕后／拍摄",
+   "sourceType": "B站搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1JWqdYxE3y/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/14ab96e4b975b403b9bc726c19e092e162456de4.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2024.12.15上传",
+   "source": "https://www.bilibili.com/video/BV1JWqdYxE3y/",
+   "uploadDate": "2024-12-15",
+   "dateLabel": "2024.12.15 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1r24y1v7HZ",
+   "title": "【東啓介】Overdose-なとり翻唱",
+   "channel": "冰凍章魚燒",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV1r24y1v7HZ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/fdfdb196d2015bfdf6b52129746e74f1a7b09cf5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2023.01.01上传",
+   "source": "https://www.bilibili.com/video/BV1r24y1v7HZ/",
+   "uploadDate": "2023-01-01",
+   "dateLabel": "2023.01.01 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV11o4y1C7dM",
+   "title": "燭台切光忠 東啓介",
+   "channel": "兔子與奶茶",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV11o4y1C7dM/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/96fa46164c5d77b486565a40e519b584fc9980eb.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.06.01上传",
+   "source": "https://www.bilibili.com/video/BV11o4y1C7dM/",
+   "uploadDate": "2021-06-01",
+   "dateLabel": "2021.06.01 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1sT4y1g7ef",
+   "title": "东启介弹唱『First love』",
+   "channel": "Alyoshark",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1sT4y1g7ef/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/c1be8e6f6cec1b9b5cfde9d303bf440c76e1a049.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.06.02上传",
+   "source": "https://www.bilibili.com/video/BV1sT4y1g7ef/",
+   "uploadDate": "2020-06-02",
+   "dateLabel": "2020.06.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV14z411i7cu",
+   "title": "东启介&矢田悠祐『真夏の果実』",
+   "channel": "Alyoshark",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV14z411i7cu/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/0bafeea65b04b2878f461eed5c47df74e73295b5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.06.02上传",
+   "source": "https://www.bilibili.com/video/BV14z411i7cu/",
+   "uploadDate": "2020-06-02",
+   "dateLabel": "2020.06.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Wv411679i",
+   "title": "『奏』东启介x甲斐翔真",
+   "channel": "Alyoshark",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Wv411679i/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/1089608f1e2d731e3aa1d2d96c7689ce9945460e.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.06.02上传",
+   "source": "https://www.bilibili.com/video/BV1Wv411679i/",
+   "uploadDate": "2020-06-02",
+   "dateLabel": "2020.06.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1sV411r7qf",
+   "title": "东启介弹唱『25個目の染色体』",
+   "channel": "Alyoshark",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1sV411r7qf/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/2de55b3c5c5b24cbf9535a80f75fe64303d94811.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.06.01上传",
+   "source": "https://www.bilibili.com/video/BV1sV411r7qf/",
+   "uploadDate": "2020-06-01",
+   "dateLabel": "2020.06.01 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1mK411V7Ve",
+   "title": "【東啓介】自弹自唱 変わらないもの",
+   "channel": "爱做饭的小饭桶",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1mK411V7Ve/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/ead88ea20028242aa701c9a2c8aee34fdf9f1995.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.04.19上传",
+   "source": "https://www.bilibili.com/video/BV1mK411V7Ve/",
+   "uploadDate": "2020-04-19",
+   "dateLabel": "2020.04.19 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1vz411B78d",
+   "title": "【第80回】東啓介の「あさステ！」【0409配信】",
+   "channel": "北極喵兒",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1vz411B78d/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/06c15d9f566055fbfa41e2463ad2d4eb8604f8a4.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.04.16上传",
+   "source": "https://www.bilibili.com/video/BV1vz411B78d/",
+   "uploadDate": "2020-04-16",
+   "dateLabel": "2020.04.16 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Hb41127Wc",
+   "title": "【个翻/安利向】东启介的あさステ！190214情人节片段，歌王上线",
+   "channel": "有琴惹",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Hb41127Wc/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/e777e13113cf649e691c90b92b541bbbbc7f2c61.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2019.02.15上传",
+   "source": "https://www.bilibili.com/video/BV1Hb41127Wc/",
+   "uploadDate": "2019-02-15",
+   "dateLabel": "2019.02.15 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ib411U7KF",
+   "title": "【个翻/安利向】东启介的あさステ！190207片段",
+   "channel": "有琴惹",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ib411U7KF/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/29b92669e72c45e08bb96c5f669aa645790d2440.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2019.02.13上传",
+   "source": "https://www.bilibili.com/video/BV1ib411U7KF/",
+   "uploadDate": "2019-02-13",
+   "dateLabel": "2019.02.13 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV18x411E7qC",
+   "title": "W!VOL13專訪_東啓介",
+   "channel": "Yvonne_まきばの民",
+   "type": "采访／发布会",
+   "sourceType": "B站搬运",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV18x411E7qC/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/a6fcbb4fff529b3e1f1cc98535975cec104a12b5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2017.11.02上传",
+   "source": "https://www.bilibili.com/video/BV18x411E7qC/",
+   "uploadDate": "2017-11-02",
+   "dateLabel": "2017.11.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1gx41167gU",
+   "title": "W！vol14 東啓介x橋本祥平x健人",
+   "channel": "はさみ",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1gx41167gU/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/feefbca2af2935d3ef0f12326a33dca3ae8edaa1.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2017.06.24上传",
+   "source": "https://www.bilibili.com/video/BV1gx41167gU/",
+   "uploadDate": "2017-06-24",
+   "dateLabel": "2017.06.24 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ex411S7JW",
+   "title": "【東啓介】W! Vol.21 东启介 DVD 片段",
+   "channel": "著名猫厨薛定谔",
+   "type": "幕后／拍摄",
+   "sourceType": "B站搬运",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ex411S7JW/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/6d8ee1432a95ca8358ff90e482e3f04518657414.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2017.04.10上传",
+   "source": "https://www.bilibili.com/video/BV1ex411S7JW/",
+   "uploadDate": "2017-04-10",
+   "dateLabel": "2017.04.10 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1dLWy6VEG5",
+   "title": "【中日字幕】能想出这种沉浸式玩法也是难为了 DX十二支武器套装02 日本博主评测【#Rin_ch频道】",
+   "channel": "航海水上ライオン連合",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1dLWy6VEG5/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/32a3e34dc04ff25da7a661470603ff0ea77661ee.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.11上传",
+   "source": "https://www.bilibili.com/video/BV1dLWy6VEG5/",
+   "uploadDate": "2026-11-11",
+   "dateLabel": "2026.11.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1mi4y1x7oY",
+   "title": "【東啓介】20200508 inslive弹唱 心做し",
+   "channel": "阿諒諒",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1mi4y1x7oY/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/7b5f9c66e0ed738027b9637b195fd1fa6f3b679b.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.05.08上传",
+   "source": "https://www.bilibili.com/video/BV1mi4y1x7oY/",
+   "uploadDate": "2020-05-08",
+   "dateLabel": "2020.05.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1pU4y147n5",
+   "title": "【东启介】25個目の染色体·弾き語り",
+   "channel": "salty_yyy俞",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1pU4y147n5/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/ede6e4302631f75aaf23419775fc61996180371d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.01.26上传",
+   "source": "https://www.bilibili.com/video/BV1pU4y147n5/",
+   "uploadDate": "2021-01-26",
+   "dateLabel": "2021.01.26 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1DV411r7Aq",
+   "title": "东启介弹唱『变わらないもの』",
+   "channel": "Alyoshark",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1DV411r7Aq/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/a2b2319eecf8e68c484f5759ebf3fd8ca880a8c4.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.06.02上传",
+   "source": "https://www.bilibili.com/video/BV1DV411r7Aq/",
+   "uploadDate": "2020-06-02",
+   "dateLabel": "2020.06.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV17i4y1x7rC",
+   "title": "东启介弹唱『みかんハート』",
+   "channel": "Alyoshark",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV17i4y1x7rC/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/fd5dd97bf796fb5d35ac6f8f9921f471bc669f97.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.06.01上传",
+   "source": "https://www.bilibili.com/video/BV17i4y1x7rC/",
+   "uploadDate": "2020-06-01",
+   "dateLabel": "2020.06.01 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1iZ4y1H7L7",
+   "title": "【東啓介】こえ（首支自作词作曲）",
+   "channel": "爱做饭的小饭桶",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1iZ4y1H7L7/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/0092ba063d0ebc4bff3e716372ffdd6284e1c98b.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.06.13上传",
+   "source": "https://www.bilibili.com/video/BV1iZ4y1H7L7/",
+   "uploadDate": "2020-06-13",
+   "dateLabel": "2020.06.13 B站上传",
+   "asset": ""
   }
  ],
  "playlists": [
