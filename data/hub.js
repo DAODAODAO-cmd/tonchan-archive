@@ -205,7 +205,7 @@ window.HUB = {
     self: [
       { name: "X（Twitter）", handle: "@keisuke_higashi", url: "https://x.com/keisuke_higashi", note: "本人账号，工作告知与日常" },
       { name: "Instagram", handle: "keisuke_higashi_official", url: "https://www.instagram.com/keisuke_higashi_official/", note: "照片与直播" },
-      { name: "官方粉丝俱乐部", handle: "waction.jp", url: "https://waction.jp/higashi_keisuke/", note: "Making of Higashi、さえずり、FC票务先行（会员内容不转载）" },
+      { name: "官方粉丝俱乐部", handle: "waction.jp", url: "https://waction.jp/higashi_keisuke/", note: "会员内容请自行订阅" },
       { name: "事务所资料页", handle: "Watanabe Ent.", url: "https://www.watanabepro.co.jp/mypage/10000062/", note: "最新出演情报与经历" },
       { name: "WE Goods Info（X）", handle: "@we_goods_info", url: "https://x.com/we_goods_info", note: "事务所官方周边：生写真等预约告知" },
       { name: "WE官方生写真（每月）", handle: "7net · ワタナベ商店", url: "https://7net.omni7.jp/general/watanabeprobro.html", note: "每月新作生写真套装，限期预约" },

@@ -823,6 +823,27 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_ya_trickster32",
+   "date": "2017",
+   "end": "",
+   "category": "杂志",
+   "title": "《Trickster Age》32｜北村谅、东启介等",
+   "japanese": "Trickster Age トリックスターエイジ 32",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://auctions.yahoo.co.jp/search/search?p=Trickster+Age+32+%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "note": "雅虎拍卖出品标题列出东启介；期号日期待核。",
+   "status": "雅虎拍卖出品线索；待核",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售期（约）",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "pc181",
    "date": "2017-02-04",
    "end": "",
@@ -2593,6 +2614,27 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "mag_ya_square02",
+   "date": "2020-11",
+   "end": "",
+   "category": "杂志",
+   "title": "《ザテレビジョン SQUARE》02｜东启介专访＆写真",
+   "japanese": "ザテレビジョンSQUARE 02",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://auctions.yahoo.co.jp/search/search?p=%E3%82%B6%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3SQUARE+%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "note": "niconico 有同期的专访＆拍摄花絮视频（2020.11.16）；杂志随机生写真也在二手市场流通。",
+   "status": "雅虎拍卖出品线索；待核",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售期（约）",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "m405",
    "date": "2020-11-10",
    "end": "",
@@ -3408,6 +3450,27 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTQ8_KBHMUFNS0x7ZX_nfxn"
     }
    ]
+  },
+  {
+   "id": "mag_ya_sunday",
+   "date": "2021-06-22",
+   "end": "",
+   "category": "杂志",
+   "title": "《Sunday每日》2021年7/4号｜封面：东启介",
+   "japanese": "サンデー毎日 2021年 7/4号【表紙：東啓介】",
+   "role": "本人",
+   "crew": "",
+   "key": "",
+   "url": "https://auctions.yahoo.co.jp/search/search?p=%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E6%AF%8E%E6%97%A5+%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "note": "雅虎拍卖出品标题注明“表紙：東啓介”；发售日按周刊惯例推算，待核。",
+   "status": "雅虎拍卖出品线索；待核",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售期（约）",
+   "images": [],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "m434",
@@ -18732,14 +18795,14 @@ window.ARCHIVE = {
   ]
  ],
  "stats": {
-  "magazines": 76,
-  "events": 326,
+  "magazines": 79,
+  "events": 329,
   "videos": 365,
   "playlists": 26,
   "series": 36,
   "qj": 29,
   "images": 178,
-  "pending": 78
+  "pending": 81
  },
  "assets": {
   "2b4c2f9b176f75b6": "assets/img/2b4c2f9b176f75b6.jpg",
