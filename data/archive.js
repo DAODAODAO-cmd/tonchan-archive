@@ -1599,6 +1599,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://prtimes.jp/i/16719/99/resize/d16719-99-628132-0.jpg",
+     "caption": "角色视觉：苇木场拓斗",
+     "source": "マーベラス（PR TIMES）"
     }
    ],
    "videos": [
@@ -1612,7 +1617,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "ASHIKIBA TAKUTO",
    "workRoma": "HAKOGAKU SHINSEDAI",
-   "roleName": "苇木场拓斗"
+   "roleName": "苇木场拓斗",
+   "cardPhoto": "https://prtimes.jp/i/16719/99/resize/d16719-99-628132-0.jpg"
   },
   {
    "id": "bro_201610",
@@ -4549,6 +4555,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/445930/1eb90d2dd318a24482311797bbccd426_f03f6a13bbd6dd4a8e4c7bad21ee7b5a.jpg",
+     "caption": "剧照：科利乌斯",
+     "source": "Marigold 官网"
     }
    ],
    "videos": [
@@ -4583,7 +4594,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "COLEUS",
    "workRoma": "MARIGOLD",
-   "roleName": "科利乌斯"
+   "roleName": "科利乌斯",
+   "cardPhoto": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/445930/1eb90d2dd318a24482311797bbccd426_f03f6a13bbd6dd4a8e4c7bad21ee7b5a.jpg"
   },
   {
    "id": "bro_201809",
@@ -5029,6 +5041,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://stage.parco.jp/image/parcoplay/store/storage/s_inochi_photo2.jpg",
+     "caption": "剧照：山田羽仁男",
+     "source": "PARCO STAGE（撮影：引地信彦）"
     }
    ],
    "videos": [],
@@ -5037,7 +5054,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "YAMADA HANIO",
    "workRoma": "INOCHI URIMASU",
-   "roleName": "山田羽仁男"
+   "roleName": "山田羽仁男",
+   "cardPhoto": "https://stage.parco.jp/image/parcoplay/store/storage/s_inochi_photo2.jpg",
+   "cardPhotoBg": "20% 14% / auto 230%"
   },
   {
    "id": "mag_rk15760957",
@@ -5557,6 +5576,11 @@ window.ARCHIVE = {
      "source": "https://www.meijiza.co.jp/lineup/2019/07/",
      "asset": "164eaf65d35f7464",
      "resolution": "1280 × 610"
+    },
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg",
+     "caption": "剧照：胜麟太郎",
+     "source": "明治座"
     }
    ],
    "videos": [],
@@ -5565,7 +5589,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "KATSU RINTARO",
    "workRoma": "KATSU KOKICHI DEN",
-   "roleName": "胜麟太郎"
+   "roleName": "胜麟太郎",
+   "cardPhoto": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg"
   },
   {
    "id": "s158",
@@ -5657,6 +5682,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20191124/20191124192515.jpg",
+     "caption": "剧照：阿尔弗雷德",
+     "source": "Musical Theater Japan（写真提供：東宝演劇部）"
     }
    ],
    "videos": [
@@ -5682,7 +5712,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "ALFRED",
    "workRoma": "DANCE OF THE VAMPIRES",
-   "roleName": "阿尔弗雷德"
+   "roleName": "阿尔弗雷德",
+   "cardPhoto": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20191124/20191124192515.jpg",
+   "cardPhotoBg": "15% 18% / auto 170%"
   },
   {
    "id": "s149",
@@ -7402,6 +7434,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://theatergirl.jp/wp-content/uploads/2021/04/reIMG_0237.jpg",
+     "caption": "剧照：本尼",
+     "source": "THEATER GIRL"
     }
    ],
    "videos": [
@@ -7436,7 +7473,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "BENNY",
    "workRoma": "IN THE HEIGHTS",
-   "roleName": "本尼"
+   "roleName": "本尼",
+   "cardPhoto": "https://theatergirl.jp/wp-content/uploads/2021/04/reIMG_0237.jpg"
   },
   {
    "id": "m431",
@@ -8611,6 +8649,11 @@ window.ARCHIVE = {
      "source": "https://www.fujitv.co.jp/nanbaMG5/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://contents.oricon.co.jp/upimg/news/2238000/2237673/20220607_163235_p_l_4494.jpg",
+     "caption": "剧照：小暮翔",
+     "source": "ORICON NEWS（C）フジテレビ"
     }
    ],
    "videos": [],
@@ -8619,7 +8662,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "KOGURE SHO",
    "workRoma": "NANBA MG5",
-   "roleName": "小暮翔"
+   "roleName": "小暮翔",
+   "cardPhoto": "https://contents.oricon.co.jp/upimg/news/2238000/2237673/20220607_163235_p_l_4494.jpg"
   },
   {
    "id": "m445",
@@ -9021,6 +9065,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/JB002_06BA_0276.jpg",
+     "caption": "剧照：鲍勃·高迪奥",
+     "source": "マチソワ"
     }
    ],
    "videos": [],
@@ -9029,7 +9078,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "BOB GAUDIO",
    "workRoma": "JERSEY BOYS 2022",
-   "roleName": "鲍勃·高迪奥"
+   "roleName": "鲍勃·高迪奥",
+   "cardPhoto": "https://matisowa.jp/wp-content/uploads/metro/JB002_06BA_0276.jpg",
+   "cardPhotoBg": "40% 15% / auto 190%"
   },
   {
    "id": "m449",
@@ -9538,6 +9589,11 @@ window.ARCHIVE = {
      "source": "https://grand-arts.com/works/stage/2022the_beautiful_game/",
      "asset": "fb0c7de1716e431b",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
+     "caption": "剧照：托马斯",
+     "source": "マチソワ"
     }
    ],
    "videos": [],
@@ -9546,7 +9602,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "THOMAS",
    "workRoma": "THE BEAUTIFUL GAME",
-   "roleName": "托马斯"
+   "roleName": "托马斯",
+   "cardPhoto": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
+   "cardPhotoBg": "50% 8% / 160% auto"
   },
   {
    "id": "m768",
@@ -13204,6 +13262,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/1307",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://theatergirl.jp/wp-content/uploads/2024/09/batch_reIMG_6231.jpg",
+     "caption": "剧照：埃里克",
+     "source": "THEATER GIRL"
     }
    ],
    "videos": [],
@@ -13212,7 +13275,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "ERIC",
    "workRoma": "DEATH TAKES A HOLIDAY",
-   "roleName": "埃里克"
+   "roleName": "埃里克",
+   "cardPhoto": "https://theatergirl.jp/wp-content/uploads/2024/09/batch_reIMG_6231.jpg"
   },
   {
    "id": "bro_202410",
@@ -14133,6 +14197,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://theatergirl.jp/wp-content/uploads/2025/04/batch_IMG_6112.jpg",
+     "caption": "剧照：查理",
+     "source": "THEATER GIRL"
     }
    ],
    "videos": [
@@ -14244,7 +14313,9 @@ window.ARCHIVE = {
    ],
    "roleRoma": "CHARLIE PRICE",
    "workRoma": "KINKY BOOTS",
-   "roleName": "查理"
+   "roleName": "查理",
+   "cardPhoto": "https://theatergirl.jp/wp-content/uploads/2025/04/batch_IMG_6112.jpg",
+   "cardPhotoBg": "55% 10% / auto 170%"
   },
   {
    "id": "bro_202505",
@@ -14379,6 +14450,16 @@ window.ARCHIVE = {
      "source": "https://www.tokai-tv.com/oppan/",
      "asset": "557f1259b60bb978",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg",
+     "caption": "剧照：砂川圆",
+     "source": "東海テレビ（PR TIMES）"
+    },
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-b77637d45f0563335d5e92f67770ce49-3900x2759.jpg",
+     "caption": "SP主视觉",
+     "source": "東海テレビ（PR TIMES）"
     }
    ],
    "videos": [
@@ -14400,7 +14481,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SUNAKAWA MADOKA",
    "workRoma": "OPPAN SP",
-   "roleName": "砂川圆"
+   "roleName": "砂川圆",
+   "cardPhoto": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg",
+   "cardPoster": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-b77637d45f0563335d5e92f67770ce49-3900x2759.jpg"
   },
   {
    "id": "bro_202507",
@@ -14450,6 +14533,11 @@ window.ARCHIVE = {
      "source": "https://gaga.ne.jp/oppan-movie/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg",
+     "caption": "电影主视觉",
+     "source": "東海テレビ（PR TIMES）"
     }
    ],
    "videos": [
@@ -14487,7 +14575,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SUNAKAWA MADOKA",
    "workRoma": "OPPAN THE MOVIE",
-   "roleName": "砂川圆"
+   "roleName": "砂川圆",
+   "cardPoster": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg"
   },
   {
    "id": "s165",
@@ -14629,6 +14718,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/2910",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2025/08/IMG_5003s78.jpg",
+     "caption": "剧照：鲍勃·高迪奥",
+     "source": "Astage"
     }
    ],
    "videos": [],
@@ -14642,7 +14736,9 @@ window.ARCHIVE = {
    ],
    "roleRoma": "BOB GAUDIO",
    "workRoma": "JERSEY BOYS 2025",
-   "roleName": "鲍勃·高迪奥"
+   "roleName": "鲍勃·高迪奥",
+   "cardPhoto": "https://astage-ent.com/wp/wp-content/uploads/2025/08/IMG_5003s78.jpg",
+   "cardPhotoBg": "55% 10% / auto 170%"
   },
   {
    "id": "mts_rev15126",
@@ -14706,12 +14802,17 @@ window.ARCHIVE = {
    "role": "本人配音出演（单元剧）",
    "crew": "",
    "key": "",
-   "url": "https://audiodrama-note.com/blog-entry-11836.html",
+   "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/9W37JM27JJ/",
    "note": "全5回。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "广播剧首播日",
    "images": [
+    {
+     "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/9W37JM27JJ/9W37JM27JJ-eyecatch_63ab7dfd8ba93aae40da7c565d9d7e63.jpg",
+     "caption": "录音现场合照（NHK 节目页）",
+     "source": "NHK"
+    },
     {
      "url": "https://audiodrama-note.com/wp-content/uploads/2023/05/omnibus_competition.jpg",
      "caption": "文章配图",
@@ -15101,12 +15202,17 @@ window.ARCHIVE = {
    "role": "迪米特里（ディミトリ）",
    "crew": "",
    "key": "",
-   "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/blog/bl/pN1pnOaa3q/bp/pY4z7bn1ro/",
+   "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/57ZP31M9G4/",
    "note": "全5回。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "广播剧首播日",
    "images": [
+    {
+     "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/57ZP31M9G4/57ZP31M9G4-eyecatch_a0cd149dac7d4364d19d142f507c2c1d.jpg",
+     "caption": "录音现场合照（NHK 节目页）",
+     "source": "NHK"
+    },
     {
      "url": "https://img.nhk.jp/static/assets/images/radioseries/rs/X4X6N1XG8Z/X4X6N1XG8Z-eyecatch_a5bdc94187e0b501b2cfa223cbf28e4a.png",
      "caption": "NHK 青春冒险 节目图",
