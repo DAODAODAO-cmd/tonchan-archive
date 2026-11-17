@@ -1124,6 +1124,13 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/Ckk8ARCUgAAODOp?format=jpg&name=large",
+     "caption": "本人发的照片",
+     "source": "https://x.com/keisuke_higashi/status/741189607677562880",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1295,6 +1302,13 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/CpYx0SfUsAMINi5?format=jpg&name=large",
+     "caption": "本人发的照片",
+     "source": "https://x.com/keisuke_higashi/status/762851974186348544",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1401,7 +1415,15 @@ window.ARCHIVE = {
    "status": "",
    "origin": "WE官方周边博客",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/Cn5PlLKUEAAEWsH?format=jpg&name=large",
+     "caption": "本人发的照片",
+     "source": "https://x.com/keisuke_higashi/status/756129294477172736",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "kind": "bromide"
   },
@@ -1716,6 +1738,13 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699351.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/Cyli8BmUoAAn490?format=jpg&name=large",
+     "caption": "本人发的照片",
+     "source": "https://x.com/keisuke_higashi/status/804282801440755712",
      "asset": "",
      "resolution": ""
     }
@@ -2070,6 +2099,13 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545449.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/C3oQT5KUcAAf-QT?format=jpg&name=large",
+     "caption": "本人发的照片",
+     "source": "https://x.com/keisuke_higashi/status/826991436293775360",
      "asset": "",
      "resolution": ""
     }
@@ -2474,6 +2510,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201705",
+   "date": "2017-05-01",
+   "category": "活动",
+   "title": "WE官方生写真（2017年5月）",
+   "japanese": "WEオフィシャルブロマイド ～2017年5月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12267681309.html",
+   "note": "这个月穿的是带花刺绣的夹克。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/C_7ya1TU0AAJcoG?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/864394732457271296",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "am_broW1705",
@@ -8316,6 +8378,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202205",
+   "date": "2022-05-01",
+   "category": "活动",
+   "title": "WE官方生写真（2022年5月）",
+   "japanese": "WEオフィシャルブロマイド ～2022年5月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/keisuke_higashi/status/1524636797606965248",
+   "note": "本人发了别版图。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/FSiZFh2aMAAvf9P?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/1524636797606965248",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "m444",
    "date": "2022-05-10",
    "end": "",
@@ -9264,6 +9352,39 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202301",
+   "date": "2023-01-01",
+   "category": "活动",
+   "title": "WE官方生写真（2023年1月）",
+   "japanese": "WEオフィシャルブロマイド ～2023年1月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/keisuke_higashi/status/1614618093212557313",
+   "note": "",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/FmhGl8zakAApVcz?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/1614618093212557313",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/FmhGmPRaYAE9lAA?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/1614618093212557313",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e53",
    "date": "2023-01-07",
    "end": "2023-02-13",
@@ -9344,6 +9465,39 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202302",
+   "date": "2023-02-01",
+   "category": "活动",
+   "title": "WE官方生写真（2023年2月）",
+   "japanese": "WEオフィシャルブロマイド ～2023年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/keisuke_higashi/status/1625671835231875072",
+   "note": "本人发了别版图。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/Fo-L6GNaQAE0ByI?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/1625671835231875072",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/Fo-L6iEagAAfz8E?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/1625671835231875072",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "s152",
@@ -11359,6 +11513,39 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202311",
+   "date": "2023-11-01",
+   "category": "活动",
+   "title": "WE官方生写真（2023年11月）",
+   "japanese": "WEオフィシャルブロマイド ～2023年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/keisuke_higashi/status/1724742374893781068",
+   "note": "",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/F--EC8pbYAA3Skk?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/1724742374893781068",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/F--EDNJagAEBZvM?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/1724742374893781068",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "qj98297",
