@@ -86,7 +86,9 @@ window.ARCHIVE = {
    ],
    "roleRoma": "CHITOSE SENRI",
    "workRoma": "SEIGAKU vs SHITENHOJI",
-   "roleName": "千岁千里"
+   "roleName": "千岁千里",
+   "cardPoster": "assets/img/roles/e1_poster.jpg",
+   "cardPhoto": "assets/img/roles/e1_photo.jpg"
   },
   {
    "id": "e2",
@@ -211,7 +213,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "CHITOSE SENRI",
    "workRoma": "ZENKOKU TAIKAI vs RIKKAI",
-   "roleName": "千岁千里"
+   "roleName": "千岁千里",
+   "cardHide": true
   },
   {
    "id": "mag_rm_53687262",
@@ -478,7 +481,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "ODA RYO",
    "workRoma": "INORI NO HITSUGI",
-   "roleName": "织田亮"
+   "roleName": "织田亮",
+   "cardPoster": "assets/img/roles/e5_poster.jpg",
+   "cardPhoto": "assets/img/roles/e5_photo.jpg"
   },
   {
    "id": "am_ayakashi_bro1",
@@ -593,7 +598,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "HARADA SANOSUKE",
    "workRoma": "REIMEIROKU",
-   "roleName": "原田左之助"
+   "roleName": "原田左之助",
+   "cardPoster": "assets/img/roles/e6_poster.jpg",
+   "cardPhoto": "assets/img/roles/e6_photo.jpg"
   },
   {
    "id": "e7",
@@ -646,7 +653,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "KOBAYASHI RIKU",
    "workRoma": "RASPBERRY BOY 2",
-   "roleName": "小林淕"
+   "roleName": "小林淕",
+   "cardPoster": "assets/img/roles/e7_poster.jpg",
+   "cardPhoto": "assets/img/roles/e7_photo.jpg"
   },
   {
    "id": "am_tencho15",
@@ -1000,7 +1009,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "ASHIKIBA TAKUTO",
    "workRoma": "SOHOKU SHINSEDAI",
-   "roleName": "苇木场拓斗"
+   "roleName": "苇木场拓斗",
+   "cardPhoto": "https://prtimes.jp/i/16719/5/resize/d16719-5-377949-14.jpg"
   },
   {
    "id": "mag_rk14108397",
@@ -1087,7 +1097,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "KYODEN",
-   "roleName": "烛台切光忠"
+   "roleName": "烛台切光忠",
+   "cardPhoto": "https://prtimes.jp/i/16719/25/resize/d16719-25-262712-3.jpg"
   },
   {
    "id": "bro_201606",
@@ -1239,7 +1250,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "WILL",
    "workRoma": "ANOTHER WORLD",
-   "roleName": "Will"
+   "roleName": "Will",
+   "cardPoster": "assets/img/roles/e12_poster.jpg",
+   "cardPhoto": "assets/img/roles/e12_photo.jpg"
   },
   {
    "id": "nat_omoshii6",
@@ -1839,7 +1852,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "KYODEN · REVIVAL",
-   "roleName": "烛台切光忠"
+   "roleName": "烛台切光忠",
+   "cardPoster": "assets/img/roles/e15_poster.jpg",
+   "cardPhoto": "assets/img/roles/e15_photo.jpg"
   },
   {
    "id": "mag_rk14585124",
@@ -2234,7 +2249,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "ASHIKIBA TAKUTO",
    "workRoma": "STARTING LINE",
-   "roleName": "苇木场拓斗"
+   "roleName": "苇木场拓斗",
+   "cardPoster": "assets/img/roles/e16_poster.jpg",
+   "cardPhoto": "assets/img/roles/e16_photo.jpg"
   },
   {
    "id": "bro_201703",
@@ -2480,7 +2497,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "HARADA SANOSUKE",
    "workRoma": "HARADA SANOSUKE HEN",
-   "roleName": "原田左之助"
+   "roleName": "原田左之助",
+   "cardPhoto": "https://prtimes.jp/i/16719/148/resize/d16719-148-902711-0.jpg"
   },
   {
    "id": "mag_rk14799945",
@@ -2715,7 +2733,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "GIDEN",
-   "roleName": "烛台切光忠"
+   "roleName": "烛台切光忠",
+   "cardPoster": "assets/img/roles/e18_poster.jpg",
+   "cardPhoto": "assets/img/roles/e18_photo.jpg"
   },
   {
    "id": "bro_201706",
@@ -2996,7 +3016,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "LI CHUNLIN",
    "workRoma": "GRAND GUIGNOL",
-   "roleName": "李春林"
+   "roleName": "李春林",
+   "cardPhoto": "https://pbs.twimg.com/media/DEXyHHcU0AUHI-B?format=jpg&name=large"
   },
   {
    "id": "mag_mc_377465",
@@ -4226,7 +4247,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "HIDEN",
-   "roleName": "烛台切光忠"
+   "roleName": "烛台切光忠",
+   "cardPhoto": "https://pbs.twimg.com/media/Dfp8YSOVAAI4sTq?format=jpg&name=large"
   },
   {
    "id": "mag_rk15531823",
@@ -5389,7 +5411,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "HIROSE KAZUYA",
    "workRoma": "COLOR OF LIFE",
-   "roleName": "广濑和也"
+   "roleName": "广濑和也",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg"
   },
   {
    "id": "mag_mc_54887563",
@@ -9045,7 +9068,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "NIKUMAMUSHI",
    "workRoma": "YAMIKIN SAIHARA-SAN",
-   "roleName": "肉蝮"
+   "roleName": "肉蝮",
+   "cardPhoto": "https://pbs.twimg.com/media/FhCDh0raUAAoEi9?format=jpg&name=large"
   },
   {
    "id": "m450",
@@ -12088,7 +12112,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "SUNAKAWA MADOKA",
    "workRoma": "OPPAN",
-   "roleName": "砂川圆"
+   "roleName": "砂川圆",
+   "cardPhoto": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg"
   },
   {
    "id": "nat_otokomae24",
@@ -12641,7 +12666,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "FLICK",
    "workRoma": "VIOLET",
-   "roleName": "弗利克"
+   "roleName": "弗利克",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2024/0407/violet2024_C1_0723.jpg"
   },
   {
    "id": "bro_202405",
@@ -15545,7 +15571,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "MINETAKA KABURI",
    "workRoma": "KAMEN RIDER MY-TH",
-   "roleName": "岭高华武利"
+   "roleName": "岭高华武利",
+   "cardPoster": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
+   "cardPhoto": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp"
   },
   {
    "id": "add_12shi",
@@ -15653,7 +15681,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "MINETAKA KABURI",
    "workRoma": "JUNISHI TOIRO",
-   "roleName": "岭高华武利"
+   "roleName": "岭高华武利",
+   "cardPoster": "https://i.ytimg.com/vi/jkqp4qMS_Zg/maxresdefault.jpg",
+   "cardPhoto": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main02.webp"
   },
   {
    "id": "mag_mc_40155677",
