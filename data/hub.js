@@ -73,7 +73,8 @@ window.HUB = {
       links: [
         ["官网", "https://stage-toukenranbu.jp/stage/"],
         ["日程·票务", "https://stage-toukenranbu.jp/stage/schedule"],
-        ["媒体露出一览", "https://stage-toukenranbu.jp/news/hiden2/4184"]
+        ["媒体露出一览", "https://stage-toukenranbu.jp/news/hiden2/4184"],
+        ["明治座公演页", "https://www.meijiza.co.jp/info/2026/2026_11_01/"]
       ]
     },
     {
