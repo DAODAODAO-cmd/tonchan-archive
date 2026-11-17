@@ -131,6 +131,8 @@ window.HUB = {
 
   /* 周边与商品 */
   pastGoods: [
+    {"date": "2023-07-14", "title": "生日演唱会《音》原创周边", "bday": 1, "status": "已结束", "price": "预约套组 3,000円（亚克力卡2种·文件夹·生写真6枚）", "image": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods_thumbnail.jpg", "points": ["手持\"28\"气球拍摄，\"Birthday Live 音\"是本人亲笔字", "预约套组比会场多一张限定生写真", "会场单卖：亚克力卡850円、文件夹500円、生写真5枚1,000円"], "url": "https://matisowa.jp/5170/", "publisher": "产经新闻社 Matisowa"},
+    {"date": "2022-11-14", "title": "《东启介と聴活》原创T恤", "status": "已结束（受注生产）", "price": "受注贩售", "image": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw271.jpg", "points": ["连载《东启介と聴活♪》圣诞特别活动纪念T恤"], "url": "https://matisowa.jp/382/", "publisher": "产经新闻社 Matisowa"},
     {
       "date": "2025-08-01",
       "title": "30岁生日音乐会《afterglow》周边",

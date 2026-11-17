@@ -3286,6 +3286,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mts_rev963",
+   "date": "2020-08-01",
+   "end": "",
+   "category": "采访／连载",
+   "title": "【MICHIMARU剧评】《泽西男孩 in Concert》",
+   "japanese": "【MICHIMARU劇評】『ジャージー・ボーイズ イン コンサート』",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://matisowa.jp/963/",
+   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "status": "已刊载",
+   "origin": "Matisowa",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw011.jpg",
+     "caption": "Matisowa 文章配图",
+     "source": "https://matisowa.jp/963/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "nat_link20",
    "date": "2020-08-10",
    "end": "",
@@ -6384,6 +6410,32 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "mts_rev3965",
+   "date": "2023-04-22",
+   "end": "",
+   "category": "采访／连载",
+   "title": "【MICHIMARU剧评】《二次会のひとたち》",
+   "japanese": "【MICHIMARU劇評】『二次会のひとたち』",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://matisowa.jp/3965/",
+   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "status": "已刊载",
+   "origin": "Matisowa",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/04/nijikai_img_05.jpg",
+     "caption": "Matisowa 文章配图",
+     "source": "https://matisowa.jp/3965/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "m4355",
    "date": "2023-05-10",
    "end": "",
@@ -7326,6 +7378,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "mts_rev6805",
+   "date": "2023-09-20",
+   "end": "",
+   "category": "采访／连载",
+   "title": "【观剧专栏】音乐剧《拉格泰姆》",
+   "japanese": "【観劇コラム】ミュージカル『ラグタイム』▷記念すべき大作",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://matisowa.jp/6805/",
+   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "status": "已刊载",
+   "origin": "Matisowa",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/09/TC_0474.jpg",
+     "caption": "Matisowa 文章配图",
+     "source": "https://matisowa.jp/6805/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "qj95124",
@@ -8564,6 +8642,32 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/702/JBB_art202404.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报（音乐自然 Natalie 公演资料）",
      "source": "https://natalie.mu/stage/play/702",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
+   "id": "mts_col9842",
+   "date": "2024-06-21",
+   "end": "",
+   "category": "采访／连载",
+   "title": "【专栏】百老汇音乐剧《长靴皇后》：新世代音乐剧明星齐聚",
+   "japanese": "ブロードウェイミュージカル『キンキーブーツ』▷次世代ミュージカルスターがそろい踏み！",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://matisowa.jp/9842/",
+   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "status": "已刊载",
+   "origin": "Matisowa",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2024/06/M_キンキーブーツ2025_情報解禁IMG_3208.jpg",
+     "caption": "Matisowa 文章配图",
+     "source": "https://matisowa.jp/9842/",
      "asset": "",
      "resolution": ""
     }
@@ -10023,6 +10127,32 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KQTdgxwr-mtVICldXSrU4Ps"
     }
    ]
+  },
+  {
+   "id": "mts_rev15126",
+   "date": "2025-08-27",
+   "end": "",
+   "category": "采访／连载",
+   "title": "【观剧专栏】音乐剧《泽西男孩》2025",
+   "japanese": "【観劇コラム】ミュージカル『ジャージー・ボーイズ』▷スター人生の悲喜交々を名曲で綴る",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://matisowa.jp/15126/",
+   "note": "产经新闻社 Matisowa 刊载的剧评／专栏，涉及东启介的演出。",
+   "status": "已刊载",
+   "origin": "Matisowa",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2025/08/JB_0002.jpg",
+     "caption": "Matisowa 文章配图",
+     "source": "https://matisowa.jp/15126/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "bro_202509",
