@@ -83,7 +83,10 @@ window.ARCHIVE = {
      "title": "東啓介 2013 テニミュ",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KRoDY2_LPrTBItrUQZvTzHB"
     }
-   ]
+   ],
+   "roleRoma": "CHITOSE SENRI",
+   "workRoma": "SEIGAKU vs SHITENHOJI",
+   "roleName": "千岁千里"
   },
   {
    "id": "e2",
@@ -205,7 +208,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "CHITOSE SENRI",
+   "workRoma": "ZENKOKU TAIKAI vs RIKKAI",
+   "roleName": "千岁千里"
   },
   {
    "id": "mag_rm_53687262",
@@ -450,7 +456,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "ODA RYO",
+   "workRoma": "INORI NO HITSUGI",
+   "roleName": "织田亮"
   },
   {
    "id": "e6",
@@ -535,7 +544,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "HARADA SANOSUKE",
+   "workRoma": "REIMEIROKU",
+   "roleName": "原田左之助"
   },
   {
    "id": "e7",
@@ -585,7 +597,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "KOBAYASHI RIKU",
+   "workRoma": "RASPBERRY BOY 2",
+   "roleName": "小林淕"
   },
   {
    "id": "ayakashi15",
@@ -806,7 +821,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "HARADA SANOSUKE",
+   "workRoma": "SHINSENGUMI KITAN",
+   "roleName": "原田左之助"
   },
   {
    "id": "e10",
@@ -868,7 +886,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "ASHIKIBA TAKUTO",
+   "workRoma": "SOHOKU SHINSEDAI",
+   "roleName": "苇木场拓斗"
   },
   {
    "id": "mag_rk14108397",
@@ -952,7 +973,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SHOKUDAIKIRI MITSUTADA",
+   "workRoma": "KYODEN",
+   "roleName": "烛台切光忠"
   },
   {
    "id": "bro_201606",
@@ -1094,7 +1118,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "WILL",
+   "workRoma": "ANOTHER WORLD",
+   "roleName": "Will"
   },
   {
    "id": "nat_omoshii6",
@@ -1391,7 +1418,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "ASHIKIBA TAKUTO",
+   "workRoma": "HAKOGAKU SHINSEDAI",
+   "roleName": "苇木场拓斗"
   },
   {
    "id": "bro_201610",
@@ -1647,7 +1677,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SHOKUDAIKIRI MITSUTADA",
+   "workRoma": "KYODEN · REVIVAL",
+   "roleName": "烛台切光忠"
   },
   {
    "id": "mag_rk14585124",
@@ -2032,7 +2065,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "ASHIKIBA TAKUTO",
+   "workRoma": "STARTING LINE",
+   "roleName": "苇木场拓斗"
   },
   {
    "id": "bro_201703",
@@ -2275,7 +2311,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "HARADA SANOSUKE",
+   "workRoma": "HARADA SANOSUKE HEN",
+   "roleName": "原田左之助"
   },
   {
    "id": "mag_rk14799945",
@@ -2455,7 +2494,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SHOKUDAIKIRI MITSUTADA",
+   "workRoma": "GIDEN",
+   "roleName": "烛台切光忠"
   },
   {
    "id": "bro_201706",
@@ -2726,7 +2768,10 @@ window.ARCHIVE = {
      "title": "東啓介 2017-2018 TRUMPシリーズ",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KT45NPNYu5BD1lDYe0lSf0v"
     }
-   ]
+   ],
+   "roleRoma": "LI CHUNLIN",
+   "workRoma": "GRAND GUIGNOL",
+   "roleName": "李春林"
   },
   {
    "id": "mag_mc_377465",
@@ -2992,7 +3037,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "WILL",
+   "workRoma": "EXTRA INVITATION",
+   "roleName": "Will"
   },
   {
    "id": "bro_201711",
@@ -3122,7 +3170,10 @@ window.ARCHIVE = {
      "title": "東啓介 2017 スカーレット・ピンパーネル",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KRv7VGdogwJ22EXUZaFisqg"
     }
-   ]
+   ],
+   "roleRoma": "HAL",
+   "workRoma": "THE SCARLET PIMPERNEL",
+   "roleName": "哈尔"
   },
   {
    "id": "pr_soda1801",
@@ -3413,7 +3464,10 @@ window.ARCHIVE = {
      "title": "東啓介 2018・2021 マタ・ハリ",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTQ8_KBHMUFNS0x7ZX_nfxn"
     }
-   ]
+   ],
+   "roleRoma": "ARMAND",
+   "workRoma": "MATA HARI",
+   "roleName": "阿尔芒"
   },
   {
    "id": "mag_mc_14353602",
@@ -3713,7 +3767,10 @@ window.ARCHIVE = {
      "title": "東啓介 2018 5DAYS",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KS_CkwMHfPSaTFXCk9ny1jK"
     }
-   ]
+   ],
+   "roleRoma": "HAWAR",
+   "workRoma": "5DAYS",
+   "roleName": "哈瓦尔"
   },
   {
    "id": "bro_201805",
@@ -3869,7 +3926,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SHOKUDAIKIRI MITSUTADA",
+   "workRoma": "HIDEN",
+   "roleName": "烛台切光忠"
   },
   {
    "id": "mag_rk15531823",
@@ -4137,7 +4197,10 @@ window.ARCHIVE = {
      "title": "東啓介 2017-2018 TRUMPシリーズ",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KT45NPNYu5BD1lDYe0lSf0v"
     }
-   ]
+   ],
+   "roleRoma": "COLEUS",
+   "workRoma": "MARIGOLD",
+   "roleName": "科利乌斯"
   },
   {
    "id": "bro_201809",
@@ -4388,7 +4451,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "TOKIMARU",
+   "workRoma": "USUZUMI ZAKURA",
+   "roleName": "时丸"
   },
   {
    "id": "nat_trumpten18",
@@ -4566,7 +4632,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "YAMADA HANIO",
+   "workRoma": "INOCHI URIMASU",
+   "roleName": "山田羽仁男"
   },
   {
    "id": "mag_rk15760957",
@@ -4975,7 +5044,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "HIROSE KAZUYA",
+   "workRoma": "COLOR OF LIFE",
+   "roleName": "广濑和也"
   },
   {
    "id": "mag_mc_54887563",
@@ -5080,7 +5152,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "KATSU RINTARO",
+   "workRoma": "KATSU KOKICHI DEN",
+   "roleName": "胜麟太郎"
   },
   {
    "id": "s158",
@@ -5138,7 +5213,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "YASUHIRA KATSUNARI",
+   "workRoma": "RE:FOLLOWER",
+   "roleName": "安平胜成"
   },
   {
    "id": "e31",
@@ -5191,7 +5269,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "ALFRED",
+   "workRoma": "DANCE OF THE VAMPIRES",
+   "roleName": "阿尔弗雷德"
   },
   {
    "id": "s149",
@@ -5285,7 +5366,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "FUJITA YOTARO",
+   "workRoma": "SIGNAL 100",
+   "roleName": "藤田阳太郎"
   },
   {
    "id": "e33",
@@ -5314,7 +5398,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "KAMIJIMA TOSHIO",
+   "workRoma": "SHONAN JUNAI GUMI",
+   "roleName": "神岛俊生"
   },
   {
    "id": "mag_rk16231273",
@@ -5408,7 +5495,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "AMOS",
+   "workRoma": "WHISTLE DOWN THE WIND",
+   "roleName": "埃莫斯"
   },
   {
    "id": "asast_081",
@@ -5582,7 +5672,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SHERLOCK HOLMES",
+   "workRoma": "A STUDY IN SCARLET",
+   "roleName": "夏洛克"
   },
   {
    "id": "asast_091",
@@ -5682,7 +5775,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "HARRY MENDELSOHN",
+   "workRoma": "DEFILED",
+   "roleName": "哈里"
   },
   {
    "id": "e37",
@@ -5718,7 +5814,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "BOB GAUDIO",
+   "workRoma": "JERSEY BOYS 2020",
+   "roleName": "鲍勃·高迪奥"
   },
   {
    "id": "e38",
@@ -6039,7 +6138,10 @@ window.ARCHIVE = {
      "title": "東啓介 2020 恋燃ゆる",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KQJdzlJIhmceDZB0MSOrtyQ"
     }
-   ]
+   ],
+   "roleRoma": "MASANOSUKE",
+   "workRoma": "KOI MOYURU",
+   "roleName": "政之助"
   },
   {
    "id": "mag_ya_square02",
@@ -6364,7 +6466,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "WATARI SHUICHI",
+   "workRoma": "UCHIKARE",
+   "roleName": "涉周一"
   },
   {
    "id": "e83",
@@ -6893,7 +6998,10 @@ window.ARCHIVE = {
      "title": "東啓介 2021 イン・ザ・ハイツ",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KRp9nQqzjbjQKUqzubvpQYF"
     }
-   ]
+   ],
+   "roleRoma": "BENNY",
+   "workRoma": "IN THE HEIGHTS",
+   "roleName": "本尼"
   },
   {
    "id": "m431",
@@ -7029,7 +7137,10 @@ window.ARCHIVE = {
      "title": "東啓介 2018・2021 マタ・ハリ",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTQ8_KBHMUFNS0x7ZX_nfxn"
     }
-   ]
+   ],
+   "roleRoma": "ARMAND GIRAUD",
+   "workRoma": "MATA HARI 2021",
+   "roleName": "阿尔芒"
   },
   {
    "id": "pr_katokazuki_pb",
@@ -7291,7 +7402,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "KAGAMI OSAMU",
+   "workRoma": "TSUMARI SUKI",
+   "roleName": "加贺见修"
   },
   {
    "id": "m438",
@@ -7349,7 +7463,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "IDE YU",
+   "workRoma": "WATASHI GA KEMONO NI NATTA YORU",
+   "roleName": "井手祐"
   },
   {
    "id": "m439",
@@ -7544,7 +7661,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "KARASUMA KAORU",
+   "workRoma": "FIGHT SONG",
+   "roleName": "乌丸薰"
   },
   {
    "id": "mag_rk16989455",
@@ -7852,7 +7972,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "NAZO NO DANSHI",
+   "workRoma": "BUSHI MAC",
+   "roleName": "神秘男子"
   },
   {
    "id": "e48",
@@ -7881,7 +8004,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "KOGURE SHO",
+   "workRoma": "NANBA MG5",
+   "roleName": "小暮翔"
   },
   {
    "id": "m445",
@@ -8095,7 +8221,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "UOKAWA TAKAHIRO",
+   "workRoma": "CHASER GAME",
+   "roleName": "鱼川贵央"
   },
   {
    "id": "mag_rm_24909671",
@@ -8218,7 +8347,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "NIKUMAMUSHI",
+   "workRoma": "YAMIKIN SAIHARA-SAN",
+   "roleName": "肉蝮"
   },
   {
    "id": "nat_gb66",
@@ -8287,7 +8419,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "BOB GAUDIO",
+   "workRoma": "JERSEY BOYS 2022",
+   "roleName": "鲍勃·高迪奥"
   },
   {
    "id": "m449",
@@ -8700,7 +8835,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "THOMAS",
+   "workRoma": "THE BEAUTIFUL GAME",
+   "roleName": "托马斯"
   },
   {
    "id": "m768",
@@ -9158,7 +9296,10 @@ window.ARCHIVE = {
      "title": "東啓介 2023 二次会のひとたち",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTL5MVWtzbR245pJ5MrS93q"
     }
-   ]
+   ],
+   "roleRoma": "NAKAUCHI KEISUKE",
+   "workRoma": "NIJIKAI NO HITOTACHI",
+   "roleName": "中内启介"
   },
   {
    "id": "mts_rev3965",
@@ -10031,7 +10172,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "TAKAHASHI SHOGO",
+   "workRoma": "MARUMARU-CHAN",
+   "roleName": "高桥彰吾"
   },
   {
    "id": "qj93039",
@@ -10213,7 +10357,10 @@ window.ARCHIVE = {
      "title": "東啓介 2023 ラグタイム",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTQM0LLHCbaTEEeuRsjub-K"
     }
-   ]
+   ],
+   "roleRoma": "YOUNGER BROTHER",
+   "workRoma": "RAGTIME",
+   "roleName": "Younger Brother"
   },
   {
    "id": "m6680",
@@ -10327,7 +10474,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SATONAKA ITSUKI",
+   "workRoma": "JOSHIKOSEI SO NI NARU",
+   "roleName": "里中树"
   },
   {
    "id": "mts_rev6805",
@@ -10969,7 +11119,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "",
+   "workRoma": "TORI TO ODORU",
+   "roleName": "鳥ト踊る"
   },
   {
    "id": "mag_mc_52905210",
@@ -11199,7 +11352,10 @@ window.ARCHIVE = {
      "title": "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTtUffbLn0TvtBrTHA8T8Pd"
     }
-   ]
+   ],
+   "roleRoma": "SUNAKAWA MADOKA",
+   "workRoma": "OPPAN",
+   "roleName": "砂川圆"
   },
   {
    "id": "nat_otokomae24",
@@ -11742,7 +11898,10 @@ window.ARCHIVE = {
      "title": "東啓介 2024 VIOLET",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KTCLpwUHlTp5wQCFPRvAbfP"
     }
-   ]
+   ],
+   "roleRoma": "FLICK",
+   "workRoma": "VIOLET",
+   "roleName": "弗利克"
   },
   {
    "id": "bro_202405",
@@ -12080,7 +12239,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "ERIC",
+   "workRoma": "DEATH TAKES A HOLIDAY",
+   "roleName": "埃里克"
   },
   {
    "id": "bro_202410",
@@ -12392,7 +12554,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SAKIYAMA RYOJI",
+   "workRoma": "BOKU TO BOKU GA SUKINA KARE TO KIMI TO",
+   "roleName": "崎山亮二"
   },
   {
    "id": "s178",
@@ -12606,7 +12771,10 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "TAKINO TAKASHI",
+   "workRoma": "MONDAI BUKKEN",
+   "roleName": "泷野高"
   },
   {
    "id": "nat_wmst25",
@@ -13070,7 +13238,10 @@ window.ARCHIVE = {
      "title": "東啓介 2025 キンキーブーツ",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KQfW9ZnPspbRA6hCdzM1XfF"
     }
-   ]
+   ],
+   "roleRoma": "CHARLIE PRICE",
+   "workRoma": "KINKY BOOTS",
+   "roleName": "查理"
   },
   {
    "id": "bro_202505",
@@ -13215,7 +13386,10 @@ window.ARCHIVE = {
    ],
    "pending": true,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SUNAKAWA MADOKA",
+   "workRoma": "OPPAN SP",
+   "roleName": "砂川圆"
   },
   {
    "id": "bro_202507",
@@ -13295,7 +13469,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SUNAKAWA MADOKA",
+   "workRoma": "OPPAN THE MOVIE",
+   "roleName": "砂川圆"
   },
   {
    "id": "s165",
@@ -13447,7 +13624,10 @@ window.ARCHIVE = {
      "title": "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)",
      "url": "https://www.youtube.com/playlist?list=PLIy6KwjpV9KQTdgxwr-mtVICldXSrU4Ps"
     }
-   ]
+   ],
+   "roleRoma": "BOB GAUDIO",
+   "workRoma": "JERSEY BOYS 2025",
+   "roleName": "鲍勃·高迪奥"
   },
   {
    "id": "mts_rev15126",
@@ -14114,7 +14294,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "BAROU SHOEI",
+   "workRoma": "BLUE LOCK",
+   "roleName": "马狼照英"
   },
   {
    "id": "mag_pash2609",
@@ -14263,7 +14446,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "HOKEN",
+   "workRoma": "KINGDOM II",
+   "roleName": "庞煖"
   },
   {
    "id": "web_swan_aud",
@@ -14464,7 +14650,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "KUSAKABE TSUBASA",
+   "workRoma": "SWAN",
+   "roleName": "草壁飞翔"
   },
   {
    "id": "web_swan_stream",
@@ -14598,7 +14787,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "MINETAKA KABURI",
+   "workRoma": "KAMEN RIDER MY-TH",
+   "roleName": "岭高华武利"
   },
   {
    "id": "add_12shi",
@@ -14696,7 +14888,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "MINETAKA KABURI",
+   "workRoma": "JUNISHI TOIRO",
+   "roleName": "岭高华武利"
   },
   {
    "id": "mag_mc_40155677",
@@ -15116,7 +15311,10 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleRoma": "SHOKUDAIKIRI MITSUTADA",
+   "workRoma": "YODEN",
+   "roleName": "烛台切光忠"
   },
   {
    "id": "mag_pash2612",
