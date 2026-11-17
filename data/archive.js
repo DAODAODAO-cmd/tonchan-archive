@@ -24591,7 +24591,7 @@ window.ARCHIVE = {
    "type": "舞台／剧集",
    "sourceType": "转载",
    "years": [
-    "2023"
+    "2021"
    ],
    "url": "https://www.bilibili.com/video/BV1Je4y1G7Cy/",
    "thumbnail": "https://i0.hdslb.com/bfs/archive/b9a90989ba60b35e0b92ef1de549cbc6bd48229d.jpg",
@@ -24603,7 +24603,8 @@ window.ARCHIVE = {
    "dateLabel": "2023.01.09 B站上传",
    "asset": "",
    "duration": "",
-   "available": true
+   "available": true,
+   "contentDate": "2021-06-14"
   },
   {
    "id": "BV1aM4y1m7DZ",
