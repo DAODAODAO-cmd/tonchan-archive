@@ -14272,6 +14272,10 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
+     "title": "电影中字（B站，P2正片）",
+     "url": "https://www.bilibili.com/video/BV1gvo7BkE7m/"
+    },
+    {
      "title": "本編冒頭映像＆キャラクター紹介映像！『映画 おっさんのパンツがなんだっていいじゃないか！』 冒頭映像",
      "url": "https://www.youtube.com/watch?v=KxeudWn9KZQ"
     },
@@ -15092,6 +15096,10 @@ window.ARCHIVE = {
     }
    ],
    "videos": [
+    {
+     "title": "主演专访中日字幕（B站）",
+     "url": "https://www.bilibili.com/video/BV1yjun6sExL/"
+    },
     {
      "title": "主題歌はAdo「モンストロ」｜映画『ブルーロック』予告②【8月7日(金)公開】",
      "url": "https://www.youtube.com/watch?v=7z-mf3a4X2E"
@@ -29083,6 +29091,46 @@ window.ARCHIVE = {
    "uploadDate": "2026-05-07",
    "contentDate": "2024-12-11",
    "dateLabel": "2026.05.07 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1yjun6sExL",
+   "title": "【中日字幕】真人电影《蓝色监狱》主演专访",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1yjun6sExL/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/8cba906f1c0a4de70ede66040f3ade0a7b194374.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1yjun6sExL/",
+   "uploadDate": "2026-08-06",
+   "contentDate": "2026-08-06",
+   "dateLabel": "2026.08.06 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1gvo7BkE7m",
+   "title": "电影《大叔的内裤穿什么都行吧！》（2025）中字",
+   "channel": "Autsu",
+   "type": "舞台／剧集",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1gvo7BkE7m/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/cadc0b133c5efc7994ff23e5bd52a9feac87553b.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1gvo7BkE7m/",
+   "uploadDate": "2026-04-25",
+   "contentDate": "2025-07-04",
+   "dateLabel": "2026.04.25 B站上传",
    "asset": ""
   }
  ],
