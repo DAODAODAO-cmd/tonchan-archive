@@ -540,7 +540,7 @@ window.ARCHIVE = {
    "crew": "作词・作曲：蝶々P",
    "key": false,
    "url": "https://www.youtube.com/watch?v=orJz2nBzkAs",
-   "note": "以组合“妖～AYAKASHI～”成员身份参与的企划，2015年8月12日发售出道单曲（EXIT TUNES）。同年有niconico座谈会《あくP 秘密の座談怪》、WE SHOP官方生写真，并于EXIT TUNES ACADEMY 日本武道馆2015登台。",
+   "note": "“2.5次元妖怪アイドル”组合妖～AYAKASHI～（安川纯平、东启介、中尾畅树、榆木直也、谷井优贵），由D-BOYS阿久津愼太郎担任制作人，源自节目《7Days BOYS》。2015年8月12日由EXIT TUNES发售出道单曲，作词作曲蝶々P，编舞九瓏ケント。同年有niconico座谈会、WE SHOP官方生写真，并登台EXIT TUNES ACADEMY 日本武道馆2015。",
    "status": "已发售",
    "origin": "官方MV／EXIT TUNES",
    "dateKind": "day",
@@ -557,6 +557,10 @@ window.ARCHIVE = {
     {
      "title": "憑き夜に踊れ MV",
      "url": "https://www.youtube.com/watch?v=orJz2nBzkAs"
+    },
+    {
+     "title": "憑き夜に踊れ 打call练习版",
+     "url": "https://www.youtube.com/watch?v=MjNM4hRzQPU"
     }
    ]
   },
@@ -17586,7 +17590,7 @@ window.ARCHIVE = {
     "東啓介 2025 キンキーブーツ"
    ],
    "sourceType": "演员／其他频道",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "url": "https://www.youtube.com/watch?v=2YS9y8jsdmQ",
    "years": [
     "2025"
@@ -17624,7 +17628,7 @@ window.ARCHIVE = {
     "東啓介 歌"
    ],
    "sourceType": "官方／机构",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "url": "https://www.youtube.com/watch?v=eBFFewdNJWM",
    "years": [],
    "rel": "标题提及东启介",
@@ -19787,7 +19791,7 @@ window.ARCHIVE = {
    "title": "加藤和树×东启介｜《闇が広がる》（阴霾渐袭）",
    "japanese": "【加藤和樹＆東啓介】「闇が広がる」",
    "channel": "黑兔麻薯",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "字幕转载",
    "years": [
     "2022"
@@ -19829,7 +19833,7 @@ window.ARCHIVE = {
    "title": "《井上芳雄 by MYSELF》2023歌唱合集｜东启介参与分段",
    "japanese": "【井上芳雄】by MYSELF 唱歌合集（2023年）",
    "channel": "Next_to_Yoshio",
-   "type": "广播／音声",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2023"
@@ -20524,7 +20528,7 @@ window.ARCHIVE = {
    "id": "BV1Hk4y16769",
    "title": "加藤和树＆东启介《Always lovin' you》",
    "channel": "SakuraiNanase",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2020"
@@ -21063,7 +21067,7 @@ window.ARCHIVE = {
    "title": "New Musical『Color of Life』東啓介レコーディング映像(short ver.)",
    "channel": "ワタナベエンターテインメント【公式】",
    "sourceType": "官方／机构",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "url": "https://www.youtube.com/watch?v=kYWPu9ti5FM",
    "years": [
     "2019"
@@ -21909,7 +21913,7 @@ window.ARCHIVE = {
    "id": "BV1HwQLYEEuN",
    "title": "【大山真志&藤冈正明&中川晃教&东启介】Jersey Boys Medley",
    "channel": "_Stereo",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2025"
@@ -21951,7 +21955,7 @@ window.ARCHIVE = {
    "id": "BV1UqznY1EEr",
    "title": "【Kinky Boots】MV：「Not My Father's Son」東啓介×有澤樟太郎×甲斐翔真×松下優也",
    "channel": "Next_to_Yoshio",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2024"
@@ -22035,7 +22039,7 @@ window.ARCHIVE = {
    "id": "BV1Xb411a77s",
    "title": "【东启介】New Musical『Color of Life』レコーディング映像",
    "channel": "有琴惹",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2019"
@@ -22098,7 +22102,7 @@ window.ARCHIVE = {
    "id": "BV1stJs6fEPw",
    "title": "【中字】Bohemian Rhapsody 中川晃教&藤冈正明&东启介&大山真志",
    "channel": "_Stereo",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2026"
@@ -22119,7 +22123,7 @@ window.ARCHIVE = {
    "id": "BV1Lt4y1y7Me",
    "title": "东启介&加藤和树『Always Lovin‘ You』",
    "channel": "Alyoshark",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2020"
@@ -22140,7 +22144,7 @@ window.ARCHIVE = {
    "id": "BV1cU4y1o78H",
    "title": "【JMF2022】闇が広がる 加藤和树x东启介",
    "channel": "白家阿墨",
-   "type": "演出／歌唱",
+   "type": "本人歌唱",
    "sourceType": "转载",
    "years": [
     "2022"
@@ -23492,7 +23496,7 @@ window.ARCHIVE = {
    "id": "BV1Hb41127Wc",
    "title": "【个翻/安利向】东启介的あさステ！190214情人节片段，歌王上线",
    "channel": "有琴惹",
-   "type": "广播／音声",
+   "type": "本人歌唱",
    "sourceType": "B站搬运",
    "years": [
     "2019"
@@ -25595,6 +25599,82 @@ window.ARCHIVE = {
    "source": "https://www.youtube.com/watch?v=orJz2nBzkAs",
    "uploadDate": "2015-07-31",
    "dateLabel": "2015 公开",
+   "asset": ""
+  },
+  {
+   "id": "MjNM4hRzQPU",
+   "title": "【コール練習用動画】憑き夜に踊れ／妖～AYAKASHI～",
+   "channel": "EXIT TUNES",
+   "type": "本人歌唱",
+   "sourceType": "官方",
+   "years": [
+    "2015"
+   ],
+   "url": "https://www.youtube.com/watch?v=MjNM4hRzQPU",
+   "thumbnail": "https://i.ytimg.com/vi/MjNM4hRzQPU/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "官方｜2015",
+   "source": "https://www.youtube.com/watch?v=MjNM4hRzQPU",
+   "uploadDate": "2015-04-17",
+   "dateLabel": "2015 公开",
+   "asset": ""
+  },
+  {
+   "id": "Wwusk5Wuffk",
+   "title": "【東啓介】出演作品 歌唱パート 2019年〜2024年（官方歌唱影像合集）",
+   "channel": "アンジョーTJ",
+   "type": "本人歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.youtube.com/watch?v=Wwusk5Wuffk",
+   "thumbnail": "https://i.ytimg.com/vi/Wwusk5Wuffk/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "B站有｜2025",
+   "source": "https://www.youtube.com/watch?v=Wwusk5Wuffk",
+   "uploadDate": "2025-03-29",
+   "dateLabel": "2025 公开",
+   "asset": ""
+  },
+  {
+   "id": "yEDAhSN3Ago",
+   "title": "【Club SLAZY】FAKE／東啓介（Will）",
+   "channel": "りきにゃは",
+   "type": "本人歌唱",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.youtube.com/watch?v=yEDAhSN3Ago",
+   "thumbnail": "https://i.ytimg.com/vi/yEDAhSN3Ago/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "B站有｜2019",
+   "source": "https://www.youtube.com/watch?v=yEDAhSN3Ago",
+   "uploadDate": "2019-08-08",
+   "dateLabel": "2019 公开",
+   "asset": ""
+  },
+  {
+   "id": "1GWWzPtC5i0",
+   "title": "東啓介、青野紗穂 New Musical『Color of Life』公開舞台稽古",
+   "channel": "ランラン編集部",
+   "type": "演出／歌唱",
+   "sourceType": "媒体",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.youtube.com/watch?v=1GWWzPtC5i0",
+   "thumbnail": "https://i.ytimg.com/vi/1GWWzPtC5i0/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "媒体｜2019",
+   "source": "https://www.youtube.com/watch?v=1GWWzPtC5i0",
+   "uploadDate": "2019-04-18",
+   "dateLabel": "2019 公开",
    "asset": ""
   }
  ],
