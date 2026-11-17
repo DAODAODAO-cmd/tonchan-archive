@@ -4030,6 +4030,10 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
+     "title": "tvk「猫のひたいほどワイド」宣传（B站）",
+     "url": "https://www.bilibili.com/video/BV1VW411g7qQ/"
+    },
+    {
      "title": "Rock Musical『5DAYS 辺境のロミオとジュリエット』公開ゲネプロ",
      "url": "https://www.youtube.com/watch?v=n5xS0TZwhSE"
     },
@@ -6847,6 +6851,10 @@ window.ARCHIVE = {
     {
      "title": "『ウチの娘は、彼氏が出来ない!!』イケメン整体師で話題の東啓介、ドラマの見どころを語る",
      "url": "https://www.youtube.com/watch?v=_0XZ9yFswhQ"
+    },
+    {
+     "title": "东启介cut（B站）",
+     "url": "https://www.bilibili.com/video/BV1VK4y1n7bD/"
     }
    ],
    "pending": false,
@@ -8126,6 +8134,10 @@ window.ARCHIVE = {
     }
    ],
    "videos": [
+    {
+     "title": "乌丸薰cut ep1–8（B站）",
+     "url": "https://www.bilibili.com/video/BV1Wv4y137WQ/"
+    },
     {
      "title": "東啓介、2022年の飛躍誓う「もっと知ってもらえるように」　1月期連続ドラマ「ファイトソング」出演も　“お正月スペシャルメッセージ”",
      "url": "https://www.youtube.com/watch?v=9nsfPqZlbyU"
@@ -29762,6 +29774,46 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1j7MhzDE6m/",
    "uploadDate": "2025-06-15",
    "dateLabel": "2025.06.15 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Wv4y137WQ",
+   "title": "《Fight Song》乌丸薰 cut（ep1–8）",
+   "channel": "KKRooo",
+   "type": "剧集cut",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Wv4y137WQ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/8566b6bcd455bc0c5d79ae89bb338b14c3a768e5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2022",
+   "source": "https://www.bilibili.com/video/BV1Wv4y137WQ/",
+   "uploadDate": "2022-06-05",
+   "contentDate": "2022-01-11",
+   "dateLabel": "2022.06.05 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1VW411g7qQ",
+   "title": "2018.03.15 tvk《猫のひたいほどワイド》（5DAYS宣传）",
+   "channel": "KKRooo",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.bilibili.com/video/BV1VW411g7qQ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/fdda7b0d67db45dbe5cef86bf38bab077a0a298c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2018",
+   "source": "https://www.bilibili.com/video/BV1VW411g7qQ/",
+   "uploadDate": "2018-03-21",
+   "contentDate": "2018-03-15",
+   "dateLabel": "2018.03.21 B站上传",
    "asset": ""
   }
  ],
