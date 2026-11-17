@@ -8475,45 +8475,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "e50",
-   "date": "2022-09-20",
-   "end": "2022-12-27",
-   "category": "电视剧",
-   "title": "《暗金丑岛君外传：暗金犀原小姐》",
-   "japanese": "闇金ウシジマくん外伝 闇金サイハラさん",
-   "role": "肉蝮",
-   "crew": "",
-   "key": "saihara",
-   "url": "https://www.mbs.jp/saihara/",
-   "note": "官方为9月20日深夜；实际日历为9月21日。",
-   "status": "",
-   "origin": "",
-   "dateKind": "官方标注首播日",
-   "images": [
-    {
-     "url": "https://ogre.natalie.mu/media/news/eiga/2022/0807/yamikinsaiharasan_20220807_01.jpg",
-     "caption": "宣传海报",
-     "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://www.mbs.jp/saihara/images/ogp-new.jpg?0808",
-     "caption": "海报",
-     "source": "https://www.mbs.jp/saihara/",
-     "asset": "36b0be661d78a85a",
-     "resolution": "1200 × 630"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": [],
-   "roleRoma": "NIKUMAMUSHI",
-   "workRoma": "YAMIKIN SAIHARA-SAN",
-   "roleName": "肉蝮"
-  },
-  {
    "id": "nat_gb66",
    "date": "2022-09-30",
    "end": "",
@@ -8678,6 +8639,52 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "e50",
+   "date": "2022-11-08",
+   "end": "2022-12-27",
+   "category": "电视剧",
+   "title": "《暗金丑岛君外传：暗金犀原小姐》第8集",
+   "japanese": "闇金ウシジマくん外伝 闇金サイハラさん",
+   "role": "肉蝮",
+   "crew": "",
+   "key": "saihara",
+   "url": "https://www.mbs.jp/saihara/",
+   "note": "第8集登场，演肉蝮。",
+   "status": "",
+   "origin": "",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2022/0807/yamikinsaiharasan_20220807_01.jpg",
+     "caption": "宣传海报",
+     "source": "https://natalie.mu/profile/86678/news",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://www.mbs.jp/saihara/images/ogp-new.jpg?0808",
+     "caption": "海报",
+     "source": "https://www.mbs.jp/saihara/",
+     "asset": "36b0be661d78a85a",
+     "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/FhCDh0raUAAoEi9?format=jpg&name=large",
+     "caption": "角色照：肉蝮（本人X）",
+     "source": "https://x.com/keisuke_higashi/status/1589915291613790208",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [],
+   "roleRoma": "NIKUMAMUSHI",
+   "workRoma": "YAMIKIN SAIHARA-SAN",
+   "roleName": "肉蝮"
   },
   {
    "id": "m450",
