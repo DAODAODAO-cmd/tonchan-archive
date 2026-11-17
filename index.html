@@ -239,6 +239,24 @@ footer p{margin:4px 0}
   .tabbar a.main{background:#7f9c88;color:#fff;margin:0 2px}
   .tabbar a.on{color:#3b3631;font-weight:600}
 }
+
+/* 饰演角色 */
+.roles{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;border-radius:22px;box-shadow:var(--shadow);scrollbar-width:thin}
+.rl{flex:0 0 210px;scroll-snap-align:start;display:flex;flex-direction:column;background:var(--c2);color:var(--c1);text-decoration:none}
+.rl-band{height:12px;background:var(--c1)}
+.rl-pst{height:150px;display:flex;align-items:center;justify-content:center;padding:14px 16px 0}
+.rl-pst img{max-width:100%;max-height:136px;object-fit:contain;box-shadow:0 6px 16px rgba(0,0,0,.18)}
+.rl-yr{text-align:center;font-weight:700;font-size:14px;margin:12px 0 4px;letter-spacing:.06em}
+.rl-dv{display:flex;align-items:center;gap:6px;margin:0 14px;opacity:.55;font-size:10px}.rl-dv i{flex:1;height:1px;background:currentColor}
+.rl-nm{height:230px;display:flex;justify-content:center;gap:10px;padding:18px 0 12px;box-sizing:border-box}
+.rl-nm b{writing-mode:vertical-rl;font-family:var(--serif);font-weight:500;font-size:26px;letter-spacing:.18em;max-height:200px;overflow:hidden}
+.rl-nm small{writing-mode:vertical-rl;font-size:11px;letter-spacing:.2em;opacity:.7;max-height:200px;overflow:hidden}
+.rl-wk{background:var(--c1);color:rgba(255,255,255,.8);text-align:center;font-size:11px;padding:10px 10px 8px;line-height:1.45;min-height:48px;display:flex;align-items:center;justify-content:center;box-sizing:border-box}
+.rl-ph{height:240px;overflow:hidden;background:var(--c1)}
+.rl-ph img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 12%}
+.rl-lb{background:var(--c1);color:#fff;text-align:center;font-weight:700;padding:12px 8px 14px;font-size:15px;letter-spacing:.06em}
+.rnav{display:flex;gap:8px}.rnav button{border:1px solid var(--line);background:var(--card);border-radius:50%;width:34px;height:34px;cursor:pointer;color:var(--ink)}
+@media(max-width:640px){.rl{flex-basis:46vw}.rl-nm b{font-size:22px}.rl-ph{height:200px}.rl-pst{height:120px}.rl-pst img{max-height:106px}}
 </style>
 <script>document.addEventListener('load',function(e){var i=e.target;if(i&&i.tagName==='IMG'&&i.naturalHeight>i.naturalWidth*1.05&&!i.style.objectPosition)i.style.objectPosition='50% 15%'},true)</script>
 <style>img[src$=".png"]{background:#2e2622}</style>
@@ -247,7 +265,7 @@ footer p{margin:4px 0}
 <nav class="nav"><div class="wrap">
   <a class="logo" href="#top"><span>東</span>东启介 资讯站</a>
   <div class="pills" id="pills">
-    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边</a><a href="#profile">个人资料</a><a href="#links">官方渠道</a><a class="arch" href="list.html?g=all">编年档案 →</a>
+    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边</a><a href="#roles">角色</a><a href="#profile">个人资料</a><a href="#links">官方渠道</a><a class="arch" href="list.html?g=all">编年档案 →</a>
   </div>
 </div></nav>
 
@@ -307,6 +325,11 @@ footer p{margin:4px 0}
   <div class="goods" id="goodsGrid"></div>
   <div class="sub-head"><h3>过往周边 <small>已售罄 · 已结束，仅供回味</small></h3><div class="pgf" id="pastFilter"></div></div>
   <div class="goods past" id="pastGrid"></div>
+</div></section>
+
+<section class="sec" id="roles"><div class="wrap">
+  <div class="sec-head"><h2><em>ROLES</em>饰演角色</h2><div class="rnav"><button id="rPrev" aria-label="往前">‹</button><button id="rNext" aria-label="往后">›</button></div></div>
+  <div class="roles-wrap"><div class="roles" id="roleStrip"></div></div>
 </div></section>
 
 <section class="sec" id="profile"><div class="wrap">
@@ -422,6 +445,19 @@ $('workLinks').innerHTML=H.channels.works.map(c=>ext(c.url,c.name+' ↗')).join(
 /* 导航高亮 */
 const secs=[...document.querySelectorAll('section.sec')],pl=[...document.querySelectorAll('#pills a')];
 addEventListener('scroll',()=>{let cur='';for(const s of secs)if(s.getBoundingClientRect().top<120)cur=s.id;pl.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+cur))},{passive:true});
+
+/* 饰演角色卡 */
+(function(){
+const RC=['舞台','朗读剧','电视剧','网络剧','电影','动画电影','音乐会'];
+const PAL=[['#5e1f24','#e8d9c6'],['#26324a','#d9dde2'],['#4f7a6e','#e3e8d6'],['#7a6a4a','#d6cba0'],['#3d4f63','#e6e1d8'],['#6b3b5a','#ecdfe6'],['#2f5a4e','#dfe8e1'],['#8a4b2f','#f0e2d3'],['#4a4560','#e4e1ec'],['#5a5a2f','#e9e7cf']];
+const isRole=c=>/角色|人物|演员照|剧照|舞台照|定装|扮相|Will|宣传照/.test(c||'');
+const isPoster=c=>/海报|主视觉|场刊|封面|视觉/.test(c||'');
+const L=A.events.filter(e=>RC.includes(e.category)&&e.role&&e.role!=='本人'&&e.images&&e.images.length&&e.date<=today).sort((a,b)=>a.date.localeCompare(b.date));
+const hash=s=>{let h=0;for(const ch of s)h=(h*31+ch.charCodeAt(0))>>>0;return h};
+$('roleStrip').innerHTML=L.map(e=>{const ims=e.images.map(i=>({u:imgOf(i),c:i.caption}));const ro=ims.find(i=>isRole(i.c));const po=ims.find(i=>isPoster(i.c))||ims.find(i=>i!==ro)||ims[0];const p=PAL[hash(e.key||e.title.replace(/[（(].*$/,''))%PAL.length];const role=e.role.split(/[／/]/)[0];const sub=(e.japanese||'').replace(/[『』「」《》]/g,'');
+return '<a class="rl" href="list.html?g=all#'+esc(e.id)+'" style="--c1:'+p[0]+';--c2:'+p[1]+'"><div class="rl-band"></div><div class="rl-pst">'+(po?'<img src="'+esc(po.u)+'" alt="" loading="lazy">':'')+'</div><div class="rl-yr">'+e.date.slice(0,4)+'</div><div class="rl-dv"><span>✦</span><i></i><span>✦</span></div><div class="rl-nm"><b>'+esc(role)+'</b><small>'+esc(sub)+'</small></div><div class="rl-wk">'+esc(e.title.replace(/[《》]/g,''))+'</div><div class="rl-ph">'+(ro?'<img src="'+esc(ro.u)+'" alt="'+esc(role)+'" loading="lazy">':(po?'<img src="'+esc(po.u)+'" alt="" loading="lazy">':''))+'</div><div class="rl-lb">'+esc(role)+'</div></a>'}).join('');
+const st=$('roleStrip');$('rPrev').onclick=()=>st.scrollBy({left:-st.clientWidth*.8,behavior:'smooth'});$('rNext').onclick=()=>st.scrollBy({left:st.clientWidth*.8,behavior:'smooth'});
+})();
 </script>
 <nav class="tabbar" aria-label="快捷导航"><a href="#top"><i>⌂</i>首页</a><a href="#upcoming"><i>◷</i>日程</a><a class="main" href="list.html?g=all"><i>☰</i>编年档案</a><a href="#videos"><i>▷</i>视频</a><a href="#goods"><i>♡</i>周边</a></nav>
 </body>

@@ -470,7 +470,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://www.marv.jp/special/m-hakuoki-reimeiroku/images/cast/higashi.jpg",
-     "caption": "官网演员介绍照片（非角色定装照）",
+     "caption": "演员照",
      "source": "https://www.marv.jp/special/m-hakuoki-reimeiroku/cast.html",
      "asset": "32773476fa14877c",
      "resolution": "120 × 170"
@@ -797,7 +797,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/higashi.jpg",
-     "caption": "官网演员介绍照片（非角色定装照）",
+     "caption": "演员照",
      "source": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/cast.html",
      "asset": "32773476fa14877c",
      "resolution": "120 × 170"
@@ -3222,7 +3222,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://www.umegei.com/matahari2018/images/cast/cast_higashi.jpg",
-     "caption": "官网演员宣传照；请点原图核对造型",
+     "caption": "官网演员宣传照",
      "source": "https://www.umegei.com/matahari2018/",
      "asset": "7904c1e43705c5ac",
      "resolution": "590 × 800"
@@ -4195,7 +4195,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://garo-project.jp/usuzumizakura/sp/img/top/mainVisual.jpg",
-     "caption": "官方动画海报；本人为配音出演",
+     "caption": "官方动画海报",
      "source": "https://garo-project.jp/usuzumizakura/sp/news.php",
      "asset": "bd995b7b2381ea09",
      "resolution": "640 × 960"
@@ -9874,7 +9874,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
-     "caption": "角色宣传照：Younger Brother；原文注明东宝演剧部供图",
+     "caption": "角色宣传照：Younger Brother",
      "source": "https://matisowa.jp/6120/",
      "asset": "d878339cc942afd6",
      "resolution": "2000 × 2012"
@@ -12225,7 +12225,7 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph01.jpg",
-     "caption": "第2集官方剧照；不保证每张均含东启介",
+     "caption": "第2集官方剧照",
      "source": "https://www.fujitv.co.jp/mondaibukken/story/story02.html",
      "asset": "e52f41e499ac9293",
      "resolution": "1000 × 666"
