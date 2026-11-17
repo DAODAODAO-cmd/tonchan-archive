@@ -390,7 +390,7 @@ function drawWorks(){const g=groups.find(x=>x.k===curG);$('worksGrid').className
 $('workTabs').onclick=e=>{const b=e.target.closest('button');if(b){curG=b.dataset.k;drawWorks()}};drawWorks();
 
 /* videos */
-const VT={'全部':null,'本人歌唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访':['采访／发布会'],'节目·综艺':['节目／其他'],'幕后':['幕后／拍摄']};let curV='全部',curP='全平台';
+const VT={'全部':null,'本人歌唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访':['采访／发布会'],'节目·综艺':['节目／其他'],'SNS·直播':['SNS／直播'],'幕后':['幕后／拍摄']};let curV='全部',curP='全平台';
 function vdate(v){return v.uploadDate||(v.years&&v.years[0])||''}
 function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(v.type))&&(curP==='全平台'||(v.platform||'YouTube')===curP)).sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,8);
   $('vidGrid').innerHTML=list.map(v=>{const th=v.asset&&A.assets[v.asset]||v.thumbnail;return '<a class="card v" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="th">'+(th?'<img src="'+esc(th)+'" alt="" loading="lazy">':'<div class="bili">'+esc(v.platform||'video')+'</div>')+'<span class="pf">'+esc(v.platform||'YouTube')+'</span></div><div class="b"><b>'+esc(v.title)+'</b><small>'+esc(v.channel)+(vdate(v)?' · '+esc(fmt(vdate(v))):'')+'</small></div></a>'}).join('');

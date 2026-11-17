@@ -17817,7 +17817,7 @@ window.ARCHIVE = {
    "id": "BV1nLnX6vEPL",
    "title": "【中日字幕】东启介Instagram直播2026.10.25｜试玩赤猫驱动器与变身",
    "channel": "航海水上ライオン連合",
-   "type": "节目／其他",
+   "type": "SNS／直播",
    "sourceType": "字幕搬运",
    "years": [
     "2026"
@@ -17836,7 +17836,7 @@ window.ARCHIVE = {
    "id": "BV1Mjxj6oEFJ",
    "title": "【中日字幕】2026.10.25 Ins直播切片②｜华武利变身",
    "channel": "蒜瓣烧鸟",
-   "type": "节目／其他",
+   "type": "SNS／直播",
    "sourceType": "字幕搬运",
    "years": [
     "2026"
@@ -18045,7 +18045,7 @@ window.ARCHIVE = {
    "id": "BV1zmkuB8ETB",
    "title": "三浦凉介＆东启介 Ins直播2021.06.09（机翻字幕）",
    "channel": "云也睡觉",
-   "type": "节目／其他",
+   "type": "SNS／直播",
    "sourceType": "字幕搬运",
    "years": [
     "2026"
@@ -18064,7 +18064,7 @@ window.ARCHIVE = {
    "id": "BV1DA411s7wY",
    "title": "东启介 2020.12.25 Ins直播",
    "channel": "TNT那位别再用我号了",
-   "type": "节目／其他",
+   "type": "SNS／直播",
    "sourceType": "转载",
    "years": [
     "2020"
@@ -19432,7 +19432,7 @@ window.ARCHIVE = {
    "id": "BV1vfrTBnEQs",
    "title": "平间壮一&东启介Cut 倒计时音乐会之泽西男孩",
    "channel": "十二烷烃",
-   "type": "演出／歌唱",
+   "type": "舞台／剧集",
    "sourceType": "转载",
    "years": [
     "2026"
@@ -20272,7 +20272,7 @@ window.ARCHIVE = {
    "id": "BV1aqet6nE3C",
    "title": "【中日字幕】大家都被衍生剧的红猫帅哭了！东启介(岭高华武利)instagram直播2026.9.19",
    "channel": "航海水上ライオン連合",
-   "type": "节目／其他",
+   "type": "SNS／直播",
    "sourceType": "转载",
    "years": [
     "2026"
@@ -20293,7 +20293,7 @@ window.ARCHIVE = {
    "id": "BV1D9gk6aEg3",
    "title": "【中日字幕】原来30多岁也能当骑士啊 东启介(假面骑士红猫/岭高华武利)instagram直播 2026.7.22【假面骑士麦斯】",
    "channel": "航海水上ライオン連合",
-   "type": "节目／其他",
+   "type": "SNS／直播",
    "sourceType": "转载",
    "years": [
     "2026"
@@ -20314,7 +20314,7 @@ window.ARCHIVE = {
    "id": "BV1H3nX6MEzt",
    "title": "【中日字幕】东启介(岭高华武利):红猫戏服有多重？腰带试玩大翻车？演员也在猜结局！新写真集发售！instagram直播2026.10.25【假面骑士麦斯】",
    "channel": "航海水上ライオン連合",
-   "type": "节目／其他",
+   "type": "SNS／直播",
    "sourceType": "转载",
    "years": [
     "2026"
@@ -21197,6 +21197,424 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1iZ4y1H7L7/",
    "uploadDate": "2020-06-13",
    "dateLabel": "2020.06.13 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV17Uxe6ZESq",
+   "title": "假面骑士麦斯 岭高华武利扮演者东启介 假面骑士ZZZ 暗码编号:三扮演者玉城裕规合照",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV17Uxe6ZESq/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/c2677d4a366f322c51a61b37c26a7afc7a9b2636.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.30上传",
+   "source": "https://www.bilibili.com/video/BV17Uxe6ZESq/",
+   "uploadDate": "2026-10-30",
+   "dateLabel": "2026.10.30 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1SGxj6bEro",
+   "title": "【中日字幕】性感东东在线飞蛋，飞两次 东启介（岭高华武利）261025ins直播切片①",
+   "channel": "蒜瓣烧鸟",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1SGxj6bEro/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/193752eb540dbe89d819aa7631cdf9534b142c89.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.28上传",
+   "source": "https://www.bilibili.com/video/BV1SGxj6bEro/",
+   "uploadDate": "2026-10-28",
+   "dateLabel": "2026.10.28 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1UVxj6ZEoZ",
+   "title": "【中日字幕】东启介（岭高华武利）261025ins直播《假面骑士麦斯》部分",
+   "channel": "蒜瓣烧鸟",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1UVxj6ZEoZ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/4661eaea5fd1ae78f999edfe2fcaf4d5919c0033.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.28上传",
+   "source": "https://www.bilibili.com/video/BV1UVxj6ZEoZ/",
+   "uploadDate": "2026-10-28",
+   "dateLabel": "2026.10.28 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1gmHg6qEDH",
+   "title": "假面骑士麦斯 岭高华武利 东启介近照",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1gmHg6qEDH/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/1c4660aacd6e637a680b88fb1f7c0d92ff41695e.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.25上传",
+   "source": "https://www.bilibili.com/video/BV1gmHg6qEDH/",
+   "uploadDate": "2026-10-25",
+   "dateLabel": "2026.10.25 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1VgnM6cEAr",
+   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1VgnM6cEAr/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/eed345e3b0b74f60dc9e787f24ac2d984b7a0750.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.18上传",
+   "source": "https://www.bilibili.com/video/BV1VgnM6cEAr/",
+   "uploadDate": "2026-10-18",
+   "dateLabel": "2026.10.18 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1CZp56uEbH",
+   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文感谢大家收看今天的第6话！华武利这次真的好吓人。还有种子蛋……另外，番犬的骑士蛋，啊，究竟会变成什么样？敬请期待下一集",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1CZp56uEbH/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/1225fa7dec8ae2c74659970706161f7c5b736818.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.11上传",
+   "source": "https://www.bilibili.com/video/BV1CZp56uEbH/",
+   "uploadDate": "2026-10-11",
+   "dateLabel": "2026.10.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1UpHz6jEkS",
+   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文 感谢大家收看第5话！下周第6话《变成老鹰先生吧！》敬请期待！by staff",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1UpHz6jEkS/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/c21e18e6796880476e790fe7da3c5f46aaa6883a.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.10.04上传",
+   "source": "https://www.bilibili.com/video/BV1UpHz6jEkS/",
+   "uploadDate": "2026-10-04",
+   "dateLabel": "2026.10.04 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV14Ta46NECv",
+   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文 感谢大家今天收看第4话！这一集里华武利对达臣有点严格呢。居然只给了40分……接下来会变成什么样呢？笑下周也敬请期待",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV14Ta46NECv/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/d19cdcec338f6ea14737510776ce2e82cefc7c9f.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.27上传",
+   "source": "https://www.bilibili.com/video/BV14Ta46NECv/",
+   "uploadDate": "2026-09-27",
+   "dateLabel": "2026.09.27 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1N6eY69EFW",
+   "title": "假面骑士麦斯 岭高华武利扮演者东启介推文 感谢大家本周也收看假面骑士麦斯 这次的十二支同盟是不是有点紧张感？狸断的战斗方式和缇虎的切磋也十分精彩呢 敬请期待下周",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1N6eY69EFW/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/32c825b7c86e10f48f9238f710f38d0e3f603bb9.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.20上传",
+   "source": "https://www.bilibili.com/video/BV1N6eY69EFW/",
+   "uploadDate": "2026-09-20",
+   "dateLabel": "2026.09.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1PXYY6QEzm",
+   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文假面骑士麦斯感谢大家收看第2话！我个人感觉，恍惚间居然一周又过去了。已经迫不及待想看第3话了，哈哈。下周也请务必收看！",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1PXYY6QEzm/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/64988f2dac688f8a18249764fc11d51ff5a249d0.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.13上传",
+   "source": "https://www.bilibili.com/video/BV1PXYY6QEzm/",
+   "uploadDate": "2026-09-13",
+   "dateLabel": "2026.09.13 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1z5tE6XET3",
+   "title": "假面骑士赤猫 岭高华武利扮演者东启介形象照",
+   "channel": "月亮是我的谎言",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1z5tE6XET3/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/73309895cfa56878f05d385b3b4e525bd55fdfe0.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.09.02上传",
+   "source": "https://www.bilibili.com/video/BV1z5tE6XET3/",
+   "uploadDate": "2026-09-02",
+   "dateLabel": "2026.09.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV15c4R6LEwU",
+   "title": "【中日字幕】4部出演作品同时上映中！东启介(岭高华武利)instagram直播2026.8.27【假面骑士麦斯】",
+   "channel": "航海水上ライオン連合",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV15c4R6LEwU/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/a7d7f33240b39d20cbb6ad81bec97939a071f8f1.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.08.27上传",
+   "source": "https://www.bilibili.com/video/BV15c4R6LEwU/",
+   "uploadDate": "2026-08-27",
+   "dateLabel": "2026.08.27 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1GwrSB8EAt",
+   "title": "田代万里生&东启介Cut 这个选段的每个卡司表现的都很不错",
+   "channel": "十二烷烃",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1GwrSB8EAt/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/1bdebbff39408188a19f8fa66768bb1b2cf619fa.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.01.17上传",
+   "source": "https://www.bilibili.com/video/BV1GwrSB8EAt/",
+   "uploadDate": "2026-01-17",
+   "dateLabel": "2026.01.17 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1GcrSBcEgN",
+   "title": "田代万里生&东启介Cut 阿尔曼中尉啊，前线失守了，远东失守了，诺曼底登陆了，你是同盟军了。",
+   "channel": "十二烷烃",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1GcrSBcEgN/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/e18eb25741a7a508f2aa784ef996f6ea5167cc37.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.01.17上传",
+   "source": "https://www.bilibili.com/video/BV1GcrSBcEgN/",
+   "uploadDate": "2026-01-17",
+   "dateLabel": "2026.01.17 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV13G2RBdESD",
+   "title": "甲斐翔真Cut 东启介你抱过帕拉德也抱过永梦 我到底该羡慕你们三个人里的哪个 把燃冬过好吧",
+   "channel": "十二烷烃",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV13G2RBdESD/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/8b58b9ffd101f790b86757cdb10bf435647645ca.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2025.12.06上传",
+   "source": "https://www.bilibili.com/video/BV13G2RBdESD/",
+   "uploadDate": "2025-12-06",
+   "dateLabel": "2025.12.06 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1uP411572a",
+   "title": "9月深夜剧  东启介cut/相关",
+   "channel": "KKRooo",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/video/BV1uP411572a/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/54d342e82b06b2aed4dff5e5a2d451e466f7af38.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2022.09.08上传",
+   "source": "https://www.bilibili.com/video/BV1uP411572a/",
+   "uploadDate": "2022-09-08",
+   "dateLabel": "2022.09.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1hv411E7y1",
+   "title": "【东启介&三浦凉介】ins直播 0718",
+   "channel": "立入禁止的停业区",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1hv411E7y1/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/a1ecbf33592830594e011f9d326470d5e939779f.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.07.18上传",
+   "source": "https://www.bilibili.com/video/BV1hv411E7y1/",
+   "uploadDate": "2021-07-18",
+   "dateLabel": "2021.07.18 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV13X4y1V7Tp",
+   "title": "魔幻剧 我女儿怎么可能没人追 1080p无字 东启介cut 07",
+   "channel": "KKRooo",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV13X4y1V7Tp/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/2e4ea7d03b2ee7fb45b84396093d3926960cc01b.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.02.26上传",
+   "source": "https://www.bilibili.com/video/BV13X4y1V7Tp/",
+   "uploadDate": "2021-02-26",
+   "dateLabel": "2021.02.26 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ni4y1T7LB",
+   "title": "【東啓介】2020 4 or 5月某場ins live",
+   "channel": "北極喵兒",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ni4y1T7LB/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/b4fa48d091f9542f6cf0aede6242377f4573d0da.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.02.20上传",
+   "source": "https://www.bilibili.com/video/BV1ni4y1T7LB/",
+   "uploadDate": "2021-02-20",
+   "dateLabel": "2021.02.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1mK4y1n7Di",
+   "title": "魔幻剧 我女儿怎么可能没人追 1080p无字 东启介cut 06",
+   "channel": "KKRooo",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1mK4y1n7Di/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/838b4c73ebdf37ddcecc02672de5a61f07fbe97d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.02.18上传",
+   "source": "https://www.bilibili.com/video/BV1mK4y1n7Di/",
+   "uploadDate": "2021-02-18",
+   "dateLabel": "2021.02.18 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1VK4y1n7bD",
+   "title": "魔幻剧 我女儿怎么可能没人追 1080p无字 东启介cut 04",
+   "channel": "KKRooo",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1VK4y1n7bD/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/5e11eed8f137ce70c6b960c196f69cdb629c0b39.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.02.04上传",
+   "source": "https://www.bilibili.com/video/BV1VK4y1n7bD/",
+   "uploadDate": "2021-02-04",
+   "dateLabel": "2021.02.04 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ab411v7k9",
+   "title": "【東啓介】2019.3.7ins快拍（太可爱了1551",
+   "channel": "4xx___",
+   "type": "SNS／直播",
+   "sourceType": "B站搬运",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ab411v7k9/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/9baecf5458dc7cf0b7ee55539fbb31da77fc1b3c.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2019.03.08上传",
+   "source": "https://www.bilibili.com/video/BV1ab411v7k9/",
+   "uploadDate": "2019-03-08",
+   "dateLabel": "2019.03.08 B站上传",
    "asset": ""
   }
  ],
