@@ -2981,6 +2981,99 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "asast_081",
+   "date": "2020-04-16",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《东启介的あさステ！》第81回｜小南光司",
+   "japanese": "東啓介の「あさステ！」 ゲスト：小南光司",
+   "role": "木曜パーソナリティ",
+   "crew": "",
+   "key": false,
+   "url": "https://www.bilibili.com/video/BV1TQ4y1T7TK/",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 小南光司。B站有搬运。",
+   "status": "已结束",
+   "origin": "B站搬运",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://i0.hdslb.com/bfs/archive/49dfe4f050792e9d1071e30dbfcebd4465b8f53d.jpg",
+     "caption": "B站视频封面",
+     "source": "https://www.bilibili.com/video/BV1TQ4y1T7TK/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "【第81回】東啓介の「あさステ！」ゲスト：小南光司【0416配信】",
+     "url": "https://www.bilibili.com/video/BV1TQ4y1T7TK/"
+    }
+   ]
+  },
+  {
+   "id": "asast_082",
+   "date": "2020-04-23",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《东启介的あさステ！》第82回｜小南光司（第二周）",
+   "japanese": "東啓介の「あさステ！」 ゲスト：小南光司",
+   "role": "木曜パーソナリティ",
+   "crew": "",
+   "key": false,
+   "url": "https://www.bilibili.com/video/BV1i5411x7WJ/",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 小南光司。B站有搬运。",
+   "status": "已结束",
+   "origin": "B站搬运",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://i0.hdslb.com/bfs/archive/d497d9f26cee685492f7d57fa5c2a2fe2b333f4b.jpg",
+     "caption": "B站视频封面",
+     "source": "https://www.bilibili.com/video/BV1i5411x7WJ/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "【第82回】東啓介の「あさステ！」ゲスト：小南光司【4/23配信】",
+     "url": "https://www.bilibili.com/video/BV1i5411x7WJ/"
+    }
+   ]
+  },
+  {
+   "id": "asast_088",
+   "date": "2020-06-04",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《东启介的あさステ！》第88回｜植田圭辅",
+   "japanese": "東啓介の「あさステ！」 ゲスト：植田圭輔",
+   "role": "木曜パーソナリティ",
+   "crew": "",
+   "key": false,
+   "url": "https://www.bilibili.com/video/BV1fp4y1S74K/",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 植田圭輔。B站有搬运。",
+   "status": "已结束",
+   "origin": "B站搬运",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://i0.hdslb.com/bfs/archive/9e1d5d33389caf42bacea858e2e34b6c47db385d.jpg",
+     "caption": "B站视频封面",
+     "source": "https://www.bilibili.com/video/BV1fp4y1S74K/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "【第88回】東啓介の「あさステ！」ゲスト：植田圭輔【6/4配信】",
+     "url": "https://www.bilibili.com/video/BV1fp4y1S74K/"
+    }
+   ]
+  },
+  {
    "id": "nat_koe20",
    "date": "2020-06-18",
    "end": "",
@@ -3217,6 +3310,68 @@ window.ARCHIVE = {
     }
    ],
    "videos": []
+  },
+  {
+   "id": "asast_099",
+   "date": "2020-08-20",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《东启介的あさステ！》第99回｜尾上右近",
+   "japanese": "東啓介の「あさステ！」 ゲスト：尾上右近",
+   "role": "木曜パーソナリティ",
+   "crew": "",
+   "key": false,
+   "url": "https://www.bilibili.com/video/BV1rf4y1Q7h4/",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 尾上右近。B站有搬运。",
+   "status": "已结束",
+   "origin": "B站搬运",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://i0.hdslb.com/bfs/archive/70706d64449ff7fa9d48522191c26ced97fa48bd.jpg",
+     "caption": "B站视频封面",
+     "source": "https://www.bilibili.com/video/BV1rf4y1Q7h4/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "【第99回】東啓介の「あさステ！」ゲスト：尾上右近【8/20配信】",
+     "url": "https://www.bilibili.com/video/BV1rf4y1Q7h4/"
+    }
+   ]
+  },
+  {
+   "id": "asast_100",
+   "date": "2020-08-27",
+   "end": "",
+   "category": "广播／音声",
+   "title": "《东启介的あさステ！》第100回纪念｜尾上右近（第二周）",
+   "japanese": "東啓介の「あさステ！」 ゲスト：尾上右近",
+   "role": "木曜パーソナリティ",
+   "crew": "",
+   "key": false,
+   "url": "https://www.bilibili.com/video/BV1Wv41117iS/",
+   "note": "文化放送「あさステ！」木曜日，嘉宾 尾上右近。B站有搬运。",
+   "status": "已结束",
+   "origin": "B站搬运",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://i0.hdslb.com/bfs/archive/36e7ea0becaf226d34017fe902c6f353b6e72951.jpg",
+     "caption": "B站视频封面",
+     "source": "https://www.bilibili.com/video/BV1Wv41117iS/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "【第100回】東啓介の「あさステ！」ゲスト：尾上右近【8/27配信】",
+     "url": "https://www.bilibili.com/video/BV1Wv41117iS/"
+    }
+   ]
   },
   {
    "id": "e81",
@@ -21615,6 +21770,139 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1ab411v7k9/",
    "uploadDate": "2019-03-08",
    "dateLabel": "2019.03.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV11b411c796",
+   "title": "【生肉】181107广播节目「あさステ！」東啓介",
+   "channel": "木佐十五",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.bilibili.com/video/BV11b411c796/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/abfbf1fd034ff50a4b1347be10abe3cb45936ee9.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2018.11.09上传",
+   "source": "https://www.bilibili.com/video/BV11b411c796/",
+   "uploadDate": "2018-11-09",
+   "dateLabel": "2018.11.09 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1TQ4y1T7TK",
+   "title": "【第81回】東啓介の「あさステ！」ゲスト：小南光司【0416配信】",
+   "channel": "北極喵兒",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1TQ4y1T7TK/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/49dfe4f050792e9d1071e30dbfcebd4465b8f53d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.04.16上传",
+   "source": "https://www.bilibili.com/video/BV1TQ4y1T7TK/",
+   "uploadDate": "2020-04-16",
+   "dateLabel": "2020.04.16 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1i5411x7WJ",
+   "title": "【第82回】東啓介の「あさステ！」ゲスト：小南光司【4/23配信】",
+   "channel": "VOCALOIDの生放送",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1i5411x7WJ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/d497d9f26cee685492f7d57fa5c2a2fe2b333f4b.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.04.23上传",
+   "source": "https://www.bilibili.com/video/BV1i5411x7WJ/",
+   "uploadDate": "2020-04-23",
+   "dateLabel": "2020.04.23 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1fp4y1S74K",
+   "title": "【第88回】東啓介の「あさステ！」ゲスト：植田圭輔【6/4配信】",
+   "channel": "北極喵兒",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1fp4y1S74K/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/9e1d5d33389caf42bacea858e2e34b6c47db385d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.06.04上传",
+   "source": "https://www.bilibili.com/video/BV1fp4y1S74K/",
+   "uploadDate": "2020-06-04",
+   "dateLabel": "2020.06.04 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1HA411e7AV",
+   "title": "【第92回】東啓介の「あさステ！」ゲスト：藤田玲【7/2配信】",
+   "channel": "VOCALOIDの生放送",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1HA411e7AV/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/29ca80f2cba9ef61282c3ab7d519120f8a5e4590.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.07.02上传",
+   "source": "https://www.bilibili.com/video/BV1HA411e7AV/",
+   "uploadDate": "2020-07-02",
+   "dateLabel": "2020.07.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1rf4y1Q7h4",
+   "title": "【第99回】東啓介の「あさステ！」ゲスト：尾上右近【8/20配信】",
+   "channel": "VOCALOIDの生放送",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1rf4y1Q7h4/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/70706d64449ff7fa9d48522191c26ced97fa48bd.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.08.20上传",
+   "source": "https://www.bilibili.com/video/BV1rf4y1Q7h4/",
+   "uploadDate": "2020-08-20",
+   "dateLabel": "2020.08.20 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Wv41117iS",
+   "title": "【第100回】東啓介の「あさステ！」ゲスト：尾上右近【8/27配信】",
+   "channel": "VOCALOIDの生放送",
+   "type": "广播／音声",
+   "sourceType": "B站搬运",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Wv41117iS/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/36e7ea0becaf226d34017fe902c6f353b6e72951.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2020.08.27上传",
+   "source": "https://www.bilibili.com/video/BV1Wv41117iS/",
+   "uploadDate": "2020-08-27",
+   "dateLabel": "2020.08.27 B站上传",
    "asset": ""
   }
  ],
