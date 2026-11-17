@@ -25568,7 +25568,7 @@ window.ARCHIVE = {
    "title": "【ETA終演直後の出演者コメント】EXIT TUNES ACADEMY 日本武道館 2015（妖～AYAKASHI～出演）",
    "channel": "EXIT TUNES INC.",
    "type": "采访／发布会",
-   "sourceType": "官方",
+   "sourceType": "官方／机构",
    "years": [
     "2015"
    ],
@@ -25587,7 +25587,7 @@ window.ARCHIVE = {
    "title": "【8月12日発売】妖～AYAKASHI～／憑き夜に踊れ（出道单曲）",
    "channel": "EXIT TUNES",
    "type": "本人歌唱",
-   "sourceType": "官方",
+   "sourceType": "官方／机构",
    "years": [
     "2015"
    ],
@@ -25606,7 +25606,7 @@ window.ARCHIVE = {
    "title": "【コール練習用動画】憑き夜に踊れ／妖～AYAKASHI～",
    "channel": "EXIT TUNES",
    "type": "本人歌唱",
-   "sourceType": "官方",
+   "sourceType": "官方／机构",
    "years": [
     "2015"
    ],
