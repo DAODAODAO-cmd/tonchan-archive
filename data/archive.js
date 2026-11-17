@@ -12157,6 +12157,86 @@ window.ARCHIVE = {
     {
      "title": "FANTASTICS中島颯太、円先輩と2人で散歩中に視聴者に遭遇「『どういう状況？』って」『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
      "url": "https://www.youtube.com/watch?v=AE4ikpdzmdE"
+    },
+    {
+     "title": "「大叔的内裤怎么了!」新剧预告（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1Lw411b7hq/"
+    },
+    {
+     "title": "「大叔的内裤怎么了！」新剧预告第二弹（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1tQ4y1E7aE/"
+    },
+    {
+     "title": "帮助大叔缓和家庭关系（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1Rk4y1D7pw/"
+    },
+    {
+     "title": "大叔与介护犬 勇闯时髦中目黑（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1aw411E7hf/"
+    },
+    {
+     "title": "一边忙着校园恋爱一边提供心理咨询的中岛犬（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1ba4y1C7uz/"
+    },
+    {
+     "title": "心理治疗犬 拯救逃学少年兼顾恋爱（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1sK4y117HZ/"
+    },
+    {
+     "title": "理解充满爱与热情的腐女世界（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1D2421L7d5/"
+    },
+    {
+     "title": "中岛飒太 原作阅读感想（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1yy421a7gM/"
+    },
+    {
+     "title": "当城里小少爷遇到乡下穷小子（B站中字）",
+     "url": "https://www.bilibili.com/video/BV14x42197Ye/"
+    },
+    {
+     "title": "城里小少爷与乡下放牛郎的东京爱情故事（B站中字）",
+     "url": "https://www.bilibili.com/video/BV11m411D72U/"
+    },
+    {
+     "title": "东京少爷为爱走钢索只为一个乡下男人（B站中字）",
+     "url": "https://www.bilibili.com/video/BV12p421R75z/"
+    },
+    {
+     "title": "比恋爱脑更可悲的是清醒的恋爱脑（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1ov421C7TM/"
+    },
+    {
+     "title": "我抛家你弃考 双向奔赴的恋爱脑（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1PA4m1G7vS/"
+    },
+    {
+     "title": "苦鸳鸯第99次首谈冷战 夫夫第100次双双把家还（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1Ex4y1C7qW/"
+    },
+    {
+     "title": "小醋怡情 大醋失身 急了求婚（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1ZJ4m1e742/"
+    },
+    {
+     "title": "乡下汉子求娶城里少爷难过岳父关（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1vJ4m1Y7gK/"
+    },
+    {
+     "title": "九州男儿的求婚大作战（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1it421t7Ka/"
+    },
+    {
+     "title": "亲爹出现 一招回到解放前（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1S2421K7zK/"
+    },
+    {
+     "title": "恋爱高手大翻车，懵懂狗狗的坎坷追爱路（B站中字）",
+     "url": "https://www.bilibili.com/video/BV18J4m187Fc/"
+    },
+    {
+     "title": "完结撒花 九州大汉抱得美人归（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1gq421A7hq/"
     }
    ],
    "pending": false,
@@ -14231,6 +14311,14 @@ window.ARCHIVE = {
     {
      "title": "『おっさんのパンツがなんだっていいじゃないか！SP』6月28日（土）23時40分から放送！予告動画を初公開！",
      "url": "https://www.youtube.com/watch?v=V-5VydFvkOo"
+    },
+    {
+     "title": "叔裤sp+大电影强势回归，异地夫夫の婚姻保卫战（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1eh5Kz4EPy/"
+    },
+    {
+     "title": "叔裤sp预告：守护神陨落！谁动了本汪的饭碗（B站中字）",
+     "url": "https://www.bilibili.com/video/BV1j7MhzDE6m/"
     }
    ],
    "pending": true,
@@ -29256,6 +29344,424 @@ window.ARCHIVE = {
    "uploadDate": "2026-08-04",
    "contentDate": "2026-08-04",
    "dateLabel": "2026.08.04 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Lw411b7hq",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》「大叔的内裤怎么了!」新剧预告",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "预告／宣传",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Lw411b7hq/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/cdfa3b11b44b6bb208463832b41db35022fdcc3f.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2023",
+   "source": "https://www.bilibili.com/video/BV1Lw411b7hq/",
+   "uploadDate": "2023-12-05",
+   "dateLabel": "2023.12.05 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1tQ4y1E7aE",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》「大叔的内裤怎么了！」新剧预告第二弹",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "预告／宣传",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.bilibili.com/video/BV1tQ4y1E7aE/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/177b81fd581042715054d3f7a579fcf8275f3487.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2023",
+   "source": "https://www.bilibili.com/video/BV1tQ4y1E7aE/",
+   "uploadDate": "2023-12-25",
+   "dateLabel": "2023.12.25 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Rk4y1D7pw",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》帮助大叔缓和家庭关系",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Rk4y1D7pw/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/fc08f35728f41e40a96bab3cf33d565c0c961c00.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1Rk4y1D7pw/",
+   "uploadDate": "2024-01-09",
+   "dateLabel": "2024.01.09 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1aw411E7hf",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》大叔与介护犬 勇闯时髦中目黑",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1aw411E7hf/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/cc5a6b9ba55df525f7a7022849a95e73beb7323b.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1aw411E7hf/",
+   "uploadDate": "2024-01-22",
+   "dateLabel": "2024.01.22 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ba4y1C7uz",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》一边忙着校园恋爱一边提供心理咨询的中岛犬",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ba4y1C7uz/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/20ceec7dde9c82b9390f33de85bab75762234c10.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1ba4y1C7uz/",
+   "uploadDate": "2024-01-27",
+   "dateLabel": "2024.01.27 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1sK4y117HZ",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》心理治疗犬 拯救逃学少年兼顾恋爱",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1sK4y117HZ/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/352fe7a1a803f874c60dbb35cefcf71340c03473.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1sK4y117HZ/",
+   "uploadDate": "2024-01-29",
+   "dateLabel": "2024.01.29 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1D2421L7d5",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》理解充满爱与热情的腐女世界",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1D2421L7d5/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/c17f931b04a2adc155f61b163da70aff4ed5dad8.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1D2421L7d5/",
+   "uploadDate": "2024-01-29",
+   "dateLabel": "2024.01.29 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1yy421a7gM",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》中岛飒太 原作阅读感想",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "预告／宣传",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1yy421a7gM/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/6d7b94c545caa01d8ff4a26c5ebc5dc4972ca61f.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1yy421a7gM/",
+   "uploadDate": "2024-01-31",
+   "dateLabel": "2024.01.31 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV14x42197Ye",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》当城里小少爷遇到乡下穷小子",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV14x42197Ye/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/0f77d5513f3d1f8fef1ac0f8288218c573ab62e5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV14x42197Ye/",
+   "uploadDate": "2024-02-03",
+   "dateLabel": "2024.02.03 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV11m411D72U",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》城里小少爷与乡下放牛郎的东京爱情故事",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV11m411D72U/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/225289f4ee0f89efed3f124a0f4d78ca7c2b4a0f.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV11m411D72U/",
+   "uploadDate": "2024-02-11",
+   "dateLabel": "2024.02.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV12p421R75z",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》东京少爷为爱走钢索只为一个乡下男人",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV12p421R75z/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/a9ce4d556b450b09109abdbda9fb68902ac68ff5.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV12p421R75z/",
+   "uploadDate": "2024-02-11",
+   "dateLabel": "2024.02.11 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ov421C7TM",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》比恋爱脑更可悲的是清醒的恋爱脑",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ov421C7TM/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/776914ce58e2b5fc545a4c92aea45bdb761ed365.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1ov421C7TM/",
+   "uploadDate": "2024-02-12",
+   "dateLabel": "2024.02.12 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1PA4m1G7vS",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》我抛家你弃考 双向奔赴的恋爱脑",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1PA4m1G7vS/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/beac81df9e8dbe0d8f7bd1f70dbcfd491237c604.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1PA4m1G7vS/",
+   "uploadDate": "2024-02-19",
+   "dateLabel": "2024.02.19 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Ex4y1C7qW",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》苦鸳鸯第99次首谈冷战 夫夫第100次双双把家还",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Ex4y1C7qW/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/a76904bcd04ebda0a7c3068effb35a8eeed7fd91.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1Ex4y1C7qW/",
+   "uploadDate": "2024-02-24",
+   "dateLabel": "2024.02.24 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1ZJ4m1e742",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》小醋怡情 大醋失身 急了求婚",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1ZJ4m1e742/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/9691ac55c7fe21bb68b62ac7e07c0042a1bf1219.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1ZJ4m1e742/",
+   "uploadDate": "2024-02-26",
+   "dateLabel": "2024.02.26 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1vJ4m1Y7gK",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》乡下汉子求娶城里少爷难过岳父关",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1vJ4m1Y7gK/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/5887755b68ed15452a014ff0f1c0dce93dd0a788.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1vJ4m1Y7gK/",
+   "uploadDate": "2024-03-02",
+   "dateLabel": "2024.03.02 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1it421t7Ka",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》九州男儿的求婚大作战",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1it421t7Ka/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/6fd57dfba1588718abb705bab07f2580dc261310.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1it421t7Ka/",
+   "uploadDate": "2024-03-05",
+   "dateLabel": "2024.03.05 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1S2421K7zK",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》亲爹出现 一招回到解放前",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1S2421K7zK/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/e053baaa6102882bbed21ccc72c95ebe2001239a.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1S2421K7zK/",
+   "uploadDate": "2024-03-12",
+   "dateLabel": "2024.03.12 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV18J4m187Fc",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》恋爱高手大翻车，懵懂狗狗的坎坷追爱路",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV18J4m187Fc/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/b2d3b8540f1e9e66af23ef81844ef7d623623486.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV18J4m187Fc/",
+   "uploadDate": "2024-03-14",
+   "dateLabel": "2024.03.14 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1gq421A7hq",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》完结撒花 九州大汉抱得美人归",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "剧集cut",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1gq421A7hq/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/868d34896039cde42a18e59a35f1e6551849ed32.png",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1gq421A7hq/",
+   "uploadDate": "2024-03-26",
+   "dateLabel": "2024.03.26 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1eh5Kz4EPy",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》叔裤sp+大电影强势回归，异地夫夫の婚姻保卫战",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "预告／宣传",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1eh5Kz4EPy/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/c19aeb94ef8ab7558c09852df6e04058eb20bdf3.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2025",
+   "source": "https://www.bilibili.com/video/BV1eh5Kz4EPy/",
+   "uploadDate": "2025-05-08",
+   "dateLabel": "2025.05.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1j7MhzDE6m",
+   "title": "【中字】《大叔的内裤穿什么都行吧！》叔裤sp预告：守护神陨落！谁动了本汪的饭碗",
+   "channel": "大阪狗汪汪Sotalented",
+   "type": "预告／宣传",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1j7MhzDE6m/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/9eaa0411dc0e1ad2961dee8d490151b82c3e20f9.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2025",
+   "source": "https://www.bilibili.com/video/BV1j7MhzDE6m/",
+   "uploadDate": "2025-06-15",
+   "dateLabel": "2025.06.15 B站上传",
    "asset": ""
   }
  ],
