@@ -13983,6 +13983,10 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
+     "title": "千秋乐官摄（B站）",
+     "url": "https://www.bilibili.com/video/BV1zxT9zSEbc/"
+    },
+    {
      "title": "音乐剧世界 四人出演（B站）",
      "url": "https://www.bilibili.com/video/BV1GeJzzwEWR/"
     },
@@ -15580,6 +15584,10 @@ window.ARCHIVE = {
     }
    ],
    "videos": [
+    {
+     "title": "制作发表会完整版中日字幕（B站）",
+     "url": "https://www.bilibili.com/video/BV1hKuF6rEDG/"
+    },
     {
      "title": "【予告】仮面ライダーマイス　十二支十色　二話　十二支ファッションチェック①",
      "url": "https://www.youtube.com/watch?v=z7Pd-5nNOSk"
@@ -29188,6 +29196,66 @@ window.ARCHIVE = {
    "uploadDate": "2023-02-28",
    "contentDate": "2021-06-14",
    "dateLabel": "2023.02.28 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1zxT9zSEbc",
+   "title": "《长靴皇后》2025 千秋乐官摄",
+   "channel": "松下污也",
+   "type": "舞台／剧集",
+   "sourceType": "B站搬运",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.bilibili.com/video/BV1zxT9zSEbc/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/03fd1274cb52aa6cb9d102fde3c769d993d3f470.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2025",
+   "source": "https://www.bilibili.com/video/BV1zxT9zSEbc/",
+   "uploadDate": "2025-06-08",
+   "contentDate": "2025-06-08",
+   "dateLabel": "2025.06.08 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1Dz421q7zy",
+   "title": "【中字】3周了解『TRUMP系列』第1周（デリコズ・ナーサリー放送前SP）",
+   "channel": "Dooooo_2833333",
+   "type": "节目／其他",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1Dz421q7zy/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/b210b1d79e12a02439e8749e2a757c092513ae94.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2024",
+   "source": "https://www.bilibili.com/video/BV1Dz421q7zy/",
+   "uploadDate": "2024-07-12",
+   "contentDate": "2024-07-10",
+   "dateLabel": "2024.07.12 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1hKuF6rEDG",
+   "title": "【中日字幕/完整版】《假面骑士麦斯》制作发表会",
+   "channel": "航海水上ライオン連合",
+   "type": "采访／发布会",
+   "sourceType": "字幕搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1hKuF6rEDG/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/8e48408ee1246b6a5a32fe83385dedd04e19881b.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1hKuF6rEDG/",
+   "uploadDate": "2026-08-04",
+   "contentDate": "2026-08-04",
+   "dateLabel": "2026.08.04 B站上传",
    "asset": ""
   }
  ],
