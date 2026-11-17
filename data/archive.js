@@ -10057,6 +10057,31 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_animage2612",
+   "date": "2026-11-10",
+   "category": "杂志",
+   "title": "《Animage》2026年12月号｜《假面骑士麦斯》嶺高華武利",
+   "japanese": "アニメージュ 2026年12月号",
+   "role": "嶺高華武利／仮面ライダーマオウ",
+   "crew": "",
+   "key": false,
+   "url": "https://books.rakuten.co.jp/rb/18881389/",
+   "note": "封面要目列有《仮面ライダーマイス》，内页刊登东启介饰演的嶺高華武利。",
+   "status": "已发售",
+   "origin": "用户提供",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/1263/4912015771263_1_2.jpg?downsize=600:*",
+     "caption": "乐天图书公开封面",
+     "source": "https://books.rakuten.co.jp/rb/18881389/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "u_hiden_stream",
    "date": "2026-11-11",
    "end": "",
