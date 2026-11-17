@@ -2673,6 +2673,13 @@ window.ARCHIVE = {
    "dateKind": "原节目播出日",
    "images": [
     {
+     "url": "https://www.joqr.co.jp/article/images/asasute.jpg",
+     "caption": "文化放送节目图",
+     "source": "https://spice.eplus.jp/articles/270919",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://spice.eplus.jp/images/Yj65bhOdxXPLpcOU6L3DmFJ57PYW8i3lbzLjgTQ0XrqLjVJ6Bfm8HFZvRES53Dsy",
      "caption": "SPICE 新闻图",
      "source": "https://spice.eplus.jp/articles/270919",
@@ -4560,6 +4567,13 @@ window.ARCHIVE = {
    "dateKind": "发布日",
    "images": [
     {
+     "url": "https://pbs.twimg.com/media/HWFpmy8aUAAS7AB?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年11月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2117089419144622119",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
      "caption": "7net 公开商品图",
      "source": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
@@ -4619,10 +4633,10 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
-     "caption": "原发布页配图（作品海报／采访／活动宣传图）",
+     "caption": "演剧宣言采访图",
      "source": "https://engekisengen.com/genre/musical/42787/",
-     "asset": "0ad08f94d290331d",
-     "resolution": "1707 × 2560"
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -5219,6 +5233,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/ZZZ4517.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/768/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
      "source": "https://matisowa.jp/768/",
@@ -5305,6 +5326,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/1569/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
@@ -5393,6 +5421,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/03/higashi_26_01-scaled.jpeg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/2814/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
      "source": "https://matisowa.jp/2814/",
@@ -5464,6 +5499,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/04/★ITB_1243-scaled.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/3566/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
      "source": "https://matisowa.jp/3566/",
@@ -5534,6 +5576,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/05/TTB_20201006_02579r-scaled.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/4355/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
@@ -5730,6 +5779,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/06/『リトル・マーメイド』新メインビジュアル-scaled.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/4904/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
      "source": "https://matisowa.jp/4904/",
@@ -5875,6 +5931,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/07/①撮影：下坂敦俊_04A1381-scaled.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/5690/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
      "source": "https://matisowa.jp/5690/",
@@ -5961,6 +6024,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/07/★_ZZZ8436_01.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/5909/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/07/★_ZZZ8329_01.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
@@ -6078,18 +6148,18 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/6120/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
      "source": "https://matisowa.jp/6120/",
      "asset": "241a407e191d7715",
      "resolution": "2055 × 1269"
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
-     "caption": "角色宣传照：Younger Brother；原文注明东宝演剧部供图",
-     "source": "https://matisowa.jp/6120/",
-     "asset": "d878339cc942afd6",
-     "resolution": "2000 × 2012"
     }
    ],
    "videos": [],
@@ -6322,6 +6392,13 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/09/higashi_33_01.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/6680/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
      "source": "https://matisowa.jp/6680/",
@@ -6501,6 +6578,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/09/TA_0131.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/6981/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
@@ -6710,6 +6794,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/10/ウィリアム3009604_image2_1.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/7210/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
@@ -6934,6 +7025,39 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202312",
+   "date": "2023-12-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2023年12月〉",
+   "japanese": "WEオフィシャルブロマイド ～2023年12月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1730445453446299880",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GAPG5koakAAgwbs?format=jpg&name=large",
+     "caption": "WE官方生写真 2023年12月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1730445453446299880",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GAPG5ksasAADa4v?format=jpg&name=large",
+     "caption": "WE官方生写真 2023年12月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1730445453446299880",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "m7866",
    "date": "2023-12-10",
    "end": "",
@@ -6949,6 +7073,13 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/12/②撮影：荒井-健_RA40701.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/7866/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
      "caption": "发布方原文配图（并非该期所谈作品的本人参演证明）",
@@ -6990,6 +7121,39 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202401",
+   "date": "2024-01-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年1月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年1月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1742742650464428271",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GCMSEzJbMAAyDFF?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年1月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1742742650464428271",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GCMSHE3bwAAicgL?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年1月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1742742650464428271",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e63",
@@ -7055,6 +7219,39 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202402",
+   "date": "2024-02-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年2月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1752892023512989769",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GE_OH5QakAA5klx?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年2月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1752892023512989769",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GE_OMmraMAARGas?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年2月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1752892023512989769",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "s159",
    "date": "2024-02-23",
    "end": "",
@@ -7099,6 +7296,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0074-scaled.jpg",
+     "caption": "文章内配图",
+     "source": "https://matisowa.jp/8189/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
@@ -7171,6 +7375,39 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202403",
+   "date": "2024-03-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年3月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年3月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1763402093019459858",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GHjSRGJaAAAvkS4?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年3月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1763402093019459858",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GHjSRGIbwAA2NWM?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年3月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1763402093019459858",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e89",
    "date": "2024-03-04",
    "end": "",
@@ -7219,6 +7456,39 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202404",
+   "date": "2024-04-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年4月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年4月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1774633031112044863",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GJzg5q7boAAwXj9?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年4月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1774633031112044863",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GJzg62la8AABW_p?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年4月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1774633031112044863",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e64",
@@ -7277,6 +7547,72 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "bro_202405",
+   "date": "2024-05-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年5月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年5月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1785504666819637589",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GMY-lGraMAAp9vi?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年5月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1785504666819637589",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GMY-nccakAAVlLc?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年5月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1785504666819637589",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_202407",
+   "date": "2024-07-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年7月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年7月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1807619359038423360",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GRX0KERaYAAWb8X?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年7月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1807619359038423360",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GRX0KESboAAP7TH?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年7月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1807619359038423360",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "s161",
    "date": "2024-07-12",
    "end": "",
@@ -7304,6 +7640,39 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202408",
+   "date": "2024-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年8月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年8月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1818844102340780541",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GTtfXs4aoAASpHP?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年8月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1818844102340780541",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GTtfYyaagAA3Xjl?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年8月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1818844102340780541",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "mag_mc_67752920",
@@ -7335,6 +7704,39 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202409",
+   "date": "2024-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年9月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年9月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1830442374746849722",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GWcJXppa8AAxDui?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年9月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1830442374746849722",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GWcJXpobkAAiakx?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年9月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1830442374746849722",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e65",
    "date": "2024-09-28",
    "end": "2024-11-16",
@@ -7362,6 +7764,39 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202410",
+   "date": "2024-10-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年10月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年10月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1840953404857958860",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GYxhOm0a4AABw1n?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年10月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1840953404857958860",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GYxhOm1bQAAMSJh?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年10月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1840953404857958860",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "s163",
@@ -7480,6 +7915,39 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202411",
+   "date": "2024-11-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年11月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1852185681298428141",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GbRBq0oakAYkHXZ?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年11月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1852185681298428141",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GbRBq0pakAIVi8_?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年11月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1852185681298428141",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_rk18060821",
    "date": "2024-11-20",
    "end": "",
@@ -7507,6 +7975,39 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202412",
+   "date": "2024-12-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2024年12月〉",
+   "japanese": "WEオフィシャルブロマイド ～2024年12月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1863569760505786551",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GddFG6-WAAA6dm5?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年12月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1863569760505786551",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GddFHsEXEAAM6gX?format=jpg&name=large",
+     "caption": "WE官方生写真 2024年12月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1863569760505786551",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e66",
@@ -7621,6 +8122,39 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202501",
+   "date": "2025-01-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年1月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年1月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1876103850496782674",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GglCWW5agAEHyfp?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年1月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1876103850496782674",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GglCWW7bcAAueK_?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年1月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1876103850496782674",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e91",
@@ -7768,6 +8302,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202502",
+   "date": "2025-02-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年2月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1886254744555167976",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/Gi08SFYaMAAqQZH?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年2月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1886254744555167976",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e103",
    "date": "2025-02-21",
    "end": "",
@@ -7824,6 +8384,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202503",
+   "date": "2025-03-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年3月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年3月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1896395159325245461",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GlFQmeYboAAgg0-?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年3月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1896395159325245461",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "goods_annai",
@@ -7897,6 +8483,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202504",
+   "date": "2025-04-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年4月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年4月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1906934385167011958",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/Gna7FgxakAAu6kg?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年4月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1906934385167011958",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e68",
    "date": "2025-04-27",
    "end": "2025-06-08",
@@ -7953,6 +8565,58 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "bro_202505",
+   "date": "2025-05-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年5月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年5月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1917777830601187352",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/Gp1Qmw0aYAMeGSW?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年5月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1917777830601187352",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_202506",
+   "date": "2025-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年6月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年6月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1929374420247740687",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GsZ8jUFbsAAtZoP?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年6月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1929374420247740687",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e69",
    "date": "2025-06-28",
    "end": "",
@@ -7969,6 +8633,13 @@ window.ARCHIVE = {
    "dateKind": "播出日",
    "images": [
     {
+     "url": "https://www.tokai-tv.com/oppan/story/img/10/main.jpg",
+     "caption": "东海电视台官方剧照",
+     "source": "https://www.tokai-tv.com/oppan/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://www.tokai-tv.com/oppan/ogp.png",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
      "source": "https://www.tokai-tv.com/oppan/",
@@ -7980,6 +8651,32 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202507",
+   "date": "2025-07-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年7月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年7月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1939883143169024115",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GuvZbwzWIAAsIlE?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年7月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1939883143169024115",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e70",
@@ -8021,11 +8718,18 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/",
-   "note": "COTTON CLUB，16:00／19:00；活动日不是生日7月14日。",
+   "note": "30岁当天的一日限定生日音乐会。2025年7月11日（周五）于东京丸之内 COTTON CLUB 举行两场：1st 15:00开场/16:00开演，2nd 18:00开场/19:00开演。",
    "status": "主办方／原发布方已核对",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "assets/img/afterglow_poster.jpg",
+     "caption": "官方宣传海报（本人官方 Instagram 公告，2025-06-04）",
+     "source": "https://www.instagram.com/p/DKeQo4XSs6B/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/images/special_HigashiKeisuke.jpg",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
@@ -8037,7 +8741,13 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "links": [
+    {
+     "title": "官方 Instagram 公告",
+     "url": "https://www.instagram.com/p/DKeQo4XSs6B/"
+    }
+   ]
   },
   {
    "id": "s179",
@@ -8059,6 +8769,32 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202508",
+   "date": "2025-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年8月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年8月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1951115772069290390",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GxO-ibnaIAEiCIn?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年8月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1951115772069290390",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e71",
@@ -8095,6 +8831,32 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "bro_202509",
+   "date": "2025-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年9月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年9月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1962472508835455371",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GzwaMQ8bUAAmjz1?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年9月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1962472508835455371",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "s156",
    "date": "2025-09-22",
    "end": "2025-09-26",
@@ -8122,6 +8884,58 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "音声",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202510",
+   "date": "2025-10-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年10月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年10月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1973224824534405621",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/G2JNXKyaIAIYO0c?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年10月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1973224824534405621",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_202511",
+   "date": "2025-11-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年11月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1985542523205333199",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/G4gFo2GakAAwKG1?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年11月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1985542523205333199",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e72",
@@ -8182,6 +8996,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202512",
+   "date": "2025-12-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2025年12月〉",
+   "japanese": "WEオフィシャルブロマイド ～2025年12月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/1995403616744882570",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/G7EYbbHaYAA2-Nm?format=jpg&name=large",
+     "caption": "WE官方生写真 2025年12月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/1995403616744882570",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "s180",
    "date": "2025-12-31",
    "end": "",
@@ -8209,6 +9049,32 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202601",
+   "date": "2026-01-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2026年1月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年1月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2008012474168263077",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/G93kiYKa0AAMMSr?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年1月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2008012474168263077",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "s166",
@@ -8240,6 +9106,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202604",
+   "date": "2026-04-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2026年4月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年4月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2039283467339669914",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HEz9gUPa8AIxPV-?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年4月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2039283467339669914",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "s157",
    "date": "2026-04-20",
    "end": "2026-04-24",
@@ -8269,6 +9161,84 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202605",
+   "date": "2026-05-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2026年5月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年5月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2050050643692491082",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HHM-MafbMAA3QZL?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年5月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2050050643692491082",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_202606",
+   "date": "2026-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2026年6月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年6月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2061281676546977884",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HJshLd9bYAAu4VB?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年6月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2061281676546977884",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_202607",
+   "date": "2026-07-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2026年7月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年7月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2072153285755306087",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HMHEbdEbQAA6eNG?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年7月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2072153285755306087",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "web_swan_offi",
    "date": "2026-07-10",
    "end": "",
@@ -8296,6 +9266,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202608",
+   "date": "2026-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2026年8月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年8月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2084112199665254696",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HOw24LFaAAAiNHX?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年8月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2084112199665254696",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e74",
@@ -8498,6 +9494,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202609",
+   "date": "2026-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2026年9月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年9月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2094643934349988036",
+   "note": "渡边娱乐官方月度生写真（ワタナベ商店 / 7net 预约），东启介在当月阵容中。",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HRGqVt-aoAAIYCf?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年9月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2094643934349988036",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "web_animate260902",
@@ -8835,10 +9857,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/09/photel.jpg",
+     "caption": "官方合作图",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -8893,10 +9915,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "电影官方宣传图",
-     "source": "",
-     "asset": "41fabd23fcfce840",
+     "url": "https://www.tokai-tv.com/oppan/assets/img/top/header_poster.jpg",
+     "caption": "官方海报",
+     "source": "https://www.wowow.co.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -8922,10 +9944,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/utage.png",
+     "caption": "十周年特设站企划图",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -8951,10 +9973,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/tousta10th_animate_KV_0918-scaled.jpg",
+     "caption": "官方合作主视觉",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9051,10 +10073,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://www.stage-toukenranbu.jp/wp-content/themes/touken_2021/assets/og/hiden4_ogp.jpg",
+     "caption": "官方宣传图",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9159,10 +10181,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/05/tenranKV.png",
+     "caption": "十年轨迹展主视觉",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9217,10 +10239,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "电影官方宣传图",
-     "source": "",
-     "asset": "41fabd23fcfce840",
+     "url": "https://www.tokai-tv.com/oppan/assets/img/top/header_poster.jpg",
+     "caption": "官方海报",
+     "source": "https://www.wowow.co.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9267,10 +10289,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/05/tenranKV.png",
+     "caption": "十年轨迹展主视觉",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9295,6 +10317,13 @@ window.ARCHIVE = {
    "origin": "发行方公告补充",
    "dateKind": "预定发售日",
    "images": [
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_cover_00.jpg",
+     "caption": "写真集封面",
+     "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6568/3537/6568-3537-1eddf834bf77b7f27dc01c1fd0d3bd19-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
@@ -9325,10 +10354,10 @@ window.ARCHIVE = {
    "dateKind": "本人活动日",
    "images": [
     {
-     "url": "",
-     "caption": "最新写真集 官方图",
-     "source": "",
-     "asset": "b4ccb520b19a2bb1",
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_sab_01.jpg",
+     "caption": "写真集公开内页",
+     "source": "https://zasshi.tv/products/62295/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9354,10 +10383,10 @@ window.ARCHIVE = {
    "dateKind": "本人活动日",
    "images": [
     {
-     "url": "",
-     "caption": "最新写真集 官方图",
-     "source": "",
-     "asset": "b4ccb520b19a2bb1",
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_sab_02.jpg",
+     "caption": "写真集公开内页",
+     "source": "https://zasshi.tv/products/62295/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9412,10 +10441,10 @@ window.ARCHIVE = {
    "dateKind": "本人活动日",
    "images": [
     {
-     "url": "",
-     "caption": "最新写真集 官方图",
-     "source": "",
-     "asset": "b4ccb520b19a2bb1",
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_sab_03.jpg",
+     "caption": "写真集公开内页",
+     "source": "https://zasshi.tv/products/62295/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9441,10 +10470,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/05/tenranKV.png",
+     "caption": "十年轨迹展主视觉",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9470,10 +10499,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/daimaru.png",
+     "caption": "十周年特设站企划图",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9499,10 +10528,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/tousute_daimaru_KV.jpg",
+     "caption": "官方合作主视觉",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9528,10 +10557,10 @@ window.ARCHIVE = {
    "dateKind": "日程",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/05/tenranKV.png",
+     "caption": "十年轨迹展主视觉",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -9586,10 +10615,10 @@ window.ARCHIVE = {
    "dateKind": "发售日",
    "images": [
     {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/11/%E3%80%90WEB%E3%80%91toustayou_KV.jpg",
+     "caption": "官方 Blu-ray/DVD 主视觉",
+     "source": "https://stage-toukenranbu.jp/stage/",
+     "asset": "",
      "resolution": ""
     }
    ],
@@ -15890,7 +16919,7 @@ window.ARCHIVE = {
    "id": "so46943143",
    "title": "10月18日放送『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
    "channel": "玉城裕規の月下美人",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46943143/46943143",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46943143/46943143.76442446",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so46943143",
@@ -15909,7 +16938,7 @@ window.ARCHIVE = {
    "id": "so46942722",
    "title": "【無料パート】『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
    "channel": "玉城裕規の月下美人",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46942722/46942722",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46942722/46942722.43640298",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so46942722",
@@ -15928,7 +16957,7 @@ window.ARCHIVE = {
    "id": "sm46625219",
    "title": "【新番組】「仮面ライダーマイス」スペシャルティザー！",
    "channel": "用户投稿",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46625219/46625219",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46625219/46625219.14911276",
    "sourceType": "转载",
    "type": "预告／宣传",
    "url": "https://www.nicovideo.jp/watch/sm46625219",
@@ -15947,7 +16976,7 @@ window.ARCHIVE = {
    "id": "so45887524",
    "title": "ピースピット2017年本公演『グランギニョル』（TRUMPシリーズ）本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/45887524/45887524",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/45887524/45887524.95510459",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so45887524",
@@ -15966,7 +16995,7 @@ window.ARCHIVE = {
    "id": "so45878427",
    "title": "ミュージカル『マリーゴールド』（TRUMPシリーズ）本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/45878427/45878427",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/45878427/45878427.8638155",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so45878427",
@@ -15985,7 +17014,7 @@ window.ARCHIVE = {
    "id": "so44856167",
    "title": "ミュージカル『薄桜鬼』原田左之助 篇 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856167/44856167",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856167/44856167.4406649",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44856167",
@@ -16004,7 +17033,7 @@ window.ARCHIVE = {
    "id": "so44856166",
    "title": "ミュージカル『薄桜鬼』HAKU-MYU LIVE2 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856166/44856166",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856166/44856166.93066212",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44856166",
@@ -16023,7 +17052,7 @@ window.ARCHIVE = {
    "id": "so44856165",
    "title": "ミュージカル『薄桜鬼』新選組奇譚 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856165/44856165",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856165/44856165.85280406",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44856165",
@@ -16042,7 +17071,7 @@ window.ARCHIVE = {
    "id": "so44856164",
    "title": "ミュージカル『薄桜鬼』黎明録 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856164/44856164",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856164/44856164.24772464",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44856164",
@@ -16061,7 +17090,7 @@ window.ARCHIVE = {
    "id": "so44562934",
    "title": "舞台『弱虫ペダル』～箱根学園新世代、始動～ 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44562934/44562934",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44562934/44562934.191937",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44562934",
@@ -16080,7 +17109,7 @@ window.ARCHIVE = {
    "id": "so44562933",
    "title": "舞台『弱虫ペダル』～総北新世代、始動～ 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44562933/44562933",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44562933/44562933.11934449",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44562933",
@@ -16099,7 +17128,7 @@ window.ARCHIVE = {
    "id": "so44548763",
    "title": "舞台『弱虫ペダル』新インターハイ篇～スタートライン～ 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44548763/44548763",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44548763/44548763.98938447",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44548763",
@@ -16118,7 +17147,7 @@ window.ARCHIVE = {
    "id": "so37740858",
    "title": "東啓介「ザテレビジョンSQUARE02」インタビュー＆グラビアメーキング動画 フルVer.",
    "channel": "ザテレビジョン",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/37740858/37740858",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/37740858/37740858.13996992",
    "sourceType": "官方／机构",
    "type": "采访／发布会",
    "url": "https://www.nicovideo.jp/watch/so37740858",
@@ -16137,7 +17166,7 @@ window.ARCHIVE = {
    "id": "so37740891",
    "title": "東啓介「ザテレビジョンSQUARE02」インタビュー＆グラビアメーキング動画 ショートVer.",
    "channel": "ザテレビジョン",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/37740891/37740891",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/37740891/37740891.49896194",
    "sourceType": "官方／机构",
    "type": "采访／发布会",
    "url": "https://www.nicovideo.jp/watch/so37740891",
@@ -16156,7 +17185,7 @@ window.ARCHIVE = {
    "id": "so36129640",
    "title": "2019年12月ゲストは東啓介さんでした！",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/36129640/36129640",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/36129640/36129640.62275099",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so36129640",
@@ -18155,6 +19184,15 @@ window.ARCHIVE = {
    "asset": "",
    "duration": "",
    "available": true
+  },
+  {
+   "title": "薄墨桜 -GARO-",
+   "url": "https://www.nicovideo.jp/watch/sm33862660",
+   "platform": "niconico",
+   "type": "舞台／剧集",
+   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/33862660/33862660",
+   "uploadDate": "2018-09-16",
+   "channel": "niconico"
   }
  ],
  "playlists": [
