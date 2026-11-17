@@ -28953,6 +28953,25 @@ window.ARCHIVE = {
    "contentDate": "2026-10-18",
    "dateLabel": "2026.11.06 B站上传",
    "asset": ""
+  },
+  {
+   "id": "BV1CdxY6PECg",
+   "title": "东咪你不要再增肌啦——（为《蓝色监狱》增肌10kg）",
+   "channel": "欠坑一堆的阿忆忆",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.bilibili.com/video/BV1CdxY6PECg/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/b00f79e0d5b19d555016e405359da4fb667b4fbf.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站搬运｜2026",
+   "source": "https://www.bilibili.com/video/BV1CdxY6PECg/",
+   "uploadDate": "2026-10-30",
+   "dateLabel": "2026.10.30 B站上传",
+   "asset": ""
   }
  ],
  "playlists": [
