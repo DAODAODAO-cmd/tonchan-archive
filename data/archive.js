@@ -12876,33 +12876,6 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
-   "id": "mag_shonenmag2636",
-   "date": "2026-08-05",
-   "end": "",
-   "category": "写真／出版",
-   "title": "《周刊少年Magazine》2026年36·37合并号｜真人《蓝色监狱》封面＆写真",
-   "japanese": "週刊少年マガジン 2026年36・37合併号",
-   "role": "馬狼照英",
-   "crew": "",
-   "key": false,
-   "url": "https://animeanime.jp/article/2026/08/05/101741.html",
-   "note": "真人电影《蓝色监狱》主演阵容包揽表封·里封，含拍摄写真企划。",
-   "status": "已发售",
-   "origin": "アニメ！アニメ！",
-   "dateKind": "day",
-   "kind": "magazine",
-   "images": [
-    {
-     "url": "https://animeanime.jp/imgs/ogp_f/914799.jpg",
-     "caption": "杂志写真（アニメ！アニメ！）",
-     "source": "https://animeanime.jp/article/2026/08/05/101741.html",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": []
-  },
-  {
    "id": "e74",
    "date": "2026-08-07",
    "end": "",
@@ -13786,8 +13759,8 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://stage-toukenranbu.jp/",
-   "note": "",
+   "url": "https://2-5chaya.jp/news/%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E4%BD%9C%E5%93%81-%E8%88%9E%E5%8F%B0%E3%80%8E%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E%E3%80%8F%E9%99%BD%E4%BC%9D-%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%A8/",
+   "note": "刀剑乱舞2.5茶屋与《陽伝》联动：13振印象饮品与餐点、随机杯垫（13种）、外带随机透明卡（13种），店内展示出阵刀剑男士大型挂布。期间2026年11月25日～2027年1月11日。燭台切光忠在对象男士之列。",
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
@@ -13804,13 +13777,6 @@ window.ARCHIVE = {
      "caption": "刀剑乱舞2.5茶屋 官方合作告知",
      "source": "https://x.com/touken_2_5chaya/status/2117179908736921657",
      "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "",
-     "caption": "十周年纪念特别公演 官方主视觉",
-     "source": "",
-     "asset": "9786558cbccb766f",
      "resolution": ""
     }
    ],
