@@ -2480,6 +2480,13 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/DEw9NiFUQAA4xaa?format=jpg&name=large",
+     "caption": "角色照：烛台切光忠 内番服（本人X）",
+     "source": "https://x.com/keisuke_higashi/status/886150543030145024",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -2729,6 +2736,13 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo32444.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/DEXyHHcU0AUHI-B?format=jpg&name=large",
+     "caption": "角色照：李春林（本人X）",
+     "source": "https://x.com/keisuke_higashi/status/884379122884952064",
      "asset": "",
      "resolution": ""
     }
@@ -3914,6 +3928,13 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745171.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/Dfp8YSOVAAI4sTq?format=jpg&name=large",
+     "caption": "角色照：烛台切光忠（本人X）",
+     "source": "https://x.com/keisuke_higashi/status/1007254232469102592",
      "asset": "",
      "resolution": ""
     }
