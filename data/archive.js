@@ -7672,6 +7672,13 @@ window.ARCHIVE = {
      "source": "https://www.geigeki.jp/performance/theater358/",
      "asset": "1f6f03273281cf2c",
      "resolution": "245 × 184"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/185/violet_kv.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/185",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -7738,6 +7745,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "nat_jbb24",
+   "date": "2024-06-01",
+   "end": "2024-08-31",
+   "category": "音乐会",
+   "title": "JBB Concert Tour 2024",
+   "japanese": "JBB Concert Tour 2024",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/play/702",
+   "note": "中川晃教、藤冈正明、东启介、大山真志四人巡演。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 公演资料",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/play/702/JBB_art202404.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/702",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "bro_202407",
@@ -7897,6 +7930,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "nat_iwatani24",
+   "date": "2024-09-05",
+   "end": "",
+   "category": "音乐会",
+   "title": "岩谷时子纪念音乐会《Forever》Vol.5",
+   "japanese": "岩谷時子メモリアルコンサート Forever Vol.5",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/play/1942",
+   "note": "与一路真辉、中川晃教、伊礼彼方、田代万里生等共演。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 公演资料",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/play/1942/0516new_iwatanitokiko_memorialkumi.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/1942",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "e65",
    "date": "2024-09-28",
    "end": "2024-11-16",
@@ -7918,6 +7977,13 @@ window.ARCHIVE = {
      "source": "https://theatre-orb.com/lineup/24_deathtakesaholiday/",
      "asset": "e5b57cea0e28a7d5",
      "resolution": "700 × 481"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/1307/DTH_kotaki.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/1307",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -8003,6 +8069,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/play/2091/connectingpuzzles_higashi.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/2091",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://www.watanabepro.co.jp/ogp.jpg",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
@@ -8226,6 +8299,13 @@ window.ARCHIVE = {
      "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/1592/mayukigokuyakai_sokuho.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/1592",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -8410,6 +8490,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "nat_wmst25",
+   "date": "2025-01-27",
+   "end": "",
+   "category": "音乐会",
+   "title": "《World Musical Show Times the Concert》",
+   "japanese": "World Musical Show Times the Concert",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/play/2666",
+   "note": "与甲斐翔真、上原理生、sara、村井良大等共演。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 公演资料",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/play/2666/WMSTC.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/2666",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "e93",
@@ -8701,6 +8807,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/play/1299/kinky_mv.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/1299",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg",
      "caption": "官方预告缩略图",
      "source": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg",
@@ -8791,6 +8904,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "nat_we25",
+   "date": "2025-06-18",
+   "end": "2025-06-22",
+   "category": "音乐会",
+   "title": "Watanabe 25周年音乐会《Happy Birthday & Thank You》",
+   "japanese": "ワタナベ25thコンサート「ハッピーバースデー＆サンキュー」",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/play/3241",
+   "note": "渡边娱乐25周年纪念音乐会，事务所艺人共同出演。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 公演资料",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/play/3241/watanabe_25th.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/3241",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "e69",
@@ -8912,6 +9051,13 @@ window.ARCHIVE = {
      "source": "https://www.cottonclubjapan.co.jp/jp/sp/artists/keisuke-higashi/",
      "asset": "f141a6a0cde187e0",
      "resolution": "1600 × 2426"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/3941/higashikeisuke_mv.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/3941",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -8941,6 +9087,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/play/3523/MY_flyer_c01-04_0326_120_c01.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/3523",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://engeki-audience.com/wp-content/uploads/2025/06/Lifes-A-Joy-Life-Goes-On.jpg",
      "caption": "公演宣传图",
@@ -9002,6 +9155,13 @@ window.ARCHIVE = {
      "source": "https://www.tohostage.com/jersey/",
      "asset": "d1e89954427001ae",
      "resolution": "1800 × 2545"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/2910/jb25_h1h4_0402.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/2910",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -9096,6 +9256,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "nat_aripa25",
+   "date": "2025-10-18",
+   "end": "2025-10-26",
+   "category": "音乐会",
+   "title": "有泽樟太郎出道10周年音乐会《ARIPA!! 2025》嘉宾",
+   "japanese": "有澤樟太郎 10th Anniversary Concert ～ARIPA!! 2025～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/play/3962",
+   "note": "嘉宾出演（日替）；以官方公告为准。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 公演资料",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/play/3962/aripa_KV_0602.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/3962",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "bro_202511",
    "date": "2025-11-01",
    "category": "活动",
@@ -9138,6 +9324,13 @@ window.ARCHIVE = {
    "dateKind": "活动首日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/play/4285/ML2025.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/4285",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://masaaki-fujioka.com/assets/fujiokamasaaki/ogp.png",
      "caption": "原发布页配图（作品海报／采访／活动宣传图）",
      "source": "https://masaaki-fujioka.com/contents/965414",
@@ -9170,6 +9363,13 @@ window.ARCHIVE = {
      "url": "https://static.wixstatic.com/media/a0e5ad_5aa720f100e64b758bb65e1ff679c1d7~mv2.jpg/v1/fill/w_605,h_856,al_c,q_85/visual.jpg",
      "caption": "官方公演主视觉",
      "source": "https://kaidankagura.wixsite.com/sumu2025",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/4597/kagurazakakaikitan.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/4597",
      "asset": "",
      "resolution": ""
     }
@@ -9221,6 +9421,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/play/3993/CDMC25-26_A4_0910_2.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/3993",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/2DCSAh_hgrI/hqdefault.jpg",
      "caption": "视频封面：東啓介 コメント動画 カウントダウン ミュージカルコンサート",
@@ -9564,6 +9771,13 @@ window.ARCHIVE = {
      "source": "https://www.tohostage.com/kingdom2/",
      "asset": "",
      "resolution": "1800 × 1200"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/5740/kingdom_miura_teaser.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/5740",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -9760,6 +9974,13 @@ window.ARCHIVE = {
      "url": "https://swan-balletcrossreading.com/images/top/cast_img3-1.jpg",
      "caption": "官网演员照：东启介（草壁飞翔）",
      "source": "https://swan-balletcrossreading.com/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/5485/SWAN_main.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/5485",
      "asset": "",
      "resolution": ""
     }
@@ -10198,6 +10419,13 @@ window.ARCHIVE = {
      "source": "https://stage-toukenranbu.jp/stage/",
      "asset": "9786558cbccb766f",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/5950/toustayou_KV_0716-2.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/5950",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -10816,6 +11044,13 @@ window.ARCHIVE = {
      "source": "https://www.tohostage.com/nostalgic_cabaret/",
      "asset": "c7eeb06e385ebe7b",
      "resolution": "600 × 770"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/play/7172/NostalgicCabaret_visual.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报（音乐自然 Natalie 公演资料）",
+     "source": "https://natalie.mu/stage/play/7172",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
