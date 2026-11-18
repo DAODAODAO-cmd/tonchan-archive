@@ -14862,6 +14862,11 @@ window.ARCHIVE = {
      "source": "https://books.rakuten.co.jp/rb/18060821/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/1143/4910204891143_1_2.jpg",
+     "caption": "anan増刊 スペシャルエディション 封面",
+     "source": "https://books.rakuten.co.jp/rb/18060822/"
     }
    ],
    "videos": [],
