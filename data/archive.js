@@ -3341,6 +3341,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0831/slazy_visual.jpg",
+     "caption": "主视觉",
+     "source": "ステージナタリー"
     }
    ],
    "videos": [
@@ -3358,7 +3363,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "WILL",
    "workRoma": "EXTRA INVITATION",
-   "roleName": "Will"
+   "roleName": "Will",
+   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2017/0831/slazy_visual.jpg"
   },
   {
    "id": "bro_201711",
@@ -4836,6 +4842,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg",
+     "caption": "主视觉",
+     "source": "コミックナタリー"
     }
    ],
    "videos": [
@@ -4849,7 +4860,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "TOKIMARU",
    "workRoma": "USUZUMI ZAKURA",
-   "roleName": "时丸"
+   "roleName": "时丸",
+   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg"
   },
   {
    "id": "nat_trumpten18",
@@ -5811,7 +5823,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "FUJITA YOTARO",
    "workRoma": "SIGNAL 100",
-   "roleName": "藤田阳太郎"
+   "roleName": "藤田阳太郎",
+   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2019/0930/signal100_201909_01.jpg"
   },
   {
    "id": "e33",
@@ -6109,6 +6122,11 @@ window.ARCHIVE = {
      "source": "https://sato-ryuji.com/contents/370307",
      "asset": "17ef63bf09c3596f",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
+     "caption": "角色照：夏洛克",
+     "source": "ステージナタリー（左为东启介）"
     }
    ],
    "videos": [],
@@ -6117,7 +6135,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SHERLOCK HOLMES",
    "workRoma": "A STUDY IN SCARLET",
-   "roleName": "夏洛克"
+   "roleName": "夏洛克",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
+   "cardPhotoBg": "8% 50% / auto 130%"
   },
   {
    "id": "asast_091",
@@ -8012,7 +8032,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "IDE YU",
    "workRoma": "WATASHI GA KEMONO NI NATTA YORU",
-   "roleName": "井手祐"
+   "roleName": "井手祐",
+   "cardPhoto": "https://image.p-c2-x.abema-tv.com/image/programs/90-1602_s2_p15/thumb002.png?height=720&quality=75&version=172",
+   "cardPhotoBg": "36% 11% / auto 150%"
   },
   {
    "id": "m439",
@@ -8199,6 +8221,11 @@ window.ARCHIVE = {
      "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
      "asset": "627eca80ca2cf665",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2021/1218/higashikeisuke_c_tbs.jpg",
+     "caption": "角色照：乌丸薰",
+     "source": "ステージナタリー（c）TBS"
     }
    ],
    "videos": [
@@ -8228,7 +8255,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "KARASUMA KAORU",
    "workRoma": "FIGHT SONG",
-   "roleName": "乌丸薰"
+   "roleName": "乌丸薰",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2021/1218/higashikeisuke_c_tbs.jpg"
   },
   {
    "id": "mag_rk16989455",
@@ -10093,6 +10121,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/0415/sFAN_0166.jpg",
+     "caption": "角色照：中内启介",
+     "source": "ステージナタリー"
     }
    ],
    "videos": [
@@ -10130,7 +10163,10 @@ window.ARCHIVE = {
    ],
    "roleRoma": "NAKAUCHI KEISUKE",
    "workRoma": "NIJIKAI NO HITOTACHI",
-   "roleName": "中内启介"
+   "roleName": "中内启介",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2023/0415/sFAN_0166.jpg",
+   "cardPhotoBg": "31% 17% / auto 260%",
+   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2023/0222/2jikainohitotachi_mainV.jpg"
   },
   {
    "id": "mts_rev3965",
@@ -11336,6 +11372,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_08.jpg",
+     "caption": "角色照：里中树",
+     "source": "映画ナタリー"
     }
    ],
    "videos": [],
@@ -11350,7 +11391,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SATONAKA ITSUKI",
    "workRoma": "JOSHIKOSEI SO NI NARU",
-   "roleName": "里中树"
+   "roleName": "里中树",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_08.jpg"
   },
   {
    "id": "mts_rev6805",
@@ -13810,6 +13852,11 @@ window.ARCHIVE = {
      "source": "https://www.fujitv.co.jp/mondaibukken/story/story02.html",
      "asset": "e52f41e499ac9293",
      "resolution": "1000 × 666"
+    },
+    {
+     "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph06.jpg",
+     "caption": "第2集剧照：泷野高",
+     "source": "富士电视台官网"
     }
    ],
    "videos": [],
@@ -13818,7 +13865,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "TAKINO TAKASHI",
    "workRoma": "MONDAI BUKKEN",
-   "roleName": "泷野高"
+   "roleName": "泷野高",
+   "cardPhoto": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph06.jpg"
   },
   {
    "id": "nat_wmst25",
@@ -15505,6 +15553,16 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/5740",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2026/0731/KINGDOM2_higasi.jpg",
+     "caption": "角色照：庞煖",
+     "source": "ステージナタリー"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2026/0329/kingdom_miura_teaser.jpg",
+     "caption": "主视觉",
+     "source": "ステージナタリー"
     }
    ],
    "videos": [
@@ -15590,7 +15648,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "HOKEN",
    "workRoma": "KINGDOM II",
-   "roleName": "庞煖"
+   "roleName": "庞煖",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2026/0731/KINGDOM2_higasi.jpg",
+   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2026/0329/kingdom_miura_teaser.jpg"
   },
   {
    "id": "web_swan_aud",
@@ -15769,6 +15829,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/5485",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2026/0526/SWAN_main.jpg",
+     "caption": "主视觉",
+     "source": "ステージナタリー"
     }
    ],
    "videos": [
@@ -15794,7 +15859,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "KUSAKABE TSUBASA",
    "workRoma": "SWAN",
-   "roleName": "草壁飞翔"
+   "roleName": "草壁飞翔",
+   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2026/0526/SWAN_main.jpg",
+   "cardPhoto": "https://swan-balletcrossreading.com/images/top/cast_img3-1.jpg"
   },
   {
    "id": "web_swan_stream",
@@ -16472,6 +16539,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/5950",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2026/0717/oustayou_KV_0716-2.jpg",
+     "caption": "主视觉",
+     "source": "ステージナタリー"
     }
    ],
    "videos": [],
@@ -16486,7 +16558,9 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "YODEN",
-   "roleName": "烛台切光忠"
+   "roleName": "烛台切光忠",
+   "cardPhoto": "https://stage-toukenranbu.jp/wp-content/uploads/2026/07/05%E3%80%90WEB%E3%80%91%E2%98%85toustayou_CV_shokudaikiri.jpg",
+   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2026/0717/oustayou_KV_0716-2.jpg"
   },
   {
    "id": "mag_pash2612",
