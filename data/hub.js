@@ -995,28 +995,12 @@ window.HUB = {
     "url": "https://www.tv-asahi.co.jp/my-th/"
    },
    {
-    "name": "华武利角色页",
-    "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/"
-   },
-   {
     "name": "麦斯演员博客（东启介）",
     "url": "https://www.tv-asahi.co.jp/my-th/castblog/0016/"
    },
    {
-    "name": "《SWAN》官网",
-    "url": "https://swan-balletcrossreading.com/"
-   },
-   {
     "name": "超英雄祭2027 官网",
     "url": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/"
-   },
-   {
-    "name": "TV指南PERSON / Stage Stars（X）",
-    "url": "https://x.com/TVguidePERSON"
-   },
-   {
-    "name": "电影《蓝色监狱》",
-    "url": "https://bluelock-movie.jp/"
    },
    {
     "name": "写真集 · 东京新闻通信社",
@@ -1025,10 +1009,6 @@ window.HUB = {
    {
     "name": "《Nostalgic Cabaret》· 东宝",
     "url": "https://www.tohostage.com/nostalgic_cabaret/"
-   },
-   {
-    "name": "日文维基百科",
-    "url": "https://ja.wikipedia.org/wiki/東啓介"
    }
   ]
  }
