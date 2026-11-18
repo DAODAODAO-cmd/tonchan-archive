@@ -10319,11 +10319,18 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.mcdonalds.co.jp/company/news/2022/0420a/",
-   "note": "",
+   "note": "关西电视台深夜剧（关西地方台，全3话），第2话客串：与打工主妇寿惠约会的“谜之帅哥”，真实身份是寿惠的儿子豪太。本人评论见マイナビニュース：https://news.mynavi.jp/article/20220524-2349986/",
    "status": "",
    "origin": "",
    "dateKind": "本人出演集实际播出日",
    "images": [
+    {
+     "url": "https://news.mynavi.jp/article/20220524-2349986/images/001.jpg",
+     "caption": "东启介（关西电视台提供）",
+     "source": "https://news.mynavi.jp/article/20220524-2349986/",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2022/0419/bushim_20220420_02.jpg",
      "caption": "主视觉",

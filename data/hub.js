@@ -1214,6 +1214,22 @@ window.HUB = {
    "date": "2026-08-07",
    "src": "animate times",
    "url": "https://www.animatetimes.com/news/details.php?id=1785993354"
+  },
+  {
+   "topic": "身高烦恼",
+   "zh": "拍《武士マック》时和演寿惠的佐藤真弓对戏，自己先吐槽：两人的身高差非常大。",
+   "ja": "僕と、ものすごく身長差があります（笑）",
+   "date": "2022-05-24",
+   "src": "マイナビニュース",
+   "url": "https://news.mynavi.jp/article/20220524-2349986/"
+  },
+  {
+   "topic": "角色幕后",
+   "zh": "以前常看《电车男》，能和主角伊藤淳史同台，觉得是非常难得的机会。",
+   "ja": "『電車男』をよく見ていたので",
+   "date": "2022-05-24",
+   "src": "マイナビニュース",
+   "url": "https://news.mynavi.jp/article/20220524-2349986/"
   }
  ]
 };
