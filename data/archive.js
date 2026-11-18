@@ -5984,6 +5984,42 @@ window.ARCHIVE = {
    "cardPhoto": "https://pbs.twimg.com/media/EL4uVY3U0AAk8DD?format=jpg&name=large"
   },
   {
+   "id": "solo_2020",
+   "date": "2020-01-24",
+   "end": "",
+   "category": "活动",
+   "title": "个人活动《东启介ソロイベント2020》",
+   "japanese": "東啓介ソロイベント2020",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12570700741.html",
+   "note": "表参道GROUND。周边当天完售，后来在ワタナベ商店开过一次受注。",
+   "status": "已结束",
+   "origin": "WE官方周边博客",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737535.jpg",
+     "caption": "纪念2L生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/GG737535"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737538.jpg",
+     "caption": "生写真A（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/GG737538"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737540.jpg",
+     "caption": "生写真B（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/GG737540"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动"
+  },
+  {
    "id": "e33",
    "date": "2020-02-28",
    "end": "",
