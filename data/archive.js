@@ -1481,7 +1481,7 @@ window.ARCHIVE = {
   },
   {
    "id": "e94",
-   "date": "2016-08-13",
+   "date": "2016-08-14",
    "end": "",
    "category": "采访／连载",
    "title": "《飙速宅男》东启介×宫崎秋人专访",
@@ -1493,7 +1493,7 @@ window.ARCHIVE = {
    "note": "",
    "status": "",
    "origin": "公开检索补充",
-   "dateKind": "文章发布日期（发布方元数据）",
+   "dateKind": "发布日",
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2024/05/pedal-2.jpg",
@@ -1504,7 +1504,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "文章",
    "playlistLinks": []
   },
@@ -5480,64 +5480,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "e95",
-   "date": "2019",
-   "end": "",
-   "category": "采访／连载",
-   "title": "《吸血鬼之舞》东启介专访（上）",
-   "japanese": "《吸血鬼之舞》东启介专访（上）",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://ideanews.jp/archives/77471",
-   "note": "部分内容付费。",
-   "status": "",
-   "origin": "公开检索补充",
-   "dateKind": "",
-   "images": [
-    {
-     "url": "https://ideanews.jp/wp-content/uploads/2019/10/01-00_アイキャッチ用_B5A8527_ok-700x335.jpg",
-     "caption": "文章配图",
-     "source": "https://ideanews.jp/archives/77471",
-     "asset": "fe640ae962efe408",
-     "resolution": "700 × 335"
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "文章",
-   "playlistLinks": []
-  },
-  {
-   "id": "e96",
-   "date": "2019",
-   "end": "",
-   "category": "采访／连载",
-   "title": "《吸血鬼之舞》东启介专访（下）",
-   "japanese": "《吸血鬼之舞》东启介专访（下）",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://ideanews.jp/archives/77477",
-   "note": "部分内容付费。",
-   "status": "",
-   "origin": "公开检索补充",
-   "dateKind": "",
-   "images": [
-    {
-     "url": "https://ideanews.jp/wp-content/uploads/2019/10/02-00_アイキャッチ用_B5A8639_ok-700x335.jpg",
-     "caption": "文章配图",
-     "source": "https://ideanews.jp/archives/77477",
-     "asset": "b1956a48818119da",
-     "resolution": "700 × 335"
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "文章",
-   "playlistLinks": []
-  },
-  {
    "id": "mag_mc_10240304",
    "date": "2019",
    "end": "",
@@ -6178,6 +6120,64 @@ window.ARCHIVE = {
    "workRoma": "RE:FOLLOWER",
    "roleName": "安平胜成",
    "cardPoster": "https://www.asahi.co.jp/refollower/img/common/og02.jpg"
+  },
+  {
+   "id": "e95",
+   "date": "2019-11-01",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《吸血鬼之舞》东启介专访（上）",
+   "japanese": "《吸血鬼之舞》东启介专访（上）",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://ideanews.jp/archives/77471",
+   "note": "部分内容付费。",
+   "status": "",
+   "origin": "公开检索补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://ideanews.jp/wp-content/uploads/2019/10/01-00_アイキャッチ用_B5A8527_ok-700x335.jpg",
+     "caption": "文章配图",
+     "source": "https://ideanews.jp/archives/77471",
+     "asset": "fe640ae962efe408",
+     "resolution": "700 × 335"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e96",
+   "date": "2019-11-02",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《吸血鬼之舞》东启介专访（下）",
+   "japanese": "《吸血鬼之舞》东启介专访（下）",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://ideanews.jp/archives/77477",
+   "note": "部分内容付费。",
+   "status": "",
+   "origin": "公开检索补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://ideanews.jp/wp-content/uploads/2019/10/02-00_アイキャッチ用_B5A8639_ok-700x335.jpg",
+     "caption": "文章配图",
+     "source": "https://ideanews.jp/archives/77477",
+     "asset": "b1956a48818119da",
+     "resolution": "700 × 335"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "e31",
@@ -8174,7 +8174,7 @@ window.ARCHIVE = {
    "date": "2021-03-23",
    "end": "",
    "category": "采访／连载",
-   "title": "BOYS Pia：经历《我家女儿交不到男朋友!!》后想飞得更高",
+   "title": "BOYSぴあ FUTURE 第2回：经历《我家女儿交不到男朋友!!》后想飞得更高",
    "japanese": "BOYS Pia：经历《我家女儿交不到男朋友!!》后想飞得更高",
    "role": "",
    "crew": "",
@@ -8183,7 +8183,7 @@ window.ARCHIVE = {
    "note": "原始专访。",
    "status": "",
    "origin": "公开检索补充",
-   "dateKind": "文章发布日期（发布方元数据）",
+   "dateKind": "发布日",
    "images": [
     {
      "url": "https://lp.p.pia.jp/shared/materials/462f1eb9-3f13-4b77-8910-fd89a0be6320/origin.JPG",
@@ -8194,7 +8194,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "文章",
    "playlistLinks": []
   },
@@ -9828,7 +9828,7 @@ window.ARCHIVE = {
    "note": "",
    "status": "",
    "origin": "公开检索补充",
-   "dateKind": "文章发布日期（发布方元数据）",
+   "dateKind": "发布日",
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
@@ -9839,7 +9839,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "文章",
    "playlistLinks": []
   },
