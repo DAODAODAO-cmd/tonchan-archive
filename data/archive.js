@@ -6309,7 +6309,12 @@ window.ARCHIVE = {
      "resolution": "1200 × 630"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "第2话（B站搬运，全10话合集P2）",
+     "url": "https://www.bilibili.com/video/BV1nDnEz9En9/?p=2"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
