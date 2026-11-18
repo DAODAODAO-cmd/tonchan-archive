@@ -15247,7 +15247,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [
+    {
+     "title": "宣传影像（楽天チケット，含2023公演片段）",
+     "url": "https://www.youtube.com/watch?v=rkP9UproOLQ"
+    }
+   ]
   },
   {
    "id": "mts_col9842",
@@ -19899,6 +19904,26 @@ window.ARCHIVE = {
   }
  ],
  "videos": [
+  {
+   "id": "rkP9UproOLQ",
+   "title": "JBBコンサート 2024",
+   "channel": "Rakuten Ticket",
+   "duration": "2:21",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/rkP9UproOLQ/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=rkP9UproOLQ",
+   "years": [
+    "2024"
+   ],
+   "rel": "作品关联",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2024-05-29",
+   "note": "楽天チケット宣传影像，收录JBB 2023年中野サンプラザ公演片段，宣传8月31日葛饰终场。"
+  },
   {
    "id": "4ANW1anPBF4",
    "title": "【井桁弘恵】朗読×バレエ、新感覚舞台『SWANーBallet cross Readingー』とは舞台『SWANーBallet cross Readingー』公開ゲネプロ",
