@@ -246,7 +246,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -323,7 +323,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -5755,7 +5755,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -8582,7 +8582,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -9591,7 +9591,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
    "roleRoma": "NAZO NO DANSHI",
@@ -10872,7 +10872,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -10901,7 +10901,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -13212,7 +13212,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -14491,7 +14491,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -15905,7 +15905,7 @@ window.ARCHIVE = {
      "url": "https://www.bilibili.com/video/BV1j7MhzDE6m/"
     }
    ],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
    "roleRoma": "SUNAKAWA MADOKA",
