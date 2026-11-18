@@ -1977,6 +1977,47 @@ window.ARCHIVE = {
    "videos": []
   },
   {
+   "id": "mag_rk14585124",
+   "date": "2016-12-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.12｜东启介SPECIAL（卷头21页＋附录DVD）",
+   "japanese": "W! vol.12",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://books.rakuten.co.jp/rb/14585124/",
+   "note": "廣済堂ベストムック345号。卷头SPECIAL全21页「東 啓介の引き寄せる力。」长篇专访＋拍摄；与植田圭辅对谈；超宽海报；附录DVD「23人ガチトーク&素顔70分」收录东启介单人及与植田圭辅对谈。亚马逊：https://www.amazon.co.jp/dp/4331803503",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/91TJfB3np2L._SL1500_.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/4331803503",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/3509/9784331803509.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/rb/14585124/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "附录DVD 东启介片段（B站搬运；原标题误作Vol.21）",
+     "url": "https://www.bilibili.com/video/BV1ex411S7JW/"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "nat_butaidanshi8",
    "date": "2016-12-07",
    "end": "",
@@ -2064,35 +2105,6 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/music/2016/1221/qj129_1.jpg",
      "caption": "ステージナタリー",
      "source": "https://natalie.mu/stage/news/214385",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_rk14585124",
-   "date": "2017",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.12｜东启介SPECIAL美照＆与植田圭辅对谈",
-   "japanese": "W! vol.12",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14585124/",
-   "note": "东启介个人特辑。",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售日",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/3509/9784331803509.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/14585124/",
      "asset": "",
      "resolution": ""
     }
@@ -9964,6 +9976,10 @@ window.ARCHIVE = {
     {
      "title": "Japan Musical Festival 2022 東啓介さんのインタビュー動画",
      "url": "https://www.youtube.com/watch?v=SFJZONd-R7s"
+    },
+    {
+     "title": "《闇が広がる》加藤和树×东启介（B站）",
+     "url": "https://www.bilibili.com/video/BV1cU4y1o78H/"
     }
    ],
    "biliLinks": [
@@ -29693,7 +29709,7 @@ window.ARCHIVE = {
    "thumbnail": "https://i1.hdslb.com/bfs/archive/6d8ee1432a95ca8358ff90e482e3f04518657414.jpg",
    "playlists": [],
    "platform": "B站",
-   "rel": "B站有｜2017.04.10上传",
+   "rel": "B站有｜2017.04.10上传；原标题写Vol.21，按上传时间与内容应为《W!》vol.12（2016.12）附录DVD",
    "source": "https://www.bilibili.com/video/BV1ex411S7JW/",
    "uploadDate": "2017-04-10",
    "dateLabel": "2017.04.10 B站上传",
