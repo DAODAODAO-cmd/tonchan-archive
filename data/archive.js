@@ -10181,14 +10181,14 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2022/0807/yamikinsaiharasan_20220807_01.jpg",
-     "caption": "宣传海报",
+     "caption": "剧照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://www.mbs.jp/saihara/images/ogp-new.jpg?0808",
-     "caption": "海报",
+     "caption": "剧集主视觉",
      "source": "https://www.mbs.jp/saihara/",
      "asset": "36b0be661d78a85a",
      "resolution": "1200 × 630"
@@ -10208,7 +10208,8 @@ window.ARCHIVE = {
    "roleRoma": "NIKUMAMUSHI",
    "workRoma": "YAMIKIN SAIHARA-SAN",
    "roleName": "肉蝮",
-   "cardPhoto": "https://pbs.twimg.com/media/FhCDh0raUAAoEi9?format=jpg&name=large"
+   "cardPhoto": "https://pbs.twimg.com/media/FhCDh0raUAAoEi9?format=jpg&name=large",
+   "cardPoster": "https://www.mbs.jp/saihara/images/ogp-new.jpg?0808"
   },
   {
    "id": "m450",
