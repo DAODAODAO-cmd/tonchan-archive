@@ -561,7 +561,7 @@ window.HUB = {
    "title": "个人活动《Two-ton》周边",
    "status": "已售罄",
    "price": "生写真3种 · 生写真收纳册 1,800円 · 票夹 · とん缶",
-   "image": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/ac/ee/j/o0400052514173755332.jpg",
+   "image": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/8a/8a/j/o0350017214173755330.jpg",
    "points": [
     "亲笔Logo，从选品到设计全程本人监制",
     "收纳册印着本人手写的「想」字"

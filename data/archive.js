@@ -2637,6 +2637,37 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "solo_firston",
+   "date": "2017-05-03",
+   "end": "",
+   "category": "活动",
+   "title": "首次个人活动《First-on》",
+   "japanese": "東啓介ソロイベント「First-on」",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12268879951.html",
+   "note": "表参道GROUND。他第一次办个人活动，活动Logo是他自己写的，周边也是自己从选品到设计一手监制。",
+   "status": "已结束",
+   "origin": "WE官方周边博客",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/db/6c/j/o0211015613922579086.jpg",
+     "caption": "会场限定2L生写真（亲笔留言＆签名印刷）",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12268879951.html"
+    },
+    {
+     "url": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/c0/9d/j/o0250024913922579089.jpg",
+     "caption": "会场限定生写真4枚套组",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12268879951.html"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动"
+  },
+  {
    "id": "mag_rk14901918",
    "date": "2017-05-10",
    "end": "",
@@ -4144,6 +4175,42 @@ window.ARCHIVE = {
    "images": [],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "solo_twoton",
+   "date": "2018-04-28",
+   "end": "2018-04-29",
+   "category": "活动",
+   "title": "第二次个人活动《Two-ton》",
+   "japanese": "東啓介ソロイベント～Two-ton～",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html",
+   "note": "表参道GROUND，两天。延续上次，Logo是亲笔写的，周边从选品到设计都是本人监制。",
+   "status": "已结束",
+   "origin": "WE官方周边博客",
+   "dateKind": "活动日",
+   "images": [
+    {
+     "url": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/31/db/j/o0350020414173755325.jpg",
+     "caption": "纪念生写真2L套组（亲笔留言＆签名印刷）",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html"
+    },
+    {
+     "url": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/55/f6/j/o0350017214173755327.jpg",
+     "caption": "生写真套组A（西装）",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html"
+    },
+    {
+     "url": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/8a/8a/j/o0350017214173755330.jpg",
+     "caption": "生写真套组B（夹克）",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动"
   },
   {
    "id": "bro_201805",
