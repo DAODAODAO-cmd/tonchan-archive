@@ -6000,6 +6000,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/ELbIZfAU8AExsCR?format=jpg&name=large",
+     "caption": "官方角色介绍：埃莫斯",
+     "source": "https://x.com/WDTWofficial/status/1204370294627942400"
     }
    ],
    "videos": [],
@@ -6008,7 +6013,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "AMOS",
    "workRoma": "WHISTLE DOWN THE WIND",
-   "roleName": "埃莫斯"
+   "roleName": "埃莫斯",
+   "cardPhoto": "https://pbs.twimg.com/media/ELbIZfAU8AExsCR?format=jpg&name=large"
   },
   {
    "id": "asast_081",
