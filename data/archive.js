@@ -6347,7 +6347,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "BOB GAUDIO",
    "workRoma": "JERSEY BOYS 2020",
-   "roleName": "鲍勃·高迪奥"
+   "roleName": "鲍勃·高迪奥",
+   "cardHide": true
   },
   {
    "id": "e38",
@@ -8730,6 +8731,11 @@ window.ARCHIVE = {
      "source": "https://www.mcdonalds.co.jp/company/news/2022/0420a/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/FeN8HGyakAATefI?format=jpg&name=large",
+     "caption": "第2话剧照：谜之帅哥GOTA",
+     "source": "https://x.com/bushim_ktv/status/1577240774521270272"
     }
    ],
    "videos": [],
@@ -8739,7 +8745,8 @@ window.ARCHIVE = {
    "roleRoma": "NAZO NO DANSHI",
    "workRoma": "BUSHI MAC",
    "roleName": "神秘男子",
-   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2022/0419/bushim_20220420_02.jpg"
+   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2022/0419/bushim_20220420_02.jpg",
+   "cardPhoto": "https://pbs.twimg.com/media/FeN8HGyakAATefI?format=jpg&name=large"
   },
   {
    "id": "e48",
@@ -13390,6 +13397,11 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/1307",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GZHud40aEAARG1g?format=jpg&name=large",
+     "caption": "宣传照拍摄花絮（本人账号公开）",
+     "source": "https://x.com/keisuke_higashi/status/1842515925322613157"
     }
    ],
    "videos": [],
@@ -13399,7 +13411,7 @@ window.ARCHIVE = {
    "roleRoma": "ERIC",
    "workRoma": "DEATH TAKES A HOLIDAY",
    "roleName": "埃里克",
-   "cardNoPhoto": true
+   "cardPhoto": "https://pbs.twimg.com/media/GZHud40aEAARG1g?format=jpg&name=large"
   },
   {
    "id": "bro_202410",
@@ -13705,6 +13717,11 @@ window.ARCHIVE = {
      "source": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
      "asset": "5447a3d44f3782bb",
      "resolution": "3000 × 843"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/Ge43O84asAAWC9q?format=jpg&name=large",
+     "caption": "官方幕后照：亮二",
+     "source": "https://x.com/tx_short_drama/status/1868491708880842967"
     }
    ],
    "videos": [
@@ -13725,7 +13742,8 @@ window.ARCHIVE = {
    "roleRoma": "SAKIYAMA RYOJI",
    "workRoma": "BOKU TO BOKU GA SUKINA KARE TO KIMI TO",
    "roleName": "崎山亮二",
-   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2024/1120/bokukare_202411_01.jpg"
+   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2024/1120/bokukare_202411_01.jpg",
+   "cardPhoto": "https://pbs.twimg.com/media/Ge43O84asAAWC9q?format=jpg&name=large"
   },
   {
    "id": "s178",
