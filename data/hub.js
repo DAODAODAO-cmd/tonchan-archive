@@ -363,33 +363,6 @@ window.HUB = {
  ],
  "pastGoods": [
   {
-   "date": "2023-07-14",
-   "title": "生日演唱会《音》原创周边",
-   "bday": 1,
-   "status": "已结束",
-   "price": "预约套组 3,000円（亚克力卡2种·文件夹·生写真6枚）",
-   "image": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods_thumbnail.jpg",
-   "points": [
-    "手持\"28\"气球拍摄，\"Birthday Live 音\"是本人亲笔字",
-    "预约套组比会场多一张限定生写真",
-    "会场单卖：亚克力卡850円、文件夹500円、生写真5枚1,000円"
-   ],
-   "url": "https://matisowa.jp/5170/",
-   "publisher": "产经新闻社 Matisowa"
-  },
-  {
-   "date": "2022-11-14",
-   "title": "《东启介と聴活》原创T恤",
-   "status": "已结束（受注生产）",
-   "price": "受注贩售",
-   "image": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw271.jpg",
-   "points": [
-    "连载《东启介と聴活♪》圣诞特别活动纪念T恤"
-   ],
-   "url": "https://matisowa.jp/382/",
-   "publisher": "产经新闻社 Matisowa"
-  },
-  {
    "date": "2025-08-01",
    "title": "30岁生日音乐会《afterglow》周边",
    "bday": 1,
@@ -463,6 +436,20 @@ window.HUB = {
    ]
   },
   {
+   "date": "2024-06-01",
+   "title": "JBB Concert Tour 2024 巡演周边",
+   "status": "已结束",
+   "price": "亚马逊有套组在售，价格以页面为准",
+   "image": "https://m.media-amazon.com/images/I/812LI1TZCEL._AC_SL1500_.jpg",
+   "points": [
+    "场刊（附原创托特包），收录四人对谈和幕后",
+    "巡演T恤（藏青，S–XL），在葛饰终场发售",
+    "亚克力立牌四人一套、扁平收纳盒"
+   ],
+   "url": "https://www.amazon.co.jp/dp/B0FM71XNCV",
+   "publisher": "JBB（亚马逊套组，2025年8月上架）"
+  },
+  {
    "date": "2024-04-01",
    "title": "《WE ARE MUSIC》vol.1 生写真套组（东启介）",
    "status": "已售罄",
@@ -487,6 +474,33 @@ window.HUB = {
      "u": "https://7net.omni7.jp/detail/2110647485.html"
     }
    ]
+  },
+  {
+   "date": "2023-07-14",
+   "title": "生日演唱会《音》原创周边",
+   "bday": 1,
+   "status": "已结束",
+   "price": "预约套组 3,000円（亚克力卡2种·文件夹·生写真6枚）",
+   "image": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods_thumbnail.jpg",
+   "points": [
+    "手持\"28\"气球拍摄，\"Birthday Live 音\"是本人亲笔字",
+    "预约套组比会场多一张限定生写真",
+    "会场单卖：亚克力卡850円、文件夹500円、生写真5枚1,000円"
+   ],
+   "url": "https://matisowa.jp/5170/",
+   "publisher": "产经新闻社 Matisowa"
+  },
+  {
+   "date": "2022-11-14",
+   "title": "《东启介と聴活》原创T恤",
+   "status": "已结束（受注生产）",
+   "price": "受注贩售",
+   "image": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw271.jpg",
+   "points": [
+    "连载《东启介と聴活♪》圣诞特别活动纪念T恤"
+   ],
+   "url": "https://matisowa.jp/382/",
+   "publisher": "产经新闻社 Matisowa"
   },
   {
    "date": "2020-11-25",
