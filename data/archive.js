@@ -15256,6 +15256,10 @@ window.ARCHIVE = {
     {
      "title": "宣传影像（楽天チケット，含2023公演片段）",
      "url": "https://www.youtube.com/watch?v=rkP9UproOLQ"
+    },
+    {
+     "title": "【中字】Bohemian Rhapsody（2024巡演现场，B站）",
+     "url": "https://www.bilibili.com/video/BV1stJs6fEPw/"
     }
    ]
   },
@@ -17340,7 +17344,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "2024巡演现场版【中字】（B站）",
+     "url": "https://www.bilibili.com/video/BV1stJs6fEPw/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
