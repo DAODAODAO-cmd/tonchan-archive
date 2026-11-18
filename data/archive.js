@@ -7796,7 +7796,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "拍摄＋采访 niconico直播（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1RA411j78t/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -28467,7 +28472,7 @@ window.ARCHIVE = {
    "thumbnail": "https://i0.hdslb.com/bfs/archive/55a50db63e45a2c448032da6702b3c7b045f3183.jpg",
    "playlists": [],
    "platform": "B站",
-   "rel": "B站有｜2026.11.17补充",
+   "rel": "B站有｜2026.11.17补充｜原为niconico直播 lv329008892",
    "source": "https://www.bilibili.com/video/BV1RA411j78t/",
    "uploadDate": "2020-11-17",
    "dateLabel": "2020.11.17 B站上传",
