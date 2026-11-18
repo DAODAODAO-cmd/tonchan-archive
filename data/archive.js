@@ -6296,7 +6296,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.asahi.co.jp/refollower/",
-   "note": "朝日电视台与ABC播出日期不同；ABC为10月13日。跨午夜的实际日历日期也可能不同。",
+   "note": "朝日电视台与ABC播出日期不同；ABC为10月13日。跨午夜的实际日历日期也可能不同。 WEBザテレビジョン剧照及本人评论：https://thetv.jp/news/detail/208481/",
    "status": "",
    "origin": "",
    "dateKind": "朝日电视台标注放送日",
@@ -6307,6 +6307,20 @@ window.ARCHIVE = {
      "source": "https://www.asahi.co.jp/refollower/",
      "asset": "ca7d6ca21822657c",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://thetv.jp/i/nw/208481/1273804.jpg?w=1284",
+     "caption": "剧照（安平胜成）",
+     "source": "https://thetv.jp/news/detail/208481/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/208481/1273794.jpg?w=1284",
+     "caption": "剧照：与松田凌",
+     "source": "https://thetv.jp/news/detail/208481/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -6321,7 +6335,9 @@ window.ARCHIVE = {
    "roleRoma": "YASUHIRA KATSUNARI",
    "workRoma": "RE:FOLLOWER",
    "roleName": "安平胜成",
-   "cardPoster": "https://www.asahi.co.jp/refollower/img/common/og02.jpg"
+   "cardPoster": "https://www.asahi.co.jp/refollower/img/common/og02.jpg",
+   "cardPhoto": "https://thetv.jp/i/nw/208481/1273804.jpg?w=1284",
+   "cardPhotoPos": "58% 30%"
   },
   {
    "id": "e95",
