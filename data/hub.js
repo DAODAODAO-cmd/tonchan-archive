@@ -123,10 +123,6 @@ window.HUB = {
     "https://www.watanabepro.co.jp/mypage/10000062/"
    ],
    [
-    "日文维基",
-    "https://ja.wikipedia.org/wiki/東啓介"
-   ],
-   [
     "2017写真集官网",
     "https://higashikeisuke.ponycanyon.co.jp/"
    ]
