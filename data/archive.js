@@ -2612,6 +2612,21 @@ window.ARCHIVE = {
      "source": "https://x.com/keisuke_higashi/status/864394732457271296",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378638.jpg",
+     "caption": "生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/G3378638"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378639.jpg",
+     "caption": "生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/G3378639"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378640.jpg",
+     "caption": "生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/G3378640"
     }
    ],
    "videos": [],
@@ -2632,7 +2647,13 @@ window.ARCHIVE = {
    "status": "",
    "origin": "WE官方周边博客",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683295.jpg",
+     "caption": "表参道店限定W生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/G3683295"
+    }
+   ],
    "videos": [],
    "kind": "bromide"
   },
@@ -3639,6 +3660,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439020.jpg",
+     "caption": "生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/GG439020"
     }
    ],
    "videos": [],
@@ -4172,7 +4198,13 @@ window.ARCHIVE = {
    "status": "",
    "origin": "WE官方周边博客",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271354.jpg",
+     "caption": "表参道店限定W生写真（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/GG271354"
+    }
+   ],
    "videos": [],
    "kind": "bromide"
   },
@@ -4320,6 +4352,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271355.jpg",
+     "caption": "表参道店限定W〈2018年6月〉（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/GG271355"
     }
    ],
    "videos": [],
@@ -5094,6 +5131,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937043.jpg",
+     "caption": "表参道店限定W〈2018年11月〉（骏河屋商品图）",
+     "source": "https://www.suruga-ya.jp/product/detail/GG937043"
     }
    ],
    "videos": [],
