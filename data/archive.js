@@ -1243,6 +1243,35 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_mc_14353602",
+   "date": "2016-06-24",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.10｜铃木拡树SPECIAL，东启介护封背面",
+   "japanese": "W! VOL.10",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4331803376",
+   "note": "W! VOL.10 鈴木拡樹完全SPECIAL；东启介登场护封背面。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/booksupply/cabinet/04216212/683/9784331803370.jpg?_ex=500x500",
+     "caption": "商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "bro_201607",
    "date": "2016-07-01",
    "category": "活动",
@@ -1763,6 +1792,35 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_ya_trickster32",
+   "date": "2016-10-04",
+   "end": "",
+   "category": "杂志",
+   "title": "《Trickster Age》32｜北村谅、东启介等",
+   "japanese": "Trickster Age トリックスターエイジ 32",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://auctions.yahoo.co.jp/search/search?p=Trickster+Age+32+%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "note": "TricksterAge Vol.32（ロマンアルバム）；简介未列名单。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4588/9784197204588.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "bro_201611",
    "date": "2016-11-01",
    "category": "活动",
@@ -2013,64 +2071,6 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_rm_95423071",
-   "date": "2017",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.16",
-   "japanese": "W! VOL.16",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.16%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1164/neobk-2160754.jpg?_ex=500x500",
-     "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_ya_trickster32",
-   "date": "2017",
-   "end": "",
-   "category": "杂志",
-   "title": "《Trickster Age》32｜北村谅、东启介等",
-   "japanese": "Trickster Age トリックスターエイジ 32",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://auctions.yahoo.co.jp/search/search?p=Trickster+Age+32+%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/4588/9784197204588.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -3076,6 +3076,35 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_mc_377465",
+   "date": "2017-07-22",
+   "end": "",
+   "category": "杂志",
+   "title": "《Ray》2017年9月号｜2.5次元特辑",
+   "japanese": "Ray 2017年9月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://books.rakuten.co.jp/",
+   "note": "Ray 2017年9月号，封面白石麻衣；楽天简介未列东启介。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0973/4910096950973.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "pr_starcre5",
    "date": "2017-07-28",
    "end": "",
@@ -3215,35 +3244,6 @@ window.ARCHIVE = {
    "workRoma": "GRAND GUIGNOL",
    "roleName": "李春林",
    "cardPhoto": "https://pbs.twimg.com/media/DEXyHHcU0AUHI-B?format=jpg&name=large"
-  },
-  {
-   "id": "mag_mc_377465",
-   "date": "2017-08",
-   "end": "",
-   "category": "杂志",
-   "title": "《Ray》2017年9月号｜2.5次元特辑",
-   "japanese": "Ray 2017年9月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=%E5%88%87%E3%82%8A%E6%8A%9C%E3%81%8D%20Ray%202017%E5%B9%B49%E6%9C%88%202.5%E6%AC%A1%E5%85%83",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/0973/4910096950973.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
   },
   {
    "id": "bro_201708",
@@ -3592,6 +3592,35 @@ window.ARCHIVE = {
    "kind": "杂志"
   },
   {
+   "id": "mag_rm_95423071",
+   "date": "2017-11-13",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.16｜黑羽麻璃央SPECIAL，东启介海报＋采访",
+   "japanese": "W! VOL.16",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4331803783",
+   "note": "黑羽麻璃央完全SPECIAL；东启介超宽海报＋采访。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1164/neobk-2160754.jpg?_ex=500x500",
+     "caption": "商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "e21",
    "date": "2017-11-13",
    "end": "2017-12-05",
@@ -3780,93 +3809,6 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
-   "id": "mag_mc_54827797",
-   "date": "2018",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.20",
-   "japanese": "W! VOL.20",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=W%21%20vol.20%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/4056/9784331804056.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_rm_15288753",
-   "date": "2018",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.17",
-   "japanese": "W! VOL.17",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.17%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1184/neobk-2191855.jpg?_ex=500x500",
-     "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_rm_91071247",
-   "date": "2018",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.18",
-   "japanese": "W! VOL.18",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.18%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/hmvjapan/cabinet/8742000/8740876.jpg?_ex=500x500",
-     "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "bro_201801",
    "date": "2018-01-01",
    "category": "活动",
@@ -4005,35 +3947,6 @@ window.ARCHIVE = {
    "cardPhoto": "https://www.umegei.com/matahari2018/images/cast/cast_higashi.jpg"
   },
   {
-   "id": "mag_mc_14353602",
-   "date": "2018-02",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.10｜铃木拡树、植田圭辅、安西慎太郎、松田凌、东启介等",
-   "japanese": "W! VOL.10",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.10%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/booksupply/cabinet/04216212/683/9784331803370.jpg?_ex=500x500",
-     "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "bro_201802",
    "date": "2018-02-01",
    "category": "活动",
@@ -4079,6 +3992,35 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_rm_15288753",
+   "date": "2018-02-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.17｜崎山つばさSPECIAL，东启介单人采访",
+   "japanese": "W! VOL.17",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4331803848",
+   "note": "崎山つばさ完全SPECIAL；全员单人采访特辑含东启介。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1184/neobk-2191855.jpg?_ex=500x500",
+     "caption": "商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "mag_rm_14011777",
@@ -4430,6 +4372,35 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动"
+  },
+  {
+   "id": "mag_rm_91071247",
+   "date": "2018-05-01",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.18",
+   "japanese": "W! VOL.18",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4331803937",
+   "note": "鈴木拡樹・太田基裕完全SPECIAL；亚马逊简介未列东启介。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/hmvjapan/cabinet/8742000/8740876.jpg?_ex=500x500",
+     "caption": "商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "bro_201805",
@@ -5281,6 +5252,35 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_mc_54827797",
+   "date": "2018-10-24",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.20｜有泽樟太郎SPECIAL，东启介采访",
+   "japanese": "W! VOL.20",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4331804054",
+   "note": "有澤樟太郎完全SPECIAL；特集「2019へ。そしてその先へ」含东启介。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4056/9784331804056.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_mc_83234988",
    "date": "2018-10-25",
    "end": "",
@@ -5802,6 +5802,35 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_mc_54887563",
+   "date": "2019-04-15",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.22｜阪本奨悟SPECIAL，铃木拡树、有泽樟太郎、北园凉等",
+   "japanese": "W! VOL.22",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4331804186",
+   "note": "阪本奨悟完全SPECIAL；护封背面大图Q&A含东启介。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4186/9784331804186.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_rm_13527194",
    "date": "2019-04-22",
    "end": "",
@@ -5996,35 +6025,6 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "杂志"
-  },
-  {
-   "id": "mag_mc_54887563",
-   "date": "2019-06-01",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.22｜阪本奨悟SPECIAL，铃木拡树、有泽樟太郎、北园凉等",
-   "japanese": "W! VOL.22",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.22%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/4186/9784331804186.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
   },
   {
    "id": "bro_201907",
@@ -9138,35 +9138,6 @@ window.ARCHIVE = {
    "videos": []
   },
   {
-   "id": "mag_mc_79504433",
-   "date": "2022-01",
-   "end": "",
-   "category": "杂志",
-   "title": "《WiNK UP》2022年3月号",
-   "japanese": "WiNK UP 2022年3月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20WiNK%20UP%202022.3%E6%9C%88%E5%8F%B7",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/0326/4910018570326_1_3.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "m440",
    "date": "2022-01-10",
    "end": "",
@@ -9408,6 +9379,35 @@ window.ARCHIVE = {
     }
    ],
    "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_mc_79504433",
+   "date": "2022-02-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2022年3月号",
+   "japanese": "WiNK UP 2022年3月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://books.rakuten.co.jp/",
+   "note": "WiNK UP 2022年3月号，封面Aぇ! group；楽天简介未列东启介。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0326/4910018570326_1_3.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
   },
