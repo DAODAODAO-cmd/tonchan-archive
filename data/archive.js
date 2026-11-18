@@ -17630,7 +17630,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://kaidankagura.wixsite.com/sumu2025",
-   "note": "",
+   "note": "新宿シアターモリエール，全公演2025年11月12日–16日。东启介出演11月13日（木）连续两场：⑤15:30 东启介×湖月わたる、⑥19:00 东启介×咲妃みゆ。企划・演出朴璐美，原作・脚本藤泽文翁，约60分钟。之后有ZAIKO付费配信（已结束）。日程：https://spice.eplus.jp/articles/341145 ；官方X：https://x.com/kaidankagura",
    "status": "",
    "origin": "",
    "dateKind": "本人出演日",
