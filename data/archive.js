@@ -15197,12 +15197,19 @@ window.ARCHIVE = {
    "japanese": "JBB デジタルシングル「アイドル」",
    "crew": "",
    "key": "",
-   "url": "https://natalie.mu/stage/news/569801",
-   "note": "中川晃教、藤岡正明、东启介、大山真志组成的JBB首张数字翻唱单曲，官方YouTube同步公开PV。",
+   "url": "https://spice.eplus.jp/articles/329090",
+   "note": "中川晃教、藤岡正明、东启介、大山真志组成的JBB首张数字翻唱单曲，5月27日0时起流媒体／下载上线（Apple Music等可听）。编曲・音乐监督园田凉，封面插画桔川シン描きおろし；6月3日名古屋公演首次现场演唱。官方YouTube同步公开PV。",
    "status": "发布方原文已定位",
    "origin": "2026.11.18补充",
    "dateKind": "发售／配信日",
    "images": [
+    {
+     "url": "https://spice.eplus.jp/images/SeNR0vGhBHyrxqVug5k0ePY38ExmcH1WksmPXYMKDfNQYZLsp6lnR2cPf8jmeG0a",
+     "caption": "JBB（左起）东启介、中川晃教、藤冈正明、大山真志",
+     "source": "https://spice.eplus.jp/articles/329090",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0417/JBB_art202404.jpg",
      "caption": "ステージナタリー",
