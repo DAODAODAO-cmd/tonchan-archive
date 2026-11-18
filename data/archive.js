@@ -4066,6 +4066,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2018/0403/_4026797.jpg",
+     "caption": "舞台照：哈瓦尔（中间白衣）",
+     "source": "ステージナタリー"
     }
    ],
    "videos": [
@@ -4100,7 +4105,9 @@ window.ARCHIVE = {
    ],
    "roleRoma": "HAWAR",
    "workRoma": "5DAYS",
-   "roleName": "哈瓦尔"
+   "roleName": "哈瓦尔",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2018/0403/_4026797.jpg",
+   "cardPhotoBg": "52% 31% / auto 260%"
   },
   {
    "id": "am_broW1804",
@@ -14604,6 +14611,11 @@ window.ARCHIVE = {
      "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg",
      "caption": "电影主视觉",
      "source": "東海テレビ（PR TIMES）"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2025/0505/oppan_202505_4.jpg",
+     "caption": "电影场面照：砂川圆（右）与五十岚大地",
+     "source": "映画ナタリー"
     }
    ],
    "videos": [
@@ -14642,7 +14654,9 @@ window.ARCHIVE = {
    "roleRoma": "SUNAKAWA MADOKA",
    "workRoma": "OPPAN THE MOVIE",
    "roleName": "砂川圆",
-   "cardPoster": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg"
+   "cardPoster": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2025/0505/oppan_202505_4.jpg",
+   "cardPhotoBg": "89% 0% / auto 150%"
   },
   {
    "id": "s165",
