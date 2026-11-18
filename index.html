@@ -194,8 +194,23 @@ section.sec{padding:34px 0}
 .ms li{display:grid;grid-template-columns:42px 1fr;gap:22px;padding:7px 0;font-size:13.5px;position:relative}
 .ms li b{font-family:var(--serif);color:#b46a4b}
 .ms li:before{content:"";position:absolute;left:41px;top:15px;width:12px;height:12px;border-radius:50%;background:var(--card);border:3px solid var(--peach)}
+.says{columns:3 280px;column-gap:18px;margin-top:14px}
+.say{break-inside:avoid;margin:0 0 18px;padding:20px 20px 16px;position:relative}
+.say:before{content:"“";position:absolute;top:2px;left:14px;font-family:var(--serif);font-size:46px;line-height:1;color:var(--line)}
+.say .tp{display:inline-block;font-size:11px;color:var(--muted);background:var(--bg);border-radius:999px;padding:2px 10px;margin-bottom:10px}
+.say p{margin:0;font-family:var(--serif);font-size:15px;line-height:1.85}
+.say blockquote{margin:10px 0 0;padding:0 0 0 10px;border-left:2px solid var(--line);font-size:12.5px;color:var(--muted)}
+.say .sf{margin-top:12px;font-size:11.5px;color:var(--muted)}
+.say .sf a{color:var(--muted);text-decoration:underline;text-underline-offset:2px}
 .src{font-size:12px;color:var(--muted);margin-top:14px}
 .src a{color:var(--sage);margin-right:10px}
+
+
+/* says */
+(function(){const S=H.says||[];if(!S.length)return;const tps=['全部',...new Set(S.map(x=>x.topic))];let cur='全部';
+const draw=()=>{$('saysFilters').innerHTML=tps.map(t=>'<button class="'+(t===cur?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('');
+$('saysGrid').innerHTML=S.filter(x=>cur==='全部'||x.topic===cur).map(x=>'<div class="card say"><span class="tp">'+esc(x.topic)+'</span><p>'+esc(x.zh)+'</p><blockquote lang="ja">'+esc(x.ja)+'</blockquote><div class="sf">'+esc(x.date.replace(/-/g,'.'))+' · <a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.src)+'</a></div></div>').join('');};
+$('saysFilters').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;cur=b.dataset.t;draw();});draw();})();
 
 /* channels */
 .ch{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
@@ -270,7 +285,7 @@ footer p{margin:4px 0}
 <nav class="nav"><div class="wrap">
   <a class="logo" href="#top"><span>東</span>东启介 资讯站</a>
   <div class="pills" id="pills">
-    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边</a><a href="#roles">角色</a><a href="#profile">个人资料</a><a href="#links">官方渠道</a><a class="arch" href="list.html?g=all">编年档案 →</a>
+    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边</a><a href="#roles">角色</a><a href="#profile">个人资料</a><a href="#says">东酱说</a><a href="#links">官方渠道</a><a class="arch" href="list.html?g=all">编年档案 →</a>
   </div>
 </div></nav>
 
@@ -344,6 +359,12 @@ footer p{margin:4px 0}
     <div class="skills" id="skills"></div>
   </div>
   <div class="card ms"><h3 style="font-family:var(--serif);margin:0 0 14px;font-size:17px">经历小记</h3><ol id="milestones"></ol><div class="src" id="profSrc"></div></div>
+</div></section>
+
+<section class="sec" id="says"><div class="wrap">
+  <div class="sec-head"><h2><em>HIGASHI SAYS</em>东酱说</h2></div>
+  <div class="filters" id="saysFilters"></div>
+  <div class="says" id="saysGrid"></div>
 </div></section>
 
 <section class="sec" id="links"><div class="wrap">

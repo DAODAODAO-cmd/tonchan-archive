@@ -6589,21 +6589,21 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://natalie.mu/stage/news/356091",
-   "note": "TRUMP series 10th ANNIVERSARY FINAL「繭期大夜会」，2019年11月18日 東京・Bunkamura オーチャードホール，构成・演出末满健一。东启介在「LILIUM」章节演唱《共同幻想ユートピア》。",
+   "note": "TRUMP series 10th ANNIVERSARY FINAL「繭期大夜会」，2019年11月18日 東京・Bunkamura オーチャードホール，构成・演出末满健一。东启介在「LILIUM」章节演唱《共同幻想ユートピア》，并边唱《花には言葉がある》边走下客席通道。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
     {
-     "url": "https://ogre.natalie.mu/media/news/stage/2019/1125/mayukidaiyakai3.jpg?imwidth=750&imdensity=1",
-     "caption": "剧照",
-     "source": "https://natalie.mu/stage/news/356091",
+     "url": "https://ogre.natalie.mu/media/news/stage/2019/1125/mayukidaiyakai8.jpg",
+     "caption": "演唱《花には言葉がある》走下客席通道",
+     "source": "https://natalie.mu/stage/gallery/news/356091/1284118",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://ogre.natalie.mu/media/news/stage/2019/1125/mayukidaiyakai6.jpg",
-     "caption": "公演照",
+     "url": "https://ogre.natalie.mu/media/news/stage/2019/1125/mayukidaiyakai3.jpg?imwidth=750&imdensity=1",
+     "caption": "剧照",
      "source": "https://natalie.mu/stage/news/356091",
      "asset": "",
      "resolution": ""
