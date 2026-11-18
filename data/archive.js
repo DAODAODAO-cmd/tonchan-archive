@@ -17310,11 +17310,18 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://natalie.mu/stage/news/634015",
-   "note": "オクタヴィア・レコード发行，2CD，收录2024年8月31日东京终场公演现场音源。",
+   "note": "オクタヴィア・レコード发行，2CD，收录2024年8月31日东京终场公演现场音源。 约90分钟。DISC1：Big Girls Don’t Cry、Beggin’、Can’t Take My Eyes Off Of You、銀色の道、Stand by Me、Route 66、明日があるさ、黄昏のビギン、また君に恋してる、ACT SHOW、September；DISC2：Twilight Zone/Twilight Tone、グッド・ナイト・ベイビー、You Are Everything、夢で逢えたら、アイドル、Yesterday、恋のダイヤル6700、Who Loves You、Bohemian Rhapsody、I Want You Back、Habit、夜空ノムコウ。亚马逊：https://www.amazon.co.jp/dp/B0FKBN1S6M",
    "status": "发布方原文已定位",
    "origin": "2026.11.18补充",
    "dateKind": "发售／配信日",
    "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/71FaaACgKZL._AC_SL1417_.jpg",
+     "caption": "CD封面",
+     "source": "https://www.amazon.co.jp/dp/B0FKBN1S6M",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0729/ovca_00039_jacket.jpg",
      "caption": "ステージナタリー",
