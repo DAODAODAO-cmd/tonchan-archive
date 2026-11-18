@@ -10690,7 +10690,12 @@ window.ARCHIVE = {
      "source": "官方"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "第1话宣传＋演员ins（B站搬运，2P）",
+     "url": "https://www.bilibili.com/video/BV1uP411572a/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
@@ -30085,9 +30090,9 @@ window.ARCHIVE = {
   },
   {
    "id": "BV1uP411572a",
-   "title": "9月深夜剧  东启介cut/相关",
+   "title": "《Chaser Game》2022 东启介相关：第1话宣传＋演员ins（2P）",
    "channel": "KKRooo",
-   "type": "剧集cut",
+   "type": "预告／宣传",
    "sourceType": "B站搬运",
    "years": [
     "2022"
@@ -30096,7 +30101,7 @@ window.ARCHIVE = {
    "thumbnail": "https://i0.hdslb.com/bfs/archive/54d342e82b06b2aed4dff5e5a2d451e466f7af38.jpg",
    "playlists": [],
    "platform": "B站",
-   "rel": "B站有｜2022.09.08上传",
+   "rel": "B站有｜P1 东京电视台「ドラ24『チェイサーゲーム』注目の第1話」宣传片段（37秒）、P2 演员Instagram（17秒）",
    "source": "https://www.bilibili.com/video/BV1uP411572a/",
    "uploadDate": "2022-09-08",
    "dateLabel": "2022.09.08 B站上传",
