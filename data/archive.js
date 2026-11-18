@@ -8295,6 +8295,39 @@ window.ARCHIVE = {
    "videos": []
   },
   {
+   "id": "tv_intro210201",
+   "date": "2021-02-01",
+   "end": "",
+   "category": "电视节目",
+   "title": "日本电视台《イントロ》出演",
+   "japanese": "イントロ みんなの、きっかけ。",
+   "crew": "",
+   "key": "",
+   "url": "https://www.bilibili.com/video/BV17y4y1E7vQ/",
+   "note": "日本电视台深夜谈话节目，MC佐藤真知子アナ，周日深夜1:25–1:40。2021年1月31日深夜（即2月1日凌晨）播出；当时他正出演日テレ水剧《我家女儿交不到男朋友!!》。B站搬运约7分钟。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.19补充",
+   "dateKind": "放送日（周日深夜档，据搬运标题）",
+   "images": [
+    {
+     "url": "https://i0.hdslb.com/bfs/archive/5028e18d64ed83714372d5e4bdaa4ca1c1bf02ea.jpg",
+     "caption": "B站视频封面",
+     "source": "https://www.bilibili.com/video/BV17y4y1E7vQ/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "东启介cut（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV17y4y1E7vQ/"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_rk16614594",
    "date": "2021-02-05",
    "end": "",
@@ -32960,7 +32993,7 @@ window.ARCHIVE = {
   },
   {
    "id": "BV17y4y1E7vQ",
-   "title": "2021.2.1 短节目《イントロ》东启介cut",
+   "title": "日本电视台《イントロ》2021.2.1 东启介cut",
    "channel": "KKRooo",
    "type": "节目／其他",
    "sourceType": "B站搬运",
@@ -32971,7 +33004,7 @@ window.ARCHIVE = {
    "thumbnail": "https://i0.hdslb.com/bfs/archive/5028e18d64ed83714372d5e4bdaa4ca1c1bf02ea.jpg",
    "playlists": [],
    "platform": "B站",
-   "rel": "B站有｜约7分钟；节目具体信息待核",
+   "rel": "B站有｜日本电视台深夜谈话节目「イントロ みんなの、きっかけ。」（MC佐藤真知子），约7分钟",
    "source": "https://www.bilibili.com/video/BV17y4y1E7vQ/",
    "uploadDate": "2021-03-11",
    "dateLabel": "2021.03.11 B站上传",
