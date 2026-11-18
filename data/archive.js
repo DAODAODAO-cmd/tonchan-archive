@@ -4872,6 +4872,35 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_rm_42632246",
+   "date": "2018-08-24",
+   "end": "",
+   "category": "杂志",
+   "title": "《周女イケメン通信》vol.12｜柳下大×东启介",
+   "japanese": "週女イケメン通信 vol.12",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/B07GJCMPMP",
+   "note": "电子版（主婦と生活社），《周刊女性》「生で会えるイケメンリレー対談」加采访。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/81woWJbYJqL.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/B07GJCMPMP",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "e25",
    "date": "2018-08-25",
    "end": "2018-09-09",
@@ -5043,35 +5072,6 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_mc_664967",
-   "date": "2018-10",
-   "end": "",
-   "category": "杂志",
-   "title": "《WiNK UP》2018年12月号｜山本凉介、安井谦太郎、森田美勇人、东启介",
-   "japanese": "WiNK UP 2018年12月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=WiNK%20UP%20%E6%9D%B1%E5%95%93%E4%BB%8B%2018.12",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/1286/4910018571286.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -5405,6 +5405,42 @@ window.ARCHIVE = {
    "kind": "杂志"
   },
   {
+   "id": "mag_mc_664967",
+   "date": "2018-11-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2018年12月号｜山本凉介、安井谦太郎、森田美勇人、东启介",
+   "japanese": "WiNK UP 2018年12月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/B07J34NSQW",
+   "note": "封面神宫寺勇太；亚马逊简介未列内页名单。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/61xqSHvn6mL.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/B07J34NSQW",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/1286/4910018571286.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "e27",
    "date": "2018-11-24",
    "end": "2018-12-22",
@@ -5538,7 +5574,7 @@ window.ARCHIVE = {
   },
   {
    "id": "mag_rm_90894441",
-   "date": "2019",
+   "date": "2019-01-19",
    "end": "",
    "category": "杂志",
    "title": "《W!》vol.21",
@@ -5546,12 +5582,19 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.21%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
+   "url": "https://www.amazon.co.jp/dp/4331804097",
+   "note": "崎山つばさSPECIAL；目录列有东启介。",
    "status": "",
    "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
+   "dateKind": "发售日",
    "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/81-lVbWon+L.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/4331804097",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4094/9784331804094.jpg?downsize=600:*",
      "caption": "封面",
@@ -5561,7 +5604,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -5760,7 +5803,7 @@ window.ARCHIVE = {
   },
   {
    "id": "mag_rm_13527194",
-   "date": "2019-04",
+   "date": "2019-04-22",
    "end": "",
    "category": "杂志",
    "title": "《LDK the Beauty》2019年6月号",
@@ -5768,12 +5811,19 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/LDK%20the%20Beauty%202019%E5%B9%B46%E6%9C%88%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
+   "url": "https://www.amazon.co.jp/dp/B07QL61NDY",
+   "note": "连载「イケメンコンビニスイーツ図鑑」vol.13 东启介。",
    "status": "",
    "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
+   "dateKind": "发售日",
    "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/91Fi8Roj4QL.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/B07QL61NDY",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0690/4910121210690.jpg?downsize=600:*",
      "caption": "封面",
@@ -5783,7 +5833,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -7535,27 +7585,6 @@ window.ARCHIVE = {
    "kind": "magazine"
   },
   {
-   "id": "mag_rm_42632246",
-   "date": "2021",
-   "end": "",
-   "category": "杂志",
-   "title": "《周女イケメン通信》vol.12｜柳下大×东启介",
-   "japanese": "週女イケメン通信 vol.12",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/%E9%80%B1%E5%A5%B3%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E9%80%9A%E4%BF%A1%20vol.12%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "mag_mc_51489420",
    "date": "2021-01",
    "end": "",
@@ -8026,6 +8055,42 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0418/4910080090418.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16657557/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_mc_63082374",
+   "date": "2021-02-27",
+   "end": "",
+   "category": "杂志",
+   "title": "《STAGE SQUARE》vol.49｜东启介、林翔太",
+   "japanese": "STAGE SQUARE vol.49",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4838793200",
+   "note": "《IN THE HEIGHTS》Micro×平間壮一×林翔太×东启介×TETSUHARU。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/71Ne4pXovJL.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/4838793200",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/3204/9784838793204.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
      "asset": "",
      "resolution": ""
     }
@@ -10394,35 +10459,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_mc_955391",
-   "date": "2022-12",
-   "end": "",
-   "category": "杂志",
-   "title": "《WiNK UP》2023年2月号｜井上祐贵×东启介",
-   "japanese": "WiNK UP 2023年2月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=WINK%20UP%202023%E5%B9%B4%202%E6%9C%88%E5%8F%B7%20%E4%BA%95%E4%B8%8A%E7%A5%90%E8%B2%B4%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "m451",
    "date": "2022-12-10",
    "end": "",
@@ -10517,64 +10553,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_mc_63082374",
-   "date": "2023",
-   "end": "",
-   "category": "杂志",
-   "title": "《STAGE SQUARE》vol.49｜东启介、林翔太",
-   "japanese": "STAGE SQUARE vol.49",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=STAGE%20SQUARE%20vol.49%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/3204/9784838793204.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_rm_64080758",
-   "date": "2023",
-   "end": "",
-   "category": "杂志",
-   "title": "《TV指南PLUS》vol.51",
-   "japanese": "TVガイドPLUS vol.51",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89PLUS%20vol.51%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/6466/9784867016466_1_3.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "bro_202301",
    "date": "2023-01-01",
    "category": "活动",
@@ -10632,6 +10610,42 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "杂志"
+  },
+  {
+   "id": "mag_mc_955391",
+   "date": "2023-01-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2023年2月号｜井上祐贵×东启介",
+   "japanese": "WiNK UP 2023年2月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/B00AN571SG",
+   "note": "封面King & Prince；亚马逊简介未列内页名单。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/91Au7lNuR9L.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/B00AN571SG",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "e53",
@@ -11701,6 +11715,42 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_rm_64080758",
+   "date": "2023-07-03",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV指南PLUS》vol.51",
+   "japanese": "TVガイドPLUS vol.51",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4867016462",
+   "note": "亚马逊简介未见东启介，待核。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/61TL27fNPUL.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/4867016462",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/6466/9784867016466_1_3.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
    "playlistLinks": []
   },
   {
@@ -14945,6 +14995,42 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_mc_82956306",
+   "date": "2024-11-26",
+   "end": "",
+   "category": "杂志",
+   "title": "《Dance SQUARE》vol.65｜《长靴皇后》四人",
+   "japanese": "Dance SQUARE vol.65",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4838794568",
+   "note": "《长靴皇后》东启介×有泽樟太郎×甲斐翔真×松下优也。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/71mmjbDaQ0L.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/4838794568",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4560/9784838794560_1_2.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "bro_202412",
    "date": "2024-12-01",
    "category": "活动",
@@ -15074,6 +15160,42 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_mc_9629790",
+   "date": "2024-12-26",
+   "end": "",
+   "category": "杂志",
+   "title": "《Stage fan》vol.43｜《长靴皇后》松下优也、有泽樟太郎、东启介、甲斐翔真",
+   "japanese": "Stagefan Vol.43",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4863884788",
+   "note": "《长靴皇后》东启介＆有泽樟太郎、甲斐翔真＆松下优也。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/81Rc+K3DSRL.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/4863884788",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/4786/9784863884786_1_2.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_fs2613062",
    "date": "2024-12-27",
    "end": "",
@@ -15098,64 +15220,6 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "杂志"
-  },
-  {
-   "id": "mag_mc_9629790",
-   "date": "2025",
-   "end": "",
-   "category": "杂志",
-   "title": "《Stage fan》vol.43｜《长靴皇后》松下优也、有泽樟太郎、东启介、甲斐翔真",
-   "japanese": "Stagefan Vol.43",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=Stagefan%20Vol.43%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/4786/9784863884786_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_mc_82956306",
-   "date": "2025",
-   "end": "",
-   "category": "杂志",
-   "title": "《Dance SQUARE》vol.65｜《长靴皇后》四人",
-   "japanese": "Dance SQUARE vol.65",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=Dance%20SQUARE%20vol.65%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/4560/9784838794560_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
   },
   {
    "id": "bro_202501",
