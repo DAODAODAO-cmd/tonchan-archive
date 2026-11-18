@@ -12055,7 +12055,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "全场（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1vV41137Th/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -19904,6 +19909,26 @@ window.ARCHIVE = {
   }
  ],
  "videos": [
+  {
+   "id": "BV1vV41137Th",
+   "title": "JBB concert 2023",
+   "channel": "_Stereo",
+   "duration": "1:55:47",
+   "available": true,
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/09fec8e071cf156cfc7c519082bb1548cba3d820.jpg",
+   "playlists": [],
+   "sourceType": "B站搬运",
+   "type": "演出／歌唱",
+   "url": "https://www.bilibili.com/video/BV1vV41137Th/",
+   "years": [
+    "2023"
+   ],
+   "rel": "作品关联",
+   "platform": "B站",
+   "asset": "",
+   "uploadDate": "2023-08-11",
+   "note": "2023年5月24日中野サンプラザ公演全场。"
+  },
   {
    "id": "rkP9UproOLQ",
    "title": "JBBコンサート 2024",
