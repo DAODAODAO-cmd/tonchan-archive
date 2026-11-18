@@ -10672,7 +10672,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "chaser",
    "url": "https://www.tv-tokyo.co.jp/chasergame/",
-   "note": "电视台标注9月8日24:30；实际日历为9月9日00:30。",
+   "note": "电视台标注9月8日24:30；实际日历为9月9日00:30。 东京电视台「木ドラ24」，主演渡边圭祐。东启介饰「Dynamic Dream」的平面设计师・动画演出鱼川贵央：创作上是天才，却不和周围沟通、处于孤立。官方角色页：https://www.tv-tokyo.co.jp/chasergame/cast/",
    "status": "",
    "origin": "",
    "dateKind": "官方标注首播日",

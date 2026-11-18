@@ -1230,6 +1230,14 @@ window.HUB = {
    "date": "2022-05-24",
    "src": "マイナビニュース",
    "url": "https://news.mynavi.jp/article/20220524-2349986/"
+  },
+  {
+   "topic": "私下小事",
+   "zh": "自己也玩游戏，接到《Chaser Game》时很开心能了解做游戏那一方，一口气把原作漫画读完了。",
+   "ja": "原作を一気に読んでしまいました",
+   "date": "2022-08-23",
+   "src": "东京电视台官网",
+   "url": "https://www.tv-tokyo.co.jp/chasergame/cast/"
   }
  ]
 };
