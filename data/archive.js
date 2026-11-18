@@ -15836,6 +15836,34 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "nat_jbb24_tv",
+   "date": "2024-11-16",
+   "end": "",
+   "category": "电视节目",
+   "title": "《JBB コンサート 2024》日テレプラス 电视放送",
+   "japanese": "JBB コンサート 2024（日テレプラス ドラマ・アニメ・音楽ライブ）",
+   "crew": "",
+   "key": "",
+   "url": "https://natalie.mu/stage/news/597716",
+   "note": "2024年11月16日21:30首播，播出8月31日かつしかシンフォニーヒルズ终场公演，全26曲，约2小时。东启介评论：得知放送后，强烈觉得要拿出比去年中野サンプラザ公演更成长的样子。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "放送日",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/1101/main.jpg",
+     "caption": "「JBB コンサート 2024」（撮影：宮川舞子 / 杉本理）",
+     "source": "https://natalie.mu/stage/news/597716",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_rk18060821",
    "date": "2024-11-20",
    "end": "",
