@@ -6299,6 +6299,11 @@ window.ARCHIVE = {
      "source": "https://stagegate-vr.jp/vol1/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://stagegate-vr.jp/vol1/img_cast/higashi.jpg",
+     "caption": "官网演员照",
+     "source": "https://stagegate-vr.jp/vol1/"
     }
    ],
    "videos": [],
@@ -6308,7 +6313,8 @@ window.ARCHIVE = {
    "roleRoma": "HARRY MENDELSOHN",
    "workRoma": "DEFILED",
    "roleName": "哈里",
-   "cardPoster": "https://stagegate-vr.jp/vol1/img_parallax/defiled1.jpg"
+   "cardPoster": "https://stagegate-vr.jp/vol1/img_parallax/defiled1.jpg",
+   "cardPhoto": "https://stagegate-vr.jp/vol1/img_cast/higashi.jpg"
   },
   {
    "id": "e37",
@@ -6999,6 +7005,11 @@ window.ARCHIVE = {
      "source": "https://www.ntv.co.jp/uchikare/articles/205261mefmaix3vhul5g.html",
      "asset": "8ea948e91249926d",
      "resolution": "700 × 394"
+    },
+    {
+     "url": "https://stat.ameba.jp/user_images/20210117/13/uchikare-ntv/a8/77/j/o1080161814882857453.jpg",
+     "caption": "官方博客角色介绍：涉周一",
+     "source": "https://ameblo.jp/uchikare-ntv/entry-12650044500.html"
     }
    ],
    "videos": [
@@ -7017,7 +7028,9 @@ window.ARCHIVE = {
    "roleRoma": "WATARI SHUICHI",
    "workRoma": "UCHIKARE",
    "roleName": "涉周一",
-   "cardPoster": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg"
+   "cardPoster": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg",
+   "cardPhoto": "https://stat.ameba.jp/user_images/20210117/13/uchikare-ntv/a8/77/j/o1080161814882857453.jpg",
+   "cardPhotoBg": "50% 22% / 115% auto"
   },
   {
    "id": "e83",
