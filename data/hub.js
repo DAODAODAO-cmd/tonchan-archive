@@ -639,7 +639,7 @@ window.HUB = {
    "title": "首次个人活动《First-on》周边",
    "status": "已售罄",
    "price": "生写真 · 卷袖T 3,000円 · 托特包 1,500円 · 手环灯",
-   "image": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/40/be/j/o0600060013922579104.jpg",
+   "image": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/c0/9d/j/o0250024913922579089.jpg",
    "points": [
     "第一次自己监制周边，活动Logo是本人亲笔",
     "会场限定生写真附印刷亲笔留言"
