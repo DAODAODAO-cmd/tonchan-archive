@@ -2046,6 +2046,34 @@ window.ARCHIVE = {
    "cardPhoto": "https://stage-toukenranbu.jp/archive/kyoden_saien/images/cast/syokudai.jpg"
   },
   {
+   "id": "nat_qj129",
+   "date": "2016-12-22",
+   "end": "",
+   "category": "杂志",
+   "title": "《Quick Japan》Vol.129｜佐藤流司特集 寄语",
+   "japanese": "Quick Japan Vol.129",
+   "crew": "",
+   "key": "",
+   "url": "https://natalie.mu/stage/news/214385",
+   "note": "佐藤流司特集后篇，刊有网球王子音乐剧共演者东启介的寄语。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "发售／配信日",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/music/2016/1221/qj129_1.jpg",
+     "caption": "ステージナタリー",
+     "source": "https://natalie.mu/stage/news/214385",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_rk14585124",
    "date": "2017",
    "end": "",
@@ -11013,6 +11041,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "nat_wmst2212",
+   "date": "2022-12-22",
+   "end": "",
+   "category": "电视节目",
+   "title": "《World Musical Show Times～百老汇特辑～》",
+   "japanese": "World Musical Show Times～ブロードウェイ特集～",
+   "crew": "",
+   "key": "",
+   "url": "https://natalie.mu/stage/news/504719",
+   "note": "SPOOX配信，与甲斐翔真、内藤大希主持，前后两篇；东启介演唱《ジャージー・ボーイズ》「My Eyes Adored You」等。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "发售／配信日",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/1212/WMST_key.jpg",
+     "caption": "ステージナタリー",
+     "source": "https://natalie.mu/stage/news/504719",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "e52",
    "date": "2022-12-25",
    "end": "",
@@ -15133,6 +15189,34 @@ window.ARCHIVE = {
    "kind": "magazine"
   },
   {
+   "id": "nat_jbb_idol",
+   "date": "2024-05-27",
+   "end": "",
+   "category": "活动",
+   "title": "JBB 数字单曲《アイドル》（翻唱YOASOBI）",
+   "japanese": "JBB デジタルシングル「アイドル」",
+   "crew": "",
+   "key": "",
+   "url": "https://natalie.mu/stage/news/569801",
+   "note": "中川晃教、藤岡正明、东启介、大山真志组成的JBB首张数字翻唱单曲，官方YouTube同步公开PV。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "发售／配信日",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/0417/JBB_art202404.jpg",
+     "caption": "ステージナタリー",
+     "source": "https://natalie.mu/stage/news/569801",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "nat_jbb24",
    "date": "2024-06-01",
    "end": "2024-08-31",
@@ -17187,6 +17271,62 @@ window.ARCHIVE = {
    "roleName": "鲍勃·高迪奥",
    "cardPhoto": "https://astage-ent.com/wp/wp-content/uploads/2025/08/IMG_5003s78.jpg",
    "cardPhotoBg": "55% 10% / auto 170%"
+  },
+  {
+   "id": "nat_jbb_bohe",
+   "date": "2025-08-13",
+   "end": "",
+   "category": "活动",
+   "title": "JBB 第2张数字翻唱单曲《Bohemian Rhapsody》",
+   "japanese": "JBB 2ndデジタルカバーシングル「Bohemian Rhapsody」",
+   "crew": "",
+   "key": "",
+   "url": "https://natalie.mu/stage/news/635598",
+   "note": "翻唱QUEEN。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "发售／配信日",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2025/0808/JBB_art202508.jpg",
+     "caption": "ステージナタリー",
+     "source": "https://natalie.mu/stage/news/635598",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "nat_jbb_cd25",
+   "date": "2025-08-20",
+   "end": "",
+   "category": "活动",
+   "title": "JBB 现场CD《JBB Concert 2024 in Tokyo》",
+   "japanese": "CD「JBB Concert 2024 in Tokyo」",
+   "crew": "",
+   "key": "",
+   "url": "https://natalie.mu/stage/news/634015",
+   "note": "オクタヴィア・レコード发行，2CD，收录2024年8月31日东京终场公演现场音源。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "发售／配信日",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2025/0729/ovca_00039_jacket.jpg",
+     "caption": "ステージナタリー",
+     "source": "https://natalie.mu/stage/news/634015",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "mts_rev15126",
