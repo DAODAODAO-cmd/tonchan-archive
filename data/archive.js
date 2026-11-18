@@ -17630,11 +17630,18 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://kaidankagura.wixsite.com/sumu2025",
-   "note": "新宿シアターモリエール，全公演2025年11月12日–16日。东启介出演11月13日（木）连续两场：⑤15:30 东启介×湖月わたる、⑥19:00 东启介×咲妃みゆ。企划・演出朴璐美，原作・脚本藤泽文翁，约60分钟。之后有ZAIKO付费配信（已结束）。日程：https://spice.eplus.jp/articles/341145 ；官方X：https://x.com/kaidankagura",
+   "note": "新宿シアターモリエール，全公演2025年11月12日–16日。东启介出演11月13日（木）连续两场：⑤15:30 东启介×湖月わたる、⑥19:00 东启介×咲妃みゆ。企划・演出朴璐美，原作・脚本藤泽文翁，约60分钟。之后有付费配信：前半5场（含东启介两场）2025年12月27日起限时1周，另有24小时“见逃し”票（已结束）。日程：https://spice.eplus.jp/articles/341145 ；官方X：https://x.com/kaidankagura",
    "status": "",
    "origin": "",
    "dateKind": "本人出演日",
    "images": [
+    {
+     "url": "https://pbs.twimg.com/media/G7jBOMpbUAEUHEP?format=jpg&name=large",
+     "caption": "公演影像片段：东启介×湖月わたる",
+     "source": "https://x.com/kaidankagura/status/1997863710191415784",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://static.wixstatic.com/media/a0e5ad_5aa720f100e64b758bb65e1ff679c1d7~mv2.jpg/v1/fill/w_605,h_856,al_c,q_85/visual.jpg",
      "caption": "主视觉",
@@ -17650,7 +17657,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "公演映像チラみせ：东启介×湖月わたる（官方X）",
+     "url": "https://x.com/kaidankagura/status/1997863710191415784"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
