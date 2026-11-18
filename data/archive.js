@@ -3809,6 +3809,41 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "web_es40364",
+   "date": "2017-12-24",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《5DAYS 边境的罗密欧与朱丽叶》专访",
+   "japanese": "Rock Musical『5DAYS 辺境のロミオとジュリエット』東 啓介インタビュー！「成長した姿をお見せしたい」",
+   "crew": "",
+   "key": "",
+   "url": "https://enterstage.jp/articles/40364",
+   "note": "エンタステージ。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://enterstage.jp/wp/interview/upimg/008609.jpg",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/40364",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://enterstage.jp/wp/interview/upimg/008609_2.jpg",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/40364",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "bro_201801",
    "date": "2018-01-01",
    "category": "活动",
@@ -7423,6 +7458,76 @@ window.ARCHIVE = {
    "roleName": "政之助"
   },
   {
+   "id": "web_es65233",
+   "date": "2020-10-20",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《恋，燃烧吧。》专访（エンタステージ）",
+   "japanese": "東啓介『恋、燃ゆる。』インタビュー！「難しいことばかりで、初舞台に立っているような気持ち」",
+   "crew": "",
+   "key": "",
+   "url": "https://enterstage.jp/articles/65233",
+   "note": "エンタステージ。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2020/10/65233.jpg",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/65233",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2020/10/65233_2.jpg",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/65233",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_es72713",
+   "date": "2020-10-31",
+   "end": "",
+   "category": "采访／连载",
+   "title": "首场个人音乐会《A NEW ME》专访",
+   "japanese": "1st Musical Concert『A NEW ME』東啓介インタビュー「これからどんな役に挑戦していきたいのか、セットリストから感じて」",
+   "crew": "",
+   "key": "",
+   "url": "https://enterstage.jp/articles/72713",
+   "note": "エンタステージ。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2020/10/72713.jpg",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/72713",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2020/10/72713_2.jpg",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/72713",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_ya_square02",
    "date": "2020-11",
    "end": "",
@@ -8844,6 +8949,34 @@ window.ARCHIVE = {
     }
    ],
    "videos": []
+  },
+  {
+   "id": "web_ninodan21",
+   "date": "2021-08-31",
+   "end": "",
+   "category": "采访／连载",
+   "title": "对谈本《ニノダン＋ -Power of the Stage-》｜东启介×平间壮一",
+   "japanese": "舞台俳優、演出家など14組が対談「ニノダン＋」完全受注生産チャリティ本として発売決定",
+   "crew": "",
+   "key": "",
+   "url": "https://enterstage.jp/articles/96660",
+   "note": "完全受注生产的慈善对谈本，14组对谈之一为东启介×平间壮一。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2021/08/96660.png",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/96660",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "m436",
@@ -14777,6 +14910,69 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "杂志"
+  },
+  {
+   "id": "web_es161227",
+   "date": "2024-10-15",
+   "end": "",
+   "category": "采访／连载",
+   "title": "出道10周年个人音乐会专访（エンタステージ）",
+   "japanese": "東啓介が語る10周年ソロコンサートへの思い「必要とされる役者になりたい」",
+   "crew": "",
+   "key": "",
+   "url": "https://enterstage.jp/articles/161227",
+   "note": "エンタステージ。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2024/10/20241015_higashi_-1.jpg",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/161227",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2024/10/20241015_higashi_-2.jpg",
+     "caption": "エンタステージ",
+     "source": "https://enterstage.jp/articles/161227",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_tt132646",
+   "date": "2024-10-15",
+   "end": "",
+   "category": "采访／连载",
+   "title": "出道10周年个人音乐会专访（シアターテイメント）",
+   "japanese": "東啓介 インタビュー デビュー10周年ソロコンサート開催",
+   "crew": "",
+   "key": "",
+   "url": "https://theatertainment.jp/cast-staff/132646/",
+   "note": "シアターテイメントNEWS。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://theatertainment.jp/wp-content/uploads/2024/10/2410keisuke.jpg",
+     "caption": "シアターテイメント",
+     "source": "https://theatertainment.jp/cast-staff/132646/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "s163",
