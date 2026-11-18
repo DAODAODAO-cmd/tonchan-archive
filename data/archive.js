@@ -3708,6 +3708,34 @@ window.ARCHIVE = {
    "cardPhoto": "https://www.umegei.com/the-scarlet-pimpernel/img/second/cast_10.jpg"
   },
   {
+   "id": "web_spice156576",
+   "date": "2017-11-17",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《红花侠》再演「ピンパーネル団」三人谈",
+   "japanese": "久保田秀敏×多和田秀弥×東啓介「ピンパーネル団」が語る『スカーレット・ピンパーネル』",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/156576",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/sVRUuv1jE4KUgGiLuh47vqA6TxULq9nuqtq6F5D7YsFEed8cSKGDMsvRaRtVnWxr",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/156576",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "pr_soda1801",
    "date": "2017-11-22",
    "end": "",
@@ -4875,6 +4903,34 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_spice202482",
+   "date": "2018-08-23",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《命売ります》对谈：东启介×上村海成",
+   "japanese": "三島由紀夫原作『命売ります』が初の舞台化 東啓介×上村海成が作品への思いを語り合う",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/202482",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/k5LmlnrHQSu4taHH8D8BvCLQhKgYeyU11C5YqIorL8chKplfaFPe4zsVLq6TvCqm",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/202482",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
    "playlistLinks": []
   },
   {
@@ -7629,6 +7685,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_spice276893",
+   "date": "2020-11-11",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《A NEW ME》专访（SPICE）",
+   "japanese": "東啓介 1st Musical Concert『A NEW ME』～「今、ステージで歌えることが、僕にとっての喜びです」",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/276893",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/DA4SvhZuGJaeEmlpb7GwLvHgyPvHZPJJNRzNbgZHOOv5gj7GpBpRDELnORyoX1uF",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/276893",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "e40",
    "date": "2020-11-28",
    "end": "2020-11-29",
@@ -10112,6 +10196,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_spice306898",
+   "date": "2022-08-31",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《泽西男孩》双卡对谈：东启介×有泽樟太郎",
+   "japanese": "東啓介×有澤樟太郎「分かち合いながら一緒に戦っていきたい」〜『ジャージー・ボーイズ』Wキャスト対談",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/306898",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/G73j6tDVnE7UNHh0l9QsS0kM2MInFjN93DMspJV5mDwYWRFsFvOTo91kAYsS0pdV",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/306898",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_fs2295085",
    "date": "2022-09-07",
    "end": "",
@@ -11034,6 +11146,34 @@ window.ARCHIVE = {
     }
    ],
    "videos": []
+  },
+  {
+   "id": "web_spice314981",
+   "date": "2023-02-21",
+   "end": "",
+   "category": "采访／连载",
+   "title": "音乐酒吧「エンタス」：加藤和树招待东启介",
+   "japanese": "加藤和樹が東啓介をおもてなし？ ミュージックバー『エンタス』が1日限りのリアルオープン！",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/314981",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/c7xfG2oOpzO36dPp3IF0TBxQkVmFzBbLCcEBCQ0TrQksM0mrgwrG3wpZ2HBiwTVx",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/314981",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "cal_17434046",
@@ -13033,6 +13173,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_spice323331",
+   "date": "2023-10-26",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《TOHO MUSICAL LAB.》第2弹座谈会",
+   "japanese": "「2つで1つの作品に」高羽彩×有澤樟太郎、池田亮×東啓介〜『TOHO MUSICAL LAB.』第2弾座談会〜",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/323331",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/pYQe4vhiMG72x26NurKcfESg5EX1yul3W2roJ8MXHHw7XQSQI6ZnUVUuIoIysfOV",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/323331",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "e59",
    "date": "2023-10-27",
    "end": "2023-10-29",
@@ -13926,6 +14094,34 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "web_spice326077",
+   "date": "2024-02-21",
+   "end": "",
+   "category": "采访／连载",
+   "title": "JBB四人采访：首次巡演",
+   "japanese": "中川晃教、藤岡正明、東啓介、大山真志、JBB メンバーの関係性や初ツアーの意気込みを語る",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/326077",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/LH3zCGvH40vglGBPGsuoTiZ1oqIJA15ivU4uKCAxJwI6jNH1bGai0EJLZKzWEHir",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/326077",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "s159",
@@ -14965,6 +15161,34 @@ window.ARCHIVE = {
      "url": "https://theatertainment.jp/wp-content/uploads/2024/10/2410keisuke.jpg",
      "caption": "シアターテイメント",
      "source": "https://theatertainment.jp/cast-staff/132646/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_spice332709",
+   "date": "2024-10-15",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《Connecting Puzzles vol.2》官方专访（SPICE）",
+   "japanese": "東啓介、10年の軌跡を詰め込んだコンサート『Connecting Puzzles vol.2』オフィシャルインタビュー",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/332709",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/uwO5XVBKzxBMPxSy9tfgtS4CxrcR2AdjFotzWsdbqMaFjrz46n2UNW9klpjXJbf0",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/332709",
      "asset": "",
      "resolution": ""
     }
@@ -16106,6 +16330,34 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "web_spice336445",
+   "date": "2025-05-09",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《长靴皇后》再演对谈：东启介×松下优也",
+   "japanese": "東啓介×松下優也、時代に問いかける『キンキーブーツ』再演の意義",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/336445",
+   "note": "SPICE。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/QmQohUPcH9iPXdZYsuyOQY5iu0hnNqtUcAjGhdKAidPpVnPNgPouFxRUu22qyGqC",
+     "caption": "SPICE",
+     "source": "https://spice.eplus.jp/articles/336445",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "nat_yoshiomyu23",
