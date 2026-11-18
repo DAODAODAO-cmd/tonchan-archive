@@ -14425,6 +14425,41 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "web_tg43819",
+   "date": "2024-02-07",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《WE ARE MUSIC》vol.1 东启介×加藤大悟 对谈（THEATER GIRL，前后篇）",
+   "japanese": "東啓介×加藤大悟インタビュー Musical shoW「WE ARE MUSIC」vol.1「この公演は僕らからのバレンタインプレゼント」",
+   "crew": "",
+   "key": "",
+   "url": "https://theatergirl.jp/?p=43819",
+   "note": "THEATER GIRL 前编2024-02-07，后编2024-02-08：https://theatergirl.jp/?p=43821",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://theatergirl.jp/wp-content/uploads/2024/02/0529.jpg",
+     "caption": "THEATER GIRL",
+     "source": "https://theatergirl.jp/?p=43819",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://theatergirl.jp/wp-content/uploads/2024/02/0503.jpg",
+     "caption": "THEATER GIRL（后编）",
+     "source": "https://theatergirl.jp/?p=43821",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "web_spice326077",
    "date": "2024-02-21",
    "end": "",
@@ -16142,7 +16177,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://theatergirl.jp/?p=59201",
-   "note": "THEATER GIRL。",
+   "note": "THEATER GIRL。 后编（2025-01-29）：https://theatergirl.jp/?p=59203",
    "status": "发布方原文已定位",
    "origin": "公开检索补充",
    "dateKind": "文章发布日期（发布方元数据）",
