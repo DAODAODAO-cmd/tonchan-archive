@@ -443,6 +443,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_fs1188012",
+   "date": "2015-01-27",
+   "end": "",
+   "category": "杂志",
+   "title": "《BEST STAGE》2015年3月号",
+   "japanese": "BEST STAGE 2015年3月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683473/b/1188012/",
+   "note": "《心霊探偵八雲》宣传照拍摄现场报道，与久保田秀敏、安西慎太郎、石渡真修。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1188012_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683473/b/1188012/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "e5",
    "date": "2015-02-11",
    "end": "2015-03-01",
@@ -526,6 +552,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_fs1228741",
+   "date": "2015-05-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2015年6月号",
+   "japanese": "POTATO 2015年6月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/1228741/",
+   "note": "和白又敦、橋本祥平一起的版面。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1228741_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/1228741/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e6",
@@ -2913,7 +2965,13 @@ window.ARCHIVE = {
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
-   "images": [],
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1507612_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/1507612/"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -3483,6 +3541,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_fs1647030",
+   "date": "2017-11-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.353",
+   "japanese": "ミュージカル Vol.353",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1647030/",
+   "note": "《メンフィス》相关，与久保田秀敏、多和田秀弥、藤田玲等同版面。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1647030_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1647030/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "e21",
    "date": "2017-11-13",
    "end": "2017-12-05",
@@ -3798,6 +3882,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_fs1647031",
+   "date": "2018-01-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.354",
+   "japanese": "ミュージカル Vol.354",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1647031/",
+   "note": "《マタ・ハリ》报道，与石丸さち子、柚希礼音、加藤和樹、佐藤隆紀。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1647031_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1647031/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "e22",
    "date": "2018-01-21",
    "end": "2018-02-18",
@@ -4020,6 +4130,58 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_fs1648308",
+   "date": "2018-03-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.355",
+   "japanese": "ミュージカル Vol.355",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1648308/",
+   "note": "《5DAYS》，和导演石丸さち子一起。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1648308_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1648308/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
+   "id": "mag_fs1636610",
+   "date": "2018-03-09",
+   "end": "",
+   "category": "杂志",
+   "title": "《えんぶ》2018年4月号",
+   "japanese": "えんぶ 2018年4月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/265/b/1636610/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1636610_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/265/b/1636610/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "mag_rk15405076",
@@ -4292,6 +4454,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_fs1664587",
+   "date": "2018-05-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.356",
+   "japanese": "ミュージカル Vol.356",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1664587/",
+   "note": "《マタ・ハリ》舞台报道。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1664587_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1664587/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "am_broW1806",
    "date": "2018-05-25",
    "end": "",
@@ -4536,6 +4724,32 @@ window.ARCHIVE = {
     }
    ],
    "videos": []
+  },
+  {
+   "id": "mag_fs1693895",
+   "date": "2018-07-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.357",
+   "japanese": "ミュージカル Vol.357",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1693895/",
+   "note": "《5DAYS》舞台报道，与豊原江理佳、マルシア。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1693895_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1693895/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "am_broW1808",
@@ -5140,6 +5354,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_fs1744758",
+   "date": "2018-11-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.359",
+   "japanese": "ミュージカル Vol.359",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1744758/",
+   "note": "《マリーゴールド》舞台报道，与壮一帆、田村芽実。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1744758_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1744758/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "e27",
    "date": "2018-11-24",
    "end": "2018-12-22",
@@ -5439,6 +5679,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_fs1792540",
+   "date": "2019-03-09",
+   "end": "",
+   "category": "杂志",
+   "title": "《えんぶ》2019年4月号",
+   "japanese": "えんぶ 2019年4月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/265/b/1792540/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1792540_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/265/b/1792540/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "mag_rk15831877",
    "date": "2019-03-12",
    "end": "",
@@ -5634,6 +5900,32 @@ window.ARCHIVE = {
    "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg"
   },
   {
+   "id": "mag_fs1819396",
+   "date": "2019-05-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.362",
+   "japanese": "ミュージカル Vol.362",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1819396/",
+   "note": "《Color of Life》，与青野紗穂。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1819396_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1819396/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "mag_mc_54887563",
    "date": "2019-06-01",
    "end": "",
@@ -5708,6 +6000,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_fs1847770",
+   "date": "2019-07-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.363",
+   "japanese": "ミュージカル Vol.363",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1847770/",
+   "note": "《Color of Life》舞台报道。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1847770_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1847770/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e29",
@@ -5873,6 +6191,32 @@ window.ARCHIVE = {
    "cardPhotoBg": "15% 18% / auto 170%"
   },
   {
+   "id": "mag_fs1898878",
+   "date": "2019-11-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.365",
+   "japanese": "ミュージカル Vol.365",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/1898878/",
+   "note": "《ダンス オブ ヴァンパイア》，与桜井玲香、相葉裕樹。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1898878_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1898878/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "s149",
    "date": "2019-11-10",
    "end": "",
@@ -5929,6 +6273,58 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs1910145",
+   "date": "2019-12-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2020年1月号",
+   "japanese": "WiNK UP 2020年1月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/1910145/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1910145_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/1910145/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
+   "id": "mag_fs1921638",
+   "date": "2020-01-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2020年2月号",
+   "japanese": "POTATO 2020年2月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/1921638/",
+   "note": "和中尾暢樹对谈。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1921638_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/1921638/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e32",
@@ -6661,6 +7057,32 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "mag_fs2020493",
+   "date": "2020-09-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2020年10月号",
+   "japanese": "WiNK UP 2020年10月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/2020493/",
+   "note": "聊9月开始的舞台。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2020493_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/2020493/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "bro_202010",
    "date": "2020-10-01",
    "category": "活动",
@@ -7062,6 +7484,58 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_fs2064643",
+   "date": "2021-01-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2021年2月号",
+   "japanese": "POTATO 2021年2月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/2064643/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2064643_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/2064643/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
+   "id": "mag_fs2064401",
+   "date": "2021-01-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2021年2月号",
+   "japanese": "WiNK UP 2021年2月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/2064401/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2064401_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/2064401/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "m428",
    "date": "2021-01-10",
    "end": "",
@@ -7265,6 +7739,58 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_fs2076043",
+   "date": "2021-02-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2021年3月号",
+   "japanese": "POTATO 2021年3月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/2076043/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2076043_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/2076043/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
+   "id": "mag_fs2075835",
+   "date": "2021-02-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2021年3月号",
+   "japanese": "WiNK UP 2021年3月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/2075835/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2075835_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/2075835/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "m429",
    "date": "2021-02-10",
    "end": "",
@@ -7444,6 +7970,58 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs2086373",
+   "date": "2021-03-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.372",
+   "japanese": "ミュージカル Vol.372",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2086373/",
+   "note": "《IN THE HEIGHTS》，与Micro、平間壮一、林翔太。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2086373_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2086373/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
+   "id": "mag_fs2085905",
+   "date": "2021-03-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2021年4月号",
+   "japanese": "WiNK UP 2021年4月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/2085905/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2085905_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/2085905/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e102",
@@ -7955,6 +8533,32 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs2133866",
+   "date": "2021-07-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.374",
+   "japanese": "ミュージカル Vol.374",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2133866/",
+   "note": "《IN THE HEIGHTS》舞台报道。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2133866_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2133866/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "m434",
@@ -8638,6 +9242,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_fs2213666",
+   "date": "2022-02-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2022年3月号",
+   "japanese": "POTATO 2022年3月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/2213666/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2213666_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/2213666/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "m441",
    "date": "2022-02-10",
    "end": "",
@@ -8701,6 +9331,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs2223752",
+   "date": "2022-03-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《Duet》2022年4月号",
+   "japanese": "Duet 2022年4月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1776/b/2223752/",
+   "note": "《ファイトソング》相关。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2223752_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1776/b/2223752/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "m442",
@@ -9145,6 +9801,32 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs2295085",
+   "date": "2022-09-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2022年10月号",
+   "japanese": "POTATO 2022年10月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/2295085/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2295085_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/2295085/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e49",
@@ -9843,6 +10525,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_fs2343476",
+   "date": "2023-01-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.383",
+   "japanese": "ミュージカル Vol.383",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2343476/",
+   "note": "《ザ・ビューティフル・ゲーム》，与小瀧望、木下晴香。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2343476_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2343476/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "e53",
    "date": "2023-01-07",
    "end": "2023-02-13",
@@ -10148,6 +10856,32 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs2364283",
+   "date": "2023-03-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.384",
+   "japanese": "ミュージカル Vol.384",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2364283/",
+   "note": "《ザ・ビューティフル・ゲーム》舞台报道。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2364283_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2364283/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e99",
@@ -11147,6 +11881,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_fs2423250",
+   "date": "2023-08-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2023年9月号",
+   "japanese": "WiNK UP 2023年9月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/2423250/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2423250_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/2423250/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "m6120",
    "date": "2023-08-10",
    "end": "",
@@ -11403,6 +12163,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs2433554",
+   "date": "2023-09-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2023年10月号",
+   "japanese": "POTATO 2023年10月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/2433554/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2433554_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/2433554/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "qj94278",
@@ -12410,6 +13196,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_fs2466443",
+   "date": "2023-12-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2024年1月号",
+   "japanese": "WiNK UP 2024年1月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/2466443/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2466443_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/2466443/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "m7866",
    "date": "2023-12-10",
    "end": "",
@@ -12513,6 +13325,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_fs2476863",
+   "date": "2024-01-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.389",
+   "japanese": "ミュージカル Vol.389",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2476863/",
+   "note": "《TOHO MUSICAL LAB.》，与有澤樟太郎。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2476863_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2476863/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e63",
@@ -13002,6 +13840,32 @@ window.ARCHIVE = {
    "kind": "magazine"
   },
   {
+   "id": "mag_fs2495961",
+   "date": "2024-03-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.390",
+   "japanese": "ミュージカル Vol.390",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2495961/",
+   "note": "《VIOLET》，与三浦透子、屋比久知奈、立石俊樹。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2495961_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2495961/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "e90",
    "date": "2024-03-06",
    "end": "",
@@ -13029,6 +13893,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs2496490",
+   "date": "2024-03-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2024年4月号",
+   "japanese": "WiNK UP 2024年4月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/2496490/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2496490_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/2496490/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "nat_yoshiomyu12",
@@ -13088,6 +13978,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_fs2509150",
+   "date": "2024-04-06",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2024年5月号",
+   "japanese": "POTATO 2024年5月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/2509150/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2509150_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/2509150/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e64",
@@ -13259,6 +14175,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_fs2520688",
+   "date": "2024-05-02",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.391",
+   "japanese": "ミュージカル Vol.391",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2520688/",
+   "note": "《VIOLET》舞台报道。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2520688_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2520688/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "pr_confetti2406",
@@ -13608,6 +14550,32 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "mag_fs2579463",
+   "date": "2024-10-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2024年11月号",
+   "japanese": "WiNK UP 2024年11月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/159/b/2579463/",
+   "note": "回答恋爱类问题。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2579463_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/159/b/2579463/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "s163",
    "date": "2024-10-17",
    "end": "",
@@ -13946,6 +14914,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs2613062",
+   "date": "2024-12-27",
+   "end": "",
+   "category": "杂志",
+   "title": "《BEST STAGE》2025年2月号",
+   "japanese": "BEST STAGE 2025年2月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683473/b/2613062/",
+   "note": "《キンキーブーツ》，与有澤樟太郎、甲斐翔真、松下優也。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2613062_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683473/b/2613062/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "mag_mc_9629790",
@@ -14333,6 +15327,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_fs2638582",
+   "date": "2025-03-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.396",
+   "japanese": "ミュージカル Vol.396",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2638582/",
+   "note": "《キンキーブーツ》，与有澤樟太郎、甲斐翔真、松下優也。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2638582_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2638582/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "goods_annai",
@@ -14910,6 +15930,32 @@ window.ARCHIVE = {
    "cardPoster": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg",
    "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2025/0505/oppan_202505_4.jpg",
    "cardPhotoBg": "89% 0% / auto 150%"
+  },
+  {
+   "id": "mag_fs2692680",
+   "date": "2025-07-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.398",
+   "japanese": "ミュージカル Vol.398",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2692680/",
+   "note": "《キンキーブーツ》舞台报道。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2692680_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2692680/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "s165",
