@@ -4847,6 +4847,16 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg",
      "caption": "主视觉",
      "source": "コミックナタリー"
+    },
+    {
+     "url": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-1.png",
+     "caption": "官网角色设定：时丸（全身）",
+     "source": "https://garo-project.jp/usuzumizakura/sp/character.php"
+    },
+    {
+     "url": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-2.png",
+     "caption": "官网角色设定：时丸（脸部）",
+     "source": "https://garo-project.jp/usuzumizakura/sp/character.php"
     }
    ],
    "videos": [
@@ -4861,7 +4871,9 @@ window.ARCHIVE = {
    "roleRoma": "TOKIMARU",
    "workRoma": "USUZUMI ZAKURA",
    "roleName": "时丸",
-   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg"
+   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg",
+   "cardPhoto": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-1.png",
+   "cardPhotoPos": "50% 5%"
   },
   {
    "id": "nat_trumpten18",
