@@ -8828,6 +8828,11 @@ window.ARCHIVE = {
    "dateKind": "本人登场集播出日（实际日历日）",
    "images": [
     {
+     "url": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/f3/d0/00c1329e556c48d6df9fd2e6564a.jpg",
+     "caption": "海报",
+     "source": "テレ东官网"
+    },
+    {
      "url": "https://www.tv-tokyo.co.jp/tsumarisuki/image/cast/06.jpg",
      "caption": "官方演员页：加贺见修",
      "source": "https://www.tv-tokyo.co.jp/tsumarisuki/cast/",
@@ -8836,7 +8841,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2021/0916/higashi_ishikawa_tsumarisuki.jpg",
-     "caption": "宣传海报",
+     "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -8849,7 +8854,8 @@ window.ARCHIVE = {
    "roleRoma": "KAGAMI OSAMU",
    "workRoma": "TSUMARI SUKI",
    "roleName": "加贺见修",
-   "cardPhoto": "https://www.tv-tokyo.co.jp/tsumarisuki/image/cast/06.jpg"
+   "cardPhoto": "https://www.tv-tokyo.co.jp/tsumarisuki/image/cast/06.jpg",
+   "cardPoster": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/f3/d0/00c1329e556c48d6df9fd2e6564a.jpg"
   },
   {
    "id": "m438",
@@ -9078,15 +9084,20 @@ window.ARCHIVE = {
    "dateKind": "作品首播日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/music/2022/0104/fight_song_tbs.jpg",
+     "caption": "海报",
+     "source": "音楽ナタリー（c）TBS"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/eiga/2021/1218/fightsong_202112.jpg",
-     "caption": "宣传海报",
+     "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     },
     {
      "url": "https://www.tbs.co.jp/fight_song_tbs2022/img/ogp.png?555",
-     "caption": "海报",
+     "caption": "宣传照",
      "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
      "asset": "627eca80ca2cf665",
      "resolution": "1200 × 630"
@@ -9125,7 +9136,8 @@ window.ARCHIVE = {
    "roleRoma": "KARASUMA KAORU",
    "workRoma": "FIGHT SONG",
    "roleName": "乌丸薰",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2021/1218/higashikeisuke_c_tbs.jpg"
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2021/1218/higashikeisuke_c_tbs.jpg",
+   "cardPoster": "https://ogre.natalie.mu/media/news/music/2022/0104/fight_song_tbs.jpg"
   },
   {
    "id": "mag_rk16989455",
@@ -9605,6 +9617,11 @@ window.ARCHIVE = {
    "dateKind": "本人登场集播出日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/comic/2022/0325/nanbaMG5_B1poster.jpg",
+     "caption": "海报",
+     "source": "コミックナタリー"
+    },
+    {
      "url": "https://www.fujitv.co.jp/nanbaMG5/img/top/mainvisual.jpg",
      "caption": "富士电视台官方主视觉",
      "source": "https://www.fujitv.co.jp/nanbaMG5/",
@@ -9624,7 +9641,8 @@ window.ARCHIVE = {
    "roleRoma": "KOGURE SHO",
    "workRoma": "NANBA MG5",
    "roleName": "小暮翔",
-   "cardPhoto": "https://contents.oricon.co.jp/upimg/news/2238000/2237673/20220607_163235_p_l_4494.jpg"
+   "cardPhoto": "https://contents.oricon.co.jp/upimg/news/2238000/2237673/20220607_163235_p_l_4494.jpg",
+   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2022/0325/nanbaMG5_B1poster.jpg"
   },
   {
    "id": "m445",
@@ -10562,8 +10580,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/1002/thebeautifulgame1002.jpg",
+     "caption": "海报",
+     "source": "ステージナタリー"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/1104/beautifulgame_cast.jpg",
-     "caption": "宣传海报",
+     "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -10589,7 +10612,8 @@ window.ARCHIVE = {
    "workRoma": "THE BEAUTIFUL GAME",
    "roleName": "托马斯",
    "cardPhoto": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
-   "cardPhotoBg": "50% 8% / 160% auto"
+   "cardPhotoBg": "50% 8% / 160% auto",
+   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2022/1002/thebeautifulgame1002.jpg"
   },
   {
    "id": "m768",
@@ -12088,6 +12112,11 @@ window.ARCHIVE = {
    "dateKind": "官方标注首播日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_KV.jpg",
+     "caption": "海报",
+     "source": "コミックナタリー（c）ABC"
+    },
+    {
      "url": "https://www.asahi.co.jp/marumaruchan/img/common/og.jpg",
      "caption": "文章配图",
      "source": "https://www.asahi.co.jp/marumaruchan/cast/",
@@ -12096,7 +12125,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_danseicast.jpg",
-     "caption": "宣传海报",
+     "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
@@ -12114,7 +12143,8 @@ window.ARCHIVE = {
    "roleRoma": "TAKAHASHI SHOGO",
    "workRoma": "MARUMARU-CHAN",
    "roleName": "高桥彰吾",
-   "cardPhoto": "https://www.asahi.co.jp/marumaruchan/img/common/img_cast04.jpg"
+   "cardPhoto": "https://www.asahi.co.jp/marumaruchan/img/common/img_cast04.jpg",
+   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_KV.jpg"
   },
   {
    "id": "qj93039",
