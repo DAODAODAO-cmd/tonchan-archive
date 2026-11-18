@@ -10758,7 +10758,12 @@ window.ARCHIVE = {
      "source": "マチソワ"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "东启介相关：采访＋排练（B站，3P）",
+     "url": "https://www.bilibili.com/video/BV1w14y1v7Qz/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
@@ -19914,6 +19919,26 @@ window.ARCHIVE = {
   }
  ],
  "videos": [
+  {
+   "id": "BV1w14y1v7Qz",
+   "title": "《泽西男孩》2022 东启介相关：采访＋排练（3P）",
+   "channel": "KKRooo",
+   "duration": "5:52",
+   "available": true,
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/9f32fa9a449cb1525e66310f57d100585fcbb98c.jpg",
+   "playlists": [],
+   "sourceType": "B站搬运",
+   "type": "幕后／拍摄",
+   "url": "https://www.bilibili.com/video/BV1w14y1v7Qz/",
+   "years": [
+    "2022"
+   ],
+   "rel": "B站有｜P1访问、P2排练1、P3排练2。",
+   "platform": "B站",
+   "asset": "",
+   "uploadDate": "2022-09-13",
+   "dateLabel": "2022.09.13 B站上传"
+  },
   {
    "id": "BV1vV41137Th",
    "title": "JBB concert 2023",
