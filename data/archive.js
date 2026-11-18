@@ -7800,7 +7800,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://enterstage.jp/articles/78407",
-   "note": "",
+   "note": " 2020年9月14日公布举办（シアターテイメント：https://theatertainment.jp/japanese-play/62392/）。",
    "status": "",
    "origin": "",
    "dateKind": "活动首日",
@@ -7811,6 +7811,20 @@ window.ARCHIVE = {
      "source": "https://enterstage.jp/articles/78407",
      "asset": "44f109bbf2d8a9f2",
      "resolution": "758 × 568"
+    },
+    {
+     "url": "https://theatertainment.jp/wp-content/uploads/2020/09/main-120.jpg",
+     "caption": "主视觉",
+     "source": "https://theatertainment.jp/japanese-play/62392/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://theatertainment.jp/wp-content/uploads/2020/09/2009higashi.jpg",
+     "caption": "宣传照",
+     "source": "https://theatertainment.jp/japanese-play/62392/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -16130,6 +16144,34 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_tv1247697",
+   "date": "2025-02-22",
+   "end": "",
+   "category": "采访／连载",
+   "title": "日历发售纪念：迈向30代的心境（WEBザテレビジョン）",
+   "japanese": "東啓介、30代へ向けて「今までとは違うんだぞと。体の維持を意識したい」20代最後のカレンダー発売",
+   "crew": "",
+   "key": "",
+   "url": "https://thetv.jp/news/detail/1247697/",
+   "note": "WEBザテレビジョン，日历发售纪念活动采访。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://thetv.jp/i/nw/1247697/14166984.jpg?w=1284",
+     "caption": "WEBザテレビジョン",
+     "source": "https://thetv.jp/news/detail/1247697/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
    "playlistLinks": []
   },
   {
