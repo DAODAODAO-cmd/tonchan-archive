@@ -16672,12 +16672,8 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
-     "title": "【PR】東啓介×加藤大悟 ▷Musical shoW「WE ARE MUSIC」で初共演するのお二人のわちゃわちゃトーク必見！",
-     "url": "https://www.youtube.com/watch?v=QJuXEN12tJI"
-    },
-    {
-     "title": "『NOT MY FATHER’S SON』from Kinky Boots -SPECIAL MUSIC VIDEO-",
-     "url": "https://www.youtube.com/watch?v=2YS9y8jsdmQ"
+     "title": "《泽西男孩》组曲（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1es5fz3Eam/"
     }
    ]
   },
@@ -25768,9 +25764,9 @@ window.ARCHIVE = {
   },
   {
    "id": "BV1es5fz3Eam",
-   "title": "《泽西男孩》2025年4月节目组曲",
+   "title": "《MUSIC FAIR》2025.4.19｜《泽西男孩》组曲",
    "japanese": "【泽西男孩】音乐剧组曲表演 Can’t Take My Eyes Off Of You等",
-   "channel": "",
+   "channel": "奕奕，奕奕",
    "type": "演出／歌唱",
    "sourceType": "转载",
    "years": [
@@ -25780,11 +25776,11 @@ window.ARCHIVE = {
    "thumbnail": "https://i1.hdslb.com/bfs/archive/d4bd1d5024c78bd824740c0155fc432adf92f4c6.jpg",
    "playlists": [],
    "platform": "B站",
-   "rel": "B站有｜中川晃教、花村想太、小林唯、藤冈正明、东启介、大山真志；含《Sherry》《Can’t Take My Eyes Off You》等。",
+   "rel": "B站有｜富士电视台《MUSIC FAIR》2025年4月19日播出；中川晃教、花村想太、小林唯、藤冈正明、东启介、大山真志；December ’63、Walk Like a Man、Sherry、Can’t Take My Eyes Off You、Big Girls Don’t Cry。",
    "source": "https://www.bilibili.com/video/BV1es5fz3Eam/",
    "uploadDate": "2025-04-20",
-   "contentDate": "",
-   "dateLabel": "2025.04.20 B站上传",
+   "contentDate": "2025-04-19",
+   "dateLabel": "2025.04.19 富士电视台《MUSIC FAIR》播出",
    "asset": ""
   },
   {
