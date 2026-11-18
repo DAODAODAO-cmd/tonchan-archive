@@ -8470,6 +8470,72 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "tv_toppa210225",
+   "date": "2021-02-25",
+   "end": "",
+   "category": "电视节目",
+   "title": "日本电视台《THE突破ファイル》灾害救援再现短剧",
+   "japanese": "突破ファイル",
+   "crew": "",
+   "key": "",
+   "url": "https://www.bilibili.com/video/BV18y4y18738/",
+   "note": "东启介出演再现短剧中的灾害救援故事；B站搬运片段（15分钟）中他从6:10起出场。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.19补充",
+   "dateKind": "放送日（据搬运标题）",
+   "images": [
+    {
+     "url": "https://i2.hdslb.com/bfs/archive/97e7f7346b995b65c6e7ecc86ad5507f4c997a36.jpg",
+     "caption": "B站视频封面",
+     "source": "https://www.bilibili.com/video/BV18y4y18738/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "东启介部分（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV18y4y18738/"
+    }
+   ],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "tv_zip210226",
+   "date": "2021-02-26",
+   "end": "",
+   "category": "电视节目",
+   "title": "日本电视台《ZIP!》出演",
+   "japanese": "ZIP!",
+   "crew": "",
+   "key": "",
+   "url": "https://www.bilibili.com/video/BV1tU4y1p7JS/",
+   "note": "B站搬运“20210226 ZIP 东启介部分”（约5分钟）；具体环节待看视频确认。当时他正出演日テレ水剧《我家女儿交不到男朋友!!》。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.19补充",
+   "dateKind": "放送日（据搬运标题）",
+   "images": [
+    {
+     "url": "https://i1.hdslb.com/bfs/archive/6f8f6ca2e5a400c2a2cb6183ff2a27c7b9132367.jpg",
+     "caption": "B站视频封面",
+     "source": "https://www.bilibili.com/video/BV1tU4y1p7JS/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "东启介部分（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1tU4y1p7JS/"
+    }
+   ],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_rk16657557",
    "date": "2021-02-27",
    "end": "",
@@ -19919,6 +19985,48 @@ window.ARCHIVE = {
   }
  ],
  "videos": [
+  {
+   "id": "BV1tU4y1p7JS",
+   "title": "《ZIP!》2021.2.26 东启介部分",
+   "channel": "KKRooo",
+   "duration": "4:49",
+   "available": true,
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/6f8f6ca2e5a400c2a2cb6183ff2a27c7b9132367.jpg",
+   "playlists": [],
+   "sourceType": "B站搬运",
+   "type": "节目／其他",
+   "url": "https://www.bilibili.com/video/BV1tU4y1p7JS/",
+   "years": [
+    "2021"
+   ],
+   "rel": "B站有｜日本电视台晨间节目。",
+   "platform": "B站",
+   "asset": "",
+   "uploadDate": "2021-03-11",
+   "dateLabel": "2021.03.11 B站上传",
+   "contentDate": "2021-02-26"
+  },
+  {
+   "id": "BV18y4y18738",
+   "title": "《THE突破ファイル》2021.2.25 灾害救援短剧 东启介部分",
+   "channel": "KKRooo",
+   "duration": "15:00",
+   "available": true,
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/97e7f7346b995b65c6e7ecc86ad5507f4c997a36.jpg",
+   "playlists": [],
+   "sourceType": "B站搬运",
+   "type": "舞台／剧集",
+   "url": "https://www.bilibili.com/video/BV18y4y18738/",
+   "years": [
+    "2021"
+   ],
+   "rel": "B站有｜日本电视台再现短剧，东启介6:10起出场。",
+   "platform": "B站",
+   "asset": "",
+   "uploadDate": "2021-03-11",
+   "dateLabel": "2021.03.11 B站上传",
+   "contentDate": "2021-02-25"
+  },
   {
    "id": "BV1w14y1v7Qz",
    "title": "《泽西男孩》2022 东启介相关：采访＋排练（3P）",
