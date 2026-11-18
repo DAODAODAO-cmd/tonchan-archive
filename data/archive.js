@@ -4809,7 +4809,7 @@ window.ARCHIVE = {
   },
   {
    "id": "mag_mc_83234988",
-   "date": "2018-10",
+   "date": "2018-10-25",
    "end": "",
    "category": "杂志",
    "title": "《TV navi》2018年12月号",
@@ -4817,23 +4817,21 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=TV%20navi%202018%E5%B9%B412%E6%9C%88%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
+   "url": "https://www.fujisan.co.jp/product/1281690560/b/list/?limit=30&year=2018",
+   "note": "连载「イケメンがなきゃ生きていけない！」这期的嘉宾，和歌広場淳对谈。封面是中岛健人。",
    "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/1283/4910163351283.gif?downsize=600:*",
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1740301_n.jpg",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
+     "source": "https://www.fujisan.co.jp/product/1281690560/b/list/?limit=30&year=2018"
     }
    ],
    "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
+   "pending": false,
+   "kind": "杂志",
    "playlistLinks": []
   },
   {
