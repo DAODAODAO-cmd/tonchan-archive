@@ -2177,6 +2177,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_mdpr170118",
+   "date": "2017-01-18",
+   "end": "",
+   "category": "采访／连载",
+   "title": "模特新闻专访：187cm的东启介是什么样的人？",
+   "japanese": "187センチの長身イケメン・東啓介ってどんな人？2．5次元舞台と素顔のギャップにキュン",
+   "crew": "",
+   "key": "",
+   "url": "https://mdpr.jp/interview/detail/1650040",
+   "note": "モデルプレス。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://img-mdpr.freetls.fastly.net/article/E0V4/nm/E0V4uwJQx6FuA65e2neQnuP4qa7eJbgjYoGVmxPsyek.jpg?width=700",
+     "caption": "モデルプレス",
+     "source": "https://mdpr.jp/interview/detail/1650040",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "bro_201702",
    "date": "2017-02-01",
    "category": "活动",
@@ -16663,7 +16691,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/57ZP31M9G4/",
-   "note": "全5回。",
+   "note": "NHK-FM「青春アドベンチャー」，全5回，2026年4月20日–24日 每晚21:30–21:45。2017年版的重新制作，东启介饰迪米特里，主演望海风斗。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "广播剧首播日",
@@ -16682,7 +16710,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "音声",
    "playlistLinks": []
   },
@@ -17100,35 +17128,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_mc_83740228",
-   "date": "2026-09",
-   "end": "",
-   "category": "杂志",
-   "title": "《TV LIFE》2026年9/18号｜《麦斯》秋谷郁甫、安宅波飒、堀川梨心、东启介",
-   "japanese": "TV LIFE 9/18号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=TV%20LIFE%209/18%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B%20%E3%83%9E%E3%82%A4%E3%82%B9",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/0965/4912240130965_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "web_talent260901",
    "date": "2026-09-01",
    "end": "",
@@ -17182,6 +17181,35 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_mc_83740228",
+   "date": "2026-09-02",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV LIFE》2026年9/18号｜《麦斯》秋谷郁甫、安宅波飒、堀川梨心、东启介",
+   "japanese": "TV LIFE 9/18号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1747/b/2829878/",
+   "note": "首都圏版目次：NEW HERO INTERVIEW 秋谷郁甫＆安宅波颯＆堀川梨心＆東 啓介『仮面ライダーマイス』。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0965/4912240130965_1_2.jpg",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/rb/18779957/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "web_animate260902",
@@ -17776,7 +17804,7 @@ window.ARCHIVE = {
   },
   {
    "id": "mag_mc_45831300",
-   "date": "2026-11",
+   "date": "2026-11-04",
    "end": "",
    "category": "杂志",
    "title": "《TV LIFE》2026年11/20号｜东启介×国上将大 连载",
@@ -17784,22 +17812,22 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E5%9B%BD%E4%B8%8A%E5%B0%86%E5%A4%A7%20TV%20LIFE%2011/20%E5%8F%B7",
-   "note": "",
+   "url": "https://www.fujisan.co.jp/product/1747/b/2856963/",
+   "note": "首都圏版。目次中列为常设连载「仮面ライダーマイス」，本期为东启介×国上将大。",
    "status": "",
    "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
+   "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/1160/4912240131160_1_2.jpg?downsize=600:*",
+     "url": "https://tshop.r10s.jp/book/cabinet/1160/4912240131160_1_2.jpg",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "https://books.rakuten.co.jp/rb/18863578/",
      "asset": "",
      "resolution": ""
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
   },
