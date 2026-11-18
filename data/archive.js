@@ -17875,6 +17875,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_at1785993354",
+   "date": "2026-08-07",
+   "end": "",
+   "category": "采访／连载",
+   "title": "电影《蓝色监狱》马狼照英役专访（animate times）",
+   "japanese": "実写映画『ブルーロック』馬狼照英役・東啓介さんインタビュー",
+   "crew": "",
+   "key": "",
+   "url": "https://www.animatetimes.com/news/details.php?id=1785993354",
+   "note": "アニメイトタイムズ。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://img2.animatetimes.com/2026/08/4481c5b0dfbcd2566591686a7d7e6ef76a741caddc8dd4_19834475_440bb24c30931d48e60dbc032c05b082c2719bc8.jpg",
+     "caption": "アニメイトタイムズ",
+     "source": "https://www.animatetimes.com/news/details.php?id=1785993354",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "e75",
    "date": "2026-08-09",
    "end": "2026-10-13",
