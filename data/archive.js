@@ -10309,7 +10309,12 @@ window.ARCHIVE = {
      "source": "https://x.com/bushim_ktv/status/1577240774521270272"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "第2话 东启介cut（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1D341137TX/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
@@ -32990,6 +32995,26 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1DZ2GYyEYq/",
    "uploadDate": "2024-10-10",
    "dateLabel": "2024.10.10 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1D341137TX",
+   "title": "《武士が、マックで店員になった件。》第2话 东启介cut（豪太）",
+   "channel": "KKRooo",
+   "type": "剧集cut",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/video/BV1D341137TX/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/1303d3a3c703baa62edccfe025f6b9785a43dd50.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜关西电视台深夜剧第2话，东启介饰寿惠的儿子豪太（谜之帅哥）；约7.5分钟",
+   "source": "https://www.bilibili.com/video/BV1D341137TX/",
+   "uploadDate": "2022-06-05",
+   "dateLabel": "2022.06.05 B站上传",
+   "contentDate": "2022-05-24",
    "asset": ""
   }
  ],
