@@ -922,6 +922,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/top/topImage.jpg",
+     "caption": "主视觉",
+     "source": "官方"
+    },
+    {
      "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/higashi.jpg",
      "caption": "演员照",
      "source": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/cast.html",
@@ -970,7 +975,8 @@ window.ARCHIVE = {
    "roleRoma": "HARADA SANOSUKE",
    "workRoma": "SHINSENGUMI KITAN",
    "roleName": "原田左之助",
-   "cardPhoto": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/harada.jpg"
+   "cardPhoto": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/harada.jpg",
+   "cardPoster": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/top/topImage.jpg"
   },
   {
    "id": "e10",
@@ -5682,7 +5688,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "YASUHIRA KATSUNARI",
    "workRoma": "RE:FOLLOWER",
-   "roleName": "安平胜成"
+   "roleName": "安平胜成",
+   "cardPoster": "https://www.asahi.co.jp/refollower/img/common/og02.jpg"
   },
   {
    "id": "e31",
@@ -5862,6 +5869,11 @@ window.ARCHIVE = {
    "dateKind": "首发上线日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg",
+     "caption": "主视觉",
+     "source": "官方"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
      "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
@@ -5875,7 +5887,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "KAMIJIMA TOSHIO",
    "workRoma": "SHONAN JUNAI GUMI",
-   "roleName": "神岛俊生"
+   "roleName": "神岛俊生",
+   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg"
   },
   {
    "id": "mag_rk16231273",
@@ -6136,6 +6149,11 @@ window.ARCHIVE = {
    "dateKind": "东启介出演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/400_50.jpg",
+     "caption": "主视觉",
+     "source": "官方"
+    },
+    {
      "url": "https://sato-ryuji.com/assets/satoryuji/app/og_image.png",
      "caption": "文章配图",
      "source": "https://sato-ryuji.com/contents/370307",
@@ -6156,7 +6174,8 @@ window.ARCHIVE = {
    "workRoma": "A STUDY IN SCARLET",
    "roleName": "夏洛克",
    "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
-   "cardPhotoBg": "8% 50% / auto 130%"
+   "cardPhotoBg": "8% 50% / auto 130%",
+   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2020/0613/400_50.jpg"
   },
   {
    "id": "asast_091",
@@ -6259,7 +6278,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "HARRY MENDELSOHN",
    "workRoma": "DEFILED",
-   "roleName": "哈里"
+   "roleName": "哈里",
+   "cardPoster": "https://stagegate-vr.jp/vol1/img_parallax/defiled1.jpg"
   },
   {
    "id": "e37",
@@ -6939,6 +6959,11 @@ window.ARCHIVE = {
    "dateKind": "作品首播日",
    "images": [
     {
+     "url": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg",
+     "caption": "主视觉",
+     "source": "官方"
+    },
+    {
      "url": "https://www.ntv.co.jp/uchikare/articles/images/47pv6t32e0uabk3lfvqg3bilpyea1t.jpg",
      "caption": "电视台公开剧照（含其他演员）",
      "source": "https://www.ntv.co.jp/uchikare/articles/205261mefmaix3vhul5g.html",
@@ -6961,7 +6986,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "WATARI SHUICHI",
    "workRoma": "UCHIKARE",
-   "roleName": "涉周一"
+   "roleName": "涉周一",
+   "cardPoster": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg"
   },
   {
    "id": "e83",
@@ -8031,6 +8057,11 @@ window.ARCHIVE = {
    "dateKind": "上线日",
    "images": [
     {
+     "url": "https://image.p-c2-x.abema-tv.com/image/series/90-1602/thumb.png?height=720&quality=75",
+     "caption": "主视觉",
+     "source": "官方"
+    },
+    {
      "url": "https://image.p-c2-x.abema-tv.com/image/programs/90-1602_s2_p15/thumb002.png?height=720&quality=75&version=1725609505&width=1280",
      "caption": "第5话剧照",
      "source": "https://abema.tv/video/episode/90-1602_s2_p15",
@@ -8053,7 +8084,8 @@ window.ARCHIVE = {
    "workRoma": "WATASHI GA KEMONO NI NATTA YORU",
    "roleName": "井手祐",
    "cardPhoto": "https://image.p-c2-x.abema-tv.com/image/programs/90-1602_s2_p15/thumb002.png?height=720&quality=75&version=172",
-   "cardPhotoBg": "36% 11% / auto 150%"
+   "cardPhotoBg": "36% 11% / auto 150%",
+   "cardPoster": "https://image.p-c2-x.abema-tv.com/image/series/90-1602/thumb.png?height=720&quality=75"
   },
   {
    "id": "m439",
@@ -8659,6 +8691,11 @@ window.ARCHIVE = {
    "dateKind": "本人出演集实际播出日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2022/0419/bushim_20220420_02.jpg",
+     "caption": "主视觉",
+     "source": "官方"
+    },
+    {
      "url": "https://www.mcdonalds.co.jp/media_library/14682/file.png",
      "caption": "麦当劳官方新闻稿剧照",
      "source": "https://www.mcdonalds.co.jp/company/news/2022/0420a/",
@@ -8672,7 +8709,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "NAZO NO DANSHI",
    "workRoma": "BUSHI MAC",
-   "roleName": "神秘男子"
+   "roleName": "神秘男子",
+   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2022/0419/bushim_20220420_02.jpg"
   },
   {
    "id": "e48",
@@ -13633,6 +13671,11 @@ window.ARCHIVE = {
    "dateKind": "官方标注放送日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2024/1120/bokukare_202411_01.jpg",
+     "caption": "主视觉",
+     "source": "官方"
+    },
+    {
      "url": "https://tv-tokyo.imgix.net/txcms/media/release/content/c9/0d/9385f691788a79678d524adb9e64.jpg?auto=format,compress",
      "caption": "文章配图",
      "source": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
@@ -13657,7 +13700,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "SAKIYAMA RYOJI",
    "workRoma": "BOKU TO BOKU GA SUKINA KARE TO KIMI TO",
-   "roleName": "崎山亮二"
+   "roleName": "崎山亮二",
+   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2024/1120/bokukare_202411_01.jpg"
   },
   {
    "id": "s178",
@@ -13866,6 +13910,11 @@ window.ARCHIVE = {
    "dateKind": "本人出演集播出日",
    "images": [
     {
+     "url": "https://www.fujitv.co.jp/mondaibukken/photo/mainVisual.jpg",
+     "caption": "主视觉",
+     "source": "官方"
+    },
+    {
      "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph01.jpg",
      "caption": "第2集官方剧照",
      "source": "https://www.fujitv.co.jp/mondaibukken/story/story02.html",
@@ -13885,7 +13934,8 @@ window.ARCHIVE = {
    "roleRoma": "TAKINO TAKASHI",
    "workRoma": "MONDAI BUKKEN",
    "roleName": "泷野高",
-   "cardPhoto": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph06.jpg"
+   "cardPhoto": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph06.jpg",
+   "cardPoster": "https://www.fujitv.co.jp/mondaibukken/photo/mainVisual.jpg"
   },
   {
    "id": "nat_wmst25",
@@ -15464,6 +15514,11 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/eiga/2026/0513/bluelock-movie_20260513_02.jpg",
      "caption": "追加キャスト角色视觉（右上为馬狼照英）",
      "source": "コミックナタリー"
+    },
+    {
+     "url": "https://animeanime.jp/imgs/zoom/889762.jpg",
+     "caption": "场面照：马狼照英撞倒对手",
+     "source": "https://animeanime.jp/article/2026/06/09/99917.html"
     }
    ],
    "videos": [
@@ -15675,7 +15730,7 @@ window.ARCHIVE = {
    "roleRoma": "HOKEN",
    "workRoma": "KINGDOM II",
    "roleName": "庞煖",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2026/0731/KINGDOM2_higasi.jpg",
+   "cardPhoto": "https://www.tohostage.com/kingdom2/images/gallery_solo_higashi.jpg",
    "cardPoster": "https://ogre.natalie.mu/media/news/stage/2026/0329/kingdom_miura_teaser.jpg"
   },
   {

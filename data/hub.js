@@ -209,9 +209,10 @@ window.HUB = {
    "title": "电影《蓝色监狱》",
    "role": "马狼照英",
    "date": "2026/8/7 上映",
-   "image": "assets/img/37a94da506481fff.jpg",
-   "imageNote": "官方宣传图",
-   "url": "https://bluelock-movie.jp/"
+   "image": "https://animeanime.jp/imgs/zoom/889762.jpg",
+   "imageNote": "电影场面照：马狼把对手撞倒那场（アニメ！アニメ！）",
+   "url": "https://bluelock-movie.jp/",
+   "imageBg": "69% 29% / auto 300%"
   },
   {
    "title": "《SWAN：Ballet cross Reading》",
