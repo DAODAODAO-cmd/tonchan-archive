@@ -8024,6 +8024,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_mdpr2399092",
+   "date": "2021-01-20",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《我家女儿交不到男朋友!!》专访（模特新闻）",
+   "japanese": "「ウチカレ」菅野美穂＆浜辺美波がときめいたイケメン・東啓介に熱視線 地上波ドラマ初出演で視聴者を虜に＜インタビュー＞",
+   "crew": "",
+   "key": "",
+   "url": "https://mdpr.jp/interview/2399092",
+   "note": "モデルプレス。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://img-mdpr.freetls.fastly.net/article/vvb5/nm/vvb59xQE4dDKvmPpoC5-LcyZi6vZGMV9yI7v_MOUR-s.jpg?width=700",
+     "caption": "モデルプレス",
+     "source": "https://mdpr.jp/interview/2399092",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "nat_matsuree21",
    "date": "2021-01-25",
    "end": "",
@@ -8287,6 +8315,34 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_nat418191",
+   "date": "2021-03-01",
+   "end": "",
+   "category": "采访／连载",
+   "title": "「2020年，支撑我的东西」Vol.3",
+   "japanese": "2020年、私を支えたもの Vol.3（野村萬斎 / 朴ろ美 / 東啓介 / 平間壮一 ほか）",
+   "crew": "",
+   "key": "",
+   "url": "https://natalie.mu/stage/column/418191",
+   "note": "ステージナタリー专栏，多人回答之一。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2021/0228/supportedme3.jpg",
+     "caption": "ステージナタリー",
+     "source": "https://natalie.mu/stage/column/418191",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
    "playlistLinks": []
   },
   {
@@ -9653,6 +9709,34 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "杂志"
+  },
+  {
+   "id": "web_mdpr2998812",
+   "date": "2022-02-08",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《Fight Song》专访（模特新闻）",
+   "japanese": "「ファイトソング」“クズキャラ”薫役で話題の東啓介 舞台からドラマ進出で本音「壁がまだまだ立ちはだかっている」＜インタビュー＞",
+   "crew": "",
+   "key": "",
+   "url": "https://mdpr.jp/interview/2998812",
+   "note": "モデルプレス。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://img-mdpr.freetls.fastly.net/article/Cxrx/wm/CxrxUbtNGfaD9QEQTWz5M-kVje8LPqcikKxNdZT36VU.jpg?width=700",
+     "caption": "モデルプレス",
+     "source": "https://mdpr.jp/interview/2998812",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "m441",
