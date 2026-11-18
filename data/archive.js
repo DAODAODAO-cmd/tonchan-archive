@@ -2851,6 +2851,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_eg822",
+   "date": "2017-05-15",
+   "end": "",
+   "category": "采访／连载",
+   "title": "刀舞《义传》荒牧庆彦＆东启介 对谈",
+   "japanese": "舞台『刀剣乱舞』義伝 暁の独眼竜 荒牧慶彦＆東啓介 インタビュー",
+   "crew": "",
+   "key": "",
+   "url": "https://engekisengen.com/genre/2_5d/822/",
+   "note": "ローチケ演劇宣言！。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2018/04/tourabu_170515.jpg",
+     "caption": "ローチケ演劇宣言！",
+     "source": "https://engekisengen.com/genre/2_5d/822/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "e18",
    "date": "2017-06-01",
    "end": "2017-07-14",
@@ -7376,6 +7404,34 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/1355/5644/resize/d1355-5644-470338-2.jpg",
      "caption": "取材会",
      "source": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_eg24286",
+   "date": "2020-10-13",
+   "end": "",
+   "category": "采访／连载",
+   "title": "首场个人音乐会《A NEW ME》专访（ローチケ）",
+   "japanese": "初のソロコンサートを開催！東啓介 インタビュー",
+   "crew": "",
+   "key": "",
+   "url": "https://engekisengen.com/genre/musical/24286/",
+   "note": "ローチケ演劇宣言！。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2020/10/B5A5634OK-e1602491225934.jpg",
+     "caption": "ローチケ演劇宣言！",
+     "source": "https://engekisengen.com/genre/musical/24286/",
      "asset": "",
      "resolution": ""
     }
@@ -13390,6 +13446,34 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "web_eg69250",
+   "date": "2023-11-01",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《TOHO MUSICAL LAB.》四人谈（ローチケ）",
+   "japanese": "ワクワクする実験を。高羽彩×有澤樟太郎×池田亮×東啓介が語る『TOHO MUSICAL LAB.』",
+   "crew": "",
+   "key": "",
+   "url": "https://engekisengen.com/genre/other/69250/",
+   "note": "ローチケ演劇宣言！。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2023/11/2f38ea431b2663a32e766f49cd29ced3-1-scaled.jpg",
+     "caption": "ローチケ演劇宣言！",
+     "source": "https://engekisengen.com/genre/other/69250/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "qj98297",
    "date": "2023-11-03",
    "end": "",
@@ -14064,6 +14148,34 @@ window.ARCHIVE = {
    "workRoma": "OPPAN",
    "roleName": "砂川圆",
    "cardPhoto": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg"
+  },
+  {
+   "id": "web_eg72917",
+   "date": "2024-01-09",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《WE ARE MUSIC》vol.1 东启介＆加藤大悟 对谈",
+   "japanese": "Musical shoW「WE ARE MUSIC」vol.1│東啓介＆加藤大悟 インタビュー",
+   "crew": "",
+   "key": "",
+   "url": "https://engekisengen.com/genre/other/72917/",
+   "note": "ローチケ演劇宣言！。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2023/12/IMG_353201.700.jpg",
+     "caption": "ローチケ演劇宣言！",
+     "source": "https://engekisengen.com/genre/other/72917/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "nat_otokomae24",
