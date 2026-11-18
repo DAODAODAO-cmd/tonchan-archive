@@ -7203,6 +7203,48 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "web_anewme201013",
+   "date": "2020-10-13",
+   "end": "",
+   "category": "采访／连载",
+   "title": "首场个人音乐会《A NEW ME》取材会",
+   "japanese": "最注目の若手ミュージカル俳優・東啓介、初のソロコンサート「A NEW ME」11月開催に向けて",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html",
+   "note": "WOWOW发布（PR TIMES）；同文也刊于シアターテイメントNEWS：https://theatertainment.jp/japanese-play/64798/",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/1355/5644/resize/d1355-5644-881557-0.jpg",
+     "caption": "取材会",
+     "source": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://prtimes.jp/i/1355/5644/resize/d1355-5644-749947-1.jpg",
+     "caption": "取材会",
+     "source": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://prtimes.jp/i/1355/5644/resize/d1355-5644-470338-2.jpg",
+     "caption": "取材会",
+     "source": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "e81",
    "date": "2020-10-17",
    "end": "",
