@@ -5852,6 +5852,16 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/EL4uVY3U0AAk8DD?format=jpg&name=large",
+     "caption": "角色照：藤田阳太郎",
+     "source": "https://x.com/Signal100_Movie/status/1206861592727609344"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/EMCvCGBUcAA5tP3?format=jpg&name=large",
+     "caption": "剧照：篮球部的藤田和日野",
+     "source": "https://x.com/Signal100_Movie/status/1208190346842251266"
     }
    ],
    "videos": [],
@@ -5861,7 +5871,8 @@ window.ARCHIVE = {
    "roleRoma": "FUJITA YOTARO",
    "workRoma": "SIGNAL 100",
    "roleName": "藤田阳太郎",
-   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2019/0930/signal100_201909_01.jpg"
+   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2019/0930/signal100_201909_01.jpg",
+   "cardPhoto": "https://pbs.twimg.com/media/EL4uVY3U0AAk8DD?format=jpg&name=large"
   },
   {
    "id": "e33",
