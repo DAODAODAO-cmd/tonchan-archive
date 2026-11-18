@@ -5968,6 +5968,11 @@ window.ARCHIVE = {
      "source": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "assets/img/roles/e33_photo.jpg",
+     "caption": "本人Instagram幕后照：神岛俊生",
+     "source": "https://www.instagram.com/p/B9T9RQ9Jse8/"
     }
    ],
    "videos": [],
@@ -5978,7 +5983,7 @@ window.ARCHIVE = {
    "workRoma": "SHONAN JUNAI GUMI",
    "roleName": "神岛俊生",
    "cardPoster": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg",
-   "cardNoPhoto": true
+   "cardPhoto": "assets/img/roles/e33_photo.jpg"
   },
   {
    "id": "mag_rk16231273",
