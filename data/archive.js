@@ -223,7 +223,7 @@ window.ARCHIVE = {
   },
   {
    "id": "mag_rm_53687262",
-   "date": "2014-08",
+   "date": "2014-07-23",
    "end": "",
    "category": "杂志",
    "title": "《グッカム》VOL.32（2014 AUTUMN）",
@@ -235,7 +235,7 @@ window.ARCHIVE = {
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
+   "dateKind": "发售日",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4158/9784863364158.jpg?downsize=600:*",
@@ -300,7 +300,7 @@ window.ARCHIVE = {
   },
   {
    "id": "mag_rm_22155920",
-   "date": "2014-11",
+   "date": "2014-10-23",
    "end": "",
    "category": "杂志",
    "title": "《グッカム》VOL.33（2014 WINTER）",
@@ -312,7 +312,7 @@ window.ARCHIVE = {
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
+   "dateKind": "发售日",
    "images": [
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4332/9784863364332.jpg?downsize=600:*",
@@ -1590,6 +1590,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs1414322",
+   "date": "2016-09-10",
+   "end": "",
+   "category": "杂志",
+   "title": "《PASH!》2016年10月号",
+   "japanese": "PASH! 2016年10月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281682085/b/1414322/",
+   "note": "连载「STAGE PASH！出张所」，以舞台《弱虫ペダル》葦木場拓斗的身份接受采访。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1414322_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281682085/b/1414322/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "pr_starcre2",
