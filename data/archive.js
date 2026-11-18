@@ -4586,6 +4586,34 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "web_jprime12438",
+   "date": "2018-05-26",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《周刊女性》「生で会えるイケメンリレー対談」柳下大×东启介",
+   "japanese": "柳下大×東啓介の親密対談「大くんが作ってくれるご飯は、めちゃくちゃウマい」",
+   "crew": "",
+   "key": "",
+   "url": "https://www.jprime.jp/articles/-/12438",
+   "note": "週刊女性PRIME，全6页，末页为东启介特别Q&A；后收录于电子版《週女イケメン通信》vol.12。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://jprime.ismcdn.jp/mwimgs/d/3/-/img_d39fb6de916cc4658099b0af3613b1ee856995.jpg",
+     "caption": "週刊女性PRIME",
+     "source": "https://www.jprime.jp/articles/-/12438",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "bro_201806",
    "date": "2018-06-01",
    "category": "活动",
@@ -5689,6 +5717,41 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_fast190116",
+   "date": "2019-01-16",
+   "end": "",
+   "category": "采访／连载",
+   "title": "FAST 时尚专题：187cm的东启介谈时尚",
+   "japanese": "『東啓介』×FAST 187cmという高身長を誇る東啓介がFASHIONについて語る",
+   "crew": "",
+   "key": "",
+   "url": "https://fast-tokyo.com/keisuke-higashi-special-contents/",
+   "note": "FAST，拍摄＋时尚问答。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://fast-tokyo.com/wp-content/uploads/2019/01/contents_keisukehigasi_fast3.jpg",
+     "caption": "FAST",
+     "source": "https://fast-tokyo.com/keisuke-higashi-special-contents/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://fast-tokyo.com/wp-content/uploads/2019/01/contents_keisukehigashi4_fast.jpg",
+     "caption": "FAST",
+     "source": "https://fast-tokyo.com/keisuke-higashi-special-contents/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
    "playlistLinks": []
   },
   {
@@ -7883,6 +7946,34 @@ window.ARCHIVE = {
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_sankei210105",
+   "date": "2021-01-05",
+   "end": "",
+   "category": "采访／连载",
+   "title": "产经新闻：「マチ☆ソワ」新连载开始预告",
+   "japanese": "若手俳優・東啓介さん １０日から「マチ☆ソワ」で新連載",
+   "crew": "",
+   "key": "",
+   "url": "https://www.sankei.com/article/20210105-I4LPDARMJRMDDN5YYQZJHEDPYA/",
+   "note": "产经新闻报道，连载《东启介と聴活♪》1月10日起。照片：三尾郁恵摄。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://www.sankei.com/resizer/v2/DDAGIWDUSJL7LCMDBDSHRISYYY.jpg?auth=e9ad4c27eff6d7cdecf971c7b783039f790d309f29d3e6848cf8778a51297a29&quality=50&smart=true&width=1200&height=675",
+     "caption": "産経ニュース",
+     "source": "https://www.sankei.com/article/20210105-I4LPDARMJRMDDN5YYQZJHEDPYA/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
    "playlistLinks": []
   },
   {
@@ -14278,11 +14369,18 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://natalie.mu/stage/news/556670",
-   "note": "带着相机从善光寺走到涩温泉，濑户康史担任旅行向导。",
+   "note": "带着相机从善光寺走到涩温泉，濑户康史担任旅行向导。 BS-TBS官方公告（2024-01-12）：https://bs.tbs.co.jp/information/1319.html",
    "status": "已结束",
    "origin": "音乐自然 Natalie 新闻",
    "dateKind": "day",
    "images": [
+    {
+     "url": "https://bs.tbs.co.jp/information/images/%E7%BE%8E%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E6%9D%B1%E5%95%93%E4%BB%8B%E3%81%95%E3%82%93%E5%86%99%E7%9C%9F1920A.jpg",
+     "caption": "BS-TBS官方",
+     "source": "https://bs.tbs.co.jp/information/1319.html",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0111/higashi_utsukushinihon01.jpg",
      "caption": "报道图",
@@ -15003,7 +15101,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://natalie.mu/stage/play/702",
-   "note": "中川晃教、藤冈正明、东启介、大山真志四人巡演。",
+   "note": "中川晃教、藤冈正明、东启介、大山真志四人巡演。 大阪Billboard Live 2024年6月1日–2日：https://www.billboard-live.com/osaka/show?event_id=ev-14651",
    "status": "已结束",
    "origin": "音乐自然 Natalie 公演资料",
    "dateKind": "day",
