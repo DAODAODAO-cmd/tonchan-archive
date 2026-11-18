@@ -1116,6 +1116,16 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-304926-2.jpg",
+     "caption": "角色视觉：烛台切光忠（第3弹）",
+     "source": "マーベラス（PR TIMES）"
+    },
+    {
+     "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-191959-0.jpg",
+     "caption": "主视觉",
+     "source": "マーベラス（PR TIMES）"
     }
    ],
    "videos": [
@@ -1130,7 +1140,8 @@ window.ARCHIVE = {
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "KYODEN",
    "roleName": "烛台切光忠",
-   "cardPhoto": "https://prtimes.jp/i/16719/25/resize/d16719-25-262712-3.jpg"
+   "cardPhoto": "https://prtimes.jp/i/16719/18/resize/d16719-18-304926-2.jpg",
+   "cardPoster": "https://prtimes.jp/i/16719/18/resize/d16719-18-191959-0.jpg"
   },
   {
    "id": "bro_201606",
@@ -5888,7 +5899,8 @@ window.ARCHIVE = {
    "roleRoma": "KAMIJIMA TOSHIO",
    "workRoma": "SHONAN JUNAI GUMI",
    "roleName": "神岛俊生",
-   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg"
+   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg",
+   "cardNoPhoto": true
   },
   {
    "id": "mag_rk16231273",
@@ -13361,11 +13373,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/1307",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://theatergirl.jp/wp-content/uploads/2024/09/batch_reIMG_6231.jpg",
-     "caption": "剧照：埃里克",
-     "source": "THEATER GIRL"
     }
    ],
    "videos": [],
@@ -13375,7 +13382,7 @@ window.ARCHIVE = {
    "roleRoma": "ERIC",
    "workRoma": "DEATH TAKES A HOLIDAY",
    "roleName": "埃里克",
-   "cardPhoto": "https://theatergirl.jp/wp-content/uploads/2024/09/batch_reIMG_6231.jpg"
+   "cardNoPhoto": true
   },
   {
    "id": "bro_202410",
@@ -16123,6 +16130,11 @@ window.ARCHIVE = {
      "source": "https://www.youtube.com/watch?v=jkqp4qMS_Zg",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2026/0905/kamenridermyth_202609_02.jpg",
+     "caption": "节目场面：华武利（左）",
+     "source": "映画ナタリー"
     }
    ],
    "videos": [
@@ -16202,7 +16214,8 @@ window.ARCHIVE = {
    "workRoma": "JUNISHI TOIRO",
    "roleName": "岭高华武利",
    "cardPoster": "https://i.ytimg.com/vi/jkqp4qMS_Zg/maxresdefault.jpg",
-   "cardPhoto": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main02.webp"
+   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2026/0905/kamenridermyth_202609_02.jpg",
+   "cardPhotoBg": "7% 16% / auto 200%"
   },
   {
    "id": "mag_mc_40155677",
