@@ -1991,35 +1991,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_rm_63508883",
-   "date": "2017",
-   "end": "",
-   "category": "杂志",
-   "title": "《TV指南Stage Stars》vol.5",
-   "japanese": "TVガイド Stage Stars vol.5",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.5%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/9016/9784863369016.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "mag_rm_95423071",
    "date": "2017",
    "end": "",
@@ -5022,33 +4993,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_mc_83234988",
-   "date": "2018-10-25",
-   "end": "",
-   "category": "杂志",
-   "title": "《TV navi》2018年12月号",
-   "japanese": "TV navi 2018年12月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://www.fujisan.co.jp/product/1281690560/b/list/?limit=30&year=2018",
-   "note": "连载「イケメンがなきゃ生きていけない！」这期的嘉宾，和歌広場淳对谈。封面是中岛健人。",
-   "status": "",
-   "origin": "Fujisan 过刊目录",
-   "dateKind": "发售日",
-   "images": [
-    {
-     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1740301_n.jpg",
-     "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281690560/b/list/?limit=30&year=2018"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "杂志",
-   "playlistLinks": []
-  },
-  {
    "id": "mag_mc_664967",
    "date": "2018-10",
    "end": "",
@@ -5280,6 +5224,33 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_mc_83234988",
+   "date": "2018-10-25",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV navi》2018年12月号",
+   "japanese": "TV navi 2018年12月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281690560/b/list/?limit=30&year=2018",
+   "note": "连载「イケメンがなきゃ生きていけない！」这期的嘉宾，和歌広場淳对谈。封面是中岛健人。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1740301_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281690560/b/list/?limit=30&year=2018"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志",
    "playlistLinks": []
   },
   {
@@ -5734,6 +5705,35 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_rm_63508883",
+   "date": "2019-03-25",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV指南Stage Stars》vol.5",
+   "japanese": "TVガイド Stage Stars vol.5",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.5%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "note": "",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/9016/9784863369016.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_rk15862247",
    "date": "2019-03-27",
    "end": "",
@@ -5819,6 +5819,32 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "mag_fs1809064",
+   "date": "2019-04-24",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV LIFE》2019年5/10号",
+   "japanese": "TV LIFE 2019年5/10号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1747/b/1809064/",
+   "note": "《Color of Life》相关。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1809064_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1747/b/1809064/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
   },
   {
    "id": "e28",
@@ -8945,35 +8971,6 @@ window.ARCHIVE = {
    "videos": []
   },
   {
-   "id": "mag_rm_77611397",
-   "date": "2022",
-   "end": "",
-   "category": "杂志",
-   "title": "《TV指南Stage Stars》vol.21",
-   "japanese": "TVガイドStage Stars vol.21",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89Stage%20Stars%20vol.21%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/5698/9784867015698_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "mag_mc_79504433",
    "date": "2022-01",
    "end": "",
@@ -10405,35 +10402,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_mc_19690225",
-   "date": "2023",
-   "end": "",
-   "category": "杂志",
-   "title": "《TV指南Stage Stars》vol.25｜东启介",
-   "japanese": "TVガイド Stage Stars vol.25",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://jp.mercari.com/search?keyword=TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.25%20%E6%9D%B1%E5%95%93%E4%BB%8B",
-   "note": "",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售期（约）",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/7777/9784867017777_1_3.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "mag_mc_63082374",
    "date": "2023",
    "end": "",
@@ -10825,6 +10793,35 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_rm_77611397",
+   "date": "2023-02-28",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV指南Stage Stars》vol.21",
+   "japanese": "TVガイドStage Stars vol.21",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89Stage%20Stars%20vol.21%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "note": "",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/5698/9784867015698_1_2.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
   },
@@ -13685,6 +13682,35 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/8189/",
      "asset": "4ddbe858ec009526",
      "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_mc_19690225",
+   "date": "2024-02-27",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV指南Stage Stars》vol.25｜东启介",
+   "japanese": "TVガイド Stage Stars vol.25",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://jp.mercari.com/search?keyword=TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.25%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "note": "",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/7777/9784867017777_1_3.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
