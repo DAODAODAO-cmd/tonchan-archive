@@ -32895,6 +32895,102 @@ window.ARCHIVE = {
    "contentDate": "2018-03-15",
    "dateLabel": "2018.03.21 B站上传",
    "asset": ""
+  },
+  {
+   "id": "BV1jA411u7NR",
+   "title": "魔幻剧 我女儿怎么可能没人追 1080p 东启介cut 03",
+   "channel": "KKRooo",
+   "type": "剧集cut",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1jA411u7NR/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/6186fcc9b88ca5f978c4fbbf20c0eec2f15a462a.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.01.28上传，含副声道",
+   "source": "https://www.bilibili.com/video/BV1jA411u7NR/",
+   "uploadDate": "2021-01-28",
+   "dateLabel": "2021.01.28 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1EX4y1L7Pz",
+   "title": "魔幻剧 我女儿怎么可能没人追 1080p无字 东启介cut 05",
+   "channel": "KKRooo",
+   "type": "剧集cut",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1EX4y1L7Pz/",
+   "thumbnail": "https://i1.hdslb.com/bfs/archive/cd1bae79b06d0112c1578bf1fcdb71438f8e262d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.02.24上传",
+   "source": "https://www.bilibili.com/video/BV1EX4y1L7Pz/",
+   "uploadDate": "2021-02-24",
+   "dateLabel": "2021.02.24 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV1gv41187Cq",
+   "title": "魔幻剧 我女儿怎么可能没人追 1080p无字 东启介cut 10",
+   "channel": "KKRooo",
+   "type": "剧集cut",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV1gv41187Cq/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/f7632a74300be0e3f1032d678bf41c9ba9a267b1.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2021.03.18上传",
+   "source": "https://www.bilibili.com/video/BV1gv41187Cq/",
+   "uploadDate": "2021-03-18",
+   "dateLabel": "2021.03.18 B站上传",
+   "asset": ""
+  },
+  {
+   "id": "BV17y4y1E7vQ",
+   "title": "2021.2.1 短节目《イントロ》东启介cut",
+   "channel": "KKRooo",
+   "type": "节目／其他",
+   "sourceType": "B站搬运",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.bilibili.com/video/BV17y4y1E7vQ/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/5028e18d64ed83714372d5e4bdaa4ca1c1bf02ea.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜约7分钟；节目具体信息待核",
+   "source": "https://www.bilibili.com/video/BV17y4y1E7vQ/",
+   "uploadDate": "2021-03-11",
+   "dateLabel": "2021.03.11 B站上传",
+   "asset": "",
+   "contentDate": "2021-02-01"
+  },
+  {
+   "id": "BV1DZ2GYyEYq",
+   "title": "东启介 Instagram 弹唱合集（《长靴皇后》查理时期）",
+   "channel": "KKRooo",
+   "type": "本人歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.bilibili.com/video/BV1DZ2GYyEYq/",
+   "thumbnail": "https://i0.hdslb.com/bfs/archive/56ccff1d1e73e886ea2af0ca4be2c73791d4ae9d.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜Instagram直播／投稿弹唱搬运，约3.5分钟",
+   "source": "https://www.bilibili.com/video/BV1DZ2GYyEYq/",
+   "uploadDate": "2024-10-10",
+   "dateLabel": "2024.10.10 B站上传",
+   "asset": ""
   }
  ],
  "playlists": [
