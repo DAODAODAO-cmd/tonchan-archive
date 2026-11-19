@@ -4799,7 +4799,13 @@ window.ARCHIVE = {
    "status": "",
    "origin": "WE官方周边博客",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271355.jpg",
+     "caption": "2L判W生写真（骏河屋商品图）",
+     "source": "骏河屋"
+    }
+   ],
    "videos": [],
    "kind": "bromide"
   },
@@ -5105,7 +5111,13 @@ window.ARCHIVE = {
    "status": "",
    "origin": "WE官方周边博客",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435133.jpg",
+     "caption": "2L判W生写真（骏河屋商品图）",
+     "source": "骏河屋"
+    }
+   ],
    "videos": [],
    "kind": "bromide"
   },
@@ -5673,7 +5685,13 @@ window.ARCHIVE = {
    "status": "",
    "origin": "WE官方周边博客",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0411/users/51fbb8a266f9eb798134cd1464cb52a012f7846b/i-img360x239-1541297585byn9le38762.jpg",
+     "caption": "2L判W生写真（拍卖实物图）",
+     "source": "Yahoo!拍卖"
+    }
+   ],
    "videos": [],
    "kind": "bromide"
   },
