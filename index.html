@@ -31,7 +31,7 @@ button{font:inherit;cursor:pointer}
 .pills::-webkit-scrollbar{display:none}
 .pills a{padding:7px 14px;border-radius:999px;font-size:13px;color:var(--muted);white-space:nowrap;transition:.2s}
 .pills a:hover,.pills a.on{background:var(--card);color:var(--ink);box-shadow:var(--shadow)}
-.pills a.arch{background:var(--sage);color:#fff}
+.pills a small{font-size:9px;letter-spacing:.08em;margin-left:4px;opacity:.55}.pills a.arch{background:var(--sage);color:#fff}
 
 /* hero */
 .hero{padding:44px 0 26px}
@@ -279,7 +279,7 @@ footer p{margin:4px 0}
 <nav class="nav"><div class="wrap">
   <a class="logo" href="#top"><span>東</span>东启介 资讯站</a>
   <div class="pills" id="pills">
-    <a href="#now">进行中·日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边与商品</a><a href="#roles">角色</a><a href="#about">关于他</a><a class="arch" href="list.html?g=all">编年档案 →</a>
+    <a href="#now">近况<small>NOW</small></a><a href="#news">动态<small>NEWS</small></a><a href="#works">作品<small>WORKS</small></a><a href="#videos">视频<small>VIDEO</small></a><a href="#goods">周边<small>GOODS</small></a><a href="#roles">角色<small>ROLES</small></a><a href="#about">关于<small>ABOUT</small></a><a class="arch" href="list.html?g=all">编年档案 →</a>
   </div>
 </div></nav>
 
@@ -297,7 +297,7 @@ footer p{margin:4px 0}
 
 <main>
 <section class="sec" id="now"><div class="wrap">
-  <div class="sec-head"><h2><em>NOW</em>正在进行与日程</h2></div>
+  <div class="sec-head"><h2><em>NOW</em>近况</h2></div>
   <div class="now-grid" id="nowGrid"></div>
   <div class="recent" id="recent"></div>
   <div class="sub-head" id="upcoming"><h3>即将到来</h3><a class="more" href="list.html?g=schedule">完整日程 →</a></div>
@@ -306,7 +306,7 @@ footer p{margin:4px 0}
 
 
 <section class="sec" id="news"><div class="wrap">
-  <div class="sec-head"><h2><em>NEWS</em>最新动态</h2><a class="more" href="list.html?g=news">全部动态 →</a></div>
+  <div class="sec-head"><h2><em>NEWS</em>动态</h2><a class="more" href="list.html?g=news">全部动态 →</a></div>
   <div class="news-wrap">
     <div>
       <div class="filters" id="newsFilters"></div>
@@ -316,32 +316,32 @@ footer p{margin:4px 0}
 </div></section>
 
 <section class="sec" id="works"><div class="wrap">
-  <div class="sec-head"><h2><em>WORKS & MEDIA</em>作品与媒体露出</h2><a class="more" id="worksMore" href="list.html?g=stage">查看全部 →</a></div>
+  <div class="sec-head"><h2><em>WORKS</em>作品</h2><a class="more" id="worksMore" href="list.html?g=stage">查看全部 →</a></div>
   <div class="tabs" id="workTabs"></div>
   <div class="works" id="worksGrid"></div>
   <div class="morebar"><a id="worksMore2" href="list.html?g=stage">查看全部 →</a></div>
 </div></section>
 
 <section class="sec" id="videos"><div class="wrap">
-  <div class="sec-head"><h2><em>VIDEOS</em>最新视频</h2><a class="more" href="list.html?g=videos">全部视频 →</a></div>
+  <div class="sec-head"><h2><em>VIDEO</em>视频</h2><a class="more" href="list.html?g=videos">全部视频 →</a></div>
   <div class="tabs" id="vidTabs"></div>
   <div class="vids" id="vidGrid"></div>
 </div></section>
 
 <section class="sec" id="goods"><div class="wrap">
-  <div class="sec-head"><h2><em>GOODS</em>周边与商品</h2></div>
+  <div class="sec-head"><h2><em>GOODS</em>周边</h2></div>
   <div class="filters" id="goodsTabs"></div>
   <div id="goodsNow"><div class="goods" id="goodsGrid"></div></div>
   <div id="goodsPast" hidden><div class="pgf" id="pastFilter" style="margin-bottom:14px"></div><div class="goods past" id="pastGrid"></div></div>
 </div></section>
 
 <section class="sec" id="roles"><div class="wrap">
-  <div class="sec-head"><h2><em>ROLES</em>饰演角色</h2><div class="rnav"><button id="rPrev" aria-label="往前">‹</button><button id="rNext" aria-label="往后">›</button></div></div>
+  <div class="sec-head"><h2><em>ROLES</em>角色</h2><div class="rnav"><button id="rPrev" aria-label="往前">‹</button><button id="rNext" aria-label="往后">›</button></div></div>
   <div class="roles-wrap"><div class="roles" id="roleStrip"></div></div>
 </div></section>
 
 <section class="sec" id="about"><div class="wrap">
-  <div class="sec-head"><h2><em>ABOUT</em>关于他</h2></div>
+  <div class="sec-head"><h2><em>ABOUT</em>关于</h2></div>
   <div class="filters" id="aboutTabs"><button class="on" data-ab="profile">个人资料</button><button data-ab="says">东酱说</button><button data-ab="links">官方渠道</button></div>
   <div class="ab" id="profile">
   <div class="prof">
