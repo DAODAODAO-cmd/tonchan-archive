@@ -19348,16 +19348,21 @@ window.ARCHIVE = {
      "source": "东映特摄 YouTube"
     },
     {
+     "url": "https://www.tv-asahi.co.jp/my-th/news/0006/images/J2vSsFt5mv.webp",
+     "caption": "节目场面：华武利（左）",
+     "source": "朝日电视台"
+    },
+    {
+     "url": "https://www.toei.co.jp/entertainment/streaming/original/productionlist/detail/__icsFiles/afieldfile/2026/10/02/12toiro.jpg",
+     "caption": "《十二支十色》海报",
+     "source": "东映"
+    },
+    {
      "url": "https://i.ytimg.com/vi/jkqp4qMS_Zg/maxresdefault.jpg",
      "caption": "第1话 免费公开版",
      "source": "https://www.youtube.com/watch?v=jkqp4qMS_Zg",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/eiga/2026/0905/kamenridermyth_202609_02.jpg",
-     "caption": "节目场面：华武利（左）",
-     "source": "映画ナタリー"
     }
    ],
    "videos": [
@@ -19436,9 +19441,9 @@ window.ARCHIVE = {
    "roleRoma": "MINETAKA KABURI",
    "workRoma": "JUNISHI TOIRO",
    "roleName": "岭高华武利",
-   "cardPoster": "https://i.ytimg.com/vi/jkqp4qMS_Zg/maxresdefault.jpg",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2026/0905/kamenridermyth_202609_02.jpg",
-   "cardPhotoBg": "7% 16% / auto 200%"
+   "cardPoster": "https://www.toei.co.jp/entertainment/streaming/original/productionlist/detail/__icsFiles/afieldfile/2026/10/02/12toiro.jpg",
+   "cardPhoto": "https://www.tv-asahi.co.jp/my-th/news/0006/images/J2vSsFt5mv.webp",
+   "cardPhotoPos": "32% 20%"
   },
   {
    "id": "mag_mc_40155677",
