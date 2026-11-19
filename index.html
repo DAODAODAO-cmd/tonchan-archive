@@ -279,7 +279,7 @@ footer p{margin:4px 0}
 <nav class="nav"><div class="wrap">
   <a class="logo" href="#top"><span>東</span>东启介 资讯站</a>
   <div class="pills" id="pills">
-    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#goods">周边</a><a href="#roles">角色</a><a href="#profile">个人资料</a><a href="#says">东酱说</a><a href="#links">官方渠道</a><a class="arch" href="list.html?g=all">编年档案 →</a>
+    <a href="#now">进行中</a><a href="#upcoming">日程</a><a href="#news">动态</a><a href="#works">作品与露出</a><a href="#videos">视频</a><a href="#shop">商品</a><a href="#goods">周边</a><a href="#roles">角色</a><a href="#profile">个人资料</a><a href="#says">东酱说</a><a href="#links">官方渠道</a><a class="arch" href="list.html?g=all">编年档案 →</a>
   </div>
 </div></nav>
 
@@ -334,10 +334,14 @@ footer p{margin:4px 0}
   <div class="vids" id="vidGrid"></div>
 </div></section>
 
+<section class="sec" id="shop"><div class="wrap">
+  <div class="sec-head"><h2><em>RELEASES</em>商品</h2></div>
+  <div class="goods" id="shopGrid"></div>
+</div></section>
 <section class="sec" id="goods"><div class="wrap">
-  <div class="sec-head"><h2><em>GOODS</em>周边与商品</h2></div>
+  <div class="sec-head"><h2><em>GOODS</em>周边</h2></div>
   <div class="goods" id="goodsGrid"></div>
-  <div class="sub-head"><h3>过往周边 <small>已售罄 · 已结束，仅供回味</small></h3><div class="pgf" id="pastFilter"></div></div>
+  <div class="sub-head"><h3>过往周边 <small>已售罄 · 已结束</small></h3><div class="pgf" id="pastFilter"></div></div>
   <div class="goods past" id="pastGrid"></div>
 </div></section>
 
@@ -442,10 +446,10 @@ function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(
 $('vidTabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.k)curV=b.dataset.k;if(b.dataset.p)curP=b.dataset.p;drawVids()};drawVids();
 
 /* goods */
-$('goodsGrid').innerHTML=H.goods.map(g=>'<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy"'+(g.imagePos?' style="object-fit:cover;object-position:'+esc(g.imagePos)+'"':'')+'>':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span>':'')+'<h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul><a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">查看详情 ↗</a></div></article>').join('');
+const gcard=g=>'<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy"'+(g.imagePos?' style="object-fit:cover;object-position:'+esc(g.imagePos)+'"':'')+'>':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span>':'')+'<h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul><a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">查看详情 ↗</a></div></article>';$('goodsGrid').innerHTML=H.goods.filter(g=>g.kind!=='商品').map(gcard).join('');$('shopGrid').innerHTML=H.goods.filter(g=>g.kind==='商品').map(gcard).join('');
 
 /* past goods */
-let pf='全部';function drawPast(){const L=(H.pastGoods||[]).filter(g=>pf==='全部'||(pf==='生日'?g.bday:!g.bday)).sort((a,b)=>b.date.localeCompare(a.date));$('pastFilter').innerHTML=['全部','生日'].map(x=>'<button class="'+(x===pf?'on':'')+'" data-pf="'+x+'">'+(x==='生日'?'🎂 生日限定':x)+'</button>').join('');$('pastGrid').innerHTML=L.map(g=>'<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy">':'<span class="ph">'+esc(g.title)+'</span>')+'<span class="chip-s">'+esc(g.status)+'</span>'+(g.bday?'<span class="chip-b">🎂 生日</span>':'')+'</div><div class="b"><span class="badge">'+fmt(g.date)+'</span><h3>'+esc(g.title)+'</h3><div class="meta">'+esc(g.price)+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>'+(g.items&&g.items.length?'<div class="gi">'+g.items.map(i=>'<a href="'+esc(i.u)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'"><img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+(i.st==='有货'?' · 有货':'')+'</span></a>').join('')+'</div>':'')+'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方公告 ↗</a></div></article>').join('')}
+let pf='全部';function drawPast(){const L=(H.pastGoods||[]).filter(g=>pf==='全部'||(pf==='生日'?g.bday:pf==='舞台'?g.stage:!g.bday&&!g.stage)).sort((a,b)=>b.date.localeCompare(a.date));$('pastFilter').innerHTML=['全部','个人','舞台','生日'].map(x=>'<button class="'+(x===pf?'on':'')+'" data-pf="'+x+'">'+(x==='生日'?'🎂 生日限定':x)+'</button>').join('');$('pastGrid').innerHTML=L.map(g=>'<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy">':'<span class="ph">'+esc(g.title)+'</span>')+'<span class="chip-s">'+esc(g.status)+'</span>'+(g.bday?'<span class="chip-b">🎂 生日</span>':'')+'</div><div class="b"><span class="badge">'+fmt(g.date)+'</span><h3>'+esc(g.title)+'</h3><div class="meta">'+esc(g.price)+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>'+(g.items&&g.items.length?'<div class="gi">'+g.items.map(i=>'<a href="'+esc(i.u)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'"><img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+(i.st==='有货'?' · 有货':'')+'</span></a>').join('')+'</div>':'')+'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方公告 ↗</a></div></article>').join('')}
 document.addEventListener('click',e=>{const b=e.target.closest('[data-pf]');if(b){pf=b.dataset.pf;drawPast()}});drawPast();
 
 /* profile */

@@ -733,7 +733,8 @@ window.HUB = {
     "同龄\"凸凹组合\"的清爽双人照"
    ],
    "url": "https://ameblo.jp/we-goodsinfo/entry-12226803496.html",
-   "publisher": "WE SHOP／ワタナベ商店"
+   "publisher": "WE SHOP／ワタナベ商店",
+   "stage": 1
   },
   {
    "date": "2016-08-18",
@@ -773,6 +774,181 @@ window.HUB = {
    ],
    "url": "https://ameblo.jp/we-goodsinfo/entry-11911691365.html",
    "publisher": "WE SHOP／ワタナベ商店"
+  },
+  {
+   "date": "2015-05-23",
+   "title": "音乐剧《薄樱鬼》黎明录 公演周边",
+   "price": "原田个人ブロマイド 3枚 600円 · 全员13枚 2,400円 · 随机ブロマイド 200円 · 场刊 2,100円",
+   "image": "https://www.marv.jp/special/m-hakuoki-reimeiroku/images/goods/kojin_blog.jpg",
+   "points": [
+    "他的是「原田セット」：原田左之助个人ブロマイド3枚一组",
+    "个人套组9种全买送13人集合2L大图",
+    "场刊A4 40页，有角色介绍和后台花絮"
+   ],
+   "url": "https://www.marv.jp/special/m-hakuoki-reimeiroku/goods.html",
+   "publisher": "薄ミュ 官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2016-01-04",
+   "title": "音乐剧《薄樱鬼》新选组奇谭 公演周边",
+   "price": "原田个人ブロマイド 600円 · 全员14枚 2,700円 · 随机ブロマイド 200円 · 随机手机擦挂件 400円",
+   "image": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/goods/kojin.jpg",
+   "points": [
+    "原田左之助个人ブロマイド3枚一组",
+    "随机手机擦挂件（モバイルクリーナーストラップ）里有原田",
+    "高级票特典是和纸风文件夹"
+   ],
+   "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/goods.html",
+   "publisher": "薄ミュ 官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2016-03-04",
+   "title": "舞台《飙速宅男》总北新世代，启动 公演周边",
+   "price": "苇木场个人ブロマイド 600円 · 随机徽章 200円 · 随机亚克力钥匙扣 600円",
+   "image": "",
+   "points": [
+    "苇木场拓斗个人ブロマイド3枚：比赛服、制服、演员情景照各一",
+    "随机徽章、随机亚克力钥匙扣都有苇木场",
+    "另有箱学·京伏合体亚克力钥匙扣 1,000円"
+   ],
+   "url": "https://www.marv.jp/special/pedal_2016-03/#goods",
+   "publisher": "舞台『弱虫ペダル』官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2016-05-03",
+   "title": "舞台《刀剑乱舞》虚传 燃烧的本能寺 公演周边",
+   "price": "烛台切个人ブロマイド 600円 · 亚克力钥匙扣 800円 · 随机ブロマイド 200円 · 随机徽章 300円",
+   "image": "https://stage-toukenranbu.jp/archive/kyoden/images/goods/single.jpg",
+   "points": [
+    "烛台切光忠个人ブロマイド3枚一组",
+    "亚克力钥匙扣12种可以直接挑烛台切",
+    "高级票特典是罐装镜子"
+   ],
+   "url": "https://stage-toukenranbu.jp/archive/kyoden/goods.html",
+   "publisher": "刀ステ 官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2016-08-12",
+   "title": "音乐剧《薄樱鬼》HAKU-MYU LIVE 2 周边",
+   "price": "原田个人ブロマイド 600円 · 随机ブロマイド 200円 · 随机迷你色纸 500円 · 荧光棒 2,500円",
+   "image": "https://www.marv.jp/special/m-hakuoki-live2/images/goods/person.jpg",
+   "points": [
+    "随机迷你色纸带演员亲笔留言，里面有原田",
+    "荧光棒10色，原田是红色",
+    "另有团扇、毛巾、托特包"
+   ],
+   "url": "https://www.marv.jp/special/m-hakuoki-live2/goods.html",
+   "publisher": "薄ミュ 官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2016-09-30",
+   "title": "舞台《飙速宅男》箱根学园新世代，启动 公演周边",
+   "price": "苇木场个人ブロマイド 600円 · 随机ブロマイド 200円 · 随机徽章 200円 · 随机亚克力钥匙扣 600円",
+   "image": "https://www.marv.jp/special/pedal_2016-11/images/goods/personal.jpg",
+   "points": [
+    "苇木场个人ブロマイド：角色照加演员照3枚一组",
+    "看2次送一张指定演员的非卖生写真，看3次再送一张签名照"
+   ],
+   "url": "https://www.marv.jp/special/pedal_2016-11/#goods",
+   "publisher": "舞台『弱虫ペダル』官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2016-12-15",
+   "title": "舞台《刀剑乱舞》虚传 再演 公演周边",
+   "price": "烛台切个人ブロマイド 600円 · 发光IC卡贴 1,300円 · 随机内番亚克力钥匙扣 600円 · 随机徽章 400円",
+   "image": "https://stage-toukenranbu.jp/archive/kyoden_saien/images/goods/single.jpg",
+   "points": [
+    "发光IC卡贴：刷交通卡时会亮，12种可以挑烛台切",
+    "随机钥匙扣是内番服装版"
+   ],
+   "url": "https://stage-toukenranbu.jp/archive/kyoden_saien/goods.html",
+   "publisher": "刀ステ 官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2017-02-25",
+   "title": "舞台《飙速宅男》新IH篇 起跑线 公演周边",
+   "price": "苇木场个人ブロマイド 600円 · 随机ブロマイド 200円 · 随机亚克力钥匙扣 600円 · 随机徽章 400円",
+   "image": "https://www.marv.jp/special/pedal_2017-023/images/goods/all.jpg",
+   "points": [
+    "苇木场个人ブロマイド3枚一组，16种全买送集合2L",
+    "随机ブロマイド48种，每人3张"
+   ],
+   "url": "https://www.marv.jp/special/pedal_2017-023/goods.html",
+   "publisher": "舞台『弱虫ペダル』官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2017-04-14",
+   "title": "音乐剧《薄樱鬼》原田左之助篇 公演周边",
+   "price": "原田个人ブロマイド 600円 · 全员14枚 2,800円 · 随机ブロマイド 200円 · 随机徽章 400円",
+   "image": "https://www.marv.jp/special/m-hakuoki-harada/images/goods/personal.jpg",
+   "points": [
+    "他当主角的一篇，全员ブロマイド第一张就是原田",
+    "随机ブロマイド50种、随机徽章20种",
+    "高级票特典是票夹"
+   ],
+   "url": "https://www.marv.jp/special/m-hakuoki-harada/goods.html",
+   "publisher": "薄ミュ 官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2017-06-01",
+   "title": "舞台《刀剑乱舞》义传 黎明的独眼龙 公演周边",
+   "price": "烛台切个人ブロマイド 600円 · 迷你屏风 700円 · 随机挂饰 600円 · 随机徽章 400円",
+   "image": "https://stage-toukenranbu.jp/archive/giden/images/goods/person.jpg",
+   "points": [
+    "迷你屏风8种可以直接挑烛台切",
+    "随机挂饰里有「番伞④（烛台切光忠）」"
+   ],
+   "url": "https://stage-toukenranbu.jp/archive/giden/goods.html",
+   "publisher": "刀ステ 官网",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2017-07-29",
+   "title": "残酷剧《グランギニョル》公演周边",
+   "price": "随机徽章 400円 · 场刊 2,500円 · 托特包 1,500円",
+   "image": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/274887/438a26aec79d3fc66ea3ab752f6b03d7_f138b7e541bd277ecb70b5205f8d1551.jpg?width=477",
+   "points": [
+    "随机徽章38种，用役服装照和形象照，里面有他",
+    "场刊有每位演员的单独访谈",
+    "演出后在WE SHOP表参道店和ワタナベ商店再卖过，另有舞台照套组"
+   ],
+   "url": "https://grandguignol-170401.themedia.jp/posts/2881923",
+   "publisher": "WE SHOP／ワタナベ商店",
+   "status": "已结束",
+   "stage": 1
+  },
+  {
+   "date": "2018-06-02",
+   "title": "舞台《刀剑乱舞》悲传 结之目的不如归 公演周边",
+   "price": "烛台切个人ブロマイド 600円 · 舞台照ブロマイド 400円 · 随机迷你色纸 500円 · 随机迷你文件夹 400円",
+   "image": "https://stage-toukenranbu.jp/archive/hiden/images/goods/person.jpg",
+   "points": [
+    "这次多了舞台照个人ブロマイド（2枚一组）",
+    "随机徽章、迷你文件夹、迷你色纸都有烛台切"
+   ],
+   "url": "https://stage-toukenranbu.jp/archive/hiden/goods.html",
+   "publisher": "刀ステ 官网",
+   "status": "已结束",
+   "stage": 1
   }
  ],
  "goods": [
@@ -802,7 +978,8 @@ window.HUB = {
     "发售纪念活动：1/10 涩谷 SHIBUYA TSUTAYA · 1/17 池袋 HMVエソラ · 1/24 新宿 Book First（各13:00起，网上申请）",
     "活动特典：ぷくぷく（立体泡泡）贴纸，10/30 官方X公开设计样本"
    ],
-   "url": "https://zasshi.tv/products/62295/"
+   "url": "https://zasshi.tv/products/62295/",
+   "kind": "商品"
   },
   {
    "title": "《TV指南 Stage Stars》vol.34",
@@ -813,7 +990,8 @@ window.HUB = {
    "points": [
     "Special Other Cuts：最新写真集未使用照片"
    ],
-   "url": "https://zasshi.tv/products/62998/"
+   "url": "https://zasshi.tv/products/62998/",
+   "kind": "商品"
   },
   {
    "title": "刀舞《陽伝》Blu-ray / DVD",
@@ -824,7 +1002,8 @@ window.HUB = {
    "points": [
     "TOHO animation STORE 期间限定特典附发售纪念活动抽选应募券"
    ],
-   "url": "https://stage-toukenranbu.jp/stage/"
+   "url": "https://stage-toukenranbu.jp/stage/",
+   "kind": "商品"
   },
   {
    "title": "刀舞《陽伝》公演周边",
@@ -846,7 +1025,8 @@ window.HUB = {
    "points": [
     "《假面骑士麦斯》假面骑士Maou的变身玩具；官方TVCM见视频栏"
    ],
-   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21234/"
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21234/",
+   "kind": "商品"
   },
   {
    "title": "过往写真集与日历写真书",
@@ -860,7 +1040,8 @@ window.HUB = {
     "日历写真书 2021、2023、2024、2025 年度版",
     "详细在“作品与媒体露出 → 写真·出版”"
    ],
-   "url": "archive.html?cat=%E5%86%99%E7%9C%9F%EF%BC%8F%E5%87%BA%E7%89%88"
+   "url": "archive.html?cat=%E5%86%99%E7%9C%9F%EF%BC%8F%E5%87%BA%E7%89%88",
+   "kind": "商品"
   },
   {
    "date": "2026-09-05",
@@ -871,7 +1052,8 @@ window.HUB = {
    "points": [
     "软胶人偶，赤猫变身后的样子"
    ],
-   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20954/"
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20954/",
+   "kind": "商品"
   },
   {
    "date": "2026-09-19",
@@ -882,7 +1064,8 @@ window.HUB = {
    "points": [
     "可动人偶，可以和蛋道具联动"
    ],
-   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20955/"
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20955/",
+   "kind": "商品"
   },
   {
    "date": "2026-10-17",
@@ -894,7 +1077,8 @@ window.HUB = {
     "腰带和Maou剑一起的套装",
     "腰带的变身语音是他本人配的"
    ],
-   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21232/"
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21232/",
+   "kind": "商品"
   },
   {
    "date": "2026-10-17",
@@ -905,7 +1089,8 @@ window.HUB = {
    "points": [
     "Maou的剑单卖版"
    ],
-   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21233/"
+   "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21233/",
+   "kind": "商品"
   },
   {
    "date": "2027-03",
@@ -916,7 +1101,8 @@ window.HUB = {
    "points": [
     "一般店头贩售，2027年3月发售"
    ],
-   "url": "https://tamashiiweb.com/item/16020/"
+   "url": "https://tamashiiweb.com/item/16020/",
+   "kind": "商品"
   },
   {
    "date": "2026-09-06",
@@ -989,7 +1175,8 @@ window.HUB = {
     "店铺原创，和Rido一起加入",
     "盒背的图也好看，可以连盒摆"
    ],
-   "url": "https://x.com/KamenRiderStore/status/2121790031400783919"
+   "url": "https://x.com/KamenRiderStore/status/2121790031400783919",
+   "kind": "商品"
   }
  ],
  "channels": {
