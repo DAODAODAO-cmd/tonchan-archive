@@ -1483,16 +1483,6 @@ window.HUB = {
      "t": "细节",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_3.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_3.jpg"
-    },
-    {
-     "t": "佩戴",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_4.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_4.jpg"
-    },
-    {
-     "t": "包装",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_5.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_5.jpg"
     }
    ]
   },
@@ -1522,11 +1512,6 @@ window.HUB = {
      "t": "细节",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_3.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_3.jpg"
-    },
-    {
-     "t": "佩戴",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_4.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_4.jpg"
     }
    ]
   },
@@ -2230,24 +2215,9 @@ window.HUB = {
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg"
     },
     {
-     "t": "红色 上身",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_3.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_3.jpg"
-    },
-    {
-     "t": "红色 背面",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_4.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_4.jpg"
-    },
-    {
      "t": "紫色款",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_6.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_6.jpg"
-    },
-    {
-     "t": "紫色 上身",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_7.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_7.jpg"
     },
     {
      "t": "猫徽章（另售）",
@@ -2274,29 +2244,14 @@ window.HUB = {
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_2.jpg"
     },
     {
-     "t": "项链佩戴",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_3.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_3.jpg"
-    },
-    {
      "t": "戒指",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_2.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_2.jpg"
     },
     {
-     "t": "戒指佩戴",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_3.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_3.jpg"
-    },
-    {
      "t": "耳饰",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_2.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_2.jpg"
-    },
-    {
-     "t": "耳饰佩戴",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_3.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_3.jpg"
     }
    ]
   },
