@@ -19054,6 +19054,22 @@ window.ARCHIVE = {
     {
      "title": "东映官方X 2026.10.24：第8话「窮鼠ネコをかむ」预告视频",
      "url": "https://x.com/my_th_toei/status/2113827840776966635"
+    },
+    {
+     "title": "朝日电视台特摄官方X 2026.09.04：开播倒计时视频",
+     "url": "https://x.com/tokusatsu_ex/status/2095663130802081971"
+    },
+    {
+     "title": "朝日电视台特摄官方X 2026.10.17：第7话「怒れる羊の鉄槌」剧照",
+     "url": "https://x.com/tokusatsu_ex/status/2111245815649837552"
+    },
+    {
+     "title": "朝日电视台特摄官方X 2026.10.18：假面骑士Maou 形态介绍",
+     "url": "https://x.com/tokusatsu_ex/status/2111617003371020786"
+    },
+    {
+     "title": "朝日电视台特摄官方X 2026.10.25：第8话播出后：本周官网演员博客由东启介执笔",
+     "url": "https://x.com/tokusatsu_ex/status/2114152460680060998"
     }
    ],
    "pending": false,
