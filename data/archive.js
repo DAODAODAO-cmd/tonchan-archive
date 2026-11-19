@@ -14553,6 +14553,70 @@ window.ARCHIVE = {
     {
      "title": "FANTASTICS官方X：中岛飒太×东启介 最终回告知视频",
      "url": "https://x.com/fantastics_fext/status/1768993360709300693"
+    },
+    {
+     "title": "官方X 2024.01.23：第4话前 大地＆円 家中约会 offshot",
+     "url": "https://x.com/tokaitv_dodra/status/1749734392728264794"
+    },
+    {
+     "title": "官方X 2024.01.29：第5话前 和诚、大地遛柯基 offshot",
+     "url": "https://x.com/tokaitv_dodra/status/1751908214831247742"
+    },
+    {
+     "title": "官方X 2024.01.31：第4话心动场面",
+     "url": "https://x.com/tokaitv_dodra/status/1752632958706651521"
+    },
+    {
+     "title": "官方X 2024.02.01：东启介×中岛飒太 采访／奇迹NG幕后（4图）",
+     "url": "https://x.com/tokaitv_dodra/status/1753146241276617086"
+    },
+    {
+     "title": "官方X 2024.02.02：抱紧柯基卡洛斯的円前辈 offshot",
+     "url": "https://x.com/tokaitv_dodra/status/1753357936540397839"
+    },
+    {
+     "title": "官方X 2024.02.03：第5话 冲田家BBQ offshot",
+     "url": "https://x.com/tokaitv_dodra/status/1753720131979706602"
+    },
+    {
+     "title": "官方X 2024.02.03：第5话播出后 制片人感言",
+     "url": "https://x.com/tokaitv_dodra/status/1753804220816609290"
+    },
+    {
+     "title": "官方X 2024.02.17：第8话预告“円前辈是射击天才？”",
+     "url": "https://x.com/tokaitv_dodra/status/1758883033342709858"
+    },
+    {
+     "title": "官方X 2024.02.24：第8话 浴衣祭典 offshot",
+     "url": "https://x.com/tokaitv_dodra/status/1761224949874958743"
+    },
+    {
+     "title": "官方X 2024.03.01：第9话前 大地＆円 offshot",
+     "url": "https://x.com/tokaitv_dodra/status/1763504676740423978"
+    },
+    {
+     "title": "官方X 2024.03.04：第10话前 円前辈与同学 offshot",
+     "url": "https://x.com/tokaitv_dodra/status/1764591748217810999"
+    },
+    {
+     "title": "官方X 2024.03.06：第9话 剧照",
+     "url": "https://x.com/tokaitv_dodra/status/1765316573026451460"
+    },
+    {
+     "title": "官方X 2024.03.07：名台词回顾：东启介谈“●●がなんだっていいじゃないか！”",
+     "url": "https://x.com/tokaitv_dodra/status/1765829806611157127"
+    },
+    {
+     "title": "官方X 2024.03.09：制片人小话：下周公园那场的好表情",
+     "url": "https://x.com/tokaitv_dodra/status/1766481870165053911"
+    },
+    {
+     "title": "官方X 2024.03.14：最终话前 大地＆円 最佳offshot",
+     "url": "https://x.com/tokaitv_dodra/status/1768215619978310143"
+    },
+    {
+     "title": "官方X 2024.03.14：全员杀青报告与感谢留言",
+     "url": "https://x.com/tokaitv_dodra/status/1768366507741131023"
     }
    ],
    "pending": false,
