@@ -6263,7 +6263,8 @@ window.ARCHIVE = {
    "roleRoma": "HIROSE KAZUYA",
    "workRoma": "COLOR OF LIFE",
    "roleName": "广濑和也",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg"
+   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg",
+   "cardPoster": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/img/main_img.jpg"
   },
   {
    "id": "web_mtj190503",
@@ -17933,7 +17934,8 @@ window.ARCHIVE = {
    "workRoma": "JERSEY BOYS 2025",
    "roleName": "鲍勃·高迪奥",
    "cardPhoto": "https://astage-ent.com/wp/wp-content/uploads/2025/08/IMG_5003s78.jpg",
-   "cardPhotoBg": "55% 10% / auto 170%"
+   "cardPhotoBg": "55% 10% / auto 170%",
+   "cardPoster": "https://www.tohostage.com/jersey/images/visual2025_3.jpg"
   },
   {
    "id": "nat_jbb_bohe",
@@ -19181,6 +19183,11 @@ window.ARCHIVE = {
      "resolution": "524 × 584"
     },
     {
+     "url": "https://www.kamen-rider-official.com/uploads/myth_summary_production_note/image1/14/72a1c163-10d1-4943-9945-3f33eadf9abe.jpg",
+     "caption": "角色照：岭高华武利（拿着逗猫棒）",
+     "source": "假面骑士官网 第2话 制作秘话"
+    },
+    {
      "url": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
      "caption": "作品海报",
      "source": "https://www.tv-asahi.co.jp/my-th/",
@@ -19324,7 +19331,8 @@ window.ARCHIVE = {
    "workRoma": "KAMEN RIDER MY-TH",
    "roleName": "岭高华武利",
    "cardPoster": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
-   "cardPhoto": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp"
+   "cardPhoto": "https://www.kamen-rider-official.com/uploads/myth_summary_production_note/image1/14/72a1c163-10d1-4943-9945-3f33eadf9abe.jpg",
+   "cardPhotoPos": "50% 12%"
   },
   {
    "id": "add_12shi",
