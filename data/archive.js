@@ -19219,6 +19219,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110681835.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/G93kiYKa0AAMMSr?format=jpg&name=large",
      "caption": "WE官方生写真 2026年1月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2008012474168263077",
@@ -19285,6 +19290,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110688644.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/HEz9gUPa8AIxPV-?format=jpg&name=large",
      "caption": "WE官方生写真 2026年4月 阵容宣传图",
@@ -19377,6 +19387,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693068.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/HJshLd9bYAAu4VB?format=jpg&name=large",
      "caption": "WE官方生写真 2026年6月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2061281676546977884",
@@ -19402,6 +19417,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693994.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/HMHEbdEbQAA6eNG?format=jpg&name=large",
      "caption": "WE官方生写真 2026年7月 阵容宣传图",
@@ -19806,6 +19826,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190050196.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/HRGqVt-aoAAIYCf?format=jpg&name=large",
      "caption": "WE官方生写真 2026年9月 阵容宣传图",
