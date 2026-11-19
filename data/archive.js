@@ -19428,6 +19428,11 @@ window.ARCHIVE = {
    "dateKind": "上映日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2026/0609/bluelock-movie_202606_08.jpg",
+     "caption": "场面照：比赛中的马狼照英",
+     "source": "https://natalie.mu/eiga/news/675348"
+    },
+    {
      "url": "https://bluelock-movie.jp/assets/img/ogp_image3.jpg",
      "caption": "文章配图",
      "source": "https://bluelock-movie.jp/",
@@ -19500,7 +19505,7 @@ window.ARCHIVE = {
    "workRoma": "BLUE LOCK",
    "roleName": "马狼照英",
    "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2026/0207/bluelock-movie_202602_teaser.jpg",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2026/0513/bluelock-movie_20260513_02.jpg",
+   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2026/0609/bluelock-movie_202606_08.jpg",
    "cardPhotoBg": "100% 0% / 320% auto"
   },
   {

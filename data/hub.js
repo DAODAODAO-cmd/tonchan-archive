@@ -129,11 +129,6 @@ window.HUB = {
   ],
   "photos": [
    [
-    "2014–2016",
-    "assets/img/profile/2014.jpg",
-    "出道第二年，18岁"
-   ],
-   [
     "2016–2017",
     "assets/img/profile/2016.jpg",
     "刀舞、弱虫踏板那两年"
@@ -232,10 +227,9 @@ window.HUB = {
    "title": "电影《蓝色监狱》",
    "role": "马狼照英",
    "date": "2026/8/7 上映",
-   "image": "https://animeanime.jp/imgs/zoom/889762.jpg",
-   "imageNote": "电影场面照：马狼把对手撞倒那场（アニメ！アニメ！）",
-   "url": "https://bluelock-movie.jp/",
-   "imageBg": "69% 29% / auto 300%"
+   "image": "https://ogre.natalie.mu/media/news/eiga/2026/0609/bluelock-movie_202606_08.jpg",
+   "imageNote": "电影场面照：比赛中的马狼照英（映画ナタリー）",
+   "url": "https://bluelock-movie.jp/"
   },
   {
    "title": "《SWAN：Ballet cross Reading》",
