@@ -33639,7 +33639,7 @@ window.ARCHIVE = {
   },
   {
    "id": "BV1KC4q6XEFF",
-   "title": "刀ステ七周年感谢祭《夢語刀宴會》惊喜现身",
+   "title": "刀ステ七周年感谢祭《夢語刀宴會》客席里的东启介",
    "channel": "传说中的陌老板",
    "type": "节目／其他",
    "sourceType": "B站搬运",
@@ -33650,7 +33650,7 @@ window.ARCHIVE = {
    "thumbnail": "https://i0.hdslb.com/bfs/archive/64f219e0e7cf5b3d10eb160be859bcb3c6483b02.jpg",
    "playlists": [],
    "platform": "B站",
-   "rel": "B站搬运｜2023年8月幕张展览馆，东启介不在公布的出演名单里",
+   "rel": "B站搬运｜2023年8月幕张展览馆，他以观众身份坐在客席，被镜头拍到",
    "source": "https://www.bilibili.com/video/BV1KC4q6XEFF/",
    "uploadDate": "2026-11-06",
    "contentDate": "2023-08",
