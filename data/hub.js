@@ -438,16 +438,61 @@ window.HUB = {
   {
    "date": "2024-06-01",
    "title": "JBB Concert Tour 2024 巡演周边",
-   "status": "已结束",
-   "price": "亚马逊有套组在售，价格以页面为准",
-   "image": "https://m.media-amazon.com/images/I/812LI1TZCEL._AC_SL1500_.jpg",
+   "status": "官方BOOTH通贩",
+   "price": "场刊 3,000円 · T恤 3,000円 · 亚克力立牌 3,000円 · 扁平收纳盒 2,000円 · 镭射钥匙扣 1,500円 · 巾着托特 2,000円 · 环保袋 1,500円",
+   "image": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5962114/82347b6d-26ac-480d-b671-8bb5104674d7_base_resized.jpg",
    "points": [
-    "场刊（附原创托特包），收录四人对谈和幕后",
-    "巡演T恤（藏青，S–XL），在葛饰终场发售",
-    "亚克力立牌四人一套、扁平收纳盒"
+    "场刊30页B5，收录四人对谈和录音现场，附A4棉质托特包",
+    "亚克力立牌四人一套，底座是拼图式，可以换顺序",
+    "扁平收纳盒上的四只小熊分别以四个人为原型",
+    "T恤藏青色S–XL，巡演终场贩售；巾着托特为Hall场限定，环保袋为Billboard大阪·横浜限定"
    ],
-   "url": "https://www.amazon.co.jp/dp/B0FM71XNCV",
-   "publisher": "JBB（亚马逊套组，2025年8月上架）"
+   "url": "https://jbb2024.booth.pm/items",
+   "publisher": "JBB 官方 BOOTH",
+   "items": [
+    {
+     "t": "场刊（附托特包）",
+     "st": "缺货",
+     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961437/2b3b35ec-e5f1-4928-828c-0a231556d393_base_resized.jpg",
+     "u": "https://booth.pm/ja/items/5961437"
+    },
+    {
+     "t": "原创T恤",
+     "st": "缺货",
+     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/6204064/2c4888a3-0282-4d76-a2fb-b0e63621239d_base_resized.jpg",
+     "u": "https://booth.pm/ja/items/6204064"
+    },
+    {
+     "t": "亚克力立牌（4人1套）",
+     "st": "缺货",
+     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5962114/82347b6d-26ac-480d-b671-8bb5104674d7_base_resized.jpg",
+     "u": "https://booth.pm/ja/items/5962114"
+    },
+    {
+     "t": "扁平收纳盒",
+     "st": "有货",
+     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961517/9e3c3222-20e7-4d97-ac8a-97a806057714_base_resized.jpg",
+     "u": "https://booth.pm/ja/items/5961517"
+    },
+    {
+     "t": "镭射钥匙扣",
+     "st": "缺货",
+     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961867/e23a0083-1e94-4a7c-8bbc-49236316281f_base_resized.jpg",
+     "u": "https://booth.pm/ja/items/5961867"
+    },
+    {
+     "t": "Hall限定 巾着托特",
+     "st": "缺货",
+     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5962137/cdd1dd3d-805f-434b-9b4c-8167c7e8c621_base_resized.jpg",
+     "u": "https://booth.pm/ja/items/5962137"
+    },
+    {
+     "t": "Billboard限定 环保袋",
+     "st": "缺货",
+     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961882/d9a7085e-59ea-4cba-baa3-6f9b6e1c4b7e_base_resized.jpg",
+     "u": "https://booth.pm/ja/items/5961882"
+    }
+   ]
   },
   {
    "date": "2024-04-01",
