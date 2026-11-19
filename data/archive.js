@@ -29845,27 +29845,6 @@ window.ARCHIVE = {
    "available": true
   },
   {
-   "id": "BV19W411p76M",
-   "title": "【刀剑乱舞舞台剧】（烛夜）当165遇上186=最萌身高差",
-   "channel": "九朦凉",
-   "type": "演出／歌唱",
-   "sourceType": "转载",
-   "years": [
-    "2018"
-   ],
-   "url": "https://www.bilibili.com/video/BV19W411p76M/",
-   "thumbnail": "https://i2.hdslb.com/bfs/archive/607104024707d5ead7fba2bbfb4feb503ee65a7e.png",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.11.17补充",
-   "source": "https://www.bilibili.com/video/BV19W411p76M/",
-   "uploadDate": "2018-03-17",
-   "dateLabel": "2018.03.17 B站上传",
-   "asset": "",
-   "duration": "",
-   "available": true
-  },
-  {
    "id": "BV1btTn6FEfy",
    "title": "[字幕] Marigold 花絮",
    "channel": "Mina_na-na",
@@ -30807,25 +30786,6 @@ window.ARCHIVE = {
    "asset": ""
   },
   {
-   "id": "BV1FMtU6gEc9",
-   "title": "假面骑士魔王 岭高华武利扮演者东启介访谈",
-   "channel": "月亮是我的谎言",
-   "type": "采访／发布会",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV1FMtU6gEc9/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/e1158dcd5611f63039a9e381dda06d8a8f962c7b.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.09.02上传",
-   "source": "https://www.bilibili.com/video/BV1FMtU6gEc9/",
-   "uploadDate": "2026-09-02",
-   "dateLabel": "2026.09.02 B站上传",
-   "asset": ""
-  },
-  {
    "id": "BV1zQ8Q6WEte",
    "title": "【中日字幕】东启介(岭高华武利) 真人电影《蓝色监狱》迷你专访 饰 马狼照英【假面骑士麦斯】",
    "channel": "航海水上ライオン連合",
@@ -30956,25 +30916,6 @@ window.ARCHIVE = {
    "source": "https://www.bilibili.com/video/BV1r24y1v7HZ/",
    "uploadDate": "2023-01-01",
    "dateLabel": "2023.01.01 B站上传",
-   "asset": ""
-  },
-  {
-   "id": "BV11o4y1C7dM",
-   "title": "燭台切光忠 東啓介",
-   "channel": "兔子與奶茶",
-   "type": "节目／其他",
-   "sourceType": "B站搬运",
-   "years": [
-    "2021"
-   ],
-   "url": "https://www.bilibili.com/video/BV11o4y1C7dM/",
-   "thumbnail": "https://i2.hdslb.com/bfs/archive/96fa46164c5d77b486565a40e519b584fc9980eb.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2021.06.01上传",
-   "source": "https://www.bilibili.com/video/BV11o4y1C7dM/",
-   "uploadDate": "2021-06-01",
-   "dateLabel": "2021.06.01 B站上传",
    "asset": ""
   },
   {
@@ -31304,25 +31245,6 @@ window.ARCHIVE = {
    "asset": ""
   },
   {
-   "id": "BV17Uxe6ZESq",
-   "title": "假面骑士麦斯 岭高华武利扮演者东启介 假面骑士ZZZ 暗码编号:三扮演者玉城裕规合照",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV17Uxe6ZESq/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/c2677d4a366f322c51a61b37c26a7afc7a9b2636.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.10.30上传",
-   "source": "https://www.bilibili.com/video/BV17Uxe6ZESq/",
-   "uploadDate": "2026-10-30",
-   "dateLabel": "2026.10.30 B站上传",
-   "asset": ""
-  },
-  {
    "id": "BV1SGxj6bEro",
    "title": "【中日字幕】性感东东在线飞蛋，飞两次 东启介（岭高华武利）261025ins直播切片①",
    "channel": "蒜瓣烧鸟",
@@ -31361,158 +31283,6 @@ window.ARCHIVE = {
    "dateLabel": "2026.10.28 B站上传",
    "asset": "",
    "contentDate": "2026-10-25"
-  },
-  {
-   "id": "BV1gmHg6qEDH",
-   "title": "假面骑士麦斯 岭高华武利 东启介近照",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV1gmHg6qEDH/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/1c4660aacd6e637a680b88fb1f7c0d92ff41695e.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.10.25上传",
-   "source": "https://www.bilibili.com/video/BV1gmHg6qEDH/",
-   "uploadDate": "2026-10-25",
-   "dateLabel": "2026.10.25 B站上传",
-   "asset": ""
-  },
-  {
-   "id": "BV1VgnM6cEAr",
-   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV1VgnM6cEAr/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/eed345e3b0b74f60dc9e787f24ac2d984b7a0750.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.10.18上传",
-   "source": "https://www.bilibili.com/video/BV1VgnM6cEAr/",
-   "uploadDate": "2026-10-18",
-   "dateLabel": "2026.10.18 B站上传",
-   "asset": ""
-  },
-  {
-   "id": "BV1CZp56uEbH",
-   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文感谢大家收看今天的第6话！华武利这次真的好吓人。还有种子蛋……另外，番犬的骑士蛋，啊，究竟会变成什么样？敬请期待下一集",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV1CZp56uEbH/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/1225fa7dec8ae2c74659970706161f7c5b736818.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.10.11上传",
-   "source": "https://www.bilibili.com/video/BV1CZp56uEbH/",
-   "uploadDate": "2026-10-11",
-   "dateLabel": "2026.10.11 B站上传",
-   "asset": ""
-  },
-  {
-   "id": "BV1UpHz6jEkS",
-   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文 感谢大家收看第5话！下周第6话《变成老鹰先生吧！》敬请期待！by staff",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV1UpHz6jEkS/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/c21e18e6796880476e790fe7da3c5f46aaa6883a.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.10.04上传",
-   "source": "https://www.bilibili.com/video/BV1UpHz6jEkS/",
-   "uploadDate": "2026-10-04",
-   "dateLabel": "2026.10.04 B站上传",
-   "asset": ""
-  },
-  {
-   "id": "BV14Ta46NECv",
-   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文 感谢大家今天收看第4话！这一集里华武利对达臣有点严格呢。居然只给了40分……接下来会变成什么样呢？笑下周也敬请期待",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV14Ta46NECv/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/d19cdcec338f6ea14737510776ce2e82cefc7c9f.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.09.27上传",
-   "source": "https://www.bilibili.com/video/BV14Ta46NECv/",
-   "uploadDate": "2026-09-27",
-   "dateLabel": "2026.09.27 B站上传",
-   "asset": ""
-  },
-  {
-   "id": "BV1N6eY69EFW",
-   "title": "假面骑士麦斯 岭高华武利扮演者东启介推文 感谢大家本周也收看假面骑士麦斯 这次的十二支同盟是不是有点紧张感？狸断的战斗方式和缇虎的切磋也十分精彩呢 敬请期待下周",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV1N6eY69EFW/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/32c825b7c86e10f48f9238f710f38d0e3f603bb9.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.09.20上传",
-   "source": "https://www.bilibili.com/video/BV1N6eY69EFW/",
-   "uploadDate": "2026-09-20",
-   "dateLabel": "2026.09.20 B站上传",
-   "asset": ""
-  },
-  {
-   "id": "BV1PXYY6QEzm",
-   "title": "假面骑士麦斯 岭高华武利扮演者 东启介推文假面骑士麦斯感谢大家收看第2话！我个人感觉，恍惚间居然一周又过去了。已经迫不及待想看第3话了，哈哈。下周也请务必收看！",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV1PXYY6QEzm/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/64988f2dac688f8a18249764fc11d51ff5a249d0.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.09.13上传",
-   "source": "https://www.bilibili.com/video/BV1PXYY6QEzm/",
-   "uploadDate": "2026-09-13",
-   "dateLabel": "2026.09.13 B站上传",
-   "asset": ""
-  },
-  {
-   "id": "BV1z5tE6XET3",
-   "title": "假面骑士赤猫 岭高华武利扮演者东启介形象照",
-   "channel": "月亮是我的谎言",
-   "type": "SNS／直播",
-   "sourceType": "B站搬运",
-   "years": [
-    "2026"
-   ],
-   "url": "https://www.bilibili.com/video/BV1z5tE6XET3/",
-   "thumbnail": "https://i0.hdslb.com/bfs/archive/73309895cfa56878f05d385b3b4e525bd55fdfe0.jpg",
-   "playlists": [],
-   "platform": "B站",
-   "rel": "B站有｜2026.09.02上传",
-   "source": "https://www.bilibili.com/video/BV1z5tE6XET3/",
-   "uploadDate": "2026-09-02",
-   "dateLabel": "2026.09.02 B站上传",
-   "asset": ""
   },
   {
    "id": "BV15c4R6LEwU",
@@ -34964,26 +34734,6 @@ window.ARCHIVE = {
    "rel": "标题提及东启介｜2026.11.19补充",
    "source": "https://www.youtube.com/watch?v=v421u2kSe7k",
    "uploadDate": "2017-09-13",
-   "dateLabel": "2017 公开",
-   "asset": ""
-  },
-  {
-   "id": "42tJvi47MEM",
-   "title": "「2.5次元俳優」東啓介が初写真集",
-   "channel": "Jashua Gas hung",
-   "duration": "3:01",
-   "type": "采访／发布会",
-   "sourceType": "转载",
-   "years": [
-    "2017"
-   ],
-   "url": "https://www.youtube.com/watch?v=42tJvi47MEM",
-   "thumbnail": "https://i.ytimg.com/vi/42tJvi47MEM/hqdefault.jpg",
-   "playlists": [],
-   "platform": "YouTube",
-   "rel": "标题提及东启介｜2026.11.19补充",
-   "source": "https://www.youtube.com/watch?v=42tJvi47MEM",
-   "uploadDate": "2017-03-21",
    "dateLabel": "2017 公开",
    "asset": ""
   },
