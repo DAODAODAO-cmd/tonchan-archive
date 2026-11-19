@@ -1200,6 +1200,318 @@ window.HUB = {
     "L判4枚：三人各一张新拍的单人照，加一张三人合照"
    ],
    "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009863/"
+  },
+  {
+   "date": "2014-05-28",
+   "title": "音乐剧《网球王子》青学vs四天宝寺 原声CD",
+   "cat": "CD",
+   "price": "CD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/57/1/1/783.jpg",
+   "points": [
+    "饰千岁千里"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/5711783/"
+  },
+  {
+   "date": "2015-01-01",
+   "title": "音乐剧《网球王子》全国大会 青学vs立海 原声CD",
+   "cat": "CD",
+   "price": "CD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/60/6/9/580.jpg",
+   "points": [
+    "饰千岁千里"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/6069580/"
+  },
+  {
+   "date": "2015-03-04",
+   "title": "音乐剧《网球王子》Dream Live 2014 CD",
+   "cat": "CD",
+   "price": "CD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/61/4/8/340.jpg",
+   "points": [
+    "第二季最后一场DL"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/6148340/"
+  },
+  {
+   "date": "2015-12-23",
+   "title": "音乐剧《薄樱鬼》黎明录 原声CD",
+   "cat": "CD",
+   "price": "CD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/67/3/3/054.jpg",
+   "points": [
+    "饰原田左之助"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/6733054/"
+  },
+  {
+   "date": "2016-07-13",
+   "title": "舞台《飙速宅男》总北新世代，启动",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/69/4/1/917.jpg",
+   "points": [
+    "饰苇木场拓斗"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/6941917/"
+  },
+  {
+   "date": "2016-09-07",
+   "title": "舞台《刀剑乱舞》虚传 燃烧的本能寺",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
+   "points": [
+    "饰烛台切光忠"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/7049201/"
+  },
+  {
+   "date": "2017-02-22",
+   "title": "舞台《飙速宅男》箱根学园新世代，启动",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/73/4/9/900.jpg",
+   "points": [
+    "饰苇木场拓斗"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/7349900/"
+  },
+  {
+   "date": "2017-04-12",
+   "title": "舞台《刀剑乱舞》虚传 再演",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/75/0/2/924.jpg",
+   "points": [
+    "饰烛台切光忠"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/7502924/"
+  },
+  {
+   "date": "2017-07-19",
+   "title": "刀舞 蔵出し映像集 虚传再演篇",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/78/9/9/787.jpg",
+   "points": [
+    "后台花絮合集"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/7899787/"
+  },
+  {
+   "date": "2017-10-18",
+   "title": "舞台《刀剑乱舞》义传 黎明的独眼龙",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/79/3/7/351.jpg",
+   "points": [
+    "饰烛台切光忠"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/7937351/"
+  },
+  {
+   "date": "2017-11-29",
+   "title": "《2.5次元男子推しTV》BOX",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/81/6/4/898.jpg",
+   "points": [
+    "综艺节目合集"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/8164898/"
+  },
+  {
+   "date": "2017-12-20",
+   "title": "TRUMP系列《グランギニョル》",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/80/9/6/962.jpg",
+   "points": [
+    "饰李春林"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/8096962/"
+  },
+  {
+   "date": "2018-09-19",
+   "title": "摇滚音乐剧《5DAYS 边境的罗密欧与朱丽叶》",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/87/5/6/049.jpg",
+   "points": [
+    "饰哈瓦尔"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/8756049/"
+  },
+  {
+   "date": "2018-09-26",
+   "title": "刀舞 蔵出し映像集 义传／ジョ伝篇",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/88/8/5/823.jpg",
+   "points": [
+    "后台花絮合集"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/8885823/"
+  },
+  {
+   "date": "2018-10-31",
+   "title": "舞台《刀剑乱舞》悲传 结之目的不如归",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg",
+   "points": [
+    "饰烛台切光忠"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/8885834/"
+  },
+  {
+   "date": "2018-11-28",
+   "title": "TRUMP系列 音乐剧《Marigold》",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/91/2/1/002.jpg",
+   "points": [
+    "饰科利乌斯；2021年出过Blu-ray复刻版"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/9121002/"
+  },
+  {
+   "date": "2018-12-19",
+   "title": "刀舞 悲传 密着纪录片 导演剪辑版",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/90/4/0/567.jpg",
+   "points": [
+    "幕后纪录"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/9040567/"
+  },
+  {
+   "date": "2019-03-20",
+   "title": "动画电影《薄墨樱 -GARO-》",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/95/2/6/762.jpg",
+   "points": [
+    "为时丸配音"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/9526762/"
+  },
+  {
+   "date": "2020-01-22",
+   "title": "刀舞 蔵出し映像集 悲传篇",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/0000102/3/1/719.jpg",
+   "points": [
+    "后台花絮合集"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/10231719/"
+  },
+  {
+   "date": "2021-08-25",
+   "title": "《我家女儿交不到男朋友!!》BOX",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/0000117/0/8/572.jpg",
+   "points": [
+    "饰涉周一"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/11708572/"
+  },
+  {
+   "date": "2022-04-20",
+   "title": "剧场版 舞台《刀剑乱舞》虚传",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/0000125/2/6/082.jpg",
+   "points": [
+    "剧场上映版"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/12526082/"
+  },
+  {
+   "date": "2022-07-27",
+   "title": "《Fight Song》BOX",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/0000127/6/5/618.jpg",
+   "points": [
+    "饰乌丸薰"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/12765618/"
+  },
+  {
+   "date": "2023-02-15",
+   "title": "剧场版 舞台《刀剑乱舞》悲传",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/800/0000133/4/7/401.jpg",
+   "points": [
+    "剧场上映版"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/13347401/"
+  },
+  {
+   "date": "2024-05-22",
+   "title": "JBB《JBB Concert 2023》",
+   "cat": "CD",
+   "price": "CD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/0000148/5/8/426.jpg",
+   "points": [
+    "JBB第一张现场CD"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/14858426/"
+  },
+  {
+   "date": "2025-08-20",
+   "title": "JBB《JBB Concert 2024 in Tokyo》",
+   "cat": "CD",
+   "price": "CD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/0000161/2/9/155.jpg",
+   "points": [
+    "2024巡演东京场"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/16129155/"
+  },
+  {
+   "date": "2025-12-10",
+   "title": "电影《大叔的内裤穿什么都行吧！》",
+   "cat": "影像",
+   "price": "Blu-ray / DVD",
+   "publisher": "HMV",
+   "image": "https://img.hmv.co.jp/image/jacket/400/0000162/5/3/617.jpg",
+   "points": [
+    "饰砂川圆"
+   ],
+   "url": "https://www.hmv.co.jp/product/detail/16253617/"
   }
  ],
  "channels": {
