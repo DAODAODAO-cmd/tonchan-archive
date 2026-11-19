@@ -80,12 +80,18 @@ footer a{color:var(--sage)}
 
 .tabbar{display:none}
 @media (max-width:720px){
-  body{padding-bottom:calc(70px + env(safe-area-inset-bottom))}
-  .tabbar{display:flex;position:fixed;left:12px;right:12px;bottom:calc(10px + env(safe-area-inset-bottom));z-index:60;background:rgba(255,253,249,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid #ece3d6;border-radius:22px;box-shadow:0 8px 28px rgba(120,96,70,.16);padding:6px;justify-content:space-between}
-  .tabbar a{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;border-radius:16px;color:#8d847a;text-decoration:none;font-size:11px;line-height:1.2}
-  .tabbar a i{font-style:normal;font-size:18px;line-height:1}
-  .tabbar a small{font-size:8px;letter-spacing:.08em;opacity:.6}.tabbar a.main{background:#7f9c88;color:#fff;margin:0 2px}
-  .tabbar a.on{color:#3b3631;font-weight:600}
+  body{padding-bottom:calc(76px + env(safe-area-inset-bottom))}
+  .tabbar{display:flex;position:fixed;left:14px;right:14px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:60;background:rgba(255,253,249,.94);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid #efe6da;border-radius:26px;box-shadow:0 10px 30px rgba(120,96,70,.14);padding:6px;gap:2px}
+  .tabbar a{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;height:52px;border-radius:20px;color:#9a9086;text-decoration:none;font-size:10.5px;letter-spacing:.04em;transition:background .2s,color .2s}
+  .tabbar svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+  .tabbar a.on{color:#3b3631;background:#f3ece2}
+  .tabbar a.main{flex:1.15;background:#7f9c88;color:#fff;box-shadow:0 4px 12px rgba(127,156,136,.35)}
+  header.h h1 .en{display:none}
+  body[data-g=all] .cats{display:none}
+  header.h{padding-top:20px}
+  .chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin:0 -14px;padding:2px 14px 4px;width:calc(100% + 28px)}.chips::-webkit-scrollbar{display:none}
+  .chips button{flex:none;white-space:nowrap}
+  .tools{flex-direction:column;align-items:stretch;gap:8px}.tools input{min-width:0}
 }
 .vl{margin:6px 0 0;padding-left:0;list-style:none;max-height:220px;overflow:auto}.vl li{margin:3px 0;font-size:12px}.vl a{color:inherit;text-decoration:underline dotted}
 .h h1 .en{display:block;font-size:11px;letter-spacing:.2em;color:var(--muted,#9a8f84);font-weight:500;margin-bottom:4px;order:-1}</style>
@@ -105,8 +111,8 @@ footer a{color:var(--sage)}
   <main id="out"></main>
 </div>
 <footer><div class="wrap">东启介资讯站 · 非官方 · <a href="archive.html">旧版档案</a></div></footer>
-<script src="data/archive.js?v=1119h"></script>
-<script src="data/hub.js?v=1119h"></script>
+<script src="data/archive.js?v=1119i"></script>
+<script src="data/hub.js?v=1119i"></script>
 <script>
 'use strict';
 const A=window.ARCHIVE,H=window.HUB,$=id=>document.getElementById(id);
@@ -146,7 +152,7 @@ function grouped(list,render,asc,wrapCls){const ys={};list.forEach(x=>{const y=(
   $('years').innerHTML=keys.map(y=>'<a href="#y'+y+'">'+y+'</a>').join('');
   return keys.map(y=>'<section id="y'+y+'"><div class="year"><h2>'+y+'</h2><span>'+ys[y].length+' 条</span></div>'+(wrapCls==='tl'?'<ul class="tl">'+ys[y].map(render).join('')+'</ul>':'<div class="'+wrapCls+'">'+ys[y].map(render).join('')+'</div>')+'</section>').join('')}
 const VT={'全部':null,'本人歌唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访·发布会':['采访／发布会'],'节目·综艺':['节目／其他'],'SNS·直播':['SNS／直播'],'剧集cut':['剧集cut'],'幕后·花絮':['幕后／拍摄'],'预告·宣传':['预告／宣传','官网视频'],'广播':['广播／音声']};
-function draw(){let html='';$('chips').innerHTML='';$('chips2').innerHTML='';$('years').innerHTML='';
+function draw(){document.body.dataset.g=g;document.querySelectorAll('.tabbar a[data-g]').forEach(a=>a.classList.toggle('on',a.dataset.g===g&&!a.classList.contains('main')));let html='';$('chips').innerHTML='';$('chips2').innerHTML='';$('years').innerHTML='';
   if(g==='news'){$('desc').textContent='按时间从新到旧。';const L=H.news.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>match(n.title+n.text));html='<ul class="news">'+L.map(n=>'<li><time>'+fmt(n.date)+'</time><div><a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('')+'</ul>'}
   else if(g==='videos'){
     $('chips').innerHTML=Object.keys(VT).map(x=>'<button class="'+(x===vt?'on':'')+'" data-vt="'+x+'">'+x+'</button>').join('');
@@ -163,7 +169,7 @@ document.addEventListener('error',e=>{if(e.target.tagName==='IMG')e.target.style
 draw();
 if(location.hash){setTimeout(()=>{const el=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(el)el.scrollIntoView({block:'center'})},200)}
 </script>
-<nav class="tabbar" aria-label="快捷导航"><a href="index.html"><i>⌂</i>首页<small>HOME</small></a><a data-g="schedule" href="list.html?g=schedule"><i>◷</i>日程<small>SCHEDULE</small></a><a class="main" data-g="all" href="list.html?g=all"><i>☰</i>编年<small>ARCHIVE</small></a><a data-g="videos" href="list.html?g=videos"><i>▷</i>视频<small>VIDEO</small></a><a data-g="mag" href="list.html?g=mag"><i>❏</i>杂志<small>MAGAZINE</small></a></nav>
+<nav class="tabbar" aria-label="快捷导航"><a href="index.html"><svg viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5"/><path d="M6.5 10v9h11v-9"/></svg><span>首页</span></a><a data-g="schedule" href="list.html?g=schedule"><svg viewBox="0 0 24 24"><rect x="4" y="5.5" width="16" height="14" rx="3"/><path d="M4 10h16M9 3.5v4M15 3.5v4"/></svg><span>日程</span></a><a class="main" data-g="all" href="list.html?g=all"><svg viewBox="0 0 24 24"><path d="M6 4.5h12M6 9.5h12M6 14.5h12M6 19.5h8"/></svg><span>编年</span></a><a data-g="videos" href="list.html?g=videos"><svg viewBox="0 0 24 24"><rect x="3.5" y="6" width="17" height="12" rx="3"/><path d="M10.5 9.5v5l4-2.5z"/></svg><span>视频</span></a><a data-g="mag" href="list.html?g=mag"><svg viewBox="0 0 24 24"><path d="M6 4.5h9l3 3v12H6z"/><path d="M9 10h6M9 14h6"/></svg><span>杂志</span></a></nav>
 <script>(function(){var g=new URLSearchParams(location.search).get('g')||'all';document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){if(a.dataset.g===g&&!a.classList.contains('main'))a.classList.add('on')});document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){a.addEventListener('click',function(e){if(window.go){e.preventDefault();history.replaceState(null,'',a.href);window.go(a.dataset.g)}})})})();</script>
 <script src="assets/visit.js" defer></script>
 </body>

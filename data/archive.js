@@ -1451,7 +1451,7 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "WILL",
    "workRoma": "ANOTHER WORLD",
-   "roleName": "Will",
+   "roleName": "威尔",
    "cardPoster": "assets/img/roles/e12_poster.jpg",
    "cardPhoto": "https://www.clie.asia/CSL-AW/images/cast/higashi2.png"
   },
@@ -3743,7 +3743,7 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "WILL",
    "workRoma": "EXTRA INVITATION",
-   "roleName": "Will",
+   "roleName": "威尔",
    "cardPoster": "https://ogre.natalie.mu/media/news/stage/2017/0831/slazy_visual.jpg"
   },
   {
@@ -14123,7 +14123,7 @@ window.ARCHIVE = {
    ],
    "roleRoma": "YOUNGER BROTHER",
    "workRoma": "RAGTIME",
-   "roleName": "Younger Brother",
+   "roleName": "弟弟",
    "cardPhoto": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg"
   },
   {

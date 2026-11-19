@@ -255,6 +255,25 @@ footer p{margin:4px 0}
   .sheet-card a{display:flex;flex-direction:column;gap:2px;padding:14px 16px;border-radius:16px;background:#f7f1e9;color:#3b3631;text-decoration:none;font-size:15px}
   .sheet-card a small{font-size:9px;letter-spacing:.14em;color:#a59a8e}
   @keyframes up{from{transform:translateY(16px);opacity:0}to{transform:none;opacity:1}}
+  /* 手机：统一只用中文，去掉英文小标 */
+  .sec-head h2 em,.sheet-card a small,.hero h1 small .en{display:none}
+  .sec-head{align-items:center;margin-bottom:14px}
+  .sec-head h2{font-size:23px}
+  .sub-head{margin:32px 0 12px}.sub-head h3{font-size:19px}
+  section.sec{padding:26px 0}
+  .hero h1 small{font-size:14px;letter-spacing:.3em;margin-top:8px}
+  /* 筛选按钮：一行横滑，不换行 */
+  .filters,.tabs{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin-left:-16px;margin-right:-16px;padding:2px 16px 4px;scroll-padding:16px}
+  .filters::-webkit-scrollbar,.tabs::-webkit-scrollbar{display:none}
+  .filters button,.tabs button{flex:none;white-space:nowrap}
+  .news-wrap>*,.wrap>*{min-width:0}
+  .tabs button{padding:7px 14px;font-size:13px}
+  /* 作品、视频：两列 */
+  .works{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  .w .b{padding:10px 11px 12px}.w b{font-size:13px;line-height:1.45}.w .meta,.w .r{font-size:11px}
+  .vids{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  .v .b{padding:9px 10px 11px}.v b{font-size:12.5px}.v small{font-size:10.5px}
+  .goods{gap:14px}
 }
 
 /* 饰演角色 */
@@ -372,8 +391,8 @@ footer p{margin:4px 0}
   <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
-<script src="data/archive.js?v=1119h"></script>
-<script src="data/hub.js?v=1119h"></script>
+<script src="data/archive.js?v=1119i"></script>
+<script src="data/hub.js?v=1119i"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -388,7 +407,7 @@ const tagHtml=t=>{const c=tagColor[t]||['--bg2','#7a7067'];return '<span class="
 /* hero */
 const P=H.profile;
 $('kana').textContent=P.kana;
-$('name').innerHTML=esc(P.name)+'<small>'+esc(P.nameJa)+' · KEISUKE HIGASHI</small>';
+$('name').innerHTML=esc(P.name)+'<small>'+esc(P.nameJa)+'<span class="en"> · KEISUKE HIGASHI</span></small>';
 $('tagline').textContent=P.tagline.split('。')[0]+'。';
 $('heroChips').innerHTML=[['生日','7/14'],['身高','190cm'],['书道','六段'],['爱好','钢琴 · 摄影'],['所属','Watanabe Ent.']].map(([a,b])=>'<span class="chip">'+a+' <b>'+b+'</b></span>').join('');
 const yearsActive=new Date(today).getFullYear()-2013;
