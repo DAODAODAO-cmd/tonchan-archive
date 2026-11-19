@@ -1462,24 +1462,73 @@ window.HUB = {
    "title": "岭高华武利 猫 尾戒",
    "price": "8,250円（含税）",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256614_1.jpg",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_1.jpg",
    "points": [
     "剧中华武利戴的细款猫戒指",
     "9/6开订，11/10起又开了一轮受注"
    ],
-   "url": "https://p-bandai.jp/item/item-1000256614/"
+   "url": "https://p-bandai.jp/item/item-1000256614/",
+   "items": [
+    {
+     "t": "正面",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_1.jpg"
+    },
+    {
+     "t": "侧面",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_2.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_2.jpg"
+    },
+    {
+     "t": "细节",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_3.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_3.jpg"
+    },
+    {
+     "t": "佩戴",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_4.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_4.jpg"
+    },
+    {
+     "t": "包装",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_5.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_5.jpg"
+    }
+   ]
   },
   {
    "date": "2026-09-06",
    "title": "岭高华武利 猫眼戒指",
    "price": "13,230円（含税）",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256611_1.jpg",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_1.jpg",
    "points": [
     "戒面是黑底猫剪影的那款",
     "和尾戒同一批开订"
    ],
-   "url": "https://p-bandai.jp/item/item-1000256611/"
+   "url": "https://p-bandai.jp/item/item-1000256611/",
+   "items": [
+    {
+     "t": "正面",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_1.jpg"
+    },
+    {
+     "t": "侧面",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_2.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_2.jpg"
+    },
+    {
+     "t": "细节",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_3.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_3.jpg"
+    },
+    {
+     "t": "佩戴",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_4.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_4.jpg"
+    }
+   ]
   },
   {
    "date": "2026-08-28",
@@ -1491,7 +1540,24 @@ window.HUB = {
     "黑底，印的是Maou",
     "Premium Bandai 受注"
    ],
-   "url": "https://p-bandai.jp/item/item-1000256283/"
+   "url": "https://p-bandai.jp/item/item-1000256283/",
+   "items": [
+    {
+     "t": "正面",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_1.jpg"
+    },
+    {
+     "t": "细节",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_2.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_2.jpg"
+    },
+    {
+     "t": "背面",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_3.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_3.jpg"
+    }
+   ]
   },
   {
    "date": "2026-09-04",
@@ -2182,31 +2248,45 @@ window.HUB = {
      "t": "紫色 上身",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_7.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_7.jpg"
+    },
+    {
+     "t": "徽章（另售）",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_1.jpg"
     }
    ]
   },
   {
-   "title": "十二支 饰品系列（含猫）",
+   "title": "十二支 饰品系列（项链 · 戒指 · 耳饰）",
    "date": "2026-09-30",
    "price": "项链5,500円 · 戒指13,200円 · 耳饰6,600円",
    "publisher": "Premium Bandai",
-   "image": "https://www.kamen-rider-official.com/uploads/news_article/s3_main_image/3267/212b1846-b9d5-4a00-ad1d-e2abb82a1a6c.jpg",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_1.jpg",
    "points": [
-    "以Ride Exs的纹样做的金色饰品，十二支各一款"
+    "以Ride Exs纹样做的金色饰品，十二支各一款（没有猫）",
+    "同系列的斗篷外套徽章也是这套图案"
    ],
    "url": "https://www.kamen-rider-official.com/news_articles/3267",
    "items": [
     {
      "t": "项链",
-     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image1/3243/0825864d-2685-4b8c-8ac6-8a4460e9a812.jpg"
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_1.jpg"
+    },
+    {
+     "t": "项链佩戴",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_4.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_4.jpg"
     },
     {
      "t": "戒指",
-     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image2/3243/f21b57a5-ef7b-44f8-86f9-542fd8550879.jpg"
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_1.jpg"
     },
     {
      "t": "耳饰",
-     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image3/3243/2c5b9bb4-eb63-407b-8239-f81c121b60fc.jpg"
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_1.jpg"
     }
    ]
   },
@@ -2241,6 +2321,35 @@ window.HUB = {
     {
      "t": "雪花球",
      "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/%E5%8D%81%E5%91%A8%E5%B9%B4_%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88%E3%82%99%E3%83%BC%E3%83%A0.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Hero T恤 附限定Ride Exs（Maou款）",
+   "date": "2026-11",
+   "price": "",
+   "publisher": "Premium Bandai",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_3.jpg",
+   "points": [
+    "每件附一颗限定配色的Ride Exs",
+    "骑士各一款，Maou是红色那件"
+   ],
+   "url": "",
+   "items": [
+    {
+     "t": "全系列",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_1.jpg"
+    },
+    {
+     "t": "Maou款",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_3.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_3.jpg"
+    },
+    {
+     "t": "附带的Ride Exs",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_12.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_12.jpg"
     }
    ]
   }
