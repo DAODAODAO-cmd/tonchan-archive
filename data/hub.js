@@ -753,7 +753,8 @@ window.HUB = {
     "Amazon · 乐天：限定封面版",
     "7net：亲笔签名版（发售日后发货）",
     "Animate通贩：附生写真1张",
-    "发售纪念活动：1/10 涩谷 SHIBUYA TSUTAYA · 1/17 池袋 HMVエソラ · 1/24 新宿 Book First（各13:00起，网上申请）"
+    "发售纪念活动：1/10 涩谷 SHIBUYA TSUTAYA · 1/17 池袋 HMVエソラ · 1/24 新宿 Book First（各13:00起，网上申请）",
+    "活动特典：ぷくぷく（立体泡泡）贴纸，10/30 官方X公开设计样本"
    ],
    "url": "https://zasshi.tv/products/62295/"
   },
