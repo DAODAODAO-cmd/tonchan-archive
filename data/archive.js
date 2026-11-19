@@ -12803,7 +12803,7 @@ window.ARCHIVE = {
    "videos": [
     {
      "id": "kdBhr7ock2k",
-     "title": "官网嵌入宣传视频",
+     "title": "舞台『二次会のひとたち』ダイジェスト映像",
      "url": "https://www.youtube.com/watch?v=kdBhr7ock2k",
      "sourceType": "官方作品页／官方频道",
      "source": "https://nijikai-stage.com/"
@@ -12823,6 +12823,10 @@ window.ARCHIVE = {
     {
      "title": "【plus a限定】舞台『二次会のひとたち』建て込み映像",
      "url": "https://www.youtube.com/watch?v=ID3qJ-zoXh4"
+    },
+    {
+     "title": "舞台『二次会のひとたち』スポット映像",
+     "url": "https://www.youtube.com/watch?v=ILH73RRkqBo"
     }
    ],
    "pending": false,
@@ -24993,7 +24997,7 @@ window.ARCHIVE = {
     "東啓介 2023 二次会のひとたち"
    ],
    "sourceType": "官方／机构",
-   "type": "演出／歌唱",
+   "type": "预告／宣传",
    "url": "https://www.youtube.com/watch?v=kdBhr7ock2k",
    "years": [
     "2023"
@@ -34582,6 +34586,27 @@ window.ARCHIVE = {
    "platform": "YouTube",
    "asset": "",
    "uploadDate": "2026-10-24"
+  },
+  {
+   "id": "ILH73RRkqBo",
+   "title": "舞台『二次会のひとたち』スポット映像",
+   "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ILH73RRkqBo/hqdefault.jpg",
+   "playlists": [
+    "東啓介 2023 二次会のひとたち"
+   ],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=ILH73RRkqBo",
+   "years": [
+    "2023"
+   ],
+   "rel": "官网映像页｜2026.11.19补充",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2023-04-19"
   }
  ],
  "playlists": [
