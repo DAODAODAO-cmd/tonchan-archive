@@ -10027,7 +10027,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://natalie.mu/stage/news/460875",
-   "note": "",
+   "note": "2022年1月28日 東京・LINE CUBE SHIBUYA（渋谷公会堂），一夜限定的音乐剧演唱会；另有电影院直播、Hulu生配信，1月31日起CS电视首播。出演：中川晃教、加藤和树、知念里奈、田代万里生、藤冈正明、尾上右近、花村想太、木下晴香、铃木胜吾、平野良、东启介等。东启介与加藤和树合唱《伊丽莎白》「闇が広がる」（加藤饰死神、东饰鲁道夫）、与加藤・铃木胜吾・平野良唱「サ・イラ・モナムール」，并参与《泽西男孩》2022阵容的公开献唱。宣传期他还去探访了舞台虚拟形象（Avatar）的制作现场。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
@@ -10045,6 +10045,27 @@ window.ARCHIVE = {
      "source": "https://www.youtube.com/watch?v=SFJZONd-R7s",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/0131/JMF2022main.jpg",
+     "caption": "出演者",
+     "source": "https://natalie.mu/stage/news/463796",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/0107/GB_DSC_5908.jpg",
+     "caption": "JB歌唱排练：东启介（左）、藤冈正明",
+     "source": "https://natalie.mu/stage/news/460875",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2022/0107/JB_DSC_5867.jpg",
+     "caption": "JB歌唱排练：左起东启介、藤冈正明、中川晃教、花村想太、山野靖博",
+     "source": "https://natalie.mu/stage/news/460875",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -10055,6 +10076,26 @@ window.ARCHIVE = {
     {
      "title": "《闇が広がる》加藤和树×东启介（B站）",
      "url": "https://www.bilibili.com/video/BV1cU4y1o78H/"
+    },
+    {
+     "title": "官方「見どころ」：东启介探访Avatar制作现场",
+     "url": "https://www.youtube.com/watch?v=ipOleGhvZ24"
+    },
+    {
+     "title": "取材会：泽西男孩2022阵容献唱＆访谈（エンタステージ）",
+     "url": "https://www.youtube.com/watch?v=_drewNkamYQ"
+    },
+    {
+     "title": "官方预告",
+     "url": "https://www.youtube.com/watch?v=68JpcZXOmfQ"
+    },
+    {
+     "title": "全场录像（B站）",
+     "url": "https://www.bilibili.com/video/BV1y3411P71n/"
+    },
+    {
+     "title": "「サ・イラ・モナムール」加藤和树・东启介・铃木胜吾・平野良（B站）",
+     "url": "https://www.bilibili.com/video/BV13Y4y1q7K3/"
     }
    ],
    "biliLinks": [
@@ -33452,6 +33493,82 @@ window.ARCHIVE = {
    "uploadDate": "2022-06-05",
    "dateLabel": "2022.06.05 B站上传",
    "contentDate": "2022-05-24",
+   "asset": ""
+  },
+  {
+   "id": "ipOleGhvZ24",
+   "title": "Japan Musical Festival 2022 見どころ（东启介探访Avatar制作现场）",
+   "channel": "musical jmf",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.youtube.com/watch?v=ipOleGhvZ24",
+   "thumbnail": "https://i.ytimg.com/vi/ipOleGhvZ24/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "Japan Musical Festival 2022",
+   "source": "https://www.youtube.com/watch?v=ipOleGhvZ24",
+   "uploadDate": "2021-12-19",
+   "dateLabel": "2021.12.19",
+   "asset": ""
+  },
+  {
+   "id": "_drewNkamYQ",
+   "title": "『Japan Musical Festival 2022』取材会でジャージー・ボーイズお披露目トーク",
+   "channel": "エンタステージ",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.youtube.com/watch?v=_drewNkamYQ",
+   "thumbnail": "https://i.ytimg.com/vi/_drewNkamYQ/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "Japan Musical Festival 2022",
+   "source": "https://www.youtube.com/watch?v=_drewNkamYQ",
+   "uploadDate": "2022-01-12",
+   "dateLabel": "2022.01.12",
+   "asset": ""
+  },
+  {
+   "id": "BV1y3411P71n",
+   "title": "日本音乐剧音乐节 JMF2022 全场",
+   "channel": "木吉蜜柑",
+   "type": "演出／歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/video/BV1y3411P71n/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "Japan Musical Festival 2022",
+   "source": "https://www.bilibili.com/video/BV1y3411P71n/",
+   "uploadDate": "2022-05-04",
+   "dateLabel": "2022.05.04",
+   "asset": ""
+  },
+  {
+   "id": "BV13Y4y1q7K3",
+   "title": "【JMF2022】サ・イラ・モナムール（加藤和树、东启介、铃木胜吾、平野良）",
+   "channel": "白家阿墨",
+   "type": "演出／歌唱",
+   "sourceType": "B站搬运",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.bilibili.com/video/BV13Y4y1q7K3/",
+   "thumbnail": "",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "Japan Musical Festival 2022",
+   "source": "https://www.bilibili.com/video/BV13Y4y1q7K3/",
+   "uploadDate": "2022-03-26",
+   "dateLabel": "2022.03.26",
    "asset": ""
   }
  ],
