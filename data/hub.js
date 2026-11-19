@@ -1624,54 +1624,6 @@ window.HUB = {
    "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009863/"
   },
   {
-   "date": "2014-05-28",
-   "title": "音乐剧《网球王子》青学vs四天宝寺 原声CD",
-   "cat": "CD",
-   "price": "CD",
-   "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/61BLElXP+WL._AC_SL500_.jpg",
-   "points": [
-    "饰千岁千里"
-   ],
-   "url": "https://www.hmv.co.jp/product/detail/5711783/"
-  },
-  {
-   "date": "2015-01-01",
-   "title": "音乐剧《网球王子》全国大会 青学vs立海 原声CD",
-   "cat": "CD",
-   "price": "CD",
-   "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/71+14ATpt1L._AC_SL500_.jpg",
-   "points": [
-    "饰千岁千里"
-   ],
-   "url": "https://www.hmv.co.jp/product/detail/6069580/"
-  },
-  {
-   "date": "2015-03-04",
-   "title": "音乐剧《网球王子》Dream Live 2014 CD",
-   "cat": "CD",
-   "price": "CD",
-   "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/71KEqkKpDNL._AC_SL500_.jpg",
-   "points": [
-    "第二季最后一场DL"
-   ],
-   "url": "https://www.hmv.co.jp/product/detail/6148340/"
-  },
-  {
-   "date": "2015-12-23",
-   "title": "音乐剧《薄樱鬼》黎明录 原声CD",
-   "cat": "CD",
-   "price": "CD",
-   "publisher": "",
-   "image": "https://www.marv.jp/special/m-hakuoki-harada/images/disco/reimeiroku_cd.jpg",
-   "points": [
-    "饰原田左之助"
-   ],
-   "url": "https://www.marv.jp/special/m-hakuoki-harada/disco.html"
-  },
-  {
    "date": "2016-07-13",
    "title": "舞台《飙速宅男》总北新世代，启动",
    "cat": "影像",
@@ -1686,14 +1638,27 @@ window.HUB = {
   {
    "date": "2016-09-07",
    "title": "舞台《刀剑乱舞》虚传 燃烧的本能寺",
-   "cat": "影像",
-   "price": "Blu-ray / DVD",
-   "publisher": "",
+   "cat": "影像·CD",
+   "price": "Blu-ray / DVD ＋ 原声CD",
+   "publisher": "Marvelous",
    "image": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
    "points": [
-    "饰烛台切光忠"
+    "饰烛台切光忠",
+    "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/7049201/"
+   "url": "https://www.hmv.co.jp/product/detail/7049201/",
+   "items": [
+    {
+     "t": "影像 2016.09.07",
+     "img": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
+     "href": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg"
+    },
+    {
+     "t": "原声CD 2017.01.25",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/刀ステサントラCD-1024x1010.jpg",
+     "href": "https://www.stage-toukenranbu.jp/music/kyoden"
+    }
+   ]
   },
   {
    "date": "2017-02-22",
@@ -1734,14 +1699,27 @@ window.HUB = {
   {
    "date": "2017-10-18",
    "title": "舞台《刀剑乱舞》义传 黎明的独眼龙",
-   "cat": "影像",
-   "price": "Blu-ray / DVD",
-   "publisher": "",
+   "cat": "影像·CD",
+   "price": "Blu-ray / DVD ＋ 原声CD",
+   "publisher": "Marvelous",
    "image": "https://img.hmv.co.jp/image/jacket/800/79/3/7/351.jpg",
    "points": [
-    "饰烛台切光忠"
+    "饰烛台切光忠",
+    "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/7937351/"
+   "url": "https://www.hmv.co.jp/product/detail/7937351/",
+   "items": [
+    {
+     "t": "影像 2017.10.18",
+     "img": "https://img.hmv.co.jp/image/jacket/800/79/3/7/351.jpg",
+     "href": "https://img.hmv.co.jp/image/jacket/800/79/3/7/351.jpg"
+    },
+    {
+     "t": "原声CD 2017.11.29",
+     "img": "https://m.media-amazon.com/images/I/71Sngd-VSbL._AC_SL500_.jpg",
+     "href": "https://www.stage-toukenranbu.jp/music/giden"
+    }
+   ]
   },
   {
    "date": "2017-11-29",
@@ -1794,14 +1772,27 @@ window.HUB = {
   {
    "date": "2018-10-31",
    "title": "舞台《刀剑乱舞》悲传 结之目的不如归",
-   "cat": "影像",
-   "price": "Blu-ray / DVD",
-   "publisher": "",
+   "cat": "影像·CD",
+   "price": "Blu-ray / DVD ＋ 原声CD",
+   "publisher": "Marvelous",
    "image": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg",
    "points": [
-    "饰烛台切光忠"
+    "饰烛台切光忠",
+    "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/8885834/"
+   "url": "https://www.hmv.co.jp/product/detail/8885834/",
+   "items": [
+    {
+     "t": "影像 2018.10.31",
+     "img": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg",
+     "href": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg"
+    },
+    {
+     "t": "原声CD 2018.11.28",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/悲伝OST_CD-1024x1013.jpg",
+     "href": "https://www.stage-toukenranbu.jp/music/hiden"
+    }
+   ]
   },
   {
    "date": "2018-11-28",
@@ -1938,51 +1929,99 @@ window.HUB = {
   {
    "date": "2014-05-28",
    "title": "音乐剧《网球王子》青学vs四天宝寺",
-   "cat": "影像",
-   "price": "DVD 8,800円+税",
+   "cat": "影像·CD",
+   "price": "DVD 8,800円+税 ＋ 原声CD",
    "publisher": "Marvelous",
    "image": "https://www.marv.jp/uploads/title/728/main.jpg",
    "points": [
     "饰千岁千里，他的出道作"
    ],
-   "url": "https://www.marv.jp/titles/st/882/"
+   "url": "https://www.marv.jp/titles/st/882/",
+   "items": [
+    {
+     "t": "影像 2014.05.28",
+     "img": "https://www.marv.jp/uploads/title/728/main.jpg",
+     "href": "https://www.marv.jp/titles/st/882/"
+    },
+    {
+     "t": "原声CD 2014.05.28",
+     "img": "https://m.media-amazon.com/images/I/61BLElXP+WL._AC_SL500_.jpg",
+     "href": "https://m.media-amazon.com/images/I/61BLElXP+WL._AC_SL500_.jpg"
+    }
+   ]
   },
   {
    "date": "2014-12-26",
    "title": "音乐剧《网球王子》全国大会 青学vs立海",
-   "cat": "影像",
-   "price": "DVD 3枚组",
+   "cat": "影像·CD",
+   "price": "DVD 3枚组 ＋ 原声CD",
    "publisher": "Marvelous",
    "image": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72095/dvd_2nd_2014rikkai.jpg",
    "points": [
     "饰千岁千里",
     "DVD发售活动的登台名单里有他"
    ],
-   "url": "https://www.tennimu.com/discography/tennimu/second/mjbd-72095/"
+   "url": "https://www.tennimu.com/discography/tennimu/second/mjbd-72095/",
+   "items": [
+    {
+     "t": "影像 2014.12.26",
+     "img": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72095/dvd_2nd_2014rikkai.jpg",
+     "href": "https://www.tennimu.com/discography/tennimu/second/mjbd-72095/"
+    },
+    {
+     "t": "原声CD 2015.01.01",
+     "img": "https://m.media-amazon.com/images/I/71+14ATpt1L._AC_SL500_.jpg",
+     "href": "https://m.media-amazon.com/images/I/71+14ATpt1L._AC_SL500_.jpg"
+    }
+   ]
   },
   {
    "date": "2015-02-27",
    "title": "音乐剧《网球王子》Dream Live 2014",
-   "cat": "影像",
-   "price": "DVD 2枚组",
+   "cat": "影像·CD",
+   "price": "DVD 2枚组 ＋ 原声CD",
    "publisher": "Marvelous",
    "image": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72096/dvd_2nd_dl2014.jpg",
    "points": [
     "第二季毕业DL，收录后台和日替影像"
    ],
-   "url": "https://www.tennimu.com/discography/tennimu/second/mjbd-72096/"
+   "url": "https://www.tennimu.com/discography/tennimu/second/mjbd-72096/",
+   "items": [
+    {
+     "t": "影像 2015.02.27",
+     "img": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72096/dvd_2nd_dl2014.jpg",
+     "href": "https://www.tennimu.com/discography/tennimu/second/mjbd-72096/"
+    },
+    {
+     "t": "原声CD 2015.03.04",
+     "img": "https://m.media-amazon.com/images/I/71KEqkKpDNL._AC_SL500_.jpg",
+     "href": "https://m.media-amazon.com/images/I/71KEqkKpDNL._AC_SL500_.jpg"
+    }
+   ]
   },
   {
    "date": "2015-10-26",
    "title": "音乐剧《薄樱鬼》黎明录",
-   "cat": "影像",
-   "price": "DVD 8,800円+税",
+   "cat": "影像·CD",
+   "price": "DVD 8,800円+税 ＋ 原声CD",
    "publisher": "Marvelous",
    "image": "https://www.marv.jp/uploads/title/742/main.jpg",
    "points": [
     "饰原田左之助"
    ],
-   "url": "https://www.marv.jp/titles/st/888/"
+   "url": "https://www.marv.jp/titles/st/888/",
+   "items": [
+    {
+     "t": "影像 2015.10.26",
+     "img": "https://www.marv.jp/uploads/title/742/main.jpg",
+     "href": "https://www.marv.jp/titles/st/888/"
+    },
+    {
+     "t": "原声CD 2015.12.23",
+     "img": "https://www.marv.jp/special/m-hakuoki-harada/images/disco/reimeiroku_cd.jpg",
+     "href": "https://www.marv.jp/special/m-hakuoki-harada/disco.html"
+    }
+   ]
   },
   {
    "date": "2017-07-19",
@@ -2011,14 +2050,26 @@ window.HUB = {
   {
    "date": "2016-11-30",
    "title": "《Club SLAZY -Another World-》",
-   "cat": "影像",
-   "price": "DVD",
+   "cat": "影像·CD",
+   "price": "DVD ＋ 原声CD",
    "publisher": "CLIE",
    "image": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg",
    "points": [
     "饰Will"
    ],
-   "url": "https://www.amazon.co.jp/dp/B01I9G01YG"
+   "url": "https://www.amazon.co.jp/dp/B01I9G01YG",
+   "items": [
+    {
+     "t": "影像 2016.11.30",
+     "img": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg",
+     "href": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg"
+    },
+    {
+     "t": "原声CD 2016.11.30",
+     "img": "https://m.media-amazon.com/images/I/61FbxCeUPHL._AC_SL500_.jpg",
+     "href": "https://m.media-amazon.com/images/I/61FbxCeUPHL._AC_SL500_.jpg"
+    }
+   ]
   },
   {
    "date": "2017-08-23",
@@ -2056,57 +2107,6 @@ window.HUB = {
     "作词作曲蝶々P"
    ],
    "url": "https://www.youtube.com/watch?v=orJz2nBzkAs"
-  },
-  {
-   "title": "舞台《刀剑乱舞》虚传 燃烧的本能寺 原声CD",
-   "date": "2017-01-25",
-   "price": "",
-   "publisher": "Marvelous",
-   "image": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/刀ステサントラCD-1024x1010.jpg",
-   "points": [
-    "2枚组：剧中BGM＋剧中歌现场音源",
-    "东启介饰演燭台切光忠"
-   ],
-   "url": "https://www.stage-toukenranbu.jp/music/kyoden",
-   "cat": "CD"
-  },
-  {
-   "title": "舞台《刀剑乱舞》义传 黎明的独眼龙 原声CD",
-   "date": "2017-11-29",
-   "price": "",
-   "publisher": "Marvelous",
-   "image": "https://m.media-amazon.com/images/I/71Sngd-VSbL._AC_SL500_.jpg",
-   "points": [
-    "2枚组：剧中BGM＋剧中歌现场音源",
-    "东启介饰演燭台切光忠"
-   ],
-   "url": "https://www.stage-toukenranbu.jp/music/giden",
-   "cat": "CD"
-  },
-  {
-   "title": "舞台《刀剑乱舞》悲传 结之目的不如归 原声CD",
-   "date": "2018-11-28",
-   "price": "",
-   "publisher": "Marvelous",
-   "image": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/悲伝OST_CD-1024x1013.jpg",
-   "points": [
-    "2枚组：剧中BGM＋剧中歌现场音源",
-    "东启介饰演燭台切光忠"
-   ],
-   "url": "https://www.stage-toukenranbu.jp/music/hiden",
-   "cat": "CD"
-  },
-  {
-   "title": "《Club SLAZY -Another World-》原声CD",
-   "date": "2016-11-30",
-   "price": "",
-   "publisher": "CLIE",
-   "image": "https://m.media-amazon.com/images/I/61FbxCeUPHL._AC_SL500_.jpg",
-   "points": [
-    "东启介饰演Will"
-   ],
-   "url": "",
-   "cat": "CD"
   },
   {
    "title": "1st DVD《東啓介、南へ行く。》",
