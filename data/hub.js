@@ -148,7 +148,37 @@ window.HUB = {
     "https://web.archive.org/web/20251124192748id_/https://www.watanabepro.co.jp/img/profile/10000062.jpg",
     "现在的官方照"
    ]
-  ]
+  ],
+  "calligraphy": {
+   "image": "https://m.media-amazon.com/images/I/81oA3IWoE9L._AC_SL500_.jpg",
+   "imageNote": "1st DVD封面，标题字是他自己写的",
+   "items": [
+    [
+     "2017",
+     "1st DVD《東啓介、南へ行く。》封面上的标题字，本人亲笔",
+     "list.html?g=all#dvd_minami",
+     ""
+    ],
+    [
+     "每月",
+     "WE官方生写真4张里有1张是亲笔留言或小画",
+     "https://7net.omni7.jp/detail/2190053499.html",
+     ""
+    ],
+    [
+     "2025.12",
+     "FC企划「今年的汉字」：写下代表2025年的一个字",
+     "https://x.com/keisuke_higashi/status/2006260846020985033",
+     "会员内容 请自行订阅"
+    ],
+    [
+     "2025.12",
+     "FC会员抽选11人，送亲笔贺年卡",
+     "https://x.com/keisuke_higashi/status/2003483698029822439",
+     "会员内容 请自行订阅"
+    ]
+   ]
+  }
  },
  "now": [
   {

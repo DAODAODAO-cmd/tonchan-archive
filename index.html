@@ -183,7 +183,7 @@ section.sec{padding:34px 0}
 .facts dt{color:var(--muted)}
 .facts dd{margin:0}
 .nick{margin-top:18px;padding-top:16px;border-top:1px dashed var(--line);font-size:13px;color:var(--muted)}
-.skills{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.cal{display:flex;gap:16px;align-items:flex-start;margin-top:14px;padding:18px}.cal img{width:96px;border-radius:10px;flex:none}.cal h4{margin:0 0 6px;font-family:var(--serif);font-size:16px}.cal ul{margin:0;padding-left:18px;font-size:13px;line-height:1.7}.cal li b{color:var(--muted);font-weight:500;margin-right:4px}.cal a{color:inherit}.cal .fc{font-size:11px;color:#b0673f;border:1px solid #e8c9b5;border-radius:999px;padding:0 6px;white-space:nowrap}.cal small{color:var(--muted);font-size:11px}.skills{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
 .sk{padding:16px 18px;border-radius:20px;display:flex;gap:12px}
 .sk i{flex:none;font-style:normal;width:40px;height:40px;border-radius:14px;display:grid;place-items:center;font-family:var(--serif);font-size:18px}
 .sk b{display:block;font-size:14.5px}
@@ -346,6 +346,7 @@ footer p{margin:4px 0}
   <div class="prof">
     <div class="card facts"><dl id="facts"></dl><div class="nick" id="nick"></div></div>
     <div class="skills" id="skills"></div>
+    <div class="card cal" id="calli"></div>
   </div>
   <div class="card ms"><h3 style="font-family:var(--serif);margin:0 0 14px;font-size:17px">经历小记</h3><ol id="milestones"></ol><div class="src" id="profSrc"></div></div>
 </div>
@@ -444,6 +445,7 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-pf]');if(b
 $('facts').innerHTML=P.facts.map(([a,b])=>'<dt>'+esc(a)+'</dt><dd>'+esc(b)+'</dd>').join('');
 $('nick').innerHTML='爱称：'+P.nicknames.map(esc).join('、')+'（“とんすけ”出自网球王子音乐剧共演的佐藤流司）';
 const skc=['--peach-soft','--sage-soft','--sky-soft','--lav-soft','--butter-soft','--rose-soft'];
+{const C=P.calligraphy;if(C){$('calli').innerHTML='<img src="'+esc(C.image)+'" alt="'+esc(C.imageNote)+'" loading="lazy"><div><h4>书道作品</h4><ul>'+C.items.map(([d,t,u,fc])=>'<li><b>'+esc(d)+'</b> <a href="'+esc(u)+'"'+(/^http/.test(u)?' target="_blank" rel="noopener noreferrer"':'')+'>'+esc(t)+'</a>'+(fc?' <span class="fc">'+esc(fc)+'</span>':'')+'</li>').join('')+'</ul><small>'+esc(C.imageNote)+'</small></div>'}else $('calli').remove()}
 $('skills').innerHTML=P.skills.map((s,i)=>'<div class="card sk"><i style="background:var('+skc[i%6]+')">'+esc(s.icon)+'</i><div><b>'+esc(s.title)+'</b><p>'+esc(s.text)+'</p></div></div>').join('');
 $('milestones').innerHTML=P.milestones.map(([y,t])=>'<li><b>'+esc(y)+'</b><span>'+esc(t)+'</span></li>').join('');
 $('profSrc').innerHTML='资料来源：'+P.sources.map(([t,u])=>ext(u,t)).join('');
