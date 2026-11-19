@@ -597,7 +597,24 @@ window.HUB = {
     "会场单卖：亚克力卡850円、文件夹500円、生写真5枚1,000円"
    ],
    "url": "https://matisowa.jp/5170/",
-   "publisher": "产经新闻社 Matisowa"
+   "publisher": "产经新闻社 Matisowa",
+   "items": [
+    {
+     "t": "亚克力卡（2种）",
+     "img": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods2.jpg",
+     "href": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods2.jpg"
+    },
+    {
+     "t": "A4文件夹",
+     "img": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods1.jpg",
+     "href": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods1.jpg"
+    },
+    {
+     "t": "生写真（预约6枚）",
+     "img": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods3.jpg",
+     "href": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods3.jpg"
+    }
+   ]
   },
   {
    "date": "2022-11-14",
