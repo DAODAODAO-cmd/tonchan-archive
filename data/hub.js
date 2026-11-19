@@ -1587,7 +1587,7 @@ window.HUB = {
   {
    "date": "2026-11-14",
    "title": "Rider Hero Series 重涂装版（假面骑士Maou）",
-   "price": "",
+   "price": "2,530円",
    "publisher": "假面骑士商店",
    "image": "https://pbs.twimg.com/media/HXIcutVbsAASbNl?format=jpg&name=large",
    "points": [
