@@ -10927,6 +10927,10 @@ window.ARCHIVE = {
     {
      "title": "东启介相关：采访＋排练（B站，3P）",
      "url": "https://www.bilibili.com/video/BV1w14y1v7Qz/"
+    },
+    {
+     "title": "官方X：观众振付讲座（讲师：东启介、有泽樟太郎）2022.10.6",
+     "url": "https://x.com/JerseyBoysJP/status/1577916083331162113"
     }
    ],
    "pending": false,
@@ -20119,6 +20123,25 @@ window.ARCHIVE = {
   }
  ],
  "videos": [
+  {
+   "id": "x1577916083331162113",
+   "title": "《泽西男孩》2022 观众振付讲座｜讲师：东启介＆有泽樟太郎",
+   "channel": "JerseyBoysJP（官方X）",
+   "type": "幕后／拍摄",
+   "sourceType": "官方／机构",
+   "years": [
+    "2022"
+   ],
+   "url": "https://x.com/JerseyBoysJP/status/1577916083331162113",
+   "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1577912638935162881/pu/img/FytVS-M0rQI8KYzS.jpg",
+   "playlists": [],
+   "platform": "X",
+   "rel": "官方X｜预演开幕前，两位鲍勃·高迪奥教观众跳编舞",
+   "source": "https://x.com/JerseyBoysJP/status/1577916083331162113",
+   "uploadDate": "2022-10-06",
+   "dateLabel": "2022.10.06 官方X",
+   "asset": ""
+  },
   {
    "id": "BV1tU4y1p7JS",
    "title": "《ZIP!》2021.2.26 东启介部分",
