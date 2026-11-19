@@ -1738,7 +1738,13 @@ window.ARCHIVE = {
    "status": "",
    "origin": "PR TIMES",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/2689/resize/d7006-2689-646494-1.jpg",
+     "caption": "封面：宫崎秋人×东启介",
+     "source": "https://prtimes.jp/main/html/rd/p/000002689.000007006.html"
+    }
+   ],
    "videos": [],
    "kind": "magazine"
   },
@@ -4082,7 +4088,13 @@ window.ARCHIVE = {
    "status": "发布方原文已定位",
    "origin": "2026.11.18补充",
    "dateKind": "文章发布日期（发布方元数据）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.stagegate.jp/stagegate/performance/2018/5days/img/main_img.jpg",
+     "caption": "作品海报（采访原图已失效）",
+     "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "文章",
@@ -8757,7 +8769,13 @@ window.ARCHIVE = {
    "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/7988/resize/d7006-7988-389067-0.jpg",
+     "caption": "本期封面（东启介新连载从这期开始）",
+     "source": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
