@@ -9616,7 +9616,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "官方X：つま好きダンス 櫻井海音×东启介ver.（第8话播出日）",
+     "url": "https://x.com/tx_tsumarisuki/status/1463433446794330112"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
@@ -14502,6 +14507,10 @@ window.ARCHIVE = {
     {
      "title": "完结撒花 九州大汉抱得美人归（B站中字）",
      "url": "https://www.bilibili.com/video/BV1gq421A7hq/"
+    },
+    {
+     "title": "FANTASTICS官方X：中岛飒太×东启介 最终回告知视频",
+     "url": "https://x.com/fantastics_fext/status/1768993360709300693"
     }
    ],
    "pending": false,
@@ -14877,7 +14886,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://zasshi.tv/products/35361/",
-   "note": "3,300日元（含税）· B4，附明信片2种＋透明文件夹。发售纪念活动：涩谷／池袋。",
+   "note": "3,300日元（含税）· B4，附明信片2种＋透明文件夹。发售纪念活动：涩谷／池袋。 2024年1月12日发表，2月29日发售，32页，可当大开本写真集。收录橙色针织、街头风、不对称黑色套装、粉×金西装、神社和服约会感、蓝色水中画面等。TVガイドWeb：https://www.tvguide.or.jp/news/news-2659764/",
    "status": "出版社官网确认",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
@@ -14886,6 +14895,20 @@ window.ARCHIVE = {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_cover_02.jpg",
      "caption": "东京新闻通信社官网封面",
      "source": "https://zasshi.tv/products/35361/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://www.tvguide.or.jp/wp/wp-content/uploads/2024/01/pnews_240112_02_01.jpg",
+     "caption": "日历书照片",
+     "source": "https://www.tvguide.or.jp/news/news-2659764/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://www.tvguide.or.jp/wp/wp-content/uploads/2024/01/pnews_240112_02_02.jpg",
+     "caption": "日历书照片",
+     "source": "https://www.tvguide.or.jp/news/news-2659764/",
      "asset": "",
      "resolution": ""
     }
@@ -16104,7 +16127,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://books.rakuten.co.jp/rb/18060821/",
-   "note": "另有增刊特别版；东启介、有泽樟太郎、甲斐翔真、松下优也。",
+   "note": "另有增刊特别版；东启介、有泽樟太郎、甲斐翔真、松下优也。 2423号：四人各自单人采访＋查理组、劳拉组双卡对谈。anan官方X：https://x.com/anan_mag/status/1859154722306798025",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
@@ -16120,6 +16143,13 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1143/4910204891143_1_2.jpg",
      "caption": "anan増刊 スペシャルエディション 封面",
      "source": "https://books.rakuten.co.jp/rb/18060822/"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/Gc0LXZzXgAAuz7_?format=jpg&name=large",
+     "caption": "anan官方X：内页预览",
+     "source": "https://x.com/anan_mag/status/1859154722306798025",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -16897,7 +16927,7 @@ window.ARCHIVE = {
    "crew": "导演／编舞：杰里·米切尔",
    "key": "kinky",
    "url": "https://www.fujitv.co.jp/events/stage/kinkyboots/index.html",
-   "note": "",
+   "note": " 2024年6月21日主演发表当天，事务所官方X发布他来事务所的照片：https://x.com/WatanabeEnt/status/1804065936887943392",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
@@ -16927,6 +16957,27 @@ window.ARCHIVE = {
      "url": "https://theatergirl.jp/wp-content/uploads/2025/04/batch_IMG_6112.jpg",
      "caption": "剧照：查理",
      "source": "THEATER GIRL"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GQlUVCyakAEYn7h?format=jpg&name=large",
+     "caption": "主演发表当天来事务所（ワタナベ官方X）",
+     "source": "https://x.com/WatanabeEnt/status/1804065936887943392",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GQlUVCyakAAqH7N?format=jpg&name=large",
+     "caption": "主演发表当天来事务所（ワタナベ官方X）",
+     "source": "https://x.com/WatanabeEnt/status/1804065936887943392",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/GQlUVCybMAAzFZ8?format=jpg&name=large",
+     "caption": "主演发表当天来事务所（ワタナベ官方X）",
+     "source": "https://x.com/WatanabeEnt/status/1804065936887943392",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -19819,7 +19870,16 @@ window.ARCHIVE = {
      "resolution": "1890 × 1260"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "官方X：写真集拍摄花絮（メイキングムービー）2026.11.8",
+     "url": "https://x.com/TVguidePERSON/status/2119228631981658419"
+    },
+    {
+     "title": "官方X：活动特典ぷくぷく贴纸设计样本 2026.10.30",
+     "url": "https://x.com/TVguidePERSON/status/2116093633686598001"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -20123,6 +20183,63 @@ window.ARCHIVE = {
   }
  ],
  "videos": [
+  {
+   "id": "x2119228631981658419",
+   "title": "最新写真集（暂定名）拍摄花絮",
+   "channel": "TVguidePERSON（官方X）",
+   "type": "幕后／拍摄",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://x.com/TVguidePERSON/status/2119228631981658419",
+   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2119228569931112448/img/sZ0b-xuDpCaa9NOI.jpg",
+   "playlists": [],
+   "platform": "X",
+   "rel": "TVガイドPERSON官方X｜2027年1月8日发售写真集的メイキング",
+   "source": "https://x.com/TVguidePERSON/status/2119228631981658419",
+   "uploadDate": "2026-11-08",
+   "dateLabel": "2026.11.08 X",
+   "asset": ""
+  },
+  {
+   "id": "x1768993360709300693",
+   "title": "《おっパン》最终回告知：中岛飒太×东启介",
+   "channel": "fantastics_fext（官方X）",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2024"
+   ],
+   "url": "https://x.com/fantastics_fext/status/1768993360709300693",
+   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/1768993307055853568/img/W0soHx0r3RxxXtvk.jpg",
+   "playlists": [],
+   "platform": "X",
+   "rel": "FANTASTICS官方X｜大地×円先辈",
+   "source": "https://x.com/fantastics_fext/status/1768993360709300693",
+   "uploadDate": "2024-03-16",
+   "dateLabel": "2024.03.16 X",
+   "asset": ""
+  },
+  {
+   "id": "x1463433446794330112",
+   "title": "《也就是说，我喜欢你。》つま好きダンス 樱井海音×东启介ver.",
+   "channel": "tx_tsumarisuki（官方X）",
+   "type": "幕后／拍摄",
+   "sourceType": "官方／机构",
+   "years": [
+    "2021"
+   ],
+   "url": "https://x.com/tx_tsumarisuki/status/1463433446794330112",
+   "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1463433348471468032/pu/img/snajAWxg-smc-UKv.jpg",
+   "playlists": [],
+   "platform": "X",
+   "rel": "官方X｜片尾舞蹈，第8话播出当天",
+   "source": "https://x.com/tx_tsumarisuki/status/1463433446794330112",
+   "uploadDate": "2021-11-24",
+   "dateLabel": "2021.11.24 X",
+   "asset": ""
+  },
   {
    "id": "x1577916083331162113",
    "title": "《泽西男孩》2022 观众振付讲座｜讲师：东启介＆有泽樟太郎",
