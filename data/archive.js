@@ -21462,6 +21462,25 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "origin": "2026.11.19补充"
+  },
+  {
+   "id": "mag_tvs2626",
+   "date": "2026-12-02",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV station》2026年26号｜东启介专访",
+   "japanese": "TVstation 2026年26号（東 啓介 インタビュー）",
+   "role": "",
+   "url": "https://tvstation.jp/",
+   "note": "12月2日发售，有东启介的专访。目录和封面还没公布。",
+   "status": "预定",
+   "origin": "2026.11.19 用户补充",
+   "dateKind": "发售日",
+   "images": [],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   }
  ],
  "videos": [

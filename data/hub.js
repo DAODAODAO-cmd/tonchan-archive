@@ -130,22 +130,22 @@ window.HUB = {
   "photos": [
    [
     "2014–2016",
-    "https://web.archive.org/web/20140303150722id_/https://www.watanabepro.co.jp/img/profile/10000062.jpg",
+    "assets/img/profile/2014.jpg",
     "出道第二年，18岁"
    ],
    [
     "2016–2017",
-    "https://web.archive.org/web/20160307090733id_/https://www.watanabepro.co.jp/img/profile/10000062.jpg",
+    "assets/img/profile/2016.jpg",
     "刀舞、弱虫踏板那两年"
    ],
    [
     "2017–2020",
-    "https://web.archive.org/web/20170628202742id_/https://www.watanabepro.co.jp/img/profile/10000062.jpg",
+    "assets/img/profile/2017.jpg",
     "用得最久的一张"
    ],
    [
     "2021–2025",
-    "https://web.archive.org/web/20210127082739id_/https://www.watanabepro.co.jp/img/profile/10000062.jpg",
+    "assets/img/profile/2021.jpg",
     "身高改成190cm的同一时期换上"
    ],
    [
