@@ -1015,18 +1015,24 @@ window.HUB = {
   },
   {
    "id": "we_bromide_all",
-   "date": "2026-08-01",
+   "date": "2026-11-01",
    "title": "WE官方生写真 历月一览",
    "status": "已结束",
    "price": "每月4张一套（L判）",
-   "image": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg",
+   "image": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
    "points": [
-    "7net官方商品图，每月一张四张合拍，共50个月",
+    "7net官方商品图，每月一张四张合拍，共51个月",
+    "不是每个月都有他：2026年10月阵容里没有他",
     "点小图看大图"
    ],
    "url": "list.html?g=goods",
    "publisher": "WE SHOP／ワタナベ商店",
    "items": [
+    {
+     "t": "2026.11",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg"
+    },
     {
      "t": "2026.08",
      "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg",
