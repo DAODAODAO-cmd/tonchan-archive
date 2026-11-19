@@ -19343,11 +19343,9 @@ window.ARCHIVE = {
    "dateKind": "配信开始日",
    "images": [
     {
-     "url": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
-     "caption": "作品海报",
-     "source": "https://www.tv-asahi.co.jp/my-th/",
-     "asset": "",
-     "resolution": "780×462"
+     "url": "https://i.ytimg.com/vi/HiW6nsnVHo8/maxresdefault.jpg",
+     "caption": "第七话 スパダリ検定～嶺髙華武利編～",
+     "source": "东映特摄 YouTube"
     },
     {
      "url": "https://i.ytimg.com/vi/jkqp4qMS_Zg/maxresdefault.jpg",
