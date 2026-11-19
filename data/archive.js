@@ -15889,7 +15889,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.watanabepro.co.jp/liveinfo/19072/",
-   "note": "I’M A SHOW，15:00／19:00。",
+   "note": "I’M A SHOW，15:00／19:00，音乐监督深泽惠梨香。嘉宾：《DEATH TAKES A HOLIDAY》共演的内藤大希（独唱《So Close》，与东启介合唱HY《366日》）。曲目包括：Let It Sing（VIOLET）、Corner of the Sky（PIPPIN）、Cry for Me（泽西男孩）、Go the Distance、ハクナ・マタタ、自由を求めて（Wicked）、有心论（RADWIMPS）、Beautiful（Christina Aguilera）、本人作词新曲《ものがたり》、Automatic（宇多田光）、丸の内サディスティック（椎名林檎），正篇以原创曲《こえ》收尾，安可《陽ざしの中へ》（钟楼怪人）。Natalie现场报道：https://natalie.mu/stage/news/597399",
    "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
@@ -15907,6 +15907,27 @@ window.ARCHIVE = {
      "source": "https://www.watanabepro.co.jp/liveinfo/19072/",
      "asset": "3d336b8f10129cc8",
      "resolution": "1200 × 630"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/1030/Automatic.jpg",
+     "caption": "演唱《Automatic》",
+     "source": "https://natalie.mu/stage/news/597399",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/1030/366nichi.jpg",
+     "caption": "与内藤大希合唱《366日》",
+     "source": "https://natalie.mu/stage/news/597399",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/1030/yushinron.jpg",
+     "caption": "演唱《有心論》",
+     "source": "https://natalie.mu/stage/news/597399",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
