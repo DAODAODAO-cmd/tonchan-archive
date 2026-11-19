@@ -165,5 +165,6 @@ if(location.hash){setTimeout(()=>{const el=document.getElementById(decodeURIComp
 </script>
 <nav class="tabbar" aria-label="快捷导航"><a href="index.html"><i>⌂</i>首页<small>HOME</small></a><a data-g="schedule" href="list.html?g=schedule"><i>◷</i>日程<small>SCHEDULE</small></a><a class="main" data-g="all" href="list.html?g=all"><i>☰</i>编年<small>ARCHIVE</small></a><a data-g="videos" href="list.html?g=videos"><i>▷</i>视频<small>VIDEO</small></a><a data-g="mag" href="list.html?g=mag"><i>❏</i>杂志<small>MAGAZINE</small></a></nav>
 <script>(function(){var g=new URLSearchParams(location.search).get('g')||'all';document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){if(a.dataset.g===g&&!a.classList.contains('main'))a.classList.add('on')});document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){a.addEventListener('click',function(e){if(window.go){e.preventDefault();history.replaceState(null,'',a.href);window.go(a.dataset.g)}})})})();</script>
+<script src="assets/visit.js" defer></script>
 </body>
 </html>
