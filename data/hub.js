@@ -154,7 +154,7 @@ window.HUB = {
   {
    "title": "舞台《刀剑乱舞》陽伝 月亮、太阳与繁星",
    "ja": "舞台『刀剣乱舞』陽伝 月と太陽と星々よ",
-   "role": "烛台切光忠",
+   "role": "烛台切光忠（燭台切光忠・しょくだいきり みつただ）",
    "kind": "舞台 · 前后编二部作",
    "image": "https://stage-toukenranbu.jp/wp-content/uploads/2026/07/05%E3%80%90WEB%E3%80%91%E2%98%85toustayou_CV_shokudaikiri.jpg",
    "imageNote": "官网角色视觉：烛台切光忠",
@@ -188,7 +188,7 @@ window.HUB = {
   {
    "title": "《假面骑士麦斯》",
    "ja": "仮面ライダーマイス",
-   "role": "岭高华武利（みねたか・かむり）／假面骑士Maou",
+   "role": "岭高华武利（嶺高華武利・みねたか かむり）／假面骑士Maou（仮面ライダーマオウ）",
    "kind": "电视剧 · 朝日电视台系列",
    "image": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
    "imageNote": "朝日电视台官网角色图",
@@ -217,7 +217,7 @@ window.HUB = {
  "recent": [
   {
    "title": "舞台《王者天下Ⅱ：继承》",
-   "role": "庞煖",
+   "role": "庞煖（龐煖・ほうけん）",
    "date": "2026/8/9–10/13",
    "image": "https://www.tohostage.com/kingdom2/images/gallery_solo_higashi.jpg",
    "imageNote": "官网舞台剧照",
@@ -225,7 +225,7 @@ window.HUB = {
   },
   {
    "title": "电影《蓝色监狱》",
-   "role": "马狼照英",
+   "role": "马狼照英（馬狼照英・ばろう しょうえい）",
    "date": "2026/8/7 上映",
    "image": "https://bluelock-movie.jp/assets/img/cast/cast-face4-5.jpg",
    "imageNote": "官网角色公式照：马狼照英",
@@ -233,7 +233,7 @@ window.HUB = {
   },
   {
    "title": "《SWAN：Ballet cross Reading》",
-   "role": "草壁飞翔",
+   "role": "草壁飞翔（草壁飛翔・くさかべ つばさ）",
    "date": "2026/9/4–9/9",
    "image": "https://swan-balletcrossreading.com/images/top/cast_img3-1.jpg",
    "imageNote": "官网演员照",
