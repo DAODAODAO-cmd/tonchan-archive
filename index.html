@@ -107,7 +107,7 @@ section.sec{padding:34px 0}
 .ev.live .dt .m{color:#b45d6c}
 
 /* news */
-.news-wrap{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:22px;align-items:start}
+.news-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:22px;align-items:start}
 .filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
 .filters button{border:0;background:var(--card);padding:6px 14px;border-radius:999px;font-size:12.5px;color:var(--muted);box-shadow:0 1px 2px rgba(0,0,0,.05)}
 .filters button.on{background:var(--ink);color:#fff}
@@ -314,10 +314,6 @@ footer p{margin:4px 0}
       <div class="filters" id="newsFilters"></div>
       <ul class="news card" id="newsList"></ul>
     </div>
-    <aside class="card side-card">
-      <h3>最近的杂志与采访</h3>
-      <ul class="mini" id="miniMedia"></ul>
-    </aside>
   </div>
 </div></section>
 
@@ -407,11 +403,9 @@ const up=A.events.filter(e=>e.date>=today||(e.end&&e.end>=today)).filter(e=>!/�
 $('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="list.html?g=all#'+esc(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese)+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
 
 /* news */
-const NEWS=H.news.filter(n=>!['杂志','采访'].includes(n.tag));const tags=['全部',...new Set(NEWS.map(n=>n.tag))];let curTag='全部';
+const SHOPRE=/amazon\.|rakuten|mercari|fujisan|hmv\.co|7net|suruga|yahoo|tower\.jp/;const NEWS=H.news.filter(n=>!['杂志','采访'].includes(n.tag)).concat(A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today&&e.date>=H.news.map(n=>n.date).sort()[0]).map(e=>({date:e.date,tag:e.category==='杂志'?'杂志':'采访',title:e.title,text:'',url:SHOPRE.test(e.url||'')?'list.html?g=all#'+e.id:e.url})));const tags=['全部',...new Set(NEWS.map(n=>n.tag))];let curTag='全部';
 function drawNews(){$('newsList').innerHTML=NEWS.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,8).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
 $('newsFilters').onclick=e=>{const b=e.target.closest('button');if(b){curTag=b.dataset.t;drawNews()}};drawNews();
-const media=A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,6);
-$('miniMedia').innerHTML=media.map(e=>'<li><a href="'+esc(/amazon\.|rakuten|mercari|fujisan|hmv\.co|7net|suruga|yahoo|tower\.jp/.test(e.url||'')?'list.html?g=all#'+e.id:e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.title)+'</a><small>'+fmt(e.date)+' · '+esc(e.category)+'</small></li>').join('');
 
 /* works：按类别分组 */
 const groups=[
