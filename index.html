@@ -361,9 +361,7 @@ footer p{margin:4px 0}
 </main>
 
 <footer><div class="wrap">
-  <p>东启介资讯站 · 粉丝自制 · 非官方</p>
-  <p>图片只用官方公开的剧照、海报和宣传图，并标注出处；版权归原权利人所有。全文与视频请到原发布页阅读、观看。</p>
-  <p id="footUpdated"></p>
+  <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
 <script src="data/archive.js"></script>
@@ -390,7 +388,7 @@ $('heroStats').innerHTML=[[A.events.length,'条编年记录'],[A.videos.length,'
 
 /* hero slides */
 (function(){const S=[['2025–','assets/img/hero-30th-afterglow.jpg'],...(P.photos||[]).slice(0,-1).reverse().map(x=>[x[0],x[1]])];const box=$('heroSlides');box.innerHTML='<div class="htrack">'+S.map(([y,u],k)=>'<figure><img src="'+esc(u)+'" alt="东启介 '+esc(y)+'"'+(k?' loading="lazy"':'')+'><span class="hy">'+esc(y)+'</span></figure>').join('')+'</div>';const tr=box.firstChild;let cur=0,t;const dots=$('heroDots');dots.innerHTML=S.map((_,k)=>'<button aria-label="第'+(k+1)+'张"></button>').join('');const go=k=>{cur=(k+S.length)%S.length;tr.scrollTo({left:cur*tr.clientWidth,behavior:'smooth'});mark()};const mark=()=>[...dots.children].forEach((b,k)=>b.classList.toggle('on',k===cur));const auto=()=>{clearInterval(t);t=setInterval(()=>go(cur+1),4500)};dots.onclick=e=>{const b=e.target.closest('button');if(b){go([...dots.children].indexOf(b));auto()}};tr.addEventListener('scroll',()=>{const k=Math.round(tr.scrollLeft/tr.clientWidth);if(k!==cur){cur=k;mark()}},{passive:true});tr.addEventListener('pointerdown',()=>clearInterval(t));mark();auto();})();
-$('footUpdated').textContent='最后更新 '+fmt(H.updated);
+
 
 /* now */
 $('nowGrid').innerHTML=H.now.map(n=>'<article class="card now"><div class="img">'+(n.image?'<img src="'+esc(n.image)+'" alt="'+esc(n.title)+'" loading="lazy">':'')+(n.imageNote?'<div class="imgnote">'+esc(n.imageNote)+'</div>':'')+'</div><div class="body"><span class="badge live">'+esc(n.kind)+'</span><h3>'+esc(n.title)+'</h3><p class="ja">'+esc(n.ja)+'</p><p class="role">饰 '+esc(n.role)+'</p><ul class="lines">'+n.lines.map(l=>'<li>'+esc(l)+'</li>').join('')+'</ul>'+(n.note?'<p class="note">'+esc(n.note)+'</p>':'')+'<div class="lk">'+n.links.map(([t,u])=>ext(u,t+' ↗')).join('')+'</div></div></article>').join('');

@@ -1297,11 +1297,11 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/719Brv1SOiL._AC_SL500_.jpg",
+   "image": "https://www.marv.jp/special/m-hakuoki-harada/images/disco/reimeiroku_cd.jpg",
    "points": [
     "饰原田左之助"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/6733054/"
+   "url": "https://www.marv.jp/special/m-hakuoki-harada/disco.html"
   },
   {
    "date": "2016-07-13",
@@ -1629,23 +1629,23 @@ window.HUB = {
    "url": "https://www.marv.jp/titles/st/9009/"
   },
   {
-   "date": "2016",
+   "date": "2016-06-08",
    "title": "音乐剧《薄樱鬼》新选组奇谭",
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/51CAw+rOmAL._AC_.jpg",
+   "image": "https://www.marv.jp/special/m-hakuoki-harada/images/disco/kitan_dvd.jpg",
    "points": [
     "饰原田左之助"
    ],
-   "url": "https://www.amazon.co.jp/dp/B01M7WJNGO"
+   "url": "https://www.marv.jp/special/m-hakuoki-harada/disco.html"
   },
   {
-   "date": "2016",
+   "date": "2016-11-30",
    "title": "《Club SLAZY -Another World-》",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "",
+   "publisher": "CLIE",
    "image": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg",
    "points": [
     "饰Will"
@@ -1653,7 +1653,7 @@ window.HUB = {
    "url": "https://www.amazon.co.jp/dp/B01I9G01YG"
   },
   {
-   "date": "2018",
+   "date": "2017-08-23",
    "title": "音乐剧《薄樱鬼》原田左之助篇",
    "cat": "影像",
    "price": "DVD",
@@ -1665,7 +1665,7 @@ window.HUB = {
    "url": "https://www.amazon.co.jp/dp/B0798WPS4M"
   },
   {
-   "date": "2017",
+   "date": "2015-09-11",
    "title": "舞台版《心灵侦探八云 祈祷之柩》",
    "cat": "影像",
    "price": "DVD",
@@ -1730,7 +1730,7 @@ window.HUB = {
   },
   {
    "title": "《Club SLAZY -Another World-》原声CD",
-   "date": "2016",
+   "date": "2016-11-30",
    "price": "",
    "publisher": "CLIE",
    "image": "https://m.media-amazon.com/images/I/61FbxCeUPHL._AC_SL500_.jpg",
@@ -1826,6 +1826,19 @@ window.HUB = {
    ],
    "url": "list.html?g=all#e103",
    "cat": "写真集·杂志"
+  },
+  {
+   "title": "音乐剧《薄樱鬼》HAKU-MYU LIVE 2",
+   "date": "2016-12-07",
+   "price": "",
+   "publisher": "Marvelous",
+   "image": "https://www.marv.jp/special/m-hakuoki-harada/images/disco/live_dvd.jpg",
+   "points": [
+    "2016年8月演唱会，东启介以原田左之助出演",
+    "Disc1 本篇／Disc2 特典映像"
+   ],
+   "url": "https://www.marv.jp/special/m-hakuoki-harada/disco.html",
+   "cat": "影像"
   }
  ],
  "channels": {
