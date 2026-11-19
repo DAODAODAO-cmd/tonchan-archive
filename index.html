@@ -239,14 +239,22 @@ footer p{margin:4px 0}
   .logo{font-size:16px}
 }
 
-.tabbar{display:none}
+.tabbar,.sheet{display:none}
 @media (max-width:720px){
-  body{padding-bottom:calc(70px + env(safe-area-inset-bottom))}
-  .tabbar{display:flex;position:fixed;left:12px;right:12px;bottom:calc(10px + env(safe-area-inset-bottom));z-index:60;background:rgba(255,253,249,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid #ece3d6;border-radius:22px;box-shadow:0 8px 28px rgba(120,96,70,.16);padding:6px;justify-content:space-between}
-  .tabbar a{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;border-radius:16px;color:#8d847a;text-decoration:none;font-size:11px;line-height:1.2}
-  .tabbar a i{font-style:normal;font-size:18px;line-height:1}
-  .tabbar a small{font-size:8px;letter-spacing:.08em;opacity:.6}.tabbar a.main{background:#7f9c88;color:#fff;margin:0 2px}
-  .tabbar a.on{color:#3b3631;font-weight:600}
+  body{padding-bottom:calc(76px + env(safe-area-inset-bottom))}
+  .nav .pills{display:none}
+  .tabbar{display:flex;position:fixed;left:14px;right:14px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:60;background:rgba(255,253,249,.94);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid #efe6da;border-radius:26px;box-shadow:0 10px 30px rgba(120,96,70,.14);padding:6px;gap:2px}
+  .tabbar a,.tabbar button{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;height:52px;border:0;background:none;border-radius:20px;color:#9a9086;text-decoration:none;font:inherit;font-size:10.5px;letter-spacing:.04em;cursor:pointer;transition:background .2s,color .2s}
+  .tabbar svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+  .tabbar a.on,.tabbar button[aria-expanded=true]{color:#3b3631;background:#f3ece2}
+  .tabbar a.main{flex:1.15;background:#7f9c88;color:#fff;box-shadow:0 4px 12px rgba(127,156,136,.35)}
+  .sheet{display:block;position:fixed;inset:0;z-index:70}.sheet[hidden]{display:none}
+  .sheet-bg{position:absolute;inset:0;background:rgba(40,32,26,.28)}
+  .sheet-card{position:absolute;left:14px;right:14px;bottom:calc(84px + env(safe-area-inset-bottom));background:#fffdf9;border-radius:24px;padding:12px 10px 10px;display:grid;grid-template-columns:1fr 1fr;gap:8px;box-shadow:0 16px 40px rgba(60,45,30,.2);animation:up .22s ease}
+  .sheet-card .grab{grid-column:1/-1;justify-self:center;width:36px;height:4px;border-radius:4px;background:#e6ddd1;margin-bottom:4px}
+  .sheet-card a{display:flex;flex-direction:column;gap:2px;padding:14px 16px;border-radius:16px;background:#f7f1e9;color:#3b3631;text-decoration:none;font-size:15px}
+  .sheet-card a small{font-size:9px;letter-spacing:.14em;color:#a59a8e}
+  @keyframes up{from{transform:translateY(16px);opacity:0}to{transform:none;opacity:1}}
 }
 
 /* 饰演角色 */
@@ -370,7 +378,7 @@ footer p{margin:4px 0}
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10); // 日本时间
+const MOB=matchMedia('(max-width:720px)').matches;const today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10); // 日本时间
 const imgOf=im=>im?(im.asset&&A.assets[im.asset])||im.url||'':'';
 const ext=(u,t)=>'<a href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">'+esc(t)+'</a>';
 const fmt=d=>d?d.replaceAll('-','.'):'';
@@ -379,9 +387,9 @@ const tagHtml=t=>{const c=tagColor[t]||['--bg2','#7a7067'];return '<span class="
 
 /* hero */
 const P=H.profile;
-$('kana').textContent=P.kana+' · '+P.roman.toUpperCase();
+$('kana').textContent=P.kana;
 $('name').innerHTML=esc(P.name)+'<small>'+esc(P.nameJa)+' · KEISUKE HIGASHI</small>';
-$('tagline').textContent=P.tagline;
+$('tagline').textContent=P.tagline.split('。')[0]+'。';
 $('heroChips').innerHTML=[['生日','7/14'],['身高','190cm'],['书道','六段'],['爱好','钢琴 · 摄影'],['所属','Watanabe Ent.']].map(([a,b])=>'<span class="chip">'+a+' <b>'+b+'</b></span>').join('');
 const yearsActive=new Date(today).getFullYear()-2013;
 $('heroStats').innerHTML=[['出道',yearsActive+'年'],['舞台',A.events.filter(e=>e.category==='舞台').length+'部'],['影视',A.events.filter(e=>['电视剧','电影','网络剧'].includes(e.category)).length+'部'],['写真集',A.events.filter(e=>/写真集《|首本写真集|最新写真集（暂定名）预定/.test(e.title)).length+'本']].map(([t,n])=>'<div class="hs"><strong>'+n+'</strong><span>'+t+'</span></div>').join('');
@@ -400,7 +408,7 @@ $('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e
 
 /* news */
 const SHOPRE=/amazon\.|rakuten|mercari|fujisan|hmv\.co|7net|suruga|yahoo|tower\.jp/;const NEWS=H.news.filter(n=>!['杂志','采访'].includes(n.tag)).concat(A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today&&e.date>=H.news.map(n=>n.date).sort()[0]).map(e=>({date:e.date,tag:e.category==='杂志'?'杂志':'采访',title:e.title,text:'',url:SHOPRE.test(e.url||'')?'list.html?g=all#'+e.id:e.url})));const tags=['全部',...new Set(NEWS.map(n=>n.tag))];let curTag='全部';
-function drawNews(){$('newsList').innerHTML=NEWS.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,8).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
+function drawNews(){$('newsList').innerHTML=NEWS.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,MOB?5:8).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
 $('newsFilters').onclick=e=>{const b=e.target.closest('button');if(b){curTag=b.dataset.t;drawNews()}};drawNews();
 
 /* works：按类别分组 */
@@ -417,7 +425,7 @@ const groups=[
 ];
 let curG='stage';
 function drawWorks(){const g=groups.find(x=>x.k===curG);$('worksGrid').className='works'+(g.ls?' ls':'');const all=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
-  const withImg=all.filter(e=>e.images&&e.images.length&&e.date<=today||e.images&&e.images.length&&e.date>today);let pick=withImg.slice(0,6);if(pick.length<6)pick=pick.concat(all.filter(e=>!pick.includes(e)).slice(0,6-pick.length));pick.sort((a,b)=>b.date.localeCompare(a.date));
+  const withImg=all.filter(e=>e.images&&e.images.length&&e.date<=today||e.images&&e.images.length&&e.date>today);const NW=MOB?4:6;let pick=withImg.slice(0,NW);if(pick.length<NW)pick=pick.concat(all.filter(e=>!pick.includes(e)).slice(0,NW-pick.length));pick.sort((a,b)=>b.date.localeCompare(a.date));
   $('worksGrid').innerHTML=pick.map(e=>{const im=e.images[0];return '<a class="card w" href="list.html?g='+curG+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
   $('worksMore').href=$('worksMore2').href='list.html?g='+curG;$('worksMore2').textContent='查看全部 '+all.length+' 条 '+g.t+' →';
   $('workTabs').innerHTML=groups.map(x=>'<button class="'+(x.k===curG?'on':'')+'" data-k="'+x.k+'">'+x.t+'<small>'+A.events.filter(e=>x.cats.includes(e.category)).length+'</small></button>').join('')}
@@ -426,7 +434,7 @@ $('workTabs').onclick=e=>{const b=e.target.closest('button');if(b){curG=b.datase
 /* videos */
 const VT={'全部':null,'本人歌唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访':['采访／发布会'],'节目·综艺':['节目／其他'],'SNS·直播':['SNS／直播'],'剧集cut':['剧集cut'],'幕后':['幕后／拍摄']};let curV='全部',curP='全平台';
 function vdate(v){return v.contentDate||v.uploadDate||(v.years&&v.years[0])||''}
-function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(v.type))&&(curP==='全平台'||(v.platform||'YouTube')===curP)).sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,8);
+function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(v.type))&&(curP==='全平台'||(v.platform||'YouTube')===curP)).sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,MOB?4:8);
   $('vidGrid').innerHTML=list.map(v=>{const th=v.asset&&A.assets[v.asset]||v.thumbnail;return '<a class="card v" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="th">'+(th?'<img src="'+esc(th)+'" alt="" loading="lazy">':'<div class="bili">'+esc(v.platform||'video')+'</div>')+'<span class="pf">'+esc(v.platform||'YouTube')+'</span></div><div class="b"><b>'+esc(v.title)+'</b><small>'+esc(v.channel)+(vdate(v)?' · '+esc(fmt(vdate(v))):'')+'</small></div></a>'}).join('');
   $('vidTabs').innerHTML=Object.keys(VT).map(k=>'<button class="'+(k===curV?'on':'')+'" data-k="'+k+'">'+k+'</button>').join('')+'<span style="flex:1"></span>'+['全平台','YouTube','B站','niconico'].map(k=>'<button class="sm'+(k===curP?' on2':'')+'" data-p="'+k+'">'+k+'</button>').join('')}
 $('vidTabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.k)curV=b.dataset.k;if(b.dataset.p)curP=b.dataset.p;drawVids()};drawVids();
@@ -461,7 +469,7 @@ $('selfLinks').innerHTML=H.channels.self.map((c,i)=>'<a class="chc" style="backg
 
 
 /* 导航高亮 */
-const secs=[...document.querySelectorAll('section.sec')],pl=[...document.querySelectorAll('#pills a')];
+const secs=[...document.querySelectorAll('section.sec')],pl=[...document.querySelectorAll('#pills a,.tabbar a[href^="#"]')];
 addEventListener('scroll',()=>{let cur='';for(const s of secs)if(s.getBoundingClientRect().top<120)cur=s.id;pl.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+cur))},{passive:true});
 
 /* 饰演角色卡 */
@@ -477,7 +485,8 @@ return '<a class="rl" href="list.html?g=all#'+esc(e.id)+'" style="--c1:'+p[0]+';
 const st=$('roleStrip');$('rPrev').onclick=()=>st.scrollBy({left:-st.clientWidth*.8,behavior:'smooth'});$('rNext').onclick=()=>st.scrollBy({left:st.clientWidth*.8,behavior:'smooth'});
 })();
 </script>
-<nav class="tabbar" aria-label="快捷导航"><a href="#top"><i>⌂</i>首页<small>HOME</small></a><a href="#now"><i>◷</i>近况<small>NOW</small></a><a class="main" href="list.html?g=all"><i>☰</i>编年<small>ARCHIVE</small></a><a href="#videos"><i>▷</i>视频<small>VIDEO</small></a><a href="#goods"><i>♡</i>周边<small>GOODS</small></a></nav>
+<nav class="tabbar" aria-label="快捷导航"><a href="#now"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg><span>近况</span></a><a href="#news"><svg viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="14" rx="3"/><path d="M8 10h8M8 14h5"/></svg><span>动态</span></a><a class="main" href="list.html?g=all"><svg viewBox="0 0 24 24"><path d="M6 4.5h12M6 9.5h12M6 14.5h12M6 19.5h8"/></svg><span>编年</span></a><a href="#goods"><svg viewBox="0 0 24 24"><path d="M5 9h14l-1.2 10H6.2z"/><path d="M9 9V7a3 3 0 0 1 6 0v2"/></svg><span>周边</span></a><button type="button" id="moreBtn" aria-expanded="false"><svg viewBox="0 0 24 24"><circle cx="6" cy="12" r="1.4"/><circle cx="12" cy="12" r="1.4"/><circle cx="18" cy="12" r="1.4"/></svg><span>更多</span></button></nav><div class="sheet" id="sheet" hidden><div class="sheet-bg" data-close></div><div class="sheet-card"><i class="grab"></i><a href="#works">作品<small>WORKS</small></a><a href="#videos">视频<small>VIDEO</small></a><a href="#roles">角色<small>ROLES</small></a><a href="#about">关于<small>ABOUT</small></a><a href="list.html?g=schedule">完整日程<small>SCHEDULE</small></a><a href="list.html?g=mag">杂志<small>MAGAZINE</small></a></div></div>
 <script>(function(){const T=document.getElementById('aboutTabs');function show(k){document.querySelectorAll('#about .ab').forEach(d=>d.hidden=d.id!==k);T.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.ab===k))}T.onclick=e=>{const b=e.target.closest('button');if(b)show(b.dataset.ab)};document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(a){const k=a.getAttribute('href').slice(1);if(['profile','says','links'].includes(k)){e.preventDefault();show(k);document.getElementById('about').scrollIntoView({behavior:'smooth'})}}});})();</script>
+<script>(function(){const b=document.getElementById('moreBtn'),sh=document.getElementById('sheet');if(!b)return;const set=o=>{sh.hidden=!o;b.setAttribute('aria-expanded',o)};b.onclick=()=>set(sh.hidden);sh.addEventListener('click',e=>{if(e.target.closest('[data-close],a'))set(false)})})();</script>
 </body>
 </html>
