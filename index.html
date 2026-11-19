@@ -31,7 +31,7 @@ button{font:inherit;cursor:pointer}
 .pills::-webkit-scrollbar{display:none}
 .pills a{padding:7px 14px;border-radius:999px;font-size:13px;color:var(--muted);white-space:nowrap;transition:.2s}
 .pills a:hover,.pills a.on{background:var(--card);color:var(--ink);box-shadow:var(--shadow)}
-.pills a small{font-size:9px;letter-spacing:.08em;margin-left:4px;opacity:.55}.pills a.arch{background:var(--sage);color:#fff}
+@media(max-width:560px){.pills a small{display:none}}.pills a small{font-size:9px;letter-spacing:.08em;margin-left:4px;opacity:.55}.pills a.arch{background:var(--sage);color:#fff}
 
 /* hero */
 .hero{padding:44px 0 26px}
@@ -245,7 +245,7 @@ footer p{margin:4px 0}
   .tabbar{display:flex;position:fixed;left:12px;right:12px;bottom:calc(10px + env(safe-area-inset-bottom));z-index:60;background:rgba(255,253,249,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid #ece3d6;border-radius:22px;box-shadow:0 8px 28px rgba(120,96,70,.16);padding:6px;justify-content:space-between}
   .tabbar a{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;border-radius:16px;color:#8d847a;text-decoration:none;font-size:11px;line-height:1.2}
   .tabbar a i{font-style:normal;font-size:18px;line-height:1}
-  .tabbar a.main{background:#7f9c88;color:#fff;margin:0 2px}
+  .tabbar a small{font-size:8px;letter-spacing:.08em;opacity:.6}.tabbar a.main{background:#7f9c88;color:#fff;margin:0 2px}
   .tabbar a.on{color:#3b3631;font-weight:600}
 }
 
@@ -476,7 +476,7 @@ return '<a class="rl" href="list.html?g=all#'+esc(e.id)+'" style="--c1:'+p[0]+';
 const st=$('roleStrip');$('rPrev').onclick=()=>st.scrollBy({left:-st.clientWidth*.8,behavior:'smooth'});$('rNext').onclick=()=>st.scrollBy({left:st.clientWidth*.8,behavior:'smooth'});
 })();
 </script>
-<nav class="tabbar" aria-label="快捷导航"><a href="#top"><i>⌂</i>首页</a><a href="#upcoming"><i>◷</i>日程</a><a class="main" href="list.html?g=all"><i>☰</i>编年档案</a><a href="#videos"><i>▷</i>视频</a><a href="#goods"><i>♡</i>周边</a></nav>
+<nav class="tabbar" aria-label="快捷导航"><a href="#top"><i>⌂</i>首页<small>HOME</small></a><a href="#now"><i>◷</i>近况<small>NOW</small></a><a class="main" href="list.html?g=all"><i>☰</i>编年<small>ARCHIVE</small></a><a href="#videos"><i>▷</i>视频<small>VIDEO</small></a><a href="#goods"><i>♡</i>周边<small>GOODS</small></a></nav>
 <script>(function(){const T=document.getElementById('aboutTabs');function show(k){document.querySelectorAll('#about .ab').forEach(d=>d.hidden=d.id!==k);T.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.ab===k))}T.onclick=e=>{const b=e.target.closest('button');if(b)show(b.dataset.ab)};document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(a){const k=a.getAttribute('href').slice(1);if(['profile','says','links'].includes(k)){e.preventDefault();show(k);document.getElementById('about').scrollIntoView({behavior:'smooth'})}}});})();</script>
 </body>
 </html>
