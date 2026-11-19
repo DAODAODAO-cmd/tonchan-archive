@@ -18233,10 +18233,6 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/watch?v=wkCCKjUPOss"
     },
     {
-     "title": "ミュージカル『キンキーブーツ』3年ぶり再演に向けて　東啓介×有澤樟太郎×甲斐翔真×松下優也インタビュー",
-     "url": "https://www.youtube.com/watch?v=puDSgVIvi_c"
-    },
-    {
      "title": "シンディ・ローパー登壇『キンキーブーツ』初日カーテンコール 東啓介×甲斐翔真×田村芽実2025/4/27",
      "url": "https://www.youtube.com/watch?v=homXEU412qk"
     }
@@ -18994,10 +18990,6 @@ window.ARCHIVE = {
     {
      "title": "『キンキーブーツ』開幕前取材会！甲斐翔真＆松下優也、東啓介＆有澤樟太郎ら新キャスト勢ぞろい",
      "url": "https://www.youtube.com/watch?v=wkCCKjUPOss"
-    },
-    {
-     "title": "ミュージカル『キンキーブーツ』3年ぶり再演に向けて　東啓介×有澤樟太郎×甲斐翔真×松下優也インタビュー",
-     "url": "https://www.youtube.com/watch?v=puDSgVIvi_c"
     },
     {
      "title": "【Kinky Boots】MV：「Not My Father's Son」東啓介×有澤樟太郎×甲斐翔真×松下優也",
@@ -27727,25 +27719,6 @@ window.ARCHIVE = {
    "uploadDate": "2021-11-30"
   },
   {
-   "id": "puDSgVIvi_c",
-   "title": "ミュージカル『キンキーブーツ』3年ぶり再演に向けて　東啓介×有澤樟太郎×甲斐翔真×松下優也インタビュー",
-   "channel": "JP STAR",
-   "duration": "",
-   "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/puDSgVIvi_c/hqdefault.jpg",
-   "playlists": [],
-   "sourceType": "媒体原发布",
-   "type": "采访／发布会",
-   "url": "https://www.youtube.com/watch?v=puDSgVIvi_c",
-   "years": [
-    "2025"
-   ],
-   "rel": "2026.11.17补充｜YouTube上传 2024-12-16",
-   "platform": "YouTube",
-   "asset": "",
-   "uploadDate": "2024-12-16"
-  },
-  {
    "id": "homXEU412qk",
    "title": "シンディ・ローパー登壇『キンキーブーツ』初日カーテンコール 東啓介×甲斐翔真×田村芽実2025/4/27",
    "channel": "Astage",
@@ -35012,26 +34985,6 @@ window.ARCHIVE = {
    "source": "https://www.youtube.com/watch?v=42tJvi47MEM",
    "uploadDate": "2017-03-21",
    "dateLabel": "2017 公开",
-   "asset": ""
-  },
-  {
-   "id": "Jt7CKiCMKbY",
-   "title": "東啓介、NYへ渡り役作り 主演ミュージカル『Color of Life』への覚悟語る",
-   "channel": "Metalero Jarcor",
-   "duration": "0:40",
-   "type": "采访／发布会",
-   "sourceType": "转载",
-   "years": [
-    "2019"
-   ],
-   "url": "https://www.youtube.com/watch?v=Jt7CKiCMKbY",
-   "thumbnail": "https://i.ytimg.com/vi/Jt7CKiCMKbY/hqdefault.jpg",
-   "playlists": [],
-   "platform": "YouTube",
-   "rel": "标题提及东启介｜2026.11.19补充",
-   "source": "https://www.youtube.com/watch?v=Jt7CKiCMKbY",
-   "uploadDate": "2019-04-18",
-   "dateLabel": "2019 公开",
    "asset": ""
   },
   {
