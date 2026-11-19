@@ -770,6 +770,11 @@ window.ARCHIVE = {
    "dateKind": "day",
    "images": [
     {
+     "url": "https://m.media-amazon.com/images/I/715r051Ks0L._AC_SL500_.jpg",
+     "caption": "单曲《憑き夜に踊れ》通常盘封面",
+     "source": "Amazon.co.jp 商品图"
+    },
+    {
      "url": "https://i.ytimg.com/vi/orJz2nBzkAs/hqdefault.jpg",
      "caption": "官方MV封面",
      "source": "https://www.youtube.com/watch?v=orJz2nBzkAs",
@@ -1108,7 +1113,7 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://img.hmv.co.jp/image/jacket/400/69/4/1/917.jpg",
+     "url": "https://m.media-amazon.com/images/I/91+30d0cgML._AC_SL500_.jpg",
      "caption": "Blu-ray封面",
      "source": "HMV"
     }
@@ -1126,7 +1131,7 @@ window.ARCHIVE = {
    "workRoma": "SOHOKU SHINSEDAI",
    "roleName": "苇木场拓斗",
    "cardPhoto": "https://prtimes.jp/i/16719/5/resize/d16719-5-377949-14.jpg",
-   "cardPoster": "https://img.hmv.co.jp/image/jacket/400/69/4/1/917.jpg"
+   "cardPoster": "https://m.media-amazon.com/images/I/91+30d0cgML._AC_SL500_.jpg"
   },
   {
    "id": "mag_rk14108397",
@@ -20117,7 +20122,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.tv-asahi.co.jp/my-th/news/0006/",
-   "note": "东映特摄FANCLUB配信的衍生短剧；第7话《スパダリ検定～嶺髙華武利編～》以华武利为主角。",
+   "note": "东映特摄FANCLUB（TTFC）配信的衍生短剧，东启介出场的是：第1话《十二支的故事》（9/12，YouTube免费公开）、第2话《十二支时尚检查①》（9/13）、第7话《完美男友检定～岭高华武利篇～》（10/18，主角回）、第8话《十二支时尚检查②》（10/25）。其余几话没有华武利。",
    "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "配信开始日",
@@ -20146,6 +20151,14 @@ window.ARCHIVE = {
     }
    ],
    "videos": [
+    {
+     "title": "【予告】十二支十色 八話 十二支ファッションチェック②",
+     "url": "https://www.youtube.com/watch?v=HDNb4ix5TQM"
+    },
+    {
+     "title": "【無料配信】十二支十色 一話 十二支のおはなし",
+     "url": "https://www.youtube.com/watch?v=jkqp4qMS_Zg"
+    },
     {
      "title": "【予告】仮面ライダーマイス　十二支十色　二話　十二支ファッションチェック①",
      "url": "https://www.youtube.com/watch?v=z7Pd-5nNOSk"
@@ -20183,28 +20196,8 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/watch?v=VsE38iHYLx0"
     },
     {
-     "title": "【予告】仮面ライダーマイス　十二支十色　三話　スパダリ検定～音澄宙編～",
-     "url": "https://www.youtube.com/watch?v=jnAoQzFPoFY"
-    },
-    {
-     "title": "【予告】仮面ライダーマイス　十二支十色　四話　おばあさんとリド①",
-     "url": "https://www.youtube.com/watch?v=QwypVOdYuAA"
-    },
-    {
-     "title": "【予告】仮面ライダーマイス　十二支十色　六話　ケン様と図書館で",
-     "url": "https://www.youtube.com/watch?v=LP_qxigQtC0"
-    },
-    {
      "title": "【予告】仮面ライダーマイス　十二支十色　七話　スパダリ検定～嶺髙華武利編～",
      "url": "https://www.youtube.com/watch?v=HiW6nsnVHo8"
-    },
-    {
-     "title": "【予告】仮面ライダーマイス　十二支十色　九話　名探偵ティグル　事件編",
-     "url": "https://www.youtube.com/watch?v=-PV7YLF2W30"
-    },
-    {
-     "title": "【予告】仮面ライダーマイス　十二支十色　十話　名探偵ティグル　解決編",
-     "url": "https://www.youtube.com/watch?v=7jzQ-eSHNF0"
     },
     {
      "title": "【仮面ライダーマイス】「変身ベルト DXマオウドライバー」TVCM",
@@ -20355,10 +20348,6 @@ window.ARCHIVE = {
     {
      "title": "【無料パート】『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
      "url": "https://www.nicovideo.jp/watch/so46942722"
-    },
-    {
-     "title": "七周年惊喜现身片段（B站）",
-     "url": "https://www.bilibili.com/video/BV1KC4q6XEFF/"
     }
    ],
    "pending": false,
@@ -20805,6 +20794,21 @@ window.ARCHIVE = {
      "source": "https://x.com/touken_2_5chaya/status/2117179908736921657",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/HWFlwTWaMAAQTxX?format=jpg&name=large",
+     "caption": "刀剑乱舞2.5茶屋 官方合作告知",
+     "source": "https://x.com/touken_2_5chaya/status/2117179908736921657"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/HXNz0PybQAA3cSb?format=jpg&name=large",
+     "caption": "预约特典：主视觉手机卡",
+     "source": "https://x.com/touken_2_5chaya/status/2122253343737479230"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/HXTFFHUaEAI9L9E?format=jpg&name=large",
+     "caption": "店内特典杯垫",
+     "source": "https://x.com/touken_2_5chaya/status/2122978137822617645"
     }
    ],
    "videos": [],
@@ -21369,6 +21373,91 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "dvd_minami",
+   "date": "2017-01-18",
+   "end": "",
+   "category": "写真／出版",
+   "title": "1st DVD《東啓介、南へ行く。》",
+   "japanese": "東啓介 1st DVD「東啓介、南へ行く。」",
+   "role": "本人",
+   "url": "https://www.bilibili.com/video/BV1zs41187XK/",
+   "note": "个人第一张DVD。发售前公开宣传PV。",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/81oA3IWoE9L._AC_SL500_.jpg",
+     "caption": "DVD封面",
+     "source": "Amazon.co.jp 商品图"
+    }
+   ],
+   "videos": [
+    {
+     "title": "【東啓介】1st DVD「東啓介、南へ行く。」宣传PV",
+     "url": "https://www.bilibili.com/video/BV1zs41187XK/"
+    }
+   ],
+   "origin": "2026.11.19补充"
+  },
+  {
+   "id": "ost_kyoden",
+   "date": "2017-01-25",
+   "end": "",
+   "category": "写真／出版",
+   "title": "舞台《刀剑乱舞》虚传 原声CD发售",
+   "japanese": "",
+   "role": "燭台切光忠",
+   "url": "https://www.stage-toukenranbu.jp/music/kyoden",
+   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
+   "images": [
+    {
+     "url": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/刀ステサントラCD-1024x1010.jpg",
+     "caption": "CD封面",
+     "source": "舞台『刀剣乱舞』官网"
+    }
+   ],
+   "videos": [],
+   "origin": "2026.11.19补充"
+  },
+  {
+   "id": "ost_giden",
+   "date": "2017-11-29",
+   "end": "",
+   "category": "写真／出版",
+   "title": "舞台《刀剑乱舞》义传 原声CD发售",
+   "japanese": "",
+   "role": "燭台切光忠",
+   "url": "https://www.stage-toukenranbu.jp/music/giden",
+   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/71Sngd-VSbL._AC_SL500_.jpg",
+     "caption": "CD封面",
+     "source": "舞台『刀剣乱舞』官网"
+    }
+   ],
+   "videos": [],
+   "origin": "2026.11.19补充"
+  },
+  {
+   "id": "ost_hiden",
+   "date": "2018-11-28",
+   "end": "",
+   "category": "写真／出版",
+   "title": "舞台《刀剑乱舞》悲传 原声CD发售",
+   "japanese": "",
+   "role": "燭台切光忠",
+   "url": "https://www.stage-toukenranbu.jp/music/hiden",
+   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
+   "images": [
+    {
+     "url": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/悲伝OST_CD-1024x1013.jpg",
+     "caption": "CD封面",
+     "source": "舞台『刀剣乱舞』官网"
+    }
+   ],
+   "videos": [],
+   "origin": "2026.11.19补充"
   }
  ],
  "videos": [
@@ -27675,63 +27764,6 @@ window.ARCHIVE = {
    "uploadDate": "2026-08-03"
   },
   {
-   "id": "jnAoQzFPoFY",
-   "title": "【予告】仮面ライダーマイス　十二支十色　三話　スパダリ検定～音澄宙編～",
-   "channel": "東映特撮YouTube Official",
-   "duration": "",
-   "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/jnAoQzFPoFY/hqdefault.jpg",
-   "playlists": [],
-   "sourceType": "官方／机构",
-   "type": "预告／宣传",
-   "url": "https://www.youtube.com/watch?v=jnAoQzFPoFY",
-   "years": [
-    "2026"
-   ],
-   "rel": "2026.11.17补充｜YouTube上传 2026-09-19",
-   "platform": "YouTube",
-   "asset": "",
-   "uploadDate": "2026-09-19"
-  },
-  {
-   "id": "QwypVOdYuAA",
-   "title": "【予告】仮面ライダーマイス　十二支十色　四話　おばあさんとリド①",
-   "channel": "東映特撮YouTube Official",
-   "duration": "",
-   "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/QwypVOdYuAA/hqdefault.jpg",
-   "playlists": [],
-   "sourceType": "官方／机构",
-   "type": "预告／宣传",
-   "url": "https://www.youtube.com/watch?v=QwypVOdYuAA",
-   "years": [
-    "2026"
-   ],
-   "rel": "2026.11.17补充｜YouTube上传 2026-09-26",
-   "platform": "YouTube",
-   "asset": "",
-   "uploadDate": "2026-09-26"
-  },
-  {
-   "id": "LP_qxigQtC0",
-   "title": "【予告】仮面ライダーマイス　十二支十色　六話　ケン様と図書館で",
-   "channel": "東映特撮YouTube Official",
-   "duration": "",
-   "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/LP_qxigQtC0/hqdefault.jpg",
-   "playlists": [],
-   "sourceType": "官方／机构",
-   "type": "预告／宣传",
-   "url": "https://www.youtube.com/watch?v=LP_qxigQtC0",
-   "years": [
-    "2026"
-   ],
-   "rel": "2026.11.17补充｜YouTube上传 2026-10-10",
-   "platform": "YouTube",
-   "asset": "",
-   "uploadDate": "2026-10-10"
-  },
-  {
    "id": "HiW6nsnVHo8",
    "title": "【予告】仮面ライダーマイス　十二支十色　七話　スパダリ検定～嶺髙華武利編～",
    "channel": "東映特撮YouTube Official",
@@ -27749,44 +27781,6 @@ window.ARCHIVE = {
    "platform": "YouTube",
    "asset": "",
    "uploadDate": "2026-10-17"
-  },
-  {
-   "id": "-PV7YLF2W30",
-   "title": "【予告】仮面ライダーマイス　十二支十色　九話　名探偵ティグル　事件編",
-   "channel": "東映特撮YouTube Official",
-   "duration": "",
-   "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/-PV7YLF2W30/hqdefault.jpg",
-   "playlists": [],
-   "sourceType": "官方／机构",
-   "type": "预告／宣传",
-   "url": "https://www.youtube.com/watch?v=-PV7YLF2W30",
-   "years": [
-    "2026"
-   ],
-   "rel": "2026.11.17补充｜YouTube上传 2026-11-07",
-   "platform": "YouTube",
-   "asset": "",
-   "uploadDate": "2026-11-07"
-  },
-  {
-   "id": "7jzQ-eSHNF0",
-   "title": "【予告】仮面ライダーマイス　十二支十色　十話　名探偵ティグル　解決編",
-   "channel": "東映特撮YouTube Official",
-   "duration": "",
-   "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/7jzQ-eSHNF0/hqdefault.jpg",
-   "playlists": [],
-   "sourceType": "官方／机构",
-   "type": "预告／宣传",
-   "url": "https://www.youtube.com/watch?v=7jzQ-eSHNF0",
-   "years": [
-    "2026"
-   ],
-   "rel": "2026.11.17补充｜YouTube上传 2026-11-14",
-   "platform": "YouTube",
-   "asset": "",
-   "uploadDate": "2026-11-14"
   },
   {
    "id": "baMEfVIuI-w",
@@ -33645,21 +33639,21 @@ window.ARCHIVE = {
   },
   {
    "id": "BV1KC4q6XEFF",
-   "title": "《玉城裕规的月下美人》七周年 惊喜现身片段",
+   "title": "刀ステ七周年感谢祭《夢語刀宴會》惊喜现身",
    "channel": "传说中的陌老板",
    "type": "节目／其他",
    "sourceType": "B站搬运",
    "years": [
-    "2026"
+    "2023"
    ],
    "url": "https://www.bilibili.com/video/BV1KC4q6XEFF/",
    "thumbnail": "https://i0.hdslb.com/bfs/archive/64f219e0e7cf5b3d10eb160be859bcb3c6483b02.jpg",
    "playlists": [],
    "platform": "B站",
-   "rel": "B站搬运｜2026",
+   "rel": "B站搬运｜2023年8月幕张展览馆，东启介不在公布的出演名单里",
    "source": "https://www.bilibili.com/video/BV1KC4q6XEFF/",
    "uploadDate": "2026-11-06",
-   "contentDate": "2026-10-18",
+   "contentDate": "2023-08",
    "dateLabel": "2026.11.06 B站上传",
    "asset": ""
   },
@@ -34550,6 +34544,44 @@ window.ARCHIVE = {
    "uploadDate": "2022-03-26",
    "dateLabel": "2022.03.26",
    "asset": ""
+  },
+  {
+   "id": "jkqp4qMS_Zg",
+   "title": "【無料配信】仮面ライダーマイス　十二支十色　一話　十二支のおはなし",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/jkqp4qMS_Zg/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "节目／其他",
+   "url": "https://www.youtube.com/watch?v=jkqp4qMS_Zg",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.19补充",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-09-12"
+  },
+  {
+   "id": "HDNb4ix5TQM",
+   "title": "【予告】仮面ライダーマイス　十二支十色　八話　十二支ファッションチェック②",
+   "channel": "東映特撮YouTube Official",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/HDNb4ix5TQM/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=HDNb4ix5TQM",
+   "years": [
+    "2026"
+   ],
+   "rel": "2026.11.19补充",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2026-10-24"
   }
  ],
  "playlists": [

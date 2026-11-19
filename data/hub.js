@@ -248,27 +248,6 @@ window.HUB = {
  ],
  "news": [
   {
-   "date": "2026-11-15",
-   "tag": "活动",
-   "title": "确定出演《超英雄祭2027》DAY2（2027/1/21 横滨Arena）",
-   "text": "以岭高华武利／假面骑士Maou身份与《麦斯》演员同台；门票 11/15 起一般发售。",
-   "url": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/"
-  },
-  {
-   "date": "2026-11-02",
-   "tag": "周边",
-   "title": "WE官方生写真〈2026年11月〉开放预约",
-   "text": "Watanabe商店（7net）受理至11/15，12/2前后发货。",
-   "url": "https://x.com/we_goods_info/status/2117089419144622119"
-  },
-  {
-   "date": "2026-10-18",
-   "tag": "综艺",
-   "title": "《玉城裕规的月下美人》第八十三夜 7周年BBQ特别篇 嘉宾出演",
-   "text": "与和田琢磨一同作为嘉宾；niconico 有前10分钟免费片段。",
-   "url": "https://www.nicovideo.jp/watch/so46942722"
-  },
-  {
    "date": "2026-11-16",
    "tag": "采访",
    "title": "刀舞《陽伝》官网更新媒体露出一览",
@@ -276,11 +255,25 @@ window.HUB = {
    "url": "https://stage-toukenranbu.jp/news/hiden2/4184"
   },
   {
+   "date": "2026-11-15",
+   "tag": "活动",
+   "title": "确定出演《超英雄祭2027》DAY2（2027/1/21 横滨Arena）",
+   "text": "以岭高华武利／假面骑士Maou身份与《麦斯》演员同台；门票 11/15 起一般发售。",
+   "url": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/"
+  },
+  {
    "date": "2026-11-12",
    "tag": "影视",
    "title": "街机《假面骑士 Ganba Legends》第5弹上线，假面骑士Maou参战",
    "text": "Maou 的变身语音是他配的，万代官方宣传片里能听到。",
    "url": "https://www.youtube.com/watch?v=9VPedwZW6vg"
+  },
+  {
+   "date": "2026-11-11",
+   "tag": "舞台",
+   "title": "刀舞《陽伝》东京明治座正式公演开幕",
+   "text": "东京至11月29日，之后大阪新歌舞伎座、东京凯旋。",
+   "url": "https://stage-toukenranbu.jp/stage/"
   },
   {
    "date": "2026-11-10",
@@ -297,6 +290,13 @@ window.HUB = {
    "url": "https://www.pashplus.jp/blog/500710/"
   },
   {
+   "date": "2026-11-02",
+   "tag": "周边",
+   "title": "WE官方生写真〈2026年11月〉开放预约",
+   "text": "Watanabe商店（7net）受理至11/15，12/2前后发货。",
+   "url": "https://x.com/we_goods_info/status/2117089419144622119"
+  },
+  {
    "date": "2026-10-28",
    "tag": "杂志",
    "title": "《anan》No.2517 刀舞总力特集",
@@ -309,6 +309,13 @@ window.HUB = {
    "title": "写真集池袋会场追加发券",
    "text": "部分售罄券种追加，10/25 12:00起开售，售完即止。",
    "url": "https://zasshi.tv/products/62295/"
+  },
+  {
+   "date": "2026-10-18",
+   "tag": "综艺",
+   "title": "《玉城裕规的月下美人》第八十三夜 7周年BBQ特别篇 嘉宾出演",
+   "text": "与和田琢磨一同作为嘉宾；niconico 有前10分钟免费片段。",
+   "url": "https://www.nicovideo.jp/watch/so46942722"
   },
   {
    "date": "2026-10-18",
@@ -339,6 +346,20 @@ window.HUB = {
    "url": "https://www.uchusen-mag.jp/"
   },
   {
+   "date": "2026-09-18",
+   "tag": "舞台",
+   "title": "刀舞《陽伝》公开故事梗概与追加卡司",
+   "text": "前后编两部作，11月10日明治座预演开始。",
+   "url": "https://www.toukenranbu.jp/topics/5695/"
+  },
+  {
+   "date": "2026-09-13",
+   "tag": "舞台",
+   "title": "《王者天下Ⅱ：继承》东京公演落幕",
+   "text": "Brillia HALL；9月21日起转战大阪新歌舞伎座。",
+   "url": "https://www.tohostage.com/kingdom2/"
+  },
+  {
    "date": "2026-09-06",
    "tag": "影视",
    "title": "《假面骑士麦斯》开播",
@@ -353,11 +374,11 @@ window.HUB = {
    "url": "https://strmweb.jp/archives/22701/"
   },
   {
-   "date": "2026-08-31",
-   "tag": "采访",
-   "title": "演剧媒体Audience｜东启介×西野辽《SWAN》对谈",
-   "text": "目标是“跨越芭蕾与戏剧界线的瞬间”。",
-   "url": "https://engeki-audience.com/article/detail/23194/"
+   "date": "2026-09-04",
+   "tag": "舞台",
+   "title": "朗读剧《SWAN：Ballet cross Reading》开演",
+   "text": "新国立剧场 中剧场，至9月9日；饰演草壁飞翔。",
+   "url": "https://swan-balletcrossreading.com/"
   },
   {
    "date": "2026-09-02",
@@ -367,11 +388,11 @@ window.HUB = {
    "url": "https://www.animatetimes.com/news/details.php?id=1788235894"
   },
   {
-   "date": "2026-07-10",
+   "date": "2026-08-31",
    "tag": "采访",
-   "title": "《SWAN》官方演员访谈视频公开",
-   "text": "东启介谈草壁飞翔一角。",
-   "url": "https://www.youtube.com/watch?v=0hsF8IqwY1o"
+   "title": "演剧媒体Audience｜东启介×西野辽《SWAN》对谈",
+   "text": "目标是“跨越芭蕾与戏剧界线的瞬间”。",
+   "url": "https://engeki-audience.com/article/detail/23194/"
   },
   {
    "date": "2026-08-09",
@@ -386,6 +407,27 @@ window.HUB = {
    "title": "电影《蓝色监狱》上映",
    "text": "饰马狼照英。",
    "url": "https://bluelock-movie.jp/"
+  },
+  {
+   "date": "2026-07-17",
+   "tag": "舞台",
+   "title": "刀舞《陽伝》主视觉、角色视觉公开",
+   "text": "燭台切光忠时隔八年回归；同时公布票务信息。",
+   "url": "https://www.toukenranbu.jp/topics/5304/"
+  },
+  {
+   "date": "2026-07-10",
+   "tag": "采访",
+   "title": "《SWAN》官方演员访谈视频公开",
+   "text": "东启介谈草壁飞翔一角。",
+   "url": "https://www.youtube.com/watch?v=0hsF8IqwY1o"
+  },
+  {
+   "date": "2026-05-22",
+   "tag": "舞台",
+   "title": "确定出演《王者天下Ⅱ：继承》，饰演庞煖",
+   "text": "与章平双卡司。东京、大阪、福冈三地上演。",
+   "url": "https://www.tohostage.com/kingdom2/castsche.html"
   }
  ],
  "pastGoods": [
@@ -1056,21 +1098,6 @@ window.HUB = {
    "cat": "玩具"
   },
   {
-   "title": "过往写真集与日历写真书",
-   "date": "",
-   "price": "",
-   "publisher": "写真集 · 日历书",
-   "image": "https://tshop.r10s.jp/book/cabinet/8492/9784048968492.jpg?downsize=600:*",
-   "points": [
-    "1st写真集《K》2017/3/15（Pony Canyon）",
-    "写真集《何色》2021/3/10（KADOKAWA）",
-    "日历写真书 2021、2023、2024、2025 年度版",
-    "详细在“作品与媒体露出 → 写真·出版”"
-   ],
-   "url": "archive.html?cat=%E5%86%99%E7%9C%9F%EF%BC%8F%E5%87%BA%E7%89%88",
-   "cat": "写真集·杂志"
-  },
-  {
    "date": "2026-09-05",
    "title": "Rider Hero Series 假面骑士Maou",
    "price": "990円（含税）",
@@ -1234,7 +1261,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/57/1/1/783.jpg",
+   "image": "https://m.media-amazon.com/images/I/61BLElXP+WL._AC_SL500_.jpg",
    "points": [
     "饰千岁千里"
    ],
@@ -1246,7 +1273,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/60/6/9/580.jpg",
+   "image": "https://m.media-amazon.com/images/I/71+14ATpt1L._AC_SL500_.jpg",
    "points": [
     "饰千岁千里"
    ],
@@ -1258,7 +1285,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/61/4/8/340.jpg",
+   "image": "https://m.media-amazon.com/images/I/71KEqkKpDNL._AC_SL500_.jpg",
    "points": [
     "第二季最后一场DL"
    ],
@@ -1270,7 +1297,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/67/3/3/054.jpg",
+   "image": "https://m.media-amazon.com/images/I/719Brv1SOiL._AC_SL500_.jpg",
    "points": [
     "饰原田左之助"
    ],
@@ -1282,7 +1309,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/69/4/1/917.jpg",
+   "image": "https://m.media-amazon.com/images/I/91+30d0cgML._AC_SL500_.jpg",
    "points": [
     "饰苇木场拓斗"
    ],
@@ -1522,7 +1549,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/0000161/2/9/155.jpg",
+   "image": "https://m.media-amazon.com/images/I/71FaaACgKZL._AC_SL500_.jpg",
    "points": [
     "2024巡演东京场"
    ],
@@ -1655,12 +1682,150 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "EXIT TUNES",
-   "image": "https://i.ytimg.com/vi/orJz2nBzkAs/hqdefault.jpg",
+   "image": "https://m.media-amazon.com/images/I/715r051Ks0L._AC_SL500_.jpg",
    "points": [
     "五人妖怪偶像组合，他是成员之一",
     "作词作曲蝶々P"
    ],
    "url": "https://www.youtube.com/watch?v=orJz2nBzkAs"
+  },
+  {
+   "title": "舞台《刀剑乱舞》虚传 燃烧的本能寺 原声CD",
+   "date": "2017-01-25",
+   "price": "",
+   "publisher": "Marvelous",
+   "image": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/刀ステサントラCD-1024x1010.jpg",
+   "points": [
+    "2枚组：剧中BGM＋剧中歌现场音源",
+    "东启介饰演燭台切光忠"
+   ],
+   "url": "https://www.stage-toukenranbu.jp/music/kyoden",
+   "cat": "CD"
+  },
+  {
+   "title": "舞台《刀剑乱舞》义传 黎明的独眼龙 原声CD",
+   "date": "2017-11-29",
+   "price": "",
+   "publisher": "Marvelous",
+   "image": "https://m.media-amazon.com/images/I/71Sngd-VSbL._AC_SL500_.jpg",
+   "points": [
+    "2枚组：剧中BGM＋剧中歌现场音源",
+    "东启介饰演燭台切光忠"
+   ],
+   "url": "https://www.stage-toukenranbu.jp/music/giden",
+   "cat": "CD"
+  },
+  {
+   "title": "舞台《刀剑乱舞》悲传 结之目的不如归 原声CD",
+   "date": "2018-11-28",
+   "price": "",
+   "publisher": "Marvelous",
+   "image": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/悲伝OST_CD-1024x1013.jpg",
+   "points": [
+    "2枚组：剧中BGM＋剧中歌现场音源",
+    "东启介饰演燭台切光忠"
+   ],
+   "url": "https://www.stage-toukenranbu.jp/music/hiden",
+   "cat": "CD"
+  },
+  {
+   "title": "《Club SLAZY -Another World-》原声CD",
+   "date": "2016",
+   "price": "",
+   "publisher": "CLIE",
+   "image": "https://m.media-amazon.com/images/I/61FbxCeUPHL._AC_SL500_.jpg",
+   "points": [
+    "东启介饰演Will"
+   ],
+   "url": "",
+   "cat": "CD"
+  },
+  {
+   "title": "1st DVD《東啓介、南へ行く。》",
+   "date": "2017-01-18",
+   "price": "",
+   "publisher": "",
+   "image": "https://m.media-amazon.com/images/I/81oA3IWoE9L._AC_SL500_.jpg",
+   "points": [
+    "个人第一张影像作品",
+    "发售前公开了宣传PV"
+   ],
+   "url": "list.html?g=all#dvd_minami",
+   "cat": "影像"
+  },
+  {
+   "title": "1st写真集《K》",
+   "date": "2017-03-15",
+   "price": "",
+   "publisher": "",
+   "image": "https://tshop.r10s.jp/book/cabinet/2404/9784865292404.jpg?downsize=600:*",
+   "points": [
+    "Pony Canyon",
+    "首本写真集，发售时办了见面会"
+   ],
+   "url": "list.html?g=all#e101",
+   "cat": "写真集·杂志"
+  },
+  {
+   "title": "写真集《何色》",
+   "date": "2021-03-10",
+   "price": "",
+   "publisher": "",
+   "image": "https://tshop.r10s.jp/book/cabinet/8492/9784048968492.jpg?downsize=600:*",
+   "points": [
+    "KADOKAWA",
+    "第二本写真集"
+   ],
+   "url": "list.html?g=all#e102",
+   "cat": "写真集·杂志"
+  },
+  {
+   "title": "日历写真书 2021.04–2022.03",
+   "date": "2021-03-02",
+   "price": "",
+   "publisher": "",
+   "image": "https://tshop.r10s.jp/book/cabinet/5353/9784047365353.jpg?downsize=600:*",
+   "points": [
+    "KADOKAWA"
+   ],
+   "url": "list.html?g=all#cal_16609471",
+   "cat": "写真集·杂志"
+  },
+  {
+   "title": "日历写真书 2023.04–2024.03",
+   "date": "2023-02-27",
+   "price": "",
+   "publisher": "",
+   "image": "https://zasshi.tv/wp/wp-content/uploads/2023/01/20230227_higasikeisuke_cover_02.jpg",
+   "points": [
+    "东京新闻出版·TV指南"
+   ],
+   "url": "list.html?g=all#cal_17434046",
+   "cat": "写真集·杂志"
+  },
+  {
+   "title": "日历写真书 2024.04–2025.03",
+   "date": "2024-02-29",
+   "price": "",
+   "publisher": "",
+   "image": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_cover_02.jpg",
+   "points": [
+    "东京新闻出版·TV指南"
+   ],
+   "url": "list.html?g=all#cal_17792666",
+   "cat": "写真集·杂志"
+  },
+  {
+   "title": "日历写真书 2025.04–2026.03",
+   "date": "2025-02-21",
+   "price": "",
+   "publisher": "",
+   "image": "https://zasshi.tv/wp/wp-content/uploads/2025/01/20250221_higasi_calendarbook_2025_2026_main_02.jpg",
+   "points": [
+    "20代最后一本日历书"
+   ],
+   "url": "list.html?g=all#e103",
+   "cat": "写真集·杂志"
   }
  ],
  "channels": {
