@@ -227,8 +227,8 @@ window.HUB = {
    "title": "电影《蓝色监狱》",
    "role": "马狼照英",
    "date": "2026/8/7 上映",
-   "image": "https://ogre.natalie.mu/media/news/eiga/2026/0609/bluelock-movie_202606_08.jpg",
-   "imageNote": "电影场面照：比赛中的马狼照英（映画ナタリー）",
+   "image": "https://bluelock-movie.jp/assets/img/cast/cast-face4-5.jpg",
+   "imageNote": "官网角色公式照：马狼照英",
    "url": "https://bluelock-movie.jp/"
   },
   {
