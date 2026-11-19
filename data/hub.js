@@ -188,7 +188,7 @@ window.HUB = {
   {
    "title": "《假面骑士麦斯》",
    "ja": "仮面ライダーマイス",
-   "role": "岭高华武利（嶺高華武利・みねたか かむり）／假面骑士Maou（仮面ライダーマオウ）",
+   "role": "岭高华武利（嶺髙華武利・みねたか かむり）／假面骑士Maou（仮面ライダーマオウ）",
    "kind": "电视剧 · 朝日电视台系列",
    "image": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
    "imageNote": "朝日电视台官网角色图",
@@ -233,7 +233,7 @@ window.HUB = {
   },
   {
    "title": "《SWAN：Ballet cross Reading》",
-   "role": "草壁飞翔（草壁飛翔・くさかべ つばさ）",
+   "role": "草壁飞翔（草壁飛翔）",
    "date": "2026/9/4–9/9",
    "image": "https://swan-balletcrossreading.com/images/top/cast_img3-1.jpg",
    "imageNote": "官网演员照",
