@@ -8121,6 +8121,36 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://i.ytimg.com/vi/4eOorayHphA/hqdefault.jpg",
+     "caption": "政之助扮相（明治座官方评论视频）",
+     "source": "https://www.youtube.com/watch?v=4eOorayHphA"
+    },
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/11.jpg",
+     "caption": "舞台照：政之助",
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+    },
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/2.jpg",
+     "caption": "舞台照：政之助",
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+    },
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/4.jpg",
+     "caption": "舞台照：政之助",
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+    },
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/7.jpg",
+     "caption": "舞台照：政之助",
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+    },
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/12.jpg",
+     "caption": "舞台照：政之助",
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+    },
+    {
      "url": "https://www.meijiza.co.jp/lineup/2020/10/images/main_cast.jpg",
      "caption": "官方演员合照",
      "source": "https://www.meijiza.co.jp/lineup/2020/10/",
@@ -8160,6 +8190,14 @@ window.ARCHIVE = {
     {
      "title": "恋、燃ゆる。～秋元松代作『おさんの恋』より～　PR動画ロングバージョン",
      "url": "https://www.youtube.com/watch?v=ZhEELCTq3tM"
+    },
+    {
+     "title": "恋、燃ゆる。オンライン製作発表",
+     "url": "https://www.youtube.com/watch?v=ujZPKUlxq08"
+    },
+    {
+     "title": "恋、燃ゆる。PR動画 主題歌バージョン",
+     "url": "https://www.youtube.com/watch?v=aGJW5eto_VU"
     }
    ],
    "pending": false,
@@ -8172,7 +8210,8 @@ window.ARCHIVE = {
    ],
    "roleRoma": "MASANOSUKE",
    "workRoma": "KOI MOYURU",
-   "roleName": "政之助"
+   "roleName": "政之助",
+   "cardPhoto": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/11.jpg"
   },
   {
    "id": "web_es65233",
@@ -34631,6 +34670,44 @@ window.ARCHIVE = {
    "platform": "YouTube",
    "asset": "",
    "uploadDate": "2023-04-19"
+  },
+  {
+   "id": "ujZPKUlxq08",
+   "title": "恋、燃ゆる。オンライン製作発表",
+   "channel": "明治座公式YouTubeチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/ujZPKUlxq08/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "采访／发布会",
+   "url": "https://www.youtube.com/watch?v=ujZPKUlxq08",
+   "years": [
+    "2020"
+   ],
+   "rel": "明治座官网映像｜2026.11.19补充",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2020-09-01"
+  },
+  {
+   "id": "aGJW5eto_VU",
+   "title": "恋、燃ゆる。PR動画 主題歌バージョン",
+   "channel": "明治座公式YouTubeチャンネル",
+   "duration": "",
+   "available": true,
+   "thumbnail": "https://i.ytimg.com/vi/aGJW5eto_VU/hqdefault.jpg",
+   "playlists": [],
+   "sourceType": "官方／机构",
+   "type": "预告／宣传",
+   "url": "https://www.youtube.com/watch?v=aGJW5eto_VU",
+   "years": [
+    "2020"
+   ],
+   "rel": "明治座官网映像｜2026.11.19补充",
+   "platform": "YouTube",
+   "asset": "",
+   "uploadDate": "2020-10-01"
   }
  ],
  "playlists": [
