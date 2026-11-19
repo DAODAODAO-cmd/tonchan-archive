@@ -1012,6 +1012,272 @@ window.HUB = {
    "publisher": "刀ステ 官网",
    "status": "已结束",
    "stage": 1
+  },
+  {
+   "id": "we_bromide_all",
+   "date": "2026-08-01",
+   "title": "WE官方生写真 历月一览",
+   "status": "已结束",
+   "price": "每月4张一套（L判）",
+   "image": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg",
+   "points": [
+    "7net官方商品图，每月一张四张合拍，共50个月",
+    "点小图看大图"
+   ],
+   "url": "list.html?g=goods",
+   "publisher": "WE SHOP／ワタナベ商店",
+   "items": [
+    {
+     "t": "2026.08",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg"
+    },
+    {
+     "t": "2026.05",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110690616.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110690616.jpg"
+    },
+    {
+     "t": "2025.12",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110680987.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110680987.jpg"
+    },
+    {
+     "t": "2025.10",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110676382.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110676382.jpg"
+    },
+    {
+     "t": "2025.07",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110669215.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110669215.jpg"
+    },
+    {
+     "t": "2025.05",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110665401.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110665401.jpg"
+    },
+    {
+     "t": "2025.03",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110661625.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110661625.jpg"
+    },
+    {
+     "t": "2024.09",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110654289.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110654289.jpg"
+    },
+    {
+     "t": "2024.03",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110647337.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110647337.jpg"
+    },
+    {
+     "t": "2023.12",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110644893.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110644893.jpg"
+    },
+    {
+     "t": "2023.09",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110642291.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110642291.jpg"
+    },
+    {
+     "t": "2023.04",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110637888.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110637888.jpg"
+    },
+    {
+     "t": "2023.01",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110634988.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110634988.jpg"
+    },
+    {
+     "t": "2022.09",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301516194.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301516194.jpg"
+    },
+    {
+     "t": "2022.06",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301509861.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301509861.jpg"
+    },
+    {
+     "t": "2022.04",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301505621.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301505621.jpg"
+    },
+    {
+     "t": "2022.02",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301500593.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301500593.jpg"
+    },
+    {
+     "t": "2022.01",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301497383.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301497383.jpg"
+    },
+    {
+     "t": "2021.11",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301493538.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301493538.jpg"
+    },
+    {
+     "t": "2021.10",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301490992.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301490992.jpg"
+    },
+    {
+     "t": "2021.08",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301486219.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301486219.jpg"
+    },
+    {
+     "t": "2021.04",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301477326.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301477326.jpg"
+    },
+    {
+     "t": "2021.01",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301470592.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301470592.jpg"
+    },
+    {
+     "t": "2020.10",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301464245.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301464245.jpg"
+    },
+    {
+     "t": "2020.09",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301461360.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301461360.jpg"
+    },
+    {
+     "t": "2020.08",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301459724.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301459724.jpg"
+    },
+    {
+     "t": "2020.07",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301457637.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301457637.jpg"
+    },
+    {
+     "t": "2020.06",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301455708.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301455708.jpg"
+    },
+    {
+     "t": "2020.05",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301453972.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301453972.jpg"
+    },
+    {
+     "t": "2019.12",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301442556.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301442556.jpg"
+    },
+    {
+     "t": "2019.10",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301437228.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301437228.jpg"
+    },
+    {
+     "t": "2019.08",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301430196.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301430196.jpg"
+    },
+    {
+     "t": "2019.07",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301427912.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301427912.jpg"
+    },
+    {
+     "t": "2019.06",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301425383.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301425383.jpg"
+    },
+    {
+     "t": "2019.03",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301417946.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301417946.jpg"
+    },
+    {
+     "t": "2018.04",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301389133.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301389133.jpg"
+    },
+    {
+     "t": "2018.02",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301384212.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301384212.jpg"
+    },
+    {
+     "t": "2018.01",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301381805.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301381805.jpg"
+    },
+    {
+     "t": "2017.12",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301379742.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301379742.jpg"
+    },
+    {
+     "t": "2017.11",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301377319.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301377319.jpg"
+    },
+    {
+     "t": "2017.10",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301375029.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301375029.jpg"
+    },
+    {
+     "t": "2017.09",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301372413.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301372413.jpg"
+    },
+    {
+     "t": "2017.08",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369385.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369385.jpg"
+    },
+    {
+     "t": "2017.07",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301366687.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301366687.jpg"
+    },
+    {
+     "t": "2017.06",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301364071.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301364071.jpg"
+    },
+    {
+     "t": "2017.05",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301361075.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301361075.jpg"
+    },
+    {
+     "t": "2017.03",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301356196.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301356196.jpg"
+    },
+    {
+     "t": "2017.02",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301353617.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301353617.jpg"
+    },
+    {
+     "t": "2016.11",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301345398.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301345398.jpg"
+    },
+    {
+     "t": "2016.10",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343012.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343012.jpg"
+    }
+   ]
   }
  ],
  "goods": [
