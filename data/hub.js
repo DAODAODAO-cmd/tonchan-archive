@@ -979,7 +979,7 @@ window.HUB = {
     "活动特典：ぷくぷく（立体泡泡）贴纸，10/30 官方X公开设计样本"
    ],
    "url": "https://zasshi.tv/products/62295/",
-   "kind": "商品"
+   "cat": "写真集·杂志"
   },
   {
    "title": "《TV指南 Stage Stars》vol.34",
@@ -991,7 +991,7 @@ window.HUB = {
     "Special Other Cuts：最新写真集未使用照片"
    ],
    "url": "https://zasshi.tv/products/62998/",
-   "kind": "商品"
+   "cat": "写真集·杂志"
   },
   {
    "title": "刀舞《陽伝》Blu-ray / DVD",
@@ -1003,7 +1003,7 @@ window.HUB = {
     "TOHO animation STORE 期间限定特典附发售纪念活动抽选应募券"
    ],
    "url": "https://stage-toukenranbu.jp/stage/",
-   "kind": "商品"
+   "cat": "影像"
   },
   {
    "title": "刀舞《陽伝》公演周边",
@@ -1026,7 +1026,7 @@ window.HUB = {
     "《假面骑士麦斯》假面骑士Maou的变身玩具；官方TVCM见视频栏"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21234/",
-   "kind": "商品"
+   "cat": "玩具"
   },
   {
    "title": "过往写真集与日历写真书",
@@ -1041,7 +1041,7 @@ window.HUB = {
     "详细在“作品与媒体露出 → 写真·出版”"
    ],
    "url": "archive.html?cat=%E5%86%99%E7%9C%9F%EF%BC%8F%E5%87%BA%E7%89%88",
-   "kind": "商品"
+   "cat": "写真集·杂志"
   },
   {
    "date": "2026-09-05",
@@ -1053,7 +1053,7 @@ window.HUB = {
     "软胶人偶，赤猫变身后的样子"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20954/",
-   "kind": "商品"
+   "cat": "玩具"
   },
   {
    "date": "2026-09-19",
@@ -1065,7 +1065,7 @@ window.HUB = {
     "可动人偶，可以和蛋道具联动"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20955/",
-   "kind": "商品"
+   "cat": "玩具"
   },
   {
    "date": "2026-10-17",
@@ -1078,7 +1078,7 @@ window.HUB = {
     "腰带的变身语音是他本人配的"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21232/",
-   "kind": "商品"
+   "cat": "玩具"
   },
   {
    "date": "2026-10-17",
@@ -1090,7 +1090,7 @@ window.HUB = {
     "Maou的剑单卖版"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21233/",
-   "kind": "商品"
+   "cat": "玩具"
   },
   {
    "date": "2027-03",
@@ -1102,7 +1102,7 @@ window.HUB = {
     "一般店头贩售，2027年3月发售"
    ],
    "url": "https://tamashiiweb.com/item/16020/",
-   "kind": "商品"
+   "cat": "玩具"
   },
   {
    "date": "2026-09-06",
@@ -1176,7 +1176,7 @@ window.HUB = {
     "盒背的图也好看，可以连盒摆"
    ],
    "url": "https://x.com/KamenRiderStore/status/2121790031400783919",
-   "kind": "商品"
+   "cat": "玩具"
   }
  ],
  "channels": {
