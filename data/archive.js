@@ -10464,7 +10464,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://www.fujitv.co.jp/nanbaMG5/",
-   "note": "第8集至最终集；日程待逐集节目表再核。",
+   "note": "富士电视台水10剧，主演间宫祥太朗。东启介与鈴之助饰“最后的敌人”，从第8话（6月8日）起出演，第9话6月15日、最终第10话6月22日，均为周三22:00。出演发表（模特新闻，2022.6.8）：https://mdpr.jp/news/3193141",
    "status": "",
    "origin": "",
    "dateKind": "本人登场集播出日",
@@ -10488,7 +10488,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
    "roleRoma": "KOGURE SHO",
