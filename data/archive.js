@@ -1081,6 +1081,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://img.hmv.co.jp/image/jacket/400/69/4/1/917.jpg",
+     "caption": "Blu-ray封面",
+     "source": "HMV"
     }
    ],
    "videos": [
@@ -1095,7 +1100,8 @@ window.ARCHIVE = {
    "roleRoma": "ASHIKIBA TAKUTO",
    "workRoma": "SOHOKU SHINSEDAI",
    "roleName": "苇木场拓斗",
-   "cardPhoto": "https://prtimes.jp/i/16719/5/resize/d16719-5-377949-14.jpg"
+   "cardPhoto": "https://prtimes.jp/i/16719/5/resize/d16719-5-377949-14.jpg",
+   "cardPoster": "https://img.hmv.co.jp/image/jacket/400/69/4/1/917.jpg"
   },
   {
    "id": "mag_rk14108397",
@@ -1179,6 +1185,11 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-191959-0.jpg",
      "caption": "主视觉",
      "source": "マーベラス（PR TIMES）"
+    },
+    {
+     "url": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
+     "caption": "Blu-ray封面",
+     "source": "HMV"
     }
    ],
    "videos": [
@@ -1194,7 +1205,7 @@ window.ARCHIVE = {
    "workRoma": "KYODEN",
    "roleName": "烛台切光忠",
    "cardPhoto": "https://prtimes.jp/i/16719/18/resize/d16719-18-304926-2.jpg",
-   "cardPoster": "https://prtimes.jp/i/16719/18/resize/d16719-18-191959-0.jpg"
+   "cardPoster": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg"
   },
   {
    "id": "bro_201606",
@@ -4798,6 +4809,11 @@ window.ARCHIVE = {
      "source": "https://x.com/keisuke_higashi/status/1007254232469102592",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg",
+     "caption": "Blu-ray封面",
+     "source": "HMV"
     }
    ],
    "videos": [
@@ -4812,7 +4828,8 @@ window.ARCHIVE = {
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "HIDEN",
    "roleName": "烛台切光忠",
-   "cardPhoto": "https://stage-toukenranbu.jp/archive/hiden/images/cast/shokudai.jpg"
+   "cardPhoto": "https://stage-toukenranbu.jp/archive/hiden/images/cast/shokudai.jpg",
+   "cardPoster": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg"
   },
   {
    "id": "mag_rk15531823",

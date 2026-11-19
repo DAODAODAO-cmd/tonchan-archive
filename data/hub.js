@@ -1512,6 +1512,67 @@ window.HUB = {
     "饰砂川圆"
    ],
    "url": "https://www.hmv.co.jp/product/detail/16253617/"
+  },
+  {
+   "date": "2014-05-28",
+   "title": "音乐剧《网球王子》青学vs四天宝寺",
+   "cat": "影像",
+   "price": "DVD 8,800円+税",
+   "publisher": "Marvelous",
+   "image": "https://www.marv.jp/uploads/title/728/main.jpg",
+   "points": [
+    "饰千岁千里，他的出道作"
+   ],
+   "url": "https://www.marv.jp/titles/st/882/"
+  },
+  {
+   "date": "2014-12-26",
+   "title": "音乐剧《网球王子》全国大会 青学vs立海",
+   "cat": "影像",
+   "price": "DVD 3枚组",
+   "publisher": "Marvelous",
+   "image": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72095/dvd_2nd_2014rikkai.jpg",
+   "points": [
+    "饰千岁千里",
+    "DVD发售活动的登台名单里有他"
+   ],
+   "url": "https://www.tennimu.com/discography/tennimu/second/mjbd-72095/"
+  },
+  {
+   "date": "2015-02-27",
+   "title": "音乐剧《网球王子》Dream Live 2014",
+   "cat": "影像",
+   "price": "DVD 2枚组",
+   "publisher": "Marvelous",
+   "image": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72096/dvd_2nd_dl2014.jpg",
+   "points": [
+    "第二季毕业DL，收录后台和日替影像"
+   ],
+   "url": "https://www.tennimu.com/discography/tennimu/second/mjbd-72096/"
+  },
+  {
+   "date": "2015-10-26",
+   "title": "音乐剧《薄樱鬼》黎明录",
+   "cat": "影像",
+   "price": "DVD 8,800円+税",
+   "publisher": "Marvelous",
+   "image": "https://www.marv.jp/uploads/title/742/main.jpg",
+   "points": [
+    "饰原田左之助"
+   ],
+   "url": "https://www.marv.jp/titles/st/888/"
+  },
+  {
+   "date": "2017-07-19",
+   "title": "舞台《飙速宅男》新IH篇 起跑线",
+   "cat": "影像",
+   "price": "Blu-ray 9,800円+税 / DVD 8,800円+税",
+   "publisher": "Marvelous",
+   "image": "https://www.marv.jp/uploads/title/8665/s_pedalIHSL_KV-3.jpg",
+   "points": [
+    "饰苇木场拓斗"
+   ],
+   "url": "https://www.marv.jp/titles/st/9009/"
   }
  ],
  "channels": {
