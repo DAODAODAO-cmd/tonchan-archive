@@ -2146,20 +2146,42 @@ window.HUB = {
    "date": "2026-09-27",
    "price": "27,500円（含税）",
    "publisher": "Premium Bandai",
-   "image": "https://www.kamen-rider-official.com/uploads/news_article/s3_main_image/3268/57dd5d63-554d-428e-9b04-6c698affca7c.jpg",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg",
    "points": [
-    "照剧中十二支同盟的斗篷做的日常款，2027年1月发货",
+    "照剧中十二支同盟的斗篷做的日常款，红、紫等多色，2027年1月发货",
     "魔术贴徽章可换，徽章另售（全12种，1,320円）"
    ],
    "url": "https://www.kamen-rider-official.com/news_articles/3268",
    "items": [
     {
-     "t": "外套",
-     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image2/3244/092268f8-5c6a-4743-b348-2a35e2bb8274.jpg"
+     "t": "全部颜色",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_1.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_1.jpg"
     },
     {
-     "t": "徽章",
-     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image3/3244/c1562380-60b0-4262-ae02-8516fcd58671.jpg"
+     "t": "红色款",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg"
+    },
+    {
+     "t": "红色 上身",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_3.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_3.jpg"
+    },
+    {
+     "t": "红色 背面",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_4.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_4.jpg"
+    },
+    {
+     "t": "紫色款",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_6.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_6.jpg"
+    },
+    {
+     "t": "紫色 上身",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_7.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_7.jpg"
     }
    ]
   },
