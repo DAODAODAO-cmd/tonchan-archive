@@ -274,6 +274,15 @@ footer p{margin:4px 0}
   .vids{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
   .v .b{padding:9px 10px 11px}.v b{font-size:12.5px}.v small{font-size:10.5px}
   .goods{gap:14px}
+  /* 周边卡：图矮一点、说明最多3条、小图5列、过往筛选和上面一排统一样式 */
+  .g .img{aspect-ratio:16/10}
+  .g .b{padding:12px 14px 14px}
+  .g ul{margin:4px 0 8px;font-size:12px}.g ul li:nth-child(n+4){display:none}
+  .g .gi{grid-template-columns:repeat(5,minmax(0,1fr));gap:5px}.g .gi span{font-size:9.5px}
+  .g .gis{max-height:250px}
+  .pgf{display:flex;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;gap:6px;margin:0 -16px 12px!important;padding:2px 16px 4px}.pgf::-webkit-scrollbar{display:none}
+  .pgf button{flex:none;margin:0;border:0;background:var(--card);padding:6px 14px;font-size:12.5px;color:var(--muted);box-shadow:0 1px 2px rgba(0,0,0,.05)}
+  .pgf button.on{background:var(--sage);color:#fff}
 }
 
 /* 饰演角色 */
@@ -391,8 +400,8 @@ footer p{margin:4px 0}
   <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
-<script src="data/archive.js?v=1119r"></script>
-<script src="data/hub.js?v=1119r"></script>
+<script src="data/archive.js?v=1119s"></script>
+<script src="data/hub.js?v=1119s"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
