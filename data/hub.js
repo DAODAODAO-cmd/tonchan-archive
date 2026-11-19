@@ -918,7 +918,8 @@ window.HUB = {
     "店铺限定，带钥匙扣，可以立手机",
     "Myth、Nox、Dawn也有"
    ],
-   "url": "https://x.com/KamenRiderStore/status/2094696768076464195"
+   "url": "https://x.com/KamenRiderStore/status/2094696768076464195",
+   "imagePos": "92% 78%"
   },
   {
    "date": "2026-09-06",
@@ -937,7 +938,7 @@ window.HUB = {
    "title": "Rider Hero Series 重涂装版（假面骑士Maou）",
    "price": "",
    "publisher": "假面骑士商店",
-   "image": "https://pbs.twimg.com/media/HXIcutXaYAEjrFJ?format=jpg&name=large",
+   "image": "https://pbs.twimg.com/media/HXIcutVbsAASbNl?format=jpg&name=large",
    "points": [
     "店铺原创，和Rido一起加入",
     "盒背的图也好看，可以连盒摆"
