@@ -19200,6 +19200,11 @@ window.ARCHIVE = {
      "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.kamen-rider-official.com/uploads/layout/s3_image2/3171/d514791e-8afc-496f-a838-2a7882c5de13.jpg",
+     "caption": "作品海报（竖版）",
+     "source": "假面骑士官网"
     }
    ],
    "videos": [
@@ -19330,7 +19335,7 @@ window.ARCHIVE = {
    "roleRoma": "MINETAKA KABURI",
    "workRoma": "KAMEN RIDER MY-TH",
    "roleName": "岭高华武利",
-   "cardPoster": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
+   "cardPoster": "https://www.kamen-rider-official.com/uploads/layout/s3_image2/3171/d514791e-8afc-496f-a838-2a7882c5de13.jpg",
    "cardPhoto": "https://www.kamen-rider-official.com/uploads/myth_summary_production_note/image1/14/72a1c163-10d1-4943-9945-3f33eadf9abe.jpg",
    "cardPhotoPos": "50% 12%"
   },
