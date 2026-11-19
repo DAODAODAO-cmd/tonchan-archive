@@ -11439,6 +11439,13 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
      "caption": "剧照：托马斯",
      "source": "マチソワ"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/FgtXe0kaUAUgo_X?format=jpg&name=large",
+     "caption": "全演员公布（东宝演剧部X，2022.11.4）",
+     "source": "https://x.com/toho_stage/status/1588459488121876482",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
