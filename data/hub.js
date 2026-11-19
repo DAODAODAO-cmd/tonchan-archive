@@ -1177,6 +1177,29 @@ window.HUB = {
    ],
    "url": "https://x.com/KamenRiderStore/status/2121790031400783919",
    "cat": "玩具"
+  },
+  {
+   "date": "",
+   "title": "《我、我喜欢的他，以及你。》亚克力立牌（崎山亮二）",
+   "price": "1,650円",
+   "publisher": "テレ东本铺 WEB",
+   "image": "https://shop.tv-tokyo.co.jp/img/goods/S/DBS009860_photo01.webp",
+   "points": [
+    "三人分开卖，他演的是崎山亮二",
+    "三个底座能横着拼在一起，和饭岛宽骑、见津贤摆成一排"
+   ],
+   "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009860/"
+  },
+  {
+   "date": "",
+   "title": "《我、我喜欢的他，以及你。》ブロマイド套组",
+   "price": "1,100円",
+   "publisher": "テレ东本铺 WEB",
+   "image": "https://shop.tv-tokyo.co.jp/img/goods/L/DBS009863_photo01.webp",
+   "points": [
+    "L判4枚：三人各一张新拍的单人照，加一张三人合照"
+   ],
+   "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009863/"
   }
  ],
  "channels": {
