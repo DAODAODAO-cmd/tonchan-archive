@@ -364,7 +364,6 @@ footer p{margin:4px 0}
 <section class="sec" id="links"><div class="wrap">
   <div class="sec-head"><h2><em>OFFICIAL</em>官方渠道指路</h2></div>
   <div class="ch" id="selfLinks"></div>
-  <div class="worklinks" id="workLinks"></div>
   <p class="notice">日常更新去看他本人的 X 和 Instagram。FC 是会员内容，请自行订阅。</p>
 </div></section>
 </main>
@@ -467,7 +466,7 @@ $('saysFilters').addEventListener('click',e=>{const b=e.target.closest('button')
 /* channels */
 const chc=['--peach-soft','--lav-soft','--rose-soft','--sage-soft','--sky-soft'];
 $('selfLinks').innerHTML=H.channels.self.map((c,i)=>'<a class="chc" style="background:var('+chc[i%5]+')" href="'+esc(c.url)+'" target="_blank" rel="noopener noreferrer"><div class="n">'+esc(c.name)+' ↗</div><div class="h">'+esc(c.handle)+'</div><p>'+esc(c.note)+'</p></a>').join('');
-$('workLinks').innerHTML=H.channels.works.map(c=>ext(c.url,c.name+' ↗')).join('');
+
 
 /* 导航高亮 */
 const secs=[...document.querySelectorAll('section.sec')],pl=[...document.querySelectorAll('#pills a')];
