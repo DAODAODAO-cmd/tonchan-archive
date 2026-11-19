@@ -490,7 +490,7 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
-     "url": "https://web.archive.org/web/2023im_/https://sumabo.jp/smartboys/news/wp-content/uploads/2015/02/150211_KU_0403.jpg",
+     "url": "assets/img/yakumo_oda.jpg",
      "caption": "舞台照：织田亮",
      "source": "スマートボーイズ"
     },
@@ -529,7 +529,7 @@ window.ARCHIVE = {
    "workRoma": "INORI NO HITSUGI",
    "roleName": "织田亮",
    "cardPoster": "https://www.nntt.jac.go.jp/performance/rent/%E5%85%AB%E9%9B%B2%E6%9C%AC%E3%83%81%E3%83%A9%E3%82%B7%E8%A1%A8.jpg",
-   "cardPhoto": "https://web.archive.org/web/2023im_/https://sumabo.jp/smartboys/news/wp-content/uploads/2015/02/150211_KU_0403.jpg"
+   "cardPhoto": "assets/img/yakumo_oda.jpg"
   },
   {
    "id": "am_ayakashi_bro1",

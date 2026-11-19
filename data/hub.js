@@ -1076,7 +1076,7 @@ window.HUB = {
   },
   {
    "title": "刀舞《陽伝》公演周边",
-   "date": "",
+   "date": "2026-11-10",
    "price": "",
    "publisher": "官网 GOODS 页",
    "image": "https://stage-toukenranbu.jp/wp-content/uploads/2026/09/1_%E9%99%BD%E4%BC%9D_%E5%85%AC%E6%BC%94%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.jpg",
@@ -1161,7 +1161,7 @@ window.HUB = {
   {
    "date": "2026-09-06",
    "title": "岭高华武利 猫 尾戒",
-   "price": "",
+   "price": "8,250円（含税）",
    "publisher": "Premium Bandai",
    "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256614_1.jpg",
    "points": [
@@ -1173,7 +1173,7 @@ window.HUB = {
   {
    "date": "2026-09-06",
    "title": "岭高华武利 猫眼戒指",
-   "price": "",
+   "price": "13,230円（含税）",
    "publisher": "Premium Bandai",
    "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256611_1.jpg",
    "points": [
@@ -1839,6 +1839,53 @@ window.HUB = {
    ],
    "url": "https://www.marv.jp/special/m-hakuoki-harada/disco.html",
    "cat": "影像"
+  },
+  {
+   "title": "十二支同盟 斗篷风外套",
+   "date": "2026-09-27",
+   "price": "27,500円（含税）",
+   "publisher": "Premium Bandai",
+   "image": "https://www.kamen-rider-official.com/uploads/news_article/s3_main_image/3268/57dd5d63-554d-428e-9b04-6c698affca7c.jpg",
+   "points": [
+    "照剧中十二支同盟的斗篷做的日常款，2027年1月发货",
+    "魔术贴徽章可换，徽章另售（全12种，1,320円）"
+   ],
+   "url": "https://www.kamen-rider-official.com/news_articles/3268",
+   "items": [
+    {
+     "t": "外套",
+     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image2/3244/092268f8-5c6a-4743-b348-2a35e2bb8274.jpg"
+    },
+    {
+     "t": "徽章",
+     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image3/3244/c1562380-60b0-4262-ae02-8516fcd58671.jpg"
+    }
+   ]
+  },
+  {
+   "title": "十二支 饰品系列（含猫）",
+   "date": "2026-09-30",
+   "price": "项链5,500円 · 戒指13,200円 · 耳饰6,600円",
+   "publisher": "Premium Bandai",
+   "image": "https://www.kamen-rider-official.com/uploads/news_article/s3_main_image/3267/212b1846-b9d5-4a00-ad1d-e2abb82a1a6c.jpg",
+   "points": [
+    "以Ride Exs的纹样做的金色饰品，十二支各一款"
+   ],
+   "url": "https://www.kamen-rider-official.com/news_articles/3267",
+   "items": [
+    {
+     "t": "项链",
+     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image1/3243/0825864d-2685-4b8c-8ac6-8a4460e9a812.jpg"
+    },
+    {
+     "t": "戒指",
+     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image2/3243/f21b57a5-ef7b-44f8-86f9-542fd8550879.jpg"
+    },
+    {
+     "t": "耳饰",
+     "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image3/3243/2c5b9bb4-eb63-407b-8239-f81c121b60fc.jpg"
+    }
+   ]
   }
  ],
  "channels": {
