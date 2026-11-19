@@ -460,7 +460,7 @@ $('profSrc').innerHTML='资料来源：'+P.sources.map(([t,u])=>ext(u,t)).join('
 /* says */
 (function(){const S=H.says||[];if(!S.length)return;const tps=['全部',...new Set(S.map(x=>x.topic))];let cur='全部';
 const draw=()=>{$('saysFilters').innerHTML=tps.map(t=>'<button class="'+(t===cur?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('');
-$('saysGrid').innerHTML=S.filter(x=>cur==='全部'||x.topic===cur).map(x=>'<div class="card say"><span class="tp">'+esc(x.topic)+'</span><p>'+esc(x.zh)+'</p><blockquote lang="ja">'+esc(x.ja)+'</blockquote><div class="sf">'+esc(x.date.replace(/-/g,'.'))+' · <a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.src)+'</a></div></div>').join('');};
+$('saysGrid').innerHTML=S.filter(x=>cur==='全部'||x.topic===cur).map(x=>'<div class="card say"><span class="tp">'+esc(x.topic)+'</span><p>'+esc(x.zh)+'</p>'+(x.ja?'<blockquote lang="ja">'+esc(x.ja)+'</blockquote>':'')+'<div class="sf">'+esc(x.date.replace(/-/g,'.'))+' · <a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.src)+'</a></div></div>').join('');};
 $('saysFilters').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;cur=b.dataset.t;draw();});draw();})();
 
 
