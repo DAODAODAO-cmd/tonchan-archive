@@ -1621,6 +1621,19 @@ window.HUB = {
     "2015年公演，饰织田亮"
    ],
    "url": "https://www.amazon.co.jp/dp/B078HP7LGG"
+  },
+  {
+   "date": "2015-08-12",
+   "title": "妖～AYAKASHI～ 出道单曲《憑き夜に踊れ》",
+   "cat": "CD",
+   "price": "CD",
+   "publisher": "EXIT TUNES",
+   "image": "https://i.ytimg.com/vi/orJz2nBzkAs/hqdefault.jpg",
+   "points": [
+    "五人妖怪偶像组合，他是成员之一",
+    "作词作曲蝶々P"
+   ],
+   "url": "https://www.youtube.com/watch?v=orJz2nBzkAs"
   }
  ],
  "channels": {
