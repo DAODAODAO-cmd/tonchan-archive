@@ -1573,6 +1573,54 @@ window.HUB = {
     "饰苇木场拓斗"
    ],
    "url": "https://www.marv.jp/titles/st/9009/"
+  },
+  {
+   "date": "2016",
+   "title": "音乐剧《薄樱鬼》新选组奇谭",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "Amazon",
+   "image": "https://m.media-amazon.com/images/I/51CAw+rOmAL._AC_.jpg",
+   "points": [
+    "饰原田左之助"
+   ],
+   "url": "https://www.amazon.co.jp/dp/B01M7WJNGO"
+  },
+  {
+   "date": "2016",
+   "title": "《Club SLAZY -Another World-》",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "Amazon",
+   "image": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg",
+   "points": [
+    "饰Will"
+   ],
+   "url": "https://www.amazon.co.jp/dp/B01I9G01YG"
+  },
+  {
+   "date": "2018",
+   "title": "音乐剧《薄樱鬼》原田左之助篇",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "Amazon",
+   "image": "https://m.media-amazon.com/images/I/41EAkoOY14L._AC_.jpg",
+   "points": [
+    "他担纲主演的一篇，饰原田左之助"
+   ],
+   "url": "https://www.amazon.co.jp/dp/B0798WPS4M"
+  },
+  {
+   "date": "2017",
+   "title": "舞台版《心灵侦探八云 祈祷之柩》",
+   "cat": "影像",
+   "price": "DVD",
+   "publisher": "Amazon",
+   "image": "https://m.media-amazon.com/images/I/91ODlQkYJpL._AC_SL1500_.jpg",
+   "points": [
+    "2015年公演，饰织田亮"
+   ],
+   "url": "https://www.amazon.co.jp/dp/B078HP7LGG"
   }
  ],
  "channels": {
