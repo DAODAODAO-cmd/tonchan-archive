@@ -14708,7 +14708,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://yomi.otemachi-hall.com/event/musical_showwe_are_musicvol1.html",
-   "note": "全企划2月23–25日，东启介不是三天全部作为主演出。",
+   "note": "全企划2月23–25日，読売大手町ホール，ワタナベエンターテインメント所属五人（东启介、愛加あゆ、豊原江理佳、斎藤瑠希、加藤大悟）各日不同主题。DAY1（23日18:00）由愛加・豊原・斎藤主演，嘉宾上口耕平、森崎ウィン，东启介与加藤大悟也作为嘉宾登场。全嘉宾公布：https://enterstage.jp/articles/132410",
    "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
@@ -14744,7 +14744,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://matisowa.jp/8189/",
-   "note": "14:00嘉宾加藤大悟；18:00嘉宾遥海。后续vol.2所指的前作。",
+   "note": "东启介主场。14:00嘉宾为事务所后辈加藤大悟；18:00嘉宾为《Ragtime》共演的遥海——东启介个人演唱会首位女性嘉宾，有二重唱。后续vol.2所指的前作。全嘉宾公布：https://enterstage.jp/articles/132410",
    "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
@@ -14762,6 +14762,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/8189/",
      "asset": "4ddbe858ec009526",
      "resolution": "2055 × 1269"
+    },
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2023/12/20231218_we.jpg",
+     "caption": "全出演嘉宾公布",
+     "source": "https://enterstage.jp/articles/132410",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
