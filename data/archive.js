@@ -2954,6 +2954,53 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201706",
+   "date": "2017-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2017年6月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年6月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B46%E6%9C%88",
+   "note": "",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699349.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699350.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699347.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699348.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "e18",
    "date": "2017-06-01",
    "end": "2017-07-14",
@@ -3032,53 +3079,6 @@ window.ARCHIVE = {
    "cardPhoto": "https://stage-toukenranbu.jp/archive/giden/images/cast/syokudai.jpg"
   },
   {
-   "id": "bro_201706",
-   "date": "2017-06-01",
-   "category": "活动",
-   "title": "WE官方生写真〈2017年6月〉",
-   "japanese": "WE SHOPオフィシャルブロマイド ～2017年6月～",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B46%E6%9C%88",
-   "note": "",
-   "status": "已结束",
-   "origin": "骏河屋商品资料",
-   "dateKind": "month",
-   "images": [
-    {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699349.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699350.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699347.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699348.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "kind": "bromide"
-  },
-  {
    "id": "mag_rk14945701",
    "date": "2017-06-07",
    "end": "",
@@ -3104,32 +3104,6 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
-  },
-  {
-   "id": "nat_oshitv1",
-   "date": "2017-07-01",
-   "end": "",
-   "category": "电视节目",
-   "title": "WOWOW《2.5次元男子推しTV》第一季 嘉宾",
-   "japanese": "2.5次元男子推しTV シーズン1",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://natalie.mu/stage/news/249775",
-   "note": "MC铃木拡树，第一季嘉宾有椎名鲷造、和田雅成、东启介等。",
-   "status": "已结束",
-   "origin": "音乐自然 Natalie 新闻",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2017/0922/2_5jigen_scene.jpg",
-     "caption": "报道图",
-     "source": "https://natalie.mu/stage/news/249775",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": []
   },
   {
    "id": "bro_201707",
@@ -3177,6 +3151,32 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "nat_oshitv1",
+   "date": "2017-07-01",
+   "end": "",
+   "category": "电视节目",
+   "title": "WOWOW《2.5次元男子推しTV》第一季 嘉宾",
+   "japanese": "2.5次元男子推しTV シーズン1",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://natalie.mu/stage/news/249775",
+   "note": "MC铃木拡树，第一季嘉宾有椎名鲷造、和田雅成、东启介等。",
+   "status": "已结束",
+   "origin": "音乐自然 Natalie 新闻",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2017/0922/2_5jigen_scene.jpg",
+     "caption": "报道图",
+     "source": "https://natalie.mu/stage/news/249775",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "mag_mc_377465",
@@ -3425,6 +3425,33 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "am_gg_goods17",
+   "date": "2017-09-01",
+   "end": "",
+   "category": "活动",
+   "title": "《グランギニョル》公演周边 店铺贩售",
+   "japanese": "『グランギニョル』公演グッズ",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12306664504.html",
+   "note": "公演周边在WE SHOP和ワタナベ商店上架，有角色徽章等。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://stat.ameba.jp/user_images/20170901/12/we-goodsinfo/2e/ce/j/o1032081814017742589.jpg",
+     "caption": "官方周边图",
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12306664504.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "bro_201709",
    "date": "2017-09-01",
    "category": "活动",
@@ -3457,33 +3484,6 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639096.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "kind": "bromide"
-  },
-  {
-   "id": "am_gg_goods17",
-   "date": "2017-09-01",
-   "end": "",
-   "category": "活动",
-   "title": "《グランギニョル》公演周边 店铺贩售",
-   "japanese": "『グランギニョル』公演グッズ",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://ameblo.jp/we-goodsinfo/entry-12306664504.html",
-   "note": "公演周边在WE SHOP和ワタナベ商店上架，有角色徽章等。",
-   "status": "",
-   "origin": "WE官方周边博客",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://stat.ameba.jp/user_images/20170901/12/we-goodsinfo/2e/ce/j/o1032081814017742589.jpg",
-     "caption": "官方周边图",
-     "source": "https://ameblo.jp/we-goodsinfo/entry-12306664504.html",
      "asset": "",
      "resolution": ""
     }
@@ -3695,35 +3695,6 @@ window.ARCHIVE = {
    "kind": "杂志"
   },
   {
-   "id": "mag_rm_95423071",
-   "date": "2017-11-13",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.16｜黑羽麻璃央SPECIAL，东启介海报＋采访",
-   "japanese": "W! VOL.16",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331803783",
-   "note": "黑羽麻璃央完全SPECIAL；东启介超宽海报＋采访。",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售日",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1164/neobk-2160754.jpg?_ex=500x500",
-     "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "e21",
    "date": "2017-11-13",
    "end": "2017-12-05",
@@ -3809,6 +3780,35 @@ window.ARCHIVE = {
    "workRoma": "THE SCARLET PIMPERNEL",
    "roleName": "哈尔",
    "cardPhoto": "https://www.umegei.com/the-scarlet-pimpernel/img/second/cast_10.jpg"
+  },
+  {
+   "id": "mag_rm_95423071",
+   "date": "2017-11-13",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.16｜黑羽麻璃央SPECIAL，东启介海报＋采访",
+   "japanese": "W! VOL.16",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4331803783",
+   "note": "黑羽麻璃央完全SPECIAL；东启介超宽海报＋采访。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1164/neobk-2160754.jpg?_ex=500x500",
+     "caption": "商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "web_spice156576",
@@ -4540,35 +4540,6 @@ window.ARCHIVE = {
    "kind": "活动"
   },
   {
-   "id": "mag_rm_91071247",
-   "date": "2018-05-01",
-   "end": "",
-   "category": "杂志",
-   "title": "《W!》vol.18",
-   "japanese": "W! VOL.18",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331803937",
-   "note": "鈴木拡樹・太田基裕完全SPECIAL；亚马逊简介未列东启介。",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售日",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/hmvjapan/cabinet/8742000/8740876.jpg?_ex=500x500",
-     "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "bro_201805",
    "date": "2018-05-01",
    "category": "活动",
@@ -4614,6 +4585,35 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "mag_rm_91071247",
+   "date": "2018-05-01",
+   "end": "",
+   "category": "杂志",
+   "title": "《W!》vol.18",
+   "japanese": "W! VOL.18",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/4331803937",
+   "note": "鈴木拡樹・太田基裕完全SPECIAL；亚马逊简介未列东启介。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/hmvjapan/cabinet/8742000/8740876.jpg?_ex=500x500",
+     "caption": "商品图",
+     "source": "https://search.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "mag_fs1664587",
@@ -5510,6 +5510,25 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "am_broW1811",
+   "date": "2018-10-25",
+   "end": "",
+   "category": "活动",
+   "title": "WE SHOP官方生写真W｜命売ります",
+   "japanese": "WE SHOPオフィシャルブロマイドW",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12414096100.html",
+   "note": "主演《命売ります》之际推出。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_mc_83234988",
    "date": "2018-10-25",
    "end": "",
@@ -5535,25 +5554,6 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "杂志",
    "playlistLinks": []
-  },
-  {
-   "id": "am_broW1811",
-   "date": "2018-10-25",
-   "end": "",
-   "category": "活动",
-   "title": "WE SHOP官方生写真W｜命売ります",
-   "japanese": "WE SHOPオフィシャルブロマイドW",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://ameblo.jp/we-goodsinfo/entry-12414096100.html",
-   "note": "主演《命売ります》之际推出。",
-   "status": "",
-   "origin": "WE官方周边博客",
-   "dateKind": "day",
-   "images": [],
-   "videos": [],
-   "kind": "bromide"
   },
   {
    "id": "bro_201811",
@@ -8099,33 +8099,30 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_rk16555281",
+   "id": "mag_fs2064401",
    "date": "2021-01-07",
    "end": "",
    "category": "杂志",
-   "title": "《Duet》2021年2月号",
-   "japanese": "Duet 2021年2月号",
+   "title": "《WiNK UP》2021年2月号",
+   "japanese": "WiNK UP 2021年2月号",
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16555281/",
+   "url": "https://www.fujisan.co.jp/product/159/b/2064401/",
    "note": "",
-   "status": "乐天图书商品目录确认",
-   "origin": "2026.11.17补充",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/0219/4910165170219.jpg?downsize=600:*",
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2064401_n.jpg",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16555281/",
-     "asset": "",
-     "resolution": ""
+     "source": "https://www.fujisan.co.jp/product/159/b/2064401/"
     }
    ],
    "videos": [],
    "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
+   "kind": "杂志"
   },
   {
    "id": "mag_fs2064643",
@@ -8154,30 +8151,33 @@ window.ARCHIVE = {
    "kind": "杂志"
   },
   {
-   "id": "mag_fs2064401",
+   "id": "mag_rk16555281",
    "date": "2021-01-07",
    "end": "",
    "category": "杂志",
-   "title": "《WiNK UP》2021年2月号",
-   "japanese": "WiNK UP 2021年2月号",
+   "title": "《Duet》2021年2月号",
+   "japanese": "Duet 2021年2月号",
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.fujisan.co.jp/product/159/b/2064401/",
+   "url": "https://books.rakuten.co.jp/rb/16555281/",
    "note": "",
-   "status": "",
-   "origin": "Fujisan 过刊目录",
+   "status": "乐天图书商品目录确认",
+   "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2064401_n.jpg",
+     "url": "https://tshop.r10s.jp/book/cabinet/0219/4910165170219.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2064401/"
+     "source": "https://books.rakuten.co.jp/rb/16555281/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
-   "kind": "杂志"
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "m428",
@@ -8213,35 +8213,6 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
-  },
-  {
-   "id": "mag_mc_37913419",
-   "date": "2021-01-13",
-   "end": "",
-   "category": "杂志",
-   "title": "《周刊ザテレビジョン》新连载「Days of gratitude!」开始",
-   "japanese": "週刊ザテレビジョン 1/22号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html",
-   "note": "从这期开始的个人连载「Days of gratitude!」。",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://prtimes.jp/i/7006/7988/resize/d7006-7988-262330-0.jpg",
-     "caption": "新闻稿配图",
-     "source": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
    "playlistLinks": []
   },
   {
@@ -8297,6 +8268,35 @@ window.ARCHIVE = {
    "cardPoster": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg",
    "cardPhoto": "https://stat.ameba.jp/user_images/20210117/13/uchikare-ntv/a8/77/j/o1080161814882857453.jpg",
    "cardPhotoBg": "50% 22% / 115% auto"
+  },
+  {
+   "id": "mag_mc_37913419",
+   "date": "2021-01-13",
+   "end": "",
+   "category": "杂志",
+   "title": "《周刊ザテレビジョン》新连载「Days of gratitude!」开始",
+   "japanese": "週刊ザテレビジョン 1/22号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html",
+   "note": "从这期开始的个人连载「Days of gratitude!」。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://prtimes.jp/i/7006/7988/resize/d7006-7988-262330-0.jpg",
+     "caption": "新闻稿配图",
+     "source": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "e83",
@@ -8415,33 +8415,30 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_rk16614594",
+   "id": "mag_fs2075835",
    "date": "2021-02-05",
    "end": "",
    "category": "杂志",
-   "title": "《Duet》2021年3月号",
-   "japanese": "Duet 2021年3月号",
+   "title": "《WiNK UP》2021年3月号",
+   "japanese": "WiNK UP 2021年3月号",
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16614594/",
+   "url": "https://www.fujisan.co.jp/product/159/b/2075835/",
    "note": "",
-   "status": "乐天图书商品目录确认",
-   "origin": "2026.11.17补充",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/0318/4910165170318.jpg?downsize=600:*",
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2075835_n.jpg",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16614594/",
-     "asset": "",
-     "resolution": ""
+     "source": "https://www.fujisan.co.jp/product/159/b/2075835/"
     }
    ],
    "videos": [],
    "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
+   "kind": "杂志"
   },
   {
    "id": "mag_fs2076043",
@@ -8470,30 +8467,33 @@ window.ARCHIVE = {
    "kind": "杂志"
   },
   {
-   "id": "mag_fs2075835",
+   "id": "mag_rk16614594",
    "date": "2021-02-05",
    "end": "",
    "category": "杂志",
-   "title": "《WiNK UP》2021年3月号",
-   "japanese": "WiNK UP 2021年3月号",
+   "title": "《Duet》2021年3月号",
+   "japanese": "Duet 2021年3月号",
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.fujisan.co.jp/product/159/b/2075835/",
+   "url": "https://books.rakuten.co.jp/rb/16614594/",
    "note": "",
-   "status": "",
-   "origin": "Fujisan 过刊目录",
+   "status": "乐天图书商品目录确认",
+   "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2075835_n.jpg",
+     "url": "https://tshop.r10s.jp/book/cabinet/0318/4910165170318.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2075835/"
+     "source": "https://books.rakuten.co.jp/rb/16614594/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
-   "kind": "杂志"
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "m429",
@@ -8656,35 +8656,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_rk16657557",
-   "date": "2021-02-27",
-   "end": "",
-   "category": "杂志",
-   "title": "《BEST STAGE》2021年4月号｜《身在高地》四人",
-   "japanese": "BEST STAGE 2021年4月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16657557/",
-   "note": "Micro×平间壮一×林翔太×东启介。",
-   "status": "乐天图书商品目录确认",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售日",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/0418/4910080090418.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16657557/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "mag_mc_63082374",
    "date": "2021-02-27",
    "end": "",
@@ -8711,6 +8682,35 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/3204/9784838793204.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_rk16657557",
+   "date": "2021-02-27",
+   "end": "",
+   "category": "杂志",
+   "title": "《BEST STAGE》2021年4月号｜《身在高地》四人",
+   "japanese": "BEST STAGE 2021年4月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://books.rakuten.co.jp/rb/16657557/",
+   "note": "Micro×平间壮一×林翔太×东启介。",
+   "status": "乐天图书商品目录确认",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0418/4910080090418.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/rb/16657557/",
      "asset": "",
      "resolution": ""
     }
@@ -8778,33 +8778,30 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "mag_rk16645554",
+   "id": "mag_fs2085905",
    "date": "2021-03-05",
    "end": "",
    "category": "杂志",
-   "title": "《Duet》2021年4月号",
-   "japanese": "Duet 2021年4月号",
+   "title": "《WiNK UP》2021年4月号",
+   "japanese": "WiNK UP 2021年4月号",
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16645554/",
+   "url": "https://www.fujisan.co.jp/product/159/b/2085905/",
    "note": "",
-   "status": "乐天图书商品目录确认",
-   "origin": "2026.11.17补充",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/0417/4910165170417.jpg?downsize=600:*",
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2085905_n.jpg",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16645554/",
-     "asset": "",
-     "resolution": ""
+     "source": "https://www.fujisan.co.jp/product/159/b/2085905/"
     }
    ],
    "videos": [],
    "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
+   "kind": "杂志"
   },
   {
    "id": "mag_fs2086373",
@@ -8833,30 +8830,33 @@ window.ARCHIVE = {
    "kind": "杂志"
   },
   {
-   "id": "mag_fs2085905",
+   "id": "mag_rk16645554",
    "date": "2021-03-05",
    "end": "",
    "category": "杂志",
-   "title": "《WiNK UP》2021年4月号",
-   "japanese": "WiNK UP 2021年4月号",
+   "title": "《Duet》2021年4月号",
+   "japanese": "Duet 2021年4月号",
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.fujisan.co.jp/product/159/b/2085905/",
+   "url": "https://books.rakuten.co.jp/rb/16645554/",
    "note": "",
-   "status": "",
-   "origin": "Fujisan 过刊目录",
+   "status": "乐天图书商品目录确认",
+   "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2085905_n.jpg",
+     "url": "https://tshop.r10s.jp/book/cabinet/0417/4910165170417.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2085905/"
+     "source": "https://books.rakuten.co.jp/rb/16645554/",
+     "asset": "",
+     "resolution": ""
     }
    ],
    "videos": [],
    "pending": false,
-   "kind": "杂志"
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "e102",
@@ -10109,6 +10109,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_fs2213666",
+   "date": "2022-02-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《POTATO》2022年3月号",
+   "japanese": "POTATO 2022年3月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/2475/b/2213666/",
+   "note": "",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2213666_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/2475/b/2213666/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "mag_mc_79504433",
    "date": "2022-02-07",
    "end": "",
@@ -10136,32 +10162,6 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
-  },
-  {
-   "id": "mag_fs2213666",
-   "date": "2022-02-07",
-   "end": "",
-   "category": "杂志",
-   "title": "《POTATO》2022年3月号",
-   "japanese": "POTATO 2022年3月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://www.fujisan.co.jp/product/2475/b/2213666/",
-   "note": "",
-   "status": "",
-   "origin": "Fujisan 过刊目录",
-   "dateKind": "发售日",
-   "images": [
-    {
-     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2213666_n.jpg",
-     "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/2213666/"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "杂志"
   },
   {
    "id": "web_mdpr2998812",
@@ -11448,42 +11448,6 @@ window.ARCHIVE = {
    "kind": "杂志"
   },
   {
-   "id": "mag_mc_955391",
-   "date": "2023-01-07",
-   "end": "",
-   "category": "杂志",
-   "title": "《WiNK UP》2023年2月号｜井上祐贵×东启介",
-   "japanese": "WiNK UP 2023年2月号",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://www.amazon.co.jp/dp/B00AN571SG",
-   "note": "封面King & Prince；亚马逊简介未列内页名单。",
-   "status": "",
-   "origin": "2026.11.17补充",
-   "dateKind": "发售日",
-   "images": [
-    {
-     "url": "https://m.media-amazon.com/images/I/91Au7lNuR9L.jpg",
-     "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/B00AN571SG",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": true,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "e53",
    "date": "2023-01-07",
    "end": "2023-02-13",
@@ -11541,6 +11505,42 @@ window.ARCHIVE = {
    "cardPhoto": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
    "cardPhotoBg": "50% 8% / 160% auto",
    "cardPoster": "https://ogre.natalie.mu/media/news/stage/2022/1002/thebeautifulgame1002.jpg"
+  },
+  {
+   "id": "mag_mc_955391",
+   "date": "2023-01-07",
+   "end": "",
+   "category": "杂志",
+   "title": "《WiNK UP》2023年2月号｜井上祐贵×东启介",
+   "japanese": "WiNK UP 2023年2月号",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.amazon.co.jp/dp/B00AN571SG",
+   "note": "封面King & Prince；亚马逊简介未列内页名单。",
+   "status": "",
+   "origin": "2026.11.17补充",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/91Au7lNuR9L.jpg",
+     "caption": "封面",
+     "source": "https://www.amazon.co.jp/dp/B00AN571SG",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": true,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "m768",
@@ -13814,7 +13814,7 @@ window.ARCHIVE = {
    "crew": "导演：金泽知树、大野大辅",
    "key": "konton",
    "url": "https://www.aoi-pro.com/jp/news/20230904/43097/",
-   "note": "作品为短剧集形式，未找到可靠的单一角色名。",
+   "note": "AOI Pro.首次制作的短剧公演，两部各约30分钟的新写短剧：金沢知樹编导《え・ちけっと》、大野大輔编导《ティーチ・イン》（预告期曾叫《戯曲 地獄》），共演井桁弘恵、寺本莉緒、槙尾ユウスケ（かもめんたる），津田健次郎只在《ティーチ・イン》里声音出演；开场表演是伝書鳩，每天换段子。东启介参加的谢幕后谈：10/27 15:30（金沢知樹、槙尾）、10/28 19:00（全员，当场生配信）、10/29 13:00（伝書鳩、槙尾）、10/29 17:00（全员）。开幕前围访他说：演过很多舞台，コント形式是第一次；难在演员做的コント介于戏和段子之间，不是硬逗笑，而是日常里的错位和シュール，希望带给大家“新しい東”。",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
@@ -13832,6 +13832,21 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://www.1st-generation.com/wp-content/uploads/2023/10/WVGA_Z9G_9659-21_021.jpg",
+     "caption": "开幕前囲み取材",
+     "source": "1st Generation"
+    },
+    {
+     "url": "https://cdn-corpprod.pressidium.com/jp/wp-content/uploads/sites/5/news_20230915-1.jpg",
+     "caption": "主视觉（插画：ますだみく）",
+     "source": "AOI Pro."
+    },
+    {
+     "url": "https://spice.eplus.jp/images/Bw0Jg2FABavf4oAnzuzzqy2VPpHkAMPTRpR2tRTgWYjAVANRMSmoJeHoUOt6FnbH",
+     "caption": "SPICE 公演资讯",
+     "source": "SPICE"
     }
    ],
    "videos": [],
@@ -13868,6 +13883,32 @@ window.ARCHIVE = {
      "source": "https://qjweb.jp/regular/97939/",
      "asset": "5224630b52859844",
      "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_1stgen13255",
+   "date": "2023-10-27",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《混頓 vol.1》开幕前围访（1st Generation）",
+   "japanese": "『混頓 vol.1』開幕！井桁弘恵・東啓介・寺本莉緒・槙尾ユウスケが意気込み語る",
+   "crew": "",
+   "key": "",
+   "url": "https://www.1st-generation.com/?p=13255",
+   "note": "1st Generation。第一次演コント形式。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://www.1st-generation.com/wp-content/uploads/2023/10/WVGA_Z9G_9659-21_021.jpg",
+     "caption": "囲み取材",
+     "source": "1st Generation"
     }
    ],
    "videos": [],
@@ -14127,7 +14168,7 @@ window.ARCHIVE = {
    "crew": "作词／编剧／导演：池田亮",
    "key": "lab",
    "url": "https://www.tohostage.com/tohomusicallab/",
-   "note": "东启介演出单元为《DESK》；不是同场另一单元《わたしを、褒めて》。",
+   "note": "东启介演出单元为《DESK》；不是同场另一单元《わたしを、褒めて》。 衛星劇場（eigeki.com/series/S76557）有播出录像。",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
@@ -14151,6 +14192,10 @@ window.ARCHIVE = {
     {
      "title": "TOHO MUSICAL LAB.『DESK』プロモーションビデオ",
      "url": "https://www.youtube.com/watch?v=2I5VWOQ8Nfk"
+    },
+    {
+     "title": "产经新闻 开幕舞台短片",
+     "url": "https://www.youtube.com/shorts/a_FOaoIrez4"
     }
    ],
    "pending": false,
@@ -15135,6 +15180,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "mag_fs2495961",
+   "date": "2024-03-05",
+   "end": "",
+   "category": "杂志",
+   "title": "《ミュージカル》Vol.390",
+   "japanese": "ミュージカル Vol.390",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.fujisan.co.jp/product/1281683345/b/2495961/",
+   "note": "《VIOLET》，与三浦透子、屋比久知奈、立石俊樹。",
+   "status": "",
+   "origin": "Fujisan 过刊目录",
+   "dateKind": "发售日",
+   "images": [
+    {
+     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2495961_n.jpg",
+     "caption": "封面",
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2495961/"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "杂志"
+  },
+  {
    "id": "pr_musicalstars2",
    "date": "2024-03-05",
    "end": "",
@@ -15160,32 +15231,6 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "magazine"
-  },
-  {
-   "id": "mag_fs2495961",
-   "date": "2024-03-05",
-   "end": "",
-   "category": "杂志",
-   "title": "《ミュージカル》Vol.390",
-   "japanese": "ミュージカル Vol.390",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://www.fujisan.co.jp/product/1281683345/b/2495961/",
-   "note": "《VIOLET》，与三浦透子、屋比久知奈、立石俊樹。",
-   "status": "",
-   "origin": "Fujisan 过刊目录",
-   "dateKind": "发售日",
-   "images": [
-    {
-     "url": "https://img.fujisan.co.jp/images/products/backnumbers/2495961_n.jpg",
-     "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2495961/"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "杂志"
   },
   {
    "id": "e90",
@@ -15984,34 +16029,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "web_tt132646",
-   "date": "2024-10-15",
-   "end": "",
-   "category": "采访／连载",
-   "title": "出道10周年个人音乐会专访（シアターテイメント）",
-   "japanese": "東啓介 インタビュー デビュー10周年ソロコンサート開催",
-   "crew": "",
-   "key": "",
-   "url": "https://theatertainment.jp/cast-staff/132646/",
-   "note": "シアターテイメントNEWS。",
-   "status": "发布方原文已定位",
-   "origin": "2026.11.18补充",
-   "dateKind": "文章发布日期（发布方元数据）",
-   "images": [
-    {
-     "url": "https://theatertainment.jp/wp-content/uploads/2024/10/2410keisuke.jpg",
-     "caption": "シアターテイメント",
-     "source": "https://theatertainment.jp/cast-staff/132646/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "文章",
-   "playlistLinks": []
-  },
-  {
    "id": "web_spice332709",
    "date": "2024-10-15",
    "end": "",
@@ -16030,6 +16047,34 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/uwO5XVBKzxBMPxSy9tfgtS4CxrcR2AdjFotzWsdbqMaFjrz46n2UNW9klpjXJbf0",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/332709",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_tt132646",
+   "date": "2024-10-15",
+   "end": "",
+   "category": "采访／连载",
+   "title": "出道10周年个人音乐会专访（シアターテイメント）",
+   "japanese": "東啓介 インタビュー デビュー10周年ソロコンサート開催",
+   "crew": "",
+   "key": "",
+   "url": "https://theatertainment.jp/cast-staff/132646/",
+   "note": "シアターテイメントNEWS。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://theatertainment.jp/wp-content/uploads/2024/10/2410keisuke.jpg",
+     "caption": "シアターテイメント",
+     "source": "https://theatertainment.jp/cast-staff/132646/",
      "asset": "",
      "resolution": ""
     }
@@ -16188,35 +16233,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "goods_cp2",
-   "date": "2024-11-01",
-   "end": "",
-   "category": "活动",
-   "title": "《Connecting Puzzles vol.2》周边通贩",
-   "japanese": "東啓介コンサート『Connecting Puzzles vol.2』グッズ通信販売",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://x.com/we_goods_info/status/1852289535859999163",
-   "note": "本人画的猫“きゃっとん。”长袖T、亚克力立牌等；ワタナベ商店（7net）11/3起预约，11/10截止。",
-   "status": "WE Goods Info 官方推文确认",
-   "origin": "2026.11.17补充",
-   "dateKind": "发布日",
-   "images": [
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/8189/",
-     "asset": "4ddbe858ec009526",
-     "resolution": "2055 × 1269"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
    "id": "bro_202411",
    "date": "2024-11-01",
    "category": "活动",
@@ -16248,6 +16264,35 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "goods_cp2",
+   "date": "2024-11-01",
+   "end": "",
+   "category": "活动",
+   "title": "《Connecting Puzzles vol.2》周边通贩",
+   "japanese": "東啓介コンサート『Connecting Puzzles vol.2』グッズ通信販売",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://x.com/we_goods_info/status/1852289535859999163",
+   "note": "本人画的猫“きゃっとん。”长袖T、亚克力立牌等；ワタナベ商店（7net）11/3起预约，11/10截止。",
+   "status": "WE Goods Info 官方推文确认",
+   "origin": "2026.11.17补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
+     "caption": "文章配图",
+     "source": "https://matisowa.jp/8189/",
+     "asset": "4ddbe858ec009526",
+     "resolution": "2055 × 1269"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "nat_jbb24_tv",
@@ -18750,6 +18795,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202609",
+   "date": "2026-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2026年9月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年9月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2094643934349988036",
+   "note": "",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HRGqVt-aoAAIYCf?format=jpg&name=large",
+     "caption": "WE官方生写真 2026年9月 阵容宣传图",
+     "source": "https://x.com/we_goods_info/status/2094643934349988036",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "web_talent260901",
    "date": "2026-09-01",
    "end": "",
@@ -18777,32 +18848,6 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
-  },
-  {
-   "id": "bro_202609",
-   "date": "2026-09-01",
-   "category": "活动",
-   "title": "WE官方生写真〈2026年9月〉",
-   "japanese": "WEオフィシャルブロマイド ～2026年9月～",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://x.com/we_goods_info/status/2094643934349988036",
-   "note": "",
-   "status": "已结束",
-   "origin": "WE Goods Info",
-   "dateKind": "month",
-   "images": [
-    {
-     "url": "https://pbs.twimg.com/media/HRGqVt-aoAAIYCf?format=jpg&name=large",
-     "caption": "WE官方生写真 2026年9月 阵容宣传图",
-     "source": "https://x.com/we_goods_info/status/2094643934349988036",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "kind": "bromide"
   },
   {
    "id": "mag_mc_83740228",
@@ -19563,6 +19608,35 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "u_animate",
+   "date": "2026-11-07",
+   "end": "2026-11-23",
+   "category": "活动",
+   "title": "刀舞十周年 × Animate池袋本店 联动",
+   "japanese": "アニメイト池袋本店 コラボ",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://stage-toukenranbu.jp/",
+   "note": "",
+   "status": "用户整理行程；以官方公告为准",
+   "origin": "2026.11.17 用户补充",
+   "dateKind": "日程",
+   "images": [
+    {
+     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/tousta10th_animate_KV_0918-scaled.jpg",
+     "caption": "官方合作主视觉",
+     "source": "https://stage-toukenranbu.jp/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "u_kansha",
    "date": "2026-11-07",
    "end": "",
@@ -19592,35 +19666,6 @@ window.ARCHIVE = {
      "url": "https://www.bilibili.com/video/BV1PQWE69EMx/"
     }
    ],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "u_animate",
-   "date": "2026-11-07",
-   "end": "2026-11-23",
-   "category": "活动",
-   "title": "刀舞十周年 × Animate池袋本店 联动",
-   "japanese": "アニメイト池袋本店 コラボ",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://stage-toukenranbu.jp/",
-   "note": "",
-   "status": "用户整理行程；以官方公告为准",
-   "origin": "2026.11.17 用户补充",
-   "dateKind": "日程",
-   "images": [
-    {
-     "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/tousta10th_animate_KV_0918-scaled.jpg",
-     "caption": "官方合作主视觉",
-     "source": "https://stage-toukenranbu.jp/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": [],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -19685,6 +19730,31 @@ window.ARCHIVE = {
    "cardPoster": "https://ogre.natalie.mu/media/news/stage/2026/0717/oustayou_KV_0716-2.jpg"
   },
   {
+   "id": "mag_animage2612",
+   "date": "2026-11-10",
+   "category": "杂志",
+   "title": "《Animage》2026年12月号｜《假面骑士麦斯》嶺高華武利",
+   "japanese": "アニメージュ 2026年12月号",
+   "role": "嶺高華武利／仮面ライダーマオウ",
+   "crew": "",
+   "key": false,
+   "url": "https://books.rakuten.co.jp/rb/18881389/",
+   "note": "封面要目列有《仮面ライダーマイス》，内页刊登东启介饰演的嶺高華武利。",
+   "status": "已发售",
+   "origin": "用户提供",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://tshop.r10s.jp/book/cabinet/1263/4912015771263_1_2.jpg?downsize=600:*",
+     "caption": "封面",
+     "source": "https://books.rakuten.co.jp/rb/18881389/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "mag_pash2612",
    "date": "2026-11-10",
    "end": "",
@@ -19712,31 +19782,6 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
-  },
-  {
-   "id": "mag_animage2612",
-   "date": "2026-11-10",
-   "category": "杂志",
-   "title": "《Animage》2026年12月号｜《假面骑士麦斯》嶺高華武利",
-   "japanese": "アニメージュ 2026年12月号",
-   "role": "嶺高華武利／仮面ライダーマオウ",
-   "crew": "",
-   "key": false,
-   "url": "https://books.rakuten.co.jp/rb/18881389/",
-   "note": "封面要目列有《仮面ライダーマイス》，内页刊登东启介饰演的嶺高華武利。",
-   "status": "已发售",
-   "origin": "用户提供",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/1263/4912015771263_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/18881389/",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
-   "videos": []
   },
   {
    "id": "u_hiden_stream",
