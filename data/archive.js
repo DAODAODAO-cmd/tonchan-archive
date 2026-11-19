@@ -896,7 +896,28 @@ window.ARCHIVE = {
    "status": "",
    "origin": "WE官方周边博客",
    "dateKind": "day",
-   "images": [],
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315862.jpg",
+     "caption": "复刻套组【vol.1&2】",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315863.jpg",
+     "caption": "复刻套组【vol.3&4】",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315864.jpg",
+     "caption": "复刻套组【vol.5&6】",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315865.jpg",
+     "caption": "复刻套组【vol.7&8】",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
    "videos": [],
    "kind": "bromide"
   },
@@ -1792,6 +1813,36 @@ window.ARCHIVE = {
    "cardPhoto": "https://prtimes.jp/i/16719/99/resize/d16719-99-628132-0.jpg"
   },
   {
+   "id": "am_2shot16",
+   "date": "2016-10-01",
+   "end": "",
+   "category": "活动",
+   "title": "宫崎秋人×东启介 双人生写真套组［COOL］［SMILE］",
+   "japanese": "宮崎秋人・東啓介 2ショットブロマイドセット",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://ameblo.jp/we-goodsinfo/entry-12226825112.html",
+   "note": "和宫崎秋人的双人生写真，COOL和SMILE两种。2016年12月在WE SHOP表参道店数量限定再贩。",
+   "status": "",
+   "origin": "WE官方周边博客",
+   "dateKind": "day",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343013.jpg",
+     "caption": "［COOL］",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343014.jpg",
+     "caption": "［SMILE］",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "bro_201610",
    "date": "2016-10-01",
    "category": "活动",
@@ -1806,6 +1857,11 @@ window.ARCHIVE = {
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343012.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594739.jpg",
      "caption": "生写真",
@@ -1882,6 +1938,11 @@ window.ARCHIVE = {
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301345398.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg821576.jpg",
      "caption": "生写真",
@@ -2491,6 +2552,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301356196.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545453.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
@@ -2775,6 +2841,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301361075.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/C_7ya1TU0AAJcoG?format=jpg&name=large",
      "caption": "本人发的生写真",
@@ -3578,6 +3649,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301375029.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683296.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
@@ -4042,6 +4118,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301381805.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717120.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
@@ -4417,6 +4498,11 @@ window.ARCHIVE = {
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301389133.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271344.jpg",
      "caption": "生写真",
@@ -5989,6 +6075,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301417946.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937042.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
@@ -6388,6 +6479,31 @@ window.ARCHIVE = {
    "kind": "杂志"
   },
   {
+   "id": "bro_201906",
+   "date": "2019-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2019年6月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2019*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301425383.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "bro_201907",
    "date": "2019-07-01",
    "category": "活动",
@@ -6402,6 +6518,11 @@ window.ARCHIVE = {
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301427912.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723926.jpg",
      "caption": "生写真",
@@ -6497,6 +6618,31 @@ window.ARCHIVE = {
    "workRoma": "KATSU KOKICHI DEN",
    "roleName": "胜麟太郎",
    "cardPhoto": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg"
+  },
+  {
+   "id": "bro_201908",
+   "date": "2019-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2019年8月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2019*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301430196.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "s158",
@@ -6817,6 +6963,31 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201912",
+   "date": "2019-12-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2019年12月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2019*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301442556.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "mag_fs1910145",
@@ -7167,6 +7338,56 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "bro_202005",
+   "date": "2020-05-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2020年5月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2020*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301453972.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
+   "id": "bro_202006",
+   "date": "2020-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2020年6月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2020*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301455708.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "asast_088",
    "date": "2020-06-04",
    "end": "",
@@ -7330,6 +7551,31 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202007",
+   "date": "2020-07-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2020年7月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2020*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301457637.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "asast_fujita_200702",
    "date": "2020-07-02",
    "end": "",
@@ -7490,6 +7736,31 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202008",
+   "date": "2020-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2020年8月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2020*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301459724.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "mts_rev963",
@@ -8198,6 +8469,31 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202101",
+   "date": "2021-01-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2021年1月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2021*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301470592.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "web_sankei210105",
@@ -9275,6 +9571,31 @@ window.ARCHIVE = {
    "cardPhoto": "https://theatergirl.jp/wp-content/uploads/2021/04/reIMG_0237.jpg"
   },
   {
+   "id": "bro_202104",
+   "date": "2021-04-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2021年4月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2021*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301477326.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "m431",
    "date": "2021-04-10",
    "end": "",
@@ -9561,6 +9882,31 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202108",
+   "date": "2021-08-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2021年8月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2021*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301486219.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "m435",
    "date": "2021-08-10",
    "end": "",
@@ -9716,6 +10062,31 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202110",
+   "date": "2021-10-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2021年10月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2021*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301490992.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "m437",
    "date": "2021-10-10",
    "end": "",
@@ -9801,6 +10172,31 @@ window.ARCHIVE = {
    "roleName": "加贺见修",
    "cardPhoto": "https://www.tv-tokyo.co.jp/tsumarisuki/image/cast/06.jpg",
    "cardPoster": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/f3/d0/00c1329e556c48d6df9fd2e6564a.jpg"
+  },
+  {
+   "id": "bro_202111",
+   "date": "2021-11-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2021年11月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2021*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301493538.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "m438",
@@ -9946,6 +10342,31 @@ window.ARCHIVE = {
     }
    ],
    "videos": []
+  },
+  {
+   "id": "bro_202201",
+   "date": "2022-01-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2022年1月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2022*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301497383.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "m440",
@@ -10238,6 +10659,31 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202202",
+   "date": "2022-02-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2022年2月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2022*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301500593.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "mag_fs2213666",
    "date": "2022-02-07",
    "end": "",
@@ -10477,6 +10923,31 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202204",
+   "date": "2022-04-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2022年4月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2022*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301505621.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "m443",
    "date": "2022-04-10",
    "end": "",
@@ -10629,6 +11100,31 @@ window.ARCHIVE = {
    "roleName": "神秘男子",
    "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2022/0419/bushim_20220420_02.jpg",
    "cardPhoto": "https://pbs.twimg.com/media/FeN8HGyakAATefI?format=jpg&name=large"
+  },
+  {
+   "id": "bro_202206",
+   "date": "2022-06-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2022年6月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2022*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301509861.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "e48",
@@ -11563,6 +12059,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110634988.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/FmhGl8zakAApVcz?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1614618093212557313",
@@ -12162,6 +12663,31 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202304",
+   "date": "2023-04-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2023年4月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2023*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110637888.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "s176",
@@ -13336,6 +13862,31 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202309",
+   "date": "2023-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2023年9月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/2023*/7net.omni7.jp/spc/watanabepro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110642291.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "qj93672",
@@ -14608,6 +15159,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110644893.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/GAPG5koakAAgwbs?format=jpg&name=large",
      "caption": "WE官方生写真 2023年12月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1730445453446299880",
@@ -15412,6 +15968,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110647337.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/GHjSRGJaAAAvkS4?format=jpg&name=large",
      "caption": "WE官方生写真 2024年3月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1763402093019459858",
@@ -16143,6 +16704,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110654289.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/GWcJXppa8AAxDui?format=jpg&name=large",
      "caption": "WE官方生写真 2024年9月 阵容宣传图",
@@ -17643,6 +18209,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110665401.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/Gp1Qmw0aYAMeGSW?format=jpg&name=large",
      "caption": "WE官方生写真 2025年5月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1917777830601187352",
@@ -17838,6 +18409,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110669215.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/GuvZbwzWIAAsIlE?format=jpg&name=large",
      "caption": "WE官方生写真 2025年7月 阵容宣传图",
@@ -18301,6 +18877,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110676382.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/G2JNXKyaIAIYO0c?format=jpg&name=large",
      "caption": "WE官方生写真 2025年10月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1973224824534405621",
@@ -18503,6 +19084,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110680987.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/G7EYbbHaYAA2-Nm?format=jpg&name=large",
      "caption": "WE官方生写真 2025年12月 阵容宣传图",
@@ -18809,6 +19395,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/HOw24LFaAAAiNHX?format=jpg&name=large",
      "caption": "WE官方生写真 2026年8月 阵容宣传图",
