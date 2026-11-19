@@ -15959,7 +15959,7 @@ window.ARCHIVE = {
   {
    "id": "pr_voicefriend24",
    "date": "2024-10-28",
-   "end": "",
+   "end": "2024-12-26",
    "category": "活动",
    "title": "Voice Friend《视えない案内人》文喫联动",
    "japanese": "ボイスフレンド『視えない案内人』",
@@ -15967,11 +15967,18 @@ window.ARCHIVE = {
    "crew": "",
    "key": false,
    "url": "https://prtimes.jp/main/html/rd/p/000000460.000023227.html",
-   "note": "和金の国 桃泽健辅合作的沉浸式声音企划，在文喫三家店陆续开展。",
+   "note": "和金の国 桃泽健辅合作的沉浸式声音企划，在文喫三家店陆续开展。 东启介声演，金の国・桃泽健辅脚本的书店沉浸式语音导览。文喫 六本木 10/28–11/18、文喫 栄 11/22–12/8、文喫 福冈天神 12/13–12/26；10月16日开票；有东启介拍摄新图和桃泽手绘插画的原创周边。官方发表：https://x.com/voice_friend_jp/status/1844558590230884784",
    "status": "",
    "origin": "PR TIMES",
    "dateKind": "day",
    "images": [
+    {
+     "url": "https://pbs.twimg.com/media/GZkrMSzaAAEe4VP?format=jpg&name=large",
+     "caption": "新作详情发表（ボイスフレンド官方X，2024.10.11）",
+     "source": "https://x.com/voice_friend_jp/status/1844558590230884784",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/23227/460/23227-460-59c09f2358d5239cbb79cc9164812f0d-1733x1228.png",
      "caption": "新闻稿配图",
