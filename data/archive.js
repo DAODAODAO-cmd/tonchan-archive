@@ -19022,6 +19022,38 @@ window.ARCHIVE = {
     {
      "title": "【新番組】「仮面ライダーマイス」スペシャルティザー！",
      "url": "https://www.nicovideo.jp/watch/sm46625219"
+    },
+    {
+     "title": "东映官方X 2026.07.15：演员公布：东启介饰岭高华武利／假面骑士Maou",
+     "url": "https://x.com/my_th_toei/status/2077483841460342902"
+    },
+    {
+     "title": "东映官方X 2026.07.27：动作演员公布：假面骑士Maou由縄田雄哉担任",
+     "url": "https://x.com/my_th_toei/status/2081575308658954695"
+    },
+    {
+     "title": "东映官方X 2026.08.04：十二支同盟预告影像",
+     "url": "https://x.com/my_th_toei/status/2084471887434805623"
+    },
+    {
+     "title": "东映官方X 2026.08.27：十二支预告完全版（杉原辉昭监督）",
+     "url": "https://x.com/my_th_toei/status/2092799194822303779"
+    },
+    {
+     "title": "东映官方X 2026.09.05：麦斯＆Maou角色视觉卡",
+     "url": "https://x.com/my_th_toei/status/2096075992876085451"
+    },
+    {
+     "title": "东映官方X 2026.09.25：第4话「狼には裏がある」预告视频",
+     "url": "https://x.com/my_th_toei/status/2103409186633822399"
+    },
+    {
+     "title": "东映官方X 2026.09.27：第4话播出感谢",
+     "url": "https://x.com/my_th_toei/status/2104005851698573553"
+    },
+    {
+     "title": "东映官方X 2026.10.24：第8话「窮鼠ネコをかむ」预告视频",
+     "url": "https://x.com/my_th_toei/status/2113827840776966635"
     }
    ],
    "pending": false,
