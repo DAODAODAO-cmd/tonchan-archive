@@ -2250,43 +2250,53 @@ window.HUB = {
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_7.jpg"
     },
     {
-     "t": "徽章（另售）",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_1.jpg"
+     "t": "猫徽章（另售）",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_2.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_2.jpg"
     }
    ]
   },
   {
-   "title": "十二支 饰品系列（项链 · 戒指 · 耳饰）",
+   "title": "猫纹样饰品（项链 · 戒指 · 耳饰）",
    "date": "2026-09-30",
-   "price": "项链5,500円 · 戒指13,200円 · 耳饰6,600円",
+   "price": "",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_1.jpg",
+   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_2.jpg",
    "points": [
-    "以Ride Exs纹样做的金色饰品，十二支各一款（没有猫）",
-    "同系列的斗篷外套徽章也是这套图案"
+    "十二支系列里红色那款就是猫（华武利／Maou）",
+    "项链5,500円 · 戒指13,200円 · 耳饰6,600円"
    ],
    "url": "https://www.kamen-rider-official.com/news_articles/3267",
    "items": [
     {
      "t": "项链",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_1.jpg"
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_2.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_2.jpg"
     },
     {
      "t": "项链佩戴",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_4.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_4.jpg"
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_3.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_3.jpg"
     },
     {
      "t": "戒指",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_1.jpg"
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_2.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_2.jpg"
+    },
+    {
+     "t": "戒指佩戴",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_3.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_3.jpg"
     },
     {
      "t": "耳饰",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_1.jpg"
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_2.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_2.jpg"
+    },
+    {
+     "t": "耳饰佩戴",
+     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_3.jpg",
+     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_3.jpg"
     }
    ]
   },
