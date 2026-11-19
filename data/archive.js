@@ -1243,6 +1243,41 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "id": "web_ldn160617",
+   "date": "2016-06-17",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《Club SLAZY -Another world-》首次参演专访（livedoor新闻特集）",
+   "japanese": "東 啓介の前に開かれた新しい世界「どこまで歌えるのかチャレンジしたい」",
+   "crew": "",
+   "key": "",
+   "url": "https://news.livedoor.com/article/detail/11636628/",
+   "note": "ライブドアニュース特集，全2页（摄影：後藤倫人）。谈Will一角、入行经过、2.5次元表演、书道・钢琴・相机等爱好。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.19补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://image.news.livedoor.com/newsimage/b/3/b3edc44de720d6c9694dc14b8f3f2745.jpg",
+     "caption": "ライブドアニュース 撮影／後藤倫人",
+     "source": "https://news.livedoor.com/article/detail/11636628/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
+     "url": "https://image.news.livedoor.com/newsimage/a/0/a0b8b96f107b2c2ed922e94efd7b3df7.jpg",
+     "caption": "ライブドアニュース 撮影／後藤倫人",
+     "source": "https://news.livedoor.com/article/detail/11636628/",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_mc_14353602",
    "date": "2016-06-24",
    "end": "",
