@@ -5698,7 +5698,7 @@ window.ARCHIVE = {
    "crew": "编剧／导演：ノゾエ征爾",
    "key": "inochi",
    "url": "https://stage.parco.jp/program/inochi/",
-   "note": "东京11月24日–12月9日；巡演另至12月22日。",
+   "note": "2018 PARCO PRODUCE“三島×MISHIMA”之一，原作三岛由纪夫，ノゾエ征爾编导。东京サンシャイン劇場 11/24–12/9，大阪森ノ宮ピロティホール 12/22。这是他第一部纯话剧（不唱歌的戏）。他演27岁的广告文案羽仁男：某天突然想死，登了“命売ります”的广告，结果每次都死不成，反倒被一个个来买命的怪人拖着越活越起劲。台词里有一句“…生きてますから、誰かまた買いに来てください、命。”和上村海成演的少年薫（为吸血鬼母亲来买他的命）之间那种像父子又不像的关系，是官方点名的看点。共演馬渕英里何、莉奈、樹里咲穂、温水洋一等。",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
@@ -5749,6 +5749,11 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://img.hmv.co.jp/hybridimage/eventpage/368139/main.jpg",
+     "caption": "公演主视觉（横版）",
+     "source": "ローチケ"
     }
    ],
    "videos": [],
