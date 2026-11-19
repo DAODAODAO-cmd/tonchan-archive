@@ -5325,12 +5325,19 @@ window.ARCHIVE = {
    "role": "周四主持：东启介",
    "crew": "",
    "key": "",
-   "url": "https://www.joqr.co.jp/article/detail/316_216.php",
-   "note": "全节目2018年10月1日开播；不把周一节目开播日误记为本人首期。",
+   "url": "https://natalie.mu/stage/news/303161",
+   "note": "超！A&G＋网络广播「あさステ！」2018年10月1日（周一）开播，东启介担任周四7:00–7:30主持，首期即10月4日；同日20:00 niconico生放送重播。月曜有泽樟太郎、火曜松村龙之介、水曜矢崎广、金曜三浦凉介、土曜染谷俊之。",
    "status": "",
    "origin": "补充检索",
    "dateKind": "本人首期日期（推定）",
    "images": [
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2018/1010/higashikeisuke.jpg",
+     "caption": "あさステ！木曜主持 东启介",
+     "source": "https://natalie.mu/stage/news/303161",
+     "asset": "",
+     "resolution": ""
+    },
     {
      "url": "https://www.joqr.co.jp/article/images/asasute.jpg",
      "caption": "文章配图",
@@ -5340,7 +5347,7 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": true,
+   "pending": false,
    "kind": "音声",
    "playlistLinks": []
   },
