@@ -7300,6 +7300,11 @@ window.ARCHIVE = {
      "url": "https://stagegate-vr.jp/vol1/img_cast/higashi.jpg",
      "caption": "官网演员照",
      "source": "https://stagegate-vr.jp/vol1/"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0612/defiled_vr.jpg",
+     "caption": "VR配信海报",
+     "source": "ナタリー"
     }
    ],
    "videos": [],
@@ -7309,7 +7314,7 @@ window.ARCHIVE = {
    "roleRoma": "HARRY MENDELSOHN",
    "workRoma": "DEFILED",
    "roleName": "哈里",
-   "cardPoster": "https://stagegate-vr.jp/vol1/img_parallax/defiled1.jpg",
+   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2020/0612/defiled_vr.jpg",
    "cardPhoto": "https://stagegate-vr.jp/vol1/img_cast/higashi.jpg"
   },
   {
@@ -18677,6 +18682,11 @@ window.ARCHIVE = {
      "url": "https://animeanime.jp/imgs/zoom/889762.jpg",
      "caption": "场面照：马狼照英撞倒对手",
      "source": "https://animeanime.jp/article/2026/06/09/99917.html"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2026/0207/bluelock-movie_202602_teaser.jpg",
+     "caption": "预告海报",
+     "source": "ナタリー"
     }
    ],
    "videos": [
@@ -18723,7 +18733,7 @@ window.ARCHIVE = {
    "roleRoma": "BAROU SHOEI",
    "workRoma": "BLUE LOCK",
    "roleName": "马狼照英",
-   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2026/0513/BL_teaser.jpg",
+   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2026/0207/bluelock-movie_202602_teaser.jpg",
    "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2026/0513/bluelock-movie_20260513_02.jpg",
    "cardPhotoBg": "100% 0% / 320% auto"
   },
@@ -20141,7 +20151,7 @@ window.ARCHIVE = {
    "id": "u_wowow_oppan2",
    "date": "2026-12-21",
    "end": "",
-   "category": "电视节目",
+   "category": "电影",
    "title": "电影《大叔的内裤穿什么都行吧！》WOWOW 再放送",
    "japanese": "映画 おっさんのパンツがなんだっていいじゃないか！",
    "role": "砂川円",
