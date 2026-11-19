@@ -531,7 +531,7 @@ window.ARCHIVE = {
    "id": "am_ayakashi_bro1",
    "date": "2015-05-01",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "妖～AYAKASHI～ 官方生写真［A］［B］",
    "japanese": "妖～AYAKASHI～オフィシャルブロマイド",
    "role": "",
@@ -829,7 +829,7 @@ window.ARCHIVE = {
    "id": "am_ayakashi_bro2",
    "date": "2015-09-05",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "妖～AYAKASHI～ 官方生写真 第2弹［C］",
    "japanese": "妖～AYAKASHI～オフィシャルブロマイド[C]",
    "role": "",
@@ -885,7 +885,7 @@ window.ARCHIVE = {
    "id": "am_premset15",
    "date": "2015-12-24",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "WE!プレミアム会员限定 东启介生写真复刻套组",
    "japanese": "WE!プレミアム会員限定 東啓介ブロマイドセット",
    "role": "",
@@ -1231,7 +1231,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201606",
    "date": "2016-06-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2016年6月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2016年6月～",
    "role": "",
@@ -1342,7 +1342,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201607",
    "date": "2016-07-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2016年7月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2016年7月～",
    "role": "",
@@ -1475,7 +1475,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201608",
    "date": "2016-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2016年8月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2016年8月～",
    "role": "",
@@ -1729,15 +1729,7 @@ window.ARCHIVE = {
    "status": "",
    "origin": "PR TIMES",
    "dateKind": "day",
-   "images": [
-    {
-     "url": "https://prtimes.jp/i/7006/2689/resize/d7006-2689-200981-0.jpg",
-     "caption": "新闻稿配图",
-     "source": "https://prtimes.jp/main/html/rd/p/000002689.000007006.html",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
+   "images": [],
    "videos": [],
    "kind": "magazine"
   },
@@ -1816,7 +1808,7 @@ window.ARCHIVE = {
    "id": "am_2shot16",
    "date": "2016-10-01",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "宫崎秋人×东启介 双人生写真套组［COOL］［SMILE］",
    "japanese": "宮崎秋人・東啓介 2ショットブロマイドセット",
    "role": "",
@@ -1845,7 +1837,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201610",
    "date": "2016-10-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2016年10月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2016年10月～",
    "role": "",
@@ -1926,7 +1918,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201611",
    "date": "2016-11-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2016年11月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2016年11月～",
    "role": "",
@@ -2007,7 +1999,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201612",
    "date": "2016-12-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2016年12月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2016年12月～",
    "role": "",
@@ -2225,7 +2217,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201701",
    "date": "2017-01-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年1月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年1月～",
    "role": "",
@@ -2355,7 +2347,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201702",
    "date": "2017-02-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年2月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -2539,7 +2531,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201703",
    "date": "2017-03-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年3月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年3月～",
    "role": "",
@@ -2649,7 +2641,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201704",
    "date": "2017-04-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年4月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年4月～",
    "role": "",
@@ -2829,7 +2821,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201705",
    "date": "2017-05-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真（2017年5月）",
    "japanese": "WEオフィシャルブロマイド ～2017年5月～",
    "role": "",
@@ -2876,7 +2868,7 @@ window.ARCHIVE = {
    "id": "am_broW1705",
    "date": "2017-05-03",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "WE SHOP官方生写真W《First-on》纪念",
    "japanese": "東啓介 WE SHOPオフィシャルブロマイドW",
    "role": "",
@@ -3044,7 +3036,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201706",
    "date": "2017-06-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年6月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年6月～",
    "role": "",
@@ -3201,7 +3193,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201707",
    "date": "2017-07-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年7月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年7月～",
    "role": "",
@@ -3449,7 +3441,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201708",
    "date": "2017-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年8月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年8月～",
    "role": "",
@@ -3536,7 +3528,7 @@ window.ARCHIVE = {
    "id": "am_gg_goods17",
    "date": "2017-09-01",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "《グランギニョル》公演周边 店铺贩售",
    "japanese": "『グランギニョル』公演グッズ",
    "role": "",
@@ -3562,7 +3554,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201709",
    "date": "2017-09-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年9月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年9月～",
    "role": "",
@@ -3636,7 +3628,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201710",
    "date": "2017-10-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年10月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年10月～",
    "role": "",
@@ -3742,7 +3734,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201711",
    "date": "2017-11-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年11月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年11月～",
    "role": "",
@@ -4020,7 +4012,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201712",
    "date": "2017-12-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2017年12月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年12月～",
    "role": "",
@@ -4081,22 +4073,7 @@ window.ARCHIVE = {
    "status": "发布方原文已定位",
    "origin": "2026.11.18补充",
    "dateKind": "文章发布日期（发布方元数据）",
-   "images": [
-    {
-     "url": "https://enterstage.jp/wp/interview/upimg/008609.jpg",
-     "caption": "エンタステージ",
-     "source": "https://enterstage.jp/articles/40364",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://enterstage.jp/wp/interview/upimg/008609_2.jpg",
-     "caption": "エンタステージ",
-     "source": "https://enterstage.jp/articles/40364",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
+   "images": [],
    "videos": [],
    "pending": false,
    "kind": "文章",
@@ -4105,7 +4082,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201801",
    "date": "2018-01-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年1月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年1月～",
    "role": "",
@@ -4248,7 +4225,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201802",
    "date": "2018-02-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年2月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年2月～",
    "role": "",
@@ -4358,7 +4335,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201803",
    "date": "2018-03-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年3月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年3月～",
    "role": "",
@@ -4486,7 +4463,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201804",
    "date": "2018-04-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年4月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年4月～",
    "role": "",
@@ -4625,7 +4602,7 @@ window.ARCHIVE = {
    "id": "am_broW1804",
    "date": "2018-04-28",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "WE SHOP官方生写真W《Two-ton》纪念",
    "japanese": "東啓介 WE SHOPオフィシャルブロマイドW",
    "role": "",
@@ -4685,7 +4662,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201805",
    "date": "2018-05-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年5月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年5月～",
    "role": "",
@@ -4788,7 +4765,7 @@ window.ARCHIVE = {
    "id": "am_broW1806",
    "date": "2018-05-25",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "WE SHOP官方生写真W｜刀ステ悲传（与三津谷亮、前山刚久）",
    "japanese": "WE SHOPオフィシャルブロマイドW",
    "role": "",
@@ -4840,7 +4817,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201806",
    "date": "2018-06-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年6月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年6月～",
    "role": "",
@@ -5000,7 +4977,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201807",
    "date": "2018-07-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年7月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年7月～",
    "role": "",
@@ -5100,7 +5077,7 @@ window.ARCHIVE = {
    "id": "am_broW1808",
    "date": "2018-07-25",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "WE SHOP官方生写真W｜马里戈尔德",
    "japanese": "WE SHOPオフィシャルブロマイドW",
    "role": "",
@@ -5124,7 +5101,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201808",
    "date": "2018-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年8月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年8月～",
    "role": "",
@@ -5356,7 +5333,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201809",
    "date": "2018-09-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年9月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年9月～",
    "role": "",
@@ -5432,7 +5409,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201810",
    "date": "2018-10-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年10月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年10月～",
    "role": "",
@@ -5674,7 +5651,7 @@ window.ARCHIVE = {
    "id": "am_broW1811",
    "date": "2018-10-25",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "WE SHOP官方生写真W｜命売ります",
    "japanese": "WE SHOPオフィシャルブロマイドW",
    "role": "",
@@ -5725,7 +5702,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201811",
    "date": "2018-11-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2018年11月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2018年11月～",
    "role": "",
@@ -6047,7 +6024,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201902",
    "date": "2019-02-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2019年2月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2019年2月～",
    "role": "",
@@ -6080,7 +6057,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201903",
    "date": "2019-03-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2019年3月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2019年3月～",
    "role": "",
@@ -6499,7 +6476,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201906",
    "date": "2019-06-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2019年6月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -6524,7 +6501,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201907",
    "date": "2019-07-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2019年7月〉",
    "japanese": "WEオフィシャルブロマイド ～2019年7月～",
    "role": "",
@@ -6640,7 +6617,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201908",
    "date": "2019-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2019年8月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -6694,7 +6671,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201910",
    "date": "2019-10-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2019年10月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -6985,7 +6962,7 @@ window.ARCHIVE = {
   {
    "id": "bro_201912",
    "date": "2019-12-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2019年12月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -7358,7 +7335,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202005",
    "date": "2020-05-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2020年5月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -7383,7 +7360,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202006",
    "date": "2020-06-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2020年6月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -7466,7 +7443,7 @@ window.ARCHIVE = {
    "id": "nat_koe20",
    "date": "2020-06-18",
    "end": "",
-   "category": "活动",
+   "category": "写真／出版",
    "title": "首支自作词作曲歌曲《こえ》公开",
    "japanese": "こえ",
    "role": "",
@@ -7571,7 +7548,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202007",
    "date": "2020-07-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2020年7月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -7758,7 +7735,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202008",
    "date": "2020-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2020年8月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -7897,7 +7874,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202009",
    "date": "2020-09-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2020年9月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -7948,7 +7925,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202010",
    "date": "2020-10-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2020年10月〉",
    "japanese": "WEオフィシャルブロマイド ～2020年10月～",
    "role": "",
@@ -8491,7 +8468,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202101",
    "date": "2021-01-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2021年1月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -8727,15 +8704,7 @@ window.ARCHIVE = {
    "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "day",
-   "images": [
-    {
-     "url": "https://prtimes.jp/i/7006/7988/resize/d7006-7988-262330-0.jpg",
-     "caption": "新闻稿配图",
-     "source": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html",
-     "asset": "",
-     "resolution": ""
-    }
-   ],
+   "images": [],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -9591,7 +9560,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202104",
    "date": "2021-04-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2021年4月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -9902,7 +9871,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202108",
    "date": "2021-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2021年8月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -10082,7 +10051,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202110",
    "date": "2021-10-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2021年10月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -10194,7 +10163,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202111",
    "date": "2021-11-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2021年11月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -10364,7 +10333,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202201",
    "date": "2022-01-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2022年1月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -10679,7 +10648,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202202",
    "date": "2022-02-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2022年2月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -10943,7 +10912,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202204",
    "date": "2022-04-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2022年4月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -11004,7 +10973,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202205",
    "date": "2022-05-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真（2022年5月）",
    "japanese": "WEオフィシャルブロマイド ～2022年5月～",
    "role": "",
@@ -11122,7 +11091,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202206",
    "date": "2022-06-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2022年6月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -11264,7 +11233,7 @@ window.ARCHIVE = {
    "id": "goods_bromide",
    "date": "2022-07-25",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真（每月发售）",
    "japanese": "WEオフィシャルブロマイド",
    "role": "",
@@ -11418,7 +11387,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202209",
    "date": "2022-09-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2022年9月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -12049,7 +12018,7 @@ window.ARCHIVE = {
    "dateKind": "",
    "images": [
     {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
+     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
      "asset": "",
@@ -12064,7 +12033,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202301",
    "date": "2023-01-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真（2023年1月）",
    "japanese": "WEオフィシャルブロマイド ～2023年1月～",
    "role": "",
@@ -12266,7 +12235,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202302",
    "date": "2023-02-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真（2023年2月）",
    "japanese": "WEオフィシャルブロマイド ～2023年2月～",
    "role": "",
@@ -12685,7 +12654,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202304",
    "date": "2023-04-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2023年4月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -13884,7 +13853,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202309",
    "date": "2023-09-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2023年9月〉",
    "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
    "role": "",
@@ -14647,7 +14616,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202311",
    "date": "2023-11-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真（2023年11月）",
    "japanese": "WEオフィシャルブロマイド ～2023年11月～",
    "role": "",
@@ -14921,12 +14890,12 @@ window.ARCHIVE = {
      "source": "カンフェティ"
     },
     {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1536.jpg",
+     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1536.jpg",
      "caption": "舞台照",
      "source": "カンフェティ"
     },
     {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1612.jpg",
+     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1612.jpg",
      "caption": "舞台照",
      "source": "カンフェティ"
     },
@@ -15103,14 +15072,14 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
+     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
+     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
      "asset": "",
@@ -15164,7 +15133,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202312",
    "date": "2023-12-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2023年12月〉",
    "japanese": "WEオフィシャルブロマイド ～2023年12月～",
    "role": "",
@@ -15300,7 +15269,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202401",
    "date": "2024-01-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年1月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年1月～",
    "role": "",
@@ -15697,7 +15666,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202402",
    "date": "2024-02-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年2月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年2月～",
    "role": "",
@@ -15973,7 +15942,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202403",
    "date": "2024-03-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年3月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年3月～",
    "role": "",
@@ -16107,7 +16076,7 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
-     "url": "https://neown.tokyo/wp-content/uploads/2024/03/1_20240117_neown_007_2500-1024x683.jpg",
+     "url": "https://web.archive.org/web/2024id_/https://neown.tokyo/wp-content/uploads/2024/03/1_20240117_neown_007_2500-1024x683.jpg",
      "caption": "NEOWN 专访内文照",
      "source": "https://web.archive.org/web/2024/https://neown.tokyo/2024/03/06/higashikeisuke/",
      "asset": "",
@@ -16174,7 +16143,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202404",
    "date": "2024-04-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年4月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年4月～",
    "role": "",
@@ -16397,7 +16366,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202405",
    "date": "2024-05-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年5月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年5月～",
    "role": "",
@@ -16484,7 +16453,7 @@ window.ARCHIVE = {
    "id": "nat_jbb_idol",
    "date": "2024-05-27",
    "end": "",
-   "category": "活动",
+   "category": "写真／出版",
    "title": "JBB 数字单曲《アイドル》（翻唱YOASOBI）",
    "japanese": "JBB デジタルシングル「アイドル」",
    "crew": "",
@@ -16579,7 +16548,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202407",
    "date": "2024-07-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年7月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年7月～",
    "role": "",
@@ -16648,7 +16617,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202408",
    "date": "2024-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年8月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年8月～",
    "role": "",
@@ -16710,7 +16679,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202409",
    "date": "2024-09-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年9月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年9月～",
    "role": "",
@@ -16826,7 +16795,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202410",
    "date": "2024-10-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年10月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年10月～",
    "role": "",
@@ -17124,7 +17093,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202411",
    "date": "2024-11-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年11月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年11月～",
    "role": "",
@@ -17158,7 +17127,7 @@ window.ARCHIVE = {
    "id": "goods_cp2",
    "date": "2024-11-01",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "《Connecting Puzzles vol.2》周边通贩",
    "japanese": "東啓介コンサート『Connecting Puzzles vol.2』グッズ通信販売",
    "role": "",
@@ -17309,7 +17278,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202412",
    "date": "2024-12-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2024年12月〉",
    "japanese": "WEオフィシャルブロマイド ～2024年12月～",
    "role": "",
@@ -17500,7 +17469,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202501",
    "date": "2025-01-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年1月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年1月～",
    "role": "",
@@ -17719,7 +17688,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202502",
    "date": "2025-02-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年2月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年2月～",
    "role": "",
@@ -17831,7 +17800,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202503",
    "date": "2025-03-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年3月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年3月～",
    "role": "",
@@ -17889,7 +17858,7 @@ window.ARCHIVE = {
    "id": "goods_annai",
    "date": "2025-03-12",
    "end": "",
-   "category": "活动",
+   "category": "周边",
    "title": "Voice Friend《视えない案内人》周边再贩",
    "japanese": "ボイスフレンド『視えない案内人』グッズ再販",
    "role": "",
@@ -17980,7 +17949,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202504",
    "date": "2025-04-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年4月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年4月～",
    "role": "",
@@ -18214,7 +18183,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202505",
    "date": "2025-05-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年5月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年5月～",
    "role": "",
@@ -18299,7 +18268,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202506",
    "date": "2025-06-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年6月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年6月～",
    "role": "",
@@ -18415,7 +18384,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202507",
    "date": "2025-07-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年7月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年7月～",
    "role": "",
@@ -18631,7 +18600,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202508",
    "date": "2025-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年8月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年8月～",
    "role": "",
@@ -18710,7 +18679,7 @@ window.ARCHIVE = {
    "id": "nat_jbb_bohe",
    "date": "2025-08-13",
    "end": "",
-   "category": "活动",
+   "category": "写真／出版",
    "title": "JBB 第2张数字翻唱单曲《Bohemian Rhapsody》",
    "japanese": "JBB 2ndデジタルカバーシングル「Bohemian Rhapsody」",
    "crew": "",
@@ -18743,7 +18712,7 @@ window.ARCHIVE = {
    "id": "nat_jbb_cd25",
    "date": "2025-08-20",
    "end": "",
-   "category": "活动",
+   "category": "写真／出版",
    "title": "JBB 现场CD《JBB Concert 2024 in Tokyo》",
    "japanese": "CD「JBB Concert 2024 in Tokyo」",
    "crew": "",
@@ -18803,7 +18772,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202509",
    "date": "2025-09-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年9月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年9月～",
    "role": "",
@@ -18882,7 +18851,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202510",
    "date": "2025-10-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年10月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年10月～",
    "role": "",
@@ -18964,7 +18933,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202511",
    "date": "2025-11-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年11月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年11月～",
    "role": "",
@@ -19090,7 +19059,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202512",
    "date": "2025-12-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2025年12月〉",
    "japanese": "WEオフィシャルブロマイド ～2025年12月～",
    "role": "",
@@ -19162,7 +19131,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202601",
    "date": "2026-01-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2026年1月〉",
    "japanese": "WEオフィシャルブロマイド ～2026年1月～",
    "role": "",
@@ -19229,7 +19198,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202604",
    "date": "2026-04-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2026年4月〉",
    "japanese": "WEオフィシャルブロマイド ～2026年4月～",
    "role": "",
@@ -19289,7 +19258,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202605",
    "date": "2026-05-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2026年5月〉",
    "japanese": "WEオフィシャルブロマイド ～2026年5月～",
    "role": "",
@@ -19320,7 +19289,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202606",
    "date": "2026-06-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2026年6月〉",
    "japanese": "WEオフィシャルブロマイド ～2026年6月～",
    "role": "",
@@ -19346,7 +19315,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202607",
    "date": "2026-07-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2026年7月〉",
    "japanese": "WEオフィシャルブロマイド ～2026年7月～",
    "role": "",
@@ -19401,7 +19370,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202608",
    "date": "2026-08-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2026年8月〉",
    "japanese": "WEオフィシャルブロマイド ～2026年8月～",
    "role": "",
@@ -19745,7 +19714,7 @@ window.ARCHIVE = {
   {
    "id": "bro_202609",
    "date": "2026-09-01",
-   "category": "活动",
+   "category": "周边",
    "title": "WE官方生写真〈2026年9月〉",
    "japanese": "WEオフィシャルブロマイド ～2026年9月～",
    "role": "",
@@ -20778,7 +20747,7 @@ window.ARCHIVE = {
    "id": "add_ganba",
    "date": "2026-11-12",
    "end": "",
-   "category": "活动",
+   "category": "广播／音声",
    "title": "街机《假面骑士 Battle Ganba Legends》VS之路第5弹｜配音",
    "japanese": "仮面ライダーバトル ガンバレジェンズ",
    "role": "假面骑士Maou",

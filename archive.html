@@ -12,7 +12,7 @@
 'use strict';
 const A=window.ARCHIVE,$=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let currentTab='timeline',onlyImage=false,compact=false,descending=false,visibleEvents=[],gallery=[],galleryIndex=0,lastFocus=null;const today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
-const catOrder=['舞台','电视剧','网络剧','电影','动画电影','朗读剧','音乐会','活动','采访／连载','本人摄影／随笔','广播／音声','电视节目','写真／出版','杂志'];
+const catOrder=['舞台','电视剧','网络剧','电影','动画电影','朗读剧','音乐会','活动','采访／连载','本人摄影／随笔','广播／音声','电视节目','写真／出版','杂志','周边'];
 function imgSrc(im){return im.asset&&A.assets[im.asset]||im.url||''}function dt(v){return v.length===4?v+'年（日期待核）':v.replaceAll('-','.')}function range(r){return dt(r.date)+(r.end?' — '+dt(r.end):'')}function link(u,t,cl=''){return '<a class="link '+cl+'" href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">'+esc(t)+'</a>'}function domain(u){try{return new URL(u).hostname.replace(/^www\./,'')}catch{return ''}}
 
 $('stats').innerHTML=[[A.stats.events,'条编年记录'],[A.stats.videos,'条视频链接'],[A.stats.series,'期「聴活」'],[A.stats.qj,'期QJ摄影连载']].map(([n,t])=>'<div class="stat"><strong>'+n+'</strong><span>'+t+'</span></div>').join('');

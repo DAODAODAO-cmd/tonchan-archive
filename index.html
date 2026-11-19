@@ -422,8 +422,8 @@ const groups=[
   {k:'int',t:'采访·连载',cats:['采访／连载','本人摄影／随笔'],ls:1},
   {k:'radio',t:'广播',cats:['广播／音声'],ls:1},
   {k:'variety',t:'综艺·节目',cats:['电视节目'],ls:1},
-  {k:'photo',t:'写真·DVD',cats:['写真／出版']},
-  {k:'event',t:'活动·周边',cats:['活动'],ls:1}
+  {k:'photo',t:'写真·影像·音乐',cats:['写真／出版']},
+  {k:'event',t:'活动',cats:['活动'],ls:1}
 ];
 let curG='stage';
 function drawWorks(){const g=groups.find(x=>x.k===curG);$('worksGrid').className='works'+(g.ls?' ls':'');const all=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
