@@ -391,8 +391,8 @@ footer p{margin:4px 0}
   <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
-<script src="data/archive.js?v=1119i"></script>
-<script src="data/hub.js?v=1119i"></script>
+<script src="data/archive.js?v=1119j"></script>
+<script src="data/hub.js?v=1119j"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -422,12 +422,16 @@ $('nowGrid').innerHTML=H.now.map(n=>'<article class="card now"><div class="img">
 $('recent').innerHTML=H.recent.map(r=>'<a class="card rc" href="'+esc(r.url)+'" target="_blank" rel="noopener noreferrer"><div class="t">'+(r.image&&r.imageBg?'<div style="width:100%;height:100%;background:url(&quot;'+esc(r.image)+'&quot;) '+esc(r.imageBg)+' no-repeat"></div>':r.image?'<img src="'+esc(r.image)+'" alt="" loading="lazy">':'東')+'</div><div><span>刚结束 · '+esc(r.date)+'</span><b>'+esc(r.title)+'</b><span>饰 '+esc(r.role)+'</span></div></a>').join('');
 
 /* upcoming：从编年档案自动读取未来/进行中的条目 */
-const up=A.events.filter(e=>e.date>today).filter(e=>!/联动|轨迹展|感謝の宴|放送|配信/.test(e.title)).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,5);
-$('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="list.html?g=all#'+esc(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese)+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
+/* 去重：近况卡已写的作品（NOWK）不进即将到来；同一主题的多条日程合并成一条 */
+const NOWK=['陽伝'];const upKey=t=>{const b=(t.match(/^《(.+?)》/)||[])[1];return b?b.slice(0,4):/写真集/.test(t)?'写真集':t.slice(0,4)};
+const up0=A.events.filter(e=>e.date>today).filter(e=>!/联动|轨迹展|感謝の宴|放送|配信/.test(e.title)).filter(e=>!NOWK.some(k=>e.title.includes(k))).sort((a,b)=>a.date.localeCompare(b.date));
+const upSeen={};const up=[];up0.forEach(e=>{const k=upKey(e.title);if(upSeen[k]){upSeen[k]._more=(upSeen[k]._more||0)+1;upSeen[k]._last=e.date;return}upSeen[k]=e;up.push(e)});up.splice(5);
+const UPK=up.map(e=>upKey(e.title));
+$('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="list.html?g=all#'+esc(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+(e._more?'另有 '+e._more+' 场相关活动（至 '+fmt(e._last)+'）':esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese))+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
 
 /* news */
-const SHOPRE=/amazon\.|rakuten|mercari|fujisan|hmv\.co|7net|suruga|yahoo|tower\.jp/;const NEWS=H.news.filter(n=>!['杂志','采访'].includes(n.tag)).concat(A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today&&e.date>=H.news.map(n=>n.date).sort()[0]).map(e=>({date:e.date,tag:e.category==='杂志'?'杂志':'采访',title:e.title,text:'',url:SHOPRE.test(e.url||'')?'list.html?g=all#'+e.id:e.url})));const tags=['全部',...new Set(NEWS.map(n=>n.tag))];let curTag='全部';
-function drawNews(){$('newsList').innerHTML=NEWS.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,MOB?5:8).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
+const SHOPRE=/amazon\.|rakuten|mercari|fujisan|hmv\.co|7net|suruga|yahoo|tower\.jp/;const NEWS=H.news.filter(n=>!['杂志','采访'].includes(n.tag)).concat(A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today&&e.date>=H.news.map(n=>n.date).sort()[0]).map(e=>({date:e.date,tag:e.category==='杂志'?'杂志':'采访',title:e.title,text:'',url:SHOPRE.test(e.url||'')?'list.html?g=all#'+e.id:e.url})));/* 动态去重：近况卡和即将到来已经写到的事，非杂志/采访类消息不再重复列出 */const DUPK=[...NOWK,'麦斯》开播','十二支十色',...UPK];const NEWSH=NEWS.filter(n=>['杂志','采访'].includes(n.tag)||!DUPK.some(k=>n.title.includes(k)));const tags=['全部',...new Set(NEWSH.map(n=>n.tag))];let curTag='全部';
+function drawNews(){$('newsList').innerHTML=NEWSH.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,MOB?5:8).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
 $('newsFilters').onclick=e=>{const b=e.target.closest('button');if(b){curTag=b.dataset.t;drawNews()}};drawNews();
 
 /* works：按类别分组 */
