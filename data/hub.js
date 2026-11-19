@@ -438,7 +438,7 @@ window.HUB = {
   {
    "date": "2024-06-01",
    "title": "JBB Concert Tour 2024 巡演周边",
-   "status": "官方BOOTH通贩",
+   "status": "已结束",
    "price": "场刊 3,000円 · 荧光棒 3,000円 · T恤 3,000円 · 亚克力立牌 3,000円 · 扁平收纳盒 2,000円 · 巾着托特 2,000円 · 镭射钥匙扣 1,500円 · 葛饰限定贴纸 500円",
    "image": "assets/img/goods/jbb2024_goods.jpg",
    "points": [
@@ -449,7 +449,7 @@ window.HUB = {
     "T恤藏青色S–XL，巡演终场贩售；巾着托特为Hall场限定，另有各地限定贴纸（图中是葛饰版）"
    ],
    "url": "https://x.com/jbb0524/status/1828990959511843230",
-   "publisher": "JBB 官方（会场／BOOTH通贩）",
+   "publisher": "JBB 官方",
    "items": [
     {
      "t": "场刊（附托特包）",
@@ -1206,7 +1206,7 @@ window.HUB = {
    "title": "音乐剧《网球王子》青学vs四天宝寺 原声CD",
    "cat": "CD",
    "price": "CD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/57/1/1/783.jpg",
    "points": [
     "饰千岁千里"
@@ -1218,7 +1218,7 @@ window.HUB = {
    "title": "音乐剧《网球王子》全国大会 青学vs立海 原声CD",
    "cat": "CD",
    "price": "CD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/60/6/9/580.jpg",
    "points": [
     "饰千岁千里"
@@ -1230,7 +1230,7 @@ window.HUB = {
    "title": "音乐剧《网球王子》Dream Live 2014 CD",
    "cat": "CD",
    "price": "CD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/61/4/8/340.jpg",
    "points": [
     "第二季最后一场DL"
@@ -1242,7 +1242,7 @@ window.HUB = {
    "title": "音乐剧《薄樱鬼》黎明录 原声CD",
    "cat": "CD",
    "price": "CD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/67/3/3/054.jpg",
    "points": [
     "饰原田左之助"
@@ -1254,7 +1254,7 @@ window.HUB = {
    "title": "舞台《飙速宅男》总北新世代，启动",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/69/4/1/917.jpg",
    "points": [
     "饰苇木场拓斗"
@@ -1266,7 +1266,7 @@ window.HUB = {
    "title": "舞台《刀剑乱舞》虚传 燃烧的本能寺",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
    "points": [
     "饰烛台切光忠"
@@ -1278,7 +1278,7 @@ window.HUB = {
    "title": "舞台《飙速宅男》箱根学园新世代，启动",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/73/4/9/900.jpg",
    "points": [
     "饰苇木场拓斗"
@@ -1290,7 +1290,7 @@ window.HUB = {
    "title": "舞台《刀剑乱舞》虚传 再演",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/75/0/2/924.jpg",
    "points": [
     "饰烛台切光忠"
@@ -1302,7 +1302,7 @@ window.HUB = {
    "title": "刀舞 蔵出し映像集 虚传再演篇",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/78/9/9/787.jpg",
    "points": [
     "后台花絮合集"
@@ -1314,7 +1314,7 @@ window.HUB = {
    "title": "舞台《刀剑乱舞》义传 黎明的独眼龙",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/79/3/7/351.jpg",
    "points": [
     "饰烛台切光忠"
@@ -1326,7 +1326,7 @@ window.HUB = {
    "title": "《2.5次元男子推しTV》BOX",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/81/6/4/898.jpg",
    "points": [
     "综艺节目合集"
@@ -1338,7 +1338,7 @@ window.HUB = {
    "title": "TRUMP系列《グランギニョル》",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/80/9/6/962.jpg",
    "points": [
     "饰李春林"
@@ -1350,7 +1350,7 @@ window.HUB = {
    "title": "摇滚音乐剧《5DAYS 边境的罗密欧与朱丽叶》",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/87/5/6/049.jpg",
    "points": [
     "饰哈瓦尔"
@@ -1362,7 +1362,7 @@ window.HUB = {
    "title": "刀舞 蔵出し映像集 义传／ジョ伝篇",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/88/8/5/823.jpg",
    "points": [
     "后台花絮合集"
@@ -1374,7 +1374,7 @@ window.HUB = {
    "title": "舞台《刀剑乱舞》悲传 结之目的不如归",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg",
    "points": [
     "饰烛台切光忠"
@@ -1386,7 +1386,7 @@ window.HUB = {
    "title": "TRUMP系列 音乐剧《Marigold》",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/91/2/1/002.jpg",
    "points": [
     "饰科利乌斯；2021年出过Blu-ray复刻版"
@@ -1398,7 +1398,7 @@ window.HUB = {
    "title": "刀舞 悲传 密着纪录片 导演剪辑版",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/90/4/0/567.jpg",
    "points": [
     "幕后纪录"
@@ -1410,7 +1410,7 @@ window.HUB = {
    "title": "动画电影《薄墨樱 -GARO-》",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/95/2/6/762.jpg",
    "points": [
     "为时丸配音"
@@ -1422,7 +1422,7 @@ window.HUB = {
    "title": "刀舞 蔵出し映像集 悲传篇",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/0000102/3/1/719.jpg",
    "points": [
     "后台花絮合集"
@@ -1434,7 +1434,7 @@ window.HUB = {
    "title": "《我家女儿交不到男朋友!!》BOX",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/0000117/0/8/572.jpg",
    "points": [
     "饰涉周一"
@@ -1446,7 +1446,7 @@ window.HUB = {
    "title": "剧场版 舞台《刀剑乱舞》虚传",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/0000125/2/6/082.jpg",
    "points": [
     "剧场上映版"
@@ -1458,7 +1458,7 @@ window.HUB = {
    "title": "《Fight Song》BOX",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/0000127/6/5/618.jpg",
    "points": [
     "饰乌丸薰"
@@ -1470,7 +1470,7 @@ window.HUB = {
    "title": "剧场版 舞台《刀剑乱舞》悲传",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/800/0000133/4/7/401.jpg",
    "points": [
     "剧场上映版"
@@ -1482,7 +1482,7 @@ window.HUB = {
    "title": "JBB《JBB Concert 2023》",
    "cat": "CD",
    "price": "CD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/0000148/5/8/426.jpg",
    "points": [
     "JBB第一张现场CD"
@@ -1494,7 +1494,7 @@ window.HUB = {
    "title": "JBB《JBB Concert 2024 in Tokyo》",
    "cat": "CD",
    "price": "CD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/0000161/2/9/155.jpg",
    "points": [
     "2024巡演东京场"
@@ -1506,7 +1506,7 @@ window.HUB = {
    "title": "电影《大叔的内裤穿什么都行吧！》",
    "cat": "影像",
    "price": "Blu-ray / DVD",
-   "publisher": "HMV",
+   "publisher": "",
    "image": "https://img.hmv.co.jp/image/jacket/400/0000162/5/3/617.jpg",
    "points": [
     "饰砂川圆"
@@ -1579,7 +1579,7 @@ window.HUB = {
    "title": "音乐剧《薄樱鬼》新选组奇谭",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "Amazon",
+   "publisher": "",
    "image": "https://m.media-amazon.com/images/I/51CAw+rOmAL._AC_.jpg",
    "points": [
     "饰原田左之助"
@@ -1591,7 +1591,7 @@ window.HUB = {
    "title": "《Club SLAZY -Another World-》",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "Amazon",
+   "publisher": "",
    "image": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg",
    "points": [
     "饰Will"
@@ -1603,7 +1603,7 @@ window.HUB = {
    "title": "音乐剧《薄樱鬼》原田左之助篇",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "Amazon",
+   "publisher": "",
    "image": "https://m.media-amazon.com/images/I/41EAkoOY14L._AC_.jpg",
    "points": [
     "他担纲主演的一篇，饰原田左之助"
@@ -1615,7 +1615,7 @@ window.HUB = {
    "title": "舞台版《心灵侦探八云 祈祷之柩》",
    "cat": "影像",
    "price": "DVD",
-   "publisher": "Amazon",
+   "publisher": "",
    "image": "https://m.media-amazon.com/images/I/91ODlQkYJpL._AC_SL1500_.jpg",
    "points": [
     "2015年公演，饰织田亮"
