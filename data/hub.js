@@ -211,7 +211,8 @@ window.HUB = {
      "《十二支十色》华武利篇预告",
      "https://www.youtube.com/watch?v=HiW6nsnVHo8"
     ]
-   ]
+   ],
+   "image2": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main02.webp"
   }
  ],
  "recent": [

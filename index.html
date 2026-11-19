@@ -69,7 +69,7 @@ section.sec{padding:34px 0}
 .now-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
 .now{display:grid;grid-template-columns:270px minmax(0,1fr)}
 .now .img{background:var(--bg2);min-height:100%}
-.now .img img{width:100%;height:100%;object-fit:cover;object-position:top}
+.now .img img{width:100%;height:100%;object-fit:cover;object-position:top}.now .img.duo{display:flex;flex-direction:row-reverse}.now .img.duo img{width:50%}
 .now .body{padding:22px 24px}
 .badge{display:inline-block;font-size:11.5px;padding:3px 10px;border-radius:999px;background:var(--peach-soft);color:#b46a4b;margin-bottom:8px}
 .badge.live{background:var(--rose-soft);color:#b45d6c}
@@ -400,8 +400,8 @@ footer p{margin:4px 0}
   <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
-<script src="data/archive.js?v=1119t"></script>
-<script src="data/hub.js?v=1119t"></script>
+<script src="data/archive.js?v=1119u"></script>
+<script src="data/hub.js?v=1119u"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -427,7 +427,7 @@ $('heroStats').innerHTML=[['出道',yearsActive+'年'],['舞台',A.events.filter
 
 
 /* now */
-$('nowGrid').innerHTML=H.now.map(n=>'<article class="card now"><div class="img">'+(n.image?'<img src="'+esc(n.image)+'" alt="'+esc(n.title)+'" loading="lazy">':'')+'</div><div class="body"><span class="badge live">'+esc(n.kind)+'</span><h3>'+esc(n.title)+'</h3><p class="ja">'+esc(n.ja)+'</p><p class="role">饰 '+esc(n.role)+'</p><ul class="lines">'+n.lines.map(l=>'<li>'+esc(l)+'</li>').join('')+'</ul>'+(n.note?'<p class="note">'+esc(n.note)+'</p>':'')+'<div class="lk">'+n.links.map(([t,u])=>ext(u,t+' ↗')).join('')+'</div></div></article>').join('');
+$('nowGrid').innerHTML=H.now.map(n=>'<article class="card now"><div class="img'+(n.image2?' duo':'')+'">'+(n.image2?'<img src="'+esc(n.image2)+'" alt="" loading="lazy">':'')+(n.image?'<img src="'+esc(n.image)+'" alt="'+esc(n.title)+'" loading="lazy">':'')+'</div><div class="body"><span class="badge live">'+esc(n.kind)+'</span><h3>'+esc(n.title)+'</h3><p class="ja">'+esc(n.ja)+'</p><p class="role">饰 '+esc(n.role)+'</p><ul class="lines">'+n.lines.map(l=>'<li>'+esc(l)+'</li>').join('')+'</ul>'+(n.note?'<p class="note">'+esc(n.note)+'</p>':'')+'<div class="lk">'+n.links.map(([t,u])=>ext(u,t+' ↗')).join('')+'</div></div></article>').join('');
 $('recent').innerHTML=H.recent.map(r=>'<a class="card rc" href="'+esc(r.url)+'" target="_blank" rel="noopener noreferrer"><div class="t">'+(r.image&&r.imageBg?'<div style="width:100%;height:100%;background:url(&quot;'+esc(r.image)+'&quot;) '+esc(r.imageBg)+' no-repeat"></div>':r.image?'<img src="'+esc(r.image)+'" alt="" loading="lazy">':'東')+'</div><div><span>刚结束 · '+esc(r.date)+'</span><b>'+esc(r.title)+'</b><span>饰 '+esc(r.role)+'</span></div></a>').join('');
 
 /* upcoming：从编年档案自动读取未来/进行中的条目 */
