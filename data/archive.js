@@ -14168,7 +14168,7 @@ window.ARCHIVE = {
    "crew": "作词／编剧／导演：池田亮",
    "key": "lab",
    "url": "https://www.tohostage.com/tohomusicallab/",
-   "note": "东启介演出单元为《DESK》；不是同场另一单元《わたしを、褒めて》。 衛星劇場（eigeki.com/series/S76557）有播出录像。",
+   "note": "东启介演出单元为《DESK》；不是同场另一单元《わたしを、褒めて》。他演动画公司的制作デスク和田晋吾，工作顾不上家、妻子带着9岁女儿奏离开，只能隔着手机跟女儿说20分钟话。女儿由三浦あかり／久住星空双卡，和他有一首对唱。共演豊原江理佳、山崎大輝、壮一帆；作词·脚本·演出池田亮（ゆうめい），作曲深澤恵梨香。11/22 16:00 有料公开彩排，11/23 16:00 千秋乐网络直播（存档到12/10）。CS「衛星劇場」2024-04-27 17:40–18:30 电视首播（eigeki.com/series/S76557）。",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
@@ -14186,6 +14186,41 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di0118.jpg",
+     "caption": "舞台照",
+     "source": "カンフェティ"
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1536.jpg",
+     "caption": "舞台照",
+     "source": "カンフェティ"
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1612.jpg",
+     "caption": "舞台照",
+     "source": "カンフェティ"
+    },
+    {
+     "url": "https://spice.eplus.jp/images/hkr0SWhLMw25ieL1WzuSsi0789UqsEhaGJCHgEk6QbNDGgKXf3BZ9FH3A7gVnbGq/",
+     "caption": "舞台照",
+     "source": "SPICE"
+    },
+    {
+     "url": "https://spice.eplus.jp/images/hLCUzWDwrarbE3MUxEpuRXnnhsdb2oWrBN2iXdhrjup3ChTBO9CqhJ57pxMXqZxv/",
+     "caption": "舞台照",
+     "source": "SPICE"
+    },
+    {
+     "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20231125/20231125104446.jpg",
+     "caption": "舞台照",
+     "source": "Musical Theater Japan"
+    },
+    {
+     "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20231125/20231125104238.jpg",
+     "caption": "舞台照",
+     "source": "Musical Theater Japan"
     }
    ],
    "videos": [
@@ -14196,11 +14231,44 @@ window.ARCHIVE = {
     {
      "title": "产经新闻 开幕舞台短片",
      "url": "https://www.youtube.com/shorts/a_FOaoIrez4"
+    },
+    {
+     "title": "衛星劇場 播出预告",
+     "url": "https://youtu.be/vD6lAfyx5Ys"
+    },
+    {
+     "title": "官方X｜宣布第2弹阵容",
+     "url": "https://x.com/tohomusicallab/status/1710030632003473474"
+    },
+    {
+     "title": "官方X｜东启介 稽古中コメント",
+     "url": "https://x.com/tohomusicallab/status/1725804190977675335"
+    },
+    {
+     "title": "官方X｜子役两位登场，和东启介的对唱",
+     "url": "https://x.com/tohomusicallab/status/1726374798132130237"
+    },
+    {
+     "title": "官方X｜公开彩排刚结束的四人（“緊張しなかった”）",
+     "url": "https://x.com/tohomusicallab/status/1727446867342950790"
+    },
+    {
+     "title": "官方X｜千秋乐当天四人",
+     "url": "https://x.com/tohomusicallab/status/1727532423116910737"
+    },
+    {
+     "title": "官方X｜记者会见影像",
+     "url": "https://x.com/tohomusicallab/status/1727940459119759515"
+    },
+    {
+     "title": "官方X｜PV②",
+     "url": "https://x.com/tohomusicallab/status/1730571000386068494"
     }
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "roleName": "和田晋吾"
   },
   {
    "id": "qj100047",
@@ -14231,6 +14299,58 @@ window.ARCHIVE = {
      "source": "https://qjweb.jp/regular/100047/",
      "asset": "fa53a49096f8f77a",
      "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_cf49493",
+   "date": "2023-11-24",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《TOHO MUSICAL LAB.》开幕报道（カンフェティ）",
+   "japanese": "【開幕レポート】「TOHO MUSICAL LAB.」第2弾『わたしを、褒めて』『DESK』",
+   "crew": "",
+   "key": "",
+   "url": "https://magazine.confetti-web.com/news/report/49493/",
+   "note": "カンフェティ。评他把和田的郁结和放不下动画的心演得很有余味，长腿搬DESK布景的笑点“只有东能做到”。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di0118.jpg",
+     "caption": "",
+     "source": "カンフェティ"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_mtj2311-4",
+   "date": "2023-11-25",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《TOHO MUSICAL LAB.》观剧报道（MTJ）",
+   "japanese": "「TOHO MUSICAL LAB.」2023観劇レポート",
+   "crew": "",
+   "key": "",
+   "url": "https://www.musicaltheaterjapan.com/entry/2311-4",
+   "note": "Musical Theater Japan。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20231125/20231125104446.jpg",
+     "caption": "",
+     "source": "Musical Theater Japan"
     }
    ],
    "videos": [],
@@ -15509,6 +15629,32 @@ window.ARCHIVE = {
    "workRoma": "VIOLET",
    "roleName": "弗利克",
    "cardPhoto": "https://www.umegei.com/violet/images/cast/img_cast03.jpg"
+  },
+  {
+   "id": "web_spice327961",
+   "date": "2024-04-12",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《DESK》衛星劇場电视首播消息",
+   "japanese": "『わたしを、褒めて』『DESK』をテレビ初放送",
+   "crew": "",
+   "key": "",
+   "url": "https://spice.eplus.jp/articles/327961",
+   "note": "SPICE。2024-04-27 CS衛星劇場播出。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.18补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://spice.eplus.jp/images/M3cz1sRxaDFttbIRvYlhPWd10QGPZ7dPrRp1LkrYOfmC8djHzsBPbL7DVJoNpXW3",
+     "caption": "",
+     "source": "SPICE"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "bro_202405",
