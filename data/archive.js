@@ -34813,6 +34813,846 @@ window.ARCHIVE = {
    "uploadDate": "2025-07-05",
    "dateLabel": "2025 公开",
    "asset": ""
+  },
+  {
+   "id": "LCkB3O6b0Qc",
+   "title": "高橋文哉さん・櫻井海音さん・倉悠貴さん・富本惣昭さん・東啓介さんにインタビュー パート2⚽️🎤イチオシの”美容ケア”について伺いました✨ #ブルーロック",
+   "channel": "VOCEchannel",
+   "duration": "1:15",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=LCkB3O6b0Qc",
+   "thumbnail": "https://i.ytimg.com/vi/LCkB3O6b0Qc/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=LCkB3O6b0Qc",
+   "uploadDate": "2026-08-09",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "cuZH2j7NgPc",
+   "title": "高橋文哉さん・櫻井海音さん・倉悠貴さん・富本惣昭さん・東啓介さんにインタビュー⚽️🎤本日より公開の実写映画「ブルーロック」について”美しいな”と感じるポイントを伺いました！ #ブルーロック",
+   "channel": "VOCEchannel",
+   "duration": "1:37",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=cuZH2j7NgPc",
+   "thumbnail": "https://i.ytimg.com/vi/cuZH2j7NgPc/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=cuZH2j7NgPc",
+   "uploadDate": "2026-08-07",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "FXGguSDyijQ",
+   "title": "「ノンフィクションズ」× 東啓介さん Choreographer： Yuta Nakamura  Shungo avex ROYALBRATS×TAIKI Kudo  SOTA Hanamura",
+   "channel": "花村想太",
+   "duration": "0:17",
+   "type": "SNS／直播",
+   "sourceType": "官方／机构",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.youtube.com/watch?v=FXGguSDyijQ",
+   "thumbnail": "https://i.ytimg.com/vi/FXGguSDyijQ/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=FXGguSDyijQ",
+   "uploadDate": "2025-11-15",
+   "dateLabel": "2025 公开",
+   "asset": ""
+  },
+  {
+   "id": "M07UPQBSsfQ",
+   "title": "舞台「キングダムⅡ‐継承‐」公開稽古　三浦宏規、山本千尋、東啓介、石川禅、山口祐一郎らが熱演！",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "1:30",
+   "type": "幕后／拍摄",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=M07UPQBSsfQ",
+   "thumbnail": "https://i.ytimg.com/vi/M07UPQBSsfQ/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=M07UPQBSsfQ",
+   "uploadDate": "2026-07-15",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "mP1Q37c5Y-A",
+   "title": "三浦宏規＆高野洸、舞台「キングダムⅡ-継承-」開幕記念会見（三浦宏規／高野洸 山本千尋 東啓介／章平 大塚千弘 石川禅 山口祐一郎 山田和也）",
+   "channel": "JIJIPRESS/時事通信芸能動画ニュース",
+   "duration": "4:56",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=mP1Q37c5Y-A",
+   "thumbnail": "https://i.ytimg.com/vi/mP1Q37c5Y-A/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=mP1Q37c5Y-A",
+   "uploadDate": "2026-08-11",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "xjYVyj47QHQ",
+   "title": "注目の若手俳優・東啓介、TBS系火曜ドラマ『ファイトソング』の見どころをアピール！",
+   "channel": "DeviewOfficial",
+   "duration": "1:49",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2022"
+   ],
+   "url": "https://www.youtube.com/watch?v=xjYVyj47QHQ",
+   "thumbnail": "https://i.ytimg.com/vi/xjYVyj47QHQ/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=xjYVyj47QHQ",
+   "uploadDate": "2022-02-15",
+   "dateLabel": "2022 公开",
+   "asset": ""
+  },
+  {
+   "id": "kkj1XBB_ZgY",
+   "title": "Keisuke Higashi feat Miura Ryosuke on Instagram. #三浦涼介 #東 啓 介",
+   "channel": "Joky Jokster",
+   "duration": "50:50",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.youtube.com/watch?v=kkj1XBB_ZgY",
+   "thumbnail": "https://i.ytimg.com/vi/kkj1XBB_ZgY/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=kkj1XBB_ZgY",
+   "uploadDate": "2021-07-18",
+   "dateLabel": "2021 公开",
+   "asset": ""
+  },
+  {
+   "id": "BoP3kUZ43ig",
+   "title": "Miura Ryosuke & Higashi Keisuke's Insta Live (2021/06/09) #三浦涼介",
+   "channel": "Joky Jokster",
+   "duration": "1:21:12",
+   "type": "SNS／直播",
+   "sourceType": "转载",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.youtube.com/watch?v=BoP3kUZ43ig",
+   "thumbnail": "https://i.ytimg.com/vi/BoP3kUZ43ig/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=BoP3kUZ43ig",
+   "uploadDate": "2021-06-09",
+   "dateLabel": "2021 公开",
+   "asset": ""
+  },
+  {
+   "id": "v421u2kSe7k",
+   "title": "Sugie Taishi(杉江大志) & Keisuke Higashi(東 啓介)-CastSize",
+   "channel": "Gladyator Gladys",
+   "duration": "7:28",
+   "type": "节目／其他",
+   "sourceType": "转载",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.youtube.com/watch?v=v421u2kSe7k",
+   "thumbnail": "https://i.ytimg.com/vi/v421u2kSe7k/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=v421u2kSe7k",
+   "uploadDate": "2017-09-13",
+   "dateLabel": "2017 公开",
+   "asset": ""
+  },
+  {
+   "id": "42tJvi47MEM",
+   "title": "「2.5次元俳優」東啓介が初写真集",
+   "channel": "Jashua Gas hung",
+   "duration": "3:01",
+   "type": "采访／发布会",
+   "sourceType": "转载",
+   "years": [
+    "2017"
+   ],
+   "url": "https://www.youtube.com/watch?v=42tJvi47MEM",
+   "thumbnail": "https://i.ytimg.com/vi/42tJvi47MEM/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=42tJvi47MEM",
+   "uploadDate": "2017-03-21",
+   "dateLabel": "2017 公开",
+   "asset": ""
+  },
+  {
+   "id": "Jt7CKiCMKbY",
+   "title": "東啓介、NYへ渡り役作り 主演ミュージカル『Color of Life』への覚悟語る",
+   "channel": "Metalero Jarcor",
+   "duration": "0:40",
+   "type": "采访／发布会",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.youtube.com/watch?v=Jt7CKiCMKbY",
+   "thumbnail": "https://i.ytimg.com/vi/Jt7CKiCMKbY/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "标题提及东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=Jt7CKiCMKbY",
+   "uploadDate": "2019-04-18",
+   "dateLabel": "2019 公开",
+   "asset": ""
+  },
+  {
+   "id": "hMimhTu8xwA",
+   "title": "BWミュージカル『キンキーブーツ』より「NOT MY FATHER’S SON／～息子じゃないの～」（Ｗキャスト：甲斐翔真） #キンキーブーツ #shorts",
+   "channel": "エンタステージ 舞台の最新動画チャンネル",
+   "duration": "0:21",
+   "type": "演出／歌唱",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.youtube.com/watch?v=hMimhTu8xwA",
+   "thumbnail": "https://i.ytimg.com/vi/hMimhTu8xwA/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=hMimhTu8xwA",
+   "uploadDate": "2025-05-01",
+   "dateLabel": "2025 公开",
+   "asset": ""
+  },
+  {
+   "id": "R7idD7CcYAU",
+   "title": "舞台『刀剣乱舞』虚伝 燃ゆる本能寺 公演ダイジェスト（刀ステ）",
+   "channel": "アニメ 音楽 2.5次元舞台 - マーベラス公式チャンネル",
+   "duration": "2:30",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2016"
+   ],
+   "url": "https://www.youtube.com/watch?v=R7idD7CcYAU",
+   "thumbnail": "https://i.ytimg.com/vi/R7idD7CcYAU/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=R7idD7CcYAU",
+   "uploadDate": "2016-05-20",
+   "dateLabel": "2016 公开",
+   "asset": ""
+  },
+  {
+   "id": "zYkSfLxeg_I",
+   "title": "【必見】効果アリなアピール方法 #ぼくとぼくが好きな彼と君と #bumpドラマ #ショートドラマ #BL #ぼく彼",
+   "channel": "BLドラマ 【BUMP公式】",
+   "duration": "0:27",
+   "type": "采访／发布会",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=zYkSfLxeg_I",
+   "thumbnail": "https://i.ytimg.com/vi/zYkSfLxeg_I/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=zYkSfLxeg_I",
+   "uploadDate": "2026-04-05",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "mmofF8bvoG4",
+   "title": "挙動不審な理由とは...? #ぼくとぼくが好きな彼と君と #bumpドラマ #ショートドラマ #BL #ぼく彼",
+   "channel": "BLドラマ 【BUMP公式】",
+   "duration": "0:34",
+   "type": "采访／发布会",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=mmofF8bvoG4",
+   "thumbnail": "https://i.ytimg.com/vi/mmofF8bvoG4/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=mmofF8bvoG4",
+   "uploadDate": "2026-04-15",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "elbVJ6MbaTU",
+   "title": "上手くいかない恋がこちら...#ぼくとぼくが好きな彼と君と #bumpドラマ #ショートドラマ #BL #ぼく彼",
+   "channel": "BLドラマ 【BUMP公式】",
+   "duration": "0:37",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=elbVJ6MbaTU",
+   "thumbnail": "https://i.ytimg.com/vi/elbVJ6MbaTU/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=elbVJ6MbaTU",
+   "uploadDate": "2026-04-19",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "q2EkfT5F3Bk",
+   "title": "【舞台映像PV】モーリー・イェストン生誕80周年記念コンサート『Life's A Joy! Life Goes On!!』",
+   "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
+   "duration": "1:31",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.youtube.com/watch?v=q2EkfT5F3Bk",
+   "thumbnail": "https://i.ytimg.com/vi/q2EkfT5F3Bk/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=q2EkfT5F3Bk",
+   "uploadDate": "2025-07-23",
+   "dateLabel": "2025 公开",
+   "asset": ""
+  },
+  {
+   "id": "Qq2w-EzNuEE",
+   "title": "「キンキーブーツ」が愛される理由とは？",
+   "channel": "ステージナタリー",
+   "duration": "2:07",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.youtube.com/watch?v=Qq2w-EzNuEE",
+   "thumbnail": "https://i.ytimg.com/vi/Qq2w-EzNuEE/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=Qq2w-EzNuEE",
+   "uploadDate": "2025-04-28",
+   "dateLabel": "2025 公开",
+   "asset": ""
+  },
+  {
+   "id": "6NNxLGadDC8",
+   "title": "「松下優也役のローラです」",
+   "channel": "ステージナタリー",
+   "duration": "2:20",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.youtube.com/watch?v=6NNxLGadDC8",
+   "thumbnail": "https://i.ytimg.com/vi/6NNxLGadDC8/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=6NNxLGadDC8",
+   "uploadDate": "2025-04-28",
+   "dateLabel": "2025 公开",
+   "asset": ""
+  },
+  {
+   "id": "sHmckqQHAA4",
+   "title": "〝奇跡のミュージカル〟から生まれた極上のハーモニー　６月３日に「ＪＢＢ」が名古屋公演",
+   "channel": "中日新聞",
+   "duration": "2:21",
+   "type": "演出／歌唱",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.youtube.com/watch?v=sHmckqQHAA4",
+   "thumbnail": "https://i.ytimg.com/vi/sHmckqQHAA4/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=sHmckqQHAA4",
+   "uploadDate": "2024-05-23",
+   "dateLabel": "2024 公开",
+   "asset": ""
+  },
+  {
+   "id": "_O6ZEXf9LIE",
+   "title": "キャストインタビュー｜映画『ブルーロック』8月7日(金)公開",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "5:00",
+   "type": "采访／发布会",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=_O6ZEXf9LIE",
+   "thumbnail": "https://i.ytimg.com/vi/_O6ZEXf9LIE/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=_O6ZEXf9LIE",
+   "uploadDate": "2026-08-06",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "OX0zHL3Qxf0",
+   "title": "舞台『刀剣乱舞』虚伝 燃ゆる本能寺（再演）12振りPV",
+   "channel": "アニメ 音楽 2.5次元舞台 - マーベラス公式チャンネル",
+   "duration": "1:23",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2016"
+   ],
+   "url": "https://www.youtube.com/watch?v=OX0zHL3Qxf0",
+   "thumbnail": "https://i.ytimg.com/vi/OX0zHL3Qxf0/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=OX0zHL3Qxf0",
+   "uploadDate": "2016-12-08",
+   "dateLabel": "2016 公开",
+   "asset": ""
+  },
+  {
+   "id": "KdpiC_jpAc8",
+   "title": "Charlie Bluez 「想い出の風景」MV",
+   "channel": "Gussie's Film がっしーズ フィルム",
+   "duration": "5:48",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.youtube.com/watch?v=KdpiC_jpAc8",
+   "thumbnail": "https://i.ytimg.com/vi/KdpiC_jpAc8/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=KdpiC_jpAc8",
+   "uploadDate": "2019-01-15",
+   "dateLabel": "2019 公开",
+   "asset": ""
+  },
+  {
+   "id": "XTWQ75ptflU",
+   "title": "舞台『刀剣乱舞』振り返り上映会 特典「キャスト座談会」映像告知",
+   "channel": "アニメ 音楽 2.5次元舞台 - マーベラス公式チャンネル",
+   "duration": "1:05",
+   "type": "幕后／拍摄",
+   "sourceType": "官方／机构",
+   "years": [
+    "2018"
+   ],
+   "url": "https://www.youtube.com/watch?v=XTWQ75ptflU",
+   "thumbnail": "https://i.ytimg.com/vi/XTWQ75ptflU/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=XTWQ75ptflU",
+   "uploadDate": "2018-05-25",
+   "dateLabel": "2018 公开",
+   "asset": ""
+  },
+  {
+   "id": "77FVaA_gJn4",
+   "title": "仮面ライダーマイス「十二支同盟」が登場真夏にこの衣装はキツイ",
+   "channel": "デイリースポーツ【公式】",
+   "duration": "8:25",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=77FVaA_gJn4",
+   "thumbnail": "https://i.ytimg.com/vi/77FVaA_gJn4/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=77FVaA_gJn4",
+   "uploadDate": "2026-08-03",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "ReucEJzE1UM",
+   "title": "「仮面ライダーマイス」が登場！変身ポーズも披露！　#仮面ライダーマイス",
+   "channel": "シネマトゥデイ",
+   "duration": "0:57",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=ReucEJzE1UM",
+   "thumbnail": "https://i.ytimg.com/vi/ReucEJzE1UM/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=ReucEJzE1UM",
+   "uploadDate": "2026-08-06",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "6GxIDviDGdE",
+   "title": "劇場版 舞台『刀剣乱舞』義伝 暁の独眼竜｜予告篇｜2022年1月21日（金）より≪3週間限定公開≫",
+   "channel": "TOHO Visual Entertainmentチャンネル",
+   "duration": "0:37",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2021"
+   ],
+   "url": "https://www.youtube.com/watch?v=6GxIDviDGdE",
+   "thumbnail": "https://i.ytimg.com/vi/6GxIDviDGdE/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=6GxIDviDGdE",
+   "uploadDate": "2021-12-22",
+   "dateLabel": "2021 公开",
+   "asset": ""
+  },
+  {
+   "id": "LpZTNUmPqo4",
+   "title": "映画『ブルーロック』TVCM〈デスゲーム篇②〉【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "0:15",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=LpZTNUmPqo4",
+   "thumbnail": "https://i.ytimg.com/vi/LpZTNUmPqo4/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=LpZTNUmPqo4",
+   "uploadDate": "2026-07-27",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "dd9Ln3oJYxU",
+   "title": "映画『ブルーロック』〈特報②〉【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "0:30",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=dd9Ln3oJYxU",
+   "thumbnail": "https://i.ytimg.com/vi/dd9Ln3oJYxU/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=dd9Ln3oJYxU",
+   "uploadDate": "2026-07-19",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "6G0EvL8LHfo",
+   "title": "映画『ブルーロック』TVCM〈予告〉【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "1:00",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=6G0EvL8LHfo",
+   "thumbnail": "https://i.ytimg.com/vi/6G0EvL8LHfo/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=6G0EvL8LHfo",
+   "uploadDate": "2026-07-17",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "YeKFMRLwYsQ",
+   "title": "映画『ブルーロック』〈特報①〉【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "0:30",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=YeKFMRLwYsQ",
+   "thumbnail": "https://i.ytimg.com/vi/YeKFMRLwYsQ/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=YeKFMRLwYsQ",
+   "uploadDate": "2026-07-18",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "umY2Y7HkdKU",
+   "title": "映画『ブルーロック』TVCM〈デスゲーム篇① 15秒〉【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "0:15",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=umY2Y7HkdKU",
+   "thumbnail": "https://i.ytimg.com/vi/umY2Y7HkdKU/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=umY2Y7HkdKU",
+   "uploadDate": "2026-07-20",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "FF1N3If3nN8",
+   "title": "映画『ブルーロック』WEBCM〈キャラクター篇〉【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "0:45",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=FF1N3If3nN8",
+   "thumbnail": "https://i.ytimg.com/vi/FF1N3If3nN8/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=FF1N3If3nN8",
+   "uploadDate": "2026-07-31",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "pAcxSeWhtAg",
+   "title": "映画『ブルーロック』特報②【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "0:30",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=pAcxSeWhtAg",
+   "thumbnail": "https://i.ytimg.com/vi/pAcxSeWhtAg/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=pAcxSeWhtAg",
+   "uploadDate": "2026-06-04",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "OmG0jbtii4Q",
+   "title": "映画『シグナル100』 15秒CM （青春編）",
+   "channel": "東映映画チャンネル",
+   "duration": "0:15",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.youtube.com/watch?v=OmG0jbtii4Q",
+   "thumbnail": "https://i.ytimg.com/vi/OmG0jbtii4Q/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=OmG0jbtii4Q",
+   "uploadDate": "2020-01-09",
+   "dateLabel": "2020 公开",
+   "asset": ""
+  },
+  {
+   "id": "52jiK5L3P0U",
+   "title": "映画『ブルーロック』TVCM〈デスゲーム篇① 30秒〉【8月7日（金）公開！】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "0:30",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=52jiK5L3P0U",
+   "thumbnail": "https://i.ytimg.com/vi/52jiK5L3P0U/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=52jiK5L3P0U",
+   "uploadDate": "2026-07-17",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "fClmtQ4s34o",
+   "title": "映画『シグナル100』15秒CM （ようこそ編）",
+   "channel": "東映映画チャンネル",
+   "duration": "0:15",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.youtube.com/watch?v=fClmtQ4s34o",
+   "thumbnail": "https://i.ytimg.com/vi/fClmtQ4s34o/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=fClmtQ4s34o",
+   "uploadDate": "2020-01-09",
+   "dateLabel": "2020 公开",
+   "asset": ""
+  },
+  {
+   "id": "fsueA9bVQnw",
+   "title": "映画『ブルーロック』ワールドプレミア舞台挨拶【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "30:03",
+   "type": "采访／发布会",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=fsueA9bVQnw",
+   "thumbnail": "https://i.ytimg.com/vi/fsueA9bVQnw/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=fsueA9bVQnw",
+   "uploadDate": "2026-08-02",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "kEZ2glxt0vo",
+   "title": "映画『ブルーロック』TVCM〈デスゲーム篇②〉【8月7日(金)公開】",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "0:15",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=kEZ2glxt0vo",
+   "thumbnail": "https://i.ytimg.com/vi/kEZ2glxt0vo/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=kEZ2glxt0vo",
+   "uploadDate": "2026-07-27",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "mrZzwupg9Mk",
+   "title": "ミュージカル『VIOLET』制作発表記者会見 最新！ミュージック・ジャパンTVカウントダウン【ミュージック・ジャパンTV】",
+   "channel": "ミュージック・ジャパンTV",
+   "duration": "11:50",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2024"
+   ],
+   "url": "https://www.youtube.com/watch?v=mrZzwupg9Mk",
+   "thumbnail": "https://i.ytimg.com/vi/mrZzwupg9Mk/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=mrZzwupg9Mk",
+   "uploadDate": "2024-04-11",
+   "dateLabel": "2024 公开",
+   "asset": ""
+  },
+  {
+   "id": "Q_bzGA58Qgk",
+   "title": "舞台『キングダムII -継承-』 製作発表記者会見フル映像",
+   "channel": "TohoChannel",
+   "duration": "49:39",
+   "type": "采访／发布会",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=Q_bzGA58Qgk",
+   "thumbnail": "https://i.ytimg.com/vi/Q_bzGA58Qgk/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=Q_bzGA58Qgk",
+   "uploadDate": "2026-05-29",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "8F76F_BgyCw",
+   "title": "BLUELOCK ULTIMATE BACKSTAGE #2《撮影現場に密着》｜『ブルーロック』大ヒット上映中！",
+   "channel": "映画『ブルーロック』チャンネル",
+   "duration": "29:38",
+   "type": "幕后／拍摄",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=8F76F_BgyCw",
+   "thumbnail": "https://i.ytimg.com/vi/8F76F_BgyCw/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "简介列出东启介｜2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=8F76F_BgyCw",
+   "uploadDate": "2026-09-11",
+   "dateLabel": "2026 公开",
+   "asset": ""
   }
  ],
  "playlists": [
