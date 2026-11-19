@@ -7721,6 +7721,11 @@ window.ARCHIVE = {
      "source": "ローチケ演劇宣言！",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0622/Clipboard01.jpg",
+     "caption": "宣传海报",
+     "source": "https://natalie.mu/stage/news/384368"
     }
    ],
    "videos": [
