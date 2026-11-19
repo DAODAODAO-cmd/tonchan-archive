@@ -374,7 +374,7 @@ footer p{margin:4px 0}
     <div class="card facts"><dl id="facts"></dl><div class="nick" id="nick"></div></div>
     <div class="skills" id="skills"></div>
   </div>
-  <div class="card ms"><h3 style="font-family:var(--serif);margin:0 0 14px;font-size:17px">经历小记</h3><ol id="milestones"></ol><div class="src" id="profSrc"></div></div>
+  <div class="card ms"><h3 style="font-family:var(--serif);margin:0 0 14px;font-size:17px">经历小记</h3><ol id="milestones"></ol></div>
 </div>
   <div class="ab" id="says" hidden>
   <div class="filters" id="saysFilters"></div>
@@ -391,8 +391,8 @@ footer p{margin:4px 0}
   <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
-<script src="data/archive.js?v=1119m"></script>
-<script src="data/hub.js?v=1119m"></script>
+<script src="data/archive.js?v=1119n"></script>
+<script src="data/hub.js?v=1119n"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -463,7 +463,7 @@ function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(
 $('vidTabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.k)curV=b.dataset.k;if(b.dataset.p)curP=b.dataset.p;drawVids()};drawVids();
 
 /* goods */
-const isShop=u=>/amazon\.|hmv\.co\.jp|7net\.omni7|booth\.pm|shop\.tv-tokyo|p-bandai|bandai\.co\.jp\/item|toei-onlinestore|rakuten|animate-onlineshop|mercari|suruga-ya|tohoentertainmentonline|lifetunes|premium-bandai|shop\.|store\./i.test(u||'');const gcard=g=>{const arch=/^list\.html|^archive\.html/.test(g.url||'');return '<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy"'+(g.imagePos?' style="object-fit:cover;object-position:'+esc(g.imagePos)+'"':'')+'>':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span> ':'')+'<span class="gt">'+esc(g.cat||'周边')+'</span><h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div>'+((g.points||[]).length?'<ul>'+g.points.slice(0,2).map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>':'')+(g.items&&g.items.length?'<div class="gi'+(g.items.length>12?' gis':'')+'">'+g.items.map(i=>(i.href?'<a href="'+esc(i.href)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'">':'<div title="'+esc(i.t)+'">')+'<img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+'</span>'+(i.href?'</a>':'</div>')).join('')+'</div>':'')+(!g.url||isShop(g.url)?'':arch?'<a class="go" href="'+esc(g.url)+'">编年详情 →</a>':'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方页面 ↗</a>')+'</div></article>'};
+const isShop=u=>/amazon\.|hmv\.co\.jp|7net\.omni7|booth\.pm|shop\.tv-tokyo|p-bandai|bandai\.co\.jp\/item|toei-onlinestore|rakuten|animate-onlineshop|mercari|suruga-ya|tohoentertainmentonline|lifetunes|premium-bandai|shop\.|store\./i.test(u||'');const gcard=g=>{const arch=/^list\.html|^archive\.html/.test(g.url||'');return '<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy"'+(g.imagePos?' style="object-fit:cover;object-position:'+esc(g.imagePos)+'"':'')+'>':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span> ':'')+'<span class="gt">'+esc(wk(g)+(g.cat&&g.cat!=='周边'?' · '+g.cat.replace('写真集·杂志','写真集'):''))+'</span><h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div>'+((g.points||[]).length?'<ul>'+g.points.slice(0,2).map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>':'')+(g.items&&g.items.length?'<div class="gi'+(g.items.length>12?' gis':'')+'">'+g.items.map(i=>(i.href?'<a href="'+esc(i.href)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'">':'<div title="'+esc(i.t)+'">')+'<img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+'</span>'+(i.href?'</a>':'</div>')).join('')+'</div>':'')+(!g.url||isShop(g.url)?'':arch?'<a class="go" href="'+esc(g.url)+'">编年详情 →</a>':'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方页面 ↗</a>')+'</div></article>'};
 const WK=['骑士','刀舞','舞台','影视','音乐','个人'];const wk=g=>g.work||(/Maou|麦斯|华武利|假面骑士|十二支/.test(g.title)?'骑士':/刀舞|刀剑乱舞|陽伝/.test(g.title)?'刀舞':/我喜欢的他|我家女儿|Fight Song|大叔的内裤|推しTV|薄墨樱|电影|蓝色监狱/.test(g.title)?'影视':/JBB|妖～|AYAKASHI/.test(g.title)?'音乐':/舞台|音乐剧|网球王子|薄樱鬼|TRUMP|飙速|5DAYS|SLAZY|Marigold|グランギニョル|王者天下|泽西|八云/.test(g.title)?'舞台':'个人');
 const GT=['全部',...WK,'过往周边'];let gt='全部',gexp=false;function drawGoods(){$('goodsTabs').innerHTML=GT.map(t=>'<button class="'+(t===gt?'on':'')+'" data-gt="'+t+'">'+t+'</button>').join('');const past=gt==='过往周边';$('goodsNow').hidden=past;$('goodsPast').hidden=!past;if(past)return;const L=H.goods.filter(g=>gt==='全部'||wk(g)===gt).sort((a,b)=>(b.date||'0').localeCompare(a.date||'0'));const cut=gt==='全部'&&!gexp&&L.length>8;$('goodsGrid').innerHTML=(cut?L.slice(0,8):L).map(gcard).join('')+(cut?'<button class="gmore" data-gmore="1">展开全部 '+L.length+' 件 ↓</button>':'')||'<div class="empty">暂无</div>'}document.addEventListener('click',e=>{const b=e.target.closest('[data-gt]');if(b){gt=b.dataset.gt;gexp=false;drawGoods()}if(e.target.closest('[data-gmore]')){gexp=true;drawGoods()}});drawGoods();
 
@@ -477,7 +477,7 @@ $('nick').innerHTML='爱称：'+P.nicknames.map(esc).join('、')+'（“とん�
 const skc=['--peach-soft','--sage-soft','--sky-soft','--lav-soft','--butter-soft','--rose-soft'];
 $('skills').innerHTML=P.skills.map((s,i)=>'<div class="card sk"><i style="background:var('+skc[i%6]+')">'+esc(s.icon)+'</i><div><b>'+esc(s.title)+'</b><p>'+esc(s.text)+'</p></div></div>').join('');
 $('milestones').innerHTML=P.milestones.map(([y,t])=>'<li><b>'+esc(y)+'</b><span>'+esc(t)+'</span></li>').join('');
-$('profSrc').innerHTML='资料来源：'+P.sources.map(([t,u])=>ext(u,t)).join('');
+
 
 /* says */
 (function(){const S=H.says||[];if(!S.length)return;const tps=['全部',...new Set(S.map(x=>x.topic))];let cur='全部';

@@ -1342,18 +1342,6 @@ window.HUB = {
    "cat": "写真集·杂志"
   },
   {
-   "title": "《TV指南 Stage Stars》vol.34",
-   "date": "2026-12-03",
-   "price": "",
-   "publisher": "东京新闻通信社",
-   "image": "assets/img/9a6bda52c3306f52.jpg",
-   "points": [
-    "Special Other Cuts：最新写真集未使用照片"
-   ],
-   "url": "https://zasshi.tv/products/62998/",
-   "cat": "写真集·杂志"
-  },
-  {
    "title": "刀舞《陽伝》Blu-ray / DVD",
    "date": "2027-05-19",
    "price": "",
@@ -1425,7 +1413,8 @@ window.HUB = {
     "《假面骑士麦斯》假面骑士Maou的变身玩具；官方TVCM见视频栏"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21234/",
-   "cat": "玩具"
+   "cat": "玩具",
+   "work": "骑士"
   },
   {
    "date": "2026-09-05",
@@ -1437,7 +1426,8 @@ window.HUB = {
     "软胶人偶，赤猫变身后的样子"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20954/",
-   "cat": "玩具"
+   "cat": "玩具",
+   "work": "骑士"
   },
   {
    "date": "2026-09-19",
@@ -1449,7 +1439,8 @@ window.HUB = {
     "可动人偶，可以和蛋道具联动"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20955/",
-   "cat": "玩具"
+   "cat": "玩具",
+   "work": "骑士"
   },
   {
    "date": "2026-10-17",
@@ -1462,7 +1453,8 @@ window.HUB = {
     "腰带的变身语音是他本人配的"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21232/",
-   "cat": "玩具"
+   "cat": "玩具",
+   "work": "骑士"
   },
   {
    "date": "2026-10-17",
@@ -1474,7 +1466,8 @@ window.HUB = {
     "Maou的剑单卖版"
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21233/",
-   "cat": "玩具"
+   "cat": "玩具",
+   "work": "骑士"
   },
   {
    "date": "2027-03",
@@ -1486,7 +1479,8 @@ window.HUB = {
     "一般店头贩售，2027年3月发售"
    ],
    "url": "https://tamashiiweb.com/item/16020/",
-   "cat": "玩具"
+   "cat": "玩具",
+   "work": "骑士"
   },
   {
    "date": "2026-09-06",
@@ -1509,13 +1503,9 @@ window.HUB = {
      "t": "侧面",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_2.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_2.jpg"
-    },
-    {
-     "t": "细节",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_3.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_3.jpg"
     }
-   ]
+   ],
+   "work": "骑士"
   },
   {
    "date": "2026-09-06",
@@ -1538,13 +1528,9 @@ window.HUB = {
      "t": "侧面",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_2.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_2.jpg"
-    },
-    {
-     "t": "细节",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_3.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_3.jpg"
     }
-   ]
+   ],
+   "work": "骑士"
   },
   {
    "date": "2026-08-28",
@@ -1567,13 +1553,9 @@ window.HUB = {
      "t": "细节",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_2.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_2.jpg"
-    },
-    {
-     "t": "背面",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_3.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_3.jpg"
     }
-   ]
+   ],
+   "work": "骑士"
   },
   {
    "date": "2026-09-04",
@@ -1586,7 +1568,8 @@ window.HUB = {
     "Myth、Nox、Dawn也有"
    ],
    "url": "https://x.com/KamenRiderStore/status/2094696768076464195",
-   "imagePos": "92% 78%"
+   "imagePos": "50% 100%",
+   "work": "骑士"
   },
   {
    "date": "2026-09-06",
@@ -1598,7 +1581,8 @@ window.HUB = {
     "只在テレアサショップ两家店卖",
     "Myth、Kuroneko也有"
    ],
-   "url": "https://x.com/tv_asahi_shop/status/2096395455735455915"
+   "url": "https://x.com/tv_asahi_shop/status/2096395455735455915",
+   "work": "骑士"
   },
   {
    "date": "2026-11-14",
@@ -1611,7 +1595,8 @@ window.HUB = {
     "盒背的图也好看，可以连盒摆"
    ],
    "url": "https://x.com/KamenRiderStore/status/2121790031400783919",
-   "cat": "玩具"
+   "cat": "玩具",
+   "work": "骑士"
   },
   {
    "date": "2024-12-07",
@@ -2230,32 +2215,23 @@ window.HUB = {
    "publisher": "Premium Bandai",
    "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg",
    "points": [
-    "照剧中十二支同盟的斗篷做的日常款，红、紫等多色，2027年1月发货",
+    "照剧中十二支同盟的斗篷做的日常款，红色款对应猫（华武利），2027年1月发货",
     "魔术贴徽章可换，徽章另售（全12种，1,320円）"
    ],
    "url": "https://www.kamen-rider-official.com/news_articles/3268",
    "items": [
-    {
-     "t": "全部颜色",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_1.jpg"
-    },
     {
      "t": "红色款",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg"
     },
     {
-     "t": "紫色款",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_6.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_6.jpg"
-    },
-    {
      "t": "猫徽章（另售）",
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_2.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_2.jpg"
     }
-   ]
+   ],
+   "work": "骑士"
   },
   {
    "title": "猫纹样饰品（项链 · 戒指 · 耳饰）",
@@ -2284,7 +2260,8 @@ window.HUB = {
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_2.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_2.jpg"
     }
-   ]
+   ],
+   "work": "骑士"
   },
   {
    "title": "刀舞 十周年纪念周边",
@@ -2347,7 +2324,8 @@ window.HUB = {
      "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_12.jpg",
      "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_12.jpg"
     }
-   ]
+   ],
+   "work": "骑士"
   }
  ],
  "channels": {
