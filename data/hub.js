@@ -1076,14 +1076,53 @@ window.HUB = {
   },
   {
    "title": "刀舞《陽伝》公演周边",
-   "date": "2026-11-10",
+   "date": "2026-10-01",
    "price": "",
-   "publisher": "官网 GOODS 页",
-   "image": "https://stage-toukenranbu.jp/wp-content/uploads/2026/09/1_%E9%99%BD%E4%BC%9D_%E5%85%AC%E6%BC%94%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.jpg",
+   "publisher": "舞台『刀剣乱舞』公式通販 · DMM通販",
+   "image": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/5_%E9%99%BD%E4%BC%9D_%E7%87%AD%E5%8F%B0%E5%88%87%E5%85%89%E5%BF%A0.jpg",
    "points": [
-    "会场和通贩周边看官网 GOODS 页"
+    "10/1起官方通贩和DMM通贩开卖，会场11/10预演起卖",
+    "燭台切光忠套组只在通贩卖；三个会场各有限定A4生写真"
    ],
-   "url": "https://stage-toukenranbu.jp/"
+   "url": "https://www.stage-toukenranbu.jp/goods/hiden2/",
+   "items": [
+    {
+     "t": "燭台切套组",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/5_%E9%99%BD%E4%BC%9D_%E7%87%AD%E5%8F%B0%E5%88%87%E5%85%89%E5%BF%A0.jpg"
+    },
+    {
+     "t": "个人生写真",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/2_%E9%99%BD%E4%BC%9D_%E5%80%8B%E4%BA%BA%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB.jpg"
+    },
+    {
+     "t": "刀帐生写真",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/4_%E9%99%BD%E4%BC%9D_%E5%88%80%E5%B8%B3%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99.jpg"
+    },
+    {
+     "t": "明治座限定A4",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/5_%E9%99%BD%E4%BC%9D_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9AA4%E6%9D%B1%E4%BA%AC.jpg"
+    },
+    {
+     "t": "新歌舞伎座限定A4",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/6_%E9%99%BD%E4%BC%9D_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9AA4%E5%A4%A7%E9%98%AA.jpg"
+    },
+    {
+     "t": "随机生写真",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/8_%E9%99%BD%E4%BC%9D_%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%99%E3%83%A0%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99_v2.jpg"
+    },
+    {
+     "t": "祝装随机生写真",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/9_%E9%99%BD%E4%BC%9D_%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%99%E3%83%A0%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99%E7%A5%9D%E8%A3%85ver.jpg"
+    },
+    {
+     "t": "亚克力立牌",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/11_%E9%99%BD%E4%BC%9D_%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%82%99.jpg"
+    },
+    {
+     "t": "场刊",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/1_%E9%99%BD%E4%BC%9D_%E5%85%AC%E6%BC%94%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.jpg"
+    }
+   ]
   },
   {
    "title": "变身腰带 DX Maou Driver",
@@ -1233,25 +1272,27 @@ window.HUB = {
    "cat": "玩具"
   },
   {
-   "date": "",
+   "date": "2024-12-07",
    "title": "《我、我喜欢的他，以及你。》亚克力立牌（崎山亮二）",
    "price": "1,650円",
    "publisher": "テレ东本铺 WEB",
    "image": "https://shop.tv-tokyo.co.jp/img/goods/S/DBS009860_photo01.webp",
    "points": [
     "三人分开卖，他演的是崎山亮二",
-    "三个底座能横着拼在一起，和饭岛宽骑、见津贤摆成一排"
+    "三个底座能横着拼在一起，和饭岛宽骑、见津贤摆成一排",
+    "先受注，2024/12/7起一般贩售"
    ],
    "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009860/"
   },
   {
-   "date": "",
+   "date": "2024-12-07",
    "title": "《我、我喜欢的他，以及你。》ブロマイド套组",
    "price": "1,100円",
    "publisher": "テレ东本铺 WEB",
    "image": "https://shop.tv-tokyo.co.jp/img/goods/L/DBS009863_photo01.webp",
    "points": [
-    "L判4枚：三人各一张新拍的单人照，加一张三人合照"
+    "L判4枚：三人各一张新拍的单人照，加一张三人合照",
+    "先受注，2024/12/7起一般贩售"
    ],
    "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009863/"
   },
@@ -1884,6 +1925,40 @@ window.HUB = {
     {
      "t": "耳饰",
      "img": "https://www.kamen-rider-official.com/uploads/layout/s3_image3/3243/2c5b9bb4-eb63-407b-8239-f81c121b60fc.jpg"
+    }
+   ]
+  },
+  {
+   "title": "刀舞 十周年纪念周边",
+   "date": "2026-10",
+   "price": "",
+   "publisher": "舞台『刀剣乱舞』官网 GOODS",
+   "image": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/01_raster_bromide.jpg",
+   "points": [
+    "和陽伝公演周边分开的一套，十周年专属",
+    "烫金个人生写真、刀帐生写真、橡果钥匙扣（按组分）、雪花球"
+   ],
+   "url": "https://www.stage-toukenranbu.jp/goods/10th/",
+   "items": [
+    {
+     "t": "烫金个人生写真",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/01_raster_bromide.jpg"
+    },
+    {
+     "t": "刀帐生写真",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/%E5%8D%81%E5%91%A8%E5%B9%B4_%E5%88%80%E5%B8%B3%E3%83%95%E3%82%99%E3%83%AD_%E9%9B%86%E5%90%88.jpg"
+    },
+    {
+     "t": "橡果钥匙扣",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/02_keyholder__group_A.jpg"
+    },
+    {
+     "t": "和纸风文件夹",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/03_clearfile.jpg"
+    },
+    {
+     "t": "雪花球",
+     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/%E5%8D%81%E5%91%A8%E5%B9%B4_%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88%E3%82%99%E3%83%BC%E3%83%A0.jpg"
     }
    ]
   }
