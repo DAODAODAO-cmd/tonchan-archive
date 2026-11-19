@@ -2581,6 +2581,30 @@ window.HUB = {
    "date": "2018-10-10",
    "src": "ステージナタリー",
    "url": "https://natalie.mu/stage/news/303161"
+  },
+  {
+   "topic": "角色幕后",
+   "zh": "没踢过足球，为了演马狼练了一年多。教练说球不离脚是捷径，他就在家里从客厅一路带球走到厕所。",
+   "ja": "リビングからトイレに行くまでボールを触りながら",
+   "date": "2026-08-07",
+   "src": "Astage",
+   "url": "https://www.astage-ent.com/cinema/bluelock-15.html"
+  },
+  {
+   "topic": "角色幕后",
+   "zh": "导演反复叮嘱别演成小混混：真正的老大什么都不用做，靠站姿和气场就够了。",
+   "ja": "ボスこそ何もしない",
+   "date": "2026-08-07",
+   "src": "Astage",
+   "url": "https://www.astage-ent.com/cinema/bluelock-15.html"
+  },
+  {
+   "topic": "梦想与目标",
+   "zh": "作为演员绝不让步的东西是唱歌。现在每个月还去上一两次课，一直在琢磨怎么让声音再“觉醒”一次。",
+   "ja": "歌です",
+   "date": "2026-08-07",
+   "src": "Astage",
+   "url": "https://www.astage-ent.com/cinema/bluelock-15.html"
   }
  ]
 };
