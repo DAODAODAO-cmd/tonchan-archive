@@ -51,7 +51,8 @@ window.ARCHIVE = {
      "caption": "官网真人角色照：东启介饰千岁千里",
      "source": "https://www.tennimu.com/cast_2nd/sh02chitose.html",
      "asset": "863e36c56ed019e3",
-     "resolution": "730 × 209"
+     "resolution": "730 × 209",
+     "pos": "8% 30%"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5818255.jpg",
@@ -7327,9 +7328,9 @@ window.ARCHIVE = {
    "dateKind": "原定首演日",
    "images": [
     {
-     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
-     "caption": "文章配图",
-     "source": "https://engekisengen.com/genre/musical/42787/",
+     "url": "https://engekisengen.com/wp-content/uploads/2021/11/azuma.jpg",
+     "caption": "鲍勃·高迪奥 定妆照",
+     "source": "ローチケ演劇宣言！",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
     },
@@ -7367,9 +7368,9 @@ window.ARCHIVE = {
    "dateKind": "线上开演日",
    "images": [
     {
-     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
-     "caption": "文章配图",
-     "source": "https://engekisengen.com/genre/musical/42787/",
+     "url": "https://engekisengen.com/wp-content/uploads/2021/11/azuma.jpg",
+     "caption": "鲍勃·高迪奥 定妆照",
+     "source": "ローチケ演劇宣言！",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
     }
@@ -10732,9 +10733,9 @@ window.ARCHIVE = {
    "dateKind": "发布日",
    "images": [
     {
-     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
-     "caption": "演剧宣言采访图",
-     "source": "https://engekisengen.com/genre/musical/42787/",
+     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0079-scaled.jpg",
+     "caption": "专访单人照",
+     "source": "ローチケ演劇宣言！",
      "asset": "",
      "resolution": ""
     }
@@ -10979,15 +10980,15 @@ window.ARCHIVE = {
    "crew": "导演：藤田俊太郎",
    "key": "",
    "url": "https://engekisengen.com/genre/musical/42787/",
-   "note": "10月6–7日为收费预演，正式开演10月8日。2025官网已更新，图片不能直接沿用到2022。",
+   "note": "10月6–7日为收费预演，正式开演10月8日。2025官网已更新，图片不能直接沿用到2022。 预演开幕时他说：最难的是四个人一起磨的和声；最开心的是2年前没能实现的、这四个人一起站上正式舞台。",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
-     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355-scaled.jpg",
-     "caption": "文章配图",
-     "source": "https://engekisengen.com/genre/musical/42787/",
+     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0079-scaled.jpg",
+     "caption": "专访单人照",
+     "source": "ローチケ演劇宣言！",
      "asset": "0ad08f94d290331d",
      "resolution": "1707 × 2560"
     },
@@ -11009,6 +11010,11 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/metro/JB002_06BA_0276.jpg",
      "caption": "剧照：鲍勃·高迪奥",
      "source": "マチソワ"
+    },
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2021/11/azuma.jpg",
+     "caption": "第2弹阵容公布（2021-11-08）定妆照",
+     "source": "ローチケ演劇宣言！"
     }
    ],
    "videos": [
