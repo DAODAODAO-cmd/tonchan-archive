@@ -16457,11 +16457,29 @@ window.ARCHIVE = {
    "dateKind": "发布日",
    "images": [
     {
-     "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0132-1.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/8189/",
-     "asset": "4ddbe858ec009526",
-     "resolution": "2055 × 1269"
+     "url": "https://stat.ameba.jp/user_images/20241017/12/we-goodsinfo/28/df/j/o2380336815498946018.jpg",
+     "caption": "官方周边一览",
+     "source": "WE SHOP"
+    },
+    {
+     "url": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwc9f2ab5e/033131/2110656753.jpg",
+     "caption": "亚克力立牌",
+     "source": "ワタナベ商店"
+    },
+    {
+     "url": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwed06940c/033131/2110656751.jpg",
+     "caption": "きゃっとん。长袖T",
+     "source": "ワタナベ商店"
+    },
+    {
+     "url": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwd2d08859/033131/2110656754.jpg",
+     "caption": "半身生写真套组",
+     "source": "ワタナベ商店"
+    },
+    {
+     "url": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw58de1e49/033131/2110656755.jpg",
+     "caption": "贴纸套组",
+     "source": "ワタナベ商店"
     }
    ],
    "videos": [],
