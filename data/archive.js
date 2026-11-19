@@ -1216,7 +1216,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B46%E6%9C%88",
+   "url": "https://web.archive.org/web/2016*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -1327,7 +1327,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B47%E6%9C%88",
+   "url": "https://web.archive.org/web/2016*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -1460,7 +1460,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B48%E6%9C%88",
+   "url": "https://web.archive.org/web/2016*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -1800,7 +1800,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B410%E6%9C%88",
+   "url": "https://web.archive.org/web/2016*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -1876,7 +1876,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B411%E6%9C%88",
+   "url": "https://web.archive.org/web/2016*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -1952,7 +1952,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202016%E5%B9%B412%E6%9C%88",
+   "url": "https://web.archive.org/web/2016*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2170,7 +2170,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B41%E6%9C%88",
+   "url": "https://web.archive.org/web/2017*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2300,12 +2300,17 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B42%E6%9C%88",
+   "url": "https://web.archive.org/web/20170210161412/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301353617.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545447.jpg",
      "caption": "生写真",
@@ -2479,7 +2484,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B43%E6%9C%88",
+   "url": "https://web.archive.org/web/2017*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2584,7 +2589,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B44%E6%9C%88",
+   "url": "https://web.archive.org/web/2017*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2974,12 +2979,17 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B46%E6%9C%88",
+   "url": "https://web.archive.org/web/20170609200842/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301364071.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699349.jpg",
      "caption": "生写真",
@@ -3126,12 +3136,17 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B47%E6%9C%88",
+   "url": "https://web.archive.org/web/20170710222707/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301366687.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435695.jpg",
      "caption": "生写真",
@@ -3369,12 +3384,22 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B48%E6%9C%88",
+   "url": "https://web.archive.org/web/20170811045018/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369385.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369390.jpg",
+     "caption": "7net 官方商品图：22岁生日生写真套组",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639092.jpg",
      "caption": "生写真",
@@ -3472,12 +3497,17 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B49%E6%9C%88",
+   "url": "https://web.archive.org/web/20170911021612/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301372413.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639095.jpg",
      "caption": "生写真",
@@ -3541,7 +3571,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B410%E6%9C%88",
+   "url": "https://web.archive.org/web/2017*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -3642,12 +3672,17 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B411%E6%9C%88",
+   "url": "https://web.archive.org/web/20171107100757/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301377319.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639100.jpg",
      "caption": "生写真",
@@ -3915,12 +3950,17 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202017%E5%B9%B412%E6%9C%88",
+   "url": "https://web.archive.org/web/20171209234102/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301379742.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439021.jpg",
      "caption": "生写真",
@@ -3995,7 +4035,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B41%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4133,12 +4173,17 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B42%E6%9C%88",
+   "url": "https://web.archive.org/web/20180223071909/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301384212.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439024.jpg",
      "caption": "生写真",
@@ -4238,7 +4283,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B43%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4366,7 +4411,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B44%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4560,7 +4605,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B45%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4709,7 +4754,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B46%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4869,7 +4914,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B47%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4987,7 +5032,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B48%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5219,7 +5264,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B49%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5295,7 +5340,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B410%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5582,7 +5627,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202018%E5%B9%B411%E6%9C%88",
+   "url": "https://web.archive.org/web/2018*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5904,7 +5949,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B42%E6%9C%88",
+   "url": "https://web.archive.org/web/2019*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5937,7 +5982,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B43%E6%9C%88",
+   "url": "https://web.archive.org/web/2019*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -6351,7 +6396,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202019%E5%B9%B47%E6%9C%88",
+   "url": "https://web.archive.org/web/2019*/7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -6481,6 +6526,31 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "音声",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201910",
+   "date": "2019-10-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2019年10月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/20191021215857/https://7net.omni7.jp/general/sp/watanabeprobro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301437228.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "e30",
@@ -7536,6 +7606,31 @@ window.ARCHIVE = {
    ]
   },
   {
+   "id": "bro_202009",
+   "date": "2020-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2020年9月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/20200903111416/https://7net.omni7.jp/general/sp/watanabeprobro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301461360.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
+  },
+  {
    "id": "mag_fs2020493",
    "date": "2020-09-07",
    "end": "",
@@ -7570,12 +7665,17 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://www.suruga-ya.jp/search?search_word=%E6%9D%B1%E5%95%93%E4%BB%8B%202020%E5%B9%B410%E6%9C%88",
+   "url": "https://web.archive.org/web/20201003121617/https://7net.omni7.jp/general/sp/watanabeprobro",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301464245.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814333.jpg",
      "caption": "生写真",
@@ -10800,6 +10900,31 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_202209",
+   "date": "2022-09-01",
+   "category": "活动",
+   "title": "WE官方生写真〈2022年9月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2017年2月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://web.archive.org/web/20220928111003/https://7net.omni7.jp/general/sp/watanabeprobro",
+   "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301516194.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide",
+   "end": ""
   },
   {
    "id": "mag_fs2295085",
@@ -17135,6 +17260,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110661625.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/GlFQmeYboAAgg0-?format=jpg&name=large",
      "caption": "WE官方生写真 2025年3月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1896395159325245461",
@@ -18567,6 +18697,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110690616.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/HHM-MafbMAA3QZL?format=jpg&name=large",
      "caption": "WE官方生写真 2026年5月 阵容宣传图",
