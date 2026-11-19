@@ -34756,6 +34756,63 @@ window.ARCHIVE = {
    "platform": "YouTube",
    "asset": "",
    "uploadDate": "2020-10-01"
+  },
+  {
+   "id": "nLqV1if1fzE",
+   "title": "宮崎秋人＆東啓介、最近“デビューしたこと”を発表！（Deview连载「D-DAYS」Vol.151）",
+   "channel": "DeviewOfficial",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.youtube.com/watch?v=nLqV1if1fzE",
+   "thumbnail": "https://i.ytimg.com/vi/nLqV1if1fzE/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=nLqV1if1fzE",
+   "uploadDate": "2020-09-01",
+   "dateLabel": "2020 公开",
+   "asset": ""
+  },
+  {
+   "id": "54gG1eGXuXU",
+   "title": "『Defiled-ディファイルド-』コメント映像／東啓介",
+   "channel": "STAGE GATE VRシアター",
+   "type": "预告／宣传",
+   "sourceType": "官方／机构",
+   "years": [
+    "2020"
+   ],
+   "url": "https://www.youtube.com/watch?v=54gG1eGXuXU",
+   "thumbnail": "https://i.ytimg.com/vi/54gG1eGXuXU/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=54gG1eGXuXU",
+   "uploadDate": "2020-07-09",
+   "dateLabel": "2020 公开",
+   "asset": ""
+  },
+  {
+   "id": "1wDUDHk5pkg",
+   "title": "映画「おっパン」　FANTASTICS中島颯太、東啓介と撮影合間に水族館へ　撮影エピソード披露",
+   "channel": "MANTAN TV",
+   "type": "采访／发布会",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2025"
+   ],
+   "url": "https://www.youtube.com/watch?v=1wDUDHk5pkg",
+   "thumbnail": "https://i.ytimg.com/vi/1wDUDHk5pkg/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "2026.11.19补充",
+   "source": "https://www.youtube.com/watch?v=1wDUDHk5pkg",
+   "uploadDate": "2025-07-05",
+   "dateLabel": "2025 公开",
+   "asset": ""
   }
  ],
  "playlists": [
