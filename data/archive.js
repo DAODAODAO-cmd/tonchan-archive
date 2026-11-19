@@ -6223,6 +6223,34 @@ window.ARCHIVE = {
    "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg"
   },
   {
+   "id": "web_mtj190503",
+   "date": "2019-05-03",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《Color of Life》对谈：东启介×青野纱穗（Musical Theater Japan）",
+   "japanese": "東啓介＆青野紗穂が語る、出会いの奇跡の物語『Color of Life』",
+   "crew": "",
+   "key": "",
+   "url": "https://www.musicaltheaterjapan.com/entry/5-3",
+   "note": "Musical Theater Japan（松岛まり乃）。",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.19补充",
+   "dateKind": "文章发布日期（发布方元数据）",
+   "images": [
+    {
+     "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20190503/20190503081908.jpg",
+     "caption": "东启介（右）与青野纱穗 ©Marino Matsushima",
+     "source": "https://www.musicaltheaterjapan.com/entry/5-3",
+     "asset": "",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_fs1819396",
    "date": "2019-05-05",
    "end": "",
@@ -15645,6 +15673,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "assets/img/roles/e65_photo.jpg",
+     "caption": "埃里克造型（本人Instagram，千秋乐后发布）",
+     "source": "https://www.instagram.com/p/DCjHzxMy7dp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://theatre-orb.com/data/files/2024/20241667/mainvisual.jpg",
      "caption": "主视觉",
      "source": "https://theatre-orb.com/lineup/24_deathtakesaholiday/",
@@ -15671,7 +15706,7 @@ window.ARCHIVE = {
    "roleRoma": "ERIC",
    "workRoma": "DEATH TAKES A HOLIDAY",
    "roleName": "埃里克",
-   "cardPhoto": "https://pbs.twimg.com/media/GZHud40aEAARG1g?format=jpg&name=large"
+   "cardPhoto": "assets/img/roles/e65_photo.jpg"
   },
   {
    "id": "bro_202410",
