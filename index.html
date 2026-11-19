@@ -271,7 +271,7 @@ footer p{margin:4px 0}
 .rnav{display:flex;gap:8px}.rnav button{border:1px solid var(--line);background:var(--card);border-radius:50%;width:34px;height:34px;cursor:pointer;color:var(--ink)}
 @media(max-width:640px){.rl{flex-basis:46vw}.rl-nm{height:250px}.rl-nm b{font-size:26px}.rl-ph{height:200px}.rl-pst{height:150px}.rl-pst img{max-height:136px}}
 .gi{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:6px;margin:8px 0 10px}.gi>div,.gi a{text-decoration:none;color:inherit;font-size:10px;line-height:1.3}.gi img{width:100%;aspect-ratio:1;object-fit:contain;background:#fff;border-radius:8px;border:1px solid var(--line)}.gi span{display:block;margin-top:2px;opacity:.75}
-.pv{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}.pv figure{margin:0}.pv img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top;border-radius:12px;background:#eee}.pv figcaption{font-size:11px;line-height:1.4;color:var(--muted);margin-top:4px}.pv figcaption b{display:block;color:var(--ink);font-size:12px}@media(max-width:560px){.pv{grid-template-columns:repeat(3,minmax(0,1fr))}}</style>
+.pv{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}.pv figure{margin:0}.pv img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top;border-radius:12px;background:#eee}.pv figcaption{font-size:11px;line-height:1.4;color:var(--muted);margin-top:4px}.pv figcaption b{display:block;color:var(--ink);font-size:12px}@media(max-width:560px){.pv{grid-template-columns:repeat(3,minmax(0,1fr))}}.hero-photo .ph{position:relative}.htrack{display:flex;width:100%;height:100%;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none}.htrack::-webkit-scrollbar{display:none}.htrack figure{flex:0 0 100%;height:100%;margin:0;position:relative;scroll-snap-align:start}.hy{position:absolute;left:50%;bottom:12px;transform:translateX(-50%);background:rgba(255,253,249,.85);color:var(--ink);font-size:12px;letter-spacing:.06em;padding:3px 10px;border-radius:999px}.hdots{display:flex;justify-content:center;gap:6px;margin-top:10px}.hdots button{width:7px;height:7px;border-radius:50%;border:0;padding:0;background:#d8cfc4}.hdots button.on{background:var(--sage,#7f9c88);width:18px;border-radius:4px}</style>
 <script>document.addEventListener('load',function(e){var i=e.target;if(i&&i.tagName==='IMG'&&i.naturalHeight>i.naturalWidth*1.05&&!i.style.objectPosition)i.style.objectPosition='50% 15%'},true)</script>
 <style>img[src$=".png"]{background:#2e2622}</style>
 </head>
@@ -290,9 +290,8 @@ footer p{margin:4px 0}
     <p class="tagline" id="tagline"></p>
     <div class="chips" id="heroChips"></div>
     <div class="hero-stats" id="heroStats"></div>
-    <span class="updated" id="updated"></span>
   </div>
-  <div class="hero-photo"><div class="ph"><img id="portrait" src="assets/img/hero-30th-afterglow.jpg" alt="东启介 30岁生日音乐会《afterglow》官方宣传照"></div><div class="cap">官方宣传照 · 2025 30岁生日音乐会《afterglow》</div></div>
+  <div class="hero-photo"><div class="ph" id="heroSlides"><img src="assets/img/hero-30th-afterglow.jpg" alt="东启介"></div><div class="hdots" id="heroDots"></div></div>
 </div></div></header>
 
 <main>
@@ -349,7 +348,6 @@ footer p{margin:4px 0}
     <div class="skills" id="skills"></div>
   </div>
   <div class="card ms"><h3 style="font-family:var(--serif);margin:0 0 14px;font-size:17px">经历小记</h3><ol id="milestones"></ol><div class="src" id="profSrc"></div></div>
-  <div class="card ms"><h3 style="font-family:var(--serif);margin:0 0 6px;font-size:17px">事务所官方照变迁</h3><p style="font-size:12px;color:var(--muted);margin:0 0 12px">Watanabe官网资料页历年用过的照片，取自网页存档（Wayback Machine）。</p><div class="pv" id="photoHist"></div></div>
 </div>
   <div class="ab" id="says" hidden>
   <div class="filters" id="saysFilters"></div>
@@ -389,7 +387,9 @@ $('tagline').textContent=P.tagline;
 $('heroChips').innerHTML=[['生日','7/14'],['身高','190cm'],['书道','六段'],['爱好','钢琴 · 摄影'],['所属','Watanabe Ent.']].map(([a,b])=>'<span class="chip">'+a+' <b>'+b+'</b></span>').join('');
 const yearsActive=new Date(today).getFullYear()-2013;
 $('heroStats').innerHTML=[[A.events.length,'条编年记录'],[A.videos.length,'条视频资料'],[A.events.filter(e=>e.category==='舞台').length,'部舞台作品'],[yearsActive+'年','演艺生涯']].map(([n,t])=>'<div class="hs"><strong>'+n+'</strong><span>'+t+'</span></div>').join('');
-$('updated').textContent='资料更新：'+fmt(H.updated);
+
+/* hero slides */
+(function(){const S=[['2025–','assets/img/hero-30th-afterglow.jpg'],...(P.photos||[]).slice(0,-1).reverse().map(x=>[x[0],x[1]])];const box=$('heroSlides');box.innerHTML='<div class="htrack">'+S.map(([y,u],k)=>'<figure><img src="'+esc(u)+'" alt="东启介 '+esc(y)+'"'+(k?' loading="lazy"':'')+'><span class="hy">'+esc(y)+'</span></figure>').join('')+'</div>';const tr=box.firstChild;let cur=0,t;const dots=$('heroDots');dots.innerHTML=S.map((_,k)=>'<button aria-label="第'+(k+1)+'张"></button>').join('');const go=k=>{cur=(k+S.length)%S.length;tr.scrollTo({left:cur*tr.clientWidth,behavior:'smooth'});mark()};const mark=()=>[...dots.children].forEach((b,k)=>b.classList.toggle('on',k===cur));const auto=()=>{clearInterval(t);t=setInterval(()=>go(cur+1),4500)};dots.onclick=e=>{const b=e.target.closest('button');if(b){go([...dots.children].indexOf(b));auto()}};tr.addEventListener('scroll',()=>{const k=Math.round(tr.scrollLeft/tr.clientWidth);if(k!==cur){cur=k;mark()}},{passive:true});tr.addEventListener('pointerdown',()=>clearInterval(t));mark();auto();})();
 $('footUpdated').textContent='最后更新 '+fmt(H.updated);
 
 /* now */
@@ -445,7 +445,7 @@ $('facts').innerHTML=P.facts.map(([a,b])=>'<dt>'+esc(a)+'</dt><dd>'+esc(b)+'</dd
 $('nick').innerHTML='爱称：'+P.nicknames.map(esc).join('、')+'（“とんすけ”出自网球王子音乐剧共演的佐藤流司）';
 const skc=['--peach-soft','--sage-soft','--sky-soft','--lav-soft','--butter-soft','--rose-soft'];
 $('skills').innerHTML=P.skills.map((s,i)=>'<div class="card sk"><i style="background:var('+skc[i%6]+')">'+esc(s.icon)+'</i><div><b>'+esc(s.title)+'</b><p>'+esc(s.text)+'</p></div></div>').join('');
-$('photoHist').innerHTML=(P.photos||[]).map(([y,u,t])=>'<figure><img src="'+esc(u)+'" alt="'+esc(y)+'" loading="lazy"><figcaption><b>'+esc(y)+'</b>'+esc(t)+'</figcaption></figure>').join('');$('milestones').innerHTML=P.milestones.map(([y,t])=>'<li><b>'+esc(y)+'</b><span>'+esc(t)+'</span></li>').join('');
+$('milestones').innerHTML=P.milestones.map(([y,t])=>'<li><b>'+esc(y)+'</b><span>'+esc(t)+'</span></li>').join('');
 $('profSrc').innerHTML='资料来源：'+P.sources.map(([t,u])=>ext(u,t)).join('');
 
 /* says */
