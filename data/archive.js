@@ -113,16 +113,16 @@ window.ARCHIVE = {
    "dateKind": "活动日",
    "images": [
     {
-     "url": "https://www.tennimu.com/second/play_2014undokai/img/Phdr-img.jpg",
-     "caption": "主视觉",
-     "source": "https://www.tennimu.com/second/play_2014undokai/",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325666.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325666.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
+     "url": "https://www.tennimu.com/second/play_2014undokai/img/Phdr-img.jpg",
+     "caption": "主视觉",
+     "source": "https://www.tennimu.com/second/play_2014undokai/",
      "asset": "",
      "resolution": ""
     },
@@ -156,16 +156,16 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
-     "url": "https://www.tennimu.com/second/play_2014rikkai/img/Phdr-img.jpg",
-     "caption": "主视觉",
-     "source": "https://www.tennimu.com/second/play_2014rikkai/",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325663.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325663.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
+     "url": "https://www.tennimu.com/second/play_2014rikkai/img/Phdr-img.jpg",
+     "caption": "主视觉",
+     "source": "https://www.tennimu.com/second/play_2014rikkai/",
      "asset": "",
      "resolution": ""
     },
@@ -381,16 +381,16 @@ window.ARCHIVE = {
    "dateKind": "活动首日",
    "images": [
     {
-     "url": "https://www.tennimu.com/second/play_dl2014/img/Phdr-img.jpg",
-     "caption": "主视觉",
-     "source": "https://www.tennimu.com/second/play_dl2014/",
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380469.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380469.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
+     "url": "https://www.tennimu.com/second/play_dl2014/img/Phdr-img.jpg",
+     "caption": "主视觉",
+     "source": "https://www.tennimu.com/second/play_dl2014/",
      "asset": "",
      "resolution": ""
     },
@@ -486,6 +486,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://web.archive.org/web/2023im_/https://sumabo.jp/smartboys/news/wp-content/uploads/2015/02/150211_KU_0403.jpg",
+     "caption": "舞台照：织田亮",
+     "source": "スマートボーイズ"
+    },
+    {
      "url": "https://www.nelke.co.jp/uploads/2024/07/b4c548a468627b09f1ecb9578ccd87ebcb9b39a4.jpg",
      "caption": "海报",
      "source": "https://www.nelke.co.jp/stage/yakumo2015/index.html",
@@ -510,11 +515,6 @@ window.ARCHIVE = {
      "url": "https://www.nntt.jac.go.jp/performance/rent/%E5%85%AB%E9%9B%B2%E6%9C%AC%E3%83%81%E3%83%A9%E3%82%B7%E8%A1%A8.jpg",
      "caption": "正式宣传单（正面）",
      "source": "新国立劇場"
-    },
-    {
-     "url": "https://web.archive.org/web/2023im_/https://sumabo.jp/smartboys/news/wp-content/uploads/2015/02/150211_KU_0403.jpg",
-     "caption": "舞台照：织田亮",
-     "source": "スマートボーイズ"
     }
    ],
    "videos": [],
@@ -975,6 +975,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/harada.jpg",
+     "caption": "角色照：原田左之助",
+     "source": "官方"
+    },
+    {
      "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/top/topImage.jpg",
      "caption": "主视觉",
      "source": "官方"
@@ -1006,11 +1011,6 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/harada.jpg",
-     "caption": "角色照：原田左之助",
-     "source": "官方"
     }
    ],
    "videos": [
@@ -1048,6 +1048,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134719.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0215/s_pedalSS_KV3_RGBforweb.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
@@ -1060,13 +1067,6 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/titles/st/756/",
      "asset": "58daa6ea467942ec",
      "resolution": "1200 × 630"
-    },
-    {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134719.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134720.jpg",
@@ -1143,6 +1143,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-304926-2.jpg",
+     "caption": "角色视觉：烛台切光忠（第3弹）",
+     "source": "マーベラス（PR TIMES）"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0318/butai_toukenranbu_image.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
@@ -1169,11 +1174,6 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-304926-2.jpg",
-     "caption": "角色视觉：烛台切光忠（第3弹）",
-     "source": "マーベラス（PR TIMES）"
     },
     {
      "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-191959-0.jpg",
@@ -1504,6 +1504,13 @@ window.ARCHIVE = {
    "dateKind": "活动首日",
    "images": [
     {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143693.jpg",
+     "caption": "生写真",
+     "source": "https://www.suruga-ya.jp/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0726/LIVE2_KV.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
@@ -1516,13 +1523,6 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/titles/st/763/",
      "asset": "58daa6ea467942ec",
      "resolution": "1200 × 630"
-    },
-    {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143693.jpg",
-     "caption": "生写真",
-     "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143694.jpg",
@@ -1726,6 +1726,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://prtimes.jp/i/16719/99/resize/d16719-99-628132-0.jpg",
+     "caption": "角色视觉：苇木场拓斗",
+     "source": "マーベラス（PR TIMES）"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0823/pedalHSS-KV-3.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
@@ -1759,11 +1764,6 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://prtimes.jp/i/16719/99/resize/d16719-99-628132-0.jpg",
-     "caption": "角色视觉：苇木场拓斗",
-     "source": "マーベラス（PR TIMES）"
     }
    ],
    "videos": [
@@ -3252,6 +3252,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://pbs.twimg.com/media/DEXyHHcU0AUHI-B?format=jpg&name=large",
+     "caption": "角色照：李春林（本人X）",
+     "source": "https://x.com/keisuke_higashi/status/884379122884952064",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/274887/d841d9e5d769e15552f403e13dfc1758_6d5d8f957f8faa94f45c1c1b7201fedb.jpg",
      "caption": "公演主视觉",
      "source": "https://grandguignol-170401.themedia.jp/",
@@ -3297,13 +3304,6 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo32444.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://pbs.twimg.com/media/DEXyHHcU0AUHI-B?format=jpg&name=large",
-     "caption": "角色照：李春林（本人X）",
-     "source": "https://x.com/keisuke_higashi/status/884379122884952064",
      "asset": "",
      "resolution": ""
     }
@@ -4410,6 +4410,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2018/0403/_4026797.jpg",
+     "caption": "舞台照：哈瓦尔（中间白衣）",
+     "source": "ステージナタリー"
+    },
+    {
      "url": "https://www.stagegate.jp/stagegate/performance/2018/5days/img/main_img.jpg",
      "caption": "主视觉",
      "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
@@ -4436,11 +4441,6 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2018/0403/_4026797.jpg",
-     "caption": "舞台照：哈瓦尔（中间白衣）",
-     "source": "ステージナタリー"
     }
    ],
    "videos": [
@@ -5369,6 +5369,11 @@ window.ARCHIVE = {
    "dateKind": "上映日",
    "images": [
     {
+     "url": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-1.png",
+     "caption": "官网角色设定：时丸（全身）",
+     "source": "https://garo-project.jp/usuzumizakura/sp/character.php"
+    },
+    {
      "url": "https://garo-project.jp/usuzumizakura/sp/img/top/mainVisual.jpg",
      "caption": "官方动画海报",
      "source": "https://garo-project.jp/usuzumizakura/sp/news.php",
@@ -5386,11 +5391,6 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg",
      "caption": "主视觉",
      "source": "コミックナタリー"
-    },
-    {
-     "url": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-1.png",
-     "caption": "官网角色设定：时丸（全身）",
-     "source": "https://garo-project.jp/usuzumizakura/sp/character.php"
     },
     {
      "url": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-2.png",
@@ -5687,6 +5687,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://stage.parco.jp/image/parcoplay/store/storage/s_inochi_photo2.jpg",
+     "caption": "剧照：山田羽仁男",
+     "source": "PARCO STAGE（撮影：引地信彦）"
+    },
+    {
      "url": "https://stage.parco.jp//image/parcoplay/store/storage/h600/s_inochi_honchirashi.jpg",
      "caption": "海报",
      "source": "https://stage.parco.jp/program/inochi/",
@@ -5727,11 +5732,6 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://stage.parco.jp/image/parcoplay/store/storage/s_inochi_photo2.jpg",
-     "caption": "剧照：山田羽仁男",
-     "source": "PARCO STAGE（撮影：引地信彦）"
     }
    ],
    "videos": [],
@@ -6203,6 +6203,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg",
+     "caption": "剧照",
+     "source": "https://natalie.mu/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/img/main_img.jpg",
      "caption": "主视觉",
      "source": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/",
@@ -6220,13 +6227,6 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo41034.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg",
-     "caption": "剧照",
-     "source": "https://natalie.mu/",
      "asset": "",
      "resolution": ""
     }
@@ -6409,16 +6409,16 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg",
+     "caption": "剧照：胜麟太郎",
+     "source": "明治座"
+    },
+    {
      "url": "https://www.meijiza.co.jp/lineup/2019/07/images/main_header.jpg",
      "caption": "主视觉",
      "source": "https://www.meijiza.co.jp/lineup/2019/07/",
      "asset": "164eaf65d35f7464",
      "resolution": "1280 × 610"
-    },
-    {
-     "url": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg",
-     "caption": "剧照：胜麟太郎",
-     "source": "明治座"
     }
    ],
    "videos": [],
@@ -6881,16 +6881,16 @@ window.ARCHIVE = {
    "dateKind": "首发上线日",
    "images": [
     {
-     "url": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg",
-     "caption": "主视觉",
-     "source": "官方"
-    },
-    {
      "url": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
      "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
      "asset": "",
      "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg",
+     "caption": "主视觉",
+     "source": "官方"
     },
     {
      "url": "assets/img/roles/e33_photo.jpg",
@@ -7173,6 +7173,11 @@ window.ARCHIVE = {
    "dateKind": "东启介出演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
+     "caption": "角色照：夏洛克",
+     "source": "ステージナタリー（左为东启介）"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/400_50.jpg",
      "caption": "主视觉",
      "source": "官方"
@@ -7183,11 +7188,6 @@ window.ARCHIVE = {
      "source": "https://sato-ryuji.com/contents/370307",
      "asset": "17ef63bf09c3596f",
      "resolution": "1200 × 630"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
-     "caption": "角色照：夏洛克",
-     "source": "ステージナタリー（左为东启介）"
     }
    ],
    "videos": [],
@@ -8233,9 +8233,9 @@ window.ARCHIVE = {
    "dateKind": "作品首播日",
    "images": [
     {
-     "url": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg",
-     "caption": "主视觉",
-     "source": "官方"
+     "url": "https://stat.ameba.jp/user_images/20210117/13/uchikare-ntv/a8/77/j/o1080161814882857453.jpg",
+     "caption": "官方博客角色介绍：涉周一",
+     "source": "https://ameblo.jp/uchikare-ntv/entry-12650044500.html"
     },
     {
      "url": "https://www.ntv.co.jp/uchikare/articles/images/47pv6t32e0uabk3lfvqg3bilpyea1t.jpg",
@@ -8245,9 +8245,9 @@ window.ARCHIVE = {
      "resolution": "700 × 394"
     },
     {
-     "url": "https://stat.ameba.jp/user_images/20210117/13/uchikare-ntv/a8/77/j/o1080161814882857453.jpg",
-     "caption": "官方博客角色介绍：涉周一",
-     "source": "https://ameblo.jp/uchikare-ntv/entry-12650044500.html"
+     "url": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg",
+     "caption": "主视觉",
+     "source": "官方"
     }
    ],
    "videos": [
@@ -9092,6 +9092,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://theatergirl.jp/wp-content/uploads/2021/04/reIMG_0237.jpg",
+     "caption": "剧照：本尼",
+     "source": "THEATER GIRL"
+    },
+    {
      "url": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/img/main_img01.jpg",
      "caption": "主视觉",
      "source": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/",
@@ -9104,11 +9109,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://theatergirl.jp/wp-content/uploads/2021/04/reIMG_0237.jpg",
-     "caption": "剧照：本尼",
-     "source": "THEATER GIRL"
     }
    ],
    "videos": [
@@ -9640,16 +9640,16 @@ window.ARCHIVE = {
    "dateKind": "本人登场集播出日（实际日历日）",
    "images": [
     {
-     "url": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/f3/d0/00c1329e556c48d6df9fd2e6564a.jpg",
-     "caption": "海报",
-     "source": "テレ东官网"
-    },
-    {
      "url": "https://www.tv-tokyo.co.jp/tsumarisuki/image/cast/06.jpg",
      "caption": "官方演员页：加贺见修",
      "source": "https://www.tv-tokyo.co.jp/tsumarisuki/cast/",
      "asset": "404fe5babd62f095",
      "resolution": "650 × 700"
+    },
+    {
+     "url": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/f3/d0/00c1329e556c48d6df9fd2e6564a.jpg",
+     "caption": "海报",
+     "source": "テレ东官网"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2021/0916/higashi_ishikawa_tsumarisuki.jpg",
@@ -9727,16 +9727,16 @@ window.ARCHIVE = {
    "dateKind": "上线日",
    "images": [
     {
-     "url": "https://image.p-c2-x.abema-tv.com/image/series/90-1602/thumb.png?height=720&quality=75",
-     "caption": "主视觉",
-     "source": "官方"
-    },
-    {
      "url": "https://image.p-c2-x.abema-tv.com/image/programs/90-1602_s2_p15/thumb002.png?height=720&quality=75&version=1725609505&width=1280",
      "caption": "第5话剧照",
      "source": "https://abema.tv/video/episode/90-1602_s2_p15",
      "asset": "",
      "resolution": "1280×720"
+    },
+    {
+     "url": "https://image.p-c2-x.abema-tv.com/image/series/90-1602/thumb.png?height=720&quality=75",
+     "caption": "主视觉",
+     "source": "官方"
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw268.jpg",
@@ -9872,6 +9872,11 @@ window.ARCHIVE = {
    "dateKind": "作品首播日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2021/1218/higashikeisuke_c_tbs.jpg",
+     "caption": "角色照：乌丸薰",
+     "source": "ステージナタリー（c）TBS"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/music/2022/0104/fight_song_tbs.jpg",
      "caption": "海报",
      "source": "音楽ナタリー（c）TBS"
@@ -9889,11 +9894,6 @@ window.ARCHIVE = {
      "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
      "asset": "627eca80ca2cf665",
      "resolution": "1200 × 630"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2021/1218/higashikeisuke_c_tbs.jpg",
-     "caption": "角色照：乌丸薰",
-     "source": "ステージナタリー（c）TBS"
     }
    ],
    "videos": [
@@ -10519,6 +10519,11 @@ window.ARCHIVE = {
    "dateKind": "本人登场集播出日",
    "images": [
     {
+     "url": "https://contents.oricon.co.jp/upimg/news/2238000/2237673/20220607_163235_p_l_4494.jpg",
+     "caption": "剧照：小暮翔",
+     "source": "ORICON NEWS（C）フジテレビ"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/comic/2022/0325/nanbaMG5_B1poster.jpg",
      "caption": "海报",
      "source": "コミックナタリー"
@@ -10529,11 +10534,6 @@ window.ARCHIVE = {
      "source": "https://www.fujitv.co.jp/nanbaMG5/",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://contents.oricon.co.jp/upimg/news/2238000/2237673/20220607_163235_p_l_4494.jpg",
-     "caption": "剧照：小暮翔",
-     "source": "ORICON NEWS（C）フジテレビ"
     }
    ],
    "videos": [],
@@ -10816,6 +10816,11 @@ window.ARCHIVE = {
    "dateKind": "官方标注首播日",
    "images": [
     {
+     "url": "https://www.tv-tokyo.co.jp/txcms/media/others/d0/44/1b4877e9e88294898b56171ff594.jpg",
+     "caption": "角色照：鱼川贵央",
+     "source": "官方"
+    },
+    {
      "url": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/4c/45/d02f3cbee213eb9ba688995c9156.jpg",
      "caption": "海报",
      "source": "https://www.tv-tokyo.co.jp/chasergame/",
@@ -10828,11 +10833,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://www.tv-tokyo.co.jp/txcms/media/others/d0/44/1b4877e9e88294898b56171ff594.jpg",
-     "caption": "角色照：鱼川贵央",
-     "source": "官方"
     }
    ],
    "videos": [
@@ -11470,6 +11470,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
+     "caption": "剧照：托马斯",
+     "source": "マチソワ"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/1002/thebeautifulgame1002.jpg",
      "caption": "海报",
      "source": "ステージナタリー"
@@ -11487,11 +11492,6 @@ window.ARCHIVE = {
      "source": "https://grand-arts.com/works/stage/2022the_beautiful_game/",
      "asset": "fb0c7de1716e431b",
      "resolution": "1200 × 630"
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
-     "caption": "剧照：托马斯",
-     "source": "マチソワ"
     },
     {
      "url": "https://pbs.twimg.com/media/FgtXe0kaUAUgo_X?format=jpg&name=large",
@@ -12099,6 +12099,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/0415/sFAN_0166.jpg",
+     "caption": "角色照：中内启介",
+     "source": "ステージナタリー"
+    },
+    {
      "url": "https://nijikai-stage.com/common/fbimg1.png",
      "caption": "主视觉",
      "source": "https://nijikai-stage.com/",
@@ -12118,11 +12123,6 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2023/0415/sFAN_0166.jpg",
-     "caption": "角色照：中内启介",
-     "source": "ステージナタリー"
     }
    ],
    "videos": [
@@ -13114,6 +13114,11 @@ window.ARCHIVE = {
    "dateKind": "官方标注首播日",
    "images": [
     {
+     "url": "https://www.asahi.co.jp/marumaruchan/img/common/img_cast04.jpg",
+     "caption": "角色照：高桥彰吾",
+     "source": "官方"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_KV.jpg",
      "caption": "海报",
      "source": "コミックナタリー（c）ABC"
@@ -13131,11 +13136,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://www.asahi.co.jp/marumaruchan/img/common/img_cast04.jpg",
-     "caption": "角色照：高桥彰吾",
-     "source": "官方"
     }
    ],
    "videos": [],
@@ -13456,6 +13456,11 @@ window.ARCHIVE = {
    "dateKind": "官方标注首播日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_08.jpg",
+     "caption": "角色照：里中树",
+     "source": "映画ナタリー"
+    },
+    {
      "url": "https://www.mbs.jp/joshikousei-souninaru/images/og-image_0908.jpg",
      "caption": "海报",
      "source": "https://www.mbs.jp/joshikousei-souninaru/",
@@ -13468,11 +13473,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_08.jpg",
-     "caption": "角色照：里中树",
-     "source": "映画ナタリー"
     }
    ],
    "videos": [],
@@ -15080,16 +15080,16 @@ window.ARCHIVE = {
    "dateKind": "活动日",
    "images": [
     {
-     "url": "https://ogre.natalie.mu/media/news/stage/2023/1122/WEAREMUSIC_cast.jpg",
-     "caption": "宣传海报",
-     "source": "https://natalie.mu/profile/86678/news",
+     "url": "https://i.ytimg.com/vi/QJuXEN12tJI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDkpEjbJwZ9YwBrpDADGaRpWOfdSg",
+     "caption": "视频封面：【PR】東啓介×加藤大悟 ▷Musical shoW「WE ",
+     "source": "https://www.youtube.com/watch?v=QJuXEN12tJI",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://i.ytimg.com/vi/QJuXEN12tJI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDkpEjbJwZ9YwBrpDADGaRpWOfdSg",
-     "caption": "视频封面：【PR】東啓介×加藤大悟 ▷Musical shoW「WE ",
-     "source": "https://www.youtube.com/watch?v=QJuXEN12tJI",
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1122/WEAREMUSIC_cast.jpg",
+     "caption": "宣传海报",
+     "source": "https://natalie.mu/profile/86678/news",
      "asset": "",
      "resolution": ""
     }
@@ -15515,6 +15515,13 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2024/0407/violet2024_C1_0723.jpg",
+     "caption": "剧照",
+     "source": "https://natalie.mu/",
+     "asset": "",
+     "resolution": ""
+    },
+    {
      "url": "https://www.geigeki.jp/wp-content/uploads/2023/11/t358_245.jpg",
      "caption": "海报",
      "source": "https://www.geigeki.jp/performance/theater358/",
@@ -15532,13 +15539,6 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo74114.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2024/0407/violet2024_C1_0723.jpg",
-     "caption": "剧照",
-     "source": "https://natalie.mu/",
      "asset": "",
      "resolution": ""
     },
@@ -16601,6 +16601,11 @@ window.ARCHIVE = {
    "dateKind": "官方标注放送日",
    "images": [
     {
+     "url": "https://pbs.twimg.com/media/Ge43O84asAAWC9q?format=jpg&name=large",
+     "caption": "官方幕后照：亮二",
+     "source": "https://x.com/tx_short_drama/status/1868491708880842967"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/eiga/2024/1120/bokukare_202411_01.jpg",
      "caption": "主视觉",
      "source": "官方"
@@ -16611,11 +16616,6 @@ window.ARCHIVE = {
      "source": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
      "asset": "5447a3d44f3782bb",
      "resolution": "3000 × 843"
-    },
-    {
-     "url": "https://pbs.twimg.com/media/Ge43O84asAAWC9q?format=jpg&name=large",
-     "caption": "官方幕后照：亮二",
-     "source": "https://x.com/tx_short_drama/status/1868491708880842967"
     }
    ],
    "videos": [
@@ -16850,9 +16850,9 @@ window.ARCHIVE = {
    "dateKind": "本人出演集播出日",
    "images": [
     {
-     "url": "https://www.fujitv.co.jp/mondaibukken/photo/mainVisual.jpg",
-     "caption": "主视觉",
-     "source": "官方"
+     "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph06.jpg",
+     "caption": "第2集剧照：泷野高",
+     "source": "富士电视台官网"
     },
     {
      "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph01.jpg",
@@ -16862,9 +16862,9 @@ window.ARCHIVE = {
      "resolution": "1000 × 666"
     },
     {
-     "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph06.jpg",
-     "caption": "第2集剧照：泷野高",
-     "source": "富士电视台官网"
+     "url": "https://www.fujitv.co.jp/mondaibukken/photo/mainVisual.jpg",
+     "caption": "主视觉",
+     "source": "官方"
     }
    ],
    "videos": [],
@@ -17291,6 +17291,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://theatergirl.jp/wp-content/uploads/2025/04/batch_IMG_6112.jpg",
+     "caption": "剧照：查理",
+     "source": "THEATER GIRL"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/play/1299/kinky_mv.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1299",
@@ -17310,11 +17315,6 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://theatergirl.jp/wp-content/uploads/2025/04/batch_IMG_6112.jpg",
-     "caption": "剧照：查理",
-     "source": "THEATER GIRL"
     },
     {
      "url": "https://pbs.twimg.com/media/GQlUVCyakAEYn7h?format=jpg&name=large",
@@ -17690,6 +17690,11 @@ window.ARCHIVE = {
    "dateKind": "上映日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/eiga/2025/0505/oppan_202505_4.jpg",
+     "caption": "电影场面照：砂川圆（右）与五十岚大地",
+     "source": "映画ナタリー"
+    },
+    {
      "url": "https://gaga.ne.jp/oppan-movie/assets/img/common/ogp_04.png",
      "caption": "电影主视觉",
      "source": "https://gaga.ne.jp/oppan-movie/",
@@ -17700,11 +17705,6 @@ window.ARCHIVE = {
      "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg",
      "caption": "电影主视觉",
      "source": "東海テレビ（PR TIMES）"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/eiga/2025/0505/oppan_202505_4.jpg",
-     "caption": "电影场面照：砂川圆（右）与五十岚大地",
-     "source": "映画ナタリー"
     }
    ],
    "videos": [
@@ -17901,6 +17901,11 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2025/08/IMG_5003s78.jpg",
+     "caption": "剧照：鲍勃·高迪奥",
+     "source": "Astage"
+    },
+    {
      "url": "https://www.tohostage.com/jersey/images/visual2025_3.jpg",
      "caption": "2025官方作品主视觉",
      "source": "https://www.tohostage.com/jersey/",
@@ -17913,11 +17918,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/2910",
      "asset": "",
      "resolution": ""
-    },
-    {
-     "url": "https://astage-ent.com/wp/wp-content/uploads/2025/08/IMG_5003s78.jpg",
-     "caption": "剧照：鲍勃·高迪奥",
-     "source": "Astage"
     }
    ],
    "videos": [],
@@ -18354,16 +18354,16 @@ window.ARCHIVE = {
    "dateKind": "活动日",
    "images": [
     {
-     "url": "https://ogre.natalie.mu/media/play/3993/CDMC25-26_A4_0910_2.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报",
-     "source": "https://natalie.mu/stage/play/3993",
+     "url": "https://i.ytimg.com/vi/2DCSAh_hgrI/hqdefault.jpg",
+     "caption": "视频封面：東啓介 コメント動画 カウントダウン ミュージカルコンサート",
+     "source": "https://www.youtube.com/watch?v=2DCSAh_hgrI",
      "asset": "",
      "resolution": ""
     },
     {
-     "url": "https://i.ytimg.com/vi/2DCSAh_hgrI/hqdefault.jpg",
-     "caption": "视频封面：東啓介 コメント動画 カウントダウン ミュージカルコンサート",
-     "source": "https://www.youtube.com/watch?v=2DCSAh_hgrI",
+     "url": "https://ogre.natalie.mu/media/play/3993/CDMC25-26_A4_0910_2.jpg?imwidth=750&imdensity=1",
+     "caption": "公演海报",
+     "source": "https://natalie.mu/stage/play/3993",
      "asset": "",
      "resolution": ""
     }
@@ -19174,18 +19174,18 @@ window.ARCHIVE = {
    "dateKind": "作品首播日",
    "images": [
     {
-     "url": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
-     "caption": "作品海报",
-     "source": "https://www.tv-asahi.co.jp/my-th/",
-     "asset": "",
-     "resolution": "780×462"
-    },
-    {
      "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
      "caption": "朝日电视台官网角色图：岭高华武利／假面骑士Maou",
      "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
      "asset": "",
      "resolution": "524 × 584"
+    },
+    {
+     "url": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
+     "caption": "作品海报",
+     "source": "https://www.tv-asahi.co.jp/my-th/",
+     "asset": "",
+     "resolution": "780×462"
     },
     {
      "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main02.webp",
