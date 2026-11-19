@@ -78,6 +78,10 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
+     "title": "官网演员评论影片（2013，出道作，约1分钟）",
+     "url": "https://www.tennimu.com/second/play_2013shitenhoji/video/shitenhoji_higashi.mp4"
+    },
+    {
      "title": "正片中字（B站）",
      "url": "https://www.bilibili.com/video/BV1Hx411r7Aq/"
     }
