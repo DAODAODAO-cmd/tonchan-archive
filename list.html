@@ -116,7 +116,7 @@ const fmt=d=>d?d.replaceAll('-','.'):'';
 const imgOf=im=>im?(im.asset&&A.assets[im.asset])||im.url||'':'';
 /* 分类：作品 / 媒体 / 其他 三组；ls=横版卡片 */
 const G={
-  all:{t:'全部编年',d:'从出道到现在，按时间排。每月生写真等周边单独放在「周边·生写真」。'},
+  all:{t:'全部编年',d:'从出道到现在，按时间排，上面可以按类别筛。'},
   stage:{t:'舞台',cats:['舞台','朗读剧']},
   screen:{t:'影视',cats:['电视剧','网络剧','电影','动画电影'],ls:1},
   live:{t:'音乐会',cats:['音乐会'],ls:1},
@@ -153,11 +153,11 @@ function draw(){let html='';$('chips').innerHTML='';$('chips2').innerHTML='';$('
     $('chips2').innerHTML=['全平台','YouTube','B站','niconico'].map(x=>'<button class="'+(x===vp?'on':'')+'" data-vp="'+x+'">'+x+'</button>').join('');
     let L=A.videos.filter(v=>(!VT[vt]||VT[vt].includes(v.type))&&(vp==='全平台'||(v.platform||'YouTube')===vp)&&match(v.title+' '+v.channel));L.forEach(v=>v._d=v.contentDate||v.uploadDate||(v.years&&v.years[0])||'');L.sort((a,b)=>b._d.localeCompare(a._d));$('desc').textContent=L.length+' 条 · 从新到旧';html=grouped(L,vcard,false,'grid ls')}
   else if(g==='schedule'){$('desc').textContent='正在进行和接下来的安排。';let L=A.events.filter(e=>e.date>=today||(e.end&&e.end>=today)).filter(e=>match(e.title+e.japanese));L.forEach(e=>e._d=e.date);L.sort((a,b)=>a.date.localeCompare(b.date));html=grouped(L,tlrow,true,'tl')}
-  else if(g==='all'){let L=A.events.filter(e=>e.category!=='周边'&&match(e.title+e.japanese+e.role+e.category));L.forEach(e=>e._d=e.date);L.sort((a,b)=>b.date.localeCompare(a.date));$('desc').textContent=L.length+' 条记录 · 从新到旧 · '+G.all.d;html=grouped(L,tlrow,false,'tl')}
+  else if(g==='all'){const GK=Object.keys(G).filter(k=>G[k].cats);$('chips').innerHTML=['全部',...GK].map(k=>'<button class="'+((k==='全部'?!window.ac:window.ac===k)?'on':'')+'" data-ac="'+k+'">'+(k==='全部'?'全部':G[k].t)+'</button>').join('');let L=A.events.filter(e=>(!window.ac||G[window.ac].cats.includes(e.category))&&match(e.title+e.japanese+e.role+e.category));L.forEach(e=>e._d=e.date);L.sort((a,b)=>b.date.localeCompare(a.date));$('desc').textContent=L.length+' 条记录 · 从新到旧 · '+G.all.d;html=grouped(L,tlrow,false,'tl')}
   else{const cats=G[g].cats;let L=A.events.filter(e=>cats.includes(e.category)).filter(e=>match(e.title+e.japanese+e.role+(e.note||'')));L.forEach(e=>e._d=e.date);L.sort((a,b)=>b.date.localeCompare(a.date));$('desc').textContent=L.length+' 条 · 从新到旧';const VM={radio:['广播／音声'],variety:['节目／其他'],int:['采访／发布会']};if(VM[g]){const used=new Set(L.flatMap(e=>[e.url,...(e.videos||[]).map(v=>v.url)]));const V=A.videos.filter(v=>VM[g].includes(v.type)&&!used.has(v.url)&&match(v.title+' '+v.channel));V.forEach(v=>{v._d=v.contentDate||v.uploadDate||(v.years&&v.years[0])||'';v._v=1});L=L.concat(V);L.sort((a,b)=>b._d.localeCompare(a._d));$('desc').textContent=L.length+' 条 · 从新到旧 · 含节目回放'}html=grouped(L,x=>x._v?vcard(x):card(x),false,G[g].ls?'grid ls':'grid')}
   $('out').innerHTML=html||'<div class="empty">暂无</div>';spy()}
 $('q').oninput=e=>{filt=e.target.value.trim().toLowerCase();draw()};
-document.querySelector('.tools:nth-of-type(2)').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.vt)vt=b.dataset.vt;if(b.dataset.vp)vp=b.dataset.vp;draw()};
+document.querySelector('.tools:nth-of-type(2)').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.ac)window.ac=b.dataset.ac==='全部'?'':b.dataset.ac;if(b.dataset.vt)vt=b.dataset.vt;if(b.dataset.vp)vp=b.dataset.vp;draw()};
 function spy(){const secs=[...document.querySelectorAll('main section')],links=[...document.querySelectorAll('#years a')];const f=()=>{let cur='';for(const s of secs)if(s.getBoundingClientRect().top<170)cur=s.id;links.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+cur))};window.onscroll=f;f()}
 document.addEventListener('error',e=>{if(e.target.tagName==='IMG')e.target.style.visibility='hidden'},true);
 draw();
