@@ -9274,7 +9274,7 @@ window.ARCHIVE = {
    "date": "2021-01-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#1｜一切由此开始：原点《咖啡之歌》",
+   "title": "《东启介と聴活♪》#1｜一切从这里开始：原点《悲惨世界》「Empty Chairs at Empty Tables（咖啡馆之歌）」",
    "japanese": "【#1】すべてはここから始まった　原点の「カフェ・ソング」（レ・ミゼラブル）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -9285,6 +9285,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/RR_1_16.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/428/",
+     "asset": "x73098b5571820ad0",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/m2tba8Iucgc/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -9303,7 +9311,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/73098b5571820ad0.jpg"
   },
   {
    "id": "e41",
@@ -9593,7 +9602,7 @@ window.ARCHIVE = {
    "date": "2021-02-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#2｜放在当下也适用的《一小片勇气》",
+   "title": "《东启介と聴活♪》#2｜放在今天也一样适用：《红花侠》「Into the Fire（一小片勇气）」",
    "japanese": "【#2】今の時代にも通じる「ひとかけらの勇気」（スカーレット・ピンパーネル）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -9604,6 +9613,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/RR_2_1.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/429/",
+     "asset": "x504973d9729c8c94",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/D8r_YIZdwKo/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -9622,7 +9639,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/504973d9729c8c94.jpg"
   },
   {
    "id": "mag_mc_5724575",
@@ -9989,7 +10007,7 @@ window.ARCHIVE = {
    "date": "2021-03-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#3｜从春马先生那里获得力量的《独白》",
+   "title": "《东启介と聴活♪》#3｜从春马先生那里得到力量：《Whistle Down the Wind》「独白」",
    "japanese": "【#3】春馬さんに力をもらった「独白」（ホイッスル・ダウン・ザ・ウィンド）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10000,6 +10018,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_March_Higashi_8__.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/430/",
+     "asset": "xc49c43092bf0e8e6",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/Lv43RfFRTWQ/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10018,7 +10044,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/c49c43092bf0e8e6.jpg"
   },
   {
    "id": "e84",
@@ -10274,7 +10301,7 @@ window.ARCHIVE = {
    "date": "2021-04-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#4｜在原版现场听到《Waving Through a Window》的震撼",
+   "title": "《东启介と聴活♪》#4｜在原产地听到时的震撼：《致埃文·汉森》「Waving Through a Window」",
    "japanese": "【#4】本場で聞いて驚いた「Waving Through a Window」（Dear Evan Hansen）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10285,6 +10312,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/4_.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/431/",
+     "asset": "xf2c04bc8e8802196",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/g_c_Jd-hP-s/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10303,14 +10338,15 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/f2c04bc8e8802196.jpg"
   },
   {
    "id": "m432",
    "date": "2021-05-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#5｜从《成为英雄》到《普通的人生》的成长",
+   "title": "《东启介と聴活♪》#5｜从「成为英雄」到「普通的人生」的成长：《玛塔·哈丽》",
    "japanese": "【#5】「英雄であれ」から「普通の人生」へ成長していく姿を（マタ・ハリ）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10321,6 +10357,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/5_0504.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/432/",
+     "asset": "xe8ab0743769a8b13",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/fqUcGg5xT4c/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10339,14 +10383,15 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/e8ab0743769a8b13.jpg"
   },
   {
    "id": "m433",
    "date": "2021-06-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#6｜拓宽表达方式的《96,000》",
+   "title": "《东启介と聴活♪》#6｜拓宽了表现幅度的《身在高地》「96,000」",
    "japanese": "【#6】表現の幅を広げてくれた「96,000」（イン・ザ・ハイツ）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10357,6 +10402,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_6_8.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/433/",
+     "asset": "x35bf52ad20db6647",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/zxJbIxqUQQA/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10375,7 +10428,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/35bf52ad20db6647.jpg"
   },
   {
    "id": "e43",
@@ -10525,7 +10579,7 @@ window.ARCHIVE = {
    "date": "2021-07-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#7｜想一直珍惜的《My Eyes Adored You》",
+   "title": "《东启介と聴活♪》#7｜想一直珍惜的《泽西男孩》「My Eyes Adored You」",
    "japanese": "【#7】ずっと大事にしたい「My Eyes Adored You」（ジャージー・ボーイズ）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10536,6 +10590,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_7_9.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/434/",
+     "asset": "xcd9a5675f2bef053",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/c32MiGQ1TU4/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10554,7 +10616,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/cd9a5675f2bef053.jpg"
   },
   {
    "id": "bro_202108",
@@ -10587,7 +10650,7 @@ window.ARCHIVE = {
    "date": "2021-08-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#8｜在百老汇再遇见《生生不息》",
+   "title": "《东启介と聴活♪》#8｜在百老汇重逢的《狮子王》「Circle of Life（生生不息）」",
    "japanese": "【#8】ブロードウェイで再会した「サークル・オブ・ライフ」（ライオンキング）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10598,6 +10661,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/8HIGASHI_KEISUKE_6.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/435/",
+     "asset": "x64cb6104f4c3f725",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/G6j0IAGTyeo/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10616,7 +10687,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/64cb6104f4c3f725.jpg"
   },
   {
    "id": "nat_ninodan21",
@@ -10677,7 +10749,7 @@ window.ARCHIVE = {
    "date": "2021-09-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#9｜给予做自己勇气的《Let It Go》",
+   "title": "《东启介と聴活♪》#9｜给人做自己的勇气：《冰雪奇缘》「Let It Go（随它吧）」",
    "japanese": "【#9】ありのまま進む勇気をくれた「Let It Go」（アナと雪の女王）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10688,6 +10760,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/higashi_09.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/436/",
+     "asset": "x31daaf8d08d42fbe",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/8e89uK54WzM/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10706,7 +10786,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/31daaf8d08d42fbe.jpg"
   },
   {
    "id": "s171",
@@ -10768,7 +10849,7 @@ window.ARCHIVE = {
    "date": "2021-10-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#10｜坦露自己带来救赎：《And You Don’t Even Know It》",
+   "title": "《东启介と聴活♪》#10｜袒露自己反而得救：《人人都在谈论杰米》「And You Don’t Even Know It」",
    "japanese": "【#10】さらけ出すことで救われる「And You Don’t Even Know It」（ジェイミー）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10779,6 +10860,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R10_10.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/437/",
+     "asset": "xaa621041e0e5e3c9",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/CpOeZw7xdfI/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10797,7 +10886,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/aa621041e0e5e3c9.jpg"
   },
   {
    "id": "e44",
@@ -10883,7 +10973,7 @@ window.ARCHIVE = {
    "date": "2021-11-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#11｜连交锋都能成为表演：《The Other Side》",
+   "title": "《东启介と聴活♪》#11｜连讨价还价都成了表演：《马戏之王》「The Other Side」",
    "japanese": "【#11】駆け引きすらショーになる「The Other Side」（グレイテスト・ショーマン）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10894,6 +10984,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R__11K_Higashi_015.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/438/",
+     "asset": "x1e8c4023423fffa5",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/GuadtzQB2hk/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10912,7 +11010,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/1e8c4023423fffa5.jpg"
   },
   {
    "id": "e45",
@@ -10967,7 +11066,7 @@ window.ARCHIVE = {
    "date": "2021-12-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#12｜唱出惆怅的《Santa Fe》",
+   "title": "《东启介と聴活♪》#12｜唱出惆怅的《报童》「Santa Fe」",
    "japanese": "【#12】切なく歌い上げる「サンタフェ」（ニュージーズ）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -10978,6 +11077,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_K_Higashi_025.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/439/",
+     "asset": "x0ad38ea5e5a050ba",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/TpT8FYN34KM/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -10996,7 +11103,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/0ad38ea5e5a050ba.jpg"
   },
   {
    "id": "pr_onitaiji21",
@@ -11056,7 +11164,7 @@ window.ARCHIVE = {
    "date": "2022-01-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#13｜感受到阴影的《我就是音乐》",
+   "title": "《东启介と聴活♪》#13｜能感到阴影的《莫扎特！》「Ich bin Musik（我就是音乐）」",
    "japanese": "【#13】影を感じる「僕こそ音楽」（モーツァルト！）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -11067,6 +11175,22 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_K_Higashi_050.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/440/",
+     "asset": "xc66908d7e739f008",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_K_Higashi_052.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/440/",
+     "asset": "x1925e53ff5878c37",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/jWnhuhqT6eM/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -11085,7 +11209,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/c66908d7e739f008.jpg"
   },
   {
    "id": "e46",
@@ -11459,7 +11584,7 @@ window.ARCHIVE = {
    "date": "2022-02-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#14｜美丽与悲剧交织的《Tonight》",
+   "title": "《东启介と聴活♪》#14｜美丽与悲剧交织：电影《西区故事》「Tonight」",
    "japanese": "【#14】際立つ美しさと悲劇「Tonight(トゥナイト)」（映画「ウエスト・サイド・ストーリー」）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -11551,7 +11676,7 @@ window.ARCHIVE = {
    "date": "2022-03-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#15｜番外：方方面面都很厉害的剧团四季《冰雪奇缘》",
+   "title": "《东启介と聴活♪》#15 番外｜方方面面都很厉害的剧团四季《冰雪奇缘》",
    "japanese": "【＃15 番外編】すべてがすごい劇団四季「アナと雪の女王」｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -11562,6 +11687,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/S__9224272.jpg",
+     "caption": "东启介在剧团四季《冰雪奇缘》剧场",
+     "source": "https://matisowa.jp/442/",
+     "asset": "xfe345b957873c104",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/bKDc2nBMjCI/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -11580,7 +11713,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/fe345b957873c104.jpg"
   },
   {
    "id": "s173",
@@ -11642,7 +11776,7 @@ window.ARCHIVE = {
    "date": "2022-04-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#16｜感受到日本漫画力量的《死亡笔记》",
+   "title": "《东启介と聴活♪》#16｜感受到日本漫画的力量：《死亡笔记》「Death Note」",
    "japanese": "【#16】日本の漫画の力を感じる「デスノート」（デスノート）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -11653,6 +11787,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_K_Higashi_038_.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/443/",
+     "asset": "x2dea9688524b00da",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/v1WiOhXxrKs/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -11671,7 +11813,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/2dea9688524b00da.jpg"
   },
   {
    "id": "bro_202205",
@@ -11709,7 +11852,7 @@ window.ARCHIVE = {
    "date": "2022-05-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#17｜触动成年人内心的《Feed the Birds》",
+   "title": "《东启介と聴活♪》#17｜打动成年人的《欢乐满人间》「Feed the Birds（喂鸟）」",
    "japanese": "【＃17】大人の心に響く「鳥に餌を／Feed the Birds」（メリー・ポピンズ）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -11720,6 +11863,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_HIGASHIKEISUKE_AAA0485.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/444/",
+     "asset": "x02283d65643aaa7d",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/-VaB-PyP45w/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -11738,7 +11889,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/02283d65643aaa7d.jpg"
   },
   {
    "id": "e47",
@@ -11875,7 +12027,7 @@ window.ARCHIVE = {
    "date": "2022-06-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#18｜眼前浮现不同风景的《Seasons of Love》",
+   "title": "《东启介と聴活♪》#18｜能看到不同风景的《吉屋出租》「Seasons of Love」",
    "japanese": "【#18】いろんな風景が見える「Seasons of Love」（RENT）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -11886,6 +12038,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_6_AAA0465_1.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/445/",
+     "asset": "x2061cc02c5b59188",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/8ZAyaIiJNqo/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -11904,14 +12064,15 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/2061cc02c5b59188.jpg"
   },
   {
    "id": "m446",
    "date": "2022-07-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#19｜传递孤独灵魂呐喊的《Heartbreak Hotel》",
+   "title": "《东启介と聴活♪》#19｜传达孤独灵魂的呐喊：电影《猫王》「Heartbreak Hotel」",
    "japanese": "【#19】孤独な魂の叫びが伝わる「Heartbreak Hotel」（映画「エルヴィス」）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -11983,7 +12144,7 @@ window.ARCHIVE = {
    "date": "2022-08-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#20｜与心意相反的歌词：《化为石头》",
+   "title": "《东启介と聴活♪》#20｜歌词与心意相反：《钟楼怪人》「Made of Stone（化作石头）」",
    "japanese": "【#20】思いと裏腹な歌詞が心に響く「石になろう」（ノートルダムの鐘）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -12269,7 +12430,7 @@ window.ARCHIVE = {
    "date": "2022-09-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#21｜纯粹心意相撞的《世界终结之夜》",
+   "title": "《东启介と聴活♪》#21｜纯粹心意相撞的《西贡小姐》「The Last Night of the World（世界末日之夜）」",
    "japanese": "【#21】純粋な想いをぶつけ合う「世界が終わる夜のように」（ミス・サイゴン）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -12431,7 +12592,7 @@ window.ARCHIVE = {
    "date": "2022-10-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#22｜唱给弗兰基的《Cry for Me》",
+   "title": "《东启介と聴活♪》#22｜寄托对弗兰基的心意：《泽西男孩》「Cry for Me」",
    "japanese": "【#22】フランキーへの思いをのせる「Cry for me」（ジャージー・ボーイズ）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -12442,6 +12603,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/R_Xmas_sam_d.jpg",
+     "caption": "圣诞特别活动告知图（东启介）",
+     "source": "https://matisowa.jp/449/",
+     "asset": "x6175f83cde951e0c",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/ho0hiqBIXgU/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -12460,7 +12629,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/6175f83cde951e0c.jpg"
   },
   {
    "id": "m498",
@@ -12573,7 +12743,7 @@ window.ARCHIVE = {
    "date": "2022-11-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#23｜让人单纯感到幸福的《修行》",
+   "title": "《东启介と聴活♪》#23｜单纯让人幸福的《怪物之子》「修行」",
    "japanese": "【#23】シンプルに幸せになれる「修行」（バケモノの子）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -12667,7 +12837,7 @@ window.ARCHIVE = {
    "date": "2022-12-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#24｜自由又帅气的《The Rum Tum Tugger》",
+   "title": "《东启介と聴活♪》#24｜自由又帅气：电影《猫》「The Rum Tum Tugger」",
    "japanese": "【#24】自由でカッコいい「ザ・ラム・タム・タガー」（映画「CATS」）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -12678,6 +12848,22 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/M_R_Higashi_1209_web_017.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/451/",
+     "asset": "xe25e9594a849b6ec",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/metro/M_R_Higashi_1209_web_028.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/451/",
+     "asset": "x5b5d2b303f30cb3a",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://i.ytimg.com/vi/iSqhV-1rh_s/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -12696,7 +12882,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/e25e9594a849b6ec.jpg"
   },
   {
    "id": "nat_wmst2212",
@@ -12985,7 +13172,7 @@ window.ARCHIVE = {
    "date": "2023-01-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#25｜公开采访特别篇：《牛奶》与串联故事的角色",
+   "title": "《东启介と聴活♪》#25｜公开采访特别篇：搅动全场的串场人《伊丽莎白》「Milch（牛奶）」",
    "japanese": "【#25 公開取材スペシャル】場をかき回す狂言回しの面白さ「ミルク」（エリザベート）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -12996,6 +13183,22 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/01/R_0107_higashi_ZZZ4522-scaled.jpg",
+     "caption": "公开录制现场的东启介",
+     "source": "https://matisowa.jp/768/",
+     "asset": "xdb587439316c9cea",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/768/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/7KZxVqBX6YI/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -13009,19 +13212,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/768/",
      "asset": "x46c047a7c3239ee0",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/768/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/db587439316c9cea.jpg"
   },
   {
    "id": "bro_202302",
@@ -13124,7 +13321,7 @@ window.ARCHIVE = {
    "date": "2023-02-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#26｜性格相反的两人唱响《永不结束》",
+   "title": "《东启介と聴活♪》#26｜性格相反的两人一起唱：《美丽的游戏》「终わらない（永不结束）」",
    "japanese": "【#26】正反対の2人で響かせる「終わらない」（ザ・ビューティフル・ゲーム）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -13135,6 +13332,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/1569/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/EcMsPSkyTgM/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -13148,19 +13353,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/1569/",
      "asset": "xc95387684f4dc769",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/1569/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "nat_pp_entas23",
@@ -13365,7 +13564,7 @@ window.ARCHIVE = {
    "date": "2023-03-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#27｜被充满力量的《And I’m Telling You I’m Not Going》打动",
+   "title": "《东启介と聴活♪》#27｜被有力的歌声打动：《追梦女郎》「And I’m Telling You I’m Not Going」",
    "japanese": "【＃27】パワフルな歌に感動「 (And I’m Telling You) I’m Not Going」（ドリームガールズ）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -13376,6 +13575,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/2814/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/DTgGuFOh2M0/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -13389,19 +13596,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/2814/",
      "asset": "x70e2cbf3cd358e60",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/2814/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "s175",
@@ -13509,7 +13710,7 @@ window.ARCHIVE = {
    "date": "2023-04-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#28｜一人唱出不同人格的《对决》",
+   "title": "《东启介と聴活♪》#28｜一人唱出两种人格：《变身怪医》「Confrontation（对决）」",
    "japanese": "【＃28】別人を歌い分ける「対決」（ジキル＆ハイド）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -13520,6 +13721,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/3566/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/FzT86mItZs8/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -13533,19 +13742,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/3566/",
      "asset": "x503f61f2e771ae38",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/3566/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "e54",
@@ -13640,7 +13843,7 @@ window.ARCHIVE = {
    "date": "2023-05-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#29｜唱什么都可以：《Sunday》",
+   "title": "《东启介と聴活♪》#29｜唱什么都可以：电影《tick, tick... BOOM!》「Sunday」",
    "japanese": "【＃29】何を歌ってもいい「Sunday」（映画『tick,tick…BOOM!』）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -13651,6 +13854,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/4355/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/K2ZQXZYObeM/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -13664,19 +13875,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/4355/",
      "asset": "xb83e6d0c4928bdf2",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/4355/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "qj85340",
@@ -13897,7 +14102,7 @@ window.ARCHIVE = {
    "date": "2023-06-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#30｜也想推荐配音版的《Part of Your World》",
+   "title": "《东启介と聴活♪》#30｜也想推荐配音版：电影《小美人鱼》「Part of Your World」",
    "japanese": "【#30】吹替版も見てほしい「パート・オブ・ユア・ワールド」（映画『リトル・マーメイド』）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -13908,6 +14113,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/4904/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -13921,19 +14134,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/4904/",
      "asset": "x2c036d76913c0727",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/4904/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "qj87604",
@@ -14120,7 +14327,7 @@ window.ARCHIVE = {
    "date": "2023-07-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#31｜用全身享受音乐：《I Got Rhythm》",
+   "title": "《东启介と聴活♪》#31｜用全身享受节奏：《为你疯狂》「I Got Rhythm」",
    "japanese": "【＃31】音を全身で楽しむ「I Got Rhythm」（『クレイジー・フォー・ユー』）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -14131,6 +14338,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/5690/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/ETfpNX6oHuU/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -14144,19 +14359,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/5690/",
      "asset": "xf50e95b7d9eb9d7a",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/5690/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "e55",
@@ -14406,7 +14615,7 @@ window.ARCHIVE = {
    "date": "2023-08-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#32｜特别对谈：从音乐走进《Ragtime》",
+   "title": "《东启介と聴活♪》#32｜特别篇：从音乐走近音乐剧《拉格泰姆》",
    "japanese": "【 SPECIAL（#32）】音楽から迫るミュージカル『ラグタイム』｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -14418,31 +14627,34 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
+     "caption": "这期的东启介",
+     "source": "https://matisowa.jp/6120/",
+     "asset": "x18a40a19df45fcd1",
+     "resolution": "",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/6120/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
+    {
      "url": "https://i.ytimg.com/vi/F7rOBM2W63c/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=F7rOBM2W63c",
      "asset": "x90e4bdc4c2c9f72d",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
-     "caption": "文章内配图",
-     "source": "https://matisowa.jp/6120/",
-     "asset": "x18a40a19df45fcd1",
-     "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/6120/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/18a40a19df45fcd1.jpg"
   },
   {
    "id": "qj92078",
@@ -14839,7 +15051,7 @@ window.ARCHIVE = {
    "date": "2023-09-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#33｜让不甘化作救赎的《Stick It to the Man》",
+   "title": "《东启介と聴活♪》#33｜把不甘变成救赎：《摇滚校园》「Stick It to the Man（反抗当权者）」",
    "japanese": "【#33】悔しさを救いに変える「支配者に立ち向かえ」（『スクールオブロック』）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -14850,6 +15062,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/6680/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/tKlVJjUWAuU/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -14863,19 +15083,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/6680/",
      "asset": "xf16b92c068c34196",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/6680/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "qj94690",
@@ -15108,7 +15322,7 @@ window.ARCHIVE = {
    "date": "2023-10-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#34｜明快的救赎之歌《Henry Ford》",
+   "title": "《东启介と聴活♪》#34｜明亮的救赎之歌：《拉格泰姆》「Henry Ford」",
    "japanese": "【#34】明るい救いの歌「Henry Ford」（『ラグタイム』）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -15119,6 +15333,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/6981/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/E8Y1uiiUF_E/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -15132,19 +15354,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/6981/",
      "asset": "xee03680dd81a0095",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/6981/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "qj96663",
@@ -15545,7 +15761,7 @@ window.ARCHIVE = {
    "date": "2023-11-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#35｜男性间的对唱带来的兴奋：《Vortigern》",
+   "title": "《东启介と聴活♪》#35｜男声对唱的高扬感：《ウィリアムとウィリアムのウィリアムたち》「Vortigern」",
    "japanese": "【＃35】男性同士の掛け合いに高揚感「ボルティゲルン」（『ウィリアムとウィリアムのウィリアムたち』）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -15556,6 +15772,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/7210/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/B2P1P_NlYv0/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -15569,19 +15793,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/7210/",
      "asset": "xdeec51b1052b12b4",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/7210/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "qj98636",
@@ -16099,7 +16317,7 @@ window.ARCHIVE = {
    "date": "2023-12-10",
    "end": "",
    "category": "本人摄影／随笔",
-   "title": "《东启介と聴活♪》#36｜不由自主落泪的《Defying Gravity》",
+   "title": "《东启介と聴活♪》#36｜眼泪自己流下来的《魔法坏女巫》「Defying Gravity（挑战地心引力）」",
    "japanese": "【＃36】勝手に涙が出てきた「自由を求めて」（『ウィキッド』）｜東啓介と聴活♪",
    "role": "",
    "crew": "",
@@ -16110,6 +16328,14 @@ window.ARCHIVE = {
    "origin": "本人连载补充",
    "dateKind": "文章发布日期",
    "images": [
+    {
+     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
+     "caption": "2023年连载题图（东启介）",
+     "source": "https://matisowa.jp/7866/",
+     "asset": "241a407e191d7715",
+     "resolution": "2055 × 1269",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/82VKwfOYLWQ/hqdefault.jpg",
      "caption": "这期聊的作品",
@@ -16123,19 +16349,13 @@ window.ARCHIVE = {
      "source": "https://matisowa.jp/7866/",
      "asset": "xbcb86c31869ae326",
      "resolution": ""
-    },
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_23sam_0206.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/7866/",
-     "asset": "241a407e191d7715",
-     "resolution": "2055 × 1269"
     }
    ],
    "videos": [],
    "pending": false,
    "kind": "文章",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/241a407e191d7715.jpg"
   },
   {
    "id": "e62",
@@ -40709,7 +40929,29 @@ window.ARCHIVE = {
   "x51601871d6edce97": "assets/img/ext/51601871d6edce97.jpg",
   "xa79facd569a54482": "assets/img/ext/a79facd569a54482.jpg",
   "xea1b163803688433": "assets/img/ext/ea1b163803688433.jpg",
-  "x170a62394bd740ba": "assets/img/ext/170a62394bd740ba.jpg"
+  "x170a62394bd740ba": "assets/img/ext/170a62394bd740ba.jpg",
+  "x73098b5571820ad0": "assets/img/ext/73098b5571820ad0.jpg",
+  "x504973d9729c8c94": "assets/img/ext/504973d9729c8c94.jpg",
+  "xc49c43092bf0e8e6": "assets/img/ext/c49c43092bf0e8e6.jpg",
+  "xf2c04bc8e8802196": "assets/img/ext/f2c04bc8e8802196.jpg",
+  "xe8ab0743769a8b13": "assets/img/ext/e8ab0743769a8b13.jpg",
+  "x35bf52ad20db6647": "assets/img/ext/35bf52ad20db6647.jpg",
+  "xcd9a5675f2bef053": "assets/img/ext/cd9a5675f2bef053.jpg",
+  "x64cb6104f4c3f725": "assets/img/ext/64cb6104f4c3f725.jpg",
+  "x31daaf8d08d42fbe": "assets/img/ext/31daaf8d08d42fbe.jpg",
+  "xaa621041e0e5e3c9": "assets/img/ext/aa621041e0e5e3c9.jpg",
+  "x1e8c4023423fffa5": "assets/img/ext/1e8c4023423fffa5.jpg",
+  "x0ad38ea5e5a050ba": "assets/img/ext/0ad38ea5e5a050ba.jpg",
+  "xc66908d7e739f008": "assets/img/ext/c66908d7e739f008.jpg",
+  "x1925e53ff5878c37": "assets/img/ext/1925e53ff5878c37.jpg",
+  "xfe345b957873c104": "assets/img/ext/fe345b957873c104.jpg",
+  "x2dea9688524b00da": "assets/img/ext/2dea9688524b00da.jpg",
+  "x02283d65643aaa7d": "assets/img/ext/02283d65643aaa7d.jpg",
+  "x2061cc02c5b59188": "assets/img/ext/2061cc02c5b59188.jpg",
+  "x6175f83cde951e0c": "assets/img/ext/6175f83cde951e0c.jpg",
+  "xe25e9594a849b6ec": "assets/img/ext/e25e9594a849b6ec.jpg",
+  "x5b5d2b303f30cb3a": "assets/img/ext/5b5d2b303f30cb3a.jpg",
+  "xdb587439316c9cea": "assets/img/ext/db587439316c9cea.jpg"
  },
  "biliLeads": [
   {
