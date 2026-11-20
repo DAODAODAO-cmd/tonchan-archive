@@ -310,10 +310,10 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
-     "url": "https://www.tennimu.com/img/cast/shitenhoji/imgB02chitose.jpg",
-     "caption": "官网真人角色照：东启介饰千岁千里（第二季四天宝寺篇，同一角色）",
-     "source": "https://www.tennimu.com/cast_2nd/sh02chitose.html",
-     "asset": "863e36c56ed019e3",
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1408316060.jpg",
+     "caption": "立海篇期间的千岁千里（テニミュ官方博客，2014.8）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32192/",
+     "asset": "x9b450adc9180f2e2",
      "hasHigashi": true
     },
     {
@@ -362,13 +362,6 @@ window.ARCHIVE = {
      "caption": "テニミュ官方博客：白石藏之介和千岁千里（2014.7）",
      "source": "https://blog.tennimu.com/blog/tb/entry/32086/",
      "asset": "x0ef9fbb334047bc2",
-     "hasHigashi": true
-    },
-    {
-     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1408316060.jpg",
-     "caption": "テニミュ官方博客：千岁千里（2014.8）",
-     "source": "https://blog.tennimu.com/blog/tb/entry/32192/",
-     "asset": "x9b450adc9180f2e2",
      "hasHigashi": true
     },
     {
@@ -441,7 +434,8 @@ window.ARCHIVE = {
    "workRoma": "ZENKOKU TAIKAI vs RIKKAI",
    "roleName": "千岁千里",
    "cardPoster": "assets/img/ext/930df1b81e03ae44.jpg",
-   "cardPhoto": "assets/img/ext/a645daf057f9ef27.jpg"
+   "cardPhoto": "assets/img/ext/9b450adc9180f2e2.jpg",
+   "cardPhotoPos": "50% 20%"
   },
   {
    "id": "mag_rm_53687262",
