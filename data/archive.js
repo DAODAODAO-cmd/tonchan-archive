@@ -1673,13 +1673,6 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://ogre.natalie.mu/media/news/stage/2016/0215/s13.jpg",
-     "caption": "葦木场拓斗 剧照",
-     "source": "https://natalie.mu/stage/news/176208",
-     "asset": "xa983fcef13e26d30",
-     "resolution": ""
-    },
-    {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0303/DSC_0758.jpg",
      "caption": "囲み取材合影",
      "source": "https://natalie.mu/stage/news/178545",
@@ -1836,13 +1829,6 @@ window.ARCHIVE = {
      "caption": "Blu-ray封面",
      "source": "HMV",
      "asset": "xb5e0cb2a04fcd745"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2016/0325/11_shokudai_v.jpg",
-     "caption": "烛台切光忠 角色视觉",
-     "source": "https://natalie.mu/stage/news/189597",
-     "asset": "x3259f88c6c1a76e0",
-     "resolution": ""
     }
    ],
    "videos": [
@@ -2060,13 +2046,6 @@ window.ARCHIVE = {
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "x072c4403b5ddc3e3",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2016/0611/higashi_.jpg",
-     "caption": "Will 角色视觉",
-     "source": "https://natalie.mu/stage/news/190515",
-     "asset": "xc0d647b71beabca3",
      "resolution": ""
     },
     {
@@ -2504,13 +2483,6 @@ window.ARCHIVE = {
      "caption": "葦木场拓斗 角色照",
      "source": "https://natalie.mu/stage/news/191567",
      "asset": "xc12af484b14bbce9",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2016/0827/01.jpg",
-     "caption": "葦木场拓斗 剧照",
-     "source": "https://natalie.mu/stage/news/203626",
-     "asset": "xc9f314586944bd14",
      "resolution": ""
     },
     {
@@ -2973,13 +2945,6 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://ogre.natalie.mu/media/news/stage/2016/1006/shokudaikiri.jpg",
-     "caption": "再演 角色视觉",
-     "source": "https://natalie.mu/stage/news/204483",
-     "asset": "xd91cb3ee06a82636",
-     "resolution": ""
-    },
-    {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/1006/shokudaikiri2.jpg",
      "caption": "再演 角色视觉",
      "source": "https://natalie.mu/stage/news/204483",
@@ -3408,13 +3373,6 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://ogre.natalie.mu/media/news/stage/2017/0124/ashikiba.jpg",
-     "caption": "葦木场拓斗 角色照",
-     "source": "https://natalie.mu/stage/news/223330",
-     "asset": "x243685623b615937",
-     "resolution": ""
-    },
-    {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0304/DSC_7673.jpg",
      "caption": "ゲネプロ剧照",
      "source": "https://natalie.mu/stage/news/223330",
@@ -3583,13 +3541,6 @@ window.ARCHIVE = {
      "caption": "写真集主视觉",
      "source": "https://natalie.mu/stage/news/209323",
      "asset": "xc5397df8ff955be0",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2016/1114/photoimage1.jpg",
-     "caption": "写真集样张",
-     "source": "https://natalie.mu/stage/news/209323",
-     "asset": "x900aed906a83de68",
      "resolution": ""
     }
    ],
@@ -3771,13 +3722,6 @@ window.ARCHIVE = {
      "caption": "主演决定时公布的照片",
      "source": "https://natalie.mu/stage/news/198544",
      "asset": "x1eb072b4f214de2b",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2017/0127/01_harada.jpg",
-     "caption": "原田左之助 角色照",
-     "source": "https://natalie.mu/stage/news/230484",
-     "asset": "xf28ab7ccacaa0977",
      "resolution": ""
     },
     {
@@ -6134,13 +6078,6 @@ window.ARCHIVE = {
      "caption": "Blu-ray封面",
      "source": "HMV",
      "asset": "xaf3339dc9a6279ec"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2018/0502/shokudai_visual.jpg",
-     "caption": "烛台切光忠 角色视觉",
-     "source": "https://natalie.mu/stage/news/284961",
-     "asset": "xcddbae7568ecc4d5",
-     "resolution": ""
     }
    ],
    "videos": [
@@ -6546,13 +6483,6 @@ window.ARCHIVE = {
      "caption": "After生写真 B套组",
      "source": "",
      "asset": "xef6918dffd4fad03",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2018/0617/higahikeisuke.jpg",
-     "caption": "コリウス 角色视觉",
-     "source": "https://natalie.mu/stage/news/287092",
-     "asset": "xef0b6f516936f6bc",
      "resolution": ""
     },
     {
@@ -9910,13 +9840,6 @@ window.ARCHIVE = {
    "origin": "",
    "dateKind": "活动首日",
    "images": [
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2020/0912/higashikeisuke_a_new_me.jpg",
-     "caption": "东启介（撮影：横山マサト）",
-     "source": "https://natalie.mu/stage/news/396136",
-     "asset": "x4928da283c2a82e3",
-     "resolution": ""
-    },
     {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2020/12/78407_2.jpg",
      "caption": "文章配图",
@@ -13548,13 +13471,6 @@ window.ARCHIVE = {
      "caption": "第2弹阵容公布（2021-11-08）定妆照",
      "source": "ローチケ演劇宣言！",
      "asset": "x53246784baf9c85e"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2021/1105/JB2022_higashi-446_c.jpg",
-     "caption": "鲍勃·高迪奥 角色视觉",
-     "source": "https://natalie.mu/stage/news/452294",
-     "asset": "xa1475ddd881ecad3",
-     "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0829/0815_0050.jpg",
@@ -18234,20 +18150,6 @@ window.ARCHIVE = {
      "source": "https://www.tvguide.or.jp/news/news-2659764/",
      "asset": "xbae3afdb5b1a1ec3",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2024/0112/higashi01.jpg",
-     "caption": "内页",
-     "source": "https://natalie.mu/stage/news/556815",
-     "asset": "x959f4610fb64c5ea",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2024/0112/higashi02.jpg",
-     "caption": "内页",
-     "source": "https://natalie.mu/stage/news/556815",
-     "asset": "x62180e6961723ed4",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -19336,13 +19238,6 @@ window.ARCHIVE = {
      "caption": "演唱《有心論》",
      "source": "https://natalie.mu/stage/news/597399",
      "asset": "xa86e4703fb3d7127",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2024/0920/connectingpuzzles_higashi.jpg",
-     "caption": "公演视觉",
-     "source": "https://natalie.mu/stage/news/591843",
-     "asset": "xcfa3e2b1be181299",
      "resolution": ""
     },
     {
@@ -21015,13 +20910,6 @@ window.ARCHIVE = {
      "source": "https://x.com/",
      "asset": "x2aea8dcfb6645ee5",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/eiga/2025/0325/oppan_202503_6.jpg",
-     "caption": "砂川円",
-     "source": "https://natalie.mu/eiga/news/617248",
-     "asset": "x351f91ad3b90a84a",
-     "resolution": ""
     }
    ],
    "videos": [
@@ -21125,13 +21013,6 @@ window.ARCHIVE = {
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3941",
      "asset": "x198a35b73f79a443",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2025/0604/higashikeisuke_mv.jpg",
-     "caption": "公演视觉",
-     "source": "https://natalie.mu/stage/news/626517",
-     "asset": "x3ff003b18cd74093",
      "resolution": ""
     }
    ],
@@ -23384,13 +23265,6 @@ window.ARCHIVE = {
      "caption": "主视觉",
      "source": "ステージナタリー",
      "asset": "xf9f9767bb5255de4"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2026/0717/toustayou_CV_shokudaikiri_0716.jpg",
-     "caption": "烛台切光忠 角色视觉",
-     "source": "https://natalie.mu/stage/news/690189",
-     "asset": "xf747dc0c0f227317",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -23752,20 +23626,6 @@ window.ARCHIVE = {
      "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
      "asset": "b4ccb520b19a2bb1",
      "resolution": "1890 × 1260"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2026/1019/main.jpg",
-     "caption": "内页（东京新闻通信社）",
-     "source": "https://natalie.mu/stage/news/694318",
-     "asset": "x4a8131e403bf4fd4",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2026/1019/sub1.jpg",
-     "caption": "内页（东京新闻通信社）",
-     "source": "https://natalie.mu/stage/news/694318",
-     "asset": "x14605e3f56092836",
-     "resolution": ""
     }
    ],
    "videos": [
@@ -42320,23 +42180,16 @@ window.ARCHIVE = {
   "xe6cc6693fc84c9f2": "assets/img/ext/e6cc6693fc84c9f2.jpg",
   "xff105ca5eb9e372b": "assets/img/ext/ff105ca5eb9e372b.jpg",
   "x7e126007fd2e57e9": "assets/img/ext/7e126007fd2e57e9.jpg",
-  "xa983fcef13e26d30": "assets/img/ext/a983fcef13e26d30.jpg",
   "xbc90f916b606f3b5": "assets/img/ext/bc90f916b606f3b5.jpg",
-  "x3259f88c6c1a76e0": "assets/img/ext/3259f88c6c1a76e0.jpg",
-  "xc0d647b71beabca3": "assets/img/ext/c0d647b71beabca3.jpg",
   "x53dceb304735783e": "assets/img/ext/53dceb304735783e.jpg",
   "x6de1be2ac07c3f13": "assets/img/ext/6de1be2ac07c3f13.jpg",
   "xc12af484b14bbce9": "assets/img/ext/c12af484b14bbce9.jpg",
-  "xc9f314586944bd14": "assets/img/ext/c9f314586944bd14.jpg",
   "x70fbeabdc8165d71": "assets/img/ext/70fbeabdc8165d71.jpg",
   "xa889840e397b5fe6": "assets/img/ext/a889840e397b5fe6.jpg",
-  "xd91cb3ee06a82636": "assets/img/ext/d91cb3ee06a82636.jpg",
   "xb08d350c6ff095a2": "assets/img/ext/b08d350c6ff095a2.jpg",
   "x2aadda1420a95e2e": "assets/img/ext/2aadda1420a95e2e.jpg",
-  "x243685623b615937": "assets/img/ext/243685623b615937.jpg",
   "x4381c207c7b71c02": "assets/img/ext/4381c207c7b71c02.jpg",
   "x1eb072b4f214de2b": "assets/img/ext/1eb072b4f214de2b.jpg",
-  "xf28ab7ccacaa0977": "assets/img/ext/f28ab7ccacaa0977.jpg",
   "x36d098b42e782e4e": "assets/img/ext/36d098b42e782e4e.jpg",
   "x0557ee0dbc19974f": "assets/img/ext/0557ee0dbc19974f.jpg",
   "x13663af3189eece4": "assets/img/ext/13663af3189eece4.jpg",
@@ -42346,8 +42199,6 @@ window.ARCHIVE = {
   "x51e5b4efb0316f09": "assets/img/ext/51e5b4efb0316f09.jpg",
   "x14427a8b0bf99ea1": "assets/img/ext/14427a8b0bf99ea1.jpg",
   "x502ab14d6fd74798": "assets/img/ext/502ab14d6fd74798.jpg",
-  "xcddbae7568ecc4d5": "assets/img/ext/cddbae7568ecc4d5.jpg",
-  "xef0b6f516936f6bc": "assets/img/ext/ef0b6f516936f6bc.jpg",
   "x8442122901bf7dde": "assets/img/ext/8442122901bf7dde.jpg",
   "x372f08e1eed093cf": "assets/img/ext/372f08e1eed093cf.jpg",
   "x85278008e6c71c67": "assets/img/ext/85278008e6c71c67.jpg",
@@ -42362,8 +42213,6 @@ window.ARCHIVE = {
   "xe4961e42bf04f467": "assets/img/ext/e4961e42bf04f467.jpg",
   "x35a7ed006e4627b2": "assets/img/ext/35a7ed006e4627b2.jpg",
   "x33162b3902353c06": "assets/img/ext/33162b3902353c06.jpg",
-  "x4928da283c2a82e3": "assets/img/ext/4928da283c2a82e3.jpg",
-  "xa1475ddd881ecad3": "assets/img/ext/a1475ddd881ecad3.jpg",
   "xe1945f0a8f8d830c": "assets/img/ext/e1945f0a8f8d830c.jpg",
   "xcdd90667606920b9": "assets/img/ext/cdd90667606920b9.jpg",
   "xf6b543e7783e2425": "assets/img/ext/f6b543e7783e2425.jpg",
@@ -42380,12 +42229,9 @@ window.ARCHIVE = {
   "x568702269fc88835": "assets/img/ext/568702269fc88835.jpg",
   "xed4e8b5d1018ee19": "assets/img/ext/ed4e8b5d1018ee19.jpg",
   "xb93796300d08b2fb": "assets/img/ext/b93796300d08b2fb.jpg",
-  "x959f4610fb64c5ea": "assets/img/ext/959f4610fb64c5ea.jpg",
-  "x62180e6961723ed4": "assets/img/ext/62180e6961723ed4.jpg",
   "xd7f323a82d983f6c": "assets/img/ext/d7f323a82d983f6c.jpg",
   "x85c5f7ebfbc336ee": "assets/img/ext/85c5f7ebfbc336ee.jpg",
   "x328187bb17dc9de6": "assets/img/ext/328187bb17dc9de6.jpg",
-  "xcfa3e2b1be181299": "assets/img/ext/cfa3e2b1be181299.jpg",
   "x7dcf43dfada3d66f": "assets/img/ext/7dcf43dfada3d66f.jpg",
   "xcc24cdbeedcf4dff": "assets/img/ext/cc24cdbeedcf4dff.jpg",
   "x3136fb603065248c": "assets/img/ext/3136fb603065248c.jpg",
@@ -42399,19 +42245,14 @@ window.ARCHIVE = {
   "x4d2eb62fb0b3decb": "assets/img/ext/4d2eb62fb0b3decb.jpg",
   "x351f91ad3b90a84a": "assets/img/ext/351f91ad3b90a84a.jpg",
   "xffc9e19c6cb905fb": "assets/img/ext/ffc9e19c6cb905fb.jpg",
-  "x3ff003b18cd74093": "assets/img/ext/3ff003b18cd74093.jpg",
   "xbc4592942024d13b": "assets/img/ext/bc4592942024d13b.jpg",
   "xccb87f448b72da68": "assets/img/ext/ccb87f448b72da68.jpg",
   "x5b01c1f018234924": "assets/img/ext/5b01c1f018234924.jpg",
   "x2f0f29784f406082": "assets/img/ext/2f0f29784f406082.jpg",
   "xd1dc66462ede5533": "assets/img/ext/d1dc66462ede5533.jpg",
   "x4ba7deb41fb63b44": "assets/img/ext/4ba7deb41fb63b44.jpg",
-  "xf747dc0c0f227317": "assets/img/ext/f747dc0c0f227317.jpg",
   "xa5b266e7ba24fc4a": "assets/img/ext/a5b266e7ba24fc4a.jpg",
-  "x4a8131e403bf4fd4": "assets/img/ext/4a8131e403bf4fd4.jpg",
-  "x14605e3f56092836": "assets/img/ext/14605e3f56092836.jpg",
-  "xc5397df8ff955be0": "assets/img/ext/c5397df8ff955be0.jpg",
-  "x900aed906a83de68": "assets/img/ext/900aed906a83de68.jpg"
+  "xc5397df8ff955be0": "assets/img/ext/c5397df8ff955be0.jpg"
  },
  "biliLeads": [
   {

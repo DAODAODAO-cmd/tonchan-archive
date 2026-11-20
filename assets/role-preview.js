@@ -14,12 +14,12 @@
       if(height<=0)continue;
       for(const word of name.querySelectorAll('b'))word.style.fontSize=Math.max(10,Math.min(28,Math.floor(height/(word.textContent.length*1.03))))+'px';
       const small=name.querySelector('small');
-      if(small){small.style.whiteSpace='';small.style.fontSize='';let size=parseFloat(getComputedStyle(small).fontSize)||8;
-        while(size>5.5&&small.scrollHeight>name.clientHeight-8){size-=.5;small.style.fontSize=size+'px'}
-        if(small.scrollHeight>name.clientHeight-8)small.style.whiteSpace='normal';}
+      if(small){small.style.whiteSpace='';small.style.textAlign='';small.style.fontSize='';let size=parseFloat(getComputedStyle(small).fontSize)||8;const room=()=>small.scrollHeight<=name.clientHeight-8;
+        while(size>7&&!room()){size-=.5;small.style.fontSize=size+'px'}
+        if(!room()){small.style.whiteSpace='normal';small.style.textAlign='center';while(size>5&&!room()){size-=.5;small.style.fontSize=size+'px'}}}
     }
-    for(const work of container.querySelectorAll('.rl-wk b')){work.style.fontSize='';let size=parseFloat(getComputedStyle(work).fontSize)||12;
-      while(size>9&&(work.scrollHeight>work.parentNode.clientHeight||work.scrollWidth>work.parentNode.clientWidth)){size-=.5;work.style.fontSize=size+'px'}}
+    for(const work of container.querySelectorAll('.rl-wk b')){work.style.fontSize='';work.style.whiteSpace='nowrap';work.style.display='block';let size=parseFloat(getComputedStyle(work).fontSize)||12;
+      while(size>7&&work.scrollWidth>work.clientWidth){size-=.5;work.style.fontSize=size+'px'}}
   };
   const show=()=>{
     const copy=cards[index].cloneNode(true);copy.removeAttribute('href');copy.tabIndex=-1;copy.classList.add('fit-role');
