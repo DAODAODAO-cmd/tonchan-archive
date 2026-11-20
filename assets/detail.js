@@ -4,7 +4,8 @@
   const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const mediaUrl=u=>window.archiveMediaUrl?window.archiveMediaUrl(u):(window.ARCHIVE_MEDIA?.local?.[u]||u||'');
   const imageUrl=i=>mediaUrl((i.asset&&A.assets[i.asset])||i.url||'');
-  const link=(url,label)=>/^(?:https?:\/\/|assets\/|(?:index|list|archive|detail)\.html)/i.test(url||'')?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>${window.ARCHIVE_MEDIA?.videoNotices?.[url]?'<small class="meta"> '+esc(window.ARCHIVE_MEDIA.videoNotices[url])+'</small>':''}`:esc(url?`${label}：${url}`:label);
+  const SHOP=/amazon\.|rakuten|r10s\.jp|7net|omni7|hmv\.co\.jp|suruga-ya|mercari|yahoo|tower\.jp|p-bandai|animate-onlineshop|web\.archive\.org|wikipedia\.org/i;
+  const link=(url,label)=>!SHOP.test(url||'')&&/^(?:https?:\/\/|assets\/|(?:index|list|archive|detail)\.html)/i.test(url||'')?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>${window.ARCHIVE_MEDIA?.videoNotices?.[url]?'<small class="meta"> '+esc(window.ARCHIVE_MEDIA.videoNotices[url])+'</small>':''}`:esc(url?`${label}：${url}`:label);
   const recordUrl=e=>'detail.html?id='+encodeURIComponent(e.id);
   const params=new URLSearchParams(location.search);
   const e=A.events.find(x=>x.id===params.get('id'));
