@@ -57,7 +57,6 @@
   if(e.biliSearch?.length)html+=section('B站检索','<ul class="records">'+e.biliSearch.map(v=>`<li>${link(v.url,v.title||'在B站搜索')}</li>`).join('')+'</ul>');
   if(e.playlistLinks?.length)html+=section('相关播放列表','<ul class="records">'+e.playlistLinks.map(v=>`<li>${link(v.url||v[1],v.title||v.label||v[0]||'播放列表')}</li>`).join('')+'</ul>');
   if(related.length)html+=section('同系列记录','<ul class="records">'+related.map(x=>`<li><a href="${recordUrl(x)}"><span class="meta">${esc(x.date)} · ${esc(x.category)}</span><br>${esc(x.title)}</a></li>`).join('')+'</ul>');
-  html+='<details class="source-foot"><summary>来源</summary>'+`<dl>${[['时间说明',e.dateKind],['核对状态',e.status],['补充记录',e.origin]].filter(([,v])=>v).map(([k,v])=>`<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}</dl>${e.pending?'<p class="meta">这条资料仍有待核对的信息，请结合原始来源查看。</p>':''}`+'<ul class="records">'+images.map(i=>`<li>${esc(i.caption||'图片资料')}${i.source?' · '+link(i.source,'来源'):''}${i.url?' · '+link(i.url,'原图来源'):''}${window.ARCHIVE_MEDIA?.sources?.[i.url]?' · '+link(window.ARCHIVE_MEDIA.sources[i.url],'补图来源'):''}</li>`).join('')+'</ul></details>';
   if(audioEntry)html='<div class="links" style="margin-bottom:18px"><a href="'+esc(window.ARCHIVE_AUDIO.url(audioEntry))+'">查看音像版本与图片</a></div>'+html;
   document.getElementById('detail').innerHTML=html;
 })();
