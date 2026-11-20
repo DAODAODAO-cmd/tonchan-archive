@@ -153,3 +153,6 @@ html[data-view=goods] #goods>.wrap>.sec-head{display:none}
  html[data-mode=cards] .roles .rl-wk{padding:5px 8px}html[data-mode=cards] .roles .rl-wk b{font-size:12px}
  html[data-mode=cards] .roles .rl-lb{padding:5px 6px;font-size:13px}html[data-mode=cards] .roles .rl-ph img{object-fit:contain}
 }
+/* 作品页：上面作品列表，下面「海报+角色照」角色卡 */
+html[data-page=hub][data-view=works][data-mode=cards] #works{display:block}
+html[data-view=works][data-mode=cards] #roles .sec-head h2{display:block}
