@@ -14341,10 +14341,10 @@ window.ARCHIVE = {
    "dateKind": "官方标注首播日",
    "images": [
     {
-     "url": "https://www.mbs.jp/joshikousei-souninaru/images/chart/03.webp",
+     "url": "assets/img/roles/satonaka_itsuki.jpg",
      "caption": "官网人物关系图：里中树（东启介）",
      "source": "https://www.mbs.jp/joshikousei-souninaru/chart.shtml",
-     "asset": "x538683246fba7092"
+     "hasHigashi": true
     },
     {
      "url": "https://www.mbs.jp/joshikousei-souninaru/images/episode/01-09.webp",
@@ -14404,7 +14404,7 @@ window.ARCHIVE = {
    "roleRoma": "SATONAKA ITSUKI",
    "workRoma": "JOSHIKOSEI SO NI NARU",
    "roleName": "里中树",
-   "cardPhoto": "assets/img/ext/858a551451f8e99a.jpg"
+   "cardPhoto": "assets/img/roles/satonaka_itsuki.jpg"
   },
   {
    "id": "qj95124",
