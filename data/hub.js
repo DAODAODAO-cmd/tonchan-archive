@@ -1395,7 +1395,14 @@ window.HUB = {
    "url": "https://stage-toukenranbu.jp/archive/kyoden/goods.html",
    "publisher": "刀ステ 官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "场刊",
+     "img": "assets/img/ext/04a531125b8ecf54.jpg",
+     "href": "assets/img/ext/04a531125b8ecf54.jpg"
+    }
+   ]
   },
   {
    "date": "2016-08-12",
@@ -3201,7 +3208,7 @@ window.HUB = {
    "image": "assets/img/ext/8176a1e302ef60d0.jpg",
    "points": [
     "和陽伝公演周边分开的一套，十周年专属",
-    "烫金个人生写真、刀帐生写真、橡果钥匙扣（按组分）、雪花球"
+    "有他的是烫金个人生写真和刀帐生写真"
    ],
    "url": "https://www.stage-toukenranbu.jp/goods/10th/",
    "items": [
@@ -3214,21 +3221,6 @@ window.HUB = {
      "t": "刀帐生写真",
      "img": "assets/img/ext/3618b76e6b348b27.jpg",
      "href": "assets/img/ext/3618b76e6b348b27.jpg"
-    },
-    {
-     "t": "橡果钥匙扣",
-     "img": "assets/img/ext/bd6482daead2a7a1.jpg",
-     "href": "assets/img/ext/bd6482daead2a7a1.jpg"
-    },
-    {
-     "t": "和纸风文件夹",
-     "img": "assets/img/ext/caa125fb36e4866e.jpg",
-     "href": "assets/img/ext/caa125fb36e4866e.jpg"
-    },
-    {
-     "t": "雪花球",
-     "img": "assets/img/ext/a379b24c19c31049.jpg",
-     "href": "assets/img/ext/a379b24c19c31049.jpg"
     }
    ],
    "saleReview": {
@@ -3301,6 +3293,51 @@ window.HUB = {
     "source": "https://p-bandai.jp/item/item-1000260979/",
     "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
    }
+  },
+  {
+   "title": "刀舞十周年轨迹展「万里一空刀絵巻」会场周边",
+   "date": "2026-12-01",
+   "price": "",
+   "publisher": "舞台『刀剣乱舞』十年の軌跡展",
+   "image": "assets/img/ext/767d3b1ae1183d18.webp",
+   "points": [
+    "本展新拍的照片做的周边，以下都有烛台切光忠（东启介）",
+    "亚克力立牌 1,800円、手机挂片 1,300円（各70种，可直接挑）",
+    "随机徽章 500円、随机伞标 880円（各70种，按组随机，烛台切在B组）",
+    "随机视觉卡 530円（70种，东京后期1/5起才卖）",
+    "万里一空刀绘卷 4,400円：70振全员的蛇腹式写真书",
+    "只在会场卖，需要入场；一次只能结账一次，有限购"
+   ],
+   "url": "https://stage-toukenranbu-10th-expo.jp/goods.html",
+   "cat": "周边",
+   "work": "刀舞",
+   "items": [
+    {
+     "t": "亚克力立牌",
+     "img": "assets/img/ext/767d3b1ae1183d18.webp",
+     "href": "assets/img/ext/767d3b1ae1183d18.webp"
+    },
+    {
+     "t": "手机挂片",
+     "img": "assets/img/ext/6ac05ebd7529aa6b.webp",
+     "href": "assets/img/ext/6ac05ebd7529aa6b.webp"
+    },
+    {
+     "t": "随机徽章（B组）",
+     "img": "assets/img/ext/1673290b9f49ba3f.webp",
+     "href": "assets/img/ext/1673290b9f49ba3f.webp"
+    },
+    {
+     "t": "随机伞标（B组）",
+     "img": "assets/img/ext/211759f7f3f6cc28.webp",
+     "href": "assets/img/ext/211759f7f3f6cc28.webp"
+    },
+    {
+     "t": "万里一空刀绘卷（蛇腹写真书）",
+     "img": "assets/img/ext/7fca880a26467953.jpg",
+     "href": "assets/img/ext/7fca880a26467953.jpg"
+    }
+   ]
   }
  ],
  "channels": {

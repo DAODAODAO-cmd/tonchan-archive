@@ -21602,7 +21602,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://2-5chaya.jp/news/%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E4%BD%9C%E5%93%81-%E8%88%9E%E5%8F%B0%E3%80%8E%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E%E3%80%8F%E9%99%BD%E4%BC%9D-%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%A8/",
-   "note": "刀剑乱舞2.5茶屋与《陽伝》联动：13振印象饮品与餐点、随机杯垫（13种）、外带随机透明卡（13种），店内展示出阵刀剑男士大型挂布。期间2026年11月25日～2027年1月11日。燭台切光忠在对象男士之列。",
+   "note": "刀剑乱舞2.5茶屋与《陽伝》联动：13振印象饮品与餐点、随机杯垫（13种）、外带随机视觉透明卡（13种，背景透明，可以带出门和风景一起拍），店内展示出阵刀剑男士大型挂布。期间2026年11月25日～2027年1月11日。燭台切光忠在对象男士之列。",
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
@@ -21638,6 +21638,18 @@ window.ARCHIVE = {
      "caption": "店内特典杯垫",
      "source": "https://x.com/touken_2_5chaya/status/2122978137822617645",
      "asset": "xf3ddc4d07625e036"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/HXje2sFaQAE5i5Q?format=jpg&name=large",
+     "caption": "外带特典：视觉透明卡",
+     "source": "https://x.com/touken_2_5chaya/status/2123702913193423241",
+     "asset": "x23f5faea2b1e4fce"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/HXje1sRbAAEuFMo?format=jpg&name=large",
+     "caption": "外带特典：视觉透明卡",
+     "source": "https://x.com/touken_2_5chaya/status/2123702913193423241",
+     "asset": "x42bf9252bb0eaf65"
     }
    ],
    "videos": [],
@@ -40350,7 +40362,9 @@ window.ARCHIVE = {
   "x22f1db865231225e": "assets/img/ext/22f1db865231225e.jpg",
   "x1a5953bfa8b11e9f": "assets/img/ext/1a5953bfa8b11e9f.jpg",
   "x0c6551d5bd831f38": "assets/img/ext/0c6551d5bd831f38.jpg",
-  "xcb5fbbc34f0528cb": "assets/img/ext/cb5fbbc34f0528cb.jpg"
+  "xcb5fbbc34f0528cb": "assets/img/ext/cb5fbbc34f0528cb.jpg",
+  "x23f5faea2b1e4fce": "assets/img/ext/23f5faea2b1e4fce.jpg",
+  "x42bf9252bb0eaf65": "assets/img/ext/42bf9252bb0eaf65.jpg"
  },
  "biliLeads": [
   {
