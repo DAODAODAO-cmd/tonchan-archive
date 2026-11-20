@@ -94,7 +94,7 @@ footer a{color:var(--sage)}
   .tools{flex-direction:column;align-items:stretch;gap:8px}.tools input{min-width:0}
 }
 .vl{margin:6px 0 0;padding-left:0;list-style:none;max-height:220px;overflow:auto}.vl li{margin:3px 0;font-size:12px}.vl a{color:inherit;text-decoration:underline dotted}
-.h h1 .en{display:block;font-size:11px;letter-spacing:.2em;color:var(--muted,#9a8f84);font-weight:500;margin-bottom:4px;order:-1}.quad{display:grid;grid-template-columns:repeat(4,1fr);gap:2px;width:100%;height:100%;background:#fff}.quad.q2{grid-template-columns:repeat(2,1fr)}.quad.q3{grid-template-columns:repeat(3,1fr)}.quad img{width:100%;height:100%;object-fit:contain;background:#fff}</style>
+.h h1 .en{display:block;font-size:11px;letter-spacing:.2em;color:var(--muted,#9a8f84);font-weight:500;margin-bottom:4px;order:-1}.quad{display:grid;grid-template-columns:repeat(4,1fr);gap:2px;width:100%;height:100%;background:#fff}.quad.q2{grid-template-columns:repeat(2,1fr)}.quad.q3{grid-template-columns:repeat(3,1fr)}.quad img{width:100%;height:100%;object-fit:contain;background:#fff}.bgblur{position:absolute;inset:-16px;background-size:cover;background-position:center;filter:blur(16px) brightness(.92);opacity:.9}.card .img .tag{z-index:2}</style>
 <script>document.addEventListener('load',function(e){var i=e.target;if(i&&i.tagName==='IMG'&&i.naturalHeight>i.naturalWidth*1.05&&!i.style.objectPosition)i.style.objectPosition='50% 15%'},true)</script>
 <style>img[src$=".png"]{background:#2e2622}</style>
 <meta name="description" content="东启介（東啓介）从出道到现在的舞台、影视、杂志、视频与周边编年整理。">
@@ -199,5 +199,5 @@ if(location.hash){setTimeout(()=>{const el=document.getElementById(decodeURIComp
 <script src="assets/visit.js" defer></script>
 <script src="assets/browse-state.js?v=1120r13"></script>
 <script src="assets/navigation.js?v=1121b"></script>
-<script>document.addEventListener('load',function(e){var i=e.target;if(!i||i.tagName!=='IMG'||!i.closest('.card .img')||i.closest('.quad'))return;var b=i.parentNode.getBoundingClientRect();if(!b.width||!b.height||!i.naturalWidth)return;var r=Math.log((i.naturalWidth/i.naturalHeight)/(b.width/b.height));if(Math.abs(r)>0.28){i.style.objectFit='contain';i.style.background='#f6efe5'}},true)</script></body>
+<script>document.addEventListener('load',function(e){var i=e.target;if(!i||i.tagName!=='IMG'||!i.closest('.card .img')||i.closest('.quad'))return;var b=i.parentNode.getBoundingClientRect();if(!b.width||!b.height||!i.naturalWidth)return;var r=Math.log((i.naturalWidth/i.naturalHeight)/(b.width/b.height));if(Math.abs(r)>0.28){i.style.objectFit='contain';i.style.objectPosition='center';i.style.position='relative';i.style.zIndex='1';if(!i.parentNode.querySelector('.bgblur')){var d=document.createElement('div');d.className='bgblur';d.style.backgroundImage='url("'+i.currentSrc+'")';i.parentNode.insertBefore(d,i)}}},true)</script></body>
 </html>
