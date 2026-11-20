@@ -442,7 +442,8 @@ window.HUB = {
    "url": "https://7net.omni7.jp/general/watanabeprobro.html",
    "status": "预约已结束",
    "bday": false,
-   "stage": false
+   "stage": false,
+   "parentCollection": "WE官方生写真 历月一览"
   },
   {
    "date": "2025-08-01",
@@ -1172,7 +1173,8 @@ window.HUB = {
     {
      "t": "2026.11",
      "img": "assets/img/ext/e65e91da7c009505.jpg",
-     "href": "assets/img/ext/e65e91da7c009505.jpg"
+     "href": "assets/img/ext/e65e91da7c009505.jpg",
+     "detailUrl": "detail.html?goods=2026-12-02%7CWE%E5%AE%98%E6%96%B9%E7%94%9F%E5%86%99%E7%9C%9F%E3%80%882026%E5%B9%B411%E6%9C%88%E3%80%89"
     },
     {
      "t": "2026.09",
@@ -1552,7 +1554,13 @@ window.HUB = {
     "活动特典：ぷくぷく（立体泡泡）贴纸，10/30 官方X公开设计样本"
    ],
    "url": "https://zasshi.tv/products/62295/",
-   "cat": "写真集·杂志"
+   "cat": "写真集·杂志",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "available",
+    "source": "https://zasshi.tv/products/62295/",
+    "note": "出版社仍提供购买与预约入口；各店特典库存不同。"
+   }
   },
   {
    "title": "刀舞《陽伝》Blu-ray / DVD",
@@ -1579,51 +1587,242 @@ window.HUB = {
    "url": "https://www.stage-toukenranbu.jp/goods/hiden2/",
    "items": [
     {
-     "t": "燭台切套组",
-     "img": "assets/img/ext/b734089501b02d9e.jpg",
-     "href": "assets/img/ext/b734089501b02d9e.jpg"
+     "t": "场刊",
+     "img": "assets/img/ext/c0c566ed0528b7d6.jpg",
+     "href": "assets/img/ext/c0c566ed0528b7d6.jpg",
+     "id": "hiden-4336",
+     "group": "通用周边",
+     "note": "A4 全彩公演场刊。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4336",
+     "price": "2,800日元（含税）",
+     "hiddenFromCharacterCatalogue": true
     },
     {
      "t": "个人生写真",
      "img": "assets/img/ext/3d1d84418aa7352b.jpg",
-     "href": "assets/img/ext/3d1d84418aa7352b.jpg"
+     "href": "assets/img/ext/3d1d84418aa7352b.jpg",
+     "id": "hiden-4333",
+     "group": "角色款",
+     "note": "刀剑男士各有 A、B 两版，每版为 L 判两枚组；全系列共 26 款。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4333",
+     "price": "400日元（含税）"
     },
     {
      "t": "刀帐生写真",
      "img": "assets/img/ext/c8515b5652fcd27f.jpg",
-     "href": "assets/img/ext/c8515b5652fcd27f.jpg"
+     "href": "assets/img/ext/c8515b5652fcd27f.jpg",
+     "id": "hiden-4329",
+     "group": "角色款",
+     "note": "L 判两枚组，全系列 13 款。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4329",
+     "price": "400日元（含税）"
     },
     {
      "t": "明治座限定A4",
      "img": "assets/img/ext/104f58ce0e653d09.jpg",
-     "href": "assets/img/ext/104f58ce0e653d09.jpg"
+     "href": "assets/img/ext/104f58ce0e653d09.jpg",
+     "id": "hiden-4327",
+     "group": "会场限定",
+     "note": "东京明治座限定，A4 单张；全系列 13 款。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4327",
+     "price": "2,200日元（含税）"
     },
     {
      "t": "新歌舞伎座限定A4",
      "img": "assets/img/ext/59bbe8a861cf3960.jpg",
-     "href": "assets/img/ext/59bbe8a861cf3960.jpg"
+     "href": "assets/img/ext/59bbe8a861cf3960.jpg",
+     "id": "hiden-4325",
+     "group": "会场限定",
+     "note": "大阪新歌舞伎座限定，A4 单张；全系列 13 款。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4325",
+     "price": "2,200日元（含税）"
+    },
+    {
+     "t": "东京凯旋限定A4",
+     "img": "",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4323",
+     "id": "hiden-4323",
+     "group": "会场限定",
+     "note": "SGC HALL ARIAKE 会场限定，A4 单张；官方商品图仍为印刷中。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4323",
+     "price": "2,200日元（含税）",
+     "imagePending": true
     },
     {
      "t": "随机生写真",
      "img": "assets/img/ext/c1cb6af34e58c85a.jpg",
-     "href": "assets/img/ext/c1cb6af34e58c85a.jpg"
+     "href": "assets/img/ext/c1cb6af34e58c85a.jpg",
+     "id": "hiden-4321",
+     "group": "随机款",
+     "note": "L 判，每包随机一枚，全 26 款，不能指定角色。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4321",
+     "price": "200日元（含税）"
     },
     {
      "t": "祝装随机生写真",
      "img": "assets/img/ext/71e2ee466fdbc7f5.jpg",
-     "href": "assets/img/ext/71e2ee466fdbc7f5.jpg"
+     "href": "assets/img/ext/71e2ee466fdbc7f5.jpg",
+     "id": "hiden-4319",
+     "group": "随机款",
+     "note": "祝装版 L 判生写真，每包随机一枚，全 31 款。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4319",
+     "price": "200日元（含税）"
+    },
+    {
+     "t": "随机亚克力立牌",
+     "img": "assets/img/hiden-goods/4317.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4317",
+     "id": "hiden-4317",
+     "group": "随机款",
+     "note": "随机一枚，全 13 款；本体约 55×100mm，底座约 50×50mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4317",
+     "price": "900日元（含税）"
     },
     {
      "t": "亚克力立牌",
      "img": "assets/img/ext/b8177270691f284c.jpg",
-     "href": "assets/img/ext/b8177270691f284c.jpg"
+     "href": "assets/img/ext/b8177270691f284c.jpg",
+     "id": "hiden-4315",
+     "group": "角色款",
+     "note": "可选角色款，全 13 款；本体约 55×85mm，底座约 50×50mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4315",
+     "price": "1,200日元（含税）"
     },
     {
-     "t": "场刊",
-     "img": "assets/img/ext/c0c566ed0528b7d6.jpg",
-     "href": "assets/img/ext/c0c566ed0528b7d6.jpg"
+     "t": "变换卡 A／B",
+     "img": "assets/img/hiden-goods/4313.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4313",
+     "id": "hiden-4313",
+     "group": "角色款",
+     "note": "各角色有 A、B 两版，全系列 26 款；约 100×146mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4313",
+     "price": "700日元（含税）"
+    },
+    {
+     "t": "编成画面钥匙扣",
+     "img": "assets/img/hiden-goods/4311.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4311",
+     "id": "hiden-4311",
+     "group": "角色款",
+     "note": "编成画面风设计，附钢丝环；全 13 款，约 39×100mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4311",
+     "price": "700日元（含税）"
+    },
+    {
+     "t": "随机酒店钥匙扣",
+     "img": "assets/img/hiden-goods/4309.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4309",
+     "id": "hiden-4309",
+     "group": "随机款",
+     "note": "随机一枚，全 13 款；本体约 80×20×8mm，附珠链。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4309",
+     "price": "900日元（含税）"
+    },
+    {
+     "t": "丝带围巾",
+     "img": "assets/img/hiden-goods/4307.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4307",
+     "id": "hiden-4307",
+     "group": "角色款",
+     "note": "角色配色款，全 13 款；聚酯材质，约 75×1100mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4307",
+     "price": "1,700日元（含税）"
+    },
+    {
+     "t": "胸针组",
+     "img": "assets/img/hiden-goods/4305.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4305",
+     "id": "hiden-4305",
+     "group": "通用周边",
+     "note": "金属胸针组，含番伞、橡实以及月亮、太阳、星星造型。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4305",
+     "price": "2,200日元（含税）",
+     "hiddenFromCharacterCatalogue": true
+    },
+    {
+     "t": "角色挂饰",
+     "img": "assets/img/hiden-goods/4303.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4303",
+     "id": "hiden-4303",
+     "group": "角色款",
+     "note": "含金属、亚克力及流苏部件，全 13 款；流苏全长约 100mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4303",
+     "price": "2,000日元（含税）"
+    },
+    {
+     "t": "时间溯行军大太刀斜挎包",
+     "img": "assets/img/hiden-goods/4301.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4301",
+     "id": "hiden-4301",
+     "group": "通用周边",
+     "note": "本体约 210×280mm，肩带全长约 1100mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4301",
+     "price": "4,000日元（含税）",
+     "hiddenFromCharacterCatalogue": true
+    },
+    {
+     "t": "托特包",
+     "img": "assets/img/hiden-goods/4299.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4299",
+     "id": "hiden-4299",
+     "group": "通用周边",
+     "note": "本体约 370×400×110mm，手提带约 30×650mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4299",
+     "price": "4,500日元（含税）",
+     "hiddenFromCharacterCatalogue": true
+    },
+    {
+     "t": "会场购买特典贴纸",
+     "img": "assets/img/hiden-goods/4297.jpg",
+     "href": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4297",
+     "id": "hiden-4297",
+     "group": "会场限定",
+     "note": "异形贴纸，全 13 款；随机发放，约 40×100mm。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4297",
+     "price": "会场购买特典（非单卖）"
+    },
+    {
+     "t": "燭台切套组",
+     "img": "assets/img/ext/b734089501b02d9e.jpg",
+     "href": "assets/img/ext/b734089501b02d9e.jpg",
+     "id": "hiden-4287",
+     "group": "通贩套组",
+     "note": "烛台切光忠角色套组，仅限通贩；会场不售。含单品款、套组限定商品及特典。",
+     "source": "https://stage-toukenranbu.jp/goods/hiden2/hiden2_items/4287",
+     "price": "15,000日元（含税）",
+     "contents": [
+      "个人生写真",
+      "变换卡",
+      "编成画面钥匙扣",
+      "丝带围巾",
+      "角色挂饰",
+      "注油亚克力钥匙扣（套组限定）",
+      "三枚组生写真（套组限定）",
+      "购物袋（套组限定）",
+      "连帽卫衣（套组限定）",
+      "异形特典贴纸"
+     ]
     }
-   ]
+   ],
+   "catalogue": true,
+   "checked": "2026-11-20",
+   "scope": "烛台切光忠角色款，以及包含烛台切光忠的随机商品与会场特典",
+   "sources": [
+    {
+     "title": "公演周边官网",
+     "url": "https://stage-toukenranbu.jp/goods/hiden2/"
+    },
+    {
+     "title": "DMM 官方商品特集",
+     "url": "https://pictures.dmm.com/lp/toukenranbu-goods/"
+    }
+   ],
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "available",
+    "source": "https://www.stage-toukenranbu.jp/goods/hiden2/",
+    "note": "官网公布当前公演会场与通贩销售安排；单品库存以各会场、商店为准。"
+   }
   },
   {
    "title": "变身腰带 DX Maou Driver",
@@ -1636,7 +1835,13 @@ window.HUB = {
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21234/",
    "cat": "玩具",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://toy.bandai.co.jp/ja/series/rider/item/01_21234/",
+    "note": "官网保留商品介绍与发售日，未提供当前库存。"
+   }
   },
   {
    "date": "2026-09-05",
@@ -1649,7 +1854,13 @@ window.HUB = {
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20954/",
    "cat": "玩具",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://toy.bandai.co.jp/ja/series/rider/item/01_20954/",
+    "note": "官网保留商品介绍与发售日，未提供当前库存。"
+   }
   },
   {
    "date": "2026-09-19",
@@ -1662,7 +1873,13 @@ window.HUB = {
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_20955/",
    "cat": "玩具",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://toy.bandai.co.jp/ja/series/rider/item/01_20955/",
+    "note": "官网保留商品介绍与发售日，未提供当前库存。"
+   }
   },
   {
    "date": "2026-10-17",
@@ -1676,7 +1893,13 @@ window.HUB = {
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21232/",
    "cat": "玩具",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://toy.bandai.co.jp/ja/series/rider/item/01_21232/",
+    "note": "官网保留商品介绍与发售日，未提供当前库存。"
+   }
   },
   {
    "date": "2026-10-17",
@@ -1689,7 +1912,13 @@ window.HUB = {
    ],
    "url": "https://toy.bandai.co.jp/ja/series/rider/item/01_21233/",
    "cat": "玩具",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://toy.bandai.co.jp/ja/series/rider/item/01_21233/",
+    "note": "官网保留商品介绍与发售日，未提供当前库存。"
+   }
   },
   {
    "date": "2027-03",
@@ -1702,7 +1931,13 @@ window.HUB = {
    ],
    "url": "https://tamashiiweb.com/item/16020/",
    "cat": "玩具",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "available",
+    "source": "https://tamashiiweb.com/item/16020/",
+    "note": "官网列明2026年10月1日起预约、2027年3月发售；各店库存不同。"
+   }
   },
   {
    "date": "2026-09-06",
@@ -1727,7 +1962,13 @@ window.HUB = {
      "href": "assets/img/ext/5141187a1fda6811.jpg"
     }
    ],
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://p-bandai.jp/item/item-1000256614/",
+    "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
+   }
   },
   {
    "date": "2026-09-06",
@@ -1752,7 +1993,13 @@ window.HUB = {
      "href": "assets/img/ext/ec02918b92947de2.jpg"
     }
    ],
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://p-bandai.jp/item/item-1000256611/",
+    "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
+   }
   },
   {
    "date": "2026-08-28",
@@ -1777,7 +2024,13 @@ window.HUB = {
      "href": "assets/img/ext/bb631bf4ee119660.jpg"
     }
    ],
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://p-bandai.jp/item/item-1000256283/",
+    "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
+   }
   },
   {
    "date": "2026-09-04",
@@ -1791,7 +2044,13 @@ window.HUB = {
    ],
    "url": "https://x.com/KamenRiderStore/status/2094696768076464195",
    "imagePos": "50% 100%",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://x.com/KamenRiderStore/status/2094696768076464195",
+    "note": "官方发布链接未能读取，未核实当前店铺库存。"
+   }
   },
   {
    "date": "2026-09-06",
@@ -1804,7 +2063,13 @@ window.HUB = {
     "Myth、Kuroneko也有"
    ],
    "url": "https://x.com/tv_asahi_shop/status/2096395455735455915",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://x.com/tv_asahi_shop/status/2096395455735455915",
+    "note": "官方发布链接未能读取，未核实当前店铺库存。"
+   }
   },
   {
    "date": "2026-11-14",
@@ -1818,7 +2083,13 @@ window.HUB = {
    ],
    "url": "https://x.com/KamenRiderStore/status/2121790031400783919",
    "cat": "玩具",
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://x.com/KamenRiderStore/status/2121790031400783919",
+    "note": "官方发布链接未能读取，未核实当前店铺库存。"
+   }
   },
   {
    "date": "2024-12-07",
@@ -1831,7 +2102,13 @@ window.HUB = {
     "三个底座能横着拼在一起，和饭岛宽骑、见津贤摆成一排",
     "先受注，2024/12/7起一般贩售"
    ],
-   "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009860/"
+   "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009860/",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "available",
+    "source": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009860/",
+    "note": "电视东京官方商店的崎山亮二款显示有库存并有加入购物车入口。"
+   }
   },
   {
    "date": "2024-12-07",
@@ -1843,7 +2120,13 @@ window.HUB = {
     "L判4枚：三人各一张新拍的单人照，加一张三人合照",
     "先受注，2024/12/7起一般贩售"
    ],
-   "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009863/"
+   "url": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009863/",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://shop.tv-tokyo.co.jp/shop/g/gDBS009863/",
+    "note": "官方商品资料可读取，但未见可确认的当前库存。"
+   }
   },
   {
    "date": "2016-07-13",
@@ -2354,7 +2637,13 @@ window.HUB = {
     "首本写真集，发售时办了见面会"
    ],
    "url": "list.html?g=all#e101",
-   "cat": "写真集·杂志"
+   "cat": "写真集·杂志",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://higashikeisuke.ponycanyon.co.jp/",
+    "note": "官网保留旧版购买链接，未能核实当前纸质书库存。"
+   }
   },
   {
    "title": "写真集《何色》",
@@ -2367,7 +2656,13 @@ window.HUB = {
     "第二本写真集"
    ],
    "url": "list.html?g=all#e102",
-   "cat": "写真集·杂志"
+   "cat": "写真集·杂志",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://books.rakuten.co.jp/rb/16609472/",
+    "note": "原资料链接未能确认当前纸质书库存。"
+   }
   },
   {
    "title": "日历写真书 2021.04–2022.03",
@@ -2379,7 +2674,13 @@ window.HUB = {
     "KADOKAWA"
    ],
    "url": "list.html?g=all#cal_16609471",
-   "cat": "写真集·杂志"
+   "cat": "写真集·杂志",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://books.rakuten.co.jp/rb/16609471/",
+    "note": "原资料链接未能确认当前纸质书库存。"
+   }
   },
   {
    "title": "日历写真书 2023.04–2024.03",
@@ -2391,7 +2692,13 @@ window.HUB = {
     "东京新闻出版·TV指南"
    ],
    "url": "list.html?g=all#cal_17434046",
-   "cat": "写真集·杂志"
+   "cat": "写真集·杂志",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://zasshi.tv/products/24058/",
+    "note": "出版社保留商品及旧活动资料，未核实当前库存；活动结束不等于商品售罄。"
+   }
   },
   {
    "title": "日历写真书 2024.04–2025.03",
@@ -2403,7 +2710,13 @@ window.HUB = {
     "东京新闻出版·TV指南"
    ],
    "url": "list.html?g=all#cal_17792666",
-   "cat": "写真集·杂志"
+   "cat": "写真集·杂志",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://zasshi.tv/products/35361/",
+    "note": "出版社保留商品及旧活动资料，未核实当前库存；活动结束不等于商品售罄。"
+   }
   },
   {
    "title": "日历写真书 2025.04–2026.03",
@@ -2415,7 +2728,13 @@ window.HUB = {
     "20代最后一本日历书"
    ],
    "url": "list.html?g=all#e103",
-   "cat": "写真集·杂志"
+   "cat": "写真集·杂志",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://zasshi.tv/products/49756/",
+    "note": "出版社保留商品及旧活动资料，未核实当前库存；活动结束不等于商品售罄。"
+   }
   },
   {
    "title": "音乐剧《薄樱鬼》HAKU-MYU LIVE 2",
@@ -2453,7 +2772,13 @@ window.HUB = {
      "href": "assets/img/ext/3db545a9b811b627.jpg"
     }
    ],
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://www.kamen-rider-official.com/news_articles/3268",
+    "note": "官方商品资料可读取，但未见可确认的当前库存。"
+   }
   },
   {
    "title": "猫纹样饰品（项链 · 戒指 · 耳饰）",
@@ -2483,7 +2808,13 @@ window.HUB = {
      "href": "assets/img/ext/b8f323fb33954477.jpg"
     }
    ],
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://www.kamen-rider-official.com/news_articles/3267",
+    "note": "官方商品资料可读取，但未见可确认的当前库存。"
+   }
   },
   {
    "title": "刀舞 十周年纪念周边",
@@ -2522,7 +2853,13 @@ window.HUB = {
      "img": "assets/img/ext/a379b24c19c31049.jpg",
      "href": "assets/img/ext/a379b24c19c31049.jpg"
     }
-   ]
+   ],
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://www.stage-toukenranbu.jp/goods/10th/",
+    "note": "官网仍保留商品目录，未核实当前通贩库存。"
+   }
   },
   {
    "title": "Hero T恤 附限定Ride Exs（Maou款）",
@@ -2552,7 +2889,13 @@ window.HUB = {
      "href": "assets/img/ext/2feb25018de9885d.jpg"
     }
    ],
-   "work": "骑士"
+   "work": "骑士",
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "",
+    "note": "未找到对应的官方商品销售页。"
+   }
   },
   {
    "date": "2027-03-01",
@@ -2574,7 +2917,13 @@ window.HUB = {
      "img": "assets/img/ext/cookie_mitsutada.jpg",
      "href": "assets/img/ext/cookie_mitsutada.jpg"
     }
-   ]
+   ],
+   "saleReview": {
+    "checked": "2026-11-20",
+    "state": "unknown",
+    "source": "https://p-bandai.jp/item/item-1000260979/",
+    "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
+   }
   }
  ],
  "channels": {

@@ -15,7 +15,25 @@
   nav.innerHTML=['home','now','works','goods','more'].map(k=>k==='more'?`<button type="button" aria-label="更多资料入口" aria-haspopup="dialog" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true">${icons[k]}</svg><span>更多</span></button>`:`<a href="${paths[k]}"${current===k?' aria-current="page"':''}><svg viewBox="0 0 24 24" aria-hidden="true">${icons[k]}</svg><span>${k==='goods'?'收藏':labels[k]}</span></a>`).join('');
   document.body.append(nav);
   const dialog=document.createElement('dialog');dialog.className='archive-menu';dialog.setAttribute('aria-labelledby','archive-menu-title');
-  dialog.innerHTML='<h2 id="archive-menu-title">探索档案</h2><div class="menu-links">'+[['音像资料','list.html?g=audio'],['视频资料',paths.videos],['个人资料',paths.about],['演艺年表','list.html?g=all'],['完整日程','list.html?g=schedule'],['杂志档案','list.html?g=mag'],['写真与出版','list.html?g=photo'],['采访与连载','list.html?g=int'],['广播与节目','list.html?g=radio']].map(([t,u])=>`<a href="${u}">${t}</a>`).join('')+'</div><button type="button">关闭</button>';
+  const menuGroups=[
+    ['查资料',[
+      ['完整日程','公演、活动与发行安排','list.html?g=schedule'],
+      ['消息更新','新公布的消息','index.html?view=now&tab=news'],
+      ['音像资料','CD、DVD、Blu-ray','list.html?g=audio'],
+      ['视频资料','演出、访谈与歌唱翻唱',paths.videos],
+      ['杂志档案','封面与期号','list.html?g=mag'],
+      ['写真与出版','写真集、日历与书籍','list.html?g=photo'],
+      ['采访与连载','对谈、文字与摄影','list.html?g=int'],
+      ['广播与节目','广播出演与回放','list.html?g=radio'],
+      ['演艺年表','按年份查经历','list.html?g=all']
+    ]],
+    ['认识东酱',[
+      ['个人资料','基本信息与经历',paths.about],
+      ['东酱说','收录的话与访谈片段',paths.about+'#says'],
+      ['官方渠道','本人账号与FC入口',paths.about+'#links']
+    ]]
+  ];
+  dialog.innerHTML='<h2 id="archive-menu-title">更多</h2><p class="menu-intro">按想找的资料进入</p>'+menuGroups.map(([title,links])=>'<section class="menu-group"><h3>'+esc(title)+'</h3><div class="menu-links">'+links.map(([t,d,u])=>`<a href="${u}">${esc(t)}<small>${esc(d)}</small></a>`).join('')+'</div></section>').join('')+'<button class="menu-close" type="button">关闭</button>';
   document.body.append(dialog);
   const more=nav.querySelector('button');
   more.onclick=()=>{dialog.showModal();more.setAttribute('aria-expanded','true')};
@@ -26,12 +44,17 @@
     const view=root.dataset.view;
     if(view!=='home'&&view!=='all'){
       const heading=document.createElement('div');heading.className='wrap view-heading';
-      heading.innerHTML=`<h1>${esc(labels[view]||'档案')}</h1><p>${esc({works:'作品资料与角色造型，从这里开始找。',goods:'现有周边、商品套图与过往收藏。',now:'查近期安排，或切换查看新公布的消息。',videos:'按类型与平台浏览视频资料。',about:'基本资料、经历与官方渠道。'}[view])}</p>`;
+      heading.innerHTML=`<h1>${esc(view==='works'?'作品与角色':labels[view]||'档案')}</h1><p>${esc({works:'按作品查资料，或切到角色看造型。',goods:'按作品找周边，过往记录也收录在这里。',now:'查近期安排，或切换查看新公布的消息。',videos:'按类型与平台浏览视频资料。',about:'基本资料、经历与官方渠道。'}[view])}</p>`;
       if(view==='now')heading.innerHTML+='<nav class="near-tabs" aria-label="近况浏览方式">'+[['schedule','近况与日程'],['news','消息更新']].map(([k,t])=>`<a href="index.html?view=now&tab=${k}"${(params.get('tab')==='news'?'news':'schedule')===k?' aria-current="page"':''}>${t}</a>`).join('')+'</nav>';
-      if(view==='works')heading.innerHTML+='<nav class="near-tabs" aria-label="作品浏览方式">'+[['works','作品档案'],['roles','角色图鉴'],['cards','海报角色卡']].map(([k,t])=>`<a href="index.html?view=works&mode=${k}"${root.dataset.mode===k?' aria-current="page"':''}>${t}</a>`).join('')+'</nav>';
+      if(view==='works'){
+        const roleView=root.dataset.mode!=='works';
+        heading.innerHTML+='<nav class="near-tabs" aria-label="作品或角色"><a href="index.html?view=works&mode=works"'+(!roleView?' aria-current="page"':'')+'>作品</a><a href="index.html?view=works&mode=roles"'+(roleView?' aria-current="page"':'')+'>角色</a></nav>';
+        if(roleView)heading.innerHTML+='<nav class="view-options" aria-label="角色显示方式"><span>显示方式</span>'+[['roles','双列图鉴'],['cards','海报角色卡']].map(([k,t])=>`<a href="index.html?view=works&mode=${k}"${root.dataset.mode===k?' aria-current="page"':''}>${t}</a>`).join('')+'</nav>';
+      }
       if(view==='goods')heading.innerHTML+='<nav class="near-tabs" aria-label="收藏分类"><a href="index.html?view=goods" aria-current="page">周边图鉴</a><a href="list.html?g=audio">音像资料</a></nav>';
       document.querySelector('main').prepend(heading);
     }
+    if(view==='about'&&['profile','says','links'].includes(location.hash.slice(1)))document.querySelector('#aboutTabs [data-ab="'+location.hash.slice(1)+'"]')?.click();
     document.querySelector('.logo').href='index.html';
     document.querySelectorAll('a[href^="#"]').forEach(a=>{
       const hash=a.getAttribute('href'),id=hash.slice(1);

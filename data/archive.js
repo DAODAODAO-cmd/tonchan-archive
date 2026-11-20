@@ -15349,6 +15349,8 @@ window.ARCHIVE = {
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
      "asset": "x1d0a73cb14d03bea",
+     "hasHigashi": true,
+     "pos": "86% 50%",
      "resolution": ""
     },
     {

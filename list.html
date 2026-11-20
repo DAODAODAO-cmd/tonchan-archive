@@ -110,7 +110,7 @@ footer a{color:var(--sage)}
 <meta name="twitter:image" content="https://daodaodao-cmd.github.io/tonchan-archive/assets/img/hero-30th-afterglow.jpg">
 <style>.imgfb{width:100%;height:100%;min-height:60px;display:grid;place-items:center;background:linear-gradient(135deg,#f4ece1,#efe6f2);color:#a8917a;font-family:"Noto Serif SC","Songti SC",serif;font-size:13px;line-height:1.4;padding:8px;text-align:center;box-sizing:border-box;overflow:hidden}</style>
 <script>document.addEventListener('error',function(e){var i=e.target;if(!i||i.tagName!=='IMG'||i.dataset.fb)return;i.dataset.fb='1';var d=document.createElement('div');d.className='imgfb';var t=(i.alt||'').trim();d.textContent=t&&t.length<40?t:'東';d.style.borderRadius=getComputedStyle(i).borderRadius;i.replaceWith(d)},true)</script>
-<link rel="stylesheet" href="assets/mobile.css?v=1120r2">
+<link rel="stylesheet" href="assets/mobile.css?v=1120r13">
 </head>
 <body>
 <div class="top"><div class="wrap">
@@ -126,21 +126,21 @@ footer a{color:var(--sage)}
 </div>
 <footer><div class="wrap">东启介资讯站 · 非官方</div></footer>
 <script src="data/archive.js?v=1120q"></script>
-<script src="data/hub.js?v=1120r1"></script>
-<script src="assets/media-index.js?v=1120r1"></script><script src="assets/media.js?v=1120r1"></script><script src="assets/audio.js?v=1120r2"></script>
+<script src="data/hub.js?v=1120r13"></script>
+<script src="assets/media-index.js?v=1120r13"></script><script src="assets/media.js?v=1120r13"></script><script src="assets/audio.js?v=1120r13"></script><script src="assets/editorial-images.js?v=1120r13"></script>
 <script>
 'use strict';
 const A=window.ARCHIVE,H=window.HUB,$=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
 const fmt=d=>d?d.replaceAll('-','.'):'';
-const WORKC=['舞台','音乐会','音乐剧','朗读剧','电视剧','电影','网络剧'];const PR=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图|封面|ytimg/i;const PICK=ims=>ims.find(i=>/角色照|角色图|角色视觉|角色写真|公式照|定妆|官方角色|人物照|扮相/.test(i.caption||'')&&!/ytimg/.test(i.url||''))||ims.find(i=>/剧照|舞台照|场面照|幕后/.test(i.caption||''))||ims.find(i=>!PR.test((i.caption||'')+' '+(i.url||'')))||ims[0];const thumbOf=e=>{const ims=e.images||[];if(WORKC.includes(e.category)){if(e.cardPhoto)return {url:e.cardPhoto,caption:e.title};return PICK(ims)}return ims[0]};const imgOf=im=>im?window.archiveMediaUrl((im.asset&&A.assets[im.asset])||im.url||''):'';
+const WORKC=['舞台','音乐会','音乐剧','朗读剧','电视剧','电影','网络剧'];const PR=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图|封面|ytimg/i;const PICK=ims=>ims.find(i=>/角色照|角色图|角色视觉|角色写真|公式照|定妆|官方角色|人物照|扮相/.test(i.caption||'')&&!/ytimg/.test(i.url||''))||ims.find(i=>/剧照|舞台照|场面照|幕后/.test(i.caption||''))||ims.find(i=>!PR.test((i.caption||'')+' '+(i.url||'')))||ims[0];const thumbOf=e=>window.ARCHIVE_PICTURES.forEvent(e)[0];const imgOf=im=>im?window.archiveMediaUrl((im.asset&&A.assets[im.asset])||im.url||''):'';
 /* 分类：作品 / 媒体 / 其他 三组；ls=横版卡片 */
 const G={
   all:{t:'演艺年表',en:'ARCHIVE',d:'从出道到现在，按时间排，上面可以按类别筛。'},
   stage:{t:'舞台',en:'STAGE',cats:['舞台','朗读剧']},
   screen:{t:'影视',en:'SCREEN',cats:['电视剧','网络剧','电影','动画电影'],ls:1},
-  live:{t:'音乐会',en:'LIVE',cats:['音乐会'],ls:1},
+  live:{t:'音乐会',en:'LIVE',cats:['音乐会']},
   _1:{sep:1},
   mag:{t:'杂志',en:'MAGAZINE',cats:['杂志']},
   int:{t:'采访·连载',en:'INTERVIEW',cats:['采访／连载'],ls:1},
@@ -168,7 +168,7 @@ function tlrow(e){const im=thumbOf(e);return '<li id="'+esc(e.id)+'"><time>'+(fm
 function grouped(list,render,asc,wrapCls){const ys={};list.forEach(x=>{const y=(x._d||'').slice(0,4)||'—';(ys[y]=ys[y]||[]).push(x)});const keys=Object.keys(ys).sort((a,b)=>asc?a.localeCompare(b):b.localeCompare(a));
   $('years').innerHTML=keys.map(y=>'<a href="#y'+y+'">'+y+'</a>').join('');
   return keys.map(y=>'<section id="y'+y+'"><div class="year"><h2>'+y+'</h2><span>'+ys[y].length+' 条</span></div>'+(wrapCls==='tl'?'<ul class="tl">'+ys[y].map(render).join('')+'</ul>':'<div class="'+wrapCls+'">'+ys[y].map(render).join('')+'</div>')+'</section>').join('')}
-const VT={'全部':null,'本人歌唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访·发布会':['采访／发布会'],'节目·综艺':['节目／其他'],'SNS·直播':['SNS／直播'],'剧集cut':['剧集cut'],'幕后·花絮':['幕后／拍摄'],'预告·宣传':['预告／宣传','官网视频'],'广播':['广播／音声']};
+const VT={'全部':null,'歌唱／翻唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访·发布会':['采访／发布会'],'节目·综艺':['节目／其他'],'SNS·直播':['SNS／直播'],'剧集cut':['剧集cut'],'幕后·花絮':['幕后／拍摄'],'预告·宣传':['预告／宣传','官网视频'],'广播':['广播／音声']};
 document.addEventListener('click',e=>{const b=e.target.closest('[data-sbf]');if(b){window.sbf=b.dataset.sbf;draw()}});
 function draw(){if(window._lg!==g){window.sbf='全部';window._lg=g}document.body.dataset.g=g;document.querySelectorAll('.tabbar a[data-g]').forEach(a=>a.classList.toggle('on',a.dataset.g===g&&!a.classList.contains('main')));let html='';$('chips').innerHTML='';$('chips2').innerHTML='';$('years').innerHTML='';
   if(g==='news'){$('desc').textContent='按时间从新到旧。';const L=H.news.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>match(n.title+n.text));html='<ul class="news">'+L.map(n=>'<li><time>'+fmt(n.date)+'</time><div><a href="'+esc(window.archiveNewsUrl(n))+'"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('')+'</ul>'}
@@ -197,7 +197,7 @@ if(location.hash){setTimeout(()=>{const el=document.getElementById(decodeURIComp
 <nav class="tabbar" aria-label="快捷导航"><a href="index.html"><svg viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5"/><path d="M6.5 10v9h11v-9"/></svg><span>首页</span></a><a data-g="schedule" href="list.html?g=schedule"><svg viewBox="0 0 24 24"><rect x="4" y="5.5" width="16" height="14" rx="3"/><path d="M4 10h16M9 3.5v4M15 3.5v4"/></svg><span>日程</span></a><a class="main" data-g="all" href="list.html?g=all"><svg viewBox="0 0 24 24"><path d="M6 4.5h12M6 9.5h12M6 14.5h12M6 19.5h8"/></svg><span>编年</span></a><a data-g="videos" href="list.html?g=videos"><svg viewBox="0 0 24 24"><rect x="3.5" y="6" width="17" height="12" rx="3"/><path d="M10.5 9.5v5l4-2.5z"/></svg><span>视频</span></a><a data-g="mag" href="list.html?g=mag"><svg viewBox="0 0 24 24"><path d="M6 4.5h9l3 3v12H6z"/><path d="M9 10h6M9 14h6"/></svg><span>杂志</span></a></nav>
 <script>(function(){var g=new URLSearchParams(location.search).get('g')||'all';document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){if(a.dataset.g===g&&!a.classList.contains('main'))a.classList.add('on')});document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){a.addEventListener('click',function(e){if(window.go){e.preventDefault();history.replaceState(null,'',a.href);window.go(a.dataset.g)}})})})();</script>
 <script src="assets/visit.js" defer></script>
-<script src="assets/browse-state.js?v=1120r1"></script>
-<script src="assets/navigation.js?v=1120r2"></script>
+<script src="assets/browse-state.js?v=1120r13"></script>
+<script src="assets/navigation.js?v=1120r13"></script>
 </body>
 </html>

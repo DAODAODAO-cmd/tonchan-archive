@@ -20,10 +20,10 @@
     if(goods){
       document.documentElement.dataset.detailGroup='goods';
       document.title=goods.title+' · 东启介档案';
-      const pictures=[...(goods.image?[{img:goods.image,t:goods.title}]:[]),...(goods.items||[])];
+      const pictures=[...(goods.items||[]),...(goods.image?[{img:goods.image,t:goods.title}]:[])];
       const seen=new Set();const gallery=pictures.filter(i=>{const u=mediaUrl(i.img),key=window.ARCHIVE_MEDIA?.identity?.[u]||u;if(!key||seen.has(key))return false;seen.add(key);return true});
       const coverage=(goods.items||[]).length?`已收录 ${goods.items.length} 张商品图，点开可查看大图。`:gallery.length?'目前仅收录主图，暂无独立单品图。':'暂未收录图片，已有文字资料保留。';
-      document.getElementById('detail').innerHTML=`<article class="intro"><div class="meta">${esc(goods.dateKind||'收录日期')} ${esc(goods.date||'')} · ${esc(goods.status||'')}</div><h1>${esc(goods.title)}</h1><p>${esc([goods.price,goods.publisher].filter(Boolean).join(' · '))}</p><p class="meta">${coverage}</p>${(goods.points||[]).length?'<ul>'+goods.points.map(p=>`<li>${esc(p)}</li>`).join('')+'</ul>':''}</article>${gallery.length?'<section class="block"><h2>套图与单品</h2><div class="gallery">'+gallery.map(i=>`<figure><a class="picture" href="${esc(mediaUrl(i.img))}" target="_blank" rel="noopener noreferrer"><img src="${esc(mediaUrl(i.img))}" alt="${esc(i.t||goods.title)}" loading="lazy"></a>${i.t&&i.t!==goods.title?'<figcaption>'+esc(i.t)+'</figcaption>':''}</figure>`).join('')+'</div></section>':''}<section class="block"><details><summary>资料说明与来源</summary><div class="links">${goods.url?link(goods.url,'商品资料来源'):''}${(goods.items||[]).filter(i=>i.href).map(i=>link(i.href,i.t||'单品来源')).join('')}</div></details></section>`;
+      document.getElementById('detail').innerHTML=`<article class="intro"><div class="meta">${esc(goods.dateKind||'收录日期')} ${esc(goods.date||'')} · ${esc(window.ARCHIVE_SALES?.labels[window.ARCHIVE_SALES.collectionGroup(goods)]||'')}</div><h1>${esc(goods.title)}</h1><p>${esc([goods.price,goods.publisher].filter(Boolean).join(' · '))}</p><p class="meta">${coverage}</p>${(goods.points||[]).length?'<ul>'+goods.points.map(p=>`<li>${esc(p)}</li>`).join('')+'</ul>':''}</article>${gallery.length?'<section class="block"><h2>套图与单品</h2><div class="gallery">'+gallery.map(i=>`<figure><a class="picture" href="${esc(mediaUrl(i.img))}" target="_blank" rel="noopener noreferrer"><img src="${esc(mediaUrl(i.img))}" alt="${esc(i.t||goods.title)}" loading="lazy"></a>${i.t&&i.t!==goods.title?'<figcaption>'+esc(i.t)+(i.detailUrl?' · <a href="'+esc(i.detailUrl)+'">预约与发行详情</a>':'')+'</figcaption>':''}</figure>`).join('')+'</div></section>':''}<details class="source-foot"><summary>来源</summary><div class="links">${goods.saleReview?'<span class="meta">'+esc(goods.saleReview.checked+' 核对：'+goods.saleReview.note)+'</span>'+link(goods.saleReview.source,'销售核对来源'):''}${goods.url?link(goods.url,'商品资料来源'):''}${(goods.items||[]).filter(i=>i.href).map(i=>link(i.href,i.t||'单品来源')).join('')}</div></details>`;
       return;
     }
     const news=H.news.find(n=>n.date+'|'+n.title===params.get('news'));
@@ -43,7 +43,7 @@
   if(e.cardPoster)images.push({url:e.cardPoster,caption:'作品海报'});
   if(e.cardPhoto)images.push({url:e.cardPhoto,caption:'角色造型'});
   if(now){if(now.image)images.push({url:now.image,caption:now.imageNote});if(now.image2)images.push({url:now.image2,caption:'角色造型'})}
-  const seen=new Set();const photos=images.filter(i=>{const u=imageUrl(i),key=window.ARCHIVE_MEDIA?.identity?.[u]||u;if(!u||seen.has(key))return false;seen.add(key);return true});
+  const seen=new Set();const photos=window.ARCHIVE_PICTURES.forEvent(e).filter(i=>{const u=imageUrl(i),key=window.ARCHIVE_MEDIA?.identity?.[u]||u;if(!u||seen.has(key))return false;seen.add(key);return true});
   const videos=[...(e.videos||[]),...A.videos.filter(v=>v.rel===e.id||Array.isArray(v.rel)&&v.rel.includes(e.id))];
   const videoSeen=new Set();const uniqueVideos=videos.filter(v=>v.url&&!videoSeen.has(v.url)&&videoSeen.add(v.url));
   // Only explicit shared work keys are used; no title guesses or invented associations.
@@ -57,7 +57,7 @@
   if(e.biliSearch?.length)html+=section('B站检索','<ul class="records">'+e.biliSearch.map(v=>`<li>${link(v.url,v.title||'在B站搜索')}</li>`).join('')+'</ul>');
   if(e.playlistLinks?.length)html+=section('相关播放列表','<ul class="records">'+e.playlistLinks.map(v=>`<li>${link(v.url||v[1],v.title||v.label||v[0]||'播放列表')}</li>`).join('')+'</ul>');
   if(related.length)html+=section('同系列记录','<ul class="records">'+related.map(x=>`<li><a href="${recordUrl(x)}"><span class="meta">${esc(x.date)} · ${esc(x.category)}</span><br>${esc(x.title)}</a></li>`).join('')+'</ul>');
-  html+='<section class="block"><details><summary>资料说明与图片来源</summary>'+`<dl>${[['时间说明',e.dateKind],['核对状态',e.status],['补充记录',e.origin]].filter(([,v])=>v).map(([k,v])=>`<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}</dl>${e.pending?'<p class="meta">这条资料仍有待核对的信息，请结合原始来源查看。</p>':''}`+'<ul class="records">'+images.map(i=>`<li>${esc(i.caption||'图片资料')}${i.source?' · '+link(i.source,'来源'):''}${i.url?' · '+link(i.url,'原图来源'):''}${window.ARCHIVE_MEDIA?.sources?.[i.url]?' · '+link(window.ARCHIVE_MEDIA.sources[i.url],'补图来源'):''}</li>`).join('')+'</ul></details></section>';
+  html+='<details class="source-foot"><summary>来源</summary>'+`<dl>${[['时间说明',e.dateKind],['核对状态',e.status],['补充记录',e.origin]].filter(([,v])=>v).map(([k,v])=>`<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}</dl>${e.pending?'<p class="meta">这条资料仍有待核对的信息，请结合原始来源查看。</p>':''}`+'<ul class="records">'+images.map(i=>`<li>${esc(i.caption||'图片资料')}${i.source?' · '+link(i.source,'来源'):''}${i.url?' · '+link(i.url,'原图来源'):''}${window.ARCHIVE_MEDIA?.sources?.[i.url]?' · '+link(window.ARCHIVE_MEDIA.sources[i.url],'补图来源'):''}</li>`).join('')+'</ul></details>';
   if(audioEntry)html='<div class="links" style="margin-bottom:18px"><a href="'+esc(window.ARCHIVE_AUDIO.url(audioEntry))+'">查看音像版本与图片</a></div>'+html;
   document.getElementById('detail').innerHTML=html;
 })();

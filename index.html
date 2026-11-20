@@ -348,7 +348,7 @@ footer p{margin:4px 0}
 .g:not(.gw) .go{font-size:11.5px;padding:5px 11px;margin-top:auto}}
 </style>
 <script>document.addEventListener('error',function(e){var i=e.target;if(!i||i.tagName!=='IMG'||i.dataset.fb)return;i.dataset.fb='1';var d=document.createElement('div');d.className='imgfb';var t=(i.alt||'').trim();d.textContent=t&&t.length<40?t:'東';d.style.borderRadius=getComputedStyle(i).borderRadius;i.replaceWith(d)},true)</script>
-<link rel="stylesheet" href="assets/mobile.css?v=1120r2">
+<link rel="stylesheet" href="assets/mobile.css?v=1120r13">
 <script>
 (() => {const h=location.hash.slice(1),legacy={now:'now',upcoming:'now',news:'now',works:'works',roles:'works',goods:'goods',videos:'videos',about:'about',profile:'about',says:'about',links:'about'};const v=new URLSearchParams(location.search).get('view');document.documentElement.dataset.page='hub';const mode=new URLSearchParams(location.search).get('mode');document.documentElement.dataset.mode=mode==='cards'?'cards':mode==='roles'||h==='roles'?'roles':'works';document.documentElement.dataset.near=new URLSearchParams(location.search).get('tab')==='news'||h==='news'?'news':'schedule';document.documentElement.dataset.view=['home','now','works','goods','videos','about','all'].includes(v)?v:(legacy[h]||'home')})();
 </script>
@@ -422,9 +422,11 @@ footer p{margin:4px 0}
 
 <section class="sec" id="goods"><div class="wrap">
   <div class="sec-head"><h2><em>GOODS</em>周边</h2></div>
-  <div class="filters" id="goodsTabs"></div>
+  <div class="filters" id="goodsTabs" role="group" aria-label="作品分类"></div>
+  <p class="goods-filter-label">销售状态</p>
+  <div class="sales-filters" id="goodsSales" role="group" aria-label="销售状态"></div>
+  <p class="goods-results" id="goodsResults" aria-live="polite"></p>
   <div id="goodsNow"><div class="goods" id="goodsGrid"></div></div>
-  <div id="goodsPast" hidden><div class="pgf" id="pastFilter" style="margin-bottom:14px"></div><div class="goods past" id="pastGrid"></div></div>
 </div></section>
 
 
@@ -455,8 +457,8 @@ footer p{margin:4px 0}
 </div></footer>
 
 <script src="data/archive.js?v=1120q"></script>
-<script src="data/hub.js?v=1120r1"></script>
-<script src="assets/media-index.js?v=1120r1"></script><script src="assets/media.js?v=1120r1"></script><script src="assets/audio.js?v=1120r2"></script>
+<script src="data/hub.js?v=1120r13"></script>
+<script src="assets/media-index.js?v=1120r13"></script><script src="assets/media.js?v=1120r13"></script><script src="assets/audio.js?v=1120r13"></script><script src="assets/editorial-images.js?v=1120r13"></script><script src="assets/goods-sales.js?v=1120r13"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -482,27 +484,27 @@ $('heroStats').innerHTML=[['出道',yearsActive+'年'],['舞台',A.events.filter
 
 
 /* now */
-$('nowGrid').innerHTML=(document.documentElement.dataset.view==='home'?H.now.slice(0,1):H.now).map((n,ni)=>'<article class="card now"><div class="img'+(n.image2?' duo':'')+'">'+(n.image2?'<img src="'+esc(n.image2)+'" alt="" loading="lazy">':'')+(n.image?'<img src="'+esc(n.image)+'" alt="'+esc(n.title)+'" loading="lazy">':'')+'</div><div class="body"><span class="badge live">'+esc(n.kind)+'</span><h3>'+esc(n.title)+'</h3><p class="ja">'+esc(n.ja)+'</p><p class="role">饰 '+esc(n.role)+'</p><ul class="lines">'+n.lines.map(l=>'<li>'+esc(l)+'</li>').join('')+'</ul>'+(n.note?'<p class="note">'+esc(n.note)+'</p>':'')+'<div class="lk">'+n.links.map(([t,u])=>ext(u,t+' ↗')).join('')+'</div><a class="now-primary" href="detail.html?id='+['e78','e77'][ni]+'">查看完整资料</a></div></article>').join('');
+$('nowGrid').innerHTML=H.now.map((n,ni)=>'<article class="card now"><div class="img'+(n.image2&&document.documentElement.dataset.view!=='home'?' duo':'')+'">'+(n.image2&&document.documentElement.dataset.view!=='home'?'<img src="'+esc(n.image2)+'" alt="" loading="lazy">':'')+(n.image?'<img src="'+esc(n.image)+'" alt="'+esc(n.title)+'" loading="lazy">':'')+'</div><div class="body"><span class="badge live">'+esc(n.kind)+'</span><h3>'+esc(n.title)+'</h3><p class="ja">'+esc(n.ja)+'</p><p class="role">饰 '+esc(n.role)+'</p><ul class="lines">'+n.lines.map(l=>'<li>'+esc(l)+'</li>').join('')+'</ul>'+(n.note?'<p class="note">'+esc(n.note)+'</p>':'')+'<div class="lk">'+n.links.map(([t,u])=>ext(u,t+' ↗')).join('')+'</div><a class="now-primary" href="detail.html?id='+['e78','e77'][ni]+'">查看完整资料</a></div></article>').join('');
 $('recent').innerHTML=H.recent.map(r=>'<a class="card rc" href="'+esc(r.url)+'" target="_blank" rel="noopener noreferrer"><div class="t">'+(r.image&&r.imageBg?'<div style="width:100%;height:100%;background:url(&quot;'+esc(r.image)+'&quot;) '+esc(r.imageBg)+' no-repeat"></div>':r.image?'<img src="'+esc(r.image)+'" alt="" loading="lazy">':'東')+'</div><div><span>刚结束 · '+esc(r.date)+'</span><b>'+esc(r.title)+'</b><span>饰 '+esc(r.role)+'</span></div></a>').join('');
 
 /* upcoming：从编年档案自动读取未来/进行中的条目 */
 /* 去重：近况卡已写的作品（NOWK）不进即将到来；同一主题的多条日程合并成一条 */
 const NOWK=['陽伝'];const upKey=t=>{const b=(t.match(/^《(.+?)》/)||[])[1];return b?b.slice(0,4):/写真集/.test(t)?'写真集':t.slice(0,4)};
 const up0=A.events.filter(e=>e.date>today).filter(e=>!/联动|轨迹展|感謝の宴|放送|配信/.test(e.title)).filter(e=>!NOWK.some(k=>e.title.includes(k))).sort((a,b)=>a.date.localeCompare(b.date));
-const upSeen={};const up=[];up0.forEach(e=>{const k=upKey(e.title);if(upSeen[k]){upSeen[k]._more=(upSeen[k]._more||0)+1;upSeen[k]._last=e.date;return}upSeen[k]=e;up.push(e)});up.splice(document.documentElement.dataset.view==='home'?3:5);
+const upSeen={};const up=[];up0.forEach(e=>{const k=upKey(e.title);if(upSeen[k]){upSeen[k]._more=(upSeen[k]._more||0)+1;upSeen[k]._last=e.date;return}upSeen[k]=e;up.push(e)});up.splice(document.documentElement.dataset.view==='home'&&MOB?3:5);
 const UPK=up.map(e=>upKey(e.title));
 $('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="detail.html?id='+encodeURIComponent(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+(e._more?'另有 '+e._more+' 场相关活动（至 '+fmt(e._last)+'）':esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese))+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
 
 /* news */
 const SHOPRE=/amazon\.|rakuten|mercari|fujisan|hmv\.co|7net|suruga|yahoo|tower\.jp/;const NEWS=H.news.filter(n=>!['杂志','采访'].includes(n.tag)).concat(A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today&&e.date>=H.news.map(n=>n.date).sort()[0]).map(e=>({date:e.date,tag:e.category==='杂志'?'杂志':'采访',title:e.title,text:'',url:SHOPRE.test(e.url||'')?'list.html?g=all#'+e.id:e.url})));/* 动态去重：近况卡和即将到来已经写到的事，非杂志/采访类消息不再重复列出 */const DUPK=[...NOWK,'麦斯》开播','十二支十色',...UPK];const NEWSH=NEWS.filter(n=>['杂志','采访'].includes(n.tag)||!DUPK.some(k=>n.title.includes(k)));const tags=['全部',...new Set(NEWSH.map(n=>n.tag))];let curTag='全部';
-function drawNews(){$('newsList').innerHTML=NEWSH.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,document.documentElement.dataset.view==='home'?3:(MOB?5:8)).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(window.archiveNewsUrl(n))+'"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
+function drawNews(){$('newsList').innerHTML=NEWSH.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,document.documentElement.dataset.view==='home'&&MOB?3:(MOB?5:8)).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(window.archiveNewsUrl(n))+'"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
 $('newsFilters').onclick=e=>{const b=e.target.closest('button');if(b){curTag=b.dataset.t;drawNews()}};drawNews();
 
 /* works：按类别分组 */
 const groups=[
   {k:'stage',t:'舞台',cats:['舞台','朗读剧']},
   {k:'screen',t:'影视',cats:['电视剧','网络剧','电影','动画电影'],poster:1},
-  {k:'live',t:'音乐会',cats:['音乐会'],ls:1},
+  {k:'live',t:'音乐会',cats:['音乐会']},
   {k:'mag',t:'杂志',cats:['杂志']},
   {k:'int',t:'采访·连载',cats:['采访／连载'],ls:1},
   {k:'own',t:'本人摄影·随笔',cats:['本人摄影／随笔'],ls:1},
@@ -513,14 +515,14 @@ const groups=[
 ];
 let curG='stage';
 function drawWorks(){const g=groups.find(x=>x.k===curG);$('worksGrid').className='works'+(g.ls?' ls':'');const all=A.events.filter(e=>g.cats.includes(e.category)&&(g.k!=='photo'||!window.ARCHIVE_AUDIO.isEvent(e))).sort((a,b)=>b.date.localeCompare(a.date));
-  const withImg=all.filter(e=>e.images&&e.images.length&&e.date<=today||e.images&&e.images.length&&e.date>today);const NW=MOB?4:6;let pick=withImg.slice(0,NW);if(pick.length<NW)pick=pick.concat(all.filter(e=>!pick.includes(e)).slice(0,NW-pick.length));pick.sort((a,b)=>b.date.localeCompare(a.date));
-  $('worksGrid').innerHTML=pick.map(e=>{const ims=e.images||[];const PR=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图/i;const PRX=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图|封面|ytimg/i;const wk=g.poster||['stage','live'].includes(g.k);const im=wk?(e.cardPhoto?{url:e.cardPhoto,caption:e.title}:(ims.find(i=>/角色照|角色图|角色视觉|角色写真|公式照|定妆|官方角色|人物照|扮相/.test(i.caption||'')&&!/ytimg/.test(i.url||''))||ims.find(i=>/剧照|舞台照|场面照|幕后/.test(i.caption||''))||ims.find(i=>!PRX.test((i.caption||'')+' '+(i.url||'')))||ims[0])):ims[0];return '<a class="card w" href="detail.html?id='+encodeURIComponent(e.id)+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.sub?'·'+esc(e.sub):'')+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
+  const withImg=all.filter(e=>window.ARCHIVE_PICTURES.forEvent(e).length);const NW=MOB?4:6;let pick=withImg.slice(0,NW);if(pick.length<NW)pick=pick.concat(all.filter(e=>!pick.includes(e)).slice(0,NW-pick.length));pick.sort((a,b)=>b.date.localeCompare(a.date));
+  $('worksGrid').innerHTML=pick.map(e=>{const im=window.ARCHIVE_PICTURES.forEvent(e)[0];return '<a class="card w" href="detail.html?id='+encodeURIComponent(e.id)+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.sub?'·'+esc(e.sub):'')+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
   $('worksMore').href=$('worksMore2').href='list.html?g='+curG;$('worksMore2').textContent='查看全部 '+all.length+' 条 '+g.t+' →';
   $('workTabs').innerHTML=groups.map(x=>'<button class="'+(x.k===curG?'on':'')+'" data-k="'+x.k+'">'+x.t+'<small>'+A.events.filter(e=>x.cats.includes(e.category)).length+'</small></button>').join('')}
 $('workTabs').onclick=e=>{const b=e.target.closest('button');if(b){curG=b.dataset.k;drawWorks()}};drawWorks();
 
 /* videos */
-const VT={'全部':null,'本人歌唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访':['采访／发布会'],'节目·综艺':['节目／其他'],'SNS·直播':['SNS／直播'],'剧集cut':['剧集cut'],'幕后':['幕后／拍摄']};let curV='全部',curP='全平台';
+const VT={'全部':null,'歌唱／翻唱':['本人歌唱'],'舞台·演出':['舞台／剧集','演出／歌唱'],'采访':['采访／发布会'],'节目·综艺':['节目／其他'],'SNS·直播':['SNS／直播'],'剧集cut':['剧集cut'],'幕后':['幕后／拍摄']};let curV='全部',curP='全平台';
 function vdate(v){return v.contentDate||v.uploadDate||(v.years&&v.years[0])||''}
 function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(v.type))&&(curP==='全平台'||(v.platform||'YouTube')===curP)).sort((a,b)=>vdate(b).localeCompare(vdate(a))).slice(0,MOB?4:8);
   $('vidGrid').innerHTML=list.map(v=>{const th=v.asset&&A.assets[v.asset]||v.thumbnail;return '<a class="card v" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="th">'+(th?'<img src="'+esc(th)+'" alt="" loading="lazy">':'<div class="bili">'+esc(v.platform||'video')+'</div>')+'<span class="pf">'+esc(v.platform||'YouTube')+'</span></div><div class="b"><b>'+esc(v.title)+'</b><small>'+esc(v.channel)+(v.previewLabel?' · '+esc(v.previewLabel):'')+(vdate(v)?' · '+esc(fmt(vdate(v))):'')+'</small></div></a>'}).join('');
@@ -528,13 +530,25 @@ function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(
 $('vidTabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.k)curV=b.dataset.k;if(b.dataset.p)curP=b.dataset.p;drawVids()};drawVids();
 
 /* goods */
-const isShop=u=>/amazon\.|hmv\.co\.jp|7net\.omni7|booth\.pm|shop\.tv-tokyo|p-bandai|bandai\.co\.jp\/item|toei-onlinestore|rakuten|animate-onlineshop|mercari|suruga-ya|tohoentertainmentonline|lifetunes|premium-bandai|shop\.|store\./i.test(u||'');const gcard=g=>{const arch=/^list\.html|^archive\.html/.test(g.url||'');return '<article class="card g'+(g.items&&g.items.length>=4?' gw':'')+'"><a class="img" href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy"'+(g.imagePos?' style="object-fit:cover;object-position:'+esc(g.imagePos)+'"':'')+'>':'<span class="ph">'+esc(g.publisher)+'</span>')+'</a><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span> ':'')+'<span class="gt">'+esc(wk(g)+(g.cat&&g.cat!=='周边'?' · '+g.cat.replace('写真集·杂志','写真集'):''))+'</span><h3><a href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">'+esc(g.title)+'</a></h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div>'+((g.points||[]).length?'<ul>'+g.points.slice(0,2).map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>':'')+(g.items&&g.items.length?'<div class="gi'+(g.items.length>12?' gis':'')+'">'+g.items.map(i=>(i.href?'<a href="'+esc(i.href)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'">':'<div title="'+esc(i.t)+'">')+'<img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+'</span>'+(i.href?'</a>':'</div>')).join('')+'</div>':'')+(!g.url||isShop(g.url)?'':arch?'<a class="go" href="'+esc(g.url)+'">编年详情 →</a>':'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方页面 ↗</a>')+'<a class="goods-detail" href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">查看套图与详情</a></div></article>'};
+const isShop=u=>/amazon\.|hmv\.co\.jp|7net\.omni7|booth\.pm|shop\.tv-tokyo|p-bandai|bandai\.co\.jp\/item|toei-onlinestore|rakuten|animate-onlineshop|mercari|suruga-ya|tohoentertainmentonline|lifetunes|premium-bandai|shop\.|store\./i.test(u||'');const gcard=g=>{const arch=/^list\.html|^archive\.html/.test(g.url||'');return '<article class="card g'+(g.items&&g.items.length>=4?' gw':'')+'"><a class="img" href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy"'+(g.imagePos?' style="object-fit:cover;object-position:'+esc(g.imagePos)+'"':'')+'>':'<span class="ph">'+esc(g.publisher)+'</span>')+(g._saleLabel?'<span class="chip-s">'+esc(g._saleLabel)+'</span>':'')+(g.bday?'<span class="chip-b">生日</span>':'')+'</a><div class="b">'+(g.date?'<span class="badge">'+fmt(g.date)+'</span> ':'')+'<span class="gt">'+esc(wk(g)+(g.cat&&g.cat!=='周边'?' · '+g.cat.replace('写真集·杂志','写真集'):''))+'</span><h3><a href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">'+esc(g.title)+'</a></h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div>'+((g.points||[]).length?'<ul>'+g.points.slice(0,2).map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>':'')+(g.items&&g.items.length?'<div class="gi'+(g.items.length>12?' gis':'')+'">'+g.items.filter(i=>i.img&&!i.hiddenFromCharacterCatalogue).map(i=>(i.href?'<a href="'+esc(i.href)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'">':'<div title="'+esc(i.t)+'">')+'<img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+'</span>'+(i.href?'</a>':'</div>')).join('')+'</div>':'')+(!g.url||isShop(g.url)?'':arch?'<a class="go" href="'+esc(g.url)+'">编年详情 →</a>':'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方页面 ↗</a>')+'<a class="goods-detail" href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">查看套图与详情</a></div></article>'};
 const WK=['骑士','刀舞','舞台','影视','音乐','个人'];const wk=g=>g.work||(/Maou|麦斯|华武利|假面骑士|十二支/.test(g.title)?'骑士':/刀舞|刀剑乱舞|陽伝/.test(g.title)?'刀舞':/我喜欢的他|我家女儿|Fight Song|大叔的内裤|推しTV|薄墨樱|电影|蓝色监狱/.test(g.title)?'影视':/JBB|妖～|AYAKASHI/.test(g.title)?'音乐':/舞台|音乐剧|网球王子|薄樱鬼|TRUMP|飙速|5DAYS|SLAZY|Marigold|グランギニョル|王者天下|泽西|八云/.test(g.title)?'舞台':'个人');
-const GT=['全部',...WK,'过往周边'];let gt='全部',gexp=false;function drawGoods(){$('goodsTabs').innerHTML=GT.map(t=>'<button class="'+(t===gt?'on':'')+'" data-gt="'+t+'">'+t+'</button>').join('');const past=gt==='过往周边';$('goodsNow').hidden=past;$('goodsPast').hidden=!past;if(past)return;const L=H.goods.filter(g=>!window.ARCHIVE_AUDIO.isGoods(g)).filter(g=>gt==='全部'||wk(g)===gt).sort((a,b)=>(b.date||'0').localeCompare(a.date||'0'));const cut=gt==='全部'&&!gexp&&L.length>8;$('goodsGrid').innerHTML=(cut?L.slice(0,8):L).map(gcard).join('')+(cut?'<button class="gmore" data-gmore="1">展开全部 '+L.length+' 件 ↓</button>':'')||'<div class="empty">暂无</div>'}document.addEventListener('click',e=>{const b=e.target.closest('[data-gt]');if(b){gt=b.dataset.gt;gexp=false;drawGoods()}if(e.target.closest('[data-gmore]')){gexp=true;drawGoods()}});drawGoods();
-
-/* past goods */
-let pf='全部';function drawPast(){const L=(H.pastGoods||[]).filter(g=>!window.ARCHIVE_AUDIO.isGoods(g)).filter(g=>pf==='全部'||(pf==='生日'?g.bday:pf==='舞台'?g.stage:!g.bday&&!g.stage)).sort((a,b)=>b.date.localeCompare(a.date));$('pastFilter').innerHTML=['全部','个人','舞台','生日'].map(x=>'<button class="'+(x===pf?'on':'')+'" data-pf="'+x+'">'+(x==='生日'?'🎂 生日限定':x)+'</button>').join('');$('pastGrid').innerHTML=L.map(g=>'<article class="card g"><a class="img" href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy">':'<span class="ph">'+esc(g.title)+'</span>')+'<span class="chip-s">'+esc(g.status)+'</span>'+(g.bday?'<span class="chip-b">🎂 生日</span>':'')+'</div><div class="b"><span class="badge">'+fmt(g.date)+'</span><h3><a href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">'+esc(g.title)+'</a></h3><div class="meta">'+esc(g.price)+'</div><ul>'+g.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>'+(g.items&&g.items.length?'<div class="gi'+(g.items.length>12?' gis':'')+'">'+g.items.map(i=>(i.href?'<a href="'+esc(i.href)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'">':'<div title="'+esc(i.t)+'">')+'<img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+'</span>'+(i.href?'</a>':'</div>')).join('')+'</div>':'')+''+(isShop(g.url)?'':'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方公告 ↗</a>')+'<a class="goods-detail" href="detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title)+'">查看套图与详情</a></div></article>').join('')}
-document.addEventListener('click',e=>{const b=e.target.closest('[data-pf]');if(b){pf=b.dataset.pf;drawPast()}});drawPast();
+const GT=['全部',...WK];let gt='全部',goodsStatus='available',gexp=false;
+function drawGoods(){
+  const sale=window.ARCHIVE_SALES;
+  $('goodsTabs').innerHTML=GT.map(t=>'<button class="'+(t===gt?'on':'')+'" data-gt="'+t+'" aria-pressed="'+(t===gt)+'">'+t+'</button>').join('');
+  const category=sale.records().filter(g=>gt==='全部'||wk(g)===gt||(gt==='音乐'&&/音乐会|演唱会|Concert|Connecting Puzzles|A NEW ME/i.test(g.title)));
+  $('goodsSales').innerHTML=Object.entries(sale.labels).map(([key,label])=>'<button type="button" data-gstatus="'+key+'" aria-pressed="'+(goodsStatus===key)+'">'+label+'</button>').join('');
+  const list=category.filter(g=>g._saleKeys.includes(goodsStatus)).sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+  $('goodsResults').textContent=list.length+' 条周边'+(' · '+sale.labels[goodsStatus]);
+  const cut=gt==='全部'&&!gexp&&list.length>8;
+  $('goodsGrid').innerHTML=(cut?list.slice(0,8):list).map(gcard).join('')+(cut?'<button class="gmore" data-gmore="1">展开全部 '+list.length+' 件</button>':'')||'<div class="empty">'+('这个分类暂无“'+sale.labels[goodsStatus]+'”记录。')+'</div>';
+}
+document.addEventListener('click',event=>{
+  const category=event.target.closest('[data-gt]'),status=event.target.closest('[data-gstatus]');
+  if(category){gt=category.dataset.gt;gexp=false;drawGoods()}
+  if(status){goodsStatus=status.dataset.gstatus;gexp=false;drawGoods()}
+  if(event.target.closest('[data-gmore]')){gexp=true;drawGoods()}
+});drawGoods();
 
 /* profile */
 $('facts').innerHTML=P.facts.map(([a,b])=>'<dt>'+esc(a)+'</dt><dd>'+esc(b)+'</dd>').join('');
@@ -568,12 +582,12 @@ const isRole=c=>/角色|人物|演员照|剧照|舞台照|定装|扮相|Will|宣
 const isPoster=c=>/海报|主视觉|场刊|封面|视觉|DVD/.test(c||'');
 const L=A.events.filter(e=>RC.includes(e.category)&&e.roleRoma&&!e.cardHide&&e.date<=today).sort((a,b)=>a.date.localeCompare(b.date));
 const hash=s=>{let h=0;for(const ch of s)h=(h*31+ch.charCodeAt(0))>>>0;return h};
-$('roleStrip').innerHTML=L.map(e=>{const ims=(e.images||[]).map(i=>({u:imgOf(i),c:i.caption||''}));const po=e.cardPoster||(ims.find(i=>/海报|宣传单/.test(i.c))||ims.find(i=>/主视觉/.test(i.c))||ims.find(i=>isPoster(i.c)&&!/角色/.test(i.c))||{}).u||'';const stg=['舞台','朗读剧'].includes(e.category);const ro=e.cardNoPhoto?'':e.cardPhoto||(ims.find(i=>i.u!==po&&(stg?/剧照|舞台照/.test(i.c):false))||ims.find(i=>i.u!==po&&isRole(i.c))||{}).u||'';const fam=(e.key||e.workRoma.split(' ')[0]);const p=PAL[hash(fam)%PAL.length];const words=e.roleRoma.split(' ');const fs=Math.min(34,Math.floor(280/(0.68*Math.max(...words.map(x=>x.length)))));const work=e.title.replace(/[《》]/g,'').replace(/^(音乐剧|百老汇音乐剧|摇滚音乐剧|电影|真人电影)/,'');const rn=e.roleName||e.role;
+$('roleStrip').innerHTML=L.map(e=>{const selected=window.ARCHIVE_PICTURES.forEvent(e);const po=imgOf(selected.find(window.ARCHIVE_PICTURES.isPoster));const ro=e.cardNoPhoto?'':imgOf(selected.find(i=>!window.ARCHIVE_PICTURES.isPoster(i)));const fam=(e.key||e.workRoma.split(' ')[0]);const p=PAL[hash(fam)%PAL.length];const words=e.roleRoma.split(' ');const fs=Math.min(34,Math.floor(280/(0.68*Math.max(...words.map(x=>x.length)))));const work=e.title.replace(/[《》]/g,'').replace(/^(音乐剧|百老汇音乐剧|摇滚音乐剧|电影|真人电影)/,'');const rn=e.roleName||e.role;
 return '<a class="rl" href="detail.html?id='+encodeURIComponent(e.id)+'" style="--c1:'+p[0]+';--c2:'+p[1]+'"><div class="rl-band"></div><div class="rl-pst">'+(po?'<img src="'+esc(po)+'" alt="" loading="lazy">':'')+'</div><div class="rl-yr">'+e.date.slice(0,4)+'</div><div class="rl-dv"><span>✦</span><i></i><span>✦</span></div><div class="rl-nm">'+words.map(w=>'<b style="font-size:'+fs+'px">'+esc(w)+'</b>').join('')+'<small>'+esc(e.workRoma)+'</small></div><div class="rl-wk"><b>'+esc(work)+'</b></div><div class="rl-ph">'+(ro&&e.cardPhotoBg?'<div role="img" aria-label="'+esc(rn)+'" style="height:100%;background:url(&quot;'+esc(ro)+'&quot;) '+esc(e.cardPhotoBg)+' no-repeat"></div>':ro?'<img src="'+esc(ro)+'" alt="'+esc(rn)+'" loading="lazy"'+(e.cardPhotoPos?' style="object-position:'+esc(e.cardPhotoPos)+'"':'')+'>':'<div class="rl-empty">'+esc(rn)+'</div>')+'</div><div class="rl-lb">'+esc(rn)+'</div></a>'}).join('');
 (function(){const TY=e=>['舞台','朗读剧'].includes(e.category)?'舞台':'影视';const R=L.slice().reverse();let f='全部',all=false;const ch=['全部','舞台','影视'];
 const draw=()=>{const xs=R.filter(e=>f==='全部'||TY(e)===f);const show=all?xs:xs.slice(0,6);
 $('roleChips').innerHTML=ch.map(c=>'<button type="button" class="'+(c===f?'on':'')+'" data-f="'+c+'">'+c+' '+R.filter(e=>c==='全部'||TY(e)===c).length+'</button>').join('');
-$('roleGrid').innerHTML=show.map(e=>{const ims=(e.images||[]).map(i=>({u:imgOf(i),c:i.caption||''}));const po=e.cardPoster||(ims.find(i=>isPoster(i.c))||{}).u||'';const stg=['舞台','朗读剧'].includes(e.category);const ro=e.cardNoPhoto?'':e.cardPhoto||(ims.find(i=>stg&&/剧照|舞台照/.test(i.c))||ims.find(i=>isRole(i.c))||ims.find(i=>!isPoster(i.c))||{}).u||'';const im=ro||po;const p=PAL[hash(e.key||e.workRoma.split(' ')[0])%PAL.length];const m=(e.role||'').split('／')[0].match(/^([^（]+)(?:（([^，）]+)[^）]*）)?/)||[];const rn=e.roleName||m[1]||e.role||'';const work=e.title.replace(/[《》]/g,'').replace(/^(音乐剧|百老汇音乐剧|摇滚音乐剧|电影|真人电影)/,'');
+$('roleGrid').innerHTML=show.map(e=>{const selected=window.ARCHIVE_PICTURES.forEvent(e);const po=imgOf(selected.find(window.ARCHIVE_PICTURES.isPoster));const ro=e.cardNoPhoto?'':imgOf(selected.find(i=>!window.ARCHIVE_PICTURES.isPoster(i)));const im=ro||po;const p=PAL[hash(e.key||e.workRoma.split(' ')[0])%PAL.length];const m=(e.role||'').split('／')[0].match(/^([^（]+)(?:（([^，）]+)[^）]*）)?/)||[];const rn=e.roleName||m[1]||e.role||'';const work=e.title.replace(/[《》]/g,'').replace(/^(音乐剧|百老汇音乐剧|摇滚音乐剧|电影|真人电影)/,'');
 return '<a class="rg" href="detail.html?id='+encodeURIComponent(e.id)+'" style="--c1:'+p[0]+';--c2:'+p[1]+'"><div class="ph">'+(im?'<img src="'+esc(im)+'" alt="'+esc(rn)+'" loading="lazy"'+(ro&&e.cardPhotoPos?' style="object-position:'+esc(e.cardPhotoPos)+'"':'')+'>':'<div class="no">'+esc(rn)+'</div>')+'<span class="yr">'+e.date.slice(0,4)+'</span></div><div class="b"><b>'+esc(rn)+'</b>'+(m[2]&&m[2]!==rn?'<small>'+esc(m[2])+'</small>':'')+'<span>'+esc(work)+'</span></div></a>'}).join('');
 const mb=$('roleMore');mb.hidden=xs.length<=6;mb.textContent=all?'收起':'查看全部 '+xs.length+' 个角色'};
 $('roleChips').onclick=ev=>{const b=ev.target.closest('[data-f]');if(b){f=b.dataset.f;all=false;draw()}};$('roleMore').onclick=()=>{all=!all;draw();if(!all)$('roles').scrollIntoView()};draw()})();
@@ -584,7 +598,8 @@ const st=$('roleStrip');$('rPrev').onclick=()=>st.scrollBy({left:-st.clientWidth
 <script>(function(){const T=document.getElementById('aboutTabs');function show(k){document.querySelectorAll('#about .ab').forEach(d=>d.hidden=d.id!==k);T.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.ab===k))}T.onclick=e=>{const b=e.target.closest('button');if(b)show(b.dataset.ab)};document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(a){const k=a.getAttribute('href').slice(1);if(['profile','says','links'].includes(k)){e.preventDefault();show(k);document.getElementById('about').scrollIntoView({behavior:'smooth'})}}});})();</script>
 <script>(function(){const b=document.getElementById('moreBtn'),sh=document.getElementById('sheet');if(!b)return;const set=o=>{sh.hidden=!o;b.setAttribute('aria-expanded',o)};b.onclick=()=>set(sh.hidden);sh.addEventListener('click',e=>{if(e.target.closest('[data-close],a'))set(false)})})();</script>
 <script src="assets/visit.js" defer></script>
-<script src="assets/browse-state.js?v=1120r1"></script>
-<script src="assets/navigation.js?v=1120r2"></script>
+<script src="assets/role-preview.js?v=1120r13"></script>
+<script src="assets/browse-state.js?v=1120r13"></script>
+<script src="assets/navigation.js?v=1120r13"></script>
 </body>
 </html>
