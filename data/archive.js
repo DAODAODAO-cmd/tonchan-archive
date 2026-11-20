@@ -7666,12 +7666,40 @@ window.ARCHIVE = {
    "role": "夏洛克·福尔摩斯（シャーロック・ホームズ）",
    "crew": "",
    "key": "",
-   "url": "https://sato-ryuji.com/contents/370307",
-   "note": "企划全期6月17–21日；东启介×桥本祥平为6月20日18:00。",
+   "url": "http://www.shachu.com/scarlet/",
+   "note": "文化放送×东映的晨间广播《あさステ！》特别企划，五位主持人各请一位嘉宾演两人朗读剧，原作柯南·道尔《血字的研究》，脚本・演出毛利亘宏（少年社中）。无观众、在剧场里直播，演完接着和嘉宾做后谈。他是6月20日18:00场，嘉宾桥本祥平。之后7月2日21:00在「あさステ！チャンネル」重播。",
    "status": "",
    "origin": "",
    "dateKind": "东启介出演日",
    "images": [
+    {
+     "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_01.jpg",
+     "caption": "6/20 东启介×桥本祥平场 舞台照",
+     "source": "http://www.shachu.com/scarlet/",
+     "asset": "x0b17b6dcfb094c97",
+     "hasHigashi": true
+    },
+    {
+     "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_02.jpg",
+     "caption": "6/20 东启介×桥本祥平场 舞台照",
+     "source": "http://www.shachu.com/scarlet/",
+     "asset": "x2623b89587d2a9ab",
+     "hasHigashi": true
+    },
+    {
+     "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_03.jpg",
+     "caption": "6/20 东启介×桥本祥平场 舞台照",
+     "source": "http://www.shachu.com/scarlet/",
+     "asset": "xceb3ec10ff7cb9d4",
+     "hasHigashi": true
+    },
+    {
+     "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_04.jpg",
+     "caption": "6/20 东启介×桥本祥平场 舞台照",
+     "source": "http://www.shachu.com/scarlet/",
+     "asset": "xbfc8f229f92eb097",
+     "hasHigashi": true
+    },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
      "caption": "角色照：夏洛克",
@@ -7683,16 +7711,22 @@ window.ARCHIVE = {
      "caption": "主视觉",
      "source": "官方",
      "asset": "xe92974dbd26b3d1b"
-    },
-    {
-     "url": "https://sato-ryuji.com/assets/satoryuji/app/og_image.png",
-     "caption": "文章配图",
-     "source": "https://sato-ryuji.com/contents/370307",
-     "asset": "17ef63bf09c3596f",
-     "resolution": "1200 × 630"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "本人X：开演前「まもなく緋色の研究！！始まるぞ！」",
+     "url": "https://x.com/keisuke_higashi/status/1274262807127580672"
+    },
+    {
+     "title": "よるステ！官方X：演出结束感谢＋剧照",
+     "url": "https://x.com/_yrust_/status/1274303138875367424"
+    },
+    {
+     "title": "文化放送：「あさステ！チャンネル」期间限定重播消息",
+     "url": "https://www.joqr.co.jp/article/detail/post_477.php"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
@@ -39959,7 +39993,11 @@ window.ARCHIVE = {
   "x38738a983f5fa139": "assets/img/ext/38738a983f5fa139.jpg",
   "xbf163ff666f86806": "assets/img/ext/bf163ff666f86806.jpg",
   "xe1794eeee035d322": "assets/img/ext/e1794eeee035d322.jpg",
-  "x6de087a4b36522d0": "assets/img/ext/6de087a4b36522d0.jpg"
+  "x6de087a4b36522d0": "assets/img/ext/6de087a4b36522d0.jpg",
+  "x0b17b6dcfb094c97": "assets/img/ext/0b17b6dcfb094c97.jpg",
+  "x2623b89587d2a9ab": "assets/img/ext/2623b89587d2a9ab.jpg",
+  "xceb3ec10ff7cb9d4": "assets/img/ext/ceb3ec10ff7cb9d4.jpg",
+  "xbfc8f229f92eb097": "assets/img/ext/bfc8f229f92eb097.jpg"
  },
  "biliLeads": [
   {
