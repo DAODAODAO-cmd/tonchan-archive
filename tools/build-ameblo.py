@@ -67,6 +67,18 @@ entries.sort(key=lambda e: e['date'])
 known = json.load(open(os.path.join(ROOT, 'tools', 'ameblo-missing.json'), encoding='utf-8'))
 have = {e['id'] for e in entries}
 missing = [m for m in known if m['id'] not in have]
+# 只存到标题的：按文章编号在前后两篇之间插值估算日期，放进时间线
+from datetime import datetime
+pts = sorted((int(e['id']), datetime.strptime(e['date'][:16].replace('T', ' '), '%Y-%m-%d %H:%M').timestamp()) for e in entries if e['date'])
+def guess(i):
+    i = int(i); lo = max([p for p in pts if p[0] <= i], default=pts[0]); hi = min([p for p in pts if p[0] >= i], default=pts[-1])
+    t = lo[1] if hi[0] == lo[0] else lo[1] + (hi[1] - lo[1]) * (i - lo[0]) / (hi[0] - lo[0])
+    return datetime.fromtimestamp(t).strftime('%Y-%m-%d')
+for m in missing:
+    if not m['title']: continue
+    entries.append({'id': m['id'], 'date': guess(m['id']), 'approx': True, 'title': m['title'], 'blocks': []})
+entries.sort(key=lambda e: e['date'])
+missing = [m for m in missing if not m['title']]
 data = {'source': 'https://ameblo.jp/keisuke-higashi-we/', 'note': '东启介Ameba官方博客（2013年12月—2020年10月停止更新），原博客已删除，内容由 Internet Archive 存档整理。', 'entries': entries, 'missing': missing}
 open(os.path.join(ROOT, 'data', 'ameblo.js'), 'w', encoding='utf-8').write('window.AMEBLO = ' + json.dumps(data, ensure_ascii=False, indent=1) + ';\n')
 imgs = sum(1 for e in entries for b in e['blocks'] if 'img' in b); lost = sum(b.get('lost', 0) for e in entries for b in e['blocks'])
