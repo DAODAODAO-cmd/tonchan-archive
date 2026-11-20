@@ -80,4 +80,37 @@ foreach ($u in $imgs.Keys) {
   if (-not $ok) { $ifail++ }
   if ($k % 20 -eq 0) { Write-Host ("  图片 {0}/{1}" -f $k, $imgs.Count) }
 }
+
+Write-Host '抓历代页头...'
+$hdrSrc = @('stat100.ameba.jp/p_skin/w_officialskin/img/header/keisuke-higashi-we.jpg', 'stat100.ameba.jp/spskin/header/talent/k/keisuke-higashi-we.jpg')
+foreach ($css in @('usrcss.ameblo.jp/skin/templates/54/ea/header_10043850494.css', 'usrcss.ameblo.jp/skin/templates/54/ea/10043850494.css')) {
+  $cj = Get-Json ("https://web.archive.org/cdx/search/cdx?url=$css&output=json&fl=timestamp,statuscode,digest&collapse=digest")
+  if ($cj.Count -gt 1) {
+    foreach ($c in $cj[1..($cj.Count - 1)]) {
+      if ($c[1] -ne '200') { continue }
+      try {
+        $t = (Invoke-WebRequest -Uri ("https://web.archive.org/web/{0}id_/http://{1}" -f $c[0], $css) -Headers $ua -TimeoutSec 60 -UseBasicParsing).Content
+        foreach ($m in [regex]::Matches($t, 'url\(\s*["'']?https?://([^"''\)\s]+\.(?:jpg|jpeg|png|gif))')) {
+          $v = $m.Groups[1].Value
+          if ($v -match 'keisuke|header' -and $hdrSrc -notcontains $v) { $hdrSrc += $v }
+        }
+      } catch {}
+    }
+  }
+}
+$hdrN = 0
+foreach ($h in $hdrSrc) {
+  $tag = if ($h -match 'spskin') { 'sp' } elseif ($h -match 'w_officialskin') { 'pc' } else { 'x' + (Hash16 $h).Substring(0, 6) }
+  $ext = [IO.Path]::GetExtension($h).ToLower(); if ($ext -eq '.jpeg') { $ext = '.jpg' }
+  $j = Get-Json ("https://web.archive.org/cdx/search/cdx?url=$h&output=json&fl=timestamp,statuscode,digest&collapse=digest")
+  if ($j.Count -lt 2) { continue }
+  foreach ($c in $j[1..($j.Count - 1)]) {
+    if ($c[1] -ne '200') { continue }
+    $dest = Join-Path $imgDir ("header-{0}-{1}{2}" -f $tag, $c[0], $ext)
+    if ((Test-Path $dest) -and ((Get-Item $dest).Length -gt 500)) { continue }
+    if (Save-Url ("https://web.archive.org/web/{0}id_/http://{1}" -f $c[0], $h) $dest) { $hdrN++ }
+  }
+}
+Write-Host ("页头新下载 {0} 张" -f $hdrN)
+
 Write-Host ("完成：正文 {0} 篇（失败 {1}），图片 {2} 张（存档里没有 {3} 张）" -f $best.Count, $fail.Count, $imgs.Count, $ifail)

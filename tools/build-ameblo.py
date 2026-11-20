@@ -79,7 +79,12 @@ for m in missing:
     entries.append({'id': m['id'], 'date': guess(m['id']), 'approx': True, 'title': m['title'], 'blocks': []})
 entries.sort(key=lambda e: e['date'])
 missing = [m for m in missing if not m['title']]
-data = {'source': 'https://ameblo.jp/keisuke-higashi-we/', 'note': '东启介Ameba官方博客（2013年12月—2020年10月停止更新），原博客已删除，内容由 Internet Archive 存档整理。', 'entries': entries, 'missing': missing}
+headers = []
+for f in sorted(glob.glob(os.path.join(IMG, 'header-*'))):
+    m = re.match(r'header-(\w+)-(\d{8})', os.path.basename(f))
+    if m and os.path.getsize(f) > 500: headers.append({'img': 'assets/img/blog/' + os.path.basename(f), 'kind': m.group(1), 'date': m.group(2)[:4] + '-' + m.group(2)[4:6] + '-' + m.group(2)[6:8]})
+headers.sort(key=lambda h: h['date'])
+data = {'headers': headers, 'source': 'https://ameblo.jp/keisuke-higashi-we/', 'note': '东启介Ameba官方博客（2013年12月—2020年10月停止更新），原博客已删除，内容由 Internet Archive 存档整理。', 'entries': entries, 'missing': missing}
 open(os.path.join(ROOT, 'data', 'ameblo.js'), 'w', encoding='utf-8').write('window.AMEBLO = ' + json.dumps(data, ensure_ascii=False, indent=1) + ';\n')
 imgs = sum(1 for e in entries for b in e['blocks'] if 'img' in b); lost = sum(b.get('lost', 0) for e in entries for b in e['blocks'])
 print('entries', len(entries), 'images', imgs, 'lost', lost, 'missing', len(missing))
