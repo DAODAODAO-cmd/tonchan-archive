@@ -9308,7 +9308,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：'Empty Chairs At Empty Tables' Michael Ball | Les Misérables（The Shows Must Go On!）",
+     "url": "https://www.youtube.com/watch?v=DydTnl7KTvg"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -10335,7 +10340,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：\"Waving Through a Window\" from the DEAR EVAN HANSEN Original Broadway Cast Recording（Dear Evan Hansen）",
+     "url": "https://www.youtube.com/watch?v=kfnMvo87fQU"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -10380,7 +10390,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：[2017 뮤지컬 마타하리] '평범한 일상(Ordinary Lives)' MV_임슬옹（EMK MUSICAL）",
+     "url": "https://www.youtube.com/watch?v=CHDlDYHAynA"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -10425,7 +10440,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：96,000 - In The Heights Motion Picture Soundtrack (Official Audio)（Atlantic Records）",
+     "url": "https://www.youtube.com/watch?v=ify_2XIkBaI"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -10613,7 +10633,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：Frankie Valli - My Eyes Adored You (Official Audio)（RHINO）",
+     "url": "https://www.youtube.com/watch?v=vYtpKBNTCB8"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -10684,7 +10709,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：'Circle of Life' in 360º | THE LION KING on Broadway（Disney On Broadway）",
+     "url": "https://www.youtube.com/watch?v=7T57kzGQGto"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -10783,7 +10813,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：FROZEN Australia | Jemma Rix performs ‘Let It Go’（Disney On Broadway）",
+     "url": "https://www.youtube.com/watch?v=jrrQ8TX57aY"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -10883,7 +10918,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：'And You Don't Even Know It' - Full Song From Everybody's Talking About Jamie（Amazon Prime Video UK & IE）",
+     "url": "https://www.youtube.com/watch?v=RpPp0xu2O9o"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -11007,7 +11047,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：The Greatest Showman Cast - The Other Side (Official Audio)（Atlantic Records）",
+     "url": "https://www.youtube.com/watch?v=Wk008ADh4iY"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -11100,7 +11145,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：Disney's NEWSIES - Santa Fe: Alan Menken and Jeremy Jordan（Disney On Broadway）",
+     "url": "https://www.youtube.com/watch?v=nBfmAZaGyRM"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -11206,7 +11256,16 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：『モーツァルト！』♪僕こそ音楽／井上 芳雄＆山崎 育三郎（TohoChannel）",
+     "url": "https://www.youtube.com/watch?v=1LlWBhYiwvU"
+    },
+    {
+     "title": "这期聊的歌：『モーツァルト！』歌唱披露／古川雄大 ♪「僕こそ音楽」（TohoChannel）",
+     "url": "https://www.youtube.com/watch?v=-rQMzwzjwd8"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -11610,7 +11669,16 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：Rachel Zegler, Ansel Elgort - Balcony Scene (Tonight)（DisneyMusicVEVO）",
+     "url": "https://www.youtube.com/watch?v=2P5ZX24O0U4"
+    },
+    {
+     "title": "这期聊的歌：映画『ウエスト・サイド・ストーリー』本予告「Tonight（トゥナイト）」編（20世紀スタジオ 公式チャンネル）",
+     "url": "https://www.youtube.com/watch?v=QgxPtRinb0o"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
@@ -11810,7 +11878,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：『デスノート THE MUSICAL』2020 「デスノート」MV（ホリプロステージ）",
+     "url": "https://www.youtube.com/watch?v=AaD4gIJeadc"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -11886,7 +11959,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：ミュージカル『メリー・ポピンズ』2022 製作発表 歌唱披露ダイジェスト（ホリプロステージ）",
+     "url": "https://www.youtube.com/watch?v=g0TU5wWTrzA"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -12061,7 +12139,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：Seasons of Love 字幕あり　RENT来日公演2020（RENT来日公演）",
+     "url": "https://www.youtube.com/watch?v=tGdyBLWO-Sw"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -12098,7 +12181,16 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：Elvis Presley - Heartbreak Hotel (Official Audio)（ElvisPresleyVEVO）",
+     "url": "https://www.youtube.com/watch?v=e9BLw4W5KU8"
+    },
+    {
+     "title": "这期聊的歌：映画『エルヴィス』日本版予告（ワーナー ブラザース 公式チャンネル）",
+     "url": "https://www.youtube.com/watch?v=7pBIWfTaqa8"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
@@ -12170,7 +12262,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：劇団四季：ノートルダムの鐘：ナンバー集（劇団四季）",
+     "url": "https://www.youtube.com/watch?v=clXp-9YwTwM"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
@@ -12456,7 +12553,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：『Miss Saigon』♪世界が終わる夜のように／知念里奈＆上野哲也（TohoChannel）",
+     "url": "https://www.youtube.com/watch?v=maSCHLdLL2A"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
@@ -12769,7 +12871,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：修行（劇団四季）",
+     "url": "https://www.youtube.com/watch?v=5cs31efyESg"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
@@ -12879,7 +12986,12 @@ window.ARCHIVE = {
      "resolution": "1120 × 692"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：The Rum Tum Tugger | Cats the Musical（Cats The Musical）",
+     "url": "https://www.youtube.com/watch?v=ywFbpDjpZno"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -13355,7 +13467,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：The Beautiful Game（Andrew Lloyd Webber）",
+     "url": "https://www.youtube.com/watch?v=sZlVmhL2R0g"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -13598,7 +13715,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：ブロードウェイ・ミュージカル『ドリームガールズ』舞台映像ダイジェスト（梅田芸術劇場）",
+     "url": "https://www.youtube.com/watch?v=9pJyzab9gPk"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -13744,7 +13866,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：ミュージカル『ジキル＆ハイド』ダイジェスト映像2023（ホリプロステージ）",
+     "url": "https://www.youtube.com/watch?v=pOkdPKCkM6U"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -13877,7 +14004,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：tick, tick... BOOM! | \"Sunday\" Official Song Clip（Netflix）",
+     "url": "https://www.youtube.com/watch?v=Xjv8vNCfdUA"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -15085,7 +15217,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：ミュージカル『スクールオブロック』（2023）舞台映像ダイジェスト（ホリプロステージ）",
+     "url": "https://www.youtube.com/watch?v=doYnUJ1AC6w"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -15356,7 +15493,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：ミュージカル『ラグタイム』舞台映像版PV（TohoChannel）",
+     "url": "https://www.youtube.com/watch?v=F7rOBM2W63c"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -15795,7 +15937,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：뮤지컬 '윌리엄과 윌리엄의 윌리엄들' 프레스콜（연합뉴스 K-Culture NOW）",
+     "url": "https://www.youtube.com/watch?v=qq6X-SXIGWA"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
@@ -16351,7 +16498,16 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "这期聊的歌：\"Defying Gravity\" - Wicked 20th Anniversary Edition（WICKED The Musical）",
+     "url": "https://www.youtube.com/watch?v=AoON1CyhQAM"
+    },
+    {
+     "title": "这期聊的歌：劇団四季：ウィキッド：2023年東京公演プロモーションVTR（劇団四季）",
+     "url": "https://www.youtube.com/watch?v=HA-04wUnmeA"
+    }
+   ],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
