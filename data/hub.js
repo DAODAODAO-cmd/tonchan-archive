@@ -145,7 +145,7 @@ window.HUB = {
    ],
    [
     "2025–",
-    "https://web.archive.org/web/20251124192748id_/https://www.watanabepro.co.jp/img/profile/10000062.jpg",
+    "https://www.watanabepro.co.jp/img/profile/10000062.jpg",
     "现在的官方照"
    ]
   ]
@@ -1144,7 +1144,7 @@ window.HUB = {
    "price": "每月4张一套（L判）",
    "image": "assets/img/ext/e65e91da7c009505.jpg",
    "points": [
-    "7net官方商品图，每月一张四张合拍，共57个月",
+    "7net官方商品图，每月一张四张合拍，共58个月",
     "不是每个月都有他：2026年10月阵容里没有他",
     "点小图看大图"
    ],
@@ -1260,6 +1260,11 @@ window.HUB = {
      "t": "2022.06",
      "img": "assets/img/ext/78f490f3a5734835.jpg",
      "href": "assets/img/ext/78f490f3a5734835.jpg"
+    },
+    {
+     "t": "2022.05",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301507635.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301507635.jpg"
     },
     {
      "t": "2022.04",
