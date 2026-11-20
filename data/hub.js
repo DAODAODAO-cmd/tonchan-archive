@@ -3398,14 +3398,24 @@ window.HUB = {
    "title": "假面骑士Super Live 2027 会场限定 发带（Maou款）",
    "price": "各2,200日元（含税）",
    "publisher": "仮面ライダースーパーライブ2027",
-   "image": "assets/img/ext/01272751092168f7.jpg",
+   "image": "assets/img/ext/superlive27-hairband-maou.jpg",
    "points": [
-    "发带一共3款：麦斯、Lido、Maou，Maou是右边红色那条（一览图第三排「ヘアバンド3種類」）",
+    "发带一共3款：麦斯、Lido、Maou，红色那条是Maou",
     "只在《假面骑士Super Live 2027》巡演会场卖，巡演从2026年冬到2027年夏，走青森、广岛、冈山、札幌、山口、奥州、熊本、福冈等十几个城市",
     "他本人不参加巡演，是Maou造型的商品"
    ],
    "url": "https://ridershow.com/goods.html",
    "items": [
+    {
+     "t": "Maou款",
+     "img": "assets/img/ext/superlive27-hairband-maou.jpg",
+     "href": "assets/img/ext/superlive27-hairband-maou.jpg"
+    },
+    {
+     "t": "发带3款",
+     "img": "assets/img/ext/superlive27-hairband3.jpg",
+     "href": "assets/img/ext/superlive27-hairband3.jpg"
+    },
     {
      "t": "会场周边一览",
      "img": "assets/img/ext/01272751092168f7.jpg",
