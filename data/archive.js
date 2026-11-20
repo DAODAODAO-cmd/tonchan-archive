@@ -74,6 +74,12 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "x667057cf81bded05",
      "resolution": ""
+    },
+    {
+     "url": "https://www.marv.jp/uploads/title/882/main.jpg",
+     "caption": "DVD封面（Marvelous官方作品页）",
+     "source": "https://www.marv.jp/titles/st/882/",
+     "asset": "xafcc8c9cad7097c4"
     }
    ],
    "videos": [
@@ -97,7 +103,7 @@ window.ARCHIVE = {
    "roleRoma": "CHITOSE SENRI",
    "workRoma": "SEIGAKU vs SHITENHOJI",
    "roleName": "千岁千里",
-   "cardPoster": "assets/img/roles/e1_poster.jpg",
+   "cardPoster": "assets/img/ext/afcc8c9cad7097c4.jpg",
    "cardPhoto": "assets/img/ext/a645daf057f9ef27.jpg"
   },
   {
@@ -160,11 +166,24 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://www.tennimu.com/img/cast/shitenhoji/imgB02chitose.jpg",
+     "caption": "官网真人角色照：东启介饰千岁千里（第二季四天宝寺篇，同一角色）",
+     "source": "https://www.tennimu.com/cast_2nd/sh02chitose.html",
+     "asset": "863e36c56ed019e3",
+     "hasHigashi": true
+    },
+    {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325663.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "x3e6a0eb1831ed00c",
      "resolution": ""
+    },
+    {
+     "url": "https://www.marv.jp/uploads/title/734/main.jpg",
+     "caption": "公演海报（Marvelous官方作品页）",
+     "source": "https://www.marv.jp/titles/st/734/",
+     "asset": "x930df1b81e03ae44"
     },
     {
      "url": "https://www.tennimu.com/second/play_2014rikkai/img/Phdr-img.jpg",
@@ -224,7 +243,9 @@ window.ARCHIVE = {
    "roleRoma": "CHITOSE SENRI",
    "workRoma": "ZENKOKU TAIKAI vs RIKKAI",
    "roleName": "千岁千里",
-   "cardHide": true
+   "cardHide": true,
+   "cardPoster": "assets/img/ext/930df1b81e03ae44.jpg",
+   "cardPhoto": "assets/img/ext/a645daf057f9ef27.jpg"
   },
   {
    "id": "mag_rm_53687262",
@@ -40049,7 +40070,9 @@ window.ARCHIVE = {
   "x07d6291cb256596c": "assets/img/ext/07d6291cb256596c.jpg",
   "xc48b8dddca6d4969": "assets/img/ext/c48b8dddca6d4969.jpg",
   "x45fbe8682d8f21d3": "assets/img/ext/45fbe8682d8f21d3.jpg",
-  "x2059405e897acd8b": "assets/img/ext/2059405e897acd8b.jpg"
+  "x2059405e897acd8b": "assets/img/ext/2059405e897acd8b.jpg",
+  "xafcc8c9cad7097c4": "assets/img/ext/afcc8c9cad7097c4.jpg",
+  "x930df1b81e03ae44": "assets/img/ext/930df1b81e03ae44.jpg"
  },
  "biliLeads": [
   {
