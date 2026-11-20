@@ -2381,6 +2381,53 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "dvd_minami",
+   "date": "2017-01-18",
+   "end": "",
+   "category": "写真／出版",
+   "title": "1st DVD《東啓介、南へ行く。》",
+   "japanese": "東啓介 1st DVD「東啓介、南へ行く。」",
+   "role": "本人",
+   "url": "https://www.bilibili.com/video/BV1zs41187XK/",
+   "note": "个人第一张DVD。发售前公开宣传PV。",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/81oA3IWoE9L._AC_SL500_.jpg",
+     "caption": "DVD封面",
+     "source": "Amazon.co.jp 商品图",
+     "asset": "x0432afd3fc089e2d"
+    }
+   ],
+   "videos": [
+    {
+     "title": "【東啓介】1st DVD「東啓介、南へ行く。」宣传PV",
+     "url": "https://www.bilibili.com/video/BV1zs41187XK/"
+    }
+   ],
+   "origin": "2026.11.19补充"
+  },
+  {
+   "id": "ost_kyoden",
+   "date": "2017-01-25",
+   "end": "",
+   "category": "写真／出版",
+   "title": "舞台《刀剑乱舞》虚传 原声CD发售",
+   "japanese": "",
+   "role": "烛台切光忠（燭台切光忠）",
+   "url": "https://www.stage-toukenranbu.jp/music/kyoden",
+   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
+   "images": [
+    {
+     "url": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/刀ステサントラCD-1024x1010.jpg",
+     "caption": "CD封面",
+     "source": "舞台『刀剣乱舞』官网",
+     "asset": "x66960ae024f43a44"
+    }
+   ],
+   "videos": [],
+   "origin": "2026.11.19补充"
+  },
+  {
    "id": "bro_201702",
    "date": "2017-02-01",
    "category": "周边",
@@ -4064,6 +4111,27 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "ost_giden",
+   "date": "2017-11-29",
+   "end": "",
+   "category": "写真／出版",
+   "title": "舞台《刀剑乱舞》义传 原声CD发售",
+   "japanese": "",
+   "role": "烛台切光忠（燭台切光忠）",
+   "url": "https://www.stage-toukenranbu.jp/music/giden",
+   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
+   "images": [
+    {
+     "url": "https://m.media-amazon.com/images/I/71Sngd-VSbL._AC_SL500_.jpg",
+     "caption": "CD封面",
+     "source": "舞台『刀剣乱舞』官网",
+     "asset": "x8afe7cf32ed84d67"
+    }
+   ],
+   "videos": [],
+   "origin": "2026.11.19补充"
   },
   {
    "id": "bro_201712",
@@ -5983,6 +6051,27 @@ window.ARCHIVE = {
    "roleName": "山田羽仁男",
    "cardPhoto": "assets/img/ext/1cade61dea6667bb.jpg",
    "cardPhotoBg": "20% 14% / auto 230%"
+  },
+  {
+   "id": "ost_hiden",
+   "date": "2018-11-28",
+   "end": "",
+   "category": "写真／出版",
+   "title": "舞台《刀剑乱舞》悲传 原声CD发售",
+   "japanese": "",
+   "role": "烛台切光忠（燭台切光忠）",
+   "url": "https://www.stage-toukenranbu.jp/music/hiden",
+   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
+   "images": [
+    {
+     "url": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/悲伝OST_CD-1024x1013.jpg",
+     "caption": "CD封面",
+     "source": "舞台『刀剣乱舞』官网",
+     "asset": "xe041cbbd4e1f062f"
+    }
+   ],
+   "videos": [],
+   "origin": "2026.11.19补充"
   },
   {
    "id": "mag_rk15760957",
@@ -17768,6 +17857,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_pia241217",
+   "date": "2024-12-17",
+   "end": "",
+   "category": "采访／连载",
+   "title": "ぴあ｜《长靴皇后》东启介×有泽樟太郎×甲斐翔真×松下优也",
+   "japanese": "ミュージカル『キンキーブーツ』3年ぶり再演に向けて　東啓介×有澤樟太郎×甲斐翔真×松下優也インタビュー",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://lp.p.pia.jp/article/news/408533/index.html?detail=true",
+   "note": "2025年再演的四位新主演一起聊。",
+   "status": "",
+   "origin": "2026.11.21补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/1ec7457c-b21c-48d9-b31e-7c1a2b555fa5/origin.jpg",
+     "caption": "ぴあ 采访摄影",
+     "source": "https://lp.p.pia.jp/article/news/408533/index.html?detail=true",
+     "asset": "x662b95f5b301ed6b"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "mag_mc_9629790",
    "date": "2024-12-26",
    "end": "",
@@ -17924,6 +18041,62 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_ranran250110a",
+   "date": "2025-01-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "ランランエンタメ｜《长靴皇后》查理役东启介×有泽樟太郎（前篇）",
+   "japanese": "【前編】チャーリー役の東 啓介＆有澤樟太郎インタビュー「何にも変えられない感動体験ができる」",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://ranran-entame.com/ranran/102550.html",
+   "note": "两位查理的对谈。",
+   "status": "",
+   "origin": "2026.11.21补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://ranran-entame.com/wp-ranranentame/wp-content/uploads/76250ed0c141a9369d61feb9ca6f5620.jpg",
+     "caption": "ランランエンタメ 采访摄影",
+     "source": "https://ranran-entame.com/ranran/102550.html",
+     "asset": "x22f1db865231225e"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "web_ranran250110b",
+   "date": "2025-01-10",
+   "end": "",
+   "category": "采访／连载",
+   "title": "ランランエンタメ｜《长靴皇后》查理役东启介×有泽樟太郎（后篇）",
+   "japanese": "【後編】チャーリー役の東 啓介＆有澤樟太郎インタビュー「何にも変えられない感動体験ができる」",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://ranran-entame.com/ranran/102572.html",
+   "note": "两位查理的对谈（后篇）。",
+   "status": "",
+   "origin": "2026.11.21补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://ranran-entame.com/wp-ranranentame/wp-content/uploads/76ca19196dfbf7630e63bff17085df3b.jpg",
+     "caption": "ランランエンタメ 采访摄影",
+     "source": "https://ranran-entame.com/ranran/102572.html",
+     "asset": "x1a5953bfa8b11e9f"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
    "playlistLinks": []
   },
   {
@@ -18298,6 +18471,34 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_kansai250316",
+   "date": "2025-03-16",
+   "end": "",
+   "category": "采访／连载",
+   "title": "关西Press｜《长靴皇后》松下优也×东启介",
+   "japanese": "【キンキーブーツ熱狂再び】松下優也×東 啓介インタビュー「オレのダンスは京橋仕込みやで」",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://kansaipress.com/kinkyboots/",
+   "note": "大阪公演前的对谈。",
+   "status": "",
+   "origin": "2026.11.21补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://kansaipress.com/wp-content/uploads/2025/03/DSC06304-2-1024x683.jpg",
+     "caption": "关西Press 采访摄影",
+     "source": "https://kansaipress.com/kinkyboots/",
+     "asset": "x0c6551d5bd831f38"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "s155",
    "date": "2025-03-29",
    "end": "",
@@ -18355,6 +18556,34 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "id": "web_entapress250403",
+   "date": "2025-04-03",
+   "end": "",
+   "category": "采访／连载",
+   "title": "エンタプレス｜《长靴皇后》东启介×松下优也 真心话对谈",
+   "japanese": "『キンキーブーツ』新キャストの東啓介・松下優也が、本音でじっくり語り合う！",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://entapress.com/2025/04/2132/",
+   "note": "新卡司两人慢慢聊真心话。",
+   "status": "",
+   "origin": "2026.11.21补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://entapress.com/wp-content/uploads/2025/04/IMG_7068.jpg",
+     "caption": "エンタプレス 采访摄影",
+     "source": "https://entapress.com/2025/04/2132/",
+     "asset": "xcb5fbbc34f0528cb"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "nat_musicfair25",
@@ -20004,6 +20233,64 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "web_astage_bl15",
+   "date": "2026-08-07",
+   "end": "",
+   "category": "采访／连载",
+   "title": "Astage｜电影《蓝色监狱》马狼照英专访",
+   "japanese": "東啓介、”絶対的王者”馬狼照英を演じて得た達成感と役者としての覚醒！自身の譲れないエゴは歌！",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.astage-ent.com/cinema/bluelock-15.html",
+   "note": "演完“绝对王者”马狼的成就感，以及自己绝不让步的“エゴ”是唱歌。",
+   "status": "",
+   "origin": "2026.11.21补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2026/08/260713_-映画『ブルーロック』東啓介様-23-Edit-Edit.jpg",
+     "caption": "Astage 采访摄影",
+     "source": "https://www.astage-ent.com/cinema/bluelock-15.html",
+     "asset": "xd5b98d591e98eea4"
+    },
+    {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2026/08/260713_-映画『ブルーロック』東啓介様-12-Edit-Edit.jpg",
+     "caption": "Astage 采访摄影",
+     "source": "https://www.astage-ent.com/cinema/bluelock-15.html",
+     "asset": "xa4fc29a230a3ee9b"
+    },
+    {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2026/08/260713_-映画『ブルーロック』東啓介様-15-Edit-Edit.jpg",
+     "caption": "Astage 采访摄影",
+     "source": "https://www.astage-ent.com/cinema/bluelock-15.html",
+     "asset": "x9b228c2d0b24b9dc"
+    },
+    {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2026/08/260713_-映画『ブルーロック』東啓介様-8-Edit-Edit.jpg",
+     "caption": "Astage 采访摄影",
+     "source": "https://www.astage-ent.com/cinema/bluelock-15.html",
+     "asset": "x57303c39ad8c8ceb"
+    },
+    {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2026/08/260713_-映画『ブルーロック』東啓介様-5-Edit-Edit.jpg",
+     "caption": "Astage 采访摄影",
+     "source": "https://www.astage-ent.com/cinema/bluelock-15.html",
+     "asset": "x3a0b3a8a64b71dd0"
+    },
+    {
+     "url": "https://astage-ent.com/wp/wp-content/uploads/2026/08/260713_-映画『ブルーロック』東啓介様-25-Edit-Edit.jpg",
+     "caption": "Astage 采访摄影",
+     "source": "https://www.astage-ent.com/cinema/bluelock-15.html",
+     "asset": "x20ca4d6a3c6e50ec"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "e75",
    "date": "2026-08-09",
    "end": "2026-10-13",
@@ -20141,6 +20428,52 @@ window.ARCHIVE = {
    "cardPoster": "assets/img/ext/7a2fbe1e721aae1c.jpg"
   },
   {
+   "id": "web_daily260812",
+   "date": "2026-08-12",
+   "end": "",
+   "category": "采访／连载",
+   "title": "Daily Sports｜接连演“压倒性强者”：蓝色监狱、王者天下Ⅱ、麦斯",
+   "japanese": "身長190cm俳優・東啓介「ブルーロック」「仮面ライダーマイス」で圧倒的強者キャラ熱演「細かな部分まで大切に」",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.daily.co.jp/gossip/2026/08/12/0020698964.shtml",
+   "note": "谈马狼、庞煖、华武利这几个强者角色，说连细节都很珍惜。",
+   "status": "",
+   "origin": "2026.11.21补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://i.daily.jp/gossip/2026/08/12/Images/20698965.jpg",
+     "caption": "Daily Sports 采访摄影",
+     "source": "https://www.daily.co.jp/gossip/2026/08/12/0020698964.shtml",
+     "asset": "x6199a5e856094955"
+    },
+    {
+     "url": "https://i.daily.jp/gossip/2026/08/12/Images/20698966.jpg",
+     "caption": "Daily Sports 采访摄影",
+     "source": "https://www.daily.co.jp/gossip/2026/08/12/0020698964.shtml",
+     "asset": "xa9f111e1c9454d18"
+    },
+    {
+     "url": "https://i.daily.jp/gossip/2026/08/12/Images/20698967.jpg",
+     "caption": "Daily Sports 采访摄影",
+     "source": "https://www.daily.co.jp/gossip/2026/08/12/0020698964.shtml",
+     "asset": "xd0154463890813d9"
+    },
+    {
+     "url": "https://i.daily.jp/gossip/2026/08/12/Images/20698968.jpg",
+     "caption": "Daily Sports 采访摄影",
+     "source": "https://www.daily.co.jp/gossip/2026/08/12/0020698964.shtml",
+     "asset": "x0dcbfad322482234"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
    "id": "web_swan_aud",
    "date": "2026-08-31",
    "end": "",
@@ -20168,31 +20501,6 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
-  },
-  {
-   "id": "bro_202611",
-   "date": "2026-11-01",
-   "category": "周边",
-   "title": "WE官方生写真〈2026年11月〉",
-   "japanese": "WEオフィシャルブロマイド ～2026年11月～",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://x.com/we_goods_info/status/2117089419144622119",
-   "note": "",
-   "status": "已结束",
-   "origin": "WE Goods Info",
-   "dateKind": "month",
-   "images": [
-    {
-     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
-     "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
-     "asset": "xe65e91da7c009505"
-    }
-   ],
-   "videos": [],
-   "kind": "bromide"
   },
   {
    "id": "bro_202609",
@@ -20382,6 +20690,40 @@ window.ARCHIVE = {
    "roleName": "草壁飞翔",
    "cardPoster": "assets/img/ext/d5a6f831aa648167.jpg",
    "cardPhoto": "assets/img/ext/f251577592ad2706.jpg"
+  },
+  {
+   "id": "web_sponichi260904",
+   "date": "2026-09-04",
+   "end": "",
+   "category": "采访／连载",
+   "title": "体育日本｜向令和的“最终BOSS”迈进，为角色增重10公斤",
+   "japanese": "東啓介　令和の「ラスボス」へ　役づくりで10キロ増「存在感を感じると言われることが多くなった」",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/04/articles/20260904s00041000036000c.html",
+   "note": "麦斯开播前的专访；为了角色增重10公斤，最近常被说“有存在感”。",
+   "status": "",
+   "origin": "2026.11.21补充",
+   "dateKind": "发布日",
+   "images": [
+    {
+     "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/03/jpeg/20260903s10041000466000p_view.webp",
+     "caption": "体育日本 采访摄影",
+     "source": "https://www.sponichi.co.jp/entertainment/news/2026/09/04/articles/20260904s00041000036000c.html",
+     "asset": "xb7d7302e35cc7540"
+    },
+    {
+     "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/04/jpeg/20260903s10041000465000p_view.webp",
+     "caption": "体育日本 采访摄影",
+     "source": "https://www.sponichi.co.jp/entertainment/news/2026/09/04/articles/20260904s00041000036000c.html",
+     "asset": "xba53849970bfd166"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
   },
   {
    "id": "web_swan_stream",
@@ -20900,6 +21242,31 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202611",
+   "date": "2026-11-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2026年11月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2117089419144622119",
+   "note": "",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）",
+     "asset": "xe65e91da7c009505"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_mc_45831300",
    "date": "2026-11-04",
    "end": "",
@@ -21336,6 +21703,25 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": []
+  },
+  {
+   "id": "mag_tvs2626",
+   "date": "2026-12-02",
+   "end": "",
+   "category": "杂志",
+   "title": "《TV station》2026年26号｜东启介专访",
+   "japanese": "TVstation 2026年26号（東 啓介 インタビュー）",
+   "role": "",
+   "url": "https://tvstation.jp/",
+   "note": "12月2日发售，有东启介的专访。目录和封面还没公布。",
+   "status": "预定",
+   "origin": "2026.11.19 用户补充",
+   "dateKind": "发售日",
+   "images": [],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -21857,114 +22243,6 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "dvd_minami",
-   "date": "2017-01-18",
-   "end": "",
-   "category": "写真／出版",
-   "title": "1st DVD《東啓介、南へ行く。》",
-   "japanese": "東啓介 1st DVD「東啓介、南へ行く。」",
-   "role": "本人",
-   "url": "https://www.bilibili.com/video/BV1zs41187XK/",
-   "note": "个人第一张DVD。发售前公开宣传PV。",
-   "images": [
-    {
-     "url": "https://m.media-amazon.com/images/I/81oA3IWoE9L._AC_SL500_.jpg",
-     "caption": "DVD封面",
-     "source": "Amazon.co.jp 商品图",
-     "asset": "x0432afd3fc089e2d"
-    }
-   ],
-   "videos": [
-    {
-     "title": "【東啓介】1st DVD「東啓介、南へ行く。」宣传PV",
-     "url": "https://www.bilibili.com/video/BV1zs41187XK/"
-    }
-   ],
-   "origin": "2026.11.19补充"
-  },
-  {
-   "id": "ost_kyoden",
-   "date": "2017-01-25",
-   "end": "",
-   "category": "写真／出版",
-   "title": "舞台《刀剑乱舞》虚传 原声CD发售",
-   "japanese": "",
-   "role": "烛台切光忠（燭台切光忠）",
-   "url": "https://www.stage-toukenranbu.jp/music/kyoden",
-   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
-   "images": [
-    {
-     "url": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/刀ステサントラCD-1024x1010.jpg",
-     "caption": "CD封面",
-     "source": "舞台『刀剣乱舞』官网",
-     "asset": "x66960ae024f43a44"
-    }
-   ],
-   "videos": [],
-   "origin": "2026.11.19补充"
-  },
-  {
-   "id": "ost_giden",
-   "date": "2017-11-29",
-   "end": "",
-   "category": "写真／出版",
-   "title": "舞台《刀剑乱舞》义传 原声CD发售",
-   "japanese": "",
-   "role": "烛台切光忠（燭台切光忠）",
-   "url": "https://www.stage-toukenranbu.jp/music/giden",
-   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
-   "images": [
-    {
-     "url": "https://m.media-amazon.com/images/I/71Sngd-VSbL._AC_SL500_.jpg",
-     "caption": "CD封面",
-     "source": "舞台『刀剣乱舞』官网",
-     "asset": "x8afe7cf32ed84d67"
-    }
-   ],
-   "videos": [],
-   "origin": "2026.11.19补充"
-  },
-  {
-   "id": "ost_hiden",
-   "date": "2018-11-28",
-   "end": "",
-   "category": "写真／出版",
-   "title": "舞台《刀剑乱舞》悲传 原声CD发售",
-   "japanese": "",
-   "role": "烛台切光忠（燭台切光忠）",
-   "url": "https://www.stage-toukenranbu.jp/music/hiden",
-   "note": "2枚组，收剧中BGM和剧中歌现场音源。",
-   "images": [
-    {
-     "url": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/悲伝OST_CD-1024x1013.jpg",
-     "caption": "CD封面",
-     "source": "舞台『刀剣乱舞』官网",
-     "asset": "xe041cbbd4e1f062f"
-    }
-   ],
-   "videos": [],
-   "origin": "2026.11.19补充"
-  },
-  {
-   "id": "mag_tvs2626",
-   "date": "2026-12-02",
-   "end": "",
-   "category": "杂志",
-   "title": "《TV station》2026年26号｜东启介专访",
-   "japanese": "TVstation 2026年26号（東 啓介 インタビュー）",
-   "role": "",
-   "url": "https://tvstation.jp/",
-   "note": "12月2日发售，有东启介的专访。目录和封面还没公布。",
-   "status": "预定",
-   "origin": "2026.11.19 用户补充",
-   "dateKind": "发售日",
-   "images": [],
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
@@ -40055,7 +40333,24 @@ window.ARCHIVE = {
   "x7765865e330dc4a5": "assets/img/ext/7765865e330dc4a5.jpg",
   "x70287120084c3569": "assets/img/ext/70287120084c3569.jpg",
   "xf1931e1b3e2a34c0": "assets/img/ext/f1931e1b3e2a34c0.jpg",
-  "x122dc6a03f57bbb6": "assets/img/ext/122dc6a03f57bbb6.jpg"
+  "x122dc6a03f57bbb6": "assets/img/ext/122dc6a03f57bbb6.jpg",
+  "xd5b98d591e98eea4": "assets/img/ext/d5b98d591e98eea4.jpg",
+  "xa4fc29a230a3ee9b": "assets/img/ext/a4fc29a230a3ee9b.jpg",
+  "x9b228c2d0b24b9dc": "assets/img/ext/9b228c2d0b24b9dc.jpg",
+  "x57303c39ad8c8ceb": "assets/img/ext/57303c39ad8c8ceb.jpg",
+  "x3a0b3a8a64b71dd0": "assets/img/ext/3a0b3a8a64b71dd0.jpg",
+  "x20ca4d6a3c6e50ec": "assets/img/ext/20ca4d6a3c6e50ec.jpg",
+  "x6199a5e856094955": "assets/img/ext/6199a5e856094955.jpg",
+  "xa9f111e1c9454d18": "assets/img/ext/a9f111e1c9454d18.jpg",
+  "xd0154463890813d9": "assets/img/ext/d0154463890813d9.jpg",
+  "x0dcbfad322482234": "assets/img/ext/0dcbfad322482234.jpg",
+  "xb7d7302e35cc7540": "assets/img/ext/b7d7302e35cc7540.webp",
+  "xba53849970bfd166": "assets/img/ext/ba53849970bfd166.webp",
+  "x662b95f5b301ed6b": "assets/img/ext/662b95f5b301ed6b.jpg",
+  "x22f1db865231225e": "assets/img/ext/22f1db865231225e.jpg",
+  "x1a5953bfa8b11e9f": "assets/img/ext/1a5953bfa8b11e9f.jpg",
+  "x0c6551d5bd831f38": "assets/img/ext/0c6551d5bd831f38.jpg",
+  "xcb5fbbc34f0528cb": "assets/img/ext/cb5fbbc34f0528cb.jpg"
  },
  "biliLeads": [
   {

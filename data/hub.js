@@ -257,6 +257,20 @@ window.HUB = {
    "url": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html"
   },
   {
+   "date": "2026-11-20",
+   "tag": "SNS",
+   "title": "本人X：刀舞《陽伝》谢幕感谢，顺便宣传写真集《ECHOES》",
+   "text": "6年来的第一本写真集，书名和封面同一天公开。",
+   "url": "https://x.com/keisuke_higashi/status/2123760085147271428"
+  },
+  {
+   "date": "2026-11-17",
+   "tag": "SNS",
+   "title": "本人X：刀舞《陽伝》乐屋门口的花絮照",
+   "text": "下雨天来看剧的观众，谢谢。",
+   "url": "https://x.com/keisuke_higashi/status/2122671546426949870"
+  },
+  {
    "date": "2026-11-16",
    "tag": "SNS",
    "title": "本人Instagram：FC写真集告知视频的NG花絮",
@@ -278,6 +292,27 @@ window.HUB = {
    "url": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/"
   },
   {
+   "date": "2026-11-15",
+   "tag": "SNS",
+   "title": "本人X：一天从《麦斯》播出到刀舞演出",
+   "text": "早上9点麦斯，接着是刀舞，忙碌的一天。",
+   "url": "https://x.com/keisuke_higashi/status/2121943568256467375"
+  },
+  {
+   "date": "2026-11-15",
+   "tag": "SNS",
+   "title": "本人X：刀舞《陽伝》第4天顺利结束",
+   "text": "第二天休演，好好休息。",
+   "url": "https://x.com/keisuke_higashi/status/2121948696317485297"
+  },
+  {
+   "date": "2026-11-14",
+   "tag": "SNS",
+   "title": "本人X：刀舞《陽伝》前编结束，便当选了汉堡肉",
+   "text": "好几种便当里毫不犹豫地选了汉堡肉加炸鸡排。",
+   "url": "https://x.com/keisuke_higashi/status/2121504802383581226"
+  },
+  {
    "date": "2026-11-12",
    "tag": "影视",
    "title": "街机《假面骑士 Ganba Legends》第5弹上线，假面骑士Maou参战",
@@ -290,6 +325,13 @@ window.HUB = {
    "title": "刀舞《陽伝》东京明治座正式公演开幕",
    "text": "东京至11月29日，之后大阪新歌舞伎座、东京凯旋。",
    "url": "https://stage-toukenranbu.jp/stage/"
+  },
+  {
+   "date": "2026-11-11",
+   "tag": "SNS",
+   "title": "本人X：刀舞《陽伝》首日顺利结束",
+   "text": "感谢来剧场和看直播的大家。",
+   "url": "https://x.com/keisuke_higashi/status/2120511644375851065"
   },
   {
    "date": "2026-11-10",
@@ -306,6 +348,13 @@ window.HUB = {
    "url": "https://www.pashplus.jp/blog/500710/"
   },
   {
+   "date": "2026-11-10",
+   "tag": "SNS",
+   "title": "本人X：刀舞《陽伝》预演公演结束",
+   "text": "久违地在观众面前演刀舞。",
+   "url": "https://x.com/keisuke_higashi/status/2120143839864484191"
+  },
+  {
    "date": "2026-11-02",
    "tag": "周边",
    "title": "WE官方生写真〈2026年11月〉开放预约",
@@ -313,11 +362,25 @@ window.HUB = {
    "url": "https://x.com/we_goods_info/status/2117089419144622119"
   },
   {
+   "date": "2026-10-30",
+   "tag": "SNS",
+   "title": "本人X：收到玉城裕规的品牌 Tycurious 的衣服",
+   "text": "说自己这个身材也能穿。",
+   "url": "https://x.com/keisuke_higashi/status/2116027424798593508"
+  },
+  {
    "date": "2026-10-28",
    "tag": "杂志",
    "title": "《anan》No.2517 刀舞总力特集",
    "text": "烛台切光忠单人写真＋采访，以及13振集合写真。共三种版本，买前请对照版本。",
    "url": "https://ananweb.jp/categories/covers/113785"
+  },
+  {
+   "date": "2026-10-25",
+   "tag": "SNS",
+   "title": "本人X：《麦斯》第8集播出后开了 Instagram 直播",
+   "text": "",
+   "url": "https://x.com/keisuke_higashi/status/2114152763764740585"
   },
   {
    "date": "2026-10-23",
@@ -341,11 +404,39 @@ window.HUB = {
    "url": "https://zasshi.tv/products/62295/"
   },
   {
+   "date": "2026-10-18",
+   "tag": "SNS",
+   "title": "本人X：写真集发售纪念活动开始领号",
+   "text": "说特典是自己想了很多的。",
+   "url": "https://x.com/keisuke_higashi/status/2111743934909297008"
+  },
+  {
+   "date": "2026-10-18",
+   "tag": "SNS",
+   "title": "本人X：《麦斯》第7集：终于和麦斯见面，第一次变身",
+   "text": "说到现在还像在做梦。",
+   "url": "https://x.com/keisuke_higashi/status/2111616362506547673"
+  },
+  {
    "date": "2026-10-17",
    "tag": "影视",
    "title": "《十二支十色》第7话“完美男友检定～岭高华武利篇～”配信",
    "text": "以华武利为主角的一话。",
    "url": "https://www.youtube.com/watch?v=HiW6nsnVHo8"
+  },
+  {
+   "date": "2026-10-15",
+   "tag": "SNS",
+   "title": "本人X：发了自己用相机拍的照片",
+   "text": "连续下雨后终于在晴天拍到了。",
+   "url": "https://x.com/keisuke_higashi/status/2110539127498424727"
+  },
+  {
+   "date": "2026-10-15",
+   "tag": "SNS",
+   "title": "本人X：第一次上《玉城裕规的月下美人》",
+   "text": "和两位好朋友一起直播。",
+   "url": "https://x.com/keisuke_higashi/status/2110524054612631588"
   },
   {
    "date": "2026-10-14",
@@ -362,6 +453,20 @@ window.HUB = {
    "url": "https://www.tohostage.com/kingdom2/"
   },
   {
+   "date": "2026-10-13",
+   "tag": "SNS",
+   "title": "本人X：为《王者天下Ⅱ》大千秋乐打气",
+   "text": "自己的场次已结束，祝福还在博多演出的大家。",
+   "url": "https://x.com/keisuke_higashi/status/2109798764932432363"
+  },
+  {
+   "date": "2026-10-11",
+   "tag": "SNS",
+   "title": "本人X：《麦斯》第6集：“果然很可怕的华武利”",
+   "text": "",
+   "url": "https://x.com/keisuke_higashi/status/2109080017535988081"
+  },
+  {
    "date": "2026-10-06",
    "tag": "SNS",
    "title": "本人Instagram：《王者天下Ⅱ》博多公演开幕，发了大阪公演的回忆照",
@@ -374,6 +479,13 @@ window.HUB = {
    "title": "《宇宙船》vol.194｜《假面骑士麦斯》专访",
    "text": "东启介专访在第41页，另附Maou海报。",
    "url": "https://www.uchusen-mag.jp/"
+  },
+  {
+   "date": "2026-09-29",
+   "tag": "SNS",
+   "title": "本人X：《王者天下Ⅱ》自己的大千秋乐结束",
+   "text": "开心又幸福的时间结束了。",
+   "url": "https://x.com/keisuke_higashi/status/2104906541073932756"
   },
   {
    "date": "2026-09-18",
@@ -390,6 +502,20 @@ window.HUB = {
    "url": "https://www.tohostage.com/kingdom2/"
   },
   {
+   "date": "2026-09-13",
+   "tag": "SNS",
+   "title": "本人X：《王者天下Ⅱ》东京公演全部结束",
+   "text": "下一站大阪。",
+   "url": "https://x.com/keisuke_higashi/status/2099127539218391112"
+  },
+  {
+   "date": "2026-09-11",
+   "tag": "SNS",
+   "title": "本人X：《王者天下Ⅱ》縄田先生来看戏",
+   "text": "",
+   "url": "https://x.com/keisuke_higashi/status/2098410410672361925"
+  },
+  {
    "date": "2026-09-08",
    "tag": "SNS",
    "title": "本人Instagram：《SWAN》千秋乐",
@@ -404,11 +530,25 @@ window.HUB = {
    "url": "https://www.instagram.com/keisuke_higashi_official/p/Dc_OLcOklnY/"
   },
   {
+   "date": "2026-09-07",
+   "tag": "SNS",
+   "title": "本人X：拍摄中的一刻",
+   "text": "回看拍好的东西用在下一次，或者就慢慢放松。",
+   "url": "https://x.com/keisuke_higashi/status/2096886910262403249"
+  },
+  {
    "date": "2026-09-06",
    "tag": "影视",
    "title": "《假面骑士麦斯》开播",
    "text": "每周日9:00，朝日电视台系列。",
    "url": "https://www.tv-asahi.co.jp/my-th/"
+  },
+  {
+   "date": "2026-09-06",
+   "tag": "SNS",
+   "title": "本人X：《麦斯》第1集播出",
+   "text": "说真的一直在等这一天；十二支同盟还上了趋势。",
+   "url": "https://x.com/keisuke_higashi/status/2096395647834611948"
   },
   {
    "date": "2026-09-05",
@@ -425,6 +565,13 @@ window.HUB = {
    "url": "https://www.instagram.com/keisuke_higashi_official/p/Dc7TbRbyGZq/"
   },
   {
+   "date": "2026-09-05",
+   "tag": "SNS",
+   "title": "本人X：蓝色监狱官方 YouTube《ブル研》",
+   "text": "说录得很开心。",
+   "url": "https://x.com/keisuke_higashi/status/2096224741896171576"
+  },
+  {
    "date": "2026-09-04",
    "tag": "舞台",
    "title": "朗读剧《SWAN：Ballet cross Reading》开演",
@@ -437,6 +584,13 @@ window.HUB = {
    "title": "本人Instagram：《SWAN》首日顺利结束",
    "text": "说是新的朗读剧形式；渡边小姐送了他一双芭蕾舞鞋。",
    "url": "https://www.instagram.com/keisuke_higashi_official/p/Dc3eLmqkjwn/"
+  },
+  {
+   "date": "2026-09-04",
+   "tag": "SNS",
+   "title": "本人X：体育日本专访「令和的最终BOSS？！」",
+   "text": "自己也被标题吓了一跳。",
+   "url": "https://x.com/keisuke_higashi/status/2095864880276676721"
   },
   {
    "date": "2026-09-02",
@@ -453,11 +607,39 @@ window.HUB = {
    "url": "https://engeki-audience.com/article/detail/23194/"
   },
   {
+   "date": "2026-08-30",
+   "tag": "SNS",
+   "title": "本人X：《假面骑士Zeztz》完结，接棒《麦斯》",
+   "text": "下周终于开播。",
+   "url": "https://x.com/keisuke_higashi/status/2093861730040655979"
+  },
+  {
    "date": "2026-08-29",
    "tag": "SNS",
    "title": "本人Instagram：和羌瘣役山本千寻的合照（王者天下Ⅱ）",
    "text": "每次看她的动作戏都在学习，能和她对打很感激。",
    "url": "https://www.instagram.com/keisuke_higashi_official/p/DcoBlRmksUi/"
+  },
+  {
+   "date": "2026-08-28",
+   "tag": "SNS",
+   "title": "本人X：《SWAN》连排，和同演草壁飞翔的秋元康臣",
+   "text": "",
+   "url": "https://x.com/keisuke_higashi/status/2093298561069015184"
+  },
+  {
+   "date": "2026-08-27",
+   "tag": "SNS",
+   "title": "本人X：Instagram 直播和 FC 直播",
+   "text": "FC 直播是会员内容。",
+   "url": "https://x.com/keisuke_higashi/status/2092924412936998975"
+  },
+  {
+   "date": "2026-08-26",
+   "tag": "SNS",
+   "title": "本人X：他拍的蓝色监狱 Team Z，高桥文哉看镜头",
+   "text": "现场气氛就是这么好。",
+   "url": "https://x.com/keisuke_higashi/status/2092416466406785535"
   },
   {
    "date": "2026-08-22",
