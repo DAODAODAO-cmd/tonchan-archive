@@ -3324,9 +3324,24 @@ window.HUB = {
    "work": "刀舞",
    "items": [
     {
+     "t": "亚克力立牌（烛台切在这一张里）",
+     "img": "assets/img/ext/4e66d6805653e575.webp",
+     "href": "assets/img/ext/4e66d6805653e575.webp"
+    },
+    {
+     "t": "手机挂片（70种）",
+     "img": "assets/img/ext/ee351033011f402a.webp",
+     "href": "assets/img/ext/ee351033011f402a.webp"
+    },
+    {
      "t": "随机徽章（B组）烛台切光忠",
      "img": "assets/img/goods/kiseki_badge_mitsutada.jpg",
      "href": "assets/img/goods/kiseki_badge_mitsutada.jpg"
+    },
+    {
+     "t": "随机伞标（B组）",
+     "img": "assets/img/ext/bd3b82f811d4ddee.webp",
+     "href": "assets/img/ext/bd3b82f811d4ddee.webp"
     },
     {
      "t": "万里一空刀绘卷（蛇腹写真书）",
