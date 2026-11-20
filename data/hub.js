@@ -1232,12 +1232,29 @@ window.HUB = {
    "title": "Future系列 东启介生写真 vol.1",
    "status": "已结束",
    "price": "各160円（L判）",
-   "image": "",
+   "image": "assets/img/ext/e76dd6904d0209a0.jpg",
    "points": [
     "最早期的个人生写真，A/B/C 三种"
    ],
    "url": "https://ameblo.jp/we-goodsinfo/entry-11911691365.html",
-   "publisher": "WE SHOP／ワタナベ商店"
+   "publisher": "WE SHOP／ワタナベ商店",
+   "items": [
+    {
+     "t": "Vol.1 A",
+     "img": "assets/img/ext/e76dd6904d0209a0.jpg",
+     "href": "assets/img/ext/e76dd6904d0209a0.jpg"
+    },
+    {
+     "t": "Vol.1 B",
+     "img": "assets/img/ext/1ff85f98eb6215bd.jpg",
+     "href": "assets/img/ext/1ff85f98eb6215bd.jpg"
+    },
+    {
+     "t": "Vol.1 C",
+     "img": "assets/img/ext/32f8a0b7e6c20a15.jpg",
+     "href": "assets/img/ext/32f8a0b7e6c20a15.jpg"
+    }
+   ]
   },
   {
    "date": "2015-05-23",

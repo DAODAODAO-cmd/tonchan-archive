@@ -849,6 +849,39 @@ window.ARCHIVE = {
    "cardPhoto": "assets/img/yakumo_oda.jpg"
   },
   {
+   "id": "bro_201503",
+   "date": "2015-03-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2015年3月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2015年3月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "",
+   "note": "",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420817.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x955b05eb171fa35a",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420815.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "xb2e58a7ff03424f0",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "am_ayakashi_bro1",
    "date": "2015-05-01",
    "end": "",
@@ -869,6 +902,39 @@ window.ARCHIVE = {
      "caption": "官方周边图",
      "source": "https://ameblo.jp/we-goodsinfo/entry-12017058255.html",
      "asset": "x5289ff65d3480b5d",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
+   "id": "bro_201505",
+   "date": "2015-05-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2015年5月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2015年5月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "",
+   "note": "",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420814.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "xf6c48f90206e41cc",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420812.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "xa54ccc5b519c4658",
      "resolution": ""
     }
    ],
@@ -998,6 +1064,39 @@ window.ARCHIVE = {
    "roleName": "原田左之助",
    "cardPoster": "assets/img/roles/e6_poster.jpg",
    "cardPhoto": "assets/img/ext/e07a91d385784540.jpg"
+  },
+  {
+   "id": "bro_201507",
+   "date": "2015-07-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2015年7月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2015年7月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "",
+   "note": "",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420819.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x7f89203ba64f5ce6",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420820.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x2904a99effb4d983",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e7",
@@ -1156,6 +1255,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201509",
+   "date": "2015-09-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2015年9月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2015年9月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "",
+   "note": "",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134746.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x02f60d46f7a74629",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "am_ayakashi_bro2",
    "date": "2015-09-05",
    "end": "",
@@ -1217,6 +1342,32 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201511",
+   "date": "2015-11-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2015年11月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2015年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "",
+   "note": "",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3314210.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x6fca185287e309cd",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "am_premset15",
    "date": "2015-12-24",
    "end": "",
@@ -1255,6 +1406,69 @@ window.ARCHIVE = {
      "caption": "复刻套组【vol.7&8】",
      "source": "",
      "asset": "xcfc0097833b2ef07"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420821.jpg",
+     "caption": "早期生写真 Vol.1（实物）",
+     "source": "",
+     "asset": "xe76dd6904d0209a0",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420822.jpg",
+     "caption": "早期生写真 Vol.1（实物）",
+     "source": "",
+     "asset": "x1ff85f98eb6215bd",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420823.jpg",
+     "caption": "早期生写真 Vol.1（实物）",
+     "source": "",
+     "asset": "x32f8a0b7e6c20a15",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420824.jpg",
+     "caption": "早期生写真 Vol.2（实物）",
+     "source": "",
+     "asset": "x91f67b4f77e139ba",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420825.jpg",
+     "caption": "早期生写真 Vol.2（实物）",
+     "source": "",
+     "asset": "x53d12259615a611e",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420826.jpg",
+     "caption": "早期生写真 Vol.2（实物）",
+     "source": "",
+     "asset": "x17ea79065ef7faba",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420827.jpg",
+     "caption": "早期生写真 Vol.3（实物）",
+     "source": "",
+     "asset": "x901e277c3caa134d",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420828.jpg",
+     "caption": "早期生写真 Vol.3（实物）",
+     "source": "",
+     "asset": "x0f80a45b6e367dfa",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420829.jpg",
+     "caption": "早期生写真 Vol.3（实物）",
+     "source": "",
+     "asset": "x8528bc71dc4be87b",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -1495,6 +1709,46 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "id": "bro_201605",
+   "date": "2016-05-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2016年5月〉",
+   "japanese": "WE SHOPオフィシャルブロマイド ～2016年5月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "",
+   "note": "",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361172.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "xa15fa2f85c51f043",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361171.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x074709000cf76166",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361173.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x0e99c7f7f975ee63",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
   },
   {
    "id": "e11",
@@ -3398,13 +3652,6 @@ window.ARCHIVE = {
      "asset": "xa46068b8841709eb"
     },
     {
-     "url": "https://pbs.twimg.com/media/C_7ya1TU0AAJcoG?format=jpg&name=large",
-     "caption": "本人发的生写真",
-     "source": "https://x.com/keisuke_higashi/status/864394732457271296",
-     "asset": "x1a5c4d644b14893b",
-     "resolution": ""
-    },
-    {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378638.jpg",
      "caption": "生写真（骏河屋商品图）",
      "source": "",
@@ -3421,6 +3668,20 @@ window.ARCHIVE = {
      "caption": "生写真（骏河屋商品图）",
      "source": "",
      "asset": "xd10faa64c52fa43b"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378641.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x8bd12cc3e069ef26",
+     "resolution": ""
+    },
+    {
+     "url": "https://pbs.twimg.com/media/C_7ya1TU0AAJcoG?format=jpg&name=large",
+     "caption": "本人发的生写真",
+     "source": "https://x.com/keisuke_higashi/status/864394732457271296",
+     "asset": "x1a5c4d644b14893b",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -41253,7 +41514,28 @@ window.ARCHIVE = {
   "x4242dd00bb8496f6": "assets/img/ext/4242dd00bb8496f6.jpg",
   "xa613290e22826647": "assets/img/ext/a613290e22826647.jpg",
   "xa8219b479767415e": "assets/img/ext/a8219b479767415e.jpg",
-  "x0c9434e46dd5ebf1": "assets/img/ext/0c9434e46dd5ebf1.jpg"
+  "x0c9434e46dd5ebf1": "assets/img/ext/0c9434e46dd5ebf1.jpg",
+  "x955b05eb171fa35a": "assets/img/ext/955b05eb171fa35a.jpg",
+  "xb2e58a7ff03424f0": "assets/img/ext/b2e58a7ff03424f0.jpg",
+  "xf6c48f90206e41cc": "assets/img/ext/f6c48f90206e41cc.jpg",
+  "xa54ccc5b519c4658": "assets/img/ext/a54ccc5b519c4658.jpg",
+  "x7f89203ba64f5ce6": "assets/img/ext/7f89203ba64f5ce6.jpg",
+  "x2904a99effb4d983": "assets/img/ext/2904a99effb4d983.jpg",
+  "x02f60d46f7a74629": "assets/img/ext/02f60d46f7a74629.jpg",
+  "x6fca185287e309cd": "assets/img/ext/6fca185287e309cd.jpg",
+  "xa15fa2f85c51f043": "assets/img/ext/a15fa2f85c51f043.jpg",
+  "x074709000cf76166": "assets/img/ext/074709000cf76166.jpg",
+  "x0e99c7f7f975ee63": "assets/img/ext/0e99c7f7f975ee63.jpg",
+  "x8bd12cc3e069ef26": "assets/img/ext/8bd12cc3e069ef26.jpg",
+  "xe76dd6904d0209a0": "assets/img/ext/e76dd6904d0209a0.jpg",
+  "x1ff85f98eb6215bd": "assets/img/ext/1ff85f98eb6215bd.jpg",
+  "x32f8a0b7e6c20a15": "assets/img/ext/32f8a0b7e6c20a15.jpg",
+  "x91f67b4f77e139ba": "assets/img/ext/91f67b4f77e139ba.jpg",
+  "x53d12259615a611e": "assets/img/ext/53d12259615a611e.jpg",
+  "x17ea79065ef7faba": "assets/img/ext/17ea79065ef7faba.jpg",
+  "x901e277c3caa134d": "assets/img/ext/901e277c3caa134d.jpg",
+  "x0f80a45b6e367dfa": "assets/img/ext/0f80a45b6e367dfa.jpg",
+  "x8528bc71dc4be87b": "assets/img/ext/8528bc71dc4be87b.jpg"
  },
  "biliLeads": [
   {
