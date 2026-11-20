@@ -6764,10 +6764,25 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://www.meijiza.co.jp/lineup/2019/07/images/gallery/06.jpg",
+     "caption": "明治座舞台照：胜麟太郎",
+     "source": "https://www.meijiza.co.jp/lineup/2019/07/",
+     "asset": "x38738a983f5fa139",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://www.meijiza.co.jp/lineup/2019/07/images/gallery/10.jpg",
+     "caption": "明治座舞台照：麟太郎（右）与父亲小吉（中村雅俊）",
+     "source": "https://www.meijiza.co.jp/lineup/2019/07/",
+     "asset": "xbf163ff666f86806",
+     "hasHigashi": true
+    },
+    {
      "url": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg",
-     "caption": "剧照：胜麟太郎",
-     "source": "明治座",
-     "asset": "xabd8928f5d701370"
+     "caption": "明治座官网演员照",
+     "source": "https://www.meijiza.co.jp/lineup/2019/07/",
+     "asset": "xabd8928f5d701370",
+     "hasHigashi": true
     },
     {
      "url": "https://www.meijiza.co.jp/lineup/2019/07/images/main_header.jpg",
@@ -6777,7 +6792,12 @@ window.ARCHIVE = {
      "resolution": "1280 × 610"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "【中村雅俊45th周年公演】中村雅俊评论视频（ローチケ，作品宣传）",
+     "url": "https://www.youtube.com/watch?v=X8RxZ3OzFf8"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
@@ -39930,7 +39950,9 @@ window.ARCHIVE = {
   "xcf121f03e764c871": "assets/img/ext/cf121f03e764c871.jpg",
   "xadae77d11d480c8c": "assets/img/ext/adae77d11d480c8c.jpg",
   "x19f9f26b52806d7d": "assets/img/ext/19f9f26b52806d7d.jpg",
-  "xed5dc3987a704aac": "assets/img/ext/ed5dc3987a704aac.jpg"
+  "xed5dc3987a704aac": "assets/img/ext/ed5dc3987a704aac.jpg",
+  "x38738a983f5fa139": "assets/img/ext/38738a983f5fa139.jpg",
+  "xbf163ff666f86806": "assets/img/ext/bf163ff666f86806.jpg"
  },
  "biliLeads": [
   {
