@@ -44,13 +44,8 @@
     const view=root.dataset.view;
     if(view!=='home'&&view!=='all'){
       const heading=document.createElement('div');heading.className='wrap view-heading';
-      heading.innerHTML=`<h1>${esc(view==='works'?'作品与角色':labels[view]||'档案')}</h1><p>${esc({works:'按作品查资料，或切到角色看造型。',goods:'按作品找周边，过往记录也收录在这里。',now:'查近期安排，或切换查看新公布的消息。',videos:'按类型与平台浏览视频资料。',about:'基本资料、经历与官方渠道。'}[view])}</p>`;
+      heading.innerHTML=`<h1>${esc(view==='works'?'作品':labels[view]||'档案')}</h1><p>${esc({works:'按作品查资料，饰演的角色和剧照都在作品卡里。',goods:'按作品找周边，过往记录也收录在这里。',now:'查近期安排，或切换查看新公布的消息。',videos:'按类型与平台浏览视频资料。',about:'基本资料、经历与官方渠道。'}[view])}</p>`;
       if(view==='now')heading.innerHTML+='<nav class="near-tabs" aria-label="近况浏览方式">'+[['schedule','近况与日程'],['news','消息更新']].map(([k,t])=>`<a href="index.html?view=now&tab=${k}"${(params.get('tab')==='news'?'news':'schedule')===k?' aria-current="page"':''}>${t}</a>`).join('')+'</nav>';
-      if(view==='works'){
-        const roleView=root.dataset.mode!=='works';
-        heading.innerHTML+='<nav class="near-tabs" aria-label="作品或角色"><a href="index.html?view=works&mode=works"'+(!roleView?' aria-current="page"':'')+'>作品</a><a href="index.html?view=works&mode=roles"'+(roleView?' aria-current="page"':'')+'>角色</a></nav>';
-        if(roleView)heading.innerHTML+='<nav class="view-options" aria-label="角色显示方式"><span>显示方式</span>'+[['roles','双列图鉴'],['cards','海报角色卡']].map(([k,t])=>`<a href="index.html?view=works&mode=${k}"${root.dataset.mode===k?' aria-current="page"':''}>${t}</a>`).join('')+'</nav>';
-      }
       if(view==='goods')heading.innerHTML+='<nav class="near-tabs" aria-label="收藏分类"><a href="index.html?view=goods" aria-current="page">周边图鉴</a><a href="list.html?g=audio">音像资料</a></nav>';
       document.querySelector('main').prepend(heading);
     }

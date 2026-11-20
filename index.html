@@ -350,7 +350,7 @@ footer p{margin:4px 0}
 <script>document.addEventListener('error',function(e){var i=e.target;if(!i||i.tagName!=='IMG'||i.dataset.fb)return;i.dataset.fb='1';var d=document.createElement('div');d.className='imgfb';var t=(i.alt||'').trim();d.textContent=t&&t.length<40?t:'東';d.style.borderRadius=getComputedStyle(i).borderRadius;i.replaceWith(d)},true)</script>
 <link rel="stylesheet" href="assets/mobile.css?v=1120r13">
 <script>
-(() => {const h=location.hash.slice(1),legacy={now:'now',upcoming:'now',news:'now',works:'works',roles:'works',goods:'goods',videos:'videos',about:'about',profile:'about',says:'about',links:'about'};const v=new URLSearchParams(location.search).get('view');document.documentElement.dataset.page='hub';const mode=new URLSearchParams(location.search).get('mode');document.documentElement.dataset.mode=mode==='cards'?'cards':mode==='roles'||h==='roles'?'roles':'works';document.documentElement.dataset.near=new URLSearchParams(location.search).get('tab')==='news'||h==='news'?'news':'schedule';document.documentElement.dataset.view=['home','now','works','goods','videos','about','all'].includes(v)?v:(legacy[h]||'home')})();
+(() => {const h=location.hash.slice(1),legacy={now:'now',upcoming:'now',news:'now',works:'works',roles:'works',goods:'goods',videos:'videos',about:'about',profile:'about',says:'about',links:'about'};const v=new URLSearchParams(location.search).get('view');document.documentElement.dataset.page='hub';const mode=new URLSearchParams(location.search).get('mode');document.documentElement.dataset.mode='works';document.documentElement.dataset.near=new URLSearchParams(location.search).get('tab')==='news'||h==='news'?'news':'schedule';document.documentElement.dataset.view=['home','now','works','goods','videos','about','all'].includes(v)?v:(legacy[h]||'home')})();
 </script>
 </head>
 <body>
@@ -386,7 +386,7 @@ footer p{margin:4px 0}
 <div class="sec-head"><h2><em>EXPLORE</em>探索档案</h2></div>
 <div class="explore-grid">
 <a href="index.html?view=now"><b>近况与日程</b><span>当前重点 · 最新消息</span></a>
-<a href="index.html?view=works"><b>作品与角色</b><span>演出资料 · 角色造型</span></a>
+<a href="index.html?view=works"><b>作品</b><span>演出资料 · 饰演角色</span></a>
 <a href="index.html?view=goods"><b>图片与周边</b><span>商品套图 · 过往收藏</span></a>
 <a href="index.html?view=videos"><b>视频资料</b><span>演出 · 访谈 · 节目</span></a>
 </div></div></section>
@@ -598,6 +598,6 @@ const st=$('roleStrip');$('rPrev').onclick=()=>st.scrollBy({left:-st.clientWidth
 <script src="assets/visit.js" defer></script>
 <script src="assets/role-preview.js?v=1120r13"></script>
 <script src="assets/browse-state.js?v=1120r13"></script>
-<script src="assets/navigation.js?v=1120r13"></script>
+<script src="assets/navigation.js?v=1120t"></script>
 </body>
 </html>
