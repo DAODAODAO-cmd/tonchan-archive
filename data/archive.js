@@ -1819,12 +1819,6 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-191959-0.jpg",
-     "caption": "主视觉",
-     "source": "マーベラス（PR TIMES）",
-     "asset": "xb8926f1833358a0f"
-    },
-    {
      "url": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
      "caption": "Blu-ray封面",
      "source": "HMV",
@@ -2076,7 +2070,7 @@ window.ARCHIVE = {
    "workRoma": "ANOTHER WORLD",
    "roleName": "威尔",
    "cardPoster": "assets/img/roles/e12_poster.jpg",
-   "cardPhoto": "assets/img/ext/112a01c2ac220d35.png"
+   "cardPhoto": "assets/img/7cd13d3d826ee6ef.png"
   },
   {
    "id": "nat_omoshii6",
@@ -2231,13 +2225,6 @@ window.ARCHIVE = {
      "asset": "x51601871d6edce97",
      "hasHigashi": true,
      "resolution": ""
-    },
-    {
-     "url": "https://engekisengen.com/wp-content/uploads/2024/05/pedal-2.jpg",
-     "caption": "文章配图",
-     "source": "https://engekisengen.com/genre/engekisengenbeta/84071/",
-     "asset": "8ca6bc46ca34fdb2",
-     "resolution": "600 × 411"
     }
    ],
    "videos": [],
@@ -2869,13 +2856,6 @@ window.ARCHIVE = {
      "source": "",
      "asset": "x29f0094a5d3bf656",
      "resolution": ""
-    },
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/3509/9784331803509.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "",
-     "asset": "xf31504a10cc6d644",
-     "resolution": ""
     }
    ],
    "videos": [
@@ -2969,7 +2949,7 @@ window.ARCHIVE = {
    "workRoma": "KYODEN · REVIVAL",
    "roleName": "烛台切光忠",
    "cardPoster": "assets/img/roles/e15_poster.jpg",
-   "cardPhoto": "assets/img/ext/b025434857de94ed.jpg"
+   "cardPhoto": "assets/img/cfd612799f9fb6c6.jpg"
   },
   {
    "id": "nat_qj129",
@@ -3393,7 +3373,7 @@ window.ARCHIVE = {
    "workRoma": "STARTING LINE",
    "roleName": "苇木场拓斗",
    "cardPoster": "assets/img/roles/e16_poster.jpg",
-   "cardPhoto": "assets/img/ext/69b25a4006adf982.jpg"
+   "cardPhoto": "assets/img/9736334a1dd62089.jpg"
   },
   {
    "id": "bro_201703",
@@ -3682,13 +3662,6 @@ window.ARCHIVE = {
      "source": "https://www.marv.jp/special/m-hakuoki-harada/cast.html",
      "asset": "98bee33caaeba415",
      "resolution": "960 × 683"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2017/0303/hakuoki_harada_main.jpg",
-     "caption": "宣传海报",
-     "source": "https://natalie.mu/profile/86678/news",
-     "asset": "x5782eed44b0392b2",
-     "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361333.jpg",
@@ -4155,7 +4128,7 @@ window.ARCHIVE = {
    "workRoma": "GIDEN",
    "roleName": "烛台切光忠",
    "cardPoster": "assets/img/roles/e18_poster.jpg",
-   "cardPhoto": "assets/img/ext/42b72cf6b80e5673.jpg"
+   "cardPhoto": "assets/img/fd8231a83e079e85.jpg"
   },
   {
    "id": "mag_rk14945701",
@@ -4923,7 +4896,7 @@ window.ARCHIVE = {
    "roleRoma": "HAL",
    "workRoma": "THE SCARLET PIMPERNEL",
    "roleName": "哈尔",
-   "cardPhoto": "assets/img/ext/66ab33aa2fa7e1f3.jpg"
+   "cardPhoto": "assets/img/8f3e6469019248a8.jpg"
   },
   {
    "id": "mag_rm_95423071",
@@ -5307,7 +5280,7 @@ window.ARCHIVE = {
    "roleRoma": "ARMAND",
    "workRoma": "MATA HARI",
    "roleName": "阿尔芒",
-   "cardPhoto": "assets/img/ext/15fa115e43da074d.jpg"
+   "cardPhoto": "assets/img/7904c1e43705c5ac.jpg"
   },
   {
    "id": "bro_201802",
@@ -5673,13 +5646,6 @@ window.ARCHIVE = {
      "caption": "主视觉",
      "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
      "asset": "x713f6ce91f529369",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2017/1222/5DAYS_visual.jpg",
-     "caption": "宣传海报",
-     "source": "https://natalie.mu/profile/86678/news",
-     "asset": "x424af018d8eac46c",
      "resolution": ""
     },
     {
@@ -6092,7 +6058,7 @@ window.ARCHIVE = {
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "HIDEN",
    "roleName": "烛台切光忠",
-   "cardPhoto": "assets/img/ext/7b63ccb2512541a6.jpg",
+   "cardPhoto": "assets/img/197d996f9649e33b.jpg",
    "cardPoster": "assets/img/ext/af3339dc9a6279ec.jpg"
   },
   {
@@ -6731,12 +6697,6 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg",
-     "caption": "主视觉",
-     "source": "コミックナタリー",
-     "asset": "x088c97eda5e51e45"
-    },
-    {
      "url": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-2.png",
      "caption": "官网角色设定：时丸（脸部）",
      "source": "https://garo-project.jp/usuzumizakura/sp/character.php",
@@ -7039,13 +6999,6 @@ window.ARCHIVE = {
      "source": "",
      "asset": "xb3544334b217d9e8",
      "resolution": ""
-    },
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/1286/4910018571286.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "",
-     "asset": "xf7e0b4a5da52a14c",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -7318,13 +7271,6 @@ window.ARCHIVE = {
      "caption": "封面",
      "source": "",
      "asset": "xec3730df0e6dde56",
-     "resolution": ""
-    },
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/4094/9784331804094.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "",
-     "asset": "x8638d3015fd1c475",
      "resolution": ""
     }
    ],
@@ -9470,13 +9416,6 @@ window.ARCHIVE = {
      "asset": "x615c37b11b2f03f8",
      "hasHigashi": true,
      "resolution": ""
-    },
-    {
-     "url": "https://engekisengen.com/wp-content/uploads/2020/10/B5A5634OK-e1602491225934.jpg",
-     "caption": "ローチケ演劇宣言！",
-     "source": "https://engekisengen.com/genre/musical/24286/",
-     "asset": "xbaaad0e675727aa3",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -10591,13 +10530,6 @@ window.ARCHIVE = {
      "source": "",
      "asset": "x8d68b13c8668e3ed",
      "resolution": ""
-    },
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/3204/9784838793204.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "",
-     "asset": "x3c802c0648c0626d",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -11306,7 +11238,7 @@ window.ARCHIVE = {
    "roleRoma": "ARMAND GIRAUD",
    "workRoma": "MATA HARI 2021",
    "roleName": "阿尔芒",
-   "cardPhoto": "assets/img/ext/4286071d12dcc199.jpg"
+   "cardPhoto": "assets/img/9d730935686c9892.jpg"
   },
   {
    "id": "pr_katokazuki_pb",
@@ -11775,7 +11707,7 @@ window.ARCHIVE = {
    "roleRoma": "KAGAMI OSAMU",
    "workRoma": "TSUMARI SUKI",
    "roleName": "加贺见修",
-   "cardPhoto": "assets/img/ext/4b72ae6cbfabe0d3.jpg",
+   "cardPhoto": "assets/img/404fe5babd62f095.jpg",
    "cardPoster": "assets/img/ext/55daf74320ac273c.jpg"
   },
   {
@@ -11898,7 +11830,7 @@ window.ARCHIVE = {
    "roleRoma": "IDE YU",
    "workRoma": "WATASHI GA KEMONO NI NATTA YORU",
    "roleName": "井手祐",
-   "cardPhoto": "assets/img/ext/5ff7e29d5cb4e9c3.png",
+   "cardPhoto": "assets/img/ext/97c01fbf10f8e184.png",
    "cardPhotoBg": "36% 11% / auto 150%",
    "cardPoster": "assets/img/ext/2689aaf6102f5ae0.png"
   },
@@ -13987,13 +13919,6 @@ window.ARCHIVE = {
      "source": "https://grand-arts.com/works/stage/2022the_beautiful_game/",
      "asset": "fb0c7de1716e431b",
      "resolution": "1200 × 630"
-    },
-    {
-     "url": "https://pbs.twimg.com/media/FgtXe0kaUAUgo_X?format=jpg&name=large",
-     "caption": "全演员公布（东宝演剧部X，2022.11.4）",
-     "source": "https://x.com/toho_stage/status/1588459488121876482",
-     "asset": "xdb3cc24f79b77b2b",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -14028,13 +13953,6 @@ window.ARCHIVE = {
      "caption": "封面",
      "source": "",
      "asset": "xdd0c33bdcd5542d8",
-     "resolution": ""
-    },
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "",
-     "asset": "xeae4ff0e4eabef16",
      "resolution": ""
     }
    ],
@@ -15996,7 +15914,7 @@ window.ARCHIVE = {
    "roleRoma": "YOUNGER BROTHER",
    "workRoma": "RAGTIME",
    "roleName": "弟弟",
-   "cardPhoto": "assets/img/ext/18a40a19df45fcd1.jpg"
+   "cardPhoto": "assets/img/d878339cc942afd6.jpg"
   },
   {
    "id": "m6680",
@@ -17006,24 +16924,6 @@ window.ARCHIVE = {
      "caption": "舞台照",
      "source": "SPICE",
      "asset": "xbce2aef6f51779c3"
-    },
-    {
-     "url": "https://spice.eplus.jp/images/hLCUzWDwrarbE3MUxEpuRXnnhsdb2oWrBN2iXdhrjup3ChTBO9CqhJ57pxMXqZxv/",
-     "caption": "舞台照",
-     "source": "SPICE",
-     "asset": "xf11df6abe3b7ab6f"
-    },
-    {
-     "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20231125/20231125104446.jpg",
-     "caption": "舞台照",
-     "source": "Musical Theater Japan",
-     "asset": "xb708c867d9cf3465"
-    },
-    {
-     "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20231125/20231125104238.jpg",
-     "caption": "舞台照",
-     "source": "Musical Theater Japan",
-     "asset": "xe194a1e12f9550cb"
     },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6470/458/6470-458-38c610614bc261b41153c44797b31bc9-3069x2301.jpg?format=jpeg&width=1950&height=1350&fit=bounds",
@@ -18682,13 +18582,6 @@ window.ARCHIVE = {
      "asset": "x3ff71151ebd562b4",
      "resolution": "",
      "hasHigashi": true
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2024/0417/JBB_art202404.jpg",
-     "caption": "ステージナタリー",
-     "source": "https://natalie.mu/stage/news/569801",
-     "asset": "xaf960ae52ad063fb",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -19130,20 +19023,6 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://enterstage.jp/wp/wp-content/uploads/2024/10/20241015_higashi_-1.jpg",
-     "caption": "エンタステージ",
-     "source": "https://enterstage.jp/articles/161227",
-     "asset": "x6ef6ddfa094ca4c5",
-     "resolution": ""
-    },
-    {
-     "url": "https://enterstage.jp/wp/wp-content/uploads/2024/10/20241015_higashi_-2.jpg",
-     "caption": "エンタステージ",
-     "source": "https://enterstage.jp/articles/161227",
-     "asset": "x65e57a1316c34199",
-     "resolution": ""
-    },
-    {
      "url": "https://theatertainment.jp/wp-content/uploads/2024/10/2410keisuke.jpg",
      "caption": "シアターテイメント",
      "source": "https://theatertainment.jp/cast-staff/132646/",
@@ -19177,13 +19056,6 @@ window.ARCHIVE = {
      "caption": "新作详情发表（ボイスフレンド官方X，2024.10.11）",
      "source": "https://x.com/voice_friend_jp/status/1844558590230884784",
      "asset": "xd5af23ba74b89337",
-     "resolution": ""
-    },
-    {
-     "url": "https://prcdn.freetls.fastly.net/release_image/23227/460/23227-460-59c09f2358d5239cbb79cc9164812f0d-1733x1228.png",
-     "caption": "新闻稿配图",
-     "source": "https://prtimes.jp/main/html/rd/p/000000460.000023227.html",
-     "asset": "x7a0a47e05a73700d",
      "resolution": ""
     }
    ],
@@ -19443,13 +19315,6 @@ window.ARCHIVE = {
      "source": "",
      "asset": "xa3a14498e57e7299",
      "resolution": ""
-    },
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/4560/9784838794560_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "",
-     "asset": "xfdbf87735e7b6b47",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -19656,13 +19521,6 @@ window.ARCHIVE = {
      "caption": "封面",
      "source": "",
      "asset": "xa775e42a23b18d55",
-     "resolution": ""
-    },
-    {
-     "url": "https://tshop.r10s.jp/book/cabinet/4786/9784863884786_1_2.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "",
-     "asset": "x5c19bf20acf7ea39",
      "resolution": ""
     }
    ],
@@ -21201,13 +21059,6 @@ window.ARCHIVE = {
      "source": "",
      "asset": "xa228156cc32e56f6",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2025/0729/ovca_00039_jacket.jpg",
-     "caption": "ステージナタリー",
-     "source": "https://natalie.mu/stage/news/634015",
-     "asset": "x419574a1a88e6758",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -21489,13 +21340,6 @@ window.ARCHIVE = {
      "caption": "主视觉",
      "source": "https://kaidankagura.wixsite.com/sumu2025",
      "asset": "xdc72b3eb8f533378",
-     "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/play/4597/kagurazakakaikitan.jpg?imwidth=750&imdensity=1",
-     "caption": "公演海报",
-     "source": "https://natalie.mu/stage/play/4597",
-     "asset": "x5050724933d0dc12",
      "resolution": ""
     }
    ],
@@ -21952,12 +21796,6 @@ window.ARCHIVE = {
      "asset": "xb0f66b80711315a7"
     },
     {
-     "url": "https://animeanime.jp/imgs/zoom/889762.jpg",
-     "caption": "场面照：马狼照英撞倒对手",
-     "source": "https://animeanime.jp/article/2026/06/09/99917.html",
-     "asset": "xcbacdba9fc9e2f24"
-    },
-    {
      "url": "https://ogre.natalie.mu/media/news/eiga/2026/0207/bluelock-movie_202602_teaser.jpg",
      "caption": "预告海报",
      "source": "ナタリー",
@@ -22177,18 +22015,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/5740",
      "asset": "x7a8ea8616a69eefa",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2026/0731/KINGDOM2_higasi.jpg",
-     "caption": "角色照：庞煖",
-     "source": "ステージナタリー",
-     "asset": "x84b42ed87ed271e1"
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2026/0329/kingdom_miura_teaser.jpg",
-     "caption": "主视觉",
-     "source": "ステージナタリー",
-     "asset": "x7a2fbe1e721aae1c"
     }
    ],
    "videos": [
@@ -22507,12 +22333,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/5485",
      "asset": "x08c7ff9c0d5bbbb9",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2026/0526/SWAN_main.jpg",
-     "caption": "主视觉",
-     "source": "ステージナタリー",
-     "asset": "xd5a6f831aa648167"
     }
    ],
    "videos": [
@@ -23259,12 +23079,6 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/play/5950",
      "asset": "x172a3c486dda0f2d",
      "resolution": ""
-    },
-    {
-     "url": "https://ogre.natalie.mu/media/news/stage/2026/0717/oustayou_KV_0716-2.jpg",
-     "caption": "主视觉",
-     "source": "ステージナタリー",
-     "asset": "xf9f9767bb5255de4"
     }
    ],
    "videos": [],
@@ -23612,13 +23426,6 @@ window.ARCHIVE = {
      "caption": "Animate通贩特典生写真",
      "source": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html",
      "asset": "xf7063eefefa37944"
-    },
-    {
-     "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_cover_00.jpg",
-     "caption": "写真集封面",
-     "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
-     "asset": "x9bbee73e64c0573b",
-     "resolution": ""
     },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6568/3537/6568-3537-1eddf834bf77b7f27dc01c1fd0d3bd19-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -41678,7 +41485,6 @@ window.ARCHIVE = {
   "x4bf38ccdcaabe962": "assets/img/ext/4bf38ccdcaabe962.jpg",
   "x8ed342790265795e": "assets/img/ext/8ed342790265795e.jpg",
   "xd859d3ddc86b6e5e": "assets/img/ext/d859d3ddc86b6e5e.jpg",
-  "x9bbee73e64c0573b": "assets/img/ext/9bbee73e64c0573b.jpg",
   "x6af997f3ce83cded": "assets/img/ext/6af997f3ce83cded.jpg",
   "xdfa1bf18f6716f48": "assets/img/ext/dfa1bf18f6716f48.jpg",
   "xaa6d4782fd433db9": "assets/img/ext/aa6d4782fd433db9.webp",
