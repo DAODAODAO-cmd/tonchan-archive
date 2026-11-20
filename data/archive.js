@@ -14341,6 +14341,36 @@ window.ARCHIVE = {
    "dateKind": "官方标注首播日",
    "images": [
     {
+     "url": "https://www.mbs.jp/joshikousei-souninaru/images/chart/03.webp",
+     "caption": "官网人物关系图：里中树（东启介）",
+     "source": "https://www.mbs.jp/joshikousei-souninaru/chart.shtml",
+     "asset": "x538683246fba7092"
+    },
+    {
+     "url": "https://www.mbs.jp/joshikousei-souninaru/images/episode/01-09.webp",
+     "caption": "第1话剧照：里中树",
+     "source": "https://www.mbs.jp/joshikousei-souninaru/episode.shtml",
+     "asset": "x2d4b5ea0b9129b3c"
+    },
+    {
+     "url": "https://www.mbs.jp/joshikousei-souninaru/images/episode/01-10.webp",
+     "caption": "第1话剧照：里中树",
+     "source": "https://www.mbs.jp/joshikousei-souninaru/episode.shtml",
+     "asset": "xe73f326e56a84acc"
+    },
+    {
+     "url": "https://www.mbs.jp/joshikousei-souninaru/images/episode/03-02.webp",
+     "caption": "第3话剧照：里中树",
+     "source": "https://www.mbs.jp/joshikousei-souninaru/episode.shtml",
+     "asset": "x8f6c8efec75647fc"
+    },
+    {
+     "url": "https://www.mbs.jp/joshikousei-souninaru/images/episode/04-10.webp",
+     "caption": "第4话剧照：里中树",
+     "source": "https://www.mbs.jp/joshikousei-souninaru/episode.shtml",
+     "asset": "xc59ac63940f236e1"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_08.jpg",
      "caption": "角色照：里中树",
      "source": "映画ナタリー",
@@ -39851,7 +39881,12 @@ window.ARCHIVE = {
   "x0c6551d5bd831f38": "assets/img/ext/0c6551d5bd831f38.jpg",
   "xcb5fbbc34f0528cb": "assets/img/ext/cb5fbbc34f0528cb.jpg",
   "x23f5faea2b1e4fce": "assets/img/ext/23f5faea2b1e4fce.jpg",
-  "x42bf9252bb0eaf65": "assets/img/ext/42bf9252bb0eaf65.jpg"
+  "x42bf9252bb0eaf65": "assets/img/ext/42bf9252bb0eaf65.jpg",
+  "x538683246fba7092": "assets/img/ext/538683246fba7092.webp",
+  "xc59ac63940f236e1": "assets/img/ext/c59ac63940f236e1.webp",
+  "x8f6c8efec75647fc": "assets/img/ext/8f6c8efec75647fc.webp",
+  "xe73f326e56a84acc": "assets/img/ext/e73f326e56a84acc.webp",
+  "x2d4b5ea0b9129b3c": "assets/img/ext/2d4b5ea0b9129b3c.webp"
  },
  "biliLeads": [
   {
