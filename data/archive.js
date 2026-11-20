@@ -7975,32 +7975,6 @@ window.ARCHIVE = {
    "end": ""
   },
   {
-   "id": "mts_rev963",
-   "date": "2020-08-01",
-   "end": "",
-   "category": "采访／连载",
-   "title": "【MICHIMARU剧评】《泽西男孩 in Concert》",
-   "japanese": "【MICHIMARU劇評】『ジャージー・ボーイズ イン コンサート』",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://matisowa.jp/963/",
-   "note": "",
-   "status": "已刊载",
-   "origin": "Matisowa",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw011.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/963/",
-     "asset": "x9a5e37691b0de026",
-     "resolution": ""
-    }
-   ],
-   "videos": []
-  },
-  {
    "id": "nat_link20",
    "date": "2020-08-10",
    "end": "",
@@ -13169,32 +13143,6 @@ window.ARCHIVE = {
    "cardPoster": "assets/img/ext/7e5e0d5cc804d416.jpg"
   },
   {
-   "id": "mts_rev3965",
-   "date": "2023-04-22",
-   "end": "",
-   "category": "采访／连载",
-   "title": "【MICHIMARU剧评】《二次会のひとたち》",
-   "japanese": "【MICHIMARU劇評】『二次会のひとたち』",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://matisowa.jp/3965/",
-   "note": "",
-   "status": "已刊载",
-   "origin": "Matisowa",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/04/nijikai_img_05.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/3965/",
-     "asset": "x430cfa8ea2908204",
-     "resolution": ""
-    }
-   ],
-   "videos": []
-  },
-  {
    "id": "m4355",
    "date": "2023-05-10",
    "end": "",
@@ -14522,32 +14470,6 @@ window.ARCHIVE = {
    "workRoma": "JOSHIKOSEI SO NI NARU",
    "roleName": "里中树",
    "cardPhoto": "assets/img/ext/858a551451f8e99a.jpg"
-  },
-  {
-   "id": "mts_rev6805",
-   "date": "2023-09-20",
-   "end": "",
-   "category": "采访／连载",
-   "title": "【观剧专栏】音乐剧《拉格泰姆》",
-   "japanese": "【観劇コラム】ミュージカル『ラグタイム』▷記念すべき大作",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://matisowa.jp/6805/",
-   "note": "",
-   "status": "已刊载",
-   "origin": "Matisowa",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2023/09/TC_0474.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/6805/",
-     "asset": "xcb1593095c8816ad",
-     "resolution": ""
-    }
-   ],
-   "videos": []
   },
   {
    "id": "qj95124",
@@ -16721,33 +16643,6 @@ window.ARCHIVE = {
    "cardPhoto": "assets/img/ext/481b9e56e776fb51.jpg"
   },
   {
-   "id": "web_spice327961",
-   "date": "2024-04-12",
-   "end": "",
-   "category": "采访／连载",
-   "title": "《DESK》衛星劇場电视首播消息",
-   "japanese": "『わたしを、褒めて』『DESK』をテレビ初放送",
-   "crew": "",
-   "key": "",
-   "url": "https://spice.eplus.jp/articles/327961",
-   "note": "SPICE。2024-04-27 CS衛星劇場播出。",
-   "status": "发布方原文已定位",
-   "origin": "2026.11.18补充",
-   "dateKind": "文章发布日期（发布方元数据）",
-   "images": [
-    {
-     "url": "https://spice.eplus.jp/images/M3cz1sRxaDFttbIRvYlhPWd10QGPZ7dPrRp1LkrYOfmC8djHzsBPbL7DVJoNpXW3",
-     "caption": "",
-     "source": "SPICE",
-     "asset": "x28140b1b15fd4273"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "文章",
-   "playlistLinks": []
-  },
-  {
    "id": "tv_desk_eigeki",
    "date": "2024-04-27",
    "end": "",
@@ -16935,32 +16830,6 @@ window.ARCHIVE = {
      "url": "https://www.bilibili.com/video/BV1stJs6fEPw/"
     }
    ]
-  },
-  {
-   "id": "mts_col9842",
-   "date": "2024-06-21",
-   "end": "",
-   "category": "采访／连载",
-   "title": "【专栏】百老汇音乐剧《长靴皇后》：新世代音乐剧明星齐聚",
-   "japanese": "ブロードウェイミュージカル『キンキーブーツ』▷次世代ミュージカルスターがそろい踏み！",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://matisowa.jp/9842/",
-   "note": "",
-   "status": "已刊载",
-   "origin": "Matisowa",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2024/06/M_キンキーブーツ2025_情報解禁IMG_3208.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/9842/",
-     "asset": "x7158f0adf7650859",
-     "resolution": ""
-    }
-   ],
-   "videos": []
   },
   {
    "id": "bro_202407",
@@ -19372,32 +19241,6 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
-  },
-  {
-   "id": "mts_rev15126",
-   "date": "2025-08-27",
-   "end": "",
-   "category": "采访／连载",
-   "title": "【观剧专栏】音乐剧《泽西男孩》2025",
-   "japanese": "【観劇コラム】ミュージカル『ジャージー・ボーイズ』▷スター人生の悲喜交々を名曲で綴る",
-   "role": "",
-   "crew": "",
-   "key": false,
-   "url": "https://matisowa.jp/15126/",
-   "note": "",
-   "status": "已刊载",
-   "origin": "Matisowa",
-   "dateKind": "day",
-   "images": [
-    {
-     "url": "https://matisowa.jp/wp-content/uploads/2025/08/JB_0002.jpg",
-     "caption": "文章配图",
-     "source": "https://matisowa.jp/15126/",
-     "asset": "xf9a70c84574ebff5",
-     "resolution": ""
-    }
-   ],
-   "videos": []
   },
   {
    "id": "bro_202509",
