@@ -6353,6 +6353,14 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://engekisengen.com/wp-content/uploads/2018/09/inoti3.jpg",
+     "caption": "角色视觉：羽仁男（右）与薰",
+     "source": "https://engekisengen.com/genre/play/9481/",
+     "asset": "x663878b6507ec50b",
+     "hasHigashi": true,
+     "resolution": "550 × 356"
+    },
+    {
      "url": "https://stage.parco.jp/web/play/inochi/assets/images/main_04.jpg",
      "caption": "官方特设页主视觉：东启介",
      "source": "https://stage.parco.jp/web/play/inochi/",
@@ -6392,7 +6400,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://stage.parco.jp//image/parcoplay/store/storage/h600/s_inochi_honchirashi.jpg",
-     "caption": "海报",
+     "caption": "公演宣传单（PARCO 官网）",
      "source": "https://stage.parco.jp/program/inochi/",
      "asset": "2e5c21c4552c81a9",
      "resolution": "424 × 600"
@@ -6447,9 +6455,9 @@ window.ARCHIVE = {
    "roleRoma": "YAMADA HANIO",
    "workRoma": "INOCHI URIMASU",
    "roleName": "山田羽仁男",
-   "cardPhoto": "assets/img/ext/9f19438ead9548ad.jpg",
-   "cardPhotoBg": "20% 14% / auto 230%",
-   "cardPoster": "assets/img/ext/b57fe4e550b7351e.jpg"
+   "cardPhoto": "assets/img/ext/663878b6507ec50b.jpg",
+   "cardPoster": "assets/img/2e5c21c4552c81a9.jpg",
+   "cardPhotoPos": "100% 15%"
   },
   {
    "id": "ost_hiden",
@@ -20974,7 +20982,7 @@ window.ARCHIVE = {
    "roleName": "马狼照英",
    "cardPoster": "assets/img/ext/db51ddce8a01468b.jpg",
    "cardPhoto": "assets/img/ext/c5c40f116e8e2c23.jpg",
-   "cardPhotoBg": "100% 0% / 320% auto"
+   "cardPhotoPos": "50% 15%"
   },
   {
    "id": "mag_pash2609",
@@ -41046,7 +41054,8 @@ window.ARCHIVE = {
   "x6175f83cde951e0c": "assets/img/ext/6175f83cde951e0c.jpg",
   "xe25e9594a849b6ec": "assets/img/ext/e25e9594a849b6ec.jpg",
   "x5b5d2b303f30cb3a": "assets/img/ext/5b5d2b303f30cb3a.jpg",
-  "xdb587439316c9cea": "assets/img/ext/db587439316c9cea.jpg"
+  "xdb587439316c9cea": "assets/img/ext/db587439316c9cea.jpg",
+  "x663878b6507ec50b": "assets/img/ext/663878b6507ec50b.jpg"
  },
  "biliLeads": [
   {
