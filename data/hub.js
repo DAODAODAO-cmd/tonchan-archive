@@ -3685,6 +3685,46 @@ window.HUB = {
    "date": "2026-08-07",
    "src": "Astage",
    "url": "https://www.astage-ent.com/cinema/bluelock-15.html"
+  },
+  {
+   "topic": "角色与表演",
+   "zh": "华武利不只是个首领，会露出像恶作剧小孩一样的表情；和大家意外地打成一片，又会突然变冷淡，这种落差演起来很开心。",
+   "ja": "ただのリーダーではなくて、すごくイタズラっ子のような表情を見せるんです。",
+   "date": "2026-09-02",
+   "src": "animate times",
+   "url": "https://www.animatetimes.com/news/details.php?id=1788235894"
+  },
+  {
+   "topic": "角色与表演",
+   "zh": "导演给马狼的要求是“不要变成小混混”。混混反而像小喽啰，真正的老大什么都不用做，靠气场、站姿和存在感。",
+   "ja": "ボスこそ何もしない。雰囲気で、立ち方で、存在感で見せるもの",
+   "date": "2026-08-07",
+   "src": "Astage",
+   "url": "https://www.astage-ent.com/cinema/bluelock-15.html"
+  },
+  {
+   "topic": "唱歌",
+   "zh": "问他作为演员绝不让步的“エゴ”是什么，他说是唱歌。现在每个月还去上一两次声乐课，一直在找怎么让自己的声音“觉醒”。",
+   "ja": "歌です。",
+   "date": "2026-08-07",
+   "src": "Astage",
+   "url": "https://www.astage-ent.com/cinema/bluelock-15.html"
+  },
+  {
+   "topic": "身高",
+   "zh": "出道时身高是他的心结，现在反而觉得：能自然地站着就吸引人，是一件了不起的事。",
+   "ja": "素で立っていて魅せられることは凄いことなんだと実感した",
+   "date": "2026-09-04",
+   "src": "体育日本",
+   "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/04/articles/20260904s00041000036000c.html"
+  },
+  {
+   "topic": "角色与表演",
+   "zh": "连着演强者，常被说光站着就有压迫感。他说接下来想做到的，反而是能把这股压迫感收起来。",
+   "ja": "逆に圧を出せないようにできたら、いいですよね",
+   "date": "2026-09-04",
+   "src": "体育日本",
+   "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/04/articles/20260904s00041000036000c.html"
   }
  ]
 };
