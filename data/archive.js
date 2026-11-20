@@ -15601,11 +15601,18 @@ window.ARCHIVE = {
    "crew": "",
    "key": "countdown",
    "url": "https://cdm2023.srptokyo.com/",
-   "note": "",
+   "note": "2023年12月31日东京国际论坛Hall A，九位年轻音乐剧演员一起跨年。他独唱《泽西男孩》的「Oh What a Night」，和平间壮一合唱《RENT》的「I'll Cover You」；2023年作品串烧里唱了《美丽的游戏》（和木下晴香）、《音乐人》、《拉格泰姆》（和屋比久知奈）。",
    "status": "",
    "origin": "",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/796f7d44-0825-46a6-bf52-b37fe44547f2/origin.jpg",
+     "caption": "演出照：东启介（ぴあ官方报道，摄影 福冈谅祠）",
+     "source": "https://lp.p.pia.jp/article/news/322762/index.html",
+     "asset": "x2059405e897acd8b",
+     "hasHigashi": true
+    },
     {
      "url": "https://cdm2023.srptokyo.com/images/cast_img04.jpg",
      "caption": "音乐会官网本人宣传照",
@@ -15614,7 +15621,12 @@ window.ARCHIVE = {
      "resolution": "342 × 428"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "ぴあ：官方演出报道（含照片集）",
+     "url": "https://lp.p.pia.jp/article/news/322762/index.html"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -40036,7 +40048,8 @@ window.ARCHIVE = {
   "xd053acc9ea93dc9f": "assets/img/ext/d053acc9ea93dc9f.jpg",
   "x07d6291cb256596c": "assets/img/ext/07d6291cb256596c.jpg",
   "xc48b8dddca6d4969": "assets/img/ext/c48b8dddca6d4969.jpg",
-  "x45fbe8682d8f21d3": "assets/img/ext/45fbe8682d8f21d3.jpg"
+  "x45fbe8682d8f21d3": "assets/img/ext/45fbe8682d8f21d3.jpg",
+  "x2059405e897acd8b": "assets/img/ext/2059405e897acd8b.jpg"
  },
  "biliLeads": [
   {
