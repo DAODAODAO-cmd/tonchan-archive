@@ -9,8 +9,15 @@ ROOT = Path(__file__).resolve().parent.parent
 urls = json.loads((ROOT / 'tools/media-download.json').read_text(encoding='utf-8'))
 target = ROOT / 'assets/img/cached'
 target.mkdir(exist_ok=True)
+index_file = ROOT / 'assets/media-index.js'
+media = {'local': {}, 'identity': {}}
+if index_file.exists():
+    media = json.loads(index_file.read_text(encoding='utf-8').removeprefix('window.ARCHIVE_MEDIA = ').rstrip(';\n'))
 
 def download(url):
+    existing = media.get('local', {}).get(url)
+    if existing and (ROOT / existing).exists():
+        return url, existing, None
     request = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
         with urllib.request.urlopen(request, timeout=18) as response:
@@ -41,6 +48,8 @@ with ThreadPoolExecutor(max_workers=12) as pool:
         else:
             failed.append({'url': url, 'reason': error})
 
-(ROOT / 'assets/media-index.js').write_text('window.ARCHIVE_MEDIA = ' + json.dumps({'local': dict(sorted(local.items())), 'identity': {}}, ensure_ascii=False, separators=(',', ':')) + ';\n', encoding='utf-8')
+media['local'] = dict(sorted(local.items()))
+media['unavailable'] = [item['url'] for item in failed]
+index_file.write_text('window.ARCHIVE_MEDIA = ' + json.dumps(media, ensure_ascii=False, separators=(',', ':')) + ';\n', encoding='utf-8')
 (ROOT / 'tools/media-cache-failed.json').write_text(json.dumps(failed, ensure_ascii=False, indent=2), encoding='utf-8')
 print(f'Cached {len(local)} images; unavailable {len(failed)}.', flush=True)

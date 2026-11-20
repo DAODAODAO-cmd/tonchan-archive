@@ -11,21 +11,24 @@ vm.runInContext(read('data/archive.js'), data);
 vm.runInContext(read('data/hub.js'), data);
 vm.runInContext(read('assets/media-index.js'), data);
 vm.runInContext(read('assets/media.js'), data);
+vm.runInContext(read('assets/audio.js'), data);
 for (const file of ['index.html', 'list.html', 'detail.html']) {
   for (const match of read(file).matchAll(/<script(?:\s[^>]*)?>([\s\S]*?)<\/script>/g)) {
     new vm.Script(match[1], { filename: file });
   }
 }
-for (const file of ['assets/detail.js', 'assets/navigation.js', 'assets/media.js', 'assets/media-index.js', 'assets/browse-state.js']) new vm.Script(read(file), { filename: file });
+for (const file of ['assets/detail.js', 'assets/navigation.js', 'assets/media.js', 'assets/media-index.js', 'assets/browse-state.js', 'assets/audio.js', 'assets/audio-detail.js']) new vm.Script(read(file), { filename: file });
 const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const render = (id, kind = 'id') => {
   const output = { innerHTML: '' };
-  vm.runInNewContext(read('assets/detail.js'), {
+  const context={
     window: data.window, URL, URLSearchParams,
     location: { search: '?' + kind + '=' + encodeURIComponent(id) },
     document: { documentElement: { dataset: {} }, getElementById: name => name === 'detail' ? output : {}, referrer: '' },
     history: { length: 1 }
-  });
+  };
+  vm.runInNewContext(read('assets/detail.js'), context);
+  vm.runInNewContext(read('assets/audio-detail.js'), context);
   return output.innerHTML;
 };
 for (const event of data.window.ARCHIVE.events) {
@@ -57,4 +60,19 @@ for(const news of data.window.HUB.news){
 }
 assert(!data.window.HUB.goods.some(g=>g.title==='WE官方生写真〈2026年11月〉'));
 assert(data.window.HUB.pastGoods.some(g=>g.title==='WE官方生写真〈2026年11月〉'&&g.status==='预约已结束'));
+const shelf=data.window.ARCHIVE_AUDIO;
+for(const entry of shelf.entries){
+  assert(entry.formats.length>0,entry.title+': audio format missing');
+  const html=render(entry.id,'audio');
+  for(const source of entry.sources){
+    const r=source.record;
+    assert(html.includes(escape(r.title)),entry.title+': source record missing');
+    if(r.note)assert(html.includes(escape(r.note)),entry.title+': source note missing');
+    for(const point of r.points||[])assert(html.includes(escape(point)),entry.title+': edition detail missing');
+  }
+  for(const image of shelf.pictures(entry))assert(html.includes(escape(shelf.imageUrl(image))),entry.title+': audio image missing');
+}
+for(const record of data.window.ARCHIVE.events.filter(shelf.isEvent))assert(shelf.entries.some(e=>e.sources.some(s=>s.record.id===record.id)),record.id+': audio record excluded');
+for(const record of goods.filter(shelf.isGoods))assert(shelf.entries.some(e=>e.sources.some(s=>s.record===record)),record.title+': audio product excluded');
+console.log(`Audio shelf passed: ${shelf.entries.length} groups, all source records, version descriptions and images retained.`);
 console.log(`Passed: scripts parse; ${data.window.ARCHIVE.events.length} archive details, ${goods.length} goods details, ${data.window.HUB.news.length} news details preserve existing content; missing-record fallback; ended monthly set archived.`);
