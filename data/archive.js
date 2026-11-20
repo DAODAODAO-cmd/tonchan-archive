@@ -2519,10 +2519,6 @@ window.ARCHIVE = {
    ],
    "videos": [
     {
-     "title": "舞台『弱虫ペダル』～総北新世代、始動～ 公開ゲネプロをチラッと見せ",
-     "url": "https://www.nicovideo.jp/watch/so28400916"
-    },
-    {
      "title": "LINE LIVE 特别节目（2016.9.25，B站搬运）",
      "url": "https://www.bilibili.com/video/BV1Ds411t7DA/"
     }
