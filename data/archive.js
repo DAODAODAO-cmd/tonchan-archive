@@ -12616,7 +12616,7 @@ window.ARCHIVE = {
   },
   {
    "id": "e100",
-   "date": "2023",
+   "date": "2023-11-18",
    "end": "",
    "category": "采访／连载",
    "title": "《与鸟共舞》排练室专访",
@@ -12631,10 +12631,41 @@ window.ARCHIVE = {
    "dateKind": "",
    "images": [
     {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
-     "caption": "Confetti 排练场照片",
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0223-fotor-2023111644817-4.jpg",
+     "caption": "Confetti 排练场照片：东启介",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "x61d3f5e75eaf6f07",
+     "asset": "xd053acc9ea93dc9f",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0215-fotor-2023111644555-1.jpg",
+     "caption": "Confetti 排练场照片：东启介",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "x07d6291cb256596c",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
+     "caption": "Confetti 排练场照片：东启介和斋藤瑠希",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "x1d0a73cb14d03bea",
+     "hasHigashi": true,
+     "pos": "86% 50%",
+     "resolution": ""
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0429-fotor-2023111645537-1.jpg",
+     "caption": "Confetti 排练场照片：东启介和斋藤瑠希",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "xc48b8dddca6d4969",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/%E7%B5%84%E5%86%99%E7%9C%9F%EF%BC%92-1024x370.jpg",
+     "caption": "Confetti：东启介和斋藤瑠希的宣传照",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "xa1183e835677868f",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -40447,7 +40478,8 @@ window.ARCHIVE = {
   "x0e5fba475d235908": "assets/img/ext/0e5fba475d235908.jpg",
   "x9f19438ead9548ad": "assets/img/ext/9f19438ead9548ad.jpg",
   "x9ff4a4734fed9bf8": "assets/img/ext/9ff4a4734fed9bf8.png",
-  "xbf3071300a44f0aa": "assets/img/ext/bf3071300a44f0aa.jpg"
+  "xbf3071300a44f0aa": "assets/img/ext/bf3071300a44f0aa.jpg",
+  "xa1183e835677868f": "assets/img/ext/a1183e835677868f.jpg"
  },
  "biliLeads": [
   {
