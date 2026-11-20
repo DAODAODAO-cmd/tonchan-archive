@@ -21,7 +21,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/3472/9784863363472.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/12522387/",
-     "asset": "",
+     "asset": "x5207f37e88d0db97",
      "resolution": ""
     }
    ],
@@ -58,21 +58,21 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5818255.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x35a94767a3a04942",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g6290994.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf40d9425c4e97d25",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5815775.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x667057cf81bded05",
      "resolution": ""
     }
    ],
@@ -98,7 +98,7 @@ window.ARCHIVE = {
    "workRoma": "SEIGAKU vs SHITENHOJI",
    "roleName": "千岁千里",
    "cardPoster": "assets/img/roles/e1_poster.jpg",
-   "cardPhoto": "https://www.tennimu.com/second/img/cast_2nd/shitenhoji/shitenhoji_chitose.jpg"
+   "cardPhoto": "assets/img/ext/a645daf057f9ef27.jpg"
   },
   {
    "id": "e2",
@@ -120,21 +120,21 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325666.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf98c31eacc1263f1",
      "resolution": ""
     },
     {
      "url": "https://www.tennimu.com/second/play_2014undokai/img/Phdr-img.jpg",
      "caption": "主视觉",
      "source": "https://www.tennimu.com/second/play_2014undokai/",
-     "asset": "",
+     "asset": "xe5fe227334127bf7",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325667.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xa36e5f85a6903d08",
      "resolution": ""
     }
    ],
@@ -163,28 +163,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325663.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x3e6a0eb1831ed00c",
      "resolution": ""
     },
     {
      "url": "https://www.tennimu.com/second/play_2014rikkai/img/Phdr-img.jpg",
      "caption": "主视觉",
      "source": "https://www.tennimu.com/second/play_2014rikkai/",
-     "asset": "",
+     "asset": "xc422f2ad31f5d887",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5325662.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xc1018094c322f1bd",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4301069.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xbf47da3544175745",
      "resolution": ""
     }
    ],
@@ -246,7 +246,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/4158/9784863364158.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x00c9745ff590c36a",
      "resolution": ""
     }
    ],
@@ -294,7 +294,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/booksdream/cabinet/racoon_332/b00net6e54.jpg?_ex=500x500",
      "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x8dfcda575ef2c976",
      "resolution": ""
     }
    ],
@@ -323,7 +323,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/4332/9784863364332.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x608ce8f0d7ce664c",
      "resolution": ""
     }
    ],
@@ -352,14 +352,14 @@ window.ARCHIVE = {
      "url": "https://animeanime.jp/imgs/ogp_f/47960.jpg",
      "caption": "活动报道图（animeanime）",
      "source": "https://animeanime.jp/imgs/ogp_f/47960.jpg",
-     "asset": "",
+     "asset": "x2add50581ebe6f11",
      "resolution": ""
     },
     {
      "url": "https://animeanime.jp/imgs/ogp_f/47958.jpg",
      "caption": "NEL FES 2014 现场（アニメ！アニメ！）",
      "source": "https://animeanime.jp/article/2014/11/13/20839_2.html",
-     "asset": "",
+     "asset": "x485825e5b4c3768d",
      "resolution": ""
     }
    ],
@@ -388,28 +388,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380469.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd14ff579723e5130",
      "resolution": ""
     },
     {
      "url": "https://www.tennimu.com/second/play_dl2014/img/Phdr-img.jpg",
      "caption": "主视觉",
      "source": "https://www.tennimu.com/second/play_dl2014/",
-     "asset": "",
+     "asset": "x9b35cc982edd3ceb",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380468.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x521bded6d61e1f25",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g5380470.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xac39fd65f5ac3271",
      "resolution": ""
     }
    ],
@@ -466,7 +466,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1188012_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683473/b/1188012/"
+     "source": "https://www.fujisan.co.jp/product/1281683473/b/1188012/",
+     "asset": "x5a45df88e8585765"
     }
    ],
    "videos": [],
@@ -505,14 +506,14 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4369898.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x5648b0a72eb17816",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4369897.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x0ce2324b0228ea5e",
      "resolution": ""
     },
     {
@@ -551,7 +552,7 @@ window.ARCHIVE = {
      "url": "https://stat.ameba.jp/user_images/20150421/21/we-goodsinfo/05/82/j/o0700070013283037165.jpg",
      "caption": "官方周边图",
      "source": "https://ameblo.jp/we-goodsinfo/entry-12017058255.html",
-     "asset": "",
+     "asset": "x5289ff65d3480b5d",
      "resolution": ""
     }
    ],
@@ -577,7 +578,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1228741_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/1228741/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/1228741/",
+     "asset": "xa9ecf2cb6747f4cb"
     }
    ],
    "videos": [],
@@ -611,62 +613,63 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420798.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x797bd1025a909c72",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4368622.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x9563581f50524448",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4368623.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x7d22b8062e130eaa",
      "resolution": ""
     },
     {
      "url": "https://animeanime.jp/imgs/zoom/62250.jpg",
      "caption": "黎明録 舞台照（アニメ！アニメ！）",
      "source": "https://animeanime.jp/article/2015/05/26/23417.html",
-     "asset": "",
+     "asset": "xb283dfd7fa2bcf15",
      "resolution": ""
     },
     {
      "url": "https://animeanime.jp/imgs/zoom/62251.jpg",
      "caption": "黎明録 舞台照（アニメ！アニメ！）",
      "source": "https://animeanime.jp/article/2015/05/26/23417.html",
-     "asset": "",
+     "asset": "x7bd8fc8c7dfe90c6",
      "resolution": ""
     },
     {
      "url": "https://animeanime.jp/imgs/zoom/62252.jpg",
      "caption": "黎明録 舞台照（アニメ！アニメ！）",
      "source": "https://animeanime.jp/article/2015/05/26/23417.html",
-     "asset": "",
+     "asset": "x2eef45b92fb06363",
      "resolution": ""
     },
     {
      "url": "https://animeanime.jp/imgs/zoom/62253.jpg",
      "caption": "黎明録 舞台照（アニメ！アニメ！）",
      "source": "https://animeanime.jp/article/2015/05/26/23417.html",
-     "asset": "",
+     "asset": "x282a58992637d45f",
      "resolution": ""
     },
     {
      "url": "https://animeanime.jp/imgs/zoom/62254.jpg",
      "caption": "黎明録 舞台照（アニメ！アニメ！）",
      "source": "https://animeanime.jp/article/2015/05/26/23417.html",
-     "asset": "",
+     "asset": "xab1c18e49e9aa489",
      "resolution": ""
     },
     {
      "url": "https://www.marv.jp/special/m-hakuoki-reimeiroku/images/cast/harada.jpg",
      "caption": "角色照：原田左之助",
-     "source": "Marvelous 官网"
+     "source": "Marvelous 官网",
+     "asset": "xe07a91d385784540"
     }
    ],
    "videos": [],
@@ -677,7 +680,7 @@ window.ARCHIVE = {
    "workRoma": "REIMEIROKU",
    "roleName": "原田左之助",
    "cardPoster": "assets/img/roles/e6_poster.jpg",
-   "cardPhoto": "https://www.marv.jp/special/m-hakuoki-reimeiroku/images/cast/harada.jpg"
+   "cardPhoto": "assets/img/ext/e07a91d385784540.jpg"
   },
   {
    "id": "e7",
@@ -706,21 +709,21 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134729.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8eab74c4f3c27848",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134723.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x925398db74f28fe6",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134733.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8deafe8e1b572394",
      "resolution": ""
     }
    ],
@@ -732,7 +735,7 @@ window.ARCHIVE = {
    "workRoma": "RASPBERRY BOY 2",
    "roleName": "小林淕",
    "cardPoster": "assets/img/roles/e7_poster.jpg",
-   "cardPhoto": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134729.jpg"
+   "cardPhoto": "assets/img/ext/8eab74c4f3c27848.jpg"
   },
   {
    "id": "am_tencho15",
@@ -772,13 +775,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/715r051Ks0L._AC_SL500_.jpg",
      "caption": "单曲《憑き夜に踊れ》通常盘封面",
-     "source": "Amazon.co.jp 商品图"
+     "source": "Amazon.co.jp 商品图",
+     "asset": "x55a66d328378ed5c"
     },
     {
      "url": "https://i.ytimg.com/vi/orJz2nBzkAs/hqdefault.jpg",
      "caption": "官方MV封面",
      "source": "https://www.youtube.com/watch?v=orJz2nBzkAs",
-     "asset": "",
+     "asset": "xa808fe517328536d",
      "resolution": ""
     }
    ],
@@ -813,14 +817,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/music/2015/0423/ETA_2015_main.jpg?imwidth=750&imdensity=1",
      "caption": "活动告知视觉",
      "source": "https://ogre.natalie.mu/media/news/music/2015/0423/ETA_2015_main.jpg?imwidth=750&imdensity=1",
-     "asset": "",
+     "asset": "x1e217c69e73b3dbe",
      "resolution": ""
     },
     {
      "url": "https://i.ytimg.com/vi/Xk9d_g3FG0E/hqdefault.jpg",
      "caption": "官方YouTube视频封面",
      "source": "https://www.youtube.com/watch?v=Xk9d_g3FG0E",
-     "asset": "",
+     "asset": "x58bf42ce70e51f47",
      "resolution": ""
     }
    ],
@@ -854,7 +858,7 @@ window.ARCHIVE = {
      "url": "https://stat.ameba.jp/user_images/20150828/15/we-goodsinfo/17/0e/j/o0500035613408935475.jpg",
      "caption": "官方周边图",
      "source": "https://ameblo.jp/we-goodsinfo/entry-12066752699.html",
-     "asset": "",
+     "asset": "x831d2c1282cac56e",
      "resolution": ""
     }
    ],
@@ -909,22 +913,26 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315862.jpg",
      "caption": "复刻套组【vol.1&2】",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xdf1b49df0841cdbc"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315863.jpg",
      "caption": "复刻套组【vol.3&4】",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xcd51c0d5f44218f4"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315864.jpg",
      "caption": "复刻套组【vol.5&6】",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x18da870751a9d05e"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315865.jpg",
      "caption": "复刻套组【vol.7&8】",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xcfc0097833b2ef07"
     }
    ],
    "videos": [],
@@ -950,7 +958,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/2072/9784863882072.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14140910/",
-     "asset": "",
+     "asset": "x7bb9638141e7391c",
      "resolution": ""
     }
    ],
@@ -979,7 +987,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/3417/9784331803417.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14427545/",
-     "asset": "",
+     "asset": "xe69949b6f2d4c2cf",
      "resolution": ""
     }
    ],
@@ -1007,12 +1015,14 @@ window.ARCHIVE = {
     {
      "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/harada.jpg",
      "caption": "角色照：原田左之助",
-     "source": "官方"
+     "source": "官方",
+     "asset": "xf0fdb27dea79f5b5"
     },
     {
      "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/top/topImage.jpg",
      "caption": "主视觉",
-     "source": "官方"
+     "source": "官方",
+     "asset": "xf0309b1d8c3906e9"
     },
     {
      "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/higashi.jpg",
@@ -1025,21 +1035,21 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447257.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xa736213d3f9eafa7",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447258.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe26b3f392aead5c8",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447255.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xed4804a3373eccb7",
      "resolution": ""
     }
    ],
@@ -1058,8 +1068,8 @@ window.ARCHIVE = {
    "roleRoma": "HARADA SANOSUKE",
    "workRoma": "SHINSENGUMI KITAN",
    "roleName": "原田左之助",
-   "cardPhoto": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/cast/harada.jpg",
-   "cardPoster": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/top/topImage.jpg"
+   "cardPhoto": "assets/img/ext/f0fdb27dea79f5b5.jpg",
+   "cardPoster": "assets/img/ext/f0309b1d8c3906e9.jpg"
   },
   {
    "id": "e10",
@@ -1081,14 +1091,14 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134719.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x64e4d8d7f23a51a8",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0215/s_pedalSS_KV3_RGBforweb.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x683dcb19e8d67c36",
      "resolution": ""
     },
     {
@@ -1102,20 +1112,21 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134720.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe36f5879b77b7ff7",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3186061.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8a6430d6f63e5d65",
      "resolution": ""
     },
     {
      "url": "https://m.media-amazon.com/images/I/91+30d0cgML._AC_SL500_.jpg",
      "caption": "Blu-ray封面",
-     "source": "HMV"
+     "source": "HMV",
+     "asset": "x8b9675157cf8ac2c"
     }
    ],
    "videos": [
@@ -1130,8 +1141,8 @@ window.ARCHIVE = {
    "roleRoma": "ASHIKIBA TAKUTO",
    "workRoma": "SOHOKU SHINSEDAI",
    "roleName": "苇木场拓斗",
-   "cardPhoto": "https://prtimes.jp/i/16719/5/resize/d16719-5-377949-14.jpg",
-   "cardPoster": "https://m.media-amazon.com/images/I/91+30d0cgML._AC_SL500_.jpg"
+   "cardPhoto": "assets/img/ext/68985727777b21a2.jpg",
+   "cardPoster": "assets/img/ext/8b9675157cf8ac2c.jpg"
   },
   {
    "id": "mag_rk14108397",
@@ -1153,7 +1164,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/2801/9784048982801.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14108397/",
-     "asset": "",
+     "asset": "xa64e7d503049c893",
      "resolution": ""
     }
    ],
@@ -1181,45 +1192,48 @@ window.ARCHIVE = {
     {
      "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-304926-2.jpg",
      "caption": "角色视觉：烛台切光忠（第3弹）",
-     "source": "マーベラス（PR TIMES）"
+     "source": "マーベラス（PR TIMES）",
+     "asset": "x045ec19bd4fe8c95"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0318/butai_toukenranbu_image.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xf81007dc6f50ad5d",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269915.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x825214ec39a778a7",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269913.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x3a5f2a8fbdfd3eac",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3269912.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8aac4155dc96ff37",
      "resolution": ""
     },
     {
      "url": "https://prtimes.jp/i/16719/18/resize/d16719-18-191959-0.jpg",
      "caption": "主视觉",
-     "source": "マーベラス（PR TIMES）"
+     "source": "マーベラス（PR TIMES）",
+     "asset": "xb8926f1833358a0f"
     },
     {
      "url": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
      "caption": "Blu-ray封面",
-     "source": "HMV"
+     "source": "HMV",
+     "asset": "xb5e0cb2a04fcd745"
     }
    ],
    "videos": [
@@ -1234,8 +1248,8 @@ window.ARCHIVE = {
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "KYODEN",
    "roleName": "烛台切光忠",
-   "cardPhoto": "https://prtimes.jp/i/16719/18/resize/d16719-18-304926-2.jpg",
-   "cardPoster": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg"
+   "cardPhoto": "assets/img/ext/045ec19bd4fe8c95.jpg",
+   "cardPoster": "assets/img/ext/b5e0cb2a04fcd745.jpg"
   },
   {
    "id": "bro_201606",
@@ -1256,28 +1270,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220542.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd52d64916be42287",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220543.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x6d9bf685bd925c52",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3220544.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x5a753c9a993d1b92",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/Ckk8ARCUgAAODOp?format=jpg&name=large",
      "caption": "本人发的照片",
      "source": "https://x.com/keisuke_higashi/status/741189607677562880",
-     "asset": "",
+     "asset": "xc200db784fc5ddad",
      "resolution": ""
     }
    ],
@@ -1303,14 +1317,14 @@ window.ARCHIVE = {
      "url": "https://image.news.livedoor.com/newsimage/b/3/b3edc44de720d6c9694dc14b8f3f2745.jpg",
      "caption": "ライブドアニュース 撮影／後藤倫人",
      "source": "https://news.livedoor.com/article/detail/11636628/",
-     "asset": "",
+     "asset": "xaafca6c2ad4a9c24",
      "resolution": ""
     },
     {
      "url": "https://image.news.livedoor.com/newsimage/a/0/a0b8b96f107b2c2ed922e94efd7b3df7.jpg",
      "caption": "ライブドアニュース 撮影／後藤倫人",
      "source": "https://news.livedoor.com/article/detail/11636628/",
-     "asset": "",
+     "asset": "x18c5e7a0f1329e13",
      "resolution": ""
     }
    ],
@@ -1339,7 +1353,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/booksupply/cabinet/04216212/683/9784331803370.jpg?_ex=500x500",
      "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xa3f507cb37462e14",
      "resolution": ""
     }
    ],
@@ -1367,21 +1381,21 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200500.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf11f33693cde3db9",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200501.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xda9dd71d2168e009",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200499.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf28c97a26a687194",
      "resolution": ""
     }
    ],
@@ -1415,28 +1429,28 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0611/slazyaw.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x0b21d34b87ba8bda",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284922.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x52681176bd28350d",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284924.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8a0dcd4005cfdba5",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3284921.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x072c4403b5ddc3e3",
      "resolution": ""
     }
    ],
@@ -1453,7 +1467,7 @@ window.ARCHIVE = {
    "workRoma": "ANOTHER WORLD",
    "roleName": "威尔",
    "cardPoster": "assets/img/roles/e12_poster.jpg",
-   "cardPhoto": "https://www.clie.asia/CSL-AW/images/cast/higashi2.png"
+   "cardPhoto": "assets/img/ext/112a01c2ac220d35.png"
   },
   {
    "id": "nat_omoshii6",
@@ -1475,7 +1489,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0712/omoshii6_cover.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/194280",
-     "asset": "",
+     "asset": "x4ce9813049f5bffc",
      "resolution": ""
     }
    ],
@@ -1500,28 +1514,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200503.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x5198ca7f81c21030",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200502.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x6df81844a0e768dd",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3200504.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xa9a5ac144ed74af3",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/CpYx0SfUsAMINi5?format=jpg&name=large",
      "caption": "本人发的照片",
      "source": "https://x.com/keisuke_higashi/status/762851974186348544",
-     "asset": "",
+     "asset": "x1bcb17767d828f1e",
      "resolution": ""
     }
    ],
@@ -1548,14 +1562,14 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143693.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x65bb1426795d17d2",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0726/LIVE2_KV.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xd89766b2bdc41e62",
      "resolution": ""
     },
     {
@@ -1569,14 +1583,14 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143694.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xed8d1f2bef866039",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3143692.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x1ff82d2cf1ae9ab6",
      "resolution": ""
     }
    ],
@@ -1634,7 +1648,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/Cn5PlLKUEAAEWsH?format=jpg&name=large",
      "caption": "本人发的照片",
      "source": "https://x.com/keisuke_higashi/status/756129294477172736",
-     "asset": "",
+     "asset": "x835ffa67f4c3fe5e",
      "resolution": ""
     }
    ],
@@ -1661,7 +1675,7 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/7006/2599/resize/d7006-2599-796770-0.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000002599.000007006.html",
-     "asset": "",
+     "asset": "x91e1c6b9b48bb8c5",
      "resolution": ""
     }
    ],
@@ -1688,7 +1702,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1061/4910013171061.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14379824/",
-     "asset": "",
+     "asset": "x300712aa35c78035",
      "resolution": ""
     }
    ],
@@ -1716,7 +1730,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1414322_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281682085/b/1414322/"
+     "source": "https://www.fujisan.co.jp/product/1281682085/b/1414322/",
+     "asset": "xc67eb2cbf436ff84"
     }
    ],
    "videos": [],
@@ -1742,7 +1757,8 @@ window.ARCHIVE = {
     {
      "url": "https://prtimes.jp/i/7006/2689/resize/d7006-2689-646494-1.jpg",
      "caption": "封面：宫崎秋人×东启介",
-     "source": "https://prtimes.jp/main/html/rd/p/000002689.000007006.html"
+     "source": "https://prtimes.jp/main/html/rd/p/000002689.000007006.html",
+     "asset": "xbfacbad7ff7ccbf2"
     }
    ],
    "videos": [],
@@ -1767,13 +1783,14 @@ window.ARCHIVE = {
     {
      "url": "https://prtimes.jp/i/16719/99/resize/d16719-99-628132-0.jpg",
      "caption": "角色视觉：苇木场拓斗",
-     "source": "マーベラス（PR TIMES）"
+     "source": "マーベラス（PR TIMES）",
+     "asset": "x25ae0b396c07498c"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/0823/pedalHSS-KV-3.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x14002ea0a5b3e408",
      "resolution": ""
     },
     {
@@ -1787,21 +1804,21 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185988.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xad088ff529a30b76",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185990.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x94d11164b4edfbcc",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3185989.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x88dcc5e83ac7bb12",
      "resolution": ""
     }
    ],
@@ -1817,7 +1834,7 @@ window.ARCHIVE = {
    "roleRoma": "ASHIKIBA TAKUTO",
    "workRoma": "HAKOGAKU SHINSEDAI",
    "roleName": "苇木场拓斗",
-   "cardPhoto": "https://prtimes.jp/i/16719/99/resize/d16719-99-628132-0.jpg"
+   "cardPhoto": "assets/img/ext/25ae0b396c07498c.jpg"
   },
   {
    "id": "am_2shot16",
@@ -1838,12 +1855,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343013.jpg",
      "caption": "［COOL］",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xa87abeef7ec63c25"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343014.jpg",
      "caption": "［SMILE］",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xfdeb5401f92d39f3"
     }
    ],
    "videos": [],
@@ -1867,34 +1886,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343012.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xa670e03f555c5c4f"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594739.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xb0332531d76cdffd",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594738.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xa1112fea24b9cd12",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3594740.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf77bb5d8a0be099f",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg997007.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x20cefcf1fc6f1d3a",
      "resolution": ""
     }
    ],
@@ -1921,7 +1941,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/4588/9784197204588.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xd036532ef72b3ae5",
      "resolution": ""
     }
    ],
@@ -1948,34 +1968,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301345398.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xea934bca0b57b5b3"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg821576.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x0055ae993c4b51a4",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg714583.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xcaee12258c8dd93a",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg714582.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x51b8b45be87e9ac3",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg821577.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x32e02d6676c68bfd",
      "resolution": ""
     }
    ],
@@ -2002,7 +2023,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/comicset/cabinet/13492474/mgkmsawiyck1ghjt.jpg?_ex=500x500",
      "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x4918e2c6519181a4",
      "resolution": ""
     }
    ],
@@ -2030,35 +2051,35 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699353.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xb13bce9b8f246a98",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699352.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x405e75c9482a6e13",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699354.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd618f0a777ea31ea",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699351.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x21a738be388c4e4f",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/Cyli8BmUoAAn490?format=jpg&name=large",
      "caption": "本人发的照片",
      "source": "https://x.com/keisuke_higashi/status/804282801440755712",
-     "asset": "",
+     "asset": "x90524a355705b645",
      "resolution": ""
     }
    ],
@@ -2085,7 +2106,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/1102/logo_horizont.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/210341",
-     "asset": "",
+     "asset": "x3e8691470968a825",
      "resolution": ""
     }
    ],
@@ -2111,14 +2132,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/91TJfB3np2L._SL1500_.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/4331803503",
-     "asset": "",
+     "asset": "x29f0094a5d3bf656",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3509/9784331803509.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14585124/",
-     "asset": "",
+     "asset": "xf31504a10cc6d644",
      "resolution": ""
     }
    ],
@@ -2152,7 +2173,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2016/1207/butai_danshi_main.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/211991",
-     "asset": "",
+     "asset": "xa6d91aafd4a9bc72",
      "resolution": ""
     }
    ],
@@ -2199,7 +2220,7 @@ window.ARCHIVE = {
    "workRoma": "KYODEN · REVIVAL",
    "roleName": "烛台切光忠",
    "cardPoster": "assets/img/roles/e15_poster.jpg",
-   "cardPhoto": "https://stage-toukenranbu.jp/archive/kyoden_saien/images/cast/syokudai.jpg"
+   "cardPhoto": "assets/img/ext/b025434857de94ed.jpg"
   },
   {
    "id": "nat_qj129",
@@ -2220,7 +2241,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/music/2016/1221/qj129_1.jpg",
      "caption": "ステージナタリー",
      "source": "https://natalie.mu/stage/news/214385",
-     "asset": "",
+     "asset": "xb9f21423a3482922",
      "resolution": ""
     }
    ],
@@ -2248,28 +2269,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699355.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x042dadc4b9cdcc6e",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699356.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x5525e51a76c4e199",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699358.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xb37f0ef147bf0c83",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699357.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x912e2bce3f2aaa19",
      "resolution": ""
     }
    ],
@@ -2296,28 +2317,28 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0092/4988013190092.jpg?downsize=600:*",
      "caption": "DVD豪华版封面",
      "source": "https://books.rakuten.co.jp/rb/14558589/",
-     "asset": "",
+     "asset": "x5d73320f4200d35e",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578882.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x2a082efe57fb8792",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578881.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xbdcd7123b6c8e71e",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3578883.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xb8701543e4524213",
      "resolution": ""
     }
    ],
@@ -2350,7 +2371,7 @@ window.ARCHIVE = {
      "url": "https://img-mdpr.freetls.fastly.net/article/E0V4/nm/E0V4uwJQx6FuA65e2neQnuP4qa7eJbgjYoGVmxPsyek.jpg?width=700",
      "caption": "モデルプレス",
      "source": "https://mdpr.jp/interview/detail/1650040",
-     "asset": "",
+     "asset": "xcf479ddc9e32da31",
      "resolution": ""
     }
    ],
@@ -2377,41 +2398,42 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301353617.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xb5767b1fcabd1bce"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545447.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x0dd71665a0e9b21f",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545448.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xb4cf6ba38f3147a6",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545450.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x7a5d416266b80011",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545449.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x942c22b2bfd7bcd3",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/C3oQT5KUcAAf-QT?format=jpg&name=large",
      "caption": "本人发的照片",
      "source": "https://x.com/keisuke_higashi/status/826991436293775360",
-     "asset": "",
+     "asset": "x547c17e872100d9c",
      "resolution": ""
     }
    ],
@@ -2438,7 +2460,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0092/4988013190092.jpg?downsize=600:*",
      "caption": "DVD豪华版封面",
      "source": "https://books.rakuten.co.jp/rb/14558589/",
-     "asset": "",
+     "asset": "x5d73320f4200d35e",
      "resolution": ""
     }
    ],
@@ -2467,7 +2489,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0092/4988013190092.jpg?downsize=600:*",
      "caption": "DVD豪华版封面",
      "source": "https://books.rakuten.co.jp/rb/14558589/",
-     "asset": "",
+     "asset": "x5d73320f4200d35e",
      "resolution": ""
     }
    ],
@@ -2503,28 +2525,28 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0127/s_pedalIHSL_KV-4_2.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x20fe37c2eb641db6",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315627.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd5300b9acf62394a",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315674.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xdffdfd99c2e214be",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3315675.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe11cd204113cecb5",
      "resolution": ""
     }
    ],
@@ -2541,7 +2563,7 @@ window.ARCHIVE = {
    "workRoma": "STARTING LINE",
    "roleName": "苇木场拓斗",
    "cardPoster": "assets/img/roles/e16_poster.jpg",
-   "cardPhoto": "https://www.marv.jp/special/pedal_2017-023/images/cast/kayakiba.jpg"
+   "cardPhoto": "assets/img/ext/69b25a4006adf982.jpg"
   },
   {
    "id": "bro_201703",
@@ -2561,34 +2583,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301356196.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x8de4a9171fece4a9"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545453.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x884f7328757639d4",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545452.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x2c9d925f7c696239",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545454.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x82f5373fb7c1bdac",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545451.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x3fcab65f5eea2900",
      "resolution": ""
     }
    ],
@@ -2615,7 +2638,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/2404/9784865292404.jpg?downsize=600:*",
      "caption": "首本写真集《K》封面",
      "source": "https://books.rakuten.co.jp/rb/14559233/",
-     "asset": "",
+     "asset": "x70a938f31735d394",
      "resolution": ""
     }
    ],
@@ -2644,7 +2667,7 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/jb3310.jpg",
      "caption": "1st写真集《K》封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x05e14eeda7a1a7e8",
      "resolution": ""
     }
    ],
@@ -2672,28 +2695,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545455.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x2ff8fb27cfa1ab80",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545456.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xfa50619fe3a25153",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545457.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd4101ca8b9b9c7c0",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545458.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x06b8868364748d36",
      "resolution": ""
     }
    ],
@@ -2720,7 +2743,7 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/7006/3171/resize/d7006-3171-888438-0.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000003171.000007006.html",
-     "asset": "",
+     "asset": "x98259191f339e834",
      "resolution": ""
     }
    ],
@@ -2753,34 +2776,35 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0303/hakuoki_harada_main.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x5782eed44b0392b2",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361333.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xa5f83867c04fad11",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361335.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf2cc88e031d211b2",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3361332.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x80a45f7d88161543",
      "resolution": ""
     },
     {
      "url": "https://www.marv.jp/special/m-hakuoki-harada/images/cast/harada.jpg",
      "caption": "角色照：原田左之助",
-     "source": "官方"
+     "source": "官方",
+     "asset": "x3b26885f623ca5db"
     }
    ],
    "videos": [
@@ -2802,7 +2826,7 @@ window.ARCHIVE = {
    "roleRoma": "HARADA SANOSUKE",
    "workRoma": "HARADA SANOSUKE HEN",
    "roleName": "原田左之助",
-   "cardPhoto": "https://www.marv.jp/special/m-hakuoki-harada/images/cast/harada.jpg"
+   "cardPhoto": "assets/img/ext/3b26885f623ca5db.jpg"
   },
   {
    "id": "mag_rk14799945",
@@ -2824,7 +2848,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0675/4910013170675.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14799945/",
-     "asset": "",
+     "asset": "xe556f17d532a7dde",
      "resolution": ""
     }
    ],
@@ -2851,29 +2875,33 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301361075.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xa46068b8841709eb"
     },
     {
      "url": "https://pbs.twimg.com/media/C_7ya1TU0AAJcoG?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/864394732457271296",
-     "asset": "",
+     "asset": "x1a5c4d644b14893b",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378638.jpg",
      "caption": "生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/G3378638"
+     "source": "https://www.suruga-ya.jp/product/detail/G3378638",
+     "asset": "xedc644e33f8958a3"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378639.jpg",
      "caption": "生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/G3378639"
+     "source": "https://www.suruga-ya.jp/product/detail/G3378639",
+     "asset": "x80da66543da25438"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378640.jpg",
      "caption": "生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/G3378640"
+     "source": "https://www.suruga-ya.jp/product/detail/G3378640",
+     "asset": "xd10faa64c52fa43b"
     }
    ],
    "videos": [],
@@ -2898,7 +2926,8 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683295.jpg",
      "caption": "表参道店限定W生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/G3683295"
+     "source": "https://www.suruga-ya.jp/product/detail/G3683295",
+     "asset": "x0c458d2bb2705275"
     }
    ],
    "videos": [],
@@ -2923,12 +2952,14 @@ window.ARCHIVE = {
     {
      "url": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/db/6c/j/o0211015613922579086.jpg",
      "caption": "会场限定2L生写真（亲笔留言＆签名印刷）",
-     "source": "https://ameblo.jp/we-goodsinfo/entry-12268879951.html"
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12268879951.html",
+     "asset": "xc666d919cd2ff628"
     },
     {
      "url": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/c0/9d/j/o0250024913922579089.jpg",
      "caption": "会场限定生写真4枚套组",
-     "source": "https://ameblo.jp/we-goodsinfo/entry-12268879951.html"
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12268879951.html",
+     "asset": "xb160ca8c8d639cea"
     }
    ],
    "videos": [],
@@ -2955,7 +2986,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0672/4910122170672.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/14901918/",
-     "asset": "",
+     "asset": "x2031018337bea8cc",
      "resolution": ""
     }
    ],
@@ -2984,7 +3015,7 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/2535/1102/resize/d2535-1102-767873-0.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000001102.000002535.html",
-     "asset": "",
+     "asset": "x8e69d69f9be6f54b",
      "resolution": ""
     }
    ],
@@ -3011,7 +3042,7 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/zsome15041.jpg",
      "caption": "封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8d9f9f03643465c2",
      "resolution": ""
     }
    ],
@@ -3039,7 +3070,7 @@ window.ARCHIVE = {
      "url": "https://engekisengen.com/wp-content/uploads/2018/04/tourabu_170515.jpg",
      "caption": "ローチケ演劇宣言！",
      "source": "https://engekisengen.com/genre/2_5d/822/",
-     "asset": "",
+     "asset": "x8d79e6567a27e2cb",
      "resolution": ""
     }
    ],
@@ -3066,34 +3097,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301364071.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xd72e7e863c875bd6"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699349.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x1597fb7855063b18",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699350.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x72e7c2807d277196",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699347.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x545c2590faaf4002",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3699348.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x9582b2cff2d9f3b5",
      "resolution": ""
     }
    ],
@@ -3127,35 +3159,35 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0325/s_toustagiden_kv_logo.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xdba09a38bb123b90",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405197.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xdd7033630d290909",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405199.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x27f6577af11a03db",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3405158.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xfbba9ada0da47dfe",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/DEw9NiFUQAA4xaa?format=jpg&name=large",
      "caption": "角色照：烛台切光忠 内番服（本人X）",
      "source": "https://x.com/keisuke_higashi/status/886150543030145024",
-     "asset": "",
+     "asset": "x1a6a4da85fb79065",
      "resolution": ""
     }
    ],
@@ -3176,7 +3208,7 @@ window.ARCHIVE = {
    "workRoma": "GIDEN",
    "roleName": "烛台切光忠",
    "cardPoster": "assets/img/roles/e18_poster.jpg",
-   "cardPhoto": "https://stage-toukenranbu.jp/archive/giden/images/cast/syokudai.jpg"
+   "cardPhoto": "assets/img/ext/42b72cf6b80e5673.jpg"
   },
   {
    "id": "mag_rk14945701",
@@ -3223,34 +3255,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301366687.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xbf4a3471d2d429a6"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435695.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xdac81d08aadf0190",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435693.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x405ad19ba6f97a8c",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435694.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf8735495d66657dc",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3435696.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xdc709571116244bd",
      "resolution": ""
     }
    ],
@@ -3277,7 +3310,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0922/2_5jigen_scene.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/249775",
-     "asset": "",
+     "asset": "x4ca09a3dea494486",
      "resolution": ""
     }
    ],
@@ -3303,7 +3336,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0973/4910096950973.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xa69303365f833c92",
      "resolution": ""
     }
    ],
@@ -3332,7 +3365,7 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/7006/3498/resize/d7006-3498-963629-0.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000003498.000007006.html",
-     "asset": "",
+     "asset": "x498e7fe834c351bf",
      "resolution": ""
     }
    ],
@@ -3359,14 +3392,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/DEXyHHcU0AUHI-B?format=jpg&name=large",
      "caption": "角色照：李春林（本人X）",
      "source": "https://x.com/keisuke_higashi/status/884379122884952064",
-     "asset": "",
+     "asset": "x78fc621e60390687",
      "resolution": ""
     },
     {
      "url": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/274887/d841d9e5d769e15552f403e13dfc1758_6d5d8f957f8faa94f45c1c1b7201fedb.jpg",
      "caption": "公演主视觉",
      "source": "https://grandguignol-170401.themedia.jp/",
-     "asset": "",
+     "asset": "x3cb032630051dfd6",
      "resolution": ""
     },
     {
@@ -3380,35 +3413,35 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0729/grandguignol_kv.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x93ad6e782ad8002b",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581238.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x4538ae124aa8717b",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581239.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x51a1b6bb4cfeabfe",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3581240.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x9e389c6af0e683a8",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo32444.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x4fb024e028cdd20f",
      "resolution": ""
     }
    ],
@@ -3451,7 +3484,7 @@ window.ARCHIVE = {
    "roleRoma": "LI CHUNLIN",
    "workRoma": "GRAND GUIGNOL",
    "roleName": "李春林",
-   "cardPhoto": "https://pbs.twimg.com/media/DEXyHHcU0AUHI-B?format=jpg&name=large"
+   "cardPhoto": "assets/img/ext/78fc621e60390687.jpg"
   },
   {
    "id": "bro_201708",
@@ -3471,39 +3504,41 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369385.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x0806a4b4b3803a02"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369390.jpg",
      "caption": "7net 官方商品图：22岁生日生写真套组",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x0a4561aee2f6c243"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639092.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xc7939327a6ebbc65",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639091.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x4aa4f78a83d188ab",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639094.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd1744e82297beb65",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639093.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x16f99d922fc33345",
      "resolution": ""
     }
    ],
@@ -3530,7 +3565,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1144/neobk-2130555.jpg?_ex=500x500",
      "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x4b75f278563825de",
      "resolution": ""
     }
    ],
@@ -3559,7 +3594,7 @@ window.ARCHIVE = {
      "url": "https://stat.ameba.jp/user_images/20170901/12/we-goodsinfo/2e/ce/j/o1032081814017742589.jpg",
      "caption": "官方周边图",
      "source": "https://ameblo.jp/we-goodsinfo/entry-12306664504.html",
-     "asset": "",
+     "asset": "xbe5754a594ff2e37",
      "resolution": ""
     }
    ],
@@ -3584,27 +3619,28 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301372413.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xfe641bb57a32650b"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639095.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x27c9b2e32357e422",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639097.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe4023c736441c04c",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639096.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x58224150ed611895",
      "resolution": ""
     }
    ],
@@ -3631,7 +3667,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1177/4910013791177.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15120606/",
-     "asset": "",
+     "asset": "xce1c48b97ac2ebfc",
      "resolution": ""
     }
    ],
@@ -3658,34 +3694,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301375029.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xd4532c9e86c29261"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683296.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x32ce6a798c921a67",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683297.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x3209e7f987dcca85",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683299.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd79f5e7d92b62dae",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683298.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf62dd9d31e814a79",
      "resolution": ""
     }
    ],
@@ -3719,13 +3756,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0705/ClubSLAZYExtrainvitationMalachite_logo.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x44ecfc72e7d6a7e8",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0831/slazy_visual.jpg",
      "caption": "主视觉",
-     "source": "ステージナタリー"
+     "source": "ステージナタリー",
+     "asset": "xb032751b0b44f953"
     }
    ],
    "videos": [
@@ -3744,7 +3782,7 @@ window.ARCHIVE = {
    "roleRoma": "WILL",
    "workRoma": "EXTRA INVITATION",
    "roleName": "威尔",
-   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2017/0831/slazy_visual.jpg"
+   "cardPoster": "assets/img/ext/b032751b0b44f953.jpg"
   },
   {
    "id": "bro_201711",
@@ -3764,34 +3802,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301377319.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xffd6275bac84e963"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639100.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe9b4542d2f3ce6cb",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639099.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x7ab1753485bae9a3",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639101.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xc48cb941270307d7",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639102.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xa170c241801c83e7",
      "resolution": ""
     }
    ],
@@ -3817,7 +3856,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1647030_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1647030/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1647030/",
+     "asset": "x6b07ce47e4571bd1"
     }
    ],
    "videos": [],
@@ -3851,28 +3891,28 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0429/scarletpimpernel.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x990f8f36f84786c6",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3958543.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xef4c8db5256d9841",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3958545.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xb18bf6f8cdd0f4ad",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639108.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xc932ee9a79fc2082",
      "resolution": ""
     }
    ],
@@ -3909,7 +3949,7 @@ window.ARCHIVE = {
    "roleRoma": "HAL",
    "workRoma": "THE SCARLET PIMPERNEL",
    "roleName": "哈尔",
-   "cardPhoto": "https://www.umegei.com/the-scarlet-pimpernel/img/second/cast_10.jpg"
+   "cardPhoto": "assets/img/ext/66ab33aa2fa7e1f3.jpg"
   },
   {
    "id": "mag_rm_95423071",
@@ -3931,7 +3971,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1164/neobk-2160754.jpg?_ex=500x500",
      "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x3279460f0fad4bb5",
      "resolution": ""
     }
    ],
@@ -3959,7 +3999,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/sVRUuv1jE4KUgGiLuh47vqA6TxULq9nuqtq6F5D7YsFEed8cSKGDMsvRaRtVnWxr",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/156576",
-     "asset": "",
+     "asset": "x8655334d8a9d4d39",
      "resolution": ""
     }
    ],
@@ -3988,7 +4028,7 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/11710/688/resize/d11710-688-910038-0.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000000688.000011710.html",
-     "asset": "",
+     "asset": "x6c45c9a9e3280941",
      "resolution": ""
     }
    ],
@@ -4042,33 +4082,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301379742.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x48b95121396c05b0"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439021.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xaadf59013f8784b2",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg624775.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe96b4a647714aebe",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439022.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x604a079e701feca1",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439020.jpg",
      "caption": "生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG439020"
+     "source": "https://www.suruga-ya.jp/product/detail/GG439020",
+     "asset": "xaa20f24c8f331e16"
     }
    ],
    "videos": [],
@@ -4092,7 +4134,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.stagegate.jp/stagegate/performance/2018/5days/img/main_img.jpg",
      "caption": "作品海报（采访原图已失效）",
-     "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html"
+     "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
+     "asset": "x713f6ce91f529369"
     }
    ],
    "videos": [],
@@ -4118,27 +4161,28 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301381805.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xab6dd9aa81249557"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717120.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xfe75d24ed82b94c9",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717121.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xaa0b96f3113359e8",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3717122.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd1dcd2e29823ba12",
      "resolution": ""
     }
    ],
@@ -4164,7 +4208,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1647031_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1647031/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1647031/",
+     "asset": "xb86d22291591e759"
     }
    ],
    "videos": [],
@@ -4198,7 +4243,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0901/mata01.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xb6be349de889a358",
      "resolution": ""
     }
    ],
@@ -4241,7 +4286,7 @@ window.ARCHIVE = {
    "roleRoma": "ARMAND",
    "workRoma": "MATA HARI",
    "roleName": "阿尔芒",
-   "cardPhoto": "https://www.umegei.com/matahari2018/images/cast/cast_higashi.jpg"
+   "cardPhoto": "assets/img/ext/15fa115e43da074d.jpg"
   },
   {
    "id": "bro_201802",
@@ -4261,34 +4306,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301384212.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x55b299d6e2fa6ae8"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439024.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x08d3bd6be2888c40",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439025.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x972cb53a10969ca5",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439023.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xfc9ed50b38916171",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg703175.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x1b927233588123f9",
      "resolution": ""
     }
    ],
@@ -4315,7 +4361,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1184/neobk-2191855.jpg?_ex=500x500",
      "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x77d0f3cf31514634",
      "resolution": ""
     }
    ],
@@ -4344,7 +4390,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/7272/9784863367272.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x43d46ba822b21e77",
      "resolution": ""
     }
    ],
@@ -4372,28 +4418,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735851.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x77781f48f5e92181",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735849.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x9ca773d596b98e6e",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735850.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xae72ccaf24f0ca91",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3735848.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x1eaeea964d765f3d",
      "resolution": ""
     }
    ],
@@ -4419,7 +4465,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1648308_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1648308/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1648308/",
+     "asset": "x3d7bd804c20b23c2"
     }
    ],
    "videos": [],
@@ -4445,7 +4492,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1636610_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/265/b/1636610/"
+     "source": "https://www.fujisan.co.jp/product/265/b/1636610/",
+     "asset": "x8fce6e600c1e3fd2"
     }
    ],
    "videos": [],
@@ -4472,7 +4520,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0586/4910080090586.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15405076/",
-     "asset": "",
+     "asset": "x395d12b2f0f6cf90",
      "resolution": ""
     }
    ],
@@ -4499,34 +4547,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301389133.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xda668d69ce6d3e33"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271344.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8ea784dd568da3f0",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271343.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x04b0932d744f7e42",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271345.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x98675e0dee579f14",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271342.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x9cc1d432bd7ebac9",
      "resolution": ""
     }
    ],
@@ -4552,34 +4601,35 @@ window.ARCHIVE = {
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0403/_4026797.jpg",
      "caption": "舞台照：哈瓦尔（中间白衣）",
-     "source": "ステージナタリー"
+     "source": "ステージナタリー",
+     "asset": "xa45a995063561c9e"
     },
     {
      "url": "https://www.stagegate.jp/stagegate/performance/2018/5days/img/main_img.jpg",
      "caption": "主视觉",
      "source": "https://www.stagegate.jp/stagegate/performance/2018/5days/index.html",
-     "asset": "",
+     "asset": "x713f6ce91f529369",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/1222/5DAYS_visual.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x424af018d8eac46c",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg655396.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd7d17ce18aa98fa6",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo42077.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xefbd1972e42b2a14",
      "resolution": ""
     }
    ],
@@ -4616,7 +4666,7 @@ window.ARCHIVE = {
    "roleRoma": "HAWAR",
    "workRoma": "5DAYS",
    "roleName": "哈瓦尔",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2018/0403/_4026797.jpg",
+   "cardPhoto": "assets/img/ext/a45a995063561c9e.jpg",
    "cardPhotoBg": "52% 31% / auto 260%"
   },
   {
@@ -4638,7 +4688,8 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271354.jpg",
      "caption": "表参道店限定W生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG271354"
+     "source": "https://www.suruga-ya.jp/product/detail/GG271354",
+     "asset": "x8b7fa7e8c9b6ecca"
     }
    ],
    "videos": [],
@@ -4663,17 +4714,20 @@ window.ARCHIVE = {
     {
      "url": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/31/db/j/o0350020414173755325.jpg",
      "caption": "纪念生写真2L套组（亲笔留言＆签名印刷）",
-     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html"
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html",
+     "asset": "x63c77ec7b43128d9"
     },
     {
      "url": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/55/f6/j/o0350017214173755327.jpg",
      "caption": "生写真套组A（西装）",
-     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html"
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html",
+     "asset": "xe7e981344b90e3c3"
     },
     {
      "url": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/8a/8a/j/o0350017214173755330.jpg",
      "caption": "生写真套组B（夹克）",
-     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html"
+     "source": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html",
+     "asset": "xe49b0f93c4261a5e"
     }
    ],
    "videos": [],
@@ -4699,28 +4753,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271347.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x42d8dc35b1703998",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271348.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x01ab20185f540827",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271349.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x7b0cba1fd7eb70d3",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271346.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xc17646de97aa090f",
      "resolution": ""
     }
    ],
@@ -4747,7 +4801,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/hmvjapan/cabinet/8742000/8740876.jpg?_ex=500x500",
      "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x12edb85c543b71c6",
      "resolution": ""
     }
    ],
@@ -4775,7 +4829,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1664587_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1664587/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1664587/",
+     "asset": "xeb0de656b228e1a5"
     }
    ],
    "videos": [],
@@ -4801,7 +4856,8 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271355.jpg",
      "caption": "2L判W生写真（骏河屋商品图）",
-     "source": "骏河屋"
+     "source": "骏河屋",
+     "asset": "x844a67cce884211f"
     }
    ],
    "videos": [],
@@ -4826,7 +4882,7 @@ window.ARCHIVE = {
      "url": "https://jprime.ismcdn.jp/mwimgs/d/3/-/img_d39fb6de916cc4658099b0af3613b1ee856995.jpg",
      "caption": "週刊女性PRIME",
      "source": "https://www.jprime.jp/articles/-/12438",
-     "asset": "",
+     "asset": "xca18ad7b7b269e72",
      "resolution": ""
     }
    ],
@@ -4854,34 +4910,35 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271350.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd317e53eae079e19",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271351.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x59c25f9e0e5e12dc",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271352.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xc5bb15b89e491b66",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271353.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x7af5ec4bf7f15c9b",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271355.jpg",
      "caption": "表参道店限定W〈2018年6月〉（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG271355"
+     "source": "https://www.suruga-ya.jp/product/detail/GG271355",
+     "asset": "x844a67cce884211f"
     }
    ],
    "videos": [],
@@ -4914,41 +4971,42 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0601/tousute_hidenKV.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x60ee42106dd8b5d2",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745225.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8f4303aaaa8857c4",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745145.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x23a4975a4bb339f3",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3745171.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xfd7a86181a635ee1",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/Dfp8YSOVAAI4sTq?format=jpg&name=large",
      "caption": "角色照：烛台切光忠（本人X）",
      "source": "https://x.com/keisuke_higashi/status/1007254232469102592",
-     "asset": "",
+     "asset": "xfe29dd14fdb54bc9",
      "resolution": ""
     },
     {
      "url": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg",
      "caption": "Blu-ray封面",
-     "source": "HMV"
+     "source": "HMV",
+     "asset": "xaf3339dc9a6279ec"
     }
    ],
    "videos": [
@@ -4963,8 +5021,8 @@ window.ARCHIVE = {
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "HIDEN",
    "roleName": "烛台切光忠",
-   "cardPhoto": "https://stage-toukenranbu.jp/archive/hiden/images/cast/shokudai.jpg",
-   "cardPoster": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg"
+   "cardPhoto": "assets/img/ext/7b63ccb2512541a6.jpg",
+   "cardPoster": "assets/img/ext/af3339dc9a6279ec.jpg"
   },
   {
    "id": "mag_rk15531823",
@@ -4986,7 +5044,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0880/4910013170880.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15531823/",
-     "asset": "",
+     "asset": "xf1ce334af9487bc1",
      "resolution": ""
     }
    ],
@@ -5014,28 +5072,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439026.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x04ae918335be13ba",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439027.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xc25dc250025cd77c",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439029.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x2770689fd5654cd4",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439028.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd1ab446944ff45c7",
      "resolution": ""
     }
    ],
@@ -5062,7 +5120,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/pp/static/stage/grandguignol/thumb_inbox_600.jpg",
      "caption": "Natalie 特集图",
      "source": "https://natalie.mu/stage/pp/grandguignol",
-     "asset": "",
+     "asset": "xc065cbfa23251e70",
      "resolution": ""
     }
    ],
@@ -5087,7 +5145,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1693895_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1693895/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1693895/",
+     "asset": "xa337e65d6bdcbffe"
     }
    ],
    "videos": [],
@@ -5113,7 +5172,8 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435133.jpg",
      "caption": "2L判W生写真（骏河屋商品图）",
-     "source": "骏河屋"
+     "source": "骏河屋",
+     "asset": "x72424ed0e9100f59"
     }
    ],
    "videos": [],
@@ -5138,28 +5198,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435126.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x4dbccde53907dee7",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435125.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xff1cd867bd5b6f52",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435127.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xbc205043c0849631",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435128.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf1ac92c23c68ff83",
      "resolution": ""
     }
    ],
@@ -5186,7 +5246,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/kaitoriouji/cabinet/202303061540/4331803996.jpg?_ex=500x500",
      "caption": "商品图",
      "source": "https://search.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x9e7fb364282a78a7",
      "resolution": ""
     }
    ],
@@ -5214,7 +5274,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/k5LmlnrHQSu4taHH8D8BvCLQhKgYeyU11C5YqIorL8chKplfaFPe4zsVLq6TvCqm",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/202482",
-     "asset": "",
+     "asset": "xccd3d4b4ef21319f",
      "resolution": ""
     }
    ],
@@ -5243,7 +5303,7 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/81woWJbYJqL.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/B07GJCMPMP",
-     "asset": "",
+     "asset": "x85c3b1830207ab1d",
      "resolution": ""
     }
    ],
@@ -5279,41 +5339,42 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0712/marigold_keyvisual.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x15ad3e236523c03d",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg145117.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x7b51f9e0672420c3",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937051.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x50d3559328e0efaf",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937048.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x4b3c21274320afec",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo37817.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x616faa5a29b7bd61",
      "resolution": ""
     },
     {
      "url": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/445930/1eb90d2dd318a24482311797bbccd426_f03f6a13bbd6dd4a8e4c7bad21ee7b5a.jpg",
      "caption": "剧照：科利乌斯",
-     "source": "Marigold 官网"
+     "source": "Marigold 官网",
+     "asset": "x5fcfb0f738b4937d"
     }
    ],
    "videos": [
@@ -5349,7 +5410,7 @@ window.ARCHIVE = {
    "roleRoma": "COLEUS",
    "workRoma": "MARIGOLD",
    "roleName": "科利乌斯",
-   "cardPhoto": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/445930/1eb90d2dd318a24482311797bbccd426_f03f6a13bbd6dd4a8e4c7bad21ee7b5a.jpg"
+   "cardPhoto": "assets/img/ext/5fcfb0f738b4937d.jpg"
   },
   {
    "id": "bro_201809",
@@ -5370,28 +5431,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435132.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x384b1ec1d3a7c47f",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435130.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x594b0c17a22e15d3",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435131.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe55968f044c336ab",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg435129.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x2469c0cc6b5048fd",
      "resolution": ""
     }
    ],
@@ -5418,7 +5479,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1187/4910080091187.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15645554/",
-     "asset": "",
+     "asset": "xb5b222b90b67a5a8",
      "resolution": ""
     }
    ],
@@ -5446,28 +5507,28 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439033.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x612dadb3d32e3d4f",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439030.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xb99f7d999365c59e",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439032.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd2853f52dd7be3ba",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439031.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe684d454c4539abf",
      "resolution": ""
     }
    ],
@@ -5494,7 +5555,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/1010/higashikeisuke.jpg",
      "caption": "あさステ！木曜主持 东启介",
      "source": "https://natalie.mu/stage/news/303161",
-     "asset": "",
+     "asset": "xf99c7be14377a90d",
      "resolution": ""
     },
     {
@@ -5529,7 +5590,8 @@ window.ARCHIVE = {
     {
      "url": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-1.png",
      "caption": "官网角色设定：时丸（全身）",
-     "source": "https://garo-project.jp/usuzumizakura/sp/character.php"
+     "source": "https://garo-project.jp/usuzumizakura/sp/character.php",
+     "asset": "xc1463cd2c7640104"
     },
     {
      "url": "https://garo-project.jp/usuzumizakura/sp/img/top/mainVisual.jpg",
@@ -5542,18 +5604,20 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/eiga/2018/0907/usuzumizakura_garo_201809_01.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x36d968a98fbef825",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg",
      "caption": "主视觉",
-     "source": "コミックナタリー"
+     "source": "コミックナタリー",
+     "asset": "x088c97eda5e51e45"
     },
     {
      "url": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-2.png",
      "caption": "官网角色设定：时丸（脸部）",
-     "source": "https://garo-project.jp/usuzumizakura/sp/character.php"
+     "source": "https://garo-project.jp/usuzumizakura/sp/character.php",
+     "asset": "x61ce62a0b9d61190"
     }
    ],
    "videos": [
@@ -5568,8 +5632,8 @@ window.ARCHIVE = {
    "roleRoma": "TOKIMARU",
    "workRoma": "USUZUMI ZAKURA",
    "roleName": "时丸",
-   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2018/0907/garo_key.jpg",
-   "cardPhoto": "https://garo-project.jp/usuzumizakura/sp/img/chara/img99-1.png",
+   "cardPoster": "assets/img/ext/088c97eda5e51e45.jpg",
+   "cardPhoto": "assets/img/ext/c1463cd2c7640104.png",
    "cardPhotoPos": "50% 5%"
   },
   {
@@ -5592,7 +5656,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0926/TRUMPten_logo.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/301217",
-     "asset": "",
+     "asset": "x3b915438400c1065",
      "resolution": ""
     }
    ],
@@ -5618,14 +5682,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/1011/mayukiyakai_scene.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/stage/news/303263",
-     "asset": "",
+     "asset": "x2af24f61f3cce8b0",
      "resolution": ""
     },
     {
      "url": "https://i.ytimg.com/vi/AHvAQBT5Dbg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCc2j2R5ndKWowceXX0ek1kvcflFQ",
      "caption": "视频封面：TRUMPシリーズ『繭期夜会』（2018年）ダイジェスト映像",
      "source": "https://www.youtube.com/watch?v=AHvAQBT5Dbg",
-     "asset": "",
+     "asset": "xf4cee3cfb1dae920",
      "resolution": ""
     }
    ],
@@ -5659,7 +5723,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/4056/9784331804056.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x978c6e11cca0f422",
      "resolution": ""
     }
    ],
@@ -5687,7 +5751,8 @@ window.ARCHIVE = {
     {
      "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0411/users/51fbb8a266f9eb798134cd1464cb52a012f7846b/i-img360x239-1541297585byn9le38762.jpg",
      "caption": "2L判W生写真（拍卖实物图）",
-     "source": "Yahoo!拍卖"
+     "source": "Yahoo!拍卖",
+     "asset": "x0aedda9cb7aa7c51"
     }
    ],
    "videos": [],
@@ -5712,7 +5777,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1740301_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281690560/b/list/?limit=30&year=2018"
+     "source": "https://www.fujisan.co.jp/product/1281690560/b/list/?limit=30&year=2018",
+     "asset": "xd06ca5d501b3cac8"
     }
    ],
    "videos": [],
@@ -5739,34 +5805,35 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937030.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x63985a1715d760ea",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937028.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xd9a5b1f2199bdfe1",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937027.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xea5ae7b007e6d6d5",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937029.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x47d687ba5f7916e2",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937043.jpg",
      "caption": "表参道店限定W〈2018年11月〉（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG937043"
+     "source": "https://www.suruga-ya.jp/product/detail/GG937043",
+     "asset": "x8f2b801c07035a52"
     }
    ],
    "videos": [],
@@ -5791,7 +5858,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1744758_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1744758/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1744758/",
+     "asset": "xbdc46e70bb1e8b32"
     }
    ],
    "videos": [],
@@ -5818,14 +5886,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/61xqSHvn6mL.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/B07J34NSQW",
-     "asset": "",
+     "asset": "xb3544334b217d9e8",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1286/4910018571286.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xf7e0b4a5da52a14c",
      "resolution": ""
     }
    ],
@@ -5853,7 +5921,8 @@ window.ARCHIVE = {
     {
      "url": "https://stage.parco.jp/image/parcoplay/store/storage/s_inochi_photo2.jpg",
      "caption": "剧照：山田羽仁男",
-     "source": "PARCO STAGE（撮影：引地信彦）"
+     "source": "PARCO STAGE（撮影：引地信彦）",
+     "asset": "x1cade61dea6667bb"
     },
     {
      "url": "https://stage.parco.jp//image/parcoplay/store/storage/h600/s_inochi_honchirashi.jpg",
@@ -5866,41 +5935,42 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2018/0630/inochiurimasu.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x5f918d798f823bd2",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg427182.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x943cb30dc26786d1",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937045.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xac46a0b9ba9f0a3f",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937046.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe922d9bbfc69f6ed",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo55853.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x8eb67e03025fcf51",
      "resolution": ""
     },
     {
      "url": "https://img.hmv.co.jp/hybridimage/eventpage/368139/main.jpg",
      "caption": "公演主视觉（横版）",
-     "source": "ローチケ"
+     "source": "ローチケ",
+     "asset": "xb57fe4e550b7351e"
     }
    ],
    "videos": [],
@@ -5910,7 +5980,7 @@ window.ARCHIVE = {
    "roleRoma": "YAMADA HANIO",
    "workRoma": "INOCHI URIMASU",
    "roleName": "山田羽仁男",
-   "cardPhoto": "https://stage.parco.jp/image/parcoplay/store/storage/s_inochi_photo2.jpg",
+   "cardPhoto": "assets/img/ext/1cade61dea6667bb.jpg",
    "cardPhotoBg": "20% 14% / auto 230%"
   },
   {
@@ -5933,7 +6003,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0296/4910080090296.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15760957/",
-     "asset": "",
+     "asset": "x70de55d4e17aa3ee",
      "resolution": ""
     }
    ],
@@ -5962,7 +6032,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/4315/9784331804315.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xeb24f80f5cce46c5",
      "resolution": ""
     }
    ],
@@ -5990,14 +6060,14 @@ window.ARCHIVE = {
      "url": "https://fast-tokyo.com/wp-content/uploads/2019/01/contents_keisukehigasi_fast3.jpg",
      "caption": "FAST",
      "source": "https://fast-tokyo.com/keisuke-higashi-special-contents/",
-     "asset": "",
+     "asset": "xcb67d75428559c9b",
      "resolution": ""
     },
     {
      "url": "https://fast-tokyo.com/wp-content/uploads/2019/01/contents_keisukehigashi4_fast.jpg",
      "caption": "FAST",
      "source": "https://fast-tokyo.com/keisuke-higashi-special-contents/",
-     "asset": "",
+     "asset": "xdd591dc8436fb5da",
      "resolution": ""
     }
    ],
@@ -6026,14 +6096,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/81-lVbWon+L.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/4331804097",
-     "asset": "",
+     "asset": "xec3730df0e6dde56",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4094/9784331804094.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x8638d3015fd1c475",
      "resolution": ""
     }
    ],
@@ -6061,14 +6131,14 @@ window.ARCHIVE = {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937035.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x1141d1a6d43e4c77",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937038.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf0688866ea8ce713",
      "resolution": ""
     }
    ],
@@ -6093,34 +6163,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301417946.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xf5ae04b7f2b268ba"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937042.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x777fc175c1ecda15",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937040.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf47a05dbe7bcf4f1",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937041.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xe936a3e25d8ad7d0",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937039.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x1d644ed967b37c28",
      "resolution": ""
     }
    ],
@@ -6146,7 +6217,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1792540_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/265/b/1792540/"
+     "source": "https://www.fujisan.co.jp/product/265/b/1792540/",
+     "asset": "xa047096085cbbcbd"
     }
    ],
    "videos": [],
@@ -6173,7 +6245,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0499/4910179070499.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15831877/",
-     "asset": "",
+     "asset": "x54655380cab15e90",
      "resolution": ""
     }
    ],
@@ -6202,7 +6274,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/9016/9784863369016.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xca51bb501e86eb19",
      "resolution": ""
     }
    ],
@@ -6231,7 +6303,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0593/4910080090593.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/15862247/",
-     "asset": "",
+     "asset": "x919689dd9f30269f",
      "resolution": ""
     }
    ],
@@ -6260,7 +6332,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/4186/9784331804186.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xa5d70dde6e285cf4",
      "resolution": ""
     }
    ],
@@ -6289,14 +6361,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/91Fi8Roj4QL.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/B07QL61NDY",
-     "asset": "",
+     "asset": "xbe43b8d1fdbe81c0",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0690/4910121210690.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xaafdc381127a465c",
      "resolution": ""
     }
    ],
@@ -6353,7 +6425,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1809064_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1747/b/1809064/"
+     "source": "https://www.fujisan.co.jp/product/1747/b/1809064/",
+     "asset": "x8b602abf330f7f78"
     }
    ],
    "videos": [],
@@ -6380,7 +6453,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg",
      "caption": "剧照",
      "source": "https://natalie.mu/",
-     "asset": "",
+     "asset": "xf4aa0c0d758be71c",
      "resolution": ""
     },
     {
@@ -6394,14 +6467,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/0115/COL.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x0ab1424a10a9189a",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo41034.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x599ea0a2f417a7dc",
      "resolution": ""
     }
    ],
@@ -6437,8 +6510,8 @@ window.ARCHIVE = {
    "roleRoma": "HIROSE KAZUYA",
    "workRoma": "COLOR OF LIFE",
    "roleName": "广濑和也",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2019/0426/col2.jpg",
-   "cardPoster": "https://www.stagegate.jp/stagegate/performance/2019/color_of_life/img/main_img.jpg"
+   "cardPhoto": "assets/img/ext/f4aa0c0d758be71c.jpg",
+   "cardPoster": "assets/img/ext/65573d52d3a8acff.jpg"
   },
   {
    "id": "web_mtj190503",
@@ -6459,7 +6532,7 @@ window.ARCHIVE = {
      "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20190503/20190503081908.jpg",
      "caption": "东启介（右）与青野纱穗 ©Marino Matsushima",
      "source": "https://www.musicaltheaterjapan.com/entry/5-3",
-     "asset": "",
+     "asset": "x982384547a22b8c2",
      "resolution": ""
     }
    ],
@@ -6487,7 +6560,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1819396_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1819396/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1819396/",
+     "asset": "x962ba1ec9808bd1f"
     }
    ],
    "videos": [],
@@ -6512,7 +6586,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301425383.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xda3a554687febe93"
     }
    ],
    "videos": [],
@@ -6537,34 +6612,35 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301427912.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xb759334f1e1fdf8a"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723926.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x45d7289e8b96f8df",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723923.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x3a2344ae9491404c",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723925.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x84e786780125b900",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723924.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x574e664010f58d75",
      "resolution": ""
     }
    ],
@@ -6590,7 +6666,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1847770_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1847770/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1847770/",
+     "asset": "x1df98085eb3fd8f4"
     }
    ],
    "videos": [],
@@ -6616,7 +6693,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg",
      "caption": "剧照：胜麟太郎",
-     "source": "明治座"
+     "source": "明治座",
+     "asset": "xabd8928f5d701370"
     },
     {
      "url": "https://www.meijiza.co.jp/lineup/2019/07/images/main_header.jpg",
@@ -6633,7 +6711,7 @@ window.ARCHIVE = {
    "roleRoma": "KATSU RINTARO",
    "workRoma": "KATSU KOKICHI DEN",
    "roleName": "胜麟太郎",
-   "cardPhoto": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg"
+   "cardPhoto": "assets/img/ext/abd8928f5d701370.jpg"
   },
   {
    "id": "bro_201908",
@@ -6653,7 +6731,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301430196.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x64cd0d96e57ca77c"
     }
    ],
    "videos": [],
@@ -6680,7 +6759,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/EDh2dBlVUAEpqXm.jpg",
      "caption": "节目官方推特图",
      "source": "https://pbs.twimg.com/media/EDh2dBlVUAEpqXm.jpg",
-     "asset": "",
+     "asset": "xe200478df6871bc4",
      "resolution": ""
     }
    ],
@@ -6707,7 +6786,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301437228.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xf91b36c580dc346f"
     }
    ],
    "videos": [],
@@ -6741,14 +6821,14 @@ window.ARCHIVE = {
      "url": "https://thetv.jp/i/nw/208481/1273804.jpg?w=1284",
      "caption": "剧照（安平胜成）",
      "source": "https://thetv.jp/news/detail/208481/",
-     "asset": "",
+     "asset": "x4a796d833f09eb35",
      "resolution": ""
     },
     {
      "url": "https://thetv.jp/i/nw/208481/1273794.jpg?w=1284",
      "caption": "剧照：与松田凌",
      "source": "https://thetv.jp/news/detail/208481/",
-     "asset": "",
+     "asset": "x633541cf2347de87",
      "resolution": ""
     }
    ],
@@ -6764,8 +6844,8 @@ window.ARCHIVE = {
    "roleRoma": "YASUHIRA KATSUNARI",
    "workRoma": "RE:FOLLOWER",
    "roleName": "安平胜成",
-   "cardPoster": "https://www.asahi.co.jp/refollower/img/common/og02.jpg",
-   "cardPhoto": "https://thetv.jp/i/nw/208481/1273804.jpg?w=1284",
+   "cardPoster": "assets/img/ext/ac1275d7a1e5759c.jpg",
+   "cardPhoto": "assets/img/ext/4a796d833f09eb35.jpg",
    "cardPhotoPos": "58% 30%"
   },
   {
@@ -6853,13 +6933,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/0426/TdV.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x5b47c688604260d1",
      "resolution": ""
     },
     {
      "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20191124/20191124192515.jpg",
      "caption": "剧照：阿尔弗雷德",
-     "source": "Musical Theater Japan（写真提供：東宝演劇部）"
+     "source": "Musical Theater Japan（写真提供：東宝演劇部）",
+     "asset": "xe3f98b8088f0272f"
     }
    ],
    "videos": [
@@ -6886,7 +6967,7 @@ window.ARCHIVE = {
    "roleRoma": "ALFRED",
    "workRoma": "DANCE OF THE VAMPIRES",
    "roleName": "阿尔弗雷德",
-   "cardPhoto": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20191124/20191124192515.jpg",
+   "cardPhoto": "assets/img/ext/e3f98b8088f0272f.jpg",
    "cardPhotoBg": "15% 18% / auto 170%"
   },
   {
@@ -6908,7 +6989,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1898878_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/1898878/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/1898878/",
+     "asset": "xa6c6bed8c9668f5d"
     }
    ],
    "videos": [],
@@ -6964,14 +7046,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/1125/mayukidaiyakai8.jpg",
      "caption": "演唱《花には言葉がある》走下客席通道",
      "source": "https://natalie.mu/stage/gallery/news/356091/1284118",
-     "asset": "",
+     "asset": "xf8b164c13140dbe1",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/1125/mayukidaiyakai3.jpg?imwidth=750&imdensity=1",
      "caption": "剧照",
      "source": "https://natalie.mu/stage/news/356091",
-     "asset": "",
+     "asset": "x34660346908727df",
      "resolution": ""
     }
    ],
@@ -6998,7 +7080,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301442556.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xa1de293c21c5cabe"
     }
    ],
    "videos": [],
@@ -7024,7 +7107,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1910145_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/1910145/"
+     "source": "https://www.fujisan.co.jp/product/159/b/1910145/",
+     "asset": "x93218e62cd9262d4"
     }
    ],
    "videos": [],
@@ -7050,7 +7134,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1921638_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/1921638/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/1921638/",
+     "asset": "xdc6e0efe86ac8eec"
     }
    ],
    "videos": [],
@@ -7084,18 +7169,20 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/eiga/2019/0930/signal100_201909_01.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x25704c7522b843c1",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/EL4uVY3U0AAk8DD?format=jpg&name=large",
      "caption": "角色照：藤田阳太郎",
-     "source": "https://x.com/Signal100_Movie/status/1206861592727609344"
+     "source": "https://x.com/Signal100_Movie/status/1206861592727609344",
+     "asset": "x572daaed06ee7a54"
     },
     {
      "url": "https://pbs.twimg.com/media/EMCvCGBUcAA5tP3?format=jpg&name=large",
      "caption": "剧照：篮球部的藤田和日野",
-     "source": "https://x.com/Signal100_Movie/status/1208190346842251266"
+     "source": "https://x.com/Signal100_Movie/status/1208190346842251266",
+     "asset": "xc7dbea0f8a0b429c"
     }
    ],
    "videos": [],
@@ -7105,8 +7192,8 @@ window.ARCHIVE = {
    "roleRoma": "FUJITA YOTARO",
    "workRoma": "SIGNAL 100",
    "roleName": "藤田阳太郎",
-   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2019/0930/signal100_201909_01.jpg",
-   "cardPhoto": "https://pbs.twimg.com/media/EL4uVY3U0AAk8DD?format=jpg&name=large"
+   "cardPoster": "assets/img/ext/25704c7522b843c1.jpg",
+   "cardPhoto": "assets/img/ext/572daaed06ee7a54.jpg"
   },
   {
    "id": "solo_2020",
@@ -7127,17 +7214,20 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737535.jpg",
      "caption": "纪念2L生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG737535"
+     "source": "https://www.suruga-ya.jp/product/detail/GG737535",
+     "asset": "xbdf59bedac412d2c"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737538.jpg",
      "caption": "生写真A（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG737538"
+     "source": "https://www.suruga-ya.jp/product/detail/GG737538",
+     "asset": "xb7f10bcc0d9b993f"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737540.jpg",
      "caption": "生写真B（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG737540"
+     "source": "https://www.suruga-ya.jp/product/detail/GG737540",
+     "asset": "x3c832cbf2c2fd8e1"
     }
    ],
    "videos": [],
@@ -7164,13 +7254,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
      "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/eiga/2020/0212/shounanjunaigumi_202002_01.jpg?imwidth=1280&imdensity=1",
-     "asset": "",
+     "asset": "x6fc1b4427883bc87",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg",
      "caption": "主视觉",
-     "source": "官方"
+     "source": "官方",
+     "asset": "xf9a5a5961d5dfd18"
     },
     {
      "url": "assets/img/roles/e33_photo.jpg",
@@ -7185,7 +7276,7 @@ window.ARCHIVE = {
    "roleRoma": "KAMISHIMA TOSHIKI",
    "workRoma": "SHONAN JUNAI GUMI",
    "roleName": "神岛俊生",
-   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2020/0122/shonanjunai_403Key.jpg",
+   "cardPoster": "assets/img/ext/f9a5a5961d5dfd18.jpg",
    "cardPhoto": "assets/img/roles/e33_photo.jpg"
   },
   {
@@ -7208,7 +7299,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0403/4910180750403.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16231273/",
-     "asset": "",
+     "asset": "xa4ca858b0c741be5",
      "resolution": ""
     }
    ],
@@ -7273,13 +7364,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2019/1004/wdtw_main_s.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xc51416b3577e76a0",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/ELbIZfAU8AExsCR?format=jpg&name=large",
      "caption": "官方角色介绍：埃莫斯",
-     "source": "https://x.com/WDTWofficial/status/1204370294627942400"
+     "source": "https://x.com/WDTWofficial/status/1204370294627942400",
+     "asset": "xe99734a45a95bcf4"
     }
    ],
    "videos": [],
@@ -7289,7 +7381,7 @@ window.ARCHIVE = {
    "roleRoma": "AMOS",
    "workRoma": "WHISTLE DOWN THE WIND",
    "roleName": "埃莫斯",
-   "cardPhoto": "https://pbs.twimg.com/media/ELbIZfAU8AExsCR?format=jpg&name=large"
+   "cardPhoto": "assets/img/ext/e99734a45a95bcf4.jpg"
   },
   {
    "id": "asast_081",
@@ -7371,7 +7463,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301453972.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x32204a87d12679dc"
     }
    ],
    "videos": [],
@@ -7396,7 +7489,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301455708.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xf8b7b48a90addb28"
     }
    ],
    "videos": [],
@@ -7454,7 +7548,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0608/higashikeisuke.jpg",
      "caption": "Natalie 特集图",
      "source": "https://natalie.mu/stage/column/382395",
-     "asset": "",
+     "asset": "x3d203e255e796840",
      "resolution": ""
     }
    ],
@@ -7480,7 +7574,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/GF7l8BRFRh4/maxresdefault.jpg",
      "caption": "《こえ》官方视频封面",
      "source": "https://www.youtube.com/watch?v=GF7l8BRFRh4",
-     "asset": "",
+     "asset": "xfd1db4323345e723",
      "resolution": "1280×720"
     }
    ],
@@ -7505,12 +7599,14 @@ window.ARCHIVE = {
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
      "caption": "角色照：夏洛克",
-     "source": "ステージナタリー（左为东启介）"
+     "source": "ステージナタリー（左为东启介）",
+     "asset": "x143c952a2aadc61f"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/400_50.jpg",
      "caption": "主视觉",
-     "source": "官方"
+     "source": "官方",
+     "asset": "xe92974dbd26b3d1b"
     },
     {
      "url": "https://sato-ryuji.com/assets/satoryuji/app/og_image.png",
@@ -7527,9 +7623,9 @@ window.ARCHIVE = {
    "roleRoma": "SHERLOCK HOLMES",
    "workRoma": "A STUDY IN SCARLET",
    "roleName": "夏洛克",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
+   "cardPhoto": "assets/img/ext/143c952a2aadc61f.jpg",
    "cardPhotoBg": "8% 50% / auto 130%",
-   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2020/0613/400_50.jpg"
+   "cardPoster": "assets/img/ext/e92974dbd26b3d1b.jpg"
   },
   {
    "id": "asast_091",
@@ -7551,7 +7647,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/Yj65bhOdxXPLpcOU6L3DmFJ57PYW8i3lbzLjgTQ0XrqLjVJ6Bfm8HFZvRES53Dsy",
      "caption": "SPICE 新闻图",
      "source": "https://spice.eplus.jp/articles/270919",
-     "asset": "",
+     "asset": "xd7b9e9e8f74f35a1",
      "resolution": ""
     }
    ],
@@ -7584,7 +7680,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301457637.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x1e8b71c5458b0de5"
     }
    ],
    "videos": [],
@@ -7611,14 +7708,14 @@ window.ARCHIVE = {
      "url": "https://www.joqr.co.jp/article/images/asasute.jpg",
      "caption": "文化放送节目图",
      "source": "https://spice.eplus.jp/articles/270919",
-     "asset": "",
+     "asset": "xbe91e17a551cf065",
      "resolution": ""
     },
     {
      "url": "https://spice.eplus.jp/images/Yj65bhOdxXPLpcOU6L3DmFJ57PYW8i3lbzLjgTQ0XrqLjVJ6Bfm8HFZvRES53Dsy",
      "caption": "SPICE 新闻图",
      "source": "https://spice.eplus.jp/articles/270919",
-     "asset": "",
+     "asset": "xd7b9e9e8f74f35a1",
      "resolution": ""
     }
    ],
@@ -7647,18 +7744,20 @@ window.ARCHIVE = {
      "url": "https://stagegate-vr.jp/vol1/img_parallax/defiled1.jpg",
      "caption": "官方宣传图",
      "source": "https://stagegate-vr.jp/vol1/",
-     "asset": "",
+     "asset": "xfc406b762b5e5701",
      "resolution": ""
     },
     {
      "url": "https://stagegate-vr.jp/vol1/img_cast/higashi.jpg",
      "caption": "官网演员照",
-     "source": "https://stagegate-vr.jp/vol1/"
+     "source": "https://stagegate-vr.jp/vol1/",
+     "asset": "x6dee60565c4d9c2b"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0612/defiled_vr.jpg",
      "caption": "VR配信海报",
-     "source": "ナタリー"
+     "source": "ナタリー",
+     "asset": "x48e04bc2f0330b92"
     }
    ],
    "videos": [],
@@ -7668,8 +7767,8 @@ window.ARCHIVE = {
    "roleRoma": "HARRY MENDELSOHN",
    "workRoma": "DEFILED",
    "roleName": "哈里",
-   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2020/0612/defiled_vr.jpg",
-   "cardPhoto": "https://stagegate-vr.jp/vol1/img_cast/higashi.jpg"
+   "cardPoster": "assets/img/ext/48e04bc2f0330b92.jpg",
+   "cardPhoto": "assets/img/ext/6dee60565c4d9c2b.jpg"
   },
   {
    "id": "e37",
@@ -7698,7 +7797,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0417/img1.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xa3b202d0e54ac8e2",
      "resolution": ""
     }
    ],
@@ -7737,7 +7836,8 @@ window.ARCHIVE = {
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0622/Clipboard01.jpg",
      "caption": "宣传海报",
-     "source": "https://natalie.mu/stage/news/384368"
+     "source": "https://natalie.mu/stage/news/384368",
+     "asset": "x2b684f3c54de4fb2"
     }
    ],
    "videos": [
@@ -7776,7 +7876,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301459724.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xc09cd37288720a08"
     }
    ],
    "videos": [],
@@ -7803,7 +7904,7 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw011.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/963/",
-     "asset": "",
+     "asset": "x9a5e37691b0de026",
      "resolution": ""
     }
    ],
@@ -7829,7 +7930,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0723/HigashiKeisuke.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/388967",
-     "asset": "",
+     "asset": "x53f920a475fcdca3",
      "resolution": ""
     }
    ],
@@ -7915,7 +8016,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301461360.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xd3f9dd6147e37f1e"
     }
    ],
    "videos": [],
@@ -7941,7 +8043,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2020493_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2020493/"
+     "source": "https://www.fujisan.co.jp/product/159/b/2020493/",
+     "asset": "xfd5a11256011b357"
     }
    ],
    "videos": [],
@@ -7966,27 +8069,28 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301464245.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xd59e99254473b8e7"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814333.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x0c4d289a801b21a2",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814331.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x3b308e4f00833491",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu814334.jpg",
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x1950168dda66027c",
      "resolution": ""
     }
    ],
@@ -8012,21 +8116,21 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/1355/5644/resize/d1355-5644-881557-0.jpg",
      "caption": "取材会",
      "source": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html",
-     "asset": "",
+     "asset": "xe4e9fb416efc1ead",
      "resolution": ""
     },
     {
      "url": "https://prtimes.jp/i/1355/5644/resize/d1355-5644-749947-1.jpg",
      "caption": "取材会",
      "source": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html",
-     "asset": "",
+     "asset": "xe555211c9351b456",
      "resolution": ""
     },
     {
      "url": "https://prtimes.jp/i/1355/5644/resize/d1355-5644-470338-2.jpg",
      "caption": "取材会",
      "source": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html",
-     "asset": "",
+     "asset": "x0bfb1f40c5667593",
      "resolution": ""
     }
    ],
@@ -8054,7 +8158,7 @@ window.ARCHIVE = {
      "url": "https://engekisengen.com/wp-content/uploads/2020/10/B5A5634OK-e1602491225934.jpg",
      "caption": "ローチケ演劇宣言！",
      "source": "https://engekisengen.com/genre/musical/24286/",
-     "asset": "",
+     "asset": "xbaaad0e675727aa3",
      "resolution": ""
     }
    ],
@@ -8140,32 +8244,38 @@ window.ARCHIVE = {
     {
      "url": "https://i.ytimg.com/vi/4eOorayHphA/hqdefault.jpg",
      "caption": "政之助扮相（明治座官方评论视频）",
-     "source": "https://www.youtube.com/watch?v=4eOorayHphA"
+     "source": "https://www.youtube.com/watch?v=4eOorayHphA",
+     "asset": "x3e00fe9202ff0747"
     },
     {
      "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/11.jpg",
      "caption": "舞台照：政之助",
-     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/",
+     "asset": "x34e93c39ffba928d"
     },
     {
      "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/2.jpg",
      "caption": "舞台照：政之助",
-     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/",
+     "asset": "x6d88b3412b1d03a8"
     },
     {
      "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/4.jpg",
      "caption": "舞台照：政之助",
-     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/",
+     "asset": "x9c5fbafb20b9cc93"
     },
     {
      "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/7.jpg",
      "caption": "舞台照：政之助",
-     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/",
+     "asset": "x951c4b86e74be394"
     },
     {
      "url": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/12.jpg",
      "caption": "舞台照：政之助",
-     "source": "https://www.meijiza.co.jp/lineup/2020/10/"
+     "source": "https://www.meijiza.co.jp/lineup/2020/10/",
+     "asset": "x4a4ce5d68ccf1c5b"
     },
     {
      "url": "https://www.meijiza.co.jp/lineup/2020/10/images/main_cast.jpg",
@@ -8178,14 +8288,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0507/koi_moyuru.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xeaaa3596dae16848",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo52995.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x0788d7849aa0213c",
      "resolution": ""
     }
    ],
@@ -8228,7 +8338,7 @@ window.ARCHIVE = {
    "roleRoma": "MASANOSUKE",
    "workRoma": "KOI MOYURU",
    "roleName": "政之助",
-   "cardPhoto": "https://www.meijiza.co.jp/lineup/2020/10/images/gallery/11.jpg"
+   "cardPhoto": "assets/img/ext/34e93c39ffba928d.jpg"
   },
   {
    "id": "web_es65233",
@@ -8249,14 +8359,14 @@ window.ARCHIVE = {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2020/10/65233.jpg",
      "caption": "エンタステージ",
      "source": "https://enterstage.jp/articles/65233",
-     "asset": "",
+     "asset": "xfe377632f3bfa4a7",
      "resolution": ""
     },
     {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2020/10/65233_2.jpg",
      "caption": "エンタステージ",
      "source": "https://enterstage.jp/articles/65233",
-     "asset": "",
+     "asset": "x6565f145be20a8de",
      "resolution": ""
     }
    ],
@@ -8284,14 +8394,14 @@ window.ARCHIVE = {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2020/10/72713.jpg",
      "caption": "エンタステージ",
      "source": "https://enterstage.jp/articles/72713",
-     "asset": "",
+     "asset": "x77315b55d694780c",
      "resolution": ""
     },
     {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2020/10/72713_2.jpg",
      "caption": "エンタステージ",
      "source": "https://enterstage.jp/articles/72713",
-     "asset": "",
+     "asset": "x0cf733d00340110f",
      "resolution": ""
     }
    ],
@@ -8320,21 +8430,21 @@ window.ARCHIVE = {
      "url": "https://nicovideo.cdn.nimg.jp/thumbnails/37740891/37740891.49896194",
      "caption": "官方拍摄花絮视频封面",
      "source": "https://www.nicovideo.jp/watch/so37740891",
-     "asset": "",
+     "asset": "x61cf50de76f333a2",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723934.jpg",
      "caption": "杂志附赠随机生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x5089c1fce31fc361",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gu723936.jpg",
      "caption": "杂志附赠随机生写真",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xab4b804f9b488f55",
      "resolution": ""
     }
    ],
@@ -8425,7 +8535,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/DA4SvhZuGJaeEmlpb7GwLvHgyPvHZPJJNRzNbgZHOOv5gj7GpBpRDELnORyoX1uF",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/276893",
-     "asset": "",
+     "asset": "x322a8a5bf279872a",
      "resolution": ""
     }
    ],
@@ -8461,14 +8571,14 @@ window.ARCHIVE = {
      "url": "https://theatertainment.jp/wp-content/uploads/2020/09/main-120.jpg",
      "caption": "主视觉",
      "source": "https://theatertainment.jp/japanese-play/62392/",
-     "asset": "",
+     "asset": "xb798529849085a93",
      "resolution": ""
     },
     {
      "url": "https://theatertainment.jp/wp-content/uploads/2020/09/2009higashi.jpg",
      "caption": "宣传照",
      "source": "https://theatertainment.jp/japanese-play/62392/",
-     "asset": "",
+     "asset": "x9dffe2815f805fc1",
      "resolution": ""
     }
    ],
@@ -8502,7 +8612,7 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/7006/7896/resize/d7006-7896-629999-0.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000007896.000007006.html",
-     "asset": "",
+     "asset": "x40db3af7081dc118",
      "resolution": ""
     }
    ],
@@ -8548,7 +8658,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301470592.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x32db50e2ace9a417"
     }
    ],
    "videos": [],
@@ -8574,7 +8685,7 @@ window.ARCHIVE = {
      "url": "https://www.sankei.com/resizer/v2/DDAGIWDUSJL7LCMDBDSHRISYYY.jpg?auth=e9ad4c27eff6d7cdecf971c7b783039f790d309f29d3e6848cf8778a51297a29&quality=50&smart=true&width=1200&height=675",
      "caption": "産経ニュース",
      "source": "https://www.sankei.com/article/20210105-I4LPDARMJRMDDN5YYQZJHEDPYA/",
-     "asset": "",
+     "asset": "x0d171b17af280683",
      "resolution": ""
     }
    ],
@@ -8602,7 +8713,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2064401_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2064401/"
+     "source": "https://www.fujisan.co.jp/product/159/b/2064401/",
+     "asset": "x6673e729a18b593b"
     }
    ],
    "videos": [],
@@ -8628,7 +8740,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2064643_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/2064643/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/2064643/",
+     "asset": "x58bd942a2ab6c2e1"
     }
    ],
    "videos": [],
@@ -8655,7 +8768,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0219/4910165170219.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16555281/",
-     "asset": "",
+     "asset": "x781930a77ad30dd4",
      "resolution": ""
     }
    ],
@@ -8684,7 +8797,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/m2tba8Iucgc/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=m2tba8Iucgc",
-     "asset": "",
+     "asset": "x3ab6af29866f527b",
      "resolution": ""
     },
     {
@@ -8719,7 +8832,8 @@ window.ARCHIVE = {
     {
      "url": "https://stat.ameba.jp/user_images/20210117/13/uchikare-ntv/a8/77/j/o1080161814882857453.jpg",
      "caption": "官方博客角色介绍：涉周一",
-     "source": "https://ameblo.jp/uchikare-ntv/entry-12650044500.html"
+     "source": "https://ameblo.jp/uchikare-ntv/entry-12650044500.html",
+     "asset": "x573de6aa995ee88f"
     },
     {
      "url": "https://www.ntv.co.jp/uchikare/articles/images/47pv6t32e0uabk3lfvqg3bilpyea1t.jpg",
@@ -8751,7 +8865,7 @@ window.ARCHIVE = {
    "workRoma": "UCHIKARE",
    "roleName": "涉周一",
    "cardPoster": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg",
-   "cardPhoto": "https://stat.ameba.jp/user_images/20210117/13/uchikare-ntv/a8/77/j/o1080161814882857453.jpg",
+   "cardPhoto": "assets/img/ext/573de6aa995ee88f.jpg",
    "cardPhotoBg": "50% 22% / 115% auto"
   },
   {
@@ -8773,7 +8887,8 @@ window.ARCHIVE = {
     {
      "url": "https://prtimes.jp/i/7006/7988/resize/d7006-7988-389067-0.jpg",
      "caption": "本期封面（东启介新连载从这期开始）",
-     "source": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html"
+     "source": "https://prtimes.jp/main/html/rd/p/000007988.000007006.html",
+     "asset": "xba27583f93a0c3de"
     }
    ],
    "videos": [],
@@ -8829,7 +8944,7 @@ window.ARCHIVE = {
      "url": "https://img-mdpr.freetls.fastly.net/article/vvb5/nm/vvb59xQE4dDKvmPpoC5-LcyZi6vZGMV9yI7v_MOUR-s.jpg?width=700",
      "caption": "モデルプレス",
      "source": "https://mdpr.jp/interview/2399092",
-     "asset": "",
+     "asset": "x960d8ffaa5a16b6f",
      "resolution": ""
     }
    ],
@@ -8858,7 +8973,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0125/DSC_9731.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/413660",
-     "asset": "",
+     "asset": "x26206baf541deb38",
      "resolution": ""
     }
    ],
@@ -8916,7 +9031,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2075835_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2075835/"
+     "source": "https://www.fujisan.co.jp/product/159/b/2075835/",
+     "asset": "x314ef63cd03f3d31"
     }
    ],
    "videos": [],
@@ -8942,7 +9058,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2076043_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/2076043/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/2076043/",
+     "asset": "xf8abbc5d475e8c6f"
     }
    ],
    "videos": [],
@@ -8969,7 +9086,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0318/4910165170318.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16614594/",
-     "asset": "",
+     "asset": "x326237fe8ceada65",
      "resolution": ""
     }
    ],
@@ -8998,7 +9115,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/D8r_YIZdwKo/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=D8r_YIZdwKo",
-     "asset": "",
+     "asset": "x6d7f71a25ac879e1",
      "resolution": ""
     },
     {
@@ -9034,7 +9151,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0316/4910203010316.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x6ac531eb38bf54be",
      "resolution": ""
     }
    ],
@@ -9063,7 +9180,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0218/4910261040218.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x96936d1444b92a08",
      "resolution": ""
     }
    ],
@@ -9158,14 +9275,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/71Ne4pXovJL.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/4838793200",
-     "asset": "",
+     "asset": "x8d68b13c8668e3ed",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3204/9784838793204.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x3c802c0648c0626d",
      "resolution": ""
     }
    ],
@@ -9194,7 +9311,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0418/4910080090418.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16657557/",
-     "asset": "",
+     "asset": "x790d327f293dec2c",
      "resolution": ""
     }
    ],
@@ -9222,7 +9339,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0228/supportedme3.jpg",
      "caption": "ステージナタリー",
      "source": "https://natalie.mu/stage/column/418191",
-     "asset": "",
+     "asset": "x8e7ce2dbf948e8d6",
      "resolution": ""
     }
    ],
@@ -9251,7 +9368,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/5353/9784047365353.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16609471/",
-     "asset": "",
+     "asset": "xe3002f87be81cf9e",
      "resolution": ""
     }
    ],
@@ -9279,7 +9396,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2085905_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2085905/"
+     "source": "https://www.fujisan.co.jp/product/159/b/2085905/",
+     "asset": "x9d6fa534a38e1bc7"
     }
    ],
    "videos": [],
@@ -9305,7 +9423,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2086373_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2086373/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2086373/",
+     "asset": "x2b0007df2680d8c5"
     }
    ],
    "videos": [],
@@ -9332,7 +9451,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0417/4910165170417.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16645554/",
-     "asset": "",
+     "asset": "xc55bc892b004b5f9",
      "resolution": ""
     }
    ],
@@ -9361,7 +9480,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/8492/9784048968492.jpg?downsize=600:*",
      "caption": "写真集《何色》封面",
      "source": "https://books.rakuten.co.jp/rb/16609472/",
-     "asset": "",
+     "asset": "x030ec0111c4b3bb5",
      "resolution": ""
     }
    ],
@@ -9390,7 +9509,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/Lv43RfFRTWQ/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=Lv43RfFRTWQ",
-     "asset": "",
+     "asset": "x767dce46e9008aef",
      "resolution": ""
     },
     {
@@ -9576,7 +9695,8 @@ window.ARCHIVE = {
     {
      "url": "https://theatergirl.jp/wp-content/uploads/2021/04/reIMG_0237.jpg",
      "caption": "剧照：本尼",
-     "source": "THEATER GIRL"
+     "source": "THEATER GIRL",
+     "asset": "x7cfec9a3915e560a"
     },
     {
      "url": "https://www.stagegate.jp/stagegate/performance/2021/in_the_heights/img/main_img01.jpg",
@@ -9589,7 +9709,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0226/ITH_visual.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x18cb5225b245b089",
      "resolution": ""
     }
    ],
@@ -9626,7 +9746,7 @@ window.ARCHIVE = {
    "roleRoma": "BENNY",
    "workRoma": "IN THE HEIGHTS",
    "roleName": "本尼",
-   "cardPhoto": "https://theatergirl.jp/wp-content/uploads/2021/04/reIMG_0237.jpg"
+   "cardPhoto": "assets/img/ext/7cfec9a3915e560a.jpg"
   },
   {
    "id": "bro_202104",
@@ -9646,7 +9766,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301477326.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xd71a4449e33a4832"
     }
    ],
    "videos": [],
@@ -9673,7 +9794,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/g_c_Jd-hP-s/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=g_c_Jd-hP-s",
-     "asset": "",
+     "asset": "x756b6af828bc8891",
      "resolution": ""
     },
     {
@@ -9709,7 +9830,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/fqUcGg5xT4c/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=fqUcGg5xT4c",
-     "asset": "",
+     "asset": "x27451270a90f8359",
      "resolution": ""
     },
     {
@@ -9745,7 +9866,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/zxJbIxqUQQA/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=zxJbIxqUQQA",
-     "asset": "",
+     "asset": "x1e003a4d70e2c4ec",
      "resolution": ""
     },
     {
@@ -9788,7 +9909,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0213/mata21_main1_ol.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x7aacd9c27c993f5a",
      "resolution": ""
     }
    ],
@@ -9820,7 +9941,7 @@ window.ARCHIVE = {
    "roleRoma": "ARMAND GIRAUD",
    "workRoma": "MATA HARI 2021",
    "roleName": "阿尔芒",
-   "cardPhoto": "https://www.umegei.com/matahari2021/images/cast/cast06.jpg"
+   "cardPhoto": "assets/img/ext/4286071d12dcc199.jpg"
   },
   {
    "id": "pr_katokazuki_pb",
@@ -9842,7 +9963,7 @@ window.ARCHIVE = {
      "url": "https://prtimes.jp/i/6568/1400/resize/d6568-1400-120502-0.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000001400.000006568.html",
-     "asset": "",
+     "asset": "x5f219e6e909df3d1",
      "resolution": ""
     }
    ],
@@ -9868,7 +9989,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0714/4910200710714_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xc19e115a86d802d8",
      "resolution": ""
     }
    ],
@@ -9896,7 +10017,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2133866_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2133866/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2133866/",
+     "asset": "x4575f8266ec56c6b"
     }
    ],
    "videos": [],
@@ -9923,7 +10045,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/c32MiGQ1TU4/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=c32MiGQ1TU4",
-     "asset": "",
+     "asset": "xdfa4b461c99153e8",
      "resolution": ""
     },
     {
@@ -9957,7 +10079,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301486219.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x3ce9488cc83c6ea4"
     }
    ],
    "videos": [],
@@ -9984,7 +10107,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/G6j0IAGTyeo/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=G6j0IAGTyeo",
-     "asset": "",
+     "asset": "x5936b8fe6b9cf39c",
      "resolution": ""
     },
     {
@@ -10020,7 +10143,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/0831/ninodan_plus.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/443149",
-     "asset": "",
+     "asset": "x5635d8a5dd3d0c2a",
      "resolution": ""
     }
    ],
@@ -10045,7 +10168,7 @@ window.ARCHIVE = {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2021/08/96660.png",
      "caption": "エンタステージ",
      "source": "https://enterstage.jp/articles/96660",
-     "asset": "",
+     "asset": "x7c898a5294c58c2d",
      "resolution": ""
     }
    ],
@@ -10074,7 +10197,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/8e89uK54WzM/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=8e89uK54WzM",
-     "asset": "",
+     "asset": "xdb11d95ccdb7740f",
      "resolution": ""
     },
     {
@@ -10110,7 +10233,7 @@ window.ARCHIVE = {
      "url": "https://www.tbs.co.jp/tbs-ch/item/o2900/thumbs/title-752.jpg",
      "caption": "TBS频道节目图",
      "source": "https://www.tbs.co.jp/tbs-ch/item/o2900/thumbs/title-752.jpg",
-     "asset": "",
+     "asset": "x3cedb120b2f0e317",
      "resolution": ""
     }
    ],
@@ -10137,7 +10260,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301490992.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xf4f344e1528c0e1e"
     }
    ],
    "videos": [],
@@ -10164,7 +10288,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/CpOeZw7xdfI/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=CpOeZw7xdfI",
-     "asset": "",
+     "asset": "x1409ff3cbae6a4f4",
      "resolution": ""
     },
     {
@@ -10206,13 +10330,14 @@ window.ARCHIVE = {
     {
      "url": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/f3/d0/00c1329e556c48d6df9fd2e6564a.jpg",
      "caption": "海报",
-     "source": "テレ东官网"
+     "source": "テレ东官网",
+     "asset": "x55daf74320ac273c"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2021/0916/higashi_ishikawa_tsumarisuki.jpg",
      "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x35d854fa31eb47b6",
      "resolution": ""
     }
    ],
@@ -10228,8 +10353,8 @@ window.ARCHIVE = {
    "roleRoma": "KAGAMI OSAMU",
    "workRoma": "TSUMARI SUKI",
    "roleName": "加贺见修",
-   "cardPhoto": "https://www.tv-tokyo.co.jp/tsumarisuki/image/cast/06.jpg",
-   "cardPoster": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/f3/d0/00c1329e556c48d6df9fd2e6564a.jpg"
+   "cardPhoto": "assets/img/ext/4b72ae6cbfabe0d3.jpg",
+   "cardPoster": "assets/img/ext/55daf74320ac273c.jpg"
   },
   {
    "id": "bro_202111",
@@ -10249,7 +10374,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301493538.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x6b8291acc62c3db4"
     }
    ],
    "videos": [],
@@ -10276,7 +10402,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/GuadtzQB2hk/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=GuadtzQB2hk",
-     "asset": "",
+     "asset": "x72e52f0c2069a306",
      "resolution": ""
     },
     {
@@ -10312,13 +10438,14 @@ window.ARCHIVE = {
      "url": "https://image.p-c2-x.abema-tv.com/image/programs/90-1602_s2_p15/thumb002.png?height=720&quality=75&version=1725609505&width=1280",
      "caption": "第5话剧照",
      "source": "https://abema.tv/video/episode/90-1602_s2_p15",
-     "asset": "",
+     "asset": "x97c01fbf10f8e184",
      "resolution": "1280×720"
     },
     {
      "url": "https://image.p-c2-x.abema-tv.com/image/series/90-1602/thumb.png?height=720&quality=75",
      "caption": "主视觉",
-     "source": "官方"
+     "source": "官方",
+     "asset": "x2689aaf6102f5ae0"
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw268.jpg",
@@ -10335,9 +10462,9 @@ window.ARCHIVE = {
    "roleRoma": "IDE YU",
    "workRoma": "WATASHI GA KEMONO NI NATTA YORU",
    "roleName": "井手祐",
-   "cardPhoto": "https://image.p-c2-x.abema-tv.com/image/programs/90-1602_s2_p15/thumb002.png?height=720&quality=75&version=172",
+   "cardPhoto": "assets/img/ext/5ff7e29d5cb4e9c3.png",
    "cardPhotoBg": "36% 11% / auto 150%",
-   "cardPoster": "https://image.p-c2-x.abema-tv.com/image/series/90-1602/thumb.png?height=720&quality=75"
+   "cardPoster": "assets/img/ext/2689aaf6102f5ae0.png"
   },
   {
    "id": "m439",
@@ -10359,7 +10486,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/TpT8FYN34KM/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=TpT8FYN34KM",
-     "asset": "",
+     "asset": "xc211ad6431daba98",
      "resolution": ""
     },
     {
@@ -10395,7 +10522,7 @@ window.ARCHIVE = {
      "url": "https://prcdn.freetls.fastly.net/release_image/60459/56/60459-56-7de5a1004b14d0ee9500acb264249071-1706x960.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000000056.000060459.html",
-     "asset": "",
+     "asset": "x23ebeefcef5cd503",
      "resolution": ""
     }
    ],
@@ -10419,7 +10546,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301497383.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x15e2a5173979c190"
     }
    ],
    "videos": [],
@@ -10446,7 +10574,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/jWnhuhqT6eM/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=jWnhuhqT6eM",
-     "asset": "",
+     "asset": "x00db4caa6a52f3d2",
      "resolution": ""
     },
     {
@@ -10481,18 +10609,20 @@ window.ARCHIVE = {
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/1218/higashikeisuke_c_tbs.jpg",
      "caption": "角色照：乌丸薰",
-     "source": "ステージナタリー（c）TBS"
+     "source": "ステージナタリー（c）TBS",
+     "asset": "x66d6bdf513762129"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/music/2022/0104/fight_song_tbs.jpg",
      "caption": "海报",
-     "source": "音楽ナタリー（c）TBS"
+     "source": "音楽ナタリー（c）TBS",
+     "asset": "x0305fbc2cabe9d98"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2021/1218/fightsong_202112.jpg",
      "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x9835083e60ecf95e",
      "resolution": ""
     },
     {
@@ -10531,8 +10661,8 @@ window.ARCHIVE = {
    "roleRoma": "KARASUMA KAORU",
    "workRoma": "FIGHT SONG",
    "roleName": "乌丸薰",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2021/1218/higashikeisuke_c_tbs.jpg",
-   "cardPoster": "https://ogre.natalie.mu/media/news/music/2022/0104/fight_song_tbs.jpg"
+   "cardPhoto": "assets/img/ext/66d6bdf513762129.jpg",
+   "cardPoster": "assets/img/ext/0305fbc2cabe9d98.jpg"
   },
   {
    "id": "mag_rk16989455",
@@ -10554,7 +10684,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0222/4910179070222_1_3.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/16989455/",
-     "asset": "",
+     "asset": "x40f2f778d8c385be",
      "resolution": ""
     }
    ],
@@ -10583,14 +10713,14 @@ window.ARCHIVE = {
      "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/L39WPM67ZV/L39WPM67ZV-eyecatch_2bb48407b6dccd95b23e94c34986dc80.jpg",
      "caption": "节目主视觉",
      "source": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/episode/re/L39WPM67ZV/",
-     "asset": "",
+     "asset": "xe9e1d51e16091da7",
      "resolution": ""
     },
     {
      "url": "https://img.nhk.jp/static/assets/images/radioseries/rs/X4X6N1XG8Z/X4X6N1XG8Z-eyecatch_a5bdc94187e0b501b2cfa223cbf28e4a.png",
      "caption": "NHK 青春冒险 节目图",
      "source": "https://www.maimupro.co.jp/news/17002/?set=osaka&tab=",
-     "asset": "",
+     "asset": "x0f6cec1d983eb6b7",
      "resolution": ""
     }
    ],
@@ -10644,35 +10774,35 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2021/1209/jmf-musical2022.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/stage/news/460875",
-     "asset": "",
+     "asset": "xba464f0ad8128186",
      "resolution": ""
     },
     {
      "url": "https://i.ytimg.com/vi/SFJZONd-R7s/hqdefault.jpg",
      "caption": "视频封面：Japan Musical Festival 2022 東啓",
      "source": "https://www.youtube.com/watch?v=SFJZONd-R7s",
-     "asset": "",
+     "asset": "x8964d4dc42ebe750",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0131/JMF2022main.jpg",
      "caption": "出演者",
      "source": "https://natalie.mu/stage/news/463796",
-     "asset": "",
+     "asset": "x8672ff35da05f808",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0107/GB_DSC_5908.jpg",
      "caption": "JB歌唱排练：东启介（左）、藤冈正明",
      "source": "https://natalie.mu/stage/news/460875",
-     "asset": "",
+     "asset": "x24e057cb1edf8ee4",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0107/JB_DSC_5867.jpg",
      "caption": "JB歌唱排练：左起东启介、藤冈正明、中川晃教、花村想太、山野靖博",
      "source": "https://natalie.mu/stage/news/460875",
-     "asset": "",
+     "asset": "x360a3d3dcc87de6d",
      "resolution": ""
     }
    ],
@@ -10734,7 +10864,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301500593.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x750a9ab29f1f5b9c"
     }
    ],
    "videos": [],
@@ -10787,7 +10918,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0326/4910018570326_1_3.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x6eb3aa14558d345f",
      "resolution": ""
     }
    ],
@@ -10815,7 +10946,7 @@ window.ARCHIVE = {
      "url": "https://img-mdpr.freetls.fastly.net/article/Cxrx/wm/CxrxUbtNGfaD9QEQTWz5M-kVje8LPqcikKxNdZT36VU.jpg?width=700",
      "caption": "モデルプレス",
      "source": "https://mdpr.jp/interview/2998812",
-     "asset": "",
+     "asset": "x1092fee8920a4915",
      "resolution": ""
     }
    ],
@@ -10844,7 +10975,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/FEE1_Qv7_z8/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=FEE1_Qv7_z8",
-     "asset": "",
+     "asset": "xbc5af335514de427",
      "resolution": ""
     },
     {
@@ -10908,7 +11039,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2223752_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1776/b/2223752/"
+     "source": "https://www.fujisan.co.jp/product/1776/b/2223752/",
+     "asset": "x0e769fd152c1a1bc"
     }
    ],
    "videos": [],
@@ -10935,7 +11067,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/bKDc2nBMjCI/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=bKDc2nBMjCI",
-     "asset": "",
+     "asset": "x6f17bb70a1e6d6de",
      "resolution": ""
     },
     {
@@ -10971,7 +11103,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/FQc6LgTacAQ7JCS?format=jpg&name=large",
      "caption": "节目官方宣传图",
      "source": "https://pbs.twimg.com/media/FQc6LgTacAQ7JCS?format=jpg&name=large",
-     "asset": "",
+     "asset": "x2e46dd0d2adca336",
      "resolution": ""
     }
    ],
@@ -10998,7 +11130,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301505621.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x5016cfe31e25eedd"
     }
    ],
    "videos": [],
@@ -11025,7 +11158,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/v1WiOhXxrKs/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=v1WiOhXxrKs",
-     "asset": "",
+     "asset": "xf2da593bcecb2158",
      "resolution": ""
     },
     {
@@ -11060,7 +11193,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/FSiZFh2aMAAvf9P?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1524636797606965248",
-     "asset": "",
+     "asset": "xee3119d0a52f0ce5",
      "resolution": ""
     }
    ],
@@ -11087,7 +11220,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/-VaB-PyP45w/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=-VaB-PyP45w",
-     "asset": "",
+     "asset": "xd3fe5a202832201e",
      "resolution": ""
     },
     {
@@ -11123,25 +11256,27 @@ window.ARCHIVE = {
      "url": "https://news.mynavi.jp/article/20220524-2349986/images/001.jpg",
      "caption": "东启介（关西电视台提供）",
      "source": "https://news.mynavi.jp/article/20220524-2349986/",
-     "asset": "",
+     "asset": "xcc779b98eb56da88",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2022/0419/bushim_20220420_02.jpg",
      "caption": "主视觉",
-     "source": "官方"
+     "source": "官方",
+     "asset": "x5dc1f4c387a0c06d"
     },
     {
      "url": "https://www.mcdonalds.co.jp/media_library/14682/file.png",
      "caption": "麦当劳官方新闻稿剧照",
      "source": "https://www.mcdonalds.co.jp/company/news/2022/0420a/",
-     "asset": "",
+     "asset": "xdda6fdfa552bee25",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/FeN8HGyakAATefI?format=jpg&name=large",
      "caption": "第2话剧照：谜之帅哥GOTA",
-     "source": "https://x.com/bushim_ktv/status/1577240774521270272"
+     "source": "https://x.com/bushim_ktv/status/1577240774521270272",
+     "asset": "x8052610af60a02d2"
     }
    ],
    "videos": [
@@ -11156,8 +11291,8 @@ window.ARCHIVE = {
    "roleRoma": "NAZO NO DANSHI",
    "workRoma": "BUSHI MAC",
    "roleName": "神秘男子",
-   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2022/0419/bushim_20220420_02.jpg",
-   "cardPhoto": "https://pbs.twimg.com/media/FeN8HGyakAATefI?format=jpg&name=large"
+   "cardPoster": "assets/img/ext/5dc1f4c387a0c06d.jpg",
+   "cardPhoto": "assets/img/ext/8052610af60a02d2.jpg"
   },
   {
    "id": "bro_202206",
@@ -11177,7 +11312,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301509861.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x78f490f3a5734835"
     }
    ],
    "videos": [],
@@ -11203,18 +11339,20 @@ window.ARCHIVE = {
     {
      "url": "https://contents.oricon.co.jp/upimg/news/2238000/2237673/20220607_163235_p_l_4494.jpg",
      "caption": "剧照：小暮翔",
-     "source": "ORICON NEWS（C）フジテレビ"
+     "source": "ORICON NEWS（C）フジテレビ",
+     "asset": "xfef4cdee630ee751"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2022/0325/nanbaMG5_B1poster.jpg",
      "caption": "海报",
-     "source": "コミックナタリー"
+     "source": "コミックナタリー",
+     "asset": "xff137e2332ec47f8"
     },
     {
      "url": "https://www.fujitv.co.jp/nanbaMG5/img/top/mainvisual.jpg",
      "caption": "富士电视台官方主视觉",
      "source": "https://www.fujitv.co.jp/nanbaMG5/",
-     "asset": "",
+     "asset": "xfb84bcd115788a46",
      "resolution": ""
     }
    ],
@@ -11225,8 +11363,8 @@ window.ARCHIVE = {
    "roleRoma": "KOGURE SHO",
    "workRoma": "NANBA MG5",
    "roleName": "小暮翔",
-   "cardPhoto": "https://contents.oricon.co.jp/upimg/news/2238000/2237673/20220607_163235_p_l_4494.jpg",
-   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2022/0325/nanbaMG5_B1poster.jpg"
+   "cardPhoto": "assets/img/ext/fef4cdee630ee751.jpg",
+   "cardPoster": "assets/img/ext/ff137e2332ec47f8.jpg"
   },
   {
    "id": "m445",
@@ -11248,7 +11386,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/8ZAyaIiJNqo/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=8ZAyaIiJNqo",
-     "asset": "",
+     "asset": "xb5c48be47e7ca2d3",
      "resolution": ""
     },
     {
@@ -11284,7 +11422,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/7pBIWfTaqa8/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=7pBIWfTaqa8",
-     "asset": "",
+     "asset": "xab06325d9f286fb7",
      "resolution": ""
     },
     {
@@ -11320,14 +11458,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/HWFpmy8aUAAS7AB?format=jpg&name=large",
      "caption": "WE官方生写真 2026年11月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2117089419144622119",
-     "asset": "",
+     "asset": "xa5546ad1fb688cc0",
      "resolution": ""
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
      "caption": "7net 公开商品图",
      "source": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
-     "asset": "",
+     "asset": "xe65e91da7c009505",
      "resolution": ""
     }
    ],
@@ -11356,7 +11494,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/Xpp8LPJoAFE/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=Xpp8LPJoAFE",
-     "asset": "",
+     "asset": "x8897acc585da2972",
      "resolution": ""
     },
     {
@@ -11392,7 +11530,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0819/GB01.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/490271",
-     "asset": "",
+     "asset": "x1b4c92c84111fbf5",
      "resolution": ""
     }
    ],
@@ -11418,7 +11556,7 @@ window.ARCHIVE = {
      "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0079-scaled.jpg",
      "caption": "专访单人照",
      "source": "ローチケ演劇宣言！",
-     "asset": "",
+     "asset": "x761385090bc65a90",
      "resolution": ""
     }
    ],
@@ -11446,7 +11584,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/G73j6tDVnE7UNHh0l9QsS0kM2MInFjN93DMspJV5mDwYWRFsFvOTo91kAYsS0pdV",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/306898",
-     "asset": "",
+     "asset": "x5974a13a9227903a",
      "resolution": ""
     }
    ],
@@ -11473,7 +11611,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301516194.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xcb5122286dc561df"
     }
    ],
    "videos": [],
@@ -11525,7 +11664,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.tv-tokyo.co.jp/txcms/media/others/d0/44/1b4877e9e88294898b56171ff594.jpg",
      "caption": "角色照：鱼川贵央",
-     "source": "官方"
+     "source": "官方",
+     "asset": "x57807d9de7a0158e"
     },
     {
      "url": "https://www.tv-tokyo.co.jp/txcms/media/pg/L/4c/45/d02f3cbee213eb9ba688995c9156.jpg",
@@ -11538,7 +11678,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/eiga/2022/0822/chasergame_202208_main.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x6ac59b0fa17facf1",
      "resolution": ""
     }
    ],
@@ -11554,7 +11694,7 @@ window.ARCHIVE = {
    "roleRoma": "UOKAWA TAKAHIRO",
    "workRoma": "CHASER GAME",
    "roleName": "鱼川贵央",
-   "cardPhoto": "https://www.tv-tokyo.co.jp/txcms/media/others/d0/44/1b4877e9e88294898b56171ff594.jpg"
+   "cardPhoto": "assets/img/ext/57807d9de7a0158e.jpg"
   },
   {
    "id": "mag_rm_24909671",
@@ -11576,7 +11716,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/4837/9784867014837_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x651dfad18757a25f",
      "resolution": ""
     }
    ],
@@ -11605,7 +11745,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/pTxL13o0bgY/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=pTxL13o0bgY",
-     "asset": "",
+     "asset": "x4af5420755e0ca94",
      "resolution": ""
     },
     {
@@ -11670,7 +11810,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0924/GB_keikoba.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/494922",
-     "asset": "",
+     "asset": "xe2422e4e668a9764",
      "resolution": ""
     }
    ],
@@ -11703,25 +11843,27 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0428/jerseyboys_2022.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x86a2a503af073e8b",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo63666.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xf0b332ca08a62820",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/metro/JB002_06BA_0276.jpg",
      "caption": "剧照：鲍勃·高迪奥",
-     "source": "マチソワ"
+     "source": "マチソワ",
+     "asset": "xfe1b996bbf4f0bd9"
     },
     {
      "url": "https://engekisengen.com/wp-content/uploads/2021/11/azuma.jpg",
      "caption": "第2弹阵容公布（2021-11-08）定妆照",
-     "source": "ローチケ演劇宣言！"
+     "source": "ローチケ演劇宣言！",
+     "asset": "x53246784baf9c85e"
     }
    ],
    "videos": [
@@ -11740,7 +11882,7 @@ window.ARCHIVE = {
    "roleRoma": "BOB GAUDIO",
    "workRoma": "JERSEY BOYS 2022",
    "roleName": "鲍勃·高迪奥",
-   "cardPhoto": "https://matisowa.jp/wp-content/uploads/metro/JB002_06BA_0276.jpg",
+   "cardPhoto": "assets/img/ext/fe1b996bbf4f0bd9.jpg",
    "cardPhotoBg": "40% 15% / auto 190%"
   },
   {
@@ -11763,7 +11905,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/ho0hiqBIXgU/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=ho0hiqBIXgU",
-     "asset": "",
+     "asset": "x622f02985c4a0509",
      "resolution": ""
     },
     {
@@ -11828,7 +11970,7 @@ window.ARCHIVE = {
      "url": "https://stage.parco.jp/image/parcoplay/store/storage/h600/theparty_omote.jpg",
      "caption": "PARCO STAGE 官方宣传图",
      "source": "https://stage.parco.jp/image/parcoplay/store/storage/h600/theparty_omote.jpg",
-     "asset": "",
+     "asset": "x5a41d07e705dc8d2",
      "resolution": ""
     }
    ],
@@ -11857,7 +11999,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/eiga/2022/0807/yamikinsaiharasan_20220807_01.jpg",
      "caption": "剧照",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x25c9ff9499e20312",
      "resolution": ""
     },
     {
@@ -11871,7 +12013,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/FhCDh0raUAAoEi9?format=jpg&name=large",
      "caption": "角色照：肉蝮（本人X）",
      "source": "https://x.com/keisuke_higashi/status/1589915291613790208",
-     "asset": "",
+     "asset": "xe8051db119e5e7d7",
      "resolution": ""
     }
    ],
@@ -11882,8 +12024,8 @@ window.ARCHIVE = {
    "roleRoma": "NIKUMAMUSHI",
    "workRoma": "YAMIKIN SAIHARA-SAN",
    "roleName": "肉蝮",
-   "cardPhoto": "https://pbs.twimg.com/media/FhCDh0raUAAoEi9?format=jpg&name=large",
-   "cardPoster": "https://www.mbs.jp/saihara/images/ogp-new.jpg?0808"
+   "cardPhoto": "assets/img/ext/e8051db119e5e7d7.jpg",
+   "cardPoster": "assets/img/ext/0ca57d882e6cc4f7.jpg"
   },
   {
    "id": "m450",
@@ -11905,7 +12047,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/jLyDkvV-6GY/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=jLyDkvV-6GY",
-     "asset": "",
+     "asset": "xcb7103745400996d",
      "resolution": ""
     },
     {
@@ -11999,7 +12141,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/iSqhV-1rh_s/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=iSqhV-1rh_s",
-     "asset": "",
+     "asset": "x62969d696be48bd8",
      "resolution": ""
     },
     {
@@ -12034,7 +12176,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/1212/WMST_key.jpg",
      "caption": "ステージナタリー",
      "source": "https://natalie.mu/stage/news/504719",
-     "asset": "",
+     "asset": "xbaffb370dd60c077",
      "resolution": ""
     }
    ],
@@ -12092,7 +12234,7 @@ window.ARCHIVE = {
      "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "",
+     "asset": "x61d3f5e75eaf6f07",
      "resolution": ""
     }
    ],
@@ -12119,20 +12261,21 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110634988.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xac514bd2c7f13b9f"
     },
     {
      "url": "https://pbs.twimg.com/media/FmhGl8zakAApVcz?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1614618093212557313",
-     "asset": "",
+     "asset": "x17e19f821f0a2308",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/FmhGmPRaYAE9lAA?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1614618093212557313",
-     "asset": "",
+     "asset": "xb0e85e15d33ccffb",
      "resolution": ""
     }
    ],
@@ -12158,7 +12301,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2343476_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2343476/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2343476/",
+     "asset": "xf75f72ff0c8750da"
     }
    ],
    "videos": [],
@@ -12184,18 +12328,20 @@ window.ARCHIVE = {
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
      "caption": "剧照：托马斯",
-     "source": "マチソワ"
+     "source": "マチソワ",
+     "asset": "xc95387684f4dc769"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/1002/thebeautifulgame1002.jpg",
      "caption": "海报",
-     "source": "ステージナタリー"
+     "source": "ステージナタリー",
+     "asset": "x57f143bafac67e40"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/1104/beautifulgame_cast.jpg",
      "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x14695fb04868dff9",
      "resolution": ""
     },
     {
@@ -12209,7 +12355,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/FgtXe0kaUAUgo_X?format=jpg&name=large",
      "caption": "全演员公布（东宝演剧部X，2022.11.4）",
      "source": "https://x.com/toho_stage/status/1588459488121876482",
-     "asset": "",
+     "asset": "xdb3cc24f79b77b2b",
      "resolution": ""
     }
    ],
@@ -12220,9 +12366,9 @@ window.ARCHIVE = {
    "roleRoma": "THOMAS",
    "workRoma": "THE BEAUTIFUL GAME",
    "roleName": "托马斯",
-   "cardPhoto": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
+   "cardPhoto": "assets/img/ext/c95387684f4dc769.jpg",
    "cardPhotoBg": "50% 8% / 160% auto",
-   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2022/1002/thebeautifulgame1002.jpg"
+   "cardPoster": "assets/img/ext/57f143bafac67e40.jpg"
   },
   {
    "id": "mag_mc_955391",
@@ -12244,14 +12390,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/91Au7lNuR9L.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/B00AN571SG",
-     "asset": "",
+     "asset": "xdd0c33bdcd5542d8",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xeae4ff0e4eabef16",
      "resolution": ""
     }
    ],
@@ -12280,14 +12426,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/7KZxVqBX6YI/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=7KZxVqBX6YI",
-     "asset": "",
+     "asset": "xbd85d20bfe328504",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/01/ZZZ4517.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/768/",
-     "asset": "",
+     "asset": "x46c047a7c3239ee0",
      "resolution": ""
     },
     {
@@ -12322,14 +12468,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/Fo-L6GNaQAE0ByI?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1625671835231875072",
-     "asset": "",
+     "asset": "xdf2e6d5389ac8584",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/Fo-L6iEagAAfz8E?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1625671835231875072",
-     "asset": "",
+     "asset": "xd32e1235f027c882",
      "resolution": ""
     }
    ],
@@ -12414,14 +12560,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/EcMsPSkyTgM/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=EcMsPSkyTgM",
-     "asset": "",
+     "asset": "x292fcc7db5551fde",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/02/higashi_026_01-scaled.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/1569/",
-     "asset": "",
+     "asset": "xc95387684f4dc769",
      "resolution": ""
     },
     {
@@ -12457,7 +12603,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/pp/wowow-entasuonstage/wowow-entasuonstage_twitter.jpg",
      "caption": "Natalie 特集图",
      "source": "https://natalie.mu/stage/pp/wowow-entasuonstage",
-     "asset": "",
+     "asset": "x23ae285457a88a53",
      "resolution": ""
     }
    ],
@@ -12482,7 +12628,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/c7xfG2oOpzO36dPp3IF0TBxQkVmFzBbLCcEBCQ0TrQksM0mrgwrG3wpZ2HBiwTVx",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/314981",
-     "asset": "",
+     "asset": "xdfb40b4f5f3cca5b",
      "resolution": ""
     }
    ],
@@ -12511,7 +12657,7 @@ window.ARCHIVE = {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2023/01/20230227_higasikeisuke_cover_02.jpg",
      "caption": "东京新闻通信社官网封面",
      "source": "https://zasshi.tv/products/24058/",
-     "asset": "",
+     "asset": "x0b8c6c895d353579",
      "resolution": ""
     }
    ],
@@ -12540,7 +12686,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/5698/9784867015698_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x7e864d514d1a38f5",
      "resolution": ""
     }
    ],
@@ -12569,7 +12715,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0438/4910020630438_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xac312fc1fb56fa02",
      "resolution": ""
     }
    ],
@@ -12597,7 +12743,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2364283_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2364283/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2364283/",
+     "asset": "x4f89a3e79072dfd8"
     }
    ],
    "videos": [],
@@ -12624,7 +12771,7 @@ window.ARCHIVE = {
      "url": "https://stagenews25.jp/wp-content/uploads/2023/03/DSC02801-Edit_rez.jpg",
      "caption": "StageNews 专访内文照",
      "source": "https://stagenews25.jp/?p=85470",
-     "asset": "",
+     "asset": "x20e10c63f4ea3e2e",
      "resolution": "853 × 1280"
     }
    ],
@@ -12653,14 +12800,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/DTgGuFOh2M0/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=DTgGuFOh2M0",
-     "asset": "",
+     "asset": "x0d18122292f91a40",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/03/higashi_26_01-scaled.jpeg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/2814/",
-     "asset": "",
+     "asset": "x70e2cbf3cd358e60",
      "resolution": ""
     },
     {
@@ -12696,7 +12843,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/pp/wowow-entasuonstage/wowow-entasuonstage_051.jpg?imwidth=1200&imdensity=1",
      "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/pp/wowow-entasuonstage/wowow-entasuonstage_051.jpg?imwidth=1200&imdensity=1",
-     "asset": "",
+     "asset": "xedced5ecbe9b19d8",
      "resolution": ""
     }
    ],
@@ -12740,7 +12887,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110637888.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x1c37b8a5521a336f"
     }
    ],
    "videos": [],
@@ -12767,7 +12915,7 @@ window.ARCHIVE = {
      "url": "https://engeki-audience.com/wp-content/uploads/2023/03/shibu2_senden.jpg",
      "caption": "公演宣传图",
      "source": "https://engeki-audience.com/wp-content/uploads/2023/03/shibu2_senden.jpg",
-     "asset": "",
+     "asset": "xe9d5c66bf4c93dd2",
      "resolution": ""
     }
    ],
@@ -12796,14 +12944,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/FzT86mItZs8/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=FzT86mItZs8",
-     "asset": "",
+     "asset": "x76a7b62c0a76250e",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/04/★ITB_1243-scaled.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/3566/",
-     "asset": "",
+     "asset": "x503f61f2e771ae38",
      "resolution": ""
     },
     {
@@ -12838,7 +12986,8 @@ window.ARCHIVE = {
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0415/sFAN_0166.jpg",
      "caption": "角色照：中内启介",
-     "source": "ステージナタリー"
+     "source": "ステージナタリー",
+     "asset": "x36a7123b9e0c38bf"
     },
     {
      "url": "https://nijikai-stage.com/common/fbimg1.png",
@@ -12851,14 +13000,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0222/2jikainohitotachi_mainV.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x7e5e0d5cc804d416",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo67582.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x7dcef34d6df83e68",
      "resolution": ""
     }
    ],
@@ -12902,9 +13051,9 @@ window.ARCHIVE = {
    "roleRoma": "NAKAUCHI KEISUKE",
    "workRoma": "NIJIKAI NO HITOTACHI",
    "roleName": "中内启介",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/stage/2023/0415/sFAN_0166.jpg",
+   "cardPhoto": "assets/img/ext/36a7123b9e0c38bf.jpg",
    "cardPhotoBg": "31% 17% / auto 260%",
-   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2023/0222/2jikainohitotachi_mainV.jpg"
+   "cardPoster": "assets/img/ext/7e5e0d5cc804d416.jpg"
   },
   {
    "id": "mts_rev3965",
@@ -12926,7 +13075,7 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/2023/04/nijikai_img_05.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/3965/",
-     "asset": "",
+     "asset": "x430cfa8ea2908204",
      "resolution": ""
     }
    ],
@@ -12952,14 +13101,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/K2ZQXZYObeM/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=K2ZQXZYObeM",
-     "asset": "",
+     "asset": "x2919799b58296883",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/05/TTB_20201006_02579r-scaled.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/4355/",
-     "asset": "",
+     "asset": "xb83e6d0c4928bdf2",
      "resolution": ""
     },
     {
@@ -12995,7 +13144,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/141096.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/85340/",
-     "asset": "",
+     "asset": "xa85f0335fa5d04c3",
      "resolution": ""
     },
     {
@@ -13031,7 +13180,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/141934.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/85888/",
-     "asset": "",
+     "asset": "x020e59718376edf1",
      "resolution": ""
     },
     {
@@ -13067,7 +13216,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/fx06NTIJsxzY5wH2axRTtwOWo3s8KPoo91x69Z2AOYehA6YNRLnNvbPiGoqKztzC/",
      "caption": "SPICE 报道图",
      "source": "https://spice.eplus.jp/images/fx06NTIJsxzY5wH2axRTtwOWo3s8KPoo91x69Z2AOYehA6YNRLnNvbPiGoqKztzC/",
-     "asset": "",
+     "asset": "xcfdff7486b05eef1",
      "resolution": ""
     }
    ],
@@ -13101,7 +13250,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/IMG_7160.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/86530/",
-     "asset": "",
+     "asset": "x929205f517f835a2",
      "resolution": ""
     },
     {
@@ -13137,7 +13286,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/05/147527.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/86847/",
-     "asset": "",
+     "asset": "x9da84573bf30d6e4",
      "resolution": ""
     },
     {
@@ -13173,7 +13322,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/149049.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/87159/",
-     "asset": "",
+     "asset": "x5c067e4f850dcb5b",
      "resolution": ""
     },
     {
@@ -13209,14 +13358,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=kpGo2_d3oYE",
-     "asset": "",
+     "asset": "xe8ea6a5a2dd50ae1",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/06/『リトル・マーメイド』新メインビジュアル-scaled.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/4904/",
-     "asset": "",
+     "asset": "x2c036d76913c0727",
      "resolution": ""
     },
     {
@@ -13252,7 +13401,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/150937.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/87604/",
-     "asset": "",
+     "asset": "xea95b0af56591c07",
      "resolution": ""
     },
     {
@@ -13288,7 +13437,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/152888.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/88099/",
-     "asset": "",
+     "asset": "x85d5a86ef0e8cf56",
      "resolution": ""
     },
     {
@@ -13324,7 +13473,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/06/154382.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/88890/",
-     "asset": "",
+     "asset": "xe86070870d54cc3b",
      "resolution": ""
     },
     {
@@ -13360,14 +13509,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/61TL27fNPUL.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/4867016462",
-     "asset": "",
+     "asset": "x0a27d24f035726e5",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/6466/9784867016466_1_3.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xfecdb87218693ba6",
      "resolution": ""
     }
    ],
@@ -13396,7 +13545,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/IMG_6137.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/89434/",
-     "asset": "",
+     "asset": "xd6796cbbb115524c",
      "resolution": ""
     },
     {
@@ -13432,14 +13581,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/ETfpNX6oHuU/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=ETfpNX6oHuU",
-     "asset": "",
+     "asset": "xd6ac38f17a7d770c",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/07/①撮影：下坂敦俊_04A1381-scaled.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/5690/",
-     "asset": "",
+     "asset": "xf50e95b7d9eb9d7a",
      "resolution": ""
     },
     {
@@ -13475,7 +13624,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0427/main.jpg",
      "caption": "Natalie 报道图（生日演唱会《音》告知）",
      "source": "https://natalie.mu/stage/news/522544",
-     "asset": "",
+     "asset": "x42c2c222aec1b6e8",
      "resolution": ""
     },
     {
@@ -13511,7 +13660,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/158571.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/90027/",
-     "asset": "",
+     "asset": "x6e91db7c5ef10965",
      "resolution": ""
     },
     {
@@ -13547,7 +13696,7 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/2023/07/★_ZZZ8436_01.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/5909/",
-     "asset": "",
+     "asset": "x1f486e2858250beb",
      "resolution": ""
     },
     {
@@ -13583,7 +13732,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/IMG_6756.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/90537/",
-     "asset": "",
+     "asset": "x0ca82215fbb2da75",
      "resolution": ""
     },
     {
@@ -13619,7 +13768,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/07/162174.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/91049/",
-     "asset": "",
+     "asset": "x0213c7c6a194ea00",
      "resolution": ""
     },
     {
@@ -13655,7 +13804,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/image0.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/91584/",
-     "asset": "",
+     "asset": "x14c93344af742197",
      "resolution": ""
     },
     {
@@ -13690,7 +13839,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2423250_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2423250/"
+     "source": "https://www.fujisan.co.jp/product/159/b/2423250/",
+     "asset": "x004d27a82d03a30c"
     }
    ],
    "videos": [],
@@ -13717,14 +13867,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/F7rOBM2W63c/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=F7rOBM2W63c",
-     "asset": "",
+     "asset": "x90e4bdc4c2c9f72d",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/6120/",
-     "asset": "",
+     "asset": "x18a40a19df45fcd1",
      "resolution": ""
     },
     {
@@ -13760,7 +13910,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/166077.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/92078/",
-     "asset": "",
+     "asset": "x8a3d7e271c77a0ce",
      "resolution": ""
     },
     {
@@ -13796,7 +13946,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/168546.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/92436/",
-     "asset": "",
+     "asset": "xa90018d1eac78c62",
      "resolution": ""
     },
     {
@@ -13832,7 +13982,7 @@ window.ARCHIVE = {
      "url": "https://prcdn.freetls.fastly.net/release_image/83415/22/83415-22-3e4b55dacc0701874e4fffca59a0b40c-1145x730.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000000022.000083415.html",
-     "asset": "",
+     "asset": "x045bc79d5e39e73c",
      "resolution": ""
     }
    ],
@@ -13857,12 +14007,14 @@ window.ARCHIVE = {
     {
      "url": "https://www.asahi.co.jp/marumaruchan/img/common/img_cast04.jpg",
      "caption": "角色照：高桥彰吾",
-     "source": "官方"
+     "source": "官方",
+     "asset": "xb734cab8a6504be9"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_KV.jpg",
      "caption": "海报",
-     "source": "コミックナタリー（c）ABC"
+     "source": "コミックナタリー（c）ABC",
+     "asset": "x834cc4ff47ac0a51"
     },
     {
      "url": "https://www.asahi.co.jp/marumaruchan/img/common/og.jpg",
@@ -13875,7 +14027,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_danseicast.jpg",
      "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xbfb1eb225b95b4a9",
      "resolution": ""
     }
    ],
@@ -13886,8 +14038,8 @@ window.ARCHIVE = {
    "roleRoma": "TAKAHASHI SHOGO",
    "workRoma": "MARUMARU-CHAN",
    "roleName": "高桥彰吾",
-   "cardPhoto": "https://www.asahi.co.jp/marumaruchan/img/common/img_cast04.jpg",
-   "cardPoster": "https://ogre.natalie.mu/media/news/comic/2023/0802/marumaruchan_KV.jpg"
+   "cardPhoto": "assets/img/ext/b734cab8a6504be9.jpg",
+   "cardPoster": "assets/img/ext/834cc4ff47ac0a51.jpg"
   },
   {
    "id": "qj93039",
@@ -13909,7 +14061,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/171373.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/93039/",
-     "asset": "",
+     "asset": "xa1a4f7cb3961e002",
      "resolution": ""
     },
     {
@@ -13943,7 +14095,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110642291.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x56d95b2c711f80f7"
     }
    ],
    "videos": [],
@@ -13970,7 +14123,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/08/image0-1.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/93672/",
-     "asset": "",
+     "asset": "x7a699fbcc450bc82",
      "resolution": ""
     },
     {
@@ -14032,7 +14185,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/image1.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/94278/",
-     "asset": "",
+     "asset": "x99ae9cb21cd8a776",
      "resolution": ""
     },
     {
@@ -14075,7 +14228,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0512/re_RAGTIME_sokuho2_0512.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xcb152b760104abb3",
      "resolution": ""
     }
    ],
@@ -14124,7 +14277,7 @@ window.ARCHIVE = {
    "roleRoma": "YOUNGER BROTHER",
    "workRoma": "RAGTIME",
    "roleName": "弟弟",
-   "cardPhoto": "https://matisowa.jp/wp-content/uploads/2023/06/higashi_230508-0583_mado.jpg"
+   "cardPhoto": "assets/img/ext/18a40a19df45fcd1.jpg"
   },
   {
    "id": "m6680",
@@ -14146,14 +14299,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/tKlVJjUWAuU/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=tKlVJjUWAuU",
-     "asset": "",
+     "asset": "xb35742b55f399f06",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/09/higashi_33_01.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/6680/",
-     "asset": "",
+     "asset": "xf16b92c068c34196",
      "resolution": ""
     },
     {
@@ -14189,7 +14342,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/180115.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/94690/",
-     "asset": "",
+     "asset": "x085f074e0fb23851",
      "resolution": ""
     },
     {
@@ -14224,7 +14377,8 @@ window.ARCHIVE = {
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_08.jpg",
      "caption": "角色照：里中树",
-     "source": "映画ナタリー"
+     "source": "映画ナタリー",
+     "asset": "x858a551451f8e99a"
     },
     {
      "url": "https://www.mbs.jp/joshikousei-souninaru/images/og-image_0908.jpg",
@@ -14237,7 +14391,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_01.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x74c76c031aa6a5fd",
      "resolution": ""
     }
    ],
@@ -14254,7 +14408,7 @@ window.ARCHIVE = {
    "roleRoma": "SATONAKA ITSUKI",
    "workRoma": "JOSHIKOSEI SO NI NARU",
    "roleName": "里中树",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2023/0830/joshikoseisoninaru_20230830_08.jpg"
+   "cardPhoto": "assets/img/ext/858a551451f8e99a.jpg"
   },
   {
    "id": "mts_rev6805",
@@ -14276,7 +14430,7 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/2023/09/TC_0474.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/6805/",
-     "asset": "",
+     "asset": "xcb1593095c8816ad",
      "resolution": ""
     }
    ],
@@ -14302,7 +14456,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/183105.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95124/",
-     "asset": "",
+     "asset": "x963527d01778fe18",
      "resolution": ""
     },
     {
@@ -14338,7 +14492,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/09/image01.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95555/",
-     "asset": "",
+     "asset": "x023562bde83fb0f7",
      "resolution": ""
     },
     {
@@ -14374,7 +14528,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/187446.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/95878/",
-     "asset": "",
+     "asset": "xe6588ab837cc10a4",
      "resolution": ""
     },
     {
@@ -14410,14 +14564,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/E8Y1uiiUF_E/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=E8Y1uiiUF_E",
-     "asset": "",
+     "asset": "x05bc442413be9107",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/09/TA_0131.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/6981/",
-     "asset": "",
+     "asset": "xee03680dd81a0095",
      "resolution": ""
     },
     {
@@ -14453,7 +14607,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/190609.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/96663/",
-     "asset": "",
+     "asset": "x45992114e607d488",
      "resolution": ""
     },
     {
@@ -14531,7 +14685,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/194061.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/97221/",
-     "asset": "",
+     "asset": "x5e646623bdb3aff6",
      "resolution": ""
     },
     {
@@ -14566,7 +14720,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/pYQe4vhiMG72x26NurKcfESg5EX1yul3W2roJ8MXHHw7XQSQI6ZnUVUuIoIysfOV",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/323331",
-     "asset": "",
+     "asset": "x8bc1cd61b8cc328d",
      "resolution": ""
     }
    ],
@@ -14602,13 +14756,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/0904/konton_cast.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x85d0c22565aec9d3",
      "resolution": ""
     },
     {
      "url": "https://www.1st-generation.com/wp-content/uploads/2023/10/WVGA_Z9G_9659-21_021.jpg",
      "caption": "开幕前囲み取材",
-     "source": "1st Generation"
+     "source": "1st Generation",
+     "asset": "x4ed6bacc5aa0427b"
     },
     {
      "url": "https://cdn-corpprod.pressidium.com/jp/wp-content/uploads/sites/5/news_20230915-1.jpg",
@@ -14618,7 +14773,8 @@ window.ARCHIVE = {
     {
      "url": "https://spice.eplus.jp/images/Bw0Jg2FABavf4oAnzuzzqy2VPpHkAMPTRpR2tRTgWYjAVANRMSmoJeHoUOt6FnbH",
      "caption": "SPICE 公演资讯",
-     "source": "SPICE"
+     "source": "SPICE",
+     "asset": "x1ffecc7670efccb0"
     }
    ],
    "videos": [],
@@ -14646,7 +14802,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/10/image0-1.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/97939/",
-     "asset": "",
+     "asset": "xe077c81f55bd8551",
      "resolution": ""
     },
     {
@@ -14680,7 +14836,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.1st-generation.com/wp-content/uploads/2023/10/WVGA_Z9G_9659-21_021.jpg",
      "caption": "囲み取材",
-     "source": "1st Generation"
+     "source": "1st Generation",
+     "asset": "x4ed6bacc5aa0427b"
     }
    ],
    "videos": [],
@@ -14707,14 +14864,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/F--EC8pbYAA3Skk?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1724742374893781068",
-     "asset": "",
+     "asset": "xf11f60d8cd607e2a",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/F--EDNJagAEBZvM?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1724742374893781068",
-     "asset": "",
+     "asset": "xdc9e07eb60ab444e",
      "resolution": ""
     }
    ],
@@ -14740,7 +14897,7 @@ window.ARCHIVE = {
      "url": "https://engekisengen.com/wp-content/uploads/2023/11/2f38ea431b2663a32e766f49cd29ced3-1-scaled.jpg",
      "caption": "ローチケ演劇宣言！",
      "source": "https://engekisengen.com/genre/other/69250/",
-     "asset": "",
+     "asset": "x9b6d708b793d1ab7",
      "resolution": ""
     }
    ],
@@ -14769,7 +14926,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/IMG_8406.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/98297/",
-     "asset": "",
+     "asset": "xf7e829c29b7a72f0",
      "resolution": ""
     },
     {
@@ -14805,14 +14962,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/B2P1P_NlYv0/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=B2P1P_NlYv0",
-     "asset": "",
+     "asset": "x9c67f3cca8d82d60",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/10/ウィリアム3009604_image2_1.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/7210/",
-     "asset": "",
+     "asset": "xdeec51b1052b12b4",
      "resolution": ""
     },
     {
@@ -14848,7 +15005,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/image0.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/98636/",
-     "asset": "",
+     "asset": "x5afdf29ceccc889a",
      "resolution": ""
     },
     {
@@ -14884,7 +15041,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1239/4910294571239_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/17694186/",
-     "asset": "",
+     "asset": "x88251796a71e5e22",
      "resolution": ""
     }
    ],
@@ -14913,7 +15070,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/image0-1.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/99133/",
-     "asset": "",
+     "asset": "xc585c305b0047f9b",
      "resolution": ""
     },
     {
@@ -14956,7 +15113,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1005/LAB_kumi.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x17628e498671e7cf",
      "resolution": ""
     },
     {
@@ -14967,32 +15124,38 @@ window.ARCHIVE = {
     {
      "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1536.jpg",
      "caption": "舞台照",
-     "source": "カンフェティ"
+     "source": "カンフェティ",
+     "asset": "x3f341e5fd7aa8df4"
     },
     {
      "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1612.jpg",
      "caption": "舞台照",
-     "source": "カンフェティ"
+     "source": "カンフェティ",
+     "asset": "x406f1d97b4f4cecd"
     },
     {
      "url": "https://spice.eplus.jp/images/hkr0SWhLMw25ieL1WzuSsi0789UqsEhaGJCHgEk6QbNDGgKXf3BZ9FH3A7gVnbGq/",
      "caption": "舞台照",
-     "source": "SPICE"
+     "source": "SPICE",
+     "asset": "xbce2aef6f51779c3"
     },
     {
      "url": "https://spice.eplus.jp/images/hLCUzWDwrarbE3MUxEpuRXnnhsdb2oWrBN2iXdhrjup3ChTBO9CqhJ57pxMXqZxv/",
      "caption": "舞台照",
-     "source": "SPICE"
+     "source": "SPICE",
+     "asset": "xf11df6abe3b7ab6f"
     },
     {
      "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20231125/20231125104446.jpg",
      "caption": "舞台照",
-     "source": "Musical Theater Japan"
+     "source": "Musical Theater Japan",
+     "asset": "xb708c867d9cf3465"
     },
     {
      "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20231125/20231125104238.jpg",
      "caption": "舞台照",
-     "source": "Musical Theater Japan"
+     "source": "Musical Theater Japan",
+     "asset": "xe194a1e12f9550cb"
     }
    ],
    "videos": [
@@ -15062,7 +15225,7 @@ window.ARCHIVE = {
      "url": "https://qjweb.jp/wp-content/uploads/2023/11/image0-2.jpg",
      "caption": "本人拍摄",
      "source": "https://qjweb.jp/regular/100047/",
-     "asset": "",
+     "asset": "x9d3e727107667d3a",
      "resolution": ""
     },
     {
@@ -15122,7 +15285,8 @@ window.ARCHIVE = {
     {
      "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/M/MTJapan/20231125/20231125104446.jpg",
      "caption": "",
-     "source": "Musical Theater Japan"
+     "source": "Musical Theater Japan",
+     "asset": "xb708c867d9cf3465"
     }
    ],
    "videos": [],
@@ -15150,21 +15314,21 @@ window.ARCHIVE = {
      "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "",
+     "asset": "x1d0a73cb14d03bea",
      "resolution": ""
     },
     {
      "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "",
+     "asset": "x61d3f5e75eaf6f07",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1013/toritoodoru_cast.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "xbc959cfba1c8c2fe",
      "resolution": ""
     }
    ],
@@ -15196,7 +15360,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0241/4910180390241_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x0a4be314fd37d605",
      "resolution": ""
     }
    ],
@@ -15223,20 +15387,21 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110644893.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x66c8703ce71cdfbb"
     },
     {
      "url": "https://pbs.twimg.com/media/GAPG5koakAAgwbs?format=jpg&name=large",
      "caption": "WE官方生写真 2023年12月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1730445453446299880",
-     "asset": "",
+     "asset": "xc0604de6d1fe1fb2",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GAPG5ksasAADa4v?format=jpg&name=large",
      "caption": "WE官方生写真 2023年12月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1730445453446299880",
-     "asset": "",
+     "asset": "x09cc10358b7a6ebc",
      "resolution": ""
     }
    ],
@@ -15262,7 +15427,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2466443_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2466443/"
+     "source": "https://www.fujisan.co.jp/product/159/b/2466443/",
+     "asset": "x2085b24b1e0792c0"
     }
    ],
    "videos": [],
@@ -15289,14 +15455,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/82VKwfOYLWQ/hqdefault.jpg",
      "caption": "这期聊的作品",
      "source": "https://www.youtube.com/watch?v=82VKwfOYLWQ",
-     "asset": "",
+     "asset": "x69b83948d4043a6d",
      "resolution": ""
     },
     {
      "url": "https://matisowa.jp/wp-content/uploads/2023/12/②撮影：荒井-健_RA40701.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/7866/",
-     "asset": "",
+     "asset": "xbcb86c31869ae326",
      "resolution": ""
     },
     {
@@ -15360,14 +15526,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GCMSEzJbMAAyDFF?format=jpg&name=large",
      "caption": "WE官方生写真 2024年1月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1742742650464428271",
-     "asset": "",
+     "asset": "x6ddf7d383eb6f195",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GCMSHE3bwAAicgL?format=jpg&name=large",
      "caption": "WE官方生写真 2024年1月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1742742650464428271",
-     "asset": "",
+     "asset": "xa11e7788dad3067b",
      "resolution": ""
     }
    ],
@@ -15393,7 +15559,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2476863_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2476863/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2476863/",
+     "asset": "x4778669a9932f0d8"
     }
    ],
    "videos": [],
@@ -15420,7 +15587,7 @@ window.ARCHIVE = {
      "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg",
      "caption": "剧照：砂川圆",
      "source": "https://prtimes.jp/main/html/rd/p/000000291.000012860.html",
-     "asset": "",
+     "asset": "x22ba76cce99e30f2",
      "resolution": "3000×2000"
     },
     {
@@ -15620,7 +15787,7 @@ window.ARCHIVE = {
    "roleRoma": "SUNAKAWA MADOKA",
    "workRoma": "OPPAN",
    "roleName": "砂川圆",
-   "cardPhoto": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg"
+   "cardPhoto": "assets/img/ext/22ba76cce99e30f2.jpg"
   },
   {
    "id": "web_eg72917",
@@ -15641,7 +15808,7 @@ window.ARCHIVE = {
      "url": "https://engekisengen.com/wp-content/uploads/2023/12/IMG_353201.700.jpg",
      "caption": "ローチケ演劇宣言！",
      "source": "https://engekisengen.com/genre/other/72917/",
-     "asset": "",
+     "asset": "x1dc563d48cffb2f1",
      "resolution": ""
     }
    ],
@@ -15670,7 +15837,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1219/1218RELEASE_OTOKOMAEFES_MV_cr.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/553774",
-     "asset": "",
+     "asset": "xe7ee65a6e7109105",
      "resolution": ""
     }
    ],
@@ -15725,14 +15892,14 @@ window.ARCHIVE = {
      "url": "https://bs.tbs.co.jp/information/images/%E7%BE%8E%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E6%9D%B1%E5%95%93%E4%BB%8B%E3%81%95%E3%82%93%E5%86%99%E7%9C%9F1920A.jpg",
      "caption": "BS-TBS官方",
      "source": "https://bs.tbs.co.jp/information/1319.html",
-     "asset": "",
+     "asset": "x43ce04eec4dc7ab9",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0111/higashi_utsukushinihon01.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/556670",
-     "asset": "",
+     "asset": "x626a0dddd1016232",
      "resolution": ""
     }
    ],
@@ -15757,14 +15924,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GE_OH5QakAA5klx?format=jpg&name=large",
      "caption": "WE官方生写真 2024年2月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1752892023512989769",
-     "asset": "",
+     "asset": "x665f5f545e9b2ed7",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GE_OMmraMAARGas?format=jpg&name=large",
      "caption": "WE官方生写真 2024年2月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1752892023512989769",
-     "asset": "",
+     "asset": "x3ac9cd3d43e6d31a",
      "resolution": ""
     }
    ],
@@ -15790,14 +15957,14 @@ window.ARCHIVE = {
      "url": "https://theatergirl.jp/wp-content/uploads/2024/02/0529.jpg",
      "caption": "THEATER GIRL",
      "source": "https://theatergirl.jp/?p=43819",
-     "asset": "",
+     "asset": "xc88a0066feedda80",
      "resolution": ""
     },
     {
      "url": "https://theatergirl.jp/wp-content/uploads/2024/02/0503.jpg",
      "caption": "THEATER GIRL（后编）",
      "source": "https://theatergirl.jp/?p=43821",
-     "asset": "",
+     "asset": "x01d5ea3b96953ed6",
      "resolution": ""
     }
    ],
@@ -15825,7 +15992,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/LH3zCGvH40vglGBPGsuoTiZ1oqIJA15ivU4uKCAxJwI6jNH1bGai0EJLZKzWEHir",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/326077",
-     "asset": "",
+     "asset": "xbf692ec229c41e82",
      "resolution": ""
     }
    ],
@@ -15854,14 +16021,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/QJuXEN12tJI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDkpEjbJwZ9YwBrpDADGaRpWOfdSg",
      "caption": "视频封面：【PR】東啓介×加藤大悟 ▷Musical shoW「WE ",
      "source": "https://www.youtube.com/watch?v=QJuXEN12tJI",
-     "asset": "",
+     "asset": "x1b0b19f7626a9d40",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1122/WEAREMUSIC_cast.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
-     "asset": "",
+     "asset": "x7b6f1bdc926b28e8",
      "resolution": ""
     }
    ],
@@ -15890,7 +16057,7 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/2024/01/R_AAA0074-scaled.jpg",
      "caption": "文章内配图",
      "source": "https://matisowa.jp/8189/",
-     "asset": "",
+     "asset": "x3431eee6968a609e",
      "resolution": ""
     },
     {
@@ -15904,7 +16071,7 @@ window.ARCHIVE = {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2023/12/20231218_we.jpg",
      "caption": "全出演嘉宾公布",
      "source": "https://enterstage.jp/articles/132410",
-     "asset": "",
+     "asset": "x95e55109849526a0",
      "resolution": ""
     }
    ],
@@ -15933,7 +16100,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/7777/9784867017777_1_3.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xfdaf706699ad3f2f",
      "resolution": ""
     }
    ],
@@ -15991,21 +16158,21 @@ window.ARCHIVE = {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_cover_02.jpg",
      "caption": "东京新闻通信社官网封面",
      "source": "https://zasshi.tv/products/35361/",
-     "asset": "",
+     "asset": "xa0033242274ca94e",
      "resolution": ""
     },
     {
      "url": "https://www.tvguide.or.jp/wp/wp-content/uploads/2024/01/pnews_240112_02_01.jpg",
      "caption": "日历书照片",
      "source": "https://www.tvguide.or.jp/news/news-2659764/",
-     "asset": "",
+     "asset": "xf3180a88b4dd854e",
      "resolution": ""
     },
     {
      "url": "https://www.tvguide.or.jp/wp/wp-content/uploads/2024/01/pnews_240112_02_02.jpg",
      "caption": "日历书照片",
      "source": "https://www.tvguide.or.jp/news/news-2659764/",
-     "asset": "",
+     "asset": "xbae3afdb5b1a1ec3",
      "resolution": ""
     }
    ],
@@ -16032,20 +16199,21 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110647337.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xf143994d3095fbf6"
     },
     {
      "url": "https://pbs.twimg.com/media/GHjSRGJaAAAvkS4?format=jpg&name=large",
      "caption": "WE官方生写真 2024年3月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1763402093019459858",
-     "asset": "",
+     "asset": "x684f3198fe7f423a",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GHjSRGIbwAA2NWM?format=jpg&name=large",
      "caption": "WE官方生写真 2024年3月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1763402093019459858",
-     "asset": "",
+     "asset": "xa651ab806ba72360",
      "resolution": ""
     }
    ],
@@ -16100,7 +16268,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2495961_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2495961/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2495961/",
+     "asset": "x947af609b7ad02fb"
     }
    ],
    "videos": [],
@@ -16127,7 +16296,7 @@ window.ARCHIVE = {
      "url": "https://prcdn.freetls.fastly.net/release_image/6568/2536/6568-2536-bfcef47a22f9f78b94dac2d35ceca23c-1000x1280.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000002536.000006568.html",
-     "asset": "",
+     "asset": "x82505610038dedd9",
      "resolution": ""
     }
    ],
@@ -16154,7 +16323,7 @@ window.ARCHIVE = {
      "url": "https://web.archive.org/web/2024id_/https://neown.tokyo/wp-content/uploads/2024/03/1_20240117_neown_007_2500-1024x683.jpg",
      "caption": "NEOWN 专访内文照",
      "source": "https://web.archive.org/web/2024/https://neown.tokyo/2024/03/06/higashikeisuke/",
-     "asset": "",
+     "asset": "x110412f9e7982409",
      "resolution": "1024×683"
     }
    ],
@@ -16182,7 +16351,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2496490_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2496490/"
+     "source": "https://www.fujisan.co.jp/product/159/b/2496490/",
+     "asset": "x69ce30e0372bd76b"
     }
    ],
    "videos": [],
@@ -16209,7 +16379,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0308/yoshionomyuviolet_done_done.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/564165",
-     "asset": "",
+     "asset": "x3fd01d5f3eda57b8",
      "resolution": ""
     }
    ],
@@ -16234,14 +16404,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GJzg5q7boAAwXj9?format=jpg&name=large",
      "caption": "WE官方生写真 2024年4月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1774633031112044863",
-     "asset": "",
+     "asset": "xfbc71030da87ea7a",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GJzg62la8AABW_p?format=jpg&name=large",
      "caption": "WE官方生写真 2024年4月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1774633031112044863",
-     "asset": "",
+     "asset": "x58f398fa263e5f57",
      "resolution": ""
     }
    ],
@@ -16294,7 +16464,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0407/violet2024_C1_0723.jpg",
      "caption": "剧照",
      "source": "https://natalie.mu/",
-     "asset": "",
+     "asset": "x5ac9a7c0b57ac1c0",
      "resolution": ""
     },
     {
@@ -16308,20 +16478,21 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/185/violet_kv.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/185",
-     "asset": "",
+     "asset": "x90dab73a9302f111",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo74114.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "x3c7d8be922f54db4",
      "resolution": ""
     },
     {
      "url": "https://www.umegei.com/violet/images/cast/img_cast03.jpg",
      "caption": "角色照：弗利克",
-     "source": "官方"
+     "source": "官方",
+     "asset": "x481b9e56e776fb51"
     }
    ],
    "videos": [
@@ -16410,7 +16581,7 @@ window.ARCHIVE = {
    "roleRoma": "FLICK",
    "workRoma": "VIOLET",
    "roleName": "弗利克",
-   "cardPhoto": "https://www.umegei.com/violet/images/cast/img_cast03.jpg"
+   "cardPhoto": "assets/img/ext/481b9e56e776fb51.jpg"
   },
   {
    "id": "web_spice327961",
@@ -16430,7 +16601,8 @@ window.ARCHIVE = {
     {
      "url": "https://spice.eplus.jp/images/M3cz1sRxaDFttbIRvYlhPWd10QGPZ7dPrRp1LkrYOfmC8djHzsBPbL7DVJoNpXW3",
      "caption": "",
-     "source": "SPICE"
+     "source": "SPICE",
+     "asset": "x28140b1b15fd4273"
     }
    ],
    "videos": [],
@@ -16457,14 +16629,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GMY-lGraMAAp9vi?format=jpg&name=large",
      "caption": "WE官方生写真 2024年5月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1785504666819637589",
-     "asset": "",
+     "asset": "x84785787d7c31d15",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GMY-nccakAAVlLc?format=jpg&name=large",
      "caption": "WE官方生写真 2024年5月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1785504666819637589",
-     "asset": "",
+     "asset": "x5ff98150f8c49cb2",
      "resolution": ""
     }
    ],
@@ -16490,7 +16662,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2520688_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2520688/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2520688/",
+     "asset": "x627eb67beb6cb76b"
     }
    ],
    "videos": [],
@@ -16517,7 +16690,7 @@ window.ARCHIVE = {
      "url": "https://prcdn.freetls.fastly.net/release_image/13972/2514/13972-2514-2fff6c4c14c3e3e15feeb5dc7d50dfee-800x565.jpg",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000002514.000013972.html",
-     "asset": "",
+     "asset": "x19b03d62b1d1c77d",
      "resolution": ""
     }
    ],
@@ -16543,14 +16716,14 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/SeNR0vGhBHyrxqVug5k0ePY38ExmcH1WksmPXYMKDfNQYZLsp6lnR2cPf8jmeG0a",
      "caption": "JBB（左起）东启介、中川晃教、藤冈正明、大山真志",
      "source": "https://spice.eplus.jp/articles/329090",
-     "asset": "",
+     "asset": "x3ff71151ebd562b4",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0417/JBB_art202404.jpg",
      "caption": "ステージナタリー",
      "source": "https://natalie.mu/stage/news/569801",
-     "asset": "",
+     "asset": "xaf960ae52ad063fb",
      "resolution": ""
     }
    ],
@@ -16579,7 +16752,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/702/JBB_art202404.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/702",
-     "asset": "",
+     "asset": "x0022a009cc4c635d",
      "resolution": ""
     }
    ],
@@ -16614,7 +16787,7 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/2024/06/M_キンキーブーツ2025_情報解禁IMG_3208.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/9842/",
-     "asset": "",
+     "asset": "x7158f0adf7650859",
      "resolution": ""
     }
    ],
@@ -16639,14 +16812,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GRX0KERaYAAWb8X?format=jpg&name=large",
      "caption": "WE官方生写真 2024年7月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1807619359038423360",
-     "asset": "",
+     "asset": "xa747225573572f12",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GRX0KESboAAP7TH?format=jpg&name=large",
      "caption": "WE官方生写真 2024年7月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1807619359038423360",
-     "asset": "",
+     "asset": "x64dd6bfb3d4d63ad",
      "resolution": ""
     }
    ],
@@ -16673,7 +16846,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GRsS_T3aUAIZ3f0?format=jpg&name=large",
      "caption": "We!プレ 官方告知图",
      "source": "https://x.com/wepremium/status/1809060862633857510",
-     "asset": "",
+     "asset": "xfaba1f71550dce93",
      "resolution": ""
     },
     {
@@ -16708,14 +16881,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GTtfXs4aoAASpHP?format=jpg&name=large",
      "caption": "WE官方生写真 2024年8月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1818844102340780541",
-     "asset": "",
+     "asset": "x54c23fb1c811f3a2",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GTtfYyaagAA3Xjl?format=jpg&name=large",
      "caption": "WE官方生写真 2024年8月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1818844102340780541",
-     "asset": "",
+     "asset": "xe0461e855a7775a7",
      "resolution": ""
     }
    ],
@@ -16742,7 +16915,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1149/4910180391149_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xf51b31f32dcedffe",
      "resolution": ""
     }
    ],
@@ -16769,20 +16942,21 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110654289.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xce681f1db6fae0b9"
     },
     {
      "url": "https://pbs.twimg.com/media/GWcJXppa8AAxDui?format=jpg&name=large",
      "caption": "WE官方生写真 2024年9月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1830442374746849722",
-     "asset": "",
+     "asset": "x7cfbaab3b01409ef",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GWcJXpobkAAiakx?format=jpg&name=large",
      "caption": "WE官方生写真 2024年9月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1830442374746849722",
-     "asset": "",
+     "asset": "xcbc1f3b046162c47",
      "resolution": ""
     }
    ],
@@ -16809,7 +16983,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/1942/0516new_iwatanitokiko_memorialkumi.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1942",
-     "asset": "",
+     "asset": "x7c28ed6fc81aaa3e",
      "resolution": ""
     }
    ],
@@ -16849,13 +17023,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/1307/DTH_kotaki.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1307",
-     "asset": "",
+     "asset": "x25a09f3316c79a9b",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GZHud40aEAARG1g?format=jpg&name=large",
      "caption": "宣传照拍摄花絮（本人账号公开）",
-     "source": "https://x.com/keisuke_higashi/status/1842515925322613157"
+     "source": "https://x.com/keisuke_higashi/status/1842515925322613157",
+     "asset": "x48e461d4c0aed7b6"
     }
    ],
    "videos": [],
@@ -16886,14 +17061,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GYxhOm0a4AABw1n?format=jpg&name=large",
      "caption": "WE官方生写真 2024年10月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1840953404857958860",
-     "asset": "",
+     "asset": "x1baf672eb286fa6b",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GYxhOm1bQAAMSJh?format=jpg&name=large",
      "caption": "WE官方生写真 2024年10月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1840953404857958860",
-     "asset": "",
+     "asset": "x030a1eaf34134e24",
      "resolution": ""
     }
    ],
@@ -16945,14 +17120,14 @@ window.ARCHIVE = {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2024/10/20241015_higashi_-1.jpg",
      "caption": "エンタステージ",
      "source": "https://enterstage.jp/articles/161227",
-     "asset": "",
+     "asset": "x6ef6ddfa094ca4c5",
      "resolution": ""
     },
     {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2024/10/20241015_higashi_-2.jpg",
      "caption": "エンタステージ",
      "source": "https://enterstage.jp/articles/161227",
-     "asset": "",
+     "asset": "x65e57a1316c34199",
      "resolution": ""
     }
    ],
@@ -16980,7 +17155,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/uwO5XVBKzxBMPxSy9tfgtS4CxrcR2AdjFotzWsdbqMaFjrz46n2UNW9klpjXJbf0",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/332709",
-     "asset": "",
+     "asset": "x2ec7d3708705e187",
      "resolution": ""
     }
    ],
@@ -17008,7 +17183,7 @@ window.ARCHIVE = {
      "url": "https://theatertainment.jp/wp-content/uploads/2024/10/2410keisuke.jpg",
      "caption": "シアターテイメント",
      "source": "https://theatertainment.jp/cast-staff/132646/",
-     "asset": "",
+     "asset": "x65e2125c27725432",
      "resolution": ""
     }
    ],
@@ -17066,14 +17241,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GZkrMSzaAAEe4VP?format=jpg&name=large",
      "caption": "新作详情发表（ボイスフレンド官方X，2024.10.11）",
      "source": "https://x.com/voice_friend_jp/status/1844558590230884784",
-     "asset": "",
+     "asset": "xd5af23ba74b89337",
      "resolution": ""
     },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/23227/460/23227-460-59c09f2358d5239cbb79cc9164812f0d-1733x1228.png",
      "caption": "新闻稿配图",
      "source": "https://prtimes.jp/main/html/rd/p/000000460.000023227.html",
-     "asset": "",
+     "asset": "x7a0a47e05a73700d",
      "resolution": ""
     }
    ],
@@ -17099,7 +17274,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/2091/connectingpuzzles_higashi.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/2091",
-     "asset": "",
+     "asset": "xb29bb567190b0e75",
      "resolution": ""
     },
     {
@@ -17113,21 +17288,21 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1030/Automatic.jpg",
      "caption": "演唱《Automatic》",
      "source": "https://natalie.mu/stage/news/597399",
-     "asset": "",
+     "asset": "x3691f3ef7646a72a",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1030/366nichi.jpg",
      "caption": "与内藤大希合唱《366日》",
      "source": "https://natalie.mu/stage/news/597399",
-     "asset": "",
+     "asset": "xe7afedcbdad3c2fc",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1030/yushinron.jpg",
      "caption": "演唱《有心論》",
      "source": "https://natalie.mu/stage/news/597399",
-     "asset": "",
+     "asset": "xa86e4703fb3d7127",
      "resolution": ""
     }
    ],
@@ -17184,14 +17359,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GbRBq0oakAYkHXZ?format=jpg&name=large",
      "caption": "WE官方生写真 2024年11月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1852185681298428141",
-     "asset": "",
+     "asset": "x9e4c13f877d9d784",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GbRBq0pakAIVi8_?format=jpg&name=large",
      "caption": "WE官方生写真 2024年11月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1852185681298428141",
-     "asset": "",
+     "asset": "xd882f26f0ca35983",
      "resolution": ""
     }
    ],
@@ -17217,27 +17392,32 @@ window.ARCHIVE = {
     {
      "url": "https://stat.ameba.jp/user_images/20241017/12/we-goodsinfo/28/df/j/o2380336815498946018.jpg",
      "caption": "官方周边一览",
-     "source": "WE SHOP"
+     "source": "WE SHOP",
+     "asset": "xf6a5bf74d337f170"
     },
     {
      "url": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwc9f2ab5e/033131/2110656753.jpg",
      "caption": "亚克力立牌",
-     "source": "ワタナベ商店"
+     "source": "ワタナベ商店",
+     "asset": "x2e8ee39058021c41"
     },
     {
      "url": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwed06940c/033131/2110656751.jpg",
      "caption": "きゃっとん。长袖T",
-     "source": "ワタナベ商店"
+     "source": "ワタナベ商店",
+     "asset": "xdb2823be9a76acdd"
     },
     {
      "url": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwd2d08859/033131/2110656754.jpg",
      "caption": "半身生写真套组",
-     "source": "ワタナベ商店"
+     "source": "ワタナベ商店",
+     "asset": "x2247d22b84966651"
     },
     {
      "url": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw58de1e49/033131/2110656755.jpg",
      "caption": "贴纸套组",
-     "source": "ワタナベ商店"
+     "source": "ワタナベ商店",
+     "asset": "x6ab9150968b78fb0"
     }
    ],
    "videos": [],
@@ -17264,7 +17444,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1101/main.jpg",
      "caption": "「JBB コンサート 2024」（撮影：宮川舞子 / 杉本理）",
      "source": "https://natalie.mu/stage/news/597716",
-     "asset": "",
+     "asset": "x28e819a41ba6325b",
      "resolution": ""
     }
    ],
@@ -17293,19 +17473,20 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1148/4910204841148_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/18060821/",
-     "asset": "",
+     "asset": "x2b9802a9e1242dff",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1143/4910204891143_1_2.jpg",
      "caption": "anan増刊 スペシャルエディション 封面",
-     "source": "https://books.rakuten.co.jp/rb/18060822/"
+     "source": "https://books.rakuten.co.jp/rb/18060822/",
+     "asset": "x4f16a62751eeed24"
     },
     {
      "url": "https://pbs.twimg.com/media/Gc0LXZzXgAAuz7_?format=jpg&name=large",
      "caption": "anan官方X：内页预览",
      "source": "https://x.com/anan_mag/status/1859154722306798025",
-     "asset": "",
+     "asset": "xcdc0d23e45d6b3ce",
      "resolution": ""
     }
    ],
@@ -17334,14 +17515,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/71mmjbDaQ0L.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/4838794568",
-     "asset": "",
+     "asset": "xa3a14498e57e7299",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4560/9784838794560_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "xfdbf87735e7b6b47",
      "resolution": ""
     }
    ],
@@ -17369,14 +17550,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GddFG6-WAAA6dm5?format=jpg&name=large",
      "caption": "WE官方生写真 2024年12月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1863569760505786551",
-     "asset": "",
+     "asset": "xd1a13b4af6ae00d4",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GddFHsEXEAAM6gX?format=jpg&name=large",
      "caption": "WE官方生写真 2024年12月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1863569760505786551",
-     "asset": "",
+     "asset": "xf70390f961c10f56",
      "resolution": ""
     }
    ],
@@ -17402,12 +17583,14 @@ window.ARCHIVE = {
     {
      "url": "https://pbs.twimg.com/media/Ge43O84asAAWC9q?format=jpg&name=large",
      "caption": "官方幕后照：亮二",
-     "source": "https://x.com/tx_short_drama/status/1868491708880842967"
+     "source": "https://x.com/tx_short_drama/status/1868491708880842967",
+     "asset": "x66a1bd4a453c980d"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2024/1120/bokukare_202411_01.jpg",
      "caption": "主视觉",
-     "source": "官方"
+     "source": "官方",
+     "asset": "x9a4864519165eaa0"
     },
     {
      "url": "https://tv-tokyo.imgix.net/txcms/media/release/content/c9/0d/9385f691788a79678d524adb9e64.jpg?auto=format,compress",
@@ -17435,8 +17618,8 @@ window.ARCHIVE = {
    "roleRoma": "SAKIYAMA RYOJI",
    "workRoma": "BOKU TO BOKU GA SUKINA KARE TO KIMI TO",
    "roleName": "崎山亮二",
-   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2024/1120/bokukare_202411_01.jpg",
-   "cardPhoto": "https://pbs.twimg.com/media/Ge43O84asAAWC9q?format=jpg&name=large"
+   "cardPoster": "assets/img/ext/9a4864519165eaa0.jpg",
+   "cardPhoto": "assets/img/ext/66a1bd4a453c980d.jpg"
   },
   {
    "id": "s178",
@@ -17458,14 +17641,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
      "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
-     "asset": "",
+     "asset": "xff1221fe50894b7c",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/play/1592/mayukigokuyakai_sokuho.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1592",
-     "asset": "",
+     "asset": "xbca9f569c667af85",
      "resolution": ""
     }
    ],
@@ -17499,14 +17682,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/81Rc+K3DSRL.jpg",
      "caption": "封面",
      "source": "https://www.amazon.co.jp/dp/4863884788",
-     "asset": "",
+     "asset": "xa775e42a23b18d55",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4786/9784863884786_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/",
-     "asset": "",
+     "asset": "x5c19bf20acf7ea39",
      "resolution": ""
     }
    ],
@@ -17534,7 +17717,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2613062_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683473/b/2613062/"
+     "source": "https://www.fujisan.co.jp/product/1281683473/b/2613062/",
+     "asset": "x8dee3630b4500183"
     }
    ],
    "videos": [],
@@ -17560,14 +17744,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GglCWW5agAEHyfp?format=jpg&name=large",
      "caption": "WE官方生写真 2025年1月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1876103850496782674",
-     "asset": "",
+     "asset": "xbf4624d1401a18b1",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GglCWW7bcAAueK_?format=jpg&name=large",
      "caption": "WE官方生写真 2025年1月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1876103850496782674",
-     "asset": "",
+     "asset": "x51ca6d43e36aaaab",
      "resolution": ""
     }
    ],
@@ -17651,7 +17835,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph06.jpg",
      "caption": "第2集剧照：泷野高",
-     "source": "富士电视台官网"
+     "source": "富士电视台官网",
+     "asset": "x0b708ca9851a064d"
     },
     {
      "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph01.jpg",
@@ -17663,7 +17848,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.fujitv.co.jp/mondaibukken/photo/mainVisual.jpg",
      "caption": "主视觉",
-     "source": "官方"
+     "source": "官方",
+     "asset": "x5696fbdb5268bcef"
     }
    ],
    "videos": [],
@@ -17673,8 +17859,8 @@ window.ARCHIVE = {
    "roleRoma": "TAKINO TAKASHI",
    "workRoma": "MONDAI BUKKEN",
    "roleName": "泷野高",
-   "cardPhoto": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph06.jpg",
-   "cardPoster": "https://www.fujitv.co.jp/mondaibukken/photo/mainVisual.jpg"
+   "cardPhoto": "assets/img/ext/0b708ca9851a064d.jpg",
+   "cardPoster": "assets/img/ext/5696fbdb5268bcef.jpg"
   },
   {
    "id": "nat_wmst25",
@@ -17696,7 +17882,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/2666/WMSTC.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/2666",
-     "asset": "",
+     "asset": "x282ac1e4a326e1cf",
      "resolution": ""
     }
    ],
@@ -17779,7 +17965,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/Gi08SFYaMAAqQZH?format=jpg&name=large",
      "caption": "WE官方生写真 2025年2月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1886254744555167976",
-     "asset": "",
+     "asset": "x81c653dfc241dadb",
      "resolution": ""
     }
    ],
@@ -17806,7 +17992,7 @@ window.ARCHIVE = {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2025/01/20250221_higasi_calendarbook_2025_2026_main_02.jpg",
      "caption": "东京新闻通信社官网封面",
      "source": "https://zasshi.tv/products/49756/",
-     "asset": "",
+     "asset": "xd3e2185e043ee7ea",
      "resolution": ""
     }
    ],
@@ -17834,7 +18020,7 @@ window.ARCHIVE = {
      "url": "https://thetv.jp/i/nw/1247697/14166984.jpg?w=1284",
      "caption": "WEBザテレビジョン",
      "source": "https://thetv.jp/news/detail/1247697/",
-     "asset": "",
+     "asset": "x15209e51b03f2ab3",
      "resolution": ""
     }
    ],
@@ -17890,13 +18076,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110661625.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x0f74c409f2806f2a"
     },
     {
      "url": "https://pbs.twimg.com/media/GlFQmeYboAAgg0-?format=jpg&name=large",
      "caption": "WE官方生写真 2025年3月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1896395159325245461",
-     "asset": "",
+     "asset": "x62cf5e7e0520baa5",
      "resolution": ""
     }
    ],
@@ -17922,7 +18109,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2638582_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2638582/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2638582/",
+     "asset": "x81bcd7fd25535ce9"
     }
    ],
    "videos": [],
@@ -17949,7 +18137,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GlwBRqwbUAAJnTI?format=jpg&name=large",
      "caption": "再贩周边一览",
      "source": "https://x.com/we_goods_info/status/1899656601776390511",
-     "asset": "",
+     "asset": "xa22b1abf8fbf2648",
      "resolution": ""
     }
    ],
@@ -17978,7 +18166,7 @@ window.ARCHIVE = {
      "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/B41JPMJQL2/B41JPMJQL2-eyecatch_028dfa01d40be52939e83f203e3a5916.jpg",
      "caption": "节目主视觉",
      "source": "https://www.nhk.jp/p/nozomi-sound/rs/MV9NX987XX/episode/re/B41JPMJQL2/",
-     "asset": "",
+     "asset": "x07891f70748d071f",
      "resolution": ""
     },
     {
@@ -18013,7 +18201,8 @@ window.ARCHIVE = {
     {
      "url": "https://pbs.twimg.com/media/GnOCkLJawAALybJ?format=jpg&name=large",
      "caption": "电台官方推文配图：东启介、松下优也",
-     "source": "https://x.com/fmcocolo765/status/1906010631217811819"
+     "source": "https://x.com/fmcocolo765/status/1906010631217811819",
+     "asset": "xa5708cc124e62bab"
     }
    ],
    "videos": [],
@@ -18040,7 +18229,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/Gna7FgxakAAu6kg?format=jpg&name=large",
      "caption": "WE官方生写真 2025年4月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1906934385167011958",
-     "asset": "",
+     "asset": "x20ecc14801f4aa8b",
      "resolution": ""
     }
    ],
@@ -18067,7 +18256,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0416/musicfair_KB.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/620249",
-     "asset": "",
+     "asset": "x6c73d8aba4e1af9d",
      "resolution": ""
     }
    ],
@@ -18097,48 +18286,49 @@ window.ARCHIVE = {
     {
      "url": "https://theatergirl.jp/wp-content/uploads/2025/04/batch_IMG_6112.jpg",
      "caption": "剧照：查理",
-     "source": "THEATER GIRL"
+     "source": "THEATER GIRL",
+     "asset": "x845ca0d0cc3fbe0b"
     },
     {
      "url": "https://ogre.natalie.mu/media/play/1299/kinky_mv.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/1299",
-     "asset": "",
+     "asset": "x6dd3a32fa909230c",
      "resolution": ""
     },
     {
      "url": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg",
      "caption": "官方预告缩略图",
      "source": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg",
-     "asset": "",
+     "asset": "x278ced42cf671d5d",
      "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/ztuwo78246.jpg",
      "caption": "场刊封面",
      "source": "https://www.suruga-ya.jp/",
-     "asset": "",
+     "asset": "xa9ef5732dd6e3986",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GQlUVCyakAEYn7h?format=jpg&name=large",
      "caption": "主演发表当天来事务所（ワタナベ官方X）",
      "source": "https://x.com/WatanabeEnt/status/1804065936887943392",
-     "asset": "",
+     "asset": "x5208a742edfb6008",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GQlUVCyakAAqH7N?format=jpg&name=large",
      "caption": "主演发表当天来事务所（ワタナベ官方X）",
      "source": "https://x.com/WatanabeEnt/status/1804065936887943392",
-     "asset": "",
+     "asset": "x49c8ae0f2b1d34d5",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GQlUVCybMAAzFZ8?format=jpg&name=large",
      "caption": "主演发表当天来事务所（ワタナベ官方X）",
      "source": "https://x.com/WatanabeEnt/status/1804065936887943392",
-     "asset": "",
+     "asset": "xa13ff0e07de37eef",
      "resolution": ""
     }
    ],
@@ -18248,7 +18438,7 @@ window.ARCHIVE = {
    "roleRoma": "CHARLIE PRICE",
    "workRoma": "KINKY BOOTS",
    "roleName": "查理",
-   "cardPhoto": "https://theatergirl.jp/wp-content/uploads/2025/04/batch_IMG_6112.jpg",
+   "cardPhoto": "assets/img/ext/845ca0d0cc3fbe0b.jpg",
    "cardPhotoBg": "55% 10% / auto 170%"
   },
   {
@@ -18269,13 +18459,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110665401.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xd36097fceb661186"
     },
     {
      "url": "https://pbs.twimg.com/media/Gp1Qmw0aYAMeGSW?format=jpg&name=large",
      "caption": "WE官方生写真 2025年5月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1917777830601187352",
-     "asset": "",
+     "asset": "xe6b89cff852848d4",
      "resolution": ""
     }
    ],
@@ -18301,7 +18492,7 @@ window.ARCHIVE = {
      "url": "https://spice.eplus.jp/images/QmQohUPcH9iPXdZYsuyOQY5iu0hnNqtUcAjGhdKAidPpVnPNgPouFxRUu22qyGqC",
      "caption": "SPICE",
      "source": "https://spice.eplus.jp/articles/336445",
-     "asset": "",
+     "asset": "xc2766992d6061941",
      "resolution": ""
     }
    ],
@@ -18330,7 +18521,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0423/50450mu.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/621172",
-     "asset": "",
+     "asset": "x494ad17e53d7d3f0",
      "resolution": ""
     }
    ],
@@ -18355,7 +18546,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GsZ8jUFbsAAtZoP?format=jpg&name=large",
      "caption": "WE官方生写真 2025年6月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1929374420247740687",
-     "asset": "",
+     "asset": "x7a7d94dd6e8b360c",
      "resolution": ""
     }
    ],
@@ -18382,7 +18573,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/3241/watanabe_25th.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3241",
-     "asset": "",
+     "asset": "x9483b78419829622",
      "resolution": ""
     }
    ],
@@ -18408,7 +18599,7 @@ window.ARCHIVE = {
      "url": "https://www.tokai-tv.com/oppan/story/img/10/main.jpg",
      "caption": "东海电视台官方剧照",
      "source": "https://www.tokai-tv.com/oppan/",
-     "asset": "",
+     "asset": "x95c347a324969120",
      "resolution": ""
     },
     {
@@ -18421,12 +18612,14 @@ window.ARCHIVE = {
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg",
      "caption": "剧照：砂川圆",
-     "source": "東海テレビ（PR TIMES）"
+     "source": "東海テレビ（PR TIMES）",
+     "asset": "x22ba76cce99e30f2"
     },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-b77637d45f0563335d5e92f67770ce49-3900x2759.jpg",
      "caption": "SP主视觉",
-     "source": "東海テレビ（PR TIMES）"
+     "source": "東海テレビ（PR TIMES）",
+     "asset": "xd10893d7a78a9ba6"
     }
    ],
    "videos": [
@@ -18449,8 +18642,8 @@ window.ARCHIVE = {
    "roleRoma": "SUNAKAWA MADOKA",
    "workRoma": "OPPAN SP",
    "roleName": "砂川圆",
-   "cardPhoto": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-189c0cc99c459306f792380fb65fea65-3000x2000.jpg",
-   "cardPoster": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-b77637d45f0563335d5e92f67770ce49-3900x2759.jpg"
+   "cardPhoto": "assets/img/ext/22ba76cce99e30f2.jpg",
+   "cardPoster": "assets/img/ext/d10893d7a78a9ba6.jpg"
   },
   {
    "id": "bro_202507",
@@ -18470,13 +18663,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110669215.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x41233db5d463bc13"
     },
     {
      "url": "https://pbs.twimg.com/media/GuvZbwzWIAAsIlE?format=jpg&name=large",
      "caption": "WE官方生写真 2025年7月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1939883143169024115",
-     "asset": "",
+     "asset": "x4aa1b7f39628de4b",
      "resolution": ""
     }
    ],
@@ -18502,19 +18696,21 @@ window.ARCHIVE = {
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2025/0505/oppan_202505_4.jpg",
      "caption": "电影场面照：砂川圆（右）与五十岚大地",
-     "source": "映画ナタリー"
+     "source": "映画ナタリー",
+     "asset": "xcde3d72c881440d8"
     },
     {
      "url": "https://gaga.ne.jp/oppan-movie/assets/img/common/ogp_04.png",
      "caption": "电影主视觉",
      "source": "https://gaga.ne.jp/oppan-movie/",
-     "asset": "",
+     "asset": "x5dd2a7d27ff48ed5",
      "resolution": ""
     },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg",
      "caption": "电影主视觉",
-     "source": "東海テレビ（PR TIMES）"
+     "source": "東海テレビ（PR TIMES）",
+     "asset": "xa3d028b091891200"
     }
    ],
    "videos": [
@@ -18553,8 +18749,8 @@ window.ARCHIVE = {
    "roleRoma": "SUNAKAWA MADOKA",
    "workRoma": "OPPAN THE MOVIE",
    "roleName": "砂川圆",
-   "cardPoster": "https://prcdn.freetls.fastly.net/release_image/12860/291/12860-291-ab292a8bedde25a12b16975f0c3d935c-1909x2700.jpg",
-   "cardPhoto": "https://ogre.natalie.mu/media/news/eiga/2025/0505/oppan_202505_4.jpg",
+   "cardPoster": "assets/img/ext/a3d028b091891200.jpg",
+   "cardPhoto": "assets/img/ext/cde3d72c881440d8.jpg",
    "cardPhotoBg": "89% 0% / auto 150%"
   },
   {
@@ -18576,7 +18772,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2692680_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/1281683345/b/2692680/"
+     "source": "https://www.fujisan.co.jp/product/1281683345/b/2692680/",
+     "asset": "x0a1d2072488dc183"
     }
    ],
    "videos": [],
@@ -18617,7 +18814,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/3941/higashikeisuke_mv.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3941",
-     "asset": "",
+     "asset": "x198a35b73f79a443",
      "resolution": ""
     }
    ],
@@ -18652,14 +18849,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/3523/MY_flyer_c01-04_0326_120_c01.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3523",
-     "asset": "",
+     "asset": "xd4388e9382e11c69",
      "resolution": ""
     },
     {
      "url": "https://engeki-audience.com/wp-content/uploads/2025/06/Lifes-A-Joy-Life-Goes-On.jpg",
      "caption": "公演宣传图",
      "source": "https://engeki-audience.com/wp-content/uploads/2025/06/Lifes-A-Joy-Life-Goes-On.jpg",
-     "asset": "",
+     "asset": "x4dd0ecd23d574f72",
      "resolution": ""
     }
    ],
@@ -18687,7 +18884,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GxO-ibnaIAEiCIn?format=jpg&name=large",
      "caption": "WE官方生写真 2025年8月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1951115772069290390",
-     "asset": "",
+     "asset": "xf206d33bf35a05fb",
      "resolution": ""
     }
    ],
@@ -18713,7 +18910,8 @@ window.ARCHIVE = {
     {
      "url": "https://astage-ent.com/wp/wp-content/uploads/2025/08/IMG_5003s78.jpg",
      "caption": "剧照：鲍勃·高迪奥",
-     "source": "Astage"
+     "source": "Astage",
+     "asset": "x950aa69cd9a00672"
     },
     {
      "url": "https://www.tohostage.com/jersey/images/visual2025_3.jpg",
@@ -18726,7 +18924,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/2910/jb25_h1h4_0402.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/2910",
-     "asset": "",
+     "asset": "xab8b0749b3375762",
      "resolution": ""
     }
    ],
@@ -18742,9 +18940,9 @@ window.ARCHIVE = {
    "roleRoma": "BOB GAUDIO",
    "workRoma": "JERSEY BOYS 2025",
    "roleName": "鲍勃·高迪奥",
-   "cardPhoto": "https://astage-ent.com/wp/wp-content/uploads/2025/08/IMG_5003s78.jpg",
+   "cardPhoto": "assets/img/ext/950aa69cd9a00672.jpg",
    "cardPhotoBg": "55% 10% / auto 170%",
-   "cardPoster": "https://www.tohostage.com/jersey/images/visual2025_3.jpg"
+   "cardPoster": "assets/img/ext/8a9e7c0fecf779a9.jpg"
   },
   {
    "id": "nat_jbb_bohe",
@@ -18765,7 +18963,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0808/JBB_art202508.jpg",
      "caption": "ステージナタリー",
      "source": "https://natalie.mu/stage/news/635598",
-     "asset": "",
+     "asset": "x32aef601809ed69f",
      "resolution": ""
     }
    ],
@@ -18798,14 +18996,14 @@ window.ARCHIVE = {
      "url": "https://m.media-amazon.com/images/I/71FaaACgKZL._AC_SL1417_.jpg",
      "caption": "CD封面",
      "source": "https://www.amazon.co.jp/dp/B0FKBN1S6M",
-     "asset": "",
+     "asset": "xa228156cc32e56f6",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0729/ovca_00039_jacket.jpg",
      "caption": "ステージナタリー",
      "source": "https://natalie.mu/stage/news/634015",
-     "asset": "",
+     "asset": "x419574a1a88e6758",
      "resolution": ""
     }
    ],
@@ -18834,7 +19032,7 @@ window.ARCHIVE = {
      "url": "https://matisowa.jp/wp-content/uploads/2025/08/JB_0002.jpg",
      "caption": "文章配图",
      "source": "https://matisowa.jp/15126/",
-     "asset": "",
+     "asset": "xf9a70c84574ebff5",
      "resolution": ""
     }
    ],
@@ -18859,7 +19057,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GzwaMQ8bUAAmjz1?format=jpg&name=large",
      "caption": "WE官方生写真 2025年9月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1962472508835455371",
-     "asset": "",
+     "asset": "xa9a9fdbaebe1723a",
      "resolution": ""
     }
    ],
@@ -18885,7 +19083,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/9W37JM27JJ/9W37JM27JJ-eyecatch_63ab7dfd8ba93aae40da7c565d9d7e63.jpg",
      "caption": "录音现场合照（NHK 节目页）",
-     "source": "NHK"
+     "source": "NHK",
+     "asset": "xa1b99bd58cbf42da"
     }
    ],
    "videos": [],
@@ -18913,7 +19112,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2025/0922/0930_web.jpg",
      "caption": "报道图",
      "source": "https://natalie.mu/stage/news/641328",
-     "asset": "",
+     "asset": "x42cc0ddb5ebbe6e5",
      "resolution": ""
     }
    ],
@@ -18937,13 +19136,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110676382.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x857a2aa9db721ab3"
     },
     {
      "url": "https://pbs.twimg.com/media/G2JNXKyaIAIYO0c?format=jpg&name=large",
      "caption": "WE官方生写真 2025年10月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1973224824534405621",
-     "asset": "",
+     "asset": "x7bea6f602a2f93a1",
      "resolution": ""
     }
    ],
@@ -18970,7 +19170,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/3962/aripa_KV_0602.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3962",
-     "asset": "",
+     "asset": "xc0f7160dbd57ff64",
      "resolution": ""
     }
    ],
@@ -19016,7 +19216,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/G4gFo2GakAAwKG1?format=jpg&name=large",
      "caption": "WE官方生写真 2025年11月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1985542523205333199",
-     "asset": "",
+     "asset": "x7f093d7e90b4b4b7",
      "resolution": ""
     }
    ],
@@ -19043,7 +19243,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/4285/ML2025.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/4285",
-     "asset": "",
+     "asset": "x34c628facccfee26",
      "resolution": ""
     },
     {
@@ -19084,28 +19284,28 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/G7jBOMpbUAEUHEP?format=jpg&name=large",
      "caption": "公演影像片段：东启介×湖月わたる",
      "source": "https://x.com/kaidankagura/status/1997863710191415784",
-     "asset": "",
+     "asset": "x04d4424e9e2c2698",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/G7k-aNebYAAeyc9?format=jpg&name=large",
      "caption": "公演影像片段：东启介×咲妃みゆ",
      "source": "https://x.com/kaidankagura/status/1997984508428079274",
-     "asset": "",
+     "asset": "xb5190b9dcca89613",
      "resolution": ""
     },
     {
      "url": "https://static.wixstatic.com/media/a0e5ad_5aa720f100e64b758bb65e1ff679c1d7~mv2.jpg/v1/fill/w_605,h_856,al_c,q_85/visual.jpg",
      "caption": "主视觉",
      "source": "https://kaidankagura.wixsite.com/sumu2025",
-     "asset": "",
+     "asset": "xdc72b3eb8f533378",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/play/4597/kagurazakakaikitan.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/4597",
-     "asset": "",
+     "asset": "x5050724933d0dc12",
      "resolution": ""
     }
    ],
@@ -19141,13 +19341,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110680987.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x1fb8473ca8560c74"
     },
     {
      "url": "https://pbs.twimg.com/media/G7EYbbHaYAA2-Nm?format=jpg&name=large",
      "caption": "WE官方生写真 2025年12月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1995403616744882570",
-     "asset": "",
+     "asset": "x3377f5bf2b5195ec",
      "resolution": ""
     }
    ],
@@ -19174,14 +19375,14 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/2DCSAh_hgrI/hqdefault.jpg",
      "caption": "视频封面：東啓介 コメント動画 カウントダウン ミュージカルコンサート",
      "source": "https://www.youtube.com/watch?v=2DCSAh_hgrI",
-     "asset": "",
+     "asset": "xfa0587d0dafebbed",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/play/3993/CDMC25-26_A4_0910_2.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/3993",
-     "asset": "",
+     "asset": "x30979f72f8fef2c7",
      "resolution": ""
     }
    ],
@@ -19213,13 +19414,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110681835.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x45fc562cdb0166e5"
     },
     {
      "url": "https://pbs.twimg.com/media/G93kiYKa0AAMMSr?format=jpg&name=large",
      "caption": "WE官方生写真 2026年1月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2008012474168263077",
-     "asset": "",
+     "asset": "xb97ed7e616604734",
      "resolution": ""
     }
    ],
@@ -19253,7 +19455,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2026/0116/u2.jpg",
      "caption": "Natalie 报道图（八丈岛）",
      "source": "https://natalie.mu/stage/news/656358",
-     "asset": "",
+     "asset": "x33c858fcd9c39846",
      "resolution": ""
     }
    ],
@@ -19285,13 +19487,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110688644.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xd7b6b2659fc3425e"
     },
     {
      "url": "https://pbs.twimg.com/media/HEz9gUPa8AIxPV-?format=jpg&name=large",
      "caption": "WE官方生写真 2026年4月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2039283467339669914",
-     "asset": "",
+     "asset": "x97c9bb0f26a58e8d",
      "resolution": ""
     }
    ],
@@ -19317,13 +19520,14 @@ window.ARCHIVE = {
     {
      "url": "https://img.nhk.jp/static/assets/images/radioepisode/re/57ZP31M9G4/57ZP31M9G4-eyecatch_a0cd149dac7d4364d19d142f507c2c1d.jpg",
      "caption": "录音现场合照（NHK 节目页）",
-     "source": "NHK"
+     "source": "NHK",
+     "asset": "xd7cdddf19ddff6b1"
     },
     {
      "url": "https://img.nhk.jp/static/assets/images/radioseries/rs/X4X6N1XG8Z/X4X6N1XG8Z-eyecatch_a5bdc94187e0b501b2cfa223cbf28e4a.png",
      "caption": "NHK 青春冒险 节目图",
      "source": "https://www.nhk.jp/p/rs/X4X6N1XG8Z/blog/bl/pN1pnOaa3q/bp/pY4z7bn1ro/",
-     "asset": "",
+     "asset": "x0f6cec1d983eb6b7",
      "resolution": ""
     }
    ],
@@ -19350,13 +19554,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110690616.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x257847010209953c"
     },
     {
      "url": "https://pbs.twimg.com/media/HHM-MafbMAA3QZL?format=jpg&name=large",
      "caption": "WE官方生写真 2026年5月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2050050643692491082",
-     "asset": "",
+     "asset": "x8ca158216253b395",
      "resolution": ""
     }
    ],
@@ -19381,13 +19586,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693068.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x44e05f838a6bda18"
     },
     {
      "url": "https://pbs.twimg.com/media/HJshLd9bYAAu4VB?format=jpg&name=large",
      "caption": "WE官方生写真 2026年6月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2061281676546977884",
-     "asset": "",
+     "asset": "xaadc25a8f1bd933e",
      "resolution": ""
     }
    ],
@@ -19412,13 +19618,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693994.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x863c4a6f93c92148"
     },
     {
      "url": "https://pbs.twimg.com/media/HMHEbdEbQAA6eNG?format=jpg&name=large",
      "caption": "WE官方生写真 2026年7月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2072153285755306087",
-     "asset": "",
+     "asset": "x825fc2c8693af3b9",
      "resolution": ""
     }
    ],
@@ -19445,7 +19652,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/0hsF8IqwY1o/hqdefault.jpg",
      "caption": "官方访谈视频截图",
      "source": "https://www.youtube.com/watch?v=0hsF8IqwY1o",
-     "asset": "",
+     "asset": "xf88a7064ed6ea334",
      "resolution": ""
     }
    ],
@@ -19472,13 +19679,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "x5d91c88fc45c4d1c"
     },
     {
      "url": "https://pbs.twimg.com/media/HOw24LFaAAAiNHX?format=jpg&name=large",
      "caption": "WE官方生写真 2026年8月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2084112199665254696",
-     "asset": "",
+     "asset": "x6c720456492d878b",
      "resolution": ""
     }
    ],
@@ -19504,17 +19712,20 @@ window.ARCHIVE = {
     {
      "url": "https://bluelock-movie.jp/assets/img/cast/cast-body4-5.png",
      "caption": "官方角色公式照：马狼照英（全身）",
-     "source": "https://bluelock-movie.jp/"
+     "source": "https://bluelock-movie.jp/",
+     "asset": "xeed15ba519f0733c"
     },
     {
      "url": "https://bluelock-movie.jp/assets/img/cast/cast-face4-5.jpg",
      "caption": "官方角色公式照：马狼照英",
-     "source": "https://bluelock-movie.jp/"
+     "source": "https://bluelock-movie.jp/",
+     "asset": "xc5c40f116e8e2c23"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2026/0609/bluelock-movie_202606_08.jpg",
      "caption": "场面照：比赛中的马狼照英",
-     "source": "https://natalie.mu/eiga/news/675348"
+     "source": "https://natalie.mu/eiga/news/675348",
+     "asset": "x9a6ac59695450770"
     },
     {
      "url": "https://bluelock-movie.jp/assets/img/ogp_image3.jpg",
@@ -19526,22 +19737,26 @@ window.ARCHIVE = {
     {
      "url": "https://ogre.natalie.mu/media/news/comic/2026/0513/BL_teaser.jpg",
      "caption": "新ティザービジュアル",
-     "source": "コミックナタリー"
+     "source": "コミックナタリー",
+     "asset": "xbb953b96078124a2"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2026/0513/bluelock-movie_20260513_02.jpg",
      "caption": "追加キャスト角色视觉（右上为馬狼照英）",
-     "source": "コミックナタリー"
+     "source": "コミックナタリー",
+     "asset": "xb0f66b80711315a7"
     },
     {
      "url": "https://animeanime.jp/imgs/zoom/889762.jpg",
      "caption": "场面照：马狼照英撞倒对手",
-     "source": "https://animeanime.jp/article/2026/06/09/99917.html"
+     "source": "https://animeanime.jp/article/2026/06/09/99917.html",
+     "asset": "xcbacdba9fc9e2f24"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/eiga/2026/0207/bluelock-movie_202602_teaser.jpg",
      "caption": "预告海报",
-     "source": "ナタリー"
+     "source": "ナタリー",
+     "asset": "xdb51ddce8a01468b"
     }
    ],
    "videos": [
@@ -19588,8 +19803,8 @@ window.ARCHIVE = {
    "roleRoma": "BAROU SHOEI",
    "workRoma": "BLUE LOCK",
    "roleName": "马狼照英",
-   "cardPoster": "https://ogre.natalie.mu/media/news/eiga/2026/0207/bluelock-movie_202602_teaser.jpg",
-   "cardPhoto": "https://bluelock-movie.jp/assets/img/cast/cast-face4-5.jpg",
+   "cardPoster": "assets/img/ext/db51ddce8a01468b.jpg",
+   "cardPhoto": "assets/img/ext/c5c40f116e8e2c23.jpg",
    "cardPhotoBg": "100% 0% / 320% auto"
   },
   {
@@ -19669,32 +19884,34 @@ window.ARCHIVE = {
      "url": "https://www.tohostage.com/kingdom2/images/gallery_solo_higashi.jpg",
      "caption": "官网舞台剧照：东启介饰庞煖",
      "source": "https://www.tohostage.com/kingdom2/",
-     "asset": "",
+     "asset": "xad4aad058be1b051",
      "resolution": "1200 × 1696"
     },
     {
      "url": "https://www.tohostage.com/kingdom2/images/report2_p_higashi.jpg",
      "caption": "官网开幕报道舞台照",
      "source": "https://www.tohostage.com/kingdom2/",
-     "asset": "",
+     "asset": "x19bb33c7ca0da7ae",
      "resolution": "1800 × 1200"
     },
     {
      "url": "https://ogre.natalie.mu/media/play/5740/kingdom_miura_teaser.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/5740",
-     "asset": "",
+     "asset": "x7a8ea8616a69eefa",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2026/0731/KINGDOM2_higasi.jpg",
      "caption": "角色照：庞煖",
-     "source": "ステージナタリー"
+     "source": "ステージナタリー",
+     "asset": "x84b42ed87ed271e1"
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2026/0329/kingdom_miura_teaser.jpg",
      "caption": "主视觉",
-     "source": "ステージナタリー"
+     "source": "ステージナタリー",
+     "asset": "x7a2fbe1e721aae1c"
     }
    ],
    "videos": [
@@ -19781,8 +19998,8 @@ window.ARCHIVE = {
    "roleRoma": "HOKEN",
    "workRoma": "KINGDOM II",
    "roleName": "庞煖",
-   "cardPhoto": "https://www.tohostage.com/kingdom2/images/gallery_solo_higashi.jpg",
-   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2026/0329/kingdom_miura_teaser.jpg"
+   "cardPhoto": "assets/img/ext/ad4aad058be1b051.jpg",
+   "cardPoster": "assets/img/ext/7a2fbe1e721aae1c.jpg"
   },
   {
    "id": "web_swan_aud",
@@ -19804,7 +20021,7 @@ window.ARCHIVE = {
      "url": "https://engeki-audience.com/wp-content/uploads/2026/08/SWAN-Ballet-cross-Reading%E3%80%8F%E6%9D%B1%E5%95%93%E4%BB%8B%E3%81%95%E3%82%93%E3%80%81%E8%A5%BF%E9%87%8E%E9%81%BC%E3%81%95%E3%82%93%E5%8F%96%E6%9D%9016862-1024x683.jpg",
      "caption": "Audience 采访摄影",
      "source": "https://engeki-audience.com/article/detail/23194/",
-     "asset": "",
+     "asset": "x141194cd4b667961",
      "resolution": ""
     }
    ],
@@ -19831,7 +20048,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xe65e91da7c009505"
     }
    ],
    "videos": [],
@@ -19855,13 +20073,14 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190050196.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": "ワタナベ商店（7net）",
+     "asset": "xa4055f4412823168"
     },
     {
      "url": "https://pbs.twimg.com/media/HRGqVt-aoAAIYCf?format=jpg&name=large",
      "caption": "WE官方生写真 2026年9月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/2094643934349988036",
-     "asset": "",
+     "asset": "xca2684726b0da7a9",
      "resolution": ""
     }
    ],
@@ -19888,7 +20107,7 @@ window.ARCHIVE = {
      "url": "https://www.talent-databank.co.jp/special/wp-content/uploads/2026/09/top011.jpg",
      "caption": "Talent Databank 采访图",
      "source": "https://www.talent-databank.co.jp/special/interview/56797/",
-     "asset": "",
+     "asset": "xe0aad930fae9a02f",
      "resolution": ""
     }
    ],
@@ -19917,7 +20136,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/0965/4912240130965_1_2.jpg",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/18779957/",
-     "asset": "",
+     "asset": "x1f12c44c39b8f4ad",
      "resolution": ""
     }
    ],
@@ -19981,20 +20200,21 @@ window.ARCHIVE = {
      "url": "https://swan-balletcrossreading.com/images/top/cast_img3-1.jpg",
      "caption": "官网演员照：东启介（草壁飞翔）",
      "source": "https://swan-balletcrossreading.com/",
-     "asset": "",
+     "asset": "xf251577592ad2706",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/play/5485/SWAN_main.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/5485",
-     "asset": "",
+     "asset": "x08c7ff9c0d5bbbb9",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2026/0526/SWAN_main.jpg",
      "caption": "主视觉",
-     "source": "ステージナタリー"
+     "source": "ステージナタリー",
+     "asset": "xd5a6f831aa648167"
     }
    ],
    "videos": [
@@ -20021,8 +20241,8 @@ window.ARCHIVE = {
    "roleRoma": "KUSAKABE TSUBASA",
    "workRoma": "SWAN",
    "roleName": "草壁飞翔",
-   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2026/0526/SWAN_main.jpg",
-   "cardPhoto": "https://swan-balletcrossreading.com/images/top/cast_img3-1.jpg"
+   "cardPoster": "assets/img/ext/d5a6f831aa648167.jpg",
+   "cardPhoto": "assets/img/ext/f251577592ad2706.jpg"
   },
   {
    "id": "web_swan_stream",
@@ -20044,7 +20264,7 @@ window.ARCHIVE = {
      "url": "https://strmweb.jp/home/wp-content/uploads/2026/09/GLM_74A2263.jpg",
      "caption": "STREAM 采访摄影",
      "source": "https://strmweb.jp/archives/22701/",
-     "asset": "",
+     "asset": "x7964e15e4b9fd7f4",
      "resolution": ""
     }
    ],
@@ -20073,32 +20293,34 @@ window.ARCHIVE = {
      "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
      "caption": "朝日电视台官网角色图：岭高华武利／假面骑士Maou",
      "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
-     "asset": "",
+     "asset": "x393631f6813c1f69",
      "resolution": "524 × 584"
     },
     {
      "url": "https://www.kamen-rider-official.com/uploads/myth_summary_production_note/image1/14/72a1c163-10d1-4943-9945-3f33eadf9abe.jpg",
      "caption": "角色照：岭高华武利（拿着逗猫棒）",
-     "source": "假面骑士官网 第2话 制作秘话"
+     "source": "假面骑士官网 第2话 制作秘话",
+     "asset": "x126af5d9674f84d2"
     },
     {
      "url": "https://www.tv-asahi.co.jp/my-th/common-img/main_sp.webp",
      "caption": "作品海报",
      "source": "https://www.tv-asahi.co.jp/my-th/",
-     "asset": "",
+     "asset": "xc0eabc0ccd9fc9d1",
      "resolution": "780×462"
     },
     {
      "url": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main02.webp",
      "caption": "官网角色图：假面骑士Maou",
      "source": "https://www.tv-asahi.co.jp/my-th/character/minetaka/",
-     "asset": "",
+     "asset": "xdb5fb6d47651533a",
      "resolution": ""
     },
     {
      "url": "https://www.kamen-rider-official.com/uploads/layout/s3_image2/3171/d514791e-8afc-496f-a838-2a7882c5de13.jpg",
      "caption": "作品海报（竖版）",
-     "source": "假面骑士官网"
+     "source": "假面骑士官网",
+     "asset": "x9afee2d8e80744b5"
     }
    ],
    "videos": [
@@ -20229,8 +20451,8 @@ window.ARCHIVE = {
    "roleRoma": "MINETAKA KABURI",
    "workRoma": "KAMEN RIDER MY-TH",
    "roleName": "岭高华武利",
-   "cardPoster": "https://www.kamen-rider-official.com/uploads/layout/s3_image2/3171/d514791e-8afc-496f-a838-2a7882c5de13.jpg",
-   "cardPhoto": "https://www.kamen-rider-official.com/uploads/myth_summary_production_note/image1/14/72a1c163-10d1-4943-9945-3f33eadf9abe.jpg",
+   "cardPoster": "assets/img/ext/9afee2d8e80744b5.jpg",
+   "cardPhoto": "assets/img/ext/126af5d9674f84d2.jpg",
    "cardPhotoPos": "50% 12%"
   },
   {
@@ -20252,23 +20474,26 @@ window.ARCHIVE = {
     {
      "url": "https://i.ytimg.com/vi/HiW6nsnVHo8/maxresdefault.jpg",
      "caption": "第七话 スパダリ検定～嶺髙華武利編～",
-     "source": "东映特摄 YouTube"
+     "source": "东映特摄 YouTube",
+     "asset": "x08f9e930078282cb"
     },
     {
      "url": "https://www.tv-asahi.co.jp/my-th/news/0006/images/J2vSsFt5mv.webp",
      "caption": "节目场面：华武利（左）",
-     "source": "朝日电视台"
+     "source": "朝日电视台",
+     "asset": "x39968cbf944e1ac5"
     },
     {
      "url": "https://www.toei.co.jp/entertainment/streaming/original/productionlist/detail/__icsFiles/afieldfile/2026/10/02/12toiro.jpg",
      "caption": "《十二支十色》海报",
-     "source": "东映"
+     "source": "东映",
+     "asset": "x43b5a89831443360"
     },
     {
      "url": "https://i.ytimg.com/vi/jkqp4qMS_Zg/maxresdefault.jpg",
      "caption": "第1话 免费公开版",
      "source": "https://www.youtube.com/watch?v=jkqp4qMS_Zg",
-     "asset": "",
+     "asset": "x3bc8103d89ad41da",
      "resolution": ""
     }
    ],
@@ -20336,8 +20561,8 @@ window.ARCHIVE = {
    "roleRoma": "MINETAKA KABURI",
    "workRoma": "JUNISHI TOIRO",
    "roleName": "岭高华武利",
-   "cardPoster": "https://www.toei.co.jp/entertainment/streaming/original/productionlist/detail/__icsFiles/afieldfile/2026/10/02/12toiro.jpg",
-   "cardPhoto": "https://www.tv-asahi.co.jp/my-th/news/0006/images/J2vSsFt5mv.webp",
+   "cardPoster": "assets/img/ext/43b5a89831443360.jpg",
+   "cardPhoto": "assets/img/ext/39968cbf944e1ac5.webp",
    "cardPhotoPos": "32% 20%"
   },
   {
@@ -20360,7 +20585,7 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/HTMt1EdbgAAVzrk?format=jpg&name=large",
      "caption": "杂志内页",
      "source": "https://x.com/thetvjp/status/2104103746779426903",
-     "asset": "",
+     "asset": "x5d3ab76f3b0b4b45",
      "resolution": "1616×2048"
     }
    ],
@@ -20458,7 +20683,7 @@ window.ARCHIVE = {
      "url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46942722/46942722.43640298.original/r1280x720l.webp?key=70a128b08d735d3a4eb91dcff8fdaae86d35afc93023b80578966df71792f342",
      "caption": "niconico节目缩略图",
      "source": "https://www.nicovideo.jp/watch/so46942722",
-     "asset": "",
+     "asset": "x5152af5a4f6981e0",
      "resolution": ""
     }
    ],
@@ -20554,7 +20779,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/09/photel.jpg",
      "caption": "官方合作图",
      "source": "https://stage-toukenranbu.jp/",
-     "asset": "",
+     "asset": "x398133ed33d6c71c",
      "resolution": ""
     }
    ],
@@ -20583,7 +20808,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1160/4912240131160_1_2.jpg",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/18863578/",
-     "asset": "",
+     "asset": "xc54fb457f47b3e09",
      "resolution": ""
     }
    ],
@@ -20612,14 +20837,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/HMG8VX5aUAAFAlh?format=jpg&name=large",
      "caption": "WOWOW 官方推特宣传图",
      "source": "https://x.com/",
-     "asset": "",
+     "asset": "x2aea8dcfb6645ee5",
      "resolution": ""
     },
     {
      "url": "https://www.tokai-tv.com/oppan/assets/img/top/header_poster.jpg",
      "caption": "官方海报",
      "source": "https://www.wowow.co.jp/",
-     "asset": "",
+     "asset": "x2d30e5eee86af4bf",
      "resolution": ""
     }
    ],
@@ -20673,7 +20898,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/tousta10th_animate_KV_0918-scaled.jpg",
      "caption": "官方合作主视觉",
      "source": "https://stage-toukenranbu.jp/",
-     "asset": "",
+     "asset": "x70189541239bcbd9",
      "resolution": ""
     }
    ],
@@ -20702,7 +20927,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/utage.png",
      "caption": "十周年特设站企划图",
      "source": "https://stage-toukenranbu.jp/",
-     "asset": "",
+     "asset": "xc800c1404bda3c78",
      "resolution": ""
     }
    ],
@@ -20736,7 +20961,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/07/05%E3%80%90WEB%E3%80%91%E2%98%85toustayou_CV_shokudaikiri.jpg",
      "caption": "官网角色视觉：东启介饰烛台切光忠",
      "source": "https://stage-toukenranbu.jp/stage/cast/",
-     "asset": "",
+     "asset": "x40cf696a3e65aa14",
      "resolution": ""
     },
     {
@@ -20750,13 +20975,14 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/5950/toustayou_KV_0716-2.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/5950",
-     "asset": "",
+     "asset": "x172a3c486dda0f2d",
      "resolution": ""
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2026/0717/oustayou_KV_0716-2.jpg",
      "caption": "主视觉",
-     "source": "ステージナタリー"
+     "source": "ステージナタリー",
+     "asset": "xf9f9767bb5255de4"
     }
    ],
    "videos": [],
@@ -20772,8 +20998,8 @@ window.ARCHIVE = {
    "roleRoma": "SHOKUDAIKIRI MITSUTADA",
    "workRoma": "YODEN",
    "roleName": "烛台切光忠",
-   "cardPhoto": "https://stage-toukenranbu.jp/wp-content/uploads/2026/07/05%E3%80%90WEB%E3%80%91%E2%98%85toustayou_CV_shokudaikiri.jpg",
-   "cardPoster": "https://ogre.natalie.mu/media/news/stage/2026/0717/oustayou_KV_0716-2.jpg"
+   "cardPhoto": "assets/img/ext/40cf696a3e65aa14.jpg",
+   "cardPoster": "assets/img/ext/f9f9767bb5255de4.jpg"
   },
   {
    "id": "mag_animage2612",
@@ -20794,7 +21020,7 @@ window.ARCHIVE = {
      "url": "https://tshop.r10s.jp/book/cabinet/1263/4912015771263_1_2.jpg?downsize=600:*",
      "caption": "封面",
      "source": "https://books.rakuten.co.jp/rb/18881389/",
-     "asset": "",
+     "asset": "x669df58e71fe5ca1",
      "resolution": ""
     }
    ],
@@ -20849,7 +21075,7 @@ window.ARCHIVE = {
      "url": "https://www.stage-toukenranbu.jp/wp-content/themes/touken_2021/assets/og/hiden4_ogp.jpg",
      "caption": "官方宣传图",
      "source": "https://stage-toukenranbu.jp/",
-     "asset": "",
+     "asset": "xc6168944c8bdaa00",
      "resolution": ""
     }
    ],
@@ -20878,7 +21104,7 @@ window.ARCHIVE = {
      "url": "https://i.ytimg.com/vi/9VPedwZW6vg/hqdefault.jpg",
      "caption": "官方宣传视频缩略图",
      "source": "https://i.ytimg.com/vi/9VPedwZW6vg/hqdefault.jpg",
-     "asset": "",
+     "asset": "x201d0fcce1b23343",
      "resolution": ""
     }
    ],
@@ -20907,30 +21133,33 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/HWFlwTGaUAEunmy?format=jpg&name=large",
      "caption": "刀剑乱舞2.5茶屋 官方合作告知",
      "source": "https://x.com/touken_2_5chaya/status/2117179908736921657",
-     "asset": "",
+     "asset": "x7c36dfebbe86cd99",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/HWFlwTMboAAO-fZ?format=jpg&name=large",
      "caption": "刀剑乱舞2.5茶屋 官方合作告知",
      "source": "https://x.com/touken_2_5chaya/status/2117179908736921657",
-     "asset": "",
+     "asset": "x20aaa0e4b3225e93",
      "resolution": ""
     },
     {
      "url": "https://pbs.twimg.com/media/HWFlwTWaMAAQTxX?format=jpg&name=large",
      "caption": "刀剑乱舞2.5茶屋 官方合作告知",
-     "source": "https://x.com/touken_2_5chaya/status/2117179908736921657"
+     "source": "https://x.com/touken_2_5chaya/status/2117179908736921657",
+     "asset": "x5cef6840233700e0"
     },
     {
      "url": "https://pbs.twimg.com/media/HXNz0PybQAA3cSb?format=jpg&name=large",
      "caption": "预约特典：主视觉手机卡",
-     "source": "https://x.com/touken_2_5chaya/status/2122253343737479230"
+     "source": "https://x.com/touken_2_5chaya/status/2122253343737479230",
+     "asset": "xa31187e32e8b630a"
     },
     {
      "url": "https://pbs.twimg.com/media/HXTFFHUaEAI9L9E?format=jpg&name=large",
      "caption": "店内特典杯垫",
-     "source": "https://x.com/touken_2_5chaya/status/2122978137822617645"
+     "source": "https://x.com/touken_2_5chaya/status/2122978137822617645",
+     "asset": "xf3ddc4d07625e036"
     }
    ],
    "videos": [],
@@ -20958,7 +21187,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
      "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
-     "asset": "",
+     "asset": "xff1221fe50894b7c",
      "resolution": ""
     }
    ],
@@ -20992,7 +21221,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu-10th-expo.jp/images/slide1/tenrankai_kv.jpg",
      "caption": "十年轨迹展官网主视觉",
      "source": "https://stage-toukenranbu-10th-expo.jp/",
-     "asset": "",
+     "asset": "x4bf38ccdcaabe962",
      "resolution": ""
     }
    ],
@@ -21050,14 +21279,14 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/HMG8Wb9aIAAamMv?format=jpg&name=large",
      "caption": "WOWOW 官方推特宣传图",
      "source": "https://x.com/",
-     "asset": "",
+     "asset": "x8ed342790265795e",
      "resolution": ""
     },
     {
      "url": "https://www.tokai-tv.com/oppan/assets/img/top/header_poster.jpg",
      "caption": "官方海报",
      "source": "https://www.wowow.co.jp/",
-     "asset": "",
+     "asset": "x2d30e5eee86af4bf",
      "resolution": ""
     }
    ],
@@ -21111,7 +21340,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
      "caption": "剧照",
      "source": "https://ogre.natalie.mu/media/news/stage/2024/1215/DAY1_gokuyano_IMG_8702.jpg?imwidth=1460&imdensity=1&impolicy=hq",
-     "asset": "",
+     "asset": "xff1221fe50894b7c",
      "resolution": ""
     }
    ],
@@ -21145,7 +21374,7 @@ window.ARCHIVE = {
      "url": "https://news.walkerplus.com/article/1442397/18570078_615.jpg",
      "caption": "Walkerplus 报道图",
      "source": "https://news.walkerplus.com/article/1442397/",
-     "asset": "",
+     "asset": "xd859d3ddc86b6e5e",
      "resolution": ""
     }
    ],
@@ -21174,7 +21403,7 @@ window.ARCHIVE = {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_cover_00.jpg",
      "caption": "写真集封面",
      "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
-     "asset": "",
+     "asset": "x9bbee73e64c0573b",
      "resolution": ""
     },
     {
@@ -21219,7 +21448,7 @@ window.ARCHIVE = {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_sab_01.jpg",
      "caption": "写真集公开内页",
      "source": "https://zasshi.tv/products/62295/",
-     "asset": "",
+     "asset": "x6af997f3ce83cded",
      "resolution": ""
     }
    ],
@@ -21248,7 +21477,7 @@ window.ARCHIVE = {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_sab_02.jpg",
      "caption": "写真集公开内页",
      "source": "https://zasshi.tv/products/62295/",
-     "asset": "",
+     "asset": "xdfa1bf18f6716f48",
      "resolution": ""
     }
    ],
@@ -21277,7 +21506,7 @@ window.ARCHIVE = {
      "url": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/img/img_visual.webp",
      "caption": "超英雄祭2027 官方主视觉",
      "source": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/",
-     "asset": "",
+     "asset": "xaa6d4782fd433db9",
      "resolution": ""
     }
    ],
@@ -21306,7 +21535,7 @@ window.ARCHIVE = {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_sab_03.jpg",
      "caption": "写真集公开内页",
      "source": "https://zasshi.tv/products/62295/",
-     "asset": "",
+     "asset": "x8fd3cb156342b5df",
      "resolution": ""
     }
    ],
@@ -21335,7 +21564,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu-10th-expo.jp/images/slide1/tenrankai_KVre.jpg",
      "caption": "十年轨迹展官网视觉",
      "source": "https://stage-toukenranbu-10th-expo.jp/",
-     "asset": "",
+     "asset": "x29eeb61a2ebc1a57",
      "resolution": ""
     }
    ],
@@ -21364,7 +21593,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/daimaru.png",
      "caption": "十周年特设站企划图",
      "source": "https://stage-toukenranbu.jp/",
-     "asset": "",
+     "asset": "x8c525937566a2f33",
      "resolution": ""
     }
    ],
@@ -21393,7 +21622,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/10/tousute_daimaru_KV.jpg",
      "caption": "官方合作主视觉",
      "source": "https://stage-toukenranbu.jp/",
-     "asset": "",
+     "asset": "x94a213458212e2e0",
      "resolution": ""
     }
    ],
@@ -21422,7 +21651,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu-10th-expo.jp/images/food/foods_all.jpg",
      "caption": "十年轨迹展联动菜单",
      "source": "https://stage-toukenranbu-10th-expo.jp/food.html",
-     "asset": "",
+     "asset": "x44d9d47e340119ae",
      "resolution": ""
     }
    ],
@@ -21458,7 +21687,7 @@ window.ARCHIVE = {
      "url": "https://ogre.natalie.mu/media/play/7172/NostalgicCabaret_visual.jpg?imwidth=750&imdensity=1",
      "caption": "公演海报",
      "source": "https://natalie.mu/stage/play/7172",
-     "asset": "",
+     "asset": "x8eb1c9dbe0cf67ba",
      "resolution": ""
     }
    ],
@@ -21487,7 +21716,7 @@ window.ARCHIVE = {
      "url": "https://stage-toukenranbu.jp/wp-content/uploads/2026/11/%E3%80%90WEB%E3%80%91toustayou_KV.jpg",
      "caption": "官方 Blu-ray/DVD 主视觉",
      "source": "https://stage-toukenranbu.jp/stage/",
-     "asset": "",
+     "asset": "xe3868b4f2e727df9",
      "resolution": ""
     }
    ],
@@ -21510,7 +21739,8 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/81oA3IWoE9L._AC_SL500_.jpg",
      "caption": "DVD封面",
-     "source": "Amazon.co.jp 商品图"
+     "source": "Amazon.co.jp 商品图",
+     "asset": "x0432afd3fc089e2d"
     }
    ],
    "videos": [
@@ -21535,7 +21765,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/刀ステサントラCD-1024x1010.jpg",
      "caption": "CD封面",
-     "source": "舞台『刀剣乱舞』官网"
+     "source": "舞台『刀剣乱舞』官网",
+     "asset": "x66960ae024f43a44"
     }
    ],
    "videos": [],
@@ -21555,7 +21786,8 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/71Sngd-VSbL._AC_SL500_.jpg",
      "caption": "CD封面",
-     "source": "舞台『刀剣乱舞』官网"
+     "source": "舞台『刀剣乱舞』官网",
+     "asset": "x8afe7cf32ed84d67"
     }
    ],
    "videos": [],
@@ -21575,7 +21807,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/悲伝OST_CD-1024x1013.jpg",
      "caption": "CD封面",
-     "source": "舞台『刀剣乱舞』官网"
+     "source": "舞台『刀剣乱舞』官网",
+     "asset": "xe041cbbd4e1f062f"
     }
    ],
    "videos": [],
@@ -21612,7 +21845,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://x.com/TVguidePERSON/status/2119228631981658419",
-   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2119228569931112448/img/sZ0b-xuDpCaa9NOI.jpg",
+   "thumbnail": "assets/img/ext/d4fbe8c43034b443.jpg",
    "playlists": [],
    "platform": "X",
    "rel": "TVガイドPERSON官方X｜2027年1月8日发售写真集的メイキング",
@@ -21631,7 +21864,7 @@ window.ARCHIVE = {
     "2024"
    ],
    "url": "https://x.com/fantastics_fext/status/1768993360709300693",
-   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/1768993307055853568/img/W0soHx0r3RxxXtvk.jpg",
+   "thumbnail": "assets/img/ext/678169a4b214f619.jpg",
    "playlists": [],
    "platform": "X",
    "rel": "FANTASTICS官方X｜大地×円先辈",
@@ -21650,7 +21883,7 @@ window.ARCHIVE = {
     "2021"
    ],
    "url": "https://x.com/tx_tsumarisuki/status/1463433446794330112",
-   "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1463433348471468032/pu/img/snajAWxg-smc-UKv.jpg",
+   "thumbnail": "assets/img/ext/858c8aad59ea199c.jpg",
    "playlists": [],
    "platform": "X",
    "rel": "官方X｜片尾舞蹈，第8话播出当天",
@@ -21669,7 +21902,7 @@ window.ARCHIVE = {
     "2022"
    ],
    "url": "https://x.com/JerseyBoysJP/status/1577916083331162113",
-   "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1577912638935162881/pu/img/FytVS-M0rQI8KYzS.jpg",
+   "thumbnail": "assets/img/ext/60ca036009a6da24.jpg",
    "playlists": [],
    "platform": "X",
    "rel": "官方X｜预演开幕前，两位鲍勃·高迪奥教观众跳编舞",
@@ -21766,7 +21999,7 @@ window.ARCHIVE = {
    "channel": "Rakuten Ticket",
    "duration": "2:21",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/rkP9UproOLQ/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/b6cd3f57c6f82cc9.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "预告／宣传",
@@ -21786,7 +22019,7 @@ window.ARCHIVE = {
    "channel": "日テレNEWSカルチャー【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/4ANW1anPBF4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLC1pIEtyZlqYGznQcq1pjiib8s-Hw",
+   "thumbnail": "assets/img/ext/f04f92a134cf4d90.jpg",
    "playlists": [
     "東啓介 2026 SWANーBallet cross Readingー"
    ],
@@ -21807,7 +22040,7 @@ window.ARCHIVE = {
    "channel": "クララチャンネル CLARA Channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/D1dOGYHMg6A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDbvyu37xIPU_ljSEJIwd4fkaKlAg",
+   "thumbnail": "assets/img/ext/ec220349fcfc5dad.jpg",
    "playlists": [
     "東啓介 2026 SWANーBallet cross Readingー"
    ],
@@ -21828,7 +22061,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/8X39E1Z6TOc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBeM8h5jHBqqmFrJ3IkKvLfk52_ZQ",
+   "thumbnail": "assets/img/ext/05b96001c063a9a4.jpg",
    "playlists": [
     "東啓介 2026 SWANーBallet cross Readingー"
    ],
@@ -21849,7 +22082,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/X_NYvj42l_A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYTCBWKGUwDw==&rs=AOn4CLDgA_YK_zbQTNDE72JjL3rabgaqyw",
+   "thumbnail": "assets/img/ext/752835b6aeecdf8a.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -21870,7 +22103,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/okwyOUKOVf8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpvmwtKp6jAGXAT-1LBEgaA_OjBA",
+   "thumbnail": "assets/img/ext/c38009c4c1db1be4.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -21891,7 +22124,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/sTz7QLKvlrg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHLXSqHtn3ypgX-ErskqfG-rna9g",
+   "thumbnail": "assets/img/ext/a98dd4899dd80068.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -21913,7 +22146,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/3g1h5UbPimY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBeKFUwDw==&rs=AOn4CLDOE2NlRaVGUCs8VkXng3hMC61WYQ",
+   "thumbnail": "assets/img/ext/b5eb0e486026c962.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -21934,7 +22167,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/sa1rsQT9df0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8BouPxdZxvWxJC-sUautgl4Wh6Q",
+   "thumbnail": "assets/img/ext/76a1810ca6a8e6b6.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -21955,7 +22188,7 @@ window.ARCHIVE = {
    "channel": "JIJIPRESS/時事通信芸能動画ニュース",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yb8Kqb_WUG4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5hPL4E6Z46aTzBOi0fa7vVM3Z5A",
+   "thumbnail": "assets/img/ext/fff179b8db6ebb70.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -21976,7 +22209,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/xlIBfL1sOcg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkSw_urI0s_nKIlQXWrMIbe8xQug",
+   "thumbnail": "assets/img/ext/5fa385ddbc727b5c.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -21998,7 +22231,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/XgiT7y8zBnw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7VDysHhLsD4g0DS9AtJIxIn5qHA",
+   "thumbnail": "assets/img/ext/877bb6e9fe981a4a.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22019,7 +22252,7 @@ window.ARCHIVE = {
    "channel": "おけぴネット",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/nksmqPo8PXM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5j6IimY7BqR1eIddlvVux377KwA",
+   "thumbnail": "assets/img/ext/37379331bf6f8cf5.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22040,7 +22273,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/0g3ZhFdlDj4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDx3xtSuWmlK_PqD2t1QeF08MB9yg",
+   "thumbnail": "assets/img/ext/0c37c311487ded62.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22061,7 +22294,7 @@ window.ARCHIVE = {
    "channel": "ミュージック・エア",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/kB1halztCbY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBD9mcadwQ5NukPFKONx-R9hMcUYQ",
+   "thumbnail": "assets/img/ext/c1e0fb66ebc39215.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22082,7 +22315,7 @@ window.ARCHIVE = {
    "channel": "ミュージック・エア",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/1G4VldyUdIE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQH7-FR62987t5p2J6fsw-anUNuQ",
+   "thumbnail": "assets/img/ext/81f09a15ebc4bbef.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22103,7 +22336,7 @@ window.ARCHIVE = {
    "channel": "【公式】TBS芸能&情報まとめ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/6ShW86E7yAU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDvFUGTRFGnKY5SkFUtX20CqaHF9w",
+   "thumbnail": "assets/img/ext/698cbe08938c638e.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22124,7 +22357,7 @@ window.ARCHIVE = {
    "channel": "MANTAN TV",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/RlMDLOexM5E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAt3GTMG47FDmOMVtbw9FhhK_jtxg",
+   "thumbnail": "assets/img/ext/056b637a2832dbbb.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22145,7 +22378,7 @@ window.ARCHIVE = {
    "channel": "【公式】TBS芸能&情報まとめ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Ec_t290Za0Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8TOJlqwYEzpjpvA9We5DvWXnYLQ",
+   "thumbnail": "assets/img/ext/08ca77d4b63723ca.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22166,7 +22399,7 @@ window.ARCHIVE = {
    "channel": "MANTAN TV",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/pvPDrs9rSSw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCusm6TOmKKRQb_IWwtTKDPy8udFw",
+   "thumbnail": "assets/img/ext/d126f12579c9a3cc.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22187,7 +22420,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/EWuzyA6UxLc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-dyldKSoawXa1tTKe0OhweZSdpg",
+   "thumbnail": "assets/img/ext/f20a94e23c785550.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22208,7 +22441,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/dYhneTTd768/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVEsYPJIJFl9G3-uW00Pvm0dPVgg",
+   "thumbnail": "assets/img/ext/c6baf62cf83550de.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22229,7 +22462,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Y2z_qoOIQVc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_J2NUdDoiCYASjgRnvsvmF2rHLg",
+   "thumbnail": "assets/img/ext/59daea45d4e95d48.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22250,7 +22483,7 @@ window.ARCHIVE = {
    "channel": "日テレNEWSカルチャー【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Z0xeHjuJqUE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDISn63s1GQvmV8bvjof3DV82TkoA",
+   "thumbnail": "assets/img/ext/57bd2f1375518093.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22271,7 +22504,7 @@ window.ARCHIVE = {
    "channel": "【公式】TBS芸能&情報まとめ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/kwzvPcpSAdc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0kSYgmff0CWQgrj3MRIjBELv3PQ",
+   "thumbnail": "assets/img/ext/8d3345278cbde89e.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22292,7 +22525,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/K7DPynI9ABI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNXFqv81xPtQlnJ3uDQB7aLHWDVA",
+   "thumbnail": "assets/img/ext/77b85e99266d8321.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22313,7 +22546,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/d1bPgaMakiQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ0CLGQSb4gvd9taHgd5gmkdyjXw",
+   "thumbnail": "assets/img/ext/f4b56ef32e4ff1e9.jpg",
    "playlists": [
     "東啓介 2026 舞台キングダムⅡ 継承"
    ],
@@ -22334,7 +22567,7 @@ window.ARCHIVE = {
    "channel": "東映特撮YouTube Official",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/z7Pd-5nNOSk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1WwPHdQFl2IqpJXeVe30ZpYw9OA",
+   "thumbnail": "assets/img/ext/3cec96d5fd5890df.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22355,7 +22588,7 @@ window.ARCHIVE = {
    "channel": "東映特撮YouTube Official",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/cQHjgl5dyAA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASV6jdjCgPnD_sgLbaja-YKZOldw",
+   "thumbnail": "assets/img/ext/906458ca50840fcd.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22376,7 +22609,7 @@ window.ARCHIVE = {
    "channel": "oricon",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/GTKfOKIZ-ME/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA3rb4byYrO_2VwEFGVKjNl7EuBRg",
+   "thumbnail": "assets/img/ext/76031f19c0988ade.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22397,7 +22630,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/eIsBS9RmPtU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIU5ISiAFFPKKf_DorYMDHeL5vzA",
+   "thumbnail": "assets/img/ext/237ced7734f69d7a.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22418,7 +22651,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/a7xOIwwNLOA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAir0HaigDXfYvPwytwalFpVGvIyQ",
+   "thumbnail": "assets/img/ext/202acd72b8ff3baa.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22439,7 +22672,7 @@ window.ARCHIVE = {
    "channel": "oricon",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/klfi7fnJWPM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDE4oee8Ud_2kaik453XXGwvi7qlA",
+   "thumbnail": "assets/img/ext/32ff2cde82bf93e9.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22460,7 +22693,7 @@ window.ARCHIVE = {
    "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/SZEK7hWKliE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBgwDw==&rs=AOn4CLCMlgJ_OvYSS6reusRIF3pFBLNZ7g",
+   "thumbnail": "assets/img/ext/0ea77cabbf943162.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22481,7 +22714,7 @@ window.ARCHIVE = {
    "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/9VPedwZW6vg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbG_1jqn1qX4YGK02rVLTviZDugw",
+   "thumbnail": "assets/img/ext/53dd773b7c4cc697.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22502,7 +22735,7 @@ window.ARCHIVE = {
    "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/sKfbmuKkuZY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADUpVnyOiSXuurVX67wkQ17oiQwA",
+   "thumbnail": "assets/img/ext/fc270fe7fa42d003.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22523,7 +22756,7 @@ window.ARCHIVE = {
    "channel": "東映特撮YouTube Official",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/HTb2pl7yHC4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHphG-2HaKMJXM9IUeJLdHUZIYog",
+   "thumbnail": "assets/img/ext/4f28cfe48c1c5cb6.jpg",
    "playlists": [
     "東啓介 2026 仮面ライダーマイス"
    ],
@@ -22544,7 +22777,7 @@ window.ARCHIVE = {
    "channel": "映画『ブルーロック』チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/7z-mf3a4X2E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbGWdFgyAQo7QAjTq1RWcowEWRRA",
+   "thumbnail": "assets/img/ext/4e41d058e6133cc7.jpg",
    "playlists": [
     "東啓介 2026 ブルーロック"
    ],
@@ -22565,7 +22798,7 @@ window.ARCHIVE = {
    "channel": "映画『ブルーロック』チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/pfAjxZqCw44/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUF311SHqROG9Kl2QEcqFc65IVKg",
+   "thumbnail": "assets/img/ext/580706c605c84694.jpg",
    "playlists": [
     "東啓介 2026 ブルーロック"
    ],
@@ -22586,7 +22819,7 @@ window.ARCHIVE = {
    "channel": "animate Times",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/WZvtwa2QghM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0bFUzlTqQOS_voCuiCrSD_BHxsQ",
+   "thumbnail": "assets/img/ext/e72f754bed42fad8.jpg",
    "playlists": [
     "東啓介 2026 ブルーロック"
    ],
@@ -22607,7 +22840,7 @@ window.ARCHIVE = {
    "channel": "映画『ブルーロック』チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/gjkR_2NFHxY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGr6htbb7tRV9Reo96PwDF8vpKUg",
+   "thumbnail": "assets/img/ext/fdc1bd23cb8288e3.jpg",
    "playlists": [
     "東啓介 2026 ブルーロック"
    ],
@@ -22628,7 +22861,7 @@ window.ARCHIVE = {
    "channel": "映画『ブルーロック』チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/v7ywW3Oj3fo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAS3Ih4ntCri4MiS-iPNeTyf6hEPQ",
+   "thumbnail": "assets/img/ext/a5bf17d77907e7ee.jpg",
    "playlists": [
     "東啓介 2026 ブルーロック"
    ],
@@ -22649,7 +22882,7 @@ window.ARCHIVE = {
    "channel": "映画『ブルーロック』チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/PXK_cInXWwA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwcTv5vdYHJIycMLSuMMeSKeLLCA",
+   "thumbnail": "assets/img/ext/a1ca814ef572a8e7.jpg",
    "playlists": [
     "東啓介 2026 ブルーロック"
    ],
@@ -22670,7 +22903,7 @@ window.ARCHIVE = {
    "channel": "CL Official YouTube Channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/1fbwOcFEASg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVJopEq815nM23yy7bbfb-Bf1QnA",
+   "thumbnail": "assets/img/ext/a5a92ccd6d003e36.jpg",
    "playlists": [
     "東啓介 2026 ブルーロック"
    ],
@@ -22691,7 +22924,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/tSfsOIXDSR0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAB6ti2uUXmjkMfL6Om7cG4BW_5rA",
+   "thumbnail": "assets/img/ext/4fa862da0d9132fa.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22713,7 +22946,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/L0ZOUa3tZ8U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAevLjwRYJG92Jc1jRapCy924RnFQ",
+   "thumbnail": "assets/img/ext/b1195f0eba6c470d.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22735,7 +22968,7 @@ window.ARCHIVE = {
    "channel": "石井一孝の情熱マニアchannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/-fq8P9gHcnA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_5r5-cMGFWZrelze5xelPRX3U4g",
+   "thumbnail": "assets/img/ext/bbc95402de788b35.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22757,7 +22990,7 @@ window.ARCHIVE = {
    "channel": "石井一孝の情熱マニアchannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/jpRbH2fes4I/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYfyATKB4wDw==&rs=AOn4CLBKLZhQwF1oVGgukHLd1zZXKSq4sg",
+   "thumbnail": "assets/img/ext/15547e926a2443b2.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22779,7 +23012,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/c32MiGQ1TU4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDC16jhSjE8ziXiwlyRgBRa_55Uag",
+   "thumbnail": "assets/img/ext/202bfd0e5153f31c.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22801,7 +23034,7 @@ window.ARCHIVE = {
    "channel": "新歌舞伎座 SHINKABUKIZA",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/3Ih3b4cGKU8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSCBcKGUwDw==&rs=AOn4CLC_ayzy0YRV8XlQ4b45raFghx_4Lw",
+   "thumbnail": "assets/img/ext/8b0eb45191185e3c.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22823,7 +23056,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ecZ-mNoxAI8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcIY018uVgmY7eDQaqeErO2e7NZg",
+   "thumbnail": "assets/img/ext/37871b411f4b0636.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)",
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
@@ -22847,7 +23080,7 @@ window.ARCHIVE = {
    "channel": "新歌舞伎座 SHINKABUKIZA",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/pakliZdcpWs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBM8gYtzMLx2pMFmNf7JtuK0bKgKA",
+   "thumbnail": "assets/img/ext/027b593dd3264516.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22869,7 +23102,7 @@ window.ARCHIVE = {
    "channel": "博多座チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/XK8uEh1kIVM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4L_Ni6FYG14jXEsdwyNFyFMUSNw",
+   "thumbnail": "assets/img/ext/a3e4cf2e137dd17a.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22891,7 +23124,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/QWSKBjG6_mw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA8KDowDw==&rs=AOn4CLBS3k5RcY2j5saYrRXs00uC-NCn3w",
+   "thumbnail": "assets/img/ext/38183cdb34b6d677.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22913,7 +23146,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/vIkahNKrw9M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAcKBUwDw==&rs=AOn4CLDNhcFnxAg8CINDH0GS4gg4yJIT5g",
+   "thumbnail": "assets/img/ext/7c2d160bfd14c62e.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22935,7 +23168,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/gJMztELBKgc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAhKBswDw==&rs=AOn4CLBMS2HhuA8aQs9tltRFcjSVxOU75w",
+   "thumbnail": "assets/img/ext/d416b9f31fa39980.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22957,7 +23190,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/UUyoZY7ZgyE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyA8KC0wDw==&rs=AOn4CLCtga8x_Mwn7OhecSnLalwOK1VLwg",
+   "thumbnail": "assets/img/ext/05cf5ec47509daf0.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -22979,7 +23212,7 @@ window.ARCHIVE = {
    "channel": "キョードー東北",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/V5B54irF_OY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr1AF47Bxpq3MKocHa6oSdMXN75Q",
+   "thumbnail": "assets/img/ext/a490ec090db1be14.jpg",
    "playlists": [
     "ジャージー・ボーイズ2022-2025 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -23001,7 +23234,7 @@ window.ARCHIVE = {
    "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/EnbsoErdPGc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYPSBlKDowDw==&rs=AOn4CLB2NTE7k-5iP1qu2evw8h0tA6e6wg",
+   "thumbnail": "assets/img/ext/e256c6e3147b66a2.jpg",
    "playlists": [
     "東啓介 2013 テニミュ"
    ],
@@ -23022,7 +23255,7 @@ window.ARCHIVE = {
    "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/O1qwx9YeEGI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYNiBYKH8wDw==&rs=AOn4CLBQxGaFtiaYUtSaQy7gWRmGjpEwvg",
+   "thumbnail": "assets/img/ext/3e688c9c3df2c889.jpg",
    "playlists": [
     "東啓介 2013 テニミュ"
    ],
@@ -23043,7 +23276,7 @@ window.ARCHIVE = {
    "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/pJ8WM6ZjB0M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYciBOKCwwDw==&rs=AOn4CLBUttQVm7CrVbOyZw37EB-K6vaPLg",
+   "thumbnail": "assets/img/ext/daa60321eb3aa95a.jpg",
    "playlists": [
     "東啓介 2013 テニミュ"
    ],
@@ -23064,7 +23297,7 @@ window.ARCHIVE = {
    "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/JSw3CZ6T6ro/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZJnrk3t8h7MEbB4hQ9Vj2_uVnfQ",
+   "thumbnail": "assets/img/ext/f5fd99db3c69ab0f.jpg",
    "playlists": [
     "東啓介 2013 テニミュ"
    ],
@@ -23085,7 +23318,7 @@ window.ARCHIVE = {
    "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/mZBvO3s39nA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBWKFkwDw==&rs=AOn4CLA5nVRhRlOUytDFXzhzUAPWc8f2Vw",
+   "thumbnail": "assets/img/ext/28c912254c564507.jpg",
    "playlists": [
     "東啓介 2013 テニミュ"
    ],
@@ -23106,7 +23339,7 @@ window.ARCHIVE = {
    "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/q6VF3dN7VgU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdAGgALeA4oCDAgAEAEYZSBTKEgwDw==&rs=AOn4CLCCCFnIx2lvAhBoj6x1IrrIF5bH1A",
+   "thumbnail": "assets/img/ext/c94b34146b265389.jpg",
    "playlists": [
     "東啓介 2013 テニミュ"
    ],
@@ -23127,7 +23360,7 @@ window.ARCHIVE = {
    "channel": "ミュージカル『テニスの王子様』シリーズ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ZIOD5qnM7Do/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBUKE8wDw==&rs=AOn4CLDRVb7FJ-wTagFXbaQgZboSy15KxQ",
+   "thumbnail": "assets/img/ext/238f72bc8b27f58a.jpg",
    "playlists": [
     "東啓介 2013 テニミュ"
    ],
@@ -23148,7 +23381,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/F7rOBM2W63c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJlO8Y7BHnv4UXWBTjmtaMVy8OWA",
+   "thumbnail": "assets/img/ext/ebe4b84720a31702.jpg",
    "playlists": [
     "東啓介 2023 ラグタイム"
    ],
@@ -23169,7 +23402,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/E8Y1uiiUF_E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASWMpPOP9FX_Hh-CiJldNuFl1ZGg",
+   "thumbnail": "assets/img/ext/6d118bc4e8e6789f.jpg",
    "playlists": [
     "東啓介 2023 ラグタイム",
     "東啓介 歌"
@@ -23191,7 +23424,7 @@ window.ARCHIVE = {
    "channel": "JIJIPRESS/時事通信芸能動画ニュース",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/BV6956LaS-M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8zbwAoGvvfWGvovD_3OZWRmJ-Yg",
+   "thumbnail": "assets/img/ext/78971ff3b9b86306.jpg",
    "playlists": [
     "東啓介 2023 ラグタイム"
    ],
@@ -23212,7 +23445,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/vYtbI_wPC2k/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYVSBeKGUwDw==&rs=AOn4CLB2Ii160nOKqlHyBqzQaNdXf7QrCw",
+   "thumbnail": "assets/img/ext/f2ddae216c720c2e.jpg",
    "playlists": [
     "東啓介 2023 ラグタイム"
    ],
@@ -23233,7 +23466,7 @@ window.ARCHIVE = {
    "channel": "【公式】TBS芸能&情報まとめ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/CbmMXDMzr4k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHLd2EQ5crxlbCEinF-5lVta34vg",
+   "thumbnail": "assets/img/ext/0cd0e787ca5e6f06.jpg",
    "playlists": [
     "東啓介 2023 ラグタイム"
    ],
@@ -23254,7 +23487,7 @@ window.ARCHIVE = {
    "channel": "JIJIPRESS/時事通信芸能動画ニュース",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/1k0UY_4Ad0w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOj8VyGf167WZexFd_b23U9R2fzA",
+   "thumbnail": "assets/img/ext/f7122fc05dc93c19.jpg",
    "playlists": [
     "東啓介 2023 ラグタイム"
    ],
@@ -23275,7 +23508,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/BkLlGlkBQws/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0sLr7_eX0tLYoqo6LOgNurcRJ6A",
+   "thumbnail": "assets/img/ext/f3bb461371ed2da1.jpg",
    "playlists": [
     "東啓介 2023 ラグタイム"
    ],
@@ -23296,7 +23529,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/LrkhLv8z3ZY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCFquNlWu7Pj1Iof-MkRr7k8DCDg",
+   "thumbnail": "assets/img/ext/c0e2986cf372c0d1.jpg",
    "playlists": [
     "東啓介 2023 ラグタイム"
    ],
@@ -23317,7 +23550,7 @@ window.ARCHIVE = {
    "channel": "ギャガ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Lw3yMhOmE-c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLACWHhYTN14h4du80G35p2IfOe1EQ",
+   "thumbnail": "assets/img/ext/d39d66222a080ccf.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23339,7 +23572,7 @@ window.ARCHIVE = {
    "channel": "ギャガ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/15vv317-0ow/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7CsMVeFX-qcFKn0ncyaEDjZ3Krg",
+   "thumbnail": "assets/img/ext/8eac0c7a3265c2ce.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23361,7 +23594,7 @@ window.ARCHIVE = {
    "channel": "ギャガ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/K43A_Euy30w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDtbP-MjeRCu9TDzIfCzTjk3w5O4Q",
+   "thumbnail": "assets/img/ext/d54110ef602a2bf2.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23383,7 +23616,7 @@ window.ARCHIVE = {
    "channel": "東海テレビ 公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/V-5VydFvkOo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDuyJdVvGgW6gkCqybNWcYO4J9dCA",
+   "thumbnail": "assets/img/ext/19d5ca68eb520feb.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23405,7 +23638,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/KxeudWn9KZQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpibA7NURKiUsmqij3xWSjp_xftg",
+   "thumbnail": "assets/img/ext/8829aa40937fcfbe.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23427,7 +23660,7 @@ window.ARCHIVE = {
    "channel": "oricon",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/NJuQcqoxBxk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHGIIItW6qsN_JhhFHHvwQ4AgGDw",
+   "thumbnail": "assets/img/ext/53fade1dadcc1549.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23449,7 +23682,7 @@ window.ARCHIVE = {
    "channel": "ギャガ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/fVfE_apEhpo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8w1n03HKSNIWVpXgqYzmUTiROkg",
+   "thumbnail": "assets/img/ext/82acb07ca5ac1eb0.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23471,7 +23704,7 @@ window.ARCHIVE = {
    "channel": "ギャガ公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/pqYg8t4cFQk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBg2zgyACzACbCjdVFg5eqgksgAUQ",
+   "thumbnail": "assets/img/ext/aa2e2a9e1413408f.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23493,7 +23726,7 @@ window.ARCHIVE = {
    "channel": "oricon",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/5ArkZQN9kb4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0W7Ijgpfa-HeMe-7f4vs6JyyNhg",
+   "thumbnail": "assets/img/ext/f4e2b8a7a1cb7c66.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23515,7 +23748,7 @@ window.ARCHIVE = {
    "channel": "ザテレビジョン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/takIM5eYh4w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDr3itWciwolEtdcBT45wNJMVJQ1A",
+   "thumbnail": "assets/img/ext/7428a5c29439855a.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23537,7 +23770,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/rgGl1ak28fA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgPD2b8v8tqlsJ5kcsY9MsgzQ41g",
+   "thumbnail": "assets/img/ext/0613997a0a2795ac.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23559,7 +23792,7 @@ window.ARCHIVE = {
    "channel": "マイナビニュース【エンタメ・ホビー】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/AE4ikpdzmdE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6-BwHaVWOuUtxO4rtHXcTYwSRgQ",
+   "thumbnail": "assets/img/ext/0250ff5fa6d8551b.jpg",
    "playlists": [
     "東啓介 2024-2025 おっさんのパンツがなんだっていいじゃないか"
    ],
@@ -23581,7 +23814,7 @@ window.ARCHIVE = {
    "channel": "ショートドラマ【BUMP】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/PadjmtzQjG8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYSSBlKFYwDw==&rs=AOn4CLAmqKnijEMcVnrpdutY_SO81Y1W3A",
+   "thumbnail": "assets/img/ext/517a18053dcc5a86.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23602,7 +23835,7 @@ window.ARCHIVE = {
    "channel": "BUMPドラマ【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/m22O3yV7XqM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUhMn-Owy26OTmd5FpxzDSp599Yg",
+   "thumbnail": "assets/img/ext/31a330f5f54e3465.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23623,7 +23856,7 @@ window.ARCHIVE = {
    "channel": "BUMPドラマ【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/_HJrqdA820s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMCCwCeuWBNc4VrtHTNwHA33ugTA",
+   "thumbnail": "assets/img/ext/2e1887fe4a3e3d89.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23644,7 +23877,7 @@ window.ARCHIVE = {
    "channel": "BUMPドラマ【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/wBkmtgIUfK4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVwN_IF-ELCW2MGrmOUkwdiK5OSA",
+   "thumbnail": "assets/img/ext/b9d4bb57c41b0db7.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23665,7 +23898,7 @@ window.ARCHIVE = {
    "channel": "BUMPドラマ【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/4lD8P1_VE8w/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKEMwDw==&rs=AOn4CLA-f6LEMKnvmUFTPjuYSXUqr66BtQ",
+   "thumbnail": "assets/img/ext/e02725ef4c1af77a.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23686,7 +23919,7 @@ window.ARCHIVE = {
    "channel": "BUMPドラマ【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Tre7NfVFk6o/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBfKFcwDw==&rs=AOn4CLD1mbVXV3qdX3C6aG2_2KFBztq5Gw",
+   "thumbnail": "assets/img/ext/01374fa8b7f5e8a5.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23707,7 +23940,7 @@ window.ARCHIVE = {
    "channel": "BUMP切り抜き【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yTUc2Nb5F20/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBTKDswDw==&rs=AOn4CLBKLFcTsqUXE44cwgAunxoWT3-YAQ",
+   "thumbnail": "assets/img/ext/852d58c227fba7cf.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23728,7 +23961,7 @@ window.ARCHIVE = {
    "channel": "BUMP切り抜き【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/tp-RX8Qxm24/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYTiBlKF0wDw==&rs=AOn4CLDUQXT2dSBW8MDs95cdR_u1li_4VQ",
+   "thumbnail": "assets/img/ext/160f8ee9ef9224bb.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23749,7 +23982,7 @@ window.ARCHIVE = {
    "channel": "【DMMショート】切り抜き",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/YWnAgZOkUcU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBWKDowDw==&rs=AOn4CLCSHs2oOPV1gMmLxJUkx9qNV8otvw",
+   "thumbnail": "assets/img/ext/d0ff2b9e498dd92e.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23770,7 +24003,7 @@ window.ARCHIVE = {
    "channel": "【DMMショート】切り抜き",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/u9bAu_dq5MU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKD8wDw==&rs=AOn4CLDssY55QlN9CiQ2CYPZQPC1o9zmzw",
+   "thumbnail": "assets/img/ext/137f62d3d80c8767.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23791,7 +24024,7 @@ window.ARCHIVE = {
    "channel": "【DMMショート】切り抜き",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/mpHpquev-K4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBbKEMwDw==&rs=AOn4CLAPwnHEhrlonJD9juYmNrmb7phCXw",
+   "thumbnail": "assets/img/ext/a553467bbc2653f9.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23812,7 +24045,7 @@ window.ARCHIVE = {
    "channel": "【DMMショート】切り抜き",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/u-wGHXXntMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBYKEMwDw==&rs=AOn4CLB7eiCDeemlDtp8kxHcnKmin8-hkg",
+   "thumbnail": "assets/img/ext/b048e1ace46213e8.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23833,7 +24066,7 @@ window.ARCHIVE = {
    "channel": "BUMPドラマ【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ihE7Vx7tjSE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKDUwDw==&rs=AOn4CLCXintk68S8Cf-QgOULtZWmrgAdcw",
+   "thumbnail": "assets/img/ext/e902a44416a13526.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23854,7 +24087,7 @@ window.ARCHIVE = {
    "channel": "【DMMショート】切り抜き",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/_4RacP-OtSg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYPyBlKFwwDw==&rs=AOn4CLAAh_fI4Wzu7jZUGTaP0uNYBiYYpg",
+   "thumbnail": "assets/img/ext/d30991544a692d43.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23875,7 +24108,7 @@ window.ARCHIVE = {
    "channel": "BUMP切り抜き【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/h4M0gPiFM30/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBZKDowDw==&rs=AOn4CLAY0kTenWeIpvDFUfIN4L_wXWlOuQ",
+   "thumbnail": "assets/img/ext/0b587b9fba157e03.jpg",
    "playlists": [
     "東啓介 2025 ぼくとぼくが好きな彼と、君と。"
    ],
@@ -23896,7 +24129,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/D8r_YIZdwKo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCb7Hit-6kvfTO0hUvlWmoo8dlS3A",
+   "thumbnail": "assets/img/ext/09b1f45d329607d4.jpg",
    "playlists": [
     "東啓介 2017 スカーレット・ピンパーネル"
    ],
@@ -23917,7 +24150,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/DTE9EzwUWhs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDl-huOjGmiV5fTDQF4sD7RRV7yvQ",
+   "thumbnail": "assets/img/ext/602860b02c4554ae.jpg",
    "playlists": [
     "東啓介 2017 スカーレット・ピンパーネル"
    ],
@@ -23938,7 +24171,7 @@ window.ARCHIVE = {
    "channel": "エントレ 演劇動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/fDn_xCRJ8w4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAQ1rr9rg-F1JGWk8WEThFCIrCS6g",
+   "thumbnail": "assets/img/ext/11732c4e3aa523c7.jpg",
    "playlists": [
     "東啓介 2017 スカーレット・ピンパーネル"
    ],
@@ -23959,7 +24192,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/79Tk5LgzS9M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAjZhXwCLY68YXvn5x37j8jhd7mEA",
+   "thumbnail": "assets/img/ext/c377db0def52e5fd.jpg",
    "playlists": [
     "東啓介 2017 スカーレット・ピンパーネル"
    ],
@@ -23980,7 +24213,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/KxfBvX3iSzU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAdK-3AX56QZHmaQ80B4MlaPHe8UQ",
+   "thumbnail": "assets/img/ext/5200bea92f6782e0.jpg",
    "playlists": [
     "東啓介 2017 スカーレット・ピンパーネル"
    ],
@@ -24001,7 +24234,7 @@ window.ARCHIVE = {
    "channel": "明治座公式YouTubeチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/w39FfpQ5i2w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6PsVP0WcXQARu9lLdFoAPyIc_vQ",
+   "thumbnail": "assets/img/ext/6c8e61286a87327a.jpg",
    "playlists": [
     "東啓介 2020 恋燃ゆる"
    ],
@@ -24022,7 +24255,7 @@ window.ARCHIVE = {
    "channel": "JIJIPRESS/時事通信芸能動画ニュース",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/OKH_bC0wg5Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyavud5FT2Bk0P2AbxpPJYYcT9Hg",
+   "thumbnail": "assets/img/ext/95df88b267b7312d.jpg",
    "playlists": [
     "東啓介 2020 恋燃ゆる"
    ],
@@ -24043,7 +24276,7 @@ window.ARCHIVE = {
    "channel": "明治座公式YouTubeチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ZhEELCTq3tM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFbcqNj6qfjcSak2CiJnCHVsJmIg",
+   "thumbnail": "assets/img/ext/35d96ecedde9c049.jpg",
    "playlists": [
     "東啓介 2020 恋燃ゆる"
    ],
@@ -24064,7 +24297,7 @@ window.ARCHIVE = {
    "channel": "明治座公式YouTubeチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/4eOorayHphA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXbbtEcSxkqxQn_AEHllnttMQtAA",
+   "thumbnail": "assets/img/ext/2f5d701280f4521f.jpg",
    "playlists": [
     "東啓介 2020 恋燃ゆる"
    ],
@@ -24085,7 +24318,7 @@ window.ARCHIVE = {
    "channel": "明治座公式YouTubeチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Hxk7GEd5F_8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5ryiL_Al8ajtDGAoWOdKoxUmatA",
+   "thumbnail": "assets/img/ext/f4eb65ff5fcf7a0d.jpg",
    "playlists": [
     "東啓介 2020 恋燃ゆる"
    ],
@@ -24106,7 +24339,7 @@ window.ARCHIVE = {
    "channel": "TIMELINE - タイムライン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/mbqWnqx_GS4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNkxJViU5NR-avR8-ZbaLyPIVTEw",
+   "thumbnail": "assets/img/ext/8dc800e4ff3bdd0f.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24128,7 +24361,7 @@ window.ARCHIVE = {
    "channel": "TIMELINE - タイムライン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/eR4WyQs5Fk8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLZRLkDK02ySFgUEdJ8_r3ffSLUQ",
+   "thumbnail": "assets/img/ext/d20384742126c905.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24150,7 +24383,7 @@ window.ARCHIVE = {
    "channel": "TIMELINE - タイムライン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/V4Linc0JINA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDL42zCxGUYXl5IZ22ZKVbsg-aM4w",
+   "thumbnail": "assets/img/ext/f836048ee1e1cc94.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24172,7 +24405,7 @@ window.ARCHIVE = {
    "channel": "TIMELINE - タイムライン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/h3CvVkGFxJI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAZba0QVnes3dwl8Byk5AZ0l7pZyw",
+   "thumbnail": "assets/img/ext/cd19822d3c368c38.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24194,7 +24427,7 @@ window.ARCHIVE = {
    "channel": "TIMELINE - タイムライン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/DG2SNGa-vVE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyA5KC8wDw==&rs=AOn4CLDh_plX5dSOmMTEXNLl1Cgq409gww",
+   "thumbnail": "assets/img/ext/52f511b0b703f3c3.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24216,7 +24449,7 @@ window.ARCHIVE = {
    "channel": "TIMELINE - タイムライン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/r9cN36MGX2A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBhnLzSVHaopGUH-zHwabCP-gnPMQ",
+   "thumbnail": "assets/img/ext/0180eab40953e517.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24238,7 +24471,7 @@ window.ARCHIVE = {
    "channel": "TIMELINE - タイムライン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/MRrQvA_9fMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBSKEAwDw==&rs=AOn4CLAxrTL151JJ2zLXYive_xcXAqXnsQ",
+   "thumbnail": "assets/img/ext/e8667261155a7e45.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24260,7 +24493,7 @@ window.ARCHIVE = {
    "channel": "TIMELINE - タイムライン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/f3BJWAVjrcI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBHKC4wDw==&rs=AOn4CLC0tceGmHMRwjcB-oSS7tUTZVdEbw",
+   "thumbnail": "assets/img/ext/4e3cdce502a68f26.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24282,7 +24515,7 @@ window.ARCHIVE = {
    "channel": "カワニシカバンの休日",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/u6W4OrtxgnU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNhmYZGLZXjG3jGgzudF86-asB9w",
+   "thumbnail": "assets/img/ext/d320a1a7ad1513a6.jpg",
    "playlists": [
     "東啓介 2022-2023 カメラ旅"
    ],
@@ -24304,7 +24537,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/AHvAQBT5Dbg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCc2j2R5ndKWowceXX0ek1kvcflFQ",
+   "thumbnail": "assets/img/ext/f4cee3cfb1dae920.jpg",
    "playlists": [
     "東啓介 2017-2018 TRUMPシリーズ",
     "東啓介 歌"
@@ -24327,7 +24560,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/AH7rsvUeZN8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBAEyekpnk0cXLGIZP4TJuX0FH60Q",
+   "thumbnail": "assets/img/ext/dcac64e561c7328b.jpg",
    "playlists": [
     "東啓介 2017-2018 TRUMPシリーズ",
     "東啓介 歌"
@@ -24350,7 +24583,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/TrTEDXyD8cs/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYLyBBKH8wD7gC8xg=&rs=AOn4CLCSJTkVotYHaa8FxEuVB15pOsAZhA",
+   "thumbnail": "assets/img/ext/b5852845363b4a6b.jpg",
    "playlists": [
     "東啓介 2017-2018 TRUMPシリーズ"
    ],
@@ -24372,7 +24605,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/uJLU1AgHH2Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBJwhMFcbsYd2GIyMk1W1wi8KFedQ",
+   "thumbnail": "assets/img/ext/63f376b5454f55c4.jpg",
    "playlists": [
     "東啓介 2017-2018 TRUMPシリーズ",
     "東啓介 歌"
@@ -24395,7 +24628,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/nH8f7OIAcN0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYWSBMKGUwD7gC8xg=&rs=AOn4CLD71Ch-wsCAXoOv-zQ4fmat6TCZww",
+   "thumbnail": "assets/img/ext/219afc4f9c1b0d25.jpg",
    "playlists": [
     "東啓介 2017-2018 TRUMPシリーズ"
    ],
@@ -24417,7 +24650,7 @@ window.ARCHIVE = {
    "channel": "ポニーキャニオンVIDEO",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Xpih6bICvBs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCmzlB1lpmegVmcYEJlPBmCnlYg9g",
+   "thumbnail": "assets/img/ext/46cbd837b8aa5ae2.jpg",
    "playlists": [
     "東啓介 2017-2018 TRUMPシリーズ"
    ],
@@ -24439,7 +24672,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/l2fdHeJA1eE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCaHZxKaMFvAM8EQOqhFBTKSo9qZQ",
+   "thumbnail": "assets/img/ext/38fde81c666363c8.jpg",
    "playlists": [
     "東啓介 2017-2018 TRUMPシリーズ"
    ],
@@ -24461,7 +24694,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Rv4bh6-iGHI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLD-sWHJlmCbhpErF283EEFyLID3Dw",
+   "thumbnail": "assets/img/ext/a3bd67dbef03bf46.jpg",
    "playlists": [
     "東啓介 2017-2018 TRUMPシリーズ"
    ],
@@ -24483,7 +24716,7 @@ window.ARCHIVE = {
    "channel": "BS-TBS公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/g7DACP1iScI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCyo4ft6oL0cfLT87QzYH8ulh2akg",
+   "thumbnail": "assets/img/ext/8db908ebead1ff76.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24502,7 +24735,7 @@ window.ARCHIVE = {
    "channel": "BS-TBS公式チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/LSaXLZTd7GU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCKKMBeX8RtTecUrb6R4n6yWVTmSQ",
+   "thumbnail": "assets/img/ext/dc7bbabfeb8ff365.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24521,7 +24754,7 @@ window.ARCHIVE = {
    "channel": "【公式】TBS芸能&情報まとめ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Fup2SyX_OGI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBUHk05H3gKDtGOUD5ZGeCHt63Sig",
+   "thumbnail": "assets/img/ext/21d68326b2ab6dd5.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24540,7 +24773,7 @@ window.ARCHIVE = {
    "channel": "東京ニュース通信社チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/75MdBW4tZTY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBZKFkwD7gC9xg=&rs=AOn4CLARiApx14mOVmdnvPFR6aLLpTnmFA",
+   "thumbnail": "assets/img/ext/52e1bfc75c24746d.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24559,7 +24792,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/OC7uW794590/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKEcwD7gC9xg=&rs=AOn4CLD-Jwe7IVwWvRKQDBwOiX72up2J4Q",
+   "thumbnail": "assets/img/ext/9f4917e6d2100e4f.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24578,7 +24811,7 @@ window.ARCHIVE = {
    "channel": "DeviewOfficial",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/aZCETIv2Npc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDjnpfCH90dV_vx30ll27FO1XeNBw",
+   "thumbnail": "assets/img/ext/0a927cec3b57c996.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24597,7 +24830,7 @@ window.ARCHIVE = {
    "channel": "東京ニュース通信社チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/a2e6hRYW5yU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBeKFEwD7gC9xg=&rs=AOn4CLBRqe6skwHT66CMdw_8UBobetMXQg",
+   "thumbnail": "assets/img/ext/2847ab90805080ff.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24616,7 +24849,7 @@ window.ARCHIVE = {
    "channel": "DeviewOfficial",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/zDHj8O3Hi8Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDmIYtlUgpPCQUfDs83mqkRbbjewQ",
+   "thumbnail": "assets/img/ext/87e4c2a57454daf1.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24635,7 +24868,7 @@ window.ARCHIVE = {
    "channel": "MANTAN TV",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/z1OOQ-Wrbao/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAPUzLqzMzgyFQY1cGqFGTE_t3V_A",
+   "thumbnail": "assets/img/ext/ad8902a721bd8c11.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24654,7 +24887,7 @@ window.ARCHIVE = {
    "channel": "東京ニュース通信社チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/6Oh66vnv84g/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA5KEowD7gC9xg=&rs=AOn4CLCwDrTjDeABy-iHQiI9JsHXbCHvAA",
+   "thumbnail": "assets/img/ext/13a3a15fbf393186.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24673,7 +24906,7 @@ window.ARCHIVE = {
    "channel": "MANTAN TV",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/7JijCuDPnfU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCR52cOFR2JH2olhos3C2HFBxLxxg",
+   "thumbnail": "assets/img/ext/8782dc9bee85b59e.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24692,7 +24925,7 @@ window.ARCHIVE = {
    "channel": "Da-iCE Official YouTube Channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/-b6HRNyMBSU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwD7gC9xg=&rs=AOn4CLAG9x2_Wj0XmFAL-2tf8zj4Y8h_kg",
+   "thumbnail": "assets/img/ext/5959009fc6d00d5e.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24711,7 +24944,7 @@ window.ARCHIVE = {
    "channel": "マチソワ Channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/4g79pBZNHDk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLB8s8oE3v22yoRQZ2cFe2KkaiTDlQ",
+   "thumbnail": "assets/img/ext/caf7366fcd8dd632.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24733,7 +24966,7 @@ window.ARCHIVE = {
    "channel": "マチソワ Channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/QJuXEN12tJI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDkpEjbJwZ9YwBrpDADGaRpWOfdSg",
+   "thumbnail": "assets/img/ext/1b0b19f7626a9d40.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24752,7 +24985,7 @@ window.ARCHIVE = {
    "channel": "フォトコン編集部",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ai6SEmeE9lg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAoM_HF7u4fAfr5wuk_YUT1Soa3Zw",
+   "thumbnail": "assets/img/ext/8f97dc11cbb487ee.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24771,7 +25004,7 @@ window.ARCHIVE = {
    "channel": "CanCam",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/JjCFokZKmIg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLA6eeS4R6iGhkjjGLN8H3SDYt5w9Q",
+   "thumbnail": "assets/img/ext/3ace3a302c33f84d.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24790,7 +25023,7 @@ window.ARCHIVE = {
    "channel": "ザテレビジョン",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/qQZglL0gS6Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLApWda21DgwVjGNOF3Od1fyhywF-A",
+   "thumbnail": "assets/img/ext/9b7fd231c00180cc.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24809,7 +25042,7 @@ window.ARCHIVE = {
    "channel": "MANTAN TV",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/9nsfPqZlbyU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLC183K40eMwgRJCj4OPvY3Jy8OPsw",
+   "thumbnail": "assets/img/ext/83b4feff175ae671.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24828,7 +25061,7 @@ window.ARCHIVE = {
    "channel": "MANTAN TV",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/8SFh8VbX8Rs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBmj2ygTN8KCBZAZ_KI9-W9g5Qzsw",
+   "thumbnail": "assets/img/ext/c80f412ccac8fdbe.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24847,7 +25080,7 @@ window.ARCHIVE = {
    "channel": "マチソワ Channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/H4PR-TNvs2A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLAwifQ8DB_vL3getIOWasUBOLlvvQ",
+   "thumbnail": "assets/img/ext/733a12912589792a.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24866,7 +25099,7 @@ window.ARCHIVE = {
    "channel": "DeviewOfficial",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/_0XZ9yFswhQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCgYW2f_wcjLW6roE1hRg-BW2J6sA",
+   "thumbnail": "assets/img/ext/48b37faea9a472c0.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24885,7 +25118,7 @@ window.ARCHIVE = {
    "channel": "東京ニュース通信社チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/K2b9XXw6bpA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBQdVP6x0V9ZKn25nXlA79VkNG6mA",
+   "thumbnail": "assets/img/ext/7951a03ab6d711e8.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24904,7 +25137,7 @@ window.ARCHIVE = {
    "channel": "TOKYO GIRLS COLLECTION",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/oHksN3f31_o/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBYKCwwD7gC9xg=&rs=AOn4CLCX4DAyynAua4aCueAhVRR881iJkA",
+   "thumbnail": "assets/img/ext/7a2d7ed199fe7d06.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24923,7 +25156,7 @@ window.ARCHIVE = {
    "channel": "文化放送",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/OYEvOfoTYmo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLApMKvEzKJVwI9pXBeXCLJLKlifMw",
+   "thumbnail": "assets/img/ext/6b67378aad52a6ec.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24942,7 +25175,7 @@ window.ARCHIVE = {
    "channel": "JIJIPRESS/時事通信芸能動画ニュース",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/EhumaPqcLd8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLA9dMBjmXn0C1t7jftjF58Xc1jRYQ",
+   "thumbnail": "assets/img/ext/e619fd8d1c67fbea.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24961,7 +25194,7 @@ window.ARCHIVE = {
    "channel": "DeviewOfficial",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/MQAQBY_5bdE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBXKEgwD7gC9xg=&rs=AOn4CLA9hVl-HvUX0P_P7S4ad00ZS3_K5A",
+   "thumbnail": "assets/img/ext/1b38f2d0b04a264a.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等"
    ],
@@ -24980,7 +25213,7 @@ window.ARCHIVE = {
    "channel": "ステージナタリー",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/vqQzvMpJneA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLB8QTftPX17pWERCmIVn3615tL_KQ",
+   "thumbnail": "assets/img/ext/38b6edfb8b4460a8.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等",
     "東啓介 2025 キンキーブーツ"
@@ -25002,7 +25235,7 @@ window.ARCHIVE = {
    "channel": "anan",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/jn_8qnQvReQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwD7gC9xg=&rs=AOn4CLA4ohvOmM17J4-FB2e-P8-N61u2Iw",
+   "thumbnail": "assets/img/ext/fc4b3b7fb166cdd2.jpg",
    "playlists": [
     "東啓介  番宣・インタビュー・オフショット・PR等",
     "東啓介 2025 キンキーブーツ"
@@ -25024,7 +25257,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/n5xS0TZwhSE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9HxJCR5rjl75VuNk2AQTMpbnzNw",
+   "thumbnail": "assets/img/ext/aeeb9c5e189f40f7.jpg",
    "playlists": [
     "東啓介 2018 5DAYS"
    ],
@@ -25045,7 +25278,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/_cCeqwBZ4J0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBY53IxHFo7Z0C8_95u1K-bmVNCEQ",
+   "thumbnail": "assets/img/ext/8401d49bdcf4363a.jpg",
    "playlists": [
     "東啓介 2018 5DAYS"
    ],
@@ -25066,7 +25299,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/2_UkRy2fOQw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUxXg37tN90TaQ_mySpY5zUgf0qg",
+   "thumbnail": "assets/img/ext/1d5701b0f7594570.jpg",
    "playlists": [
     "東啓介 2018 5DAYS"
    ],
@@ -25087,7 +25320,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/bUE0UERDYMM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSIhWLnTbYtZXjipU1W9NbEIjYMA",
+   "thumbnail": "assets/img/ext/5886027d0fe15644.jpg",
    "playlists": [
     "東啓介 2018 5DAYS"
    ],
@@ -25108,7 +25341,7 @@ window.ARCHIVE = {
    "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/rZ2KYmNEqw4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAx3YnQy6bliiB-ERFnn2myWB4Fag",
+   "thumbnail": "assets/img/ext/c51b27a6f6937028.jpg",
    "playlists": [
     "東啓介 2023 二次会のひとたち"
    ],
@@ -25129,7 +25362,7 @@ window.ARCHIVE = {
    "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/kdBhr7ock2k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCj-OvMm6fPPuFtoZjUYZTULNe0Mw",
+   "thumbnail": "assets/img/ext/5a3fc33bdcc43687.jpg",
    "playlists": [
     "東啓介 2023 二次会のひとたち"
    ],
@@ -25150,7 +25383,7 @@ window.ARCHIVE = {
    "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Yolag2Vh-7k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3rCMV_3MyxgjhGwyg6YURza6zQg",
+   "thumbnail": "assets/img/ext/0dc4ae921e8009d0.jpg",
    "playlists": [
     "東啓介 2023 二次会のひとたち"
    ],
@@ -25171,7 +25404,7 @@ window.ARCHIVE = {
    "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/_LyUckxlhAo/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBTKEIwDw==&rs=AOn4CLCZ-SdTCSeBTROZxwKJyLj83VjMDQ",
+   "thumbnail": "assets/img/ext/63720f5db4f76313.jpg",
    "playlists": [
     "東啓介 2023 二次会のひとたち"
    ],
@@ -25192,7 +25425,7 @@ window.ARCHIVE = {
    "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ID3qJ-zoXh4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5-ciGYwOv7PX8cxnregQiwNBwmA",
+   "thumbnail": "assets/img/ext/b1a1b7b069a66c79.jpg",
    "playlists": [
     "東啓介 2023 二次会のひとたち"
    ],
@@ -25213,7 +25446,7 @@ window.ARCHIVE = {
    "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/2YS9y8jsdmQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHyRzXhj4-3WMzCNI699uMCAChyQ",
+   "thumbnail": "assets/img/ext/3844574c9fd1604b.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 キンキーブーツ"
@@ -25235,7 +25468,7 @@ window.ARCHIVE = {
    "channel": "watanabe",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/boRc5-hnsMg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAU1qZUAY9V1X5lV6YxNUqQfLnlsQ",
+   "thumbnail": "assets/img/ext/861fef9cf8ffeb95.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25254,7 +25487,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/eBFFewdNJWM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvcgnLN5qw1qb5EYb_qhMzHhUk3A",
+   "thumbnail": "assets/img/ext/2ad306804e307d70.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25273,7 +25506,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/GF7l8BRFRh4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_gf3oNTHWXowJ_v223CEdd53tkQ",
+   "thumbnail": "assets/img/ext/d46d26a710d4e782.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25292,7 +25525,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yi86HdzfGjk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDz2v0JZFwj9bVOffPM031EiGhbfg",
+   "thumbnail": "assets/img/ext/1933941f4dc888bd.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25311,7 +25544,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/dAKVfOzqyKY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxPdANQjzxzFsM4OCpGNlRZzsGkw",
+   "thumbnail": "assets/img/ext/2fe0fc37fed14ce8.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 キンキーブーツ"
@@ -25334,7 +25567,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/7Pppy7NLDl4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4PKVor9rMsbitNRO4JNhXsbWV9w",
+   "thumbnail": "assets/img/ext/cd56a338b50d5b1c.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 キンキーブーツ"
@@ -25356,7 +25589,7 @@ window.ARCHIVE = {
    "channel": "ステージナタリー",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Azla2mQbVsM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBowDw==&rs=AOn4CLDK77grzpM-Ks7TwqbT6g-qUDKMmQ",
+   "thumbnail": "assets/img/ext/48ba572c7837b539.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 キンキーブーツ"
@@ -25378,7 +25611,7 @@ window.ARCHIVE = {
    "channel": "ステージナタリー",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/sjxrg7zV0Z8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYWSAvKH8wDw==&rs=AOn4CLAmhnfm1hnStcbZDfq2gas9b5JrMw",
+   "thumbnail": "assets/img/ext/2b81dcbc0eacbe6c.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 キンキーブーツ"
@@ -25400,7 +25633,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/g3Q5cflEb1w/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyATKBMwDw==&rs=AOn4CLBexfe2bCdP_bMAQZW16x32g99mjA",
+   "thumbnail": "assets/img/ext/408ceca0d8b981d4.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 キンキーブーツ"
@@ -25422,7 +25655,7 @@ window.ARCHIVE = {
    "channel": "【公式】TBS芸能&情報まとめ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/F1t-a8s_KFk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYESBlKHIwDw==&rs=AOn4CLCE71x52_jCtfYrHcegBDUdkR6vdA",
+   "thumbnail": "assets/img/ext/6e8589f1e955e76f.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 キンキーブーツ"
@@ -25444,7 +25677,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/h56RzZv3WBg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjDUfDXz4tiXBLVWnR0PvkFNNmiQ",
+   "thumbnail": "assets/img/ext/f52ac30982ab2c36.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2024 VIOLET"
@@ -25466,7 +25699,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/w9GeneGePig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ9q8gJfxiY06OFhr9JNSZ6kqV_Q",
+   "thumbnail": "assets/img/ext/1def7bb4f21be095.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2024 VIOLET"
@@ -25488,7 +25721,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/pUa4IpJkhhY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3IuAKU_-40e7x9_IgHdREMk46yg",
+   "thumbnail": "assets/img/ext/dd01ee53231e1fe7.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2024 VIOLET"
@@ -25510,7 +25743,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Lw3wJWc6dF4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBTKEAwDw==&rs=AOn4CLCChueESsV5BZxXeNxRf2Xw5kxNgw",
+   "thumbnail": "assets/img/ext/5ce2953f87a38ef5.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2024 VIOLET"
@@ -25532,7 +25765,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/2I5VWOQ8Nfk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSdNtitAalX-k19PO4xRq7bUfhYQ",
+   "thumbnail": "assets/img/ext/e48c7807eacfccfa.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25551,7 +25784,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Sf9TNXynoPw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYHSAkKH8wDw==&rs=AOn4CLCaHGyVv0jl5d6I2rNzhVx6UugGig",
+   "thumbnail": "assets/img/ext/a19fc9f0eaf49922.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 ワタナベ25thコンサート"
@@ -25573,7 +25806,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/O_ak89qKSyM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLDTzwXDA1-V8yVpPfleBz2Zdx3cHA",
+   "thumbnail": "assets/img/ext/9e657f332dc4ddeb.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2025 ワタナベ25thコンサート"
@@ -25595,7 +25828,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/5nguS_2JsXI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAr3MDDV-5QM-YAOlku3fnhDclSkQ",
+   "thumbnail": "assets/img/ext/d6bbf3a24af6131c.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2021 イン・ザ・ハイツ"
@@ -25617,7 +25850,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/fqUcGg5xT4c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANJKQOtIhyIfl-0vvmGS5hrYiJHw",
+   "thumbnail": "assets/img/ext/323f048f7cec11d7.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2018・2021 マタ・ハリ"
@@ -25640,7 +25873,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/BLR72K5lvms/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2DEKwPJqXPQb9zumUpo7rhfXWFg",
+   "thumbnail": "assets/img/ext/b5e36a7346ae9f18.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
@@ -25662,7 +25895,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/8cO4fKsS01o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZm5QdgBWvICnLTa-eNYADCW5OCw",
+   "thumbnail": "assets/img/ext/bd3f3fc57a42bf2e.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
@@ -25684,7 +25917,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/I4PP0wUqiJQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTXc9tIhcpHzUcBeeN5Ugyj3Vv8w",
+   "thumbnail": "assets/img/ext/f22924c980ca0fe3.jpg",
    "playlists": [
     "東啓介 歌",
     "東啓介 2020 ホイッスル・ダウン・ザ・ウィンド"
@@ -25706,7 +25939,7 @@ window.ARCHIVE = {
    "channel": "マルシアYouTube",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/DJT4IpjD1Kk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCJsiwt95G_8CDAlJkPXksT5bZQTQ",
+   "thumbnail": "assets/img/ext/747502873091511e.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25725,7 +25958,7 @@ window.ARCHIVE = {
    "channel": "KAZUKI KATO official channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/usrWktwD9oI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAK4CIoCDAgAEAEYZSBSKE8wDw==&rs=AOn4CLC80ZMN7XX3D0vY8GVqoasoPVcjzg",
+   "thumbnail": "assets/img/ext/d9f1465d1c5617a1.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25744,7 +25977,7 @@ window.ARCHIVE = {
    "channel": "歌謡ポップスチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/lLonV9TewBQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYy6CvteCr2vcYGKB41FOHz_nflQ",
+   "thumbnail": "assets/img/ext/c8a016c6d22a73e6.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25763,7 +25996,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/jkMwyyx94uM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBFhyHWORKV20dqjkuPGm6tc1gMnQ",
+   "thumbnail": "assets/img/ext/fdc10d099d0007db.jpg",
    "playlists": [
     "東啓介 歌"
    ],
@@ -25782,7 +26015,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/85s5o1uEViI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0s2bVlJMs3JrzakLA1x764uM67w",
+   "thumbnail": "assets/img/ext/17bae2d6231e0b5c.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25803,7 +26036,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/WQ3A8Sg6VsA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyBEKCUwDw==&rs=AOn4CLA3UlDIu_J6kuYVTFz88qnmC1DgIg",
+   "thumbnail": "assets/img/ext/1860bd588327858b.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25824,7 +26057,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/13i8Pn8u9nA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBdKEYwDw==&rs=AOn4CLCcA8kxNbrWWhHnpblc2UoIA0g30A",
+   "thumbnail": "assets/img/ext/86b2c6142294f35e.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25845,7 +26078,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ZHlwiMQSyzY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvE3KSMc_8xg40qF58ZA3n5HnNTw",
+   "thumbnail": "assets/img/ext/bfc8c12a4d7d6f7e.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25866,7 +26099,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/2kibUUITmvU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDH-eQ1-hjV9nRNZVbbapoHATYoFg",
+   "thumbnail": "assets/img/ext/484b8370690bd29a.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25888,7 +26121,7 @@ window.ARCHIVE = {
    "channel": "JIJIPRESS/時事通信芸能動画ニュース",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/dqU2e4FTdS8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2vNem6zWV0X2GX9hdLYpxaav4tA",
+   "thumbnail": "assets/img/ext/1b8ca0a705bf7134.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25909,7 +26142,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Dfj3wDzTh84/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSpfYq1mGVQqEIeKUlwyOFlQYhhg",
+   "thumbnail": "assets/img/ext/9a2b1e564f31457a.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25930,7 +26163,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/l2iD6-jBkvY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIjyVkjyi27Gxxo9H43JpNUM15-Q",
+   "thumbnail": "assets/img/ext/d9d531532123b8ae.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25951,7 +26184,7 @@ window.ARCHIVE = {
    "channel": "アイデアニュース チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/WodsnL6O_hY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGL1YUWi83_sgZRzcS295sKQLDPg",
+   "thumbnail": "assets/img/ext/93fe11bae9622cee.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25972,7 +26205,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/favz9_CZYYY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA8KD4wDw==&rs=AOn4CLDLfWXxNy5qf8jZNLQljQARyXzhVA",
+   "thumbnail": "assets/img/ext/0ef7f84bfc1a8146.jpg",
    "playlists": [
     "東啓介 2024 VIOLET"
    ],
@@ -25993,7 +26226,7 @@ window.ARCHIVE = {
    "channel": "ローチケチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/MBGoy56Zzuk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYaSBpKGkwDw==&rs=AOn4CLBZbkpX_hMODdJVGUOSP95IXiUXiw",
+   "thumbnail": "assets/img/ext/55078e95fbff8df6.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26015,7 +26248,7 @@ window.ARCHIVE = {
    "channel": "AMUSE Official Channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/bqZBXtNTkFg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXGxF77KzlgDiJgLpOdBVzeNqPLA",
+   "thumbnail": "assets/img/ext/118ed8c54cdde8f7.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26037,7 +26270,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/C1EF-8m-Uv8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCksO7THFQmUbVA-hF2vLB50pJUjw",
+   "thumbnail": "assets/img/ext/6f429b9c389a6db8.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26059,7 +26292,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/0pJZ3x7jw8Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCEXWMnrHcWHI7huoj8gILk97mwRQ",
+   "thumbnail": "assets/img/ext/be5754d4df5a8dfe.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26081,7 +26314,7 @@ window.ARCHIVE = {
    "channel": "ローチケチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yV4PTvO8lTA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkoR9s8juyOTk_pRyHlP0h8dCsog",
+   "thumbnail": "assets/img/ext/7e97047112262bf5.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26103,7 +26336,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/q_IReA4lDkY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA2PTjsq3HzTasA-s7hUY0esoaQWg",
+   "thumbnail": "assets/img/ext/357f42bf6c09bf2f.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26125,7 +26358,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yY52NXSwpU0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPlngvHBa5d1fwHNSPyFbgaf3Kpg",
+   "thumbnail": "assets/img/ext/2f96d6349c225cce.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26147,7 +26380,7 @@ window.ARCHIVE = {
    "channel": "ローチケチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/mjhSOLUhhyI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDFy723JTtd6EGt8hsvX0IQuxt0oA",
+   "thumbnail": "assets/img/ext/ab70f4a3e3534d6f.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26169,7 +26402,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/d4UKEZfbJD0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7p7s_lUYIo1Eblwv3WFZ3VecCrA",
+   "thumbnail": "assets/img/ext/1f418240e753d3e6.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26191,7 +26424,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/rR34goiMhjo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXmGjAzV3ogksC7s21Ab1B4R4yxQ",
+   "thumbnail": "assets/img/ext/528c78c192a6480d.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26213,7 +26446,7 @@ window.ARCHIVE = {
    "channel": "梅田芸術劇場チャンネル Umeda Arts Theater",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/lcDb84xA_wA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHv-zQY4ZNtHg85Jx6lzN3pKaqXw",
+   "thumbnail": "assets/img/ext/d3f685b7712295f5.jpg",
    "playlists": [
     "東啓介 2018・2021 マタ・ハリ"
    ],
@@ -26235,7 +26468,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/sqVyw5kHGEc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5Ry8RaYnuHD2wIrCjVIdoHYiSug",
+   "thumbnail": "assets/img/ext/8effb150ccc3415e.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26256,7 +26489,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/OrwkEc0-OGY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2nUgicGk1yuhVxf15gpz86thTgg",
+   "thumbnail": "assets/img/ext/01391cff7d718bf2.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26277,7 +26510,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/OwFaf1tPoK8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpYYfDupyDO0fxkSHsPBnyqdZg5Q",
+   "thumbnail": "assets/img/ext/4ae0fed49d061610.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26298,7 +26531,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/XecXdK4kckA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPXJFARJBO5llIDoc7UUKN1jM_nw",
+   "thumbnail": "assets/img/ext/a9278e810a0bb4b5.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26319,7 +26552,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/r9scF0DUSjg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtg6Es0b2PQqOjmOmRedo-EPeLhw",
+   "thumbnail": "assets/img/ext/fde9c5706af167fe.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26340,7 +26573,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/VK4nL2Lbyws/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4LpeQ4ZnZdfgia-VwZ9b-wKMNFw",
+   "thumbnail": "assets/img/ext/c20fd9e71a76d516.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26361,7 +26594,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Bn2B2LCRTf0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWWV81Jp2CkbHM750h5_Uvkv-0VA",
+   "thumbnail": "assets/img/ext/a164e8d948aaa57d.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26382,7 +26615,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/xgpO3PQKDm8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCdylodhVqS4jm-jsd2pkfDdAuBcQ",
+   "thumbnail": "assets/img/ext/d71419664d626fc0.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26403,7 +26636,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/PjkNFfH23t4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBXY2Fi7BaBuU_nYEHJ4vvoUXMW6Q",
+   "thumbnail": "assets/img/ext/7a1335d3fee7c5ee.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26424,7 +26657,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/OhC8U4M8ynA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYo5Jpy_6_OUnaQzxfydYdfxANQA",
+   "thumbnail": "assets/img/ext/d27198c878fdce89.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26445,7 +26678,7 @@ window.ARCHIVE = {
    "channel": "Stage O-beron",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/YMrNaUqcBTM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDwEF3wwklSy7p-94wCChx7hYRhWw",
+   "thumbnail": "assets/img/ext/8ec0e8414d0857c1.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26466,7 +26699,7 @@ window.ARCHIVE = {
    "channel": "Stage O-beron",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/_ogn-9b671g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCarBQROdqMmHFWAVqpAFkqj98W1w",
+   "thumbnail": "assets/img/ext/f4c6adbe45542de5.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26487,7 +26720,7 @@ window.ARCHIVE = {
    "channel": "Stage O-beron",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/htZ3x3DbpJ0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDS08JY1An69OiGnyEJDPrCgGyoA",
+   "thumbnail": "assets/img/ext/c44b5a75eaf049c9.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26508,7 +26741,7 @@ window.ARCHIVE = {
    "channel": "Stage O-beron",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/RpTCJrvDKBk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAa5YlIEPXGMcVEO_iO6cFvdeyY5w",
+   "thumbnail": "assets/img/ext/32c09b36f816ca2b.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26529,7 +26762,7 @@ window.ARCHIVE = {
    "channel": "演劇系YouTube《クロネコチャンネル》",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/4fmsdpSB9Mk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCripB_lIhPLTckJ3mVvHjmKoMekA",
+   "thumbnail": "assets/img/ext/010231a114d2f03d.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26550,7 +26783,7 @@ window.ARCHIVE = {
    "channel": "演劇系YouTube《クロネコチャンネル》",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/V3aI8e-YCmE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBa7qo7nK67YN7ApU_D60YxSYG55w",
+   "thumbnail": "assets/img/ext/dcd45866b0b4a22e.jpg",
    "playlists": [
     "ジャージー・ボーイズ イン コンサート2020 チームBLACK(中川晃教・藤岡正明・東啓介・大山真志)"
    ],
@@ -26571,7 +26804,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/8tLMXMPLLug/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCiz26lpebCZFl7_Htka_Zm4EBXlg",
+   "thumbnail": "assets/img/ext/c0ef0372aa7adf8c.jpg",
    "playlists": [
     "東啓介 2020 ホイッスル・ダウン・ザ・ウィンド"
    ],
@@ -26592,7 +26825,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ZXO1rYmbMrM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_0Vt8hHaqA6rXC7lI9u9eIuUnKg",
+   "thumbnail": "assets/img/ext/daa3586bec07a9c1.jpg",
    "playlists": [
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
    ],
@@ -26613,7 +26846,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/TtEXbCdmE3g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCeBKu5ESdf2J1DvPmcgI2K4LeFUQ",
+   "thumbnail": "assets/img/ext/8dcdb802ae25dbba.jpg",
    "playlists": [
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
    ],
@@ -26634,7 +26867,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/-hu_xeW4WAA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4yYU-fqhh8AhfYSAGsHfKl6Z1ZQ",
+   "thumbnail": "assets/img/ext/c7bc70a577e180ec.jpg",
    "playlists": [
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
    ],
@@ -26655,7 +26888,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/HVhVRL0I5uM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDEF03ZFUfhfoYB0FYsrYZJSnlFIg",
+   "thumbnail": "assets/img/ext/6b0ed7c9298f6291.jpg",
    "playlists": [
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
    ],
@@ -26676,7 +26909,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Y3oGKZk9_Ew/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBt0_1qER9Ogft6432DE9Ar0RYh3A",
+   "thumbnail": "assets/img/ext/b7fb911d4cf008b4.jpg",
    "playlists": [
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
    ],
@@ -26697,7 +26930,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/sQzy8Om6hsI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8LOShFZX15MesbGZraFhAmLXNRw",
+   "thumbnail": "assets/img/ext/43bc964bc9964fc9.jpg",
    "playlists": [
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
    ],
@@ -26718,7 +26951,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/RxXPVtx6y2M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-PE5GNXAPuJPP5Sw_jqdyPA9BVg",
+   "thumbnail": "assets/img/ext/ed6b35c1421bdfee.jpg",
    "playlists": [
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
    ],
@@ -26739,7 +26972,7 @@ window.ARCHIVE = {
    "channel": "TohoChannel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/VR195NfgMT8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIUDYxLBfn9BXQYGEPWWLpSUeK5w",
+   "thumbnail": "assets/img/ext/0816494782560aff.jpg",
    "playlists": [
     "東啓介 2019 ダンス・オブ・ヴァンパイア"
    ],
@@ -26760,7 +26993,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/zjS1Rr880jk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYXCBUKGUwDw==&rs=AOn4CLASkmdVLaV8v_sFEPcUoXY5qxiXMQ",
+   "thumbnail": "assets/img/ext/5e18b0e6daf4f37c.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26781,7 +27014,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/KP7ZZAbnfB4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWSBHKGUwDw==&rs=AOn4CLDPMAdqOgI1P5NIf7CAgBlnH7f_OQ",
+   "thumbnail": "assets/img/ext/d4a47bf504c077cd.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26802,7 +27035,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/IAnrMU1vZ70/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYSBXKGUwDw==&rs=AOn4CLA-MeqAAVQKKVt5s8uIVNoLKNG57Q",
+   "thumbnail": "assets/img/ext/4e0ad9ebb9910948.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26823,7 +27056,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/kBqu1i5IZ6g/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYJCAmKH8wDw==&rs=AOn4CLDfMMjG-UwHHMAyV0MsH04LnVSLyg",
+   "thumbnail": "assets/img/ext/228c0acc9e96b5b8.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26844,7 +27077,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/Rwytj8Y3kSU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBIKEYwDw==&rs=AOn4CLByC3Pr1R-ntudSJqYMtM67AZH-lQ",
+   "thumbnail": "assets/img/ext/7661767bf585a306.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26865,7 +27098,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/BK-ynxRzEBI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYOSBKKHIwDw==&rs=AOn4CLCE_3SmE5tc8njkwj0dCIfWZ8w2VA",
+   "thumbnail": "assets/img/ext/afd18a89a043ec49.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26886,7 +27119,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/eGVdsx8FbyI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZGX8UwEFJHh_NrH_tsd7DolTlqg",
+   "thumbnail": "assets/img/ext/1982a0e56d61df72.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26907,7 +27140,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/rBB-3WZu0sk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7bsNGvHuME3wErlPUtHkFMr4VBQ",
+   "thumbnail": "assets/img/ext/3716a7c638659e7d.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26928,7 +27161,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yonEpRL7md0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLALXV9H5Agc8uSfSHTkQXuYZnQlWA",
+   "thumbnail": "assets/img/ext/bcd527d383d1a550.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26949,7 +27182,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/XA5QxtKjl0s/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLA_gLhnS1ZTp9fDty-1vQZGPNiS-A",
+   "thumbnail": "assets/img/ext/66c59ba5f071f6a2.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26970,7 +27203,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/J65ZPqa1GzE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdwEgAK2CIoCDAgAEAEYSyBiKGUwDw==&rs=AOn4CLCgyrlgJC3f62y7ZzpmlVLGHtrODA",
+   "thumbnail": "assets/img/ext/22bb2867de614333.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -26991,7 +27224,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/wY43ruqzhi0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYPiBlKGUwDw==&rs=AOn4CLDUI8678bDrj_dpPZiDLK1B8mTwWw",
+   "thumbnail": "assets/img/ext/503d1ec4328892a8.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -27012,7 +27245,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/g5KEMvvVFrs/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AegEgALKCIoCDAgAEAEYOCBhKGUwDw==&rs=AOn4CLBuUvxlY0mpnL94rSJQJCD1WgZWuA",
+   "thumbnail": "assets/img/ext/b6bce6dd6008293c.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -27033,7 +27266,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/YHYHYSww42M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdwEgAK2CIoCDAgAEAEYTCBiKGUwDw==&rs=AOn4CLAFBVySVDa_KRdbef54eta1rCyGNg",
+   "thumbnail": "assets/img/ext/25f2aa7f6d00c6c8.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -27054,7 +27287,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/GeVk3Df0gUE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AYIFgAL6CIoCDAgAEAEYZSBYKEowDw==&rs=AOn4CLCJYOy5yQq5bskfU-ud9a5KTIRjJA",
+   "thumbnail": "assets/img/ext/e99f19fca3d013c0.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -27075,7 +27308,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/wAjbAMzdDGA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYfyAhKBUwDw==&rs=AOn4CLBng6mmaNVbC44j23_3dOFrVxw9zQ",
+   "thumbnail": "assets/img/ext/c1225144dca7cf3f.jpg",
    "playlists": [
     "東啓介 2025 ワタナベ25thコンサート"
    ],
@@ -27096,7 +27329,7 @@ window.ARCHIVE = {
    "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/p2EmeE3Yu9U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDHo7jmeSCYoNuLInPaRwwR_JvBVA",
+   "thumbnail": "assets/img/ext/584c9b34a604633c.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27117,7 +27350,7 @@ window.ARCHIVE = {
    "channel": "JIJIPRESS/時事通信芸能動画ニュース",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/neOfbzwQiVU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLAVdxd1wRllqv5ZW_qWbK4zB3RTQw",
+   "thumbnail": "assets/img/ext/3906ffac3610b769.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27138,7 +27371,7 @@ window.ARCHIVE = {
    "channel": "【公式】TBS芸能&情報まとめ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yRfVJQOx9gE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCi416dcufrCec7r5FTt1SIfC0ioA",
+   "thumbnail": "assets/img/ext/5fb795e7f061a9fd.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27159,7 +27392,7 @@ window.ARCHIVE = {
    "channel": "ステージナタリー",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/2yoFurjbCX4/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYLCBWKH8wD7gC8xg=&rs=AOn4CLBcSgtg3X33GICzZD2RNAZjJM6O6Q",
+   "thumbnail": "assets/img/ext/c90946f5ad944cf5.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27180,7 +27413,7 @@ window.ARCHIVE = {
    "channel": "ステージナタリー",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/VRjJfRzCLVg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYJyBRKH8wD7gC8xg=&rs=AOn4CLCI_KEqC-XM_DWp8rxYf5JoAWrlcA",
+   "thumbnail": "assets/img/ext/f1251bf5d9baa25a.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27201,7 +27434,7 @@ window.ARCHIVE = {
    "channel": "【公式】TBS芸能&情報まとめ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/r-rbcb4ltTk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYRyBFKGUwD7gC8xg=&rs=AOn4CLCyf69OF_tvufi155Pl8lu-woGU0w",
+   "thumbnail": "assets/img/ext/bfc862b1bf138043.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27222,7 +27455,7 @@ window.ARCHIVE = {
    "channel": "BWミュージカル「キンキーブーツ」Kinky Boots Japan",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/KODtsBuEHQA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLDFnJy98MeyJMcPROOTwe2fK-W-3Q",
+   "thumbnail": "assets/img/ext/7914a235da1c64fb.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27243,7 +27476,7 @@ window.ARCHIVE = {
    "channel": "ステージナタリー",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/vLuunHOJ1xY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYciBAKEUwD7gC8xg=&rs=AOn4CLBv0vUaHiKZvZ1Rm1NlcRB9drhCQQ",
+   "thumbnail": "assets/img/ext/d79a0377132394b7.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27264,7 +27497,7 @@ window.ARCHIVE = {
    "channel": "JIJIPRESS/時事通信芸能動画ニュース",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yEqqNFXlDFE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLBnamUE3w2jCEJXMHXFNGAEWAoW1A",
+   "thumbnail": "assets/img/ext/4e1e77da7b617e58.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27285,7 +27518,7 @@ window.ARCHIVE = {
    "channel": "エンタステージ 舞台の最新動画チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/wkCCKjUPOss/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvMY&rs=AOn4CLCzdvCWHy-le3Xga8hoeR5q18MO5w",
+   "thumbnail": "assets/img/ext/7e57e253e8226de1.jpg",
    "playlists": [
     "東啓介 2025 キンキーブーツ"
    ],
@@ -27306,7 +27539,7 @@ window.ARCHIVE = {
    "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/zxJbIxqUQQA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYSCBNKGUwDw==&rs=AOn4CLCsJcndaOU5CwVDC_dNP2as3AI3lA",
+   "thumbnail": "assets/img/ext/a5780019732aeb0e.jpg",
    "playlists": [
     "東啓介 2021 イン・ザ・ハイツ"
    ],
@@ -27327,7 +27560,7 @@ window.ARCHIVE = {
    "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/wMqGzjDZ2vw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYUiBWKGUwDw==&rs=AOn4CLCXwFhJjJ05A8iTzKVrACChTazhbQ",
+   "thumbnail": "assets/img/ext/dce8eadeff431143.jpg",
    "playlists": [
     "東啓介 2021 イン・ザ・ハイツ"
    ],
@@ -27348,7 +27581,7 @@ window.ARCHIVE = {
    "channel": "アイデアニュース チャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/NpLizyJ5tQs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1aN-TykJJrd0SaXJ-dE16oMgl6w",
+   "thumbnail": "assets/img/ext/f64119eb40240069.jpg",
    "playlists": [
     "東啓介 2021 イン・ザ・ハイツ"
    ],
@@ -27369,7 +27602,7 @@ window.ARCHIVE = {
    "channel": "SCREEN＋Plus CHANNEL",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/kuit-UDofRY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYPyBeKHIwDw==&rs=AOn4CLB333Y8mJ_QHBqAdkkbT73vobqW7w",
+   "thumbnail": "assets/img/ext/e281ed2fe0f02eea.jpg",
    "playlists": [
     "東啓介 2021 イン・ザ・ハイツ"
    ],
@@ -27390,7 +27623,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/_c8AasL0QZ8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGD3ztAZmUMz2B363UDYxvSRVDjQ",
+   "thumbnail": "assets/img/ext/e5cc2f2212f48e45.jpg",
    "playlists": [
     "東啓介 2021 イン・ザ・ハイツ"
    ],
@@ -27411,7 +27644,7 @@ window.ARCHIVE = {
    "channel": "AMUSE Official Channel",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/qUoDQ6pE3O0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNMWP7dwpv6rhNkpBLjtsJajelQQ",
+   "thumbnail": "assets/img/ext/9e45717621a87dbd.jpg",
    "playlists": [
     "東啓介 2021 イン・ザ・ハイツ"
    ],
@@ -27432,7 +27665,7 @@ window.ARCHIVE = {
    "channel": "Cappuccino Music",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/8Xv1rnigvkU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuT7lKRhhUyQuQGADdYMstk7Db8g",
+   "thumbnail": "assets/img/ext/c8bbfd22dc938b99.jpg",
    "playlists": [
     "東啓介 2021 イン・ザ・ハイツ"
    ],
@@ -27453,7 +27686,7 @@ window.ARCHIVE = {
    "channel": "IN THE HEIGHTS　イン・ザ・ハイツ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/6qpsEkIIY0U/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYXyBfKF8wDw==&rs=AOn4CLBvLQbRX8ZDrh3sMKce_XoMy5oKBg",
+   "thumbnail": "assets/img/ext/ac6141121db2fb47.jpg",
    "playlists": [
     "東啓介 2021 イン・ザ・ハイツ"
    ],
@@ -27478,7 +27711,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=gKa8yBXfzcE",
-   "thumbnail": "https://i.ytimg.com/vi/gKa8yBXfzcE/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/523174d4dcaaba59.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "2026.09.02专访原文内嵌视频",
@@ -27698,7 +27931,7 @@ window.ARCHIVE = {
    "title": "官网嵌入的视频（标题待复核）",
    "url": "https://www.youtube.com/watch?v=kyqxdo_tRJI",
    "channel": "来源：ミュージカル『薄桜鬼』新選組奇譚官方网站",
-   "thumbnail": "https://i.ytimg.com/vi/kyqxdo_tRJI/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/65f4d75db5b2a1d5.jpg",
    "duration": "",
    "available": true,
    "playlists": [
@@ -27718,7 +27951,7 @@ window.ARCHIVE = {
    "title": "官方公演CM",
    "url": "https://www.youtube.com/watch?v=ttLGGm7WKMM",
    "channel": "来源：ミュージカル『薄桜鬼』原田左之助 篇官方网站",
-   "thumbnail": "https://i.ytimg.com/vi/ttLGGm7WKMM/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/d6d569d39e3e1a5c.jpg",
    "duration": "",
    "available": true,
    "playlists": [
@@ -27739,7 +27972,7 @@ window.ARCHIVE = {
    "channel": "musical jmf",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/SFJZONd-R7s/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/8964d4dc42ebe750.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "采访／发布会",
@@ -27758,7 +27991,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/homXEU412qk/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/ffdb04f80675455f.jpg",
    "playlists": [],
    "sourceType": "媒体原发布",
    "type": "演出／歌唱",
@@ -27777,7 +28010,7 @@ window.ARCHIVE = {
    "channel": "サンライズプロモーション公式",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/2DCSAh_hgrI/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/fa0587d0dafebbed.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "预告／宣传",
@@ -27796,7 +28029,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/2hpFfAzxf6E/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/5ea96a5da1cb1f8b.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "预告／宣传",
@@ -27815,7 +28048,7 @@ window.ARCHIVE = {
    "channel": "Astage",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/98alqMvB4Ww/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/3d2e1b46f73f59fe.jpg",
    "playlists": [],
    "sourceType": "媒体原发布",
    "type": "采访／发布会",
@@ -27834,7 +28067,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/TF6jpVaBJbo/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/036b952b9da21497.jpg",
    "playlists": [],
    "sourceType": "媒体原发布",
    "type": "采访／发布会",
@@ -27853,7 +28086,7 @@ window.ARCHIVE = {
    "channel": "クランクイン !",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/yS5dDVs9E54/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/511daec1829c6d83.jpg",
    "playlists": [],
    "sourceType": "媒体原发布",
    "type": "采访／发布会",
@@ -27872,7 +28105,7 @@ window.ARCHIVE = {
    "channel": "シネマトゥデイ",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/VsE38iHYLx0/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/be0b910af4b3d5ab.jpg",
    "playlists": [],
    "sourceType": "媒体原发布",
    "type": "采访／发布会",
@@ -27891,7 +28124,7 @@ window.ARCHIVE = {
    "channel": "東映特撮YouTube Official",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/HiW6nsnVHo8/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/ad9404a45873c1ca.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "预告／宣传",
@@ -27910,7 +28143,7 @@ window.ARCHIVE = {
    "channel": "バンダイ公式チャンネル  BANDAI OFFICIAL",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/baMEfVIuI-w/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/c6233af62c96b605.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "预告／宣传",
@@ -28221,7 +28454,7 @@ window.ARCHIVE = {
    "id": "0hsF8IqwY1o",
    "title": "『SWAN -Ballet cross Reading-』東啓介インタビュー",
    "channel": "SWAN -Ballet cross Reading- 公式",
-   "thumbnail": "https://i.ytimg.com/vi/0hsF8IqwY1o/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/f88a7064ed6ea334.jpg",
    "sourceType": "官方／机构",
    "type": "采访／发布会",
    "url": "https://www.youtube.com/watch?v=0hsF8IqwY1o",
@@ -28240,7 +28473,7 @@ window.ARCHIVE = {
    "id": "so46943143",
    "title": "10月18日放送『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
    "channel": "玉城裕規の月下美人",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46943143/46943143.76442446",
+   "thumbnail": "assets/img/ext/e702245d6cd0ce6f.jpg",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so46943143",
@@ -28259,7 +28492,7 @@ window.ARCHIVE = {
    "id": "so46942722",
    "title": "【無料パート】『玉城裕規の月下美人』第八十三夜 7周年回 BBQスペシャル ゲスト：和田琢磨さん・東啓介さん",
    "channel": "玉城裕規の月下美人",
-   "thumbnail": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46942722/46942722.43640298.original/r1280x720l.webp?key=70a128b08d735d3a4eb91dcff8fdaae86d35afc93023b80578966df71792f342",
+   "thumbnail": "assets/img/ext/5152af5a4f6981e0.webp",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so46942722",
@@ -28278,7 +28511,7 @@ window.ARCHIVE = {
    "id": "sm46625219",
    "title": "【新番組】「仮面ライダーマイス」スペシャルティザー！",
    "channel": "用户投稿",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/46625219/46625219.14911276",
+   "thumbnail": "assets/img/ext/5f757e8e89cec49e.jpg",
    "sourceType": "转载",
    "type": "预告／宣传",
    "url": "https://www.nicovideo.jp/watch/sm46625219",
@@ -28297,7 +28530,7 @@ window.ARCHIVE = {
    "id": "so45887524",
    "title": "ピースピット2017年本公演『グランギニョル』（TRUMPシリーズ）本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/45887524/45887524.95510459",
+   "thumbnail": "assets/img/ext/693d1759d893b3b7.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so45887524",
@@ -28316,7 +28549,7 @@ window.ARCHIVE = {
    "id": "so45878427",
    "title": "ミュージカル『マリーゴールド』（TRUMPシリーズ）本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/45878427/45878427.8638155",
+   "thumbnail": "assets/img/ext/6fb9d4a50a3a176b.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so45878427",
@@ -28335,7 +28568,7 @@ window.ARCHIVE = {
    "id": "so44856167",
    "title": "ミュージカル『薄桜鬼』原田左之助 篇 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856167/44856167.4406649",
+   "thumbnail": "assets/img/ext/dd35e2b2c07bcfd9.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44856167",
@@ -28354,7 +28587,7 @@ window.ARCHIVE = {
    "id": "so44856166",
    "title": "ミュージカル『薄桜鬼』HAKU-MYU LIVE2 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856166/44856166.93066212",
+   "thumbnail": "assets/img/ext/6b701cac1af22b8e.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44856166",
@@ -28373,7 +28606,7 @@ window.ARCHIVE = {
    "id": "so44856165",
    "title": "ミュージカル『薄桜鬼』新選組奇譚 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856165/44856165.85280406",
+   "thumbnail": "assets/img/ext/7703e4aa3987d216.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44856165",
@@ -28392,7 +28625,7 @@ window.ARCHIVE = {
    "id": "so44856164",
    "title": "ミュージカル『薄桜鬼』黎明録 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44856164/44856164.24772464",
+   "thumbnail": "assets/img/ext/a57bb2c07797d498.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44856164",
@@ -28411,7 +28644,7 @@ window.ARCHIVE = {
    "id": "so44562934",
    "title": "舞台『弱虫ペダル』～箱根学園新世代、始動～ 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44562934/44562934.191937",
+   "thumbnail": "assets/img/ext/8626e38cf52125a2.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44562934",
@@ -28430,7 +28663,7 @@ window.ARCHIVE = {
    "id": "so44562933",
    "title": "舞台『弱虫ペダル』～総北新世代、始動～ 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44562933/44562933.11934449",
+   "thumbnail": "assets/img/ext/f511c56ecf6286ec.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44562933",
@@ -28449,7 +28682,7 @@ window.ARCHIVE = {
    "id": "so44548763",
    "title": "舞台『弱虫ペダル』新インターハイ篇～スタートライン～ 本編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/44548763/44548763.98938447",
+   "thumbnail": "assets/img/ext/ae5b409845227626.jpg",
    "sourceType": "官方／机构",
    "type": "舞台／剧集",
    "url": "https://www.nicovideo.jp/watch/so44548763",
@@ -28468,7 +28701,7 @@ window.ARCHIVE = {
    "id": "so37740858",
    "title": "東啓介「ザテレビジョンSQUARE02」インタビュー＆グラビアメーキング動画 フルVer.",
    "channel": "ザテレビジョン",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/37740858/37740858.13996992",
+   "thumbnail": "assets/img/ext/0e75266e35bba11a.jpg",
    "sourceType": "官方／机构",
    "type": "采访／发布会",
    "url": "https://www.nicovideo.jp/watch/so37740858",
@@ -28487,7 +28720,7 @@ window.ARCHIVE = {
    "id": "so37740891",
    "title": "東啓介「ザテレビジョンSQUARE02」インタビュー＆グラビアメーキング動画 ショートVer.",
    "channel": "ザテレビジョン",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/37740891/37740891.49896194",
+   "thumbnail": "assets/img/ext/61cf50de76f333a2.jpg",
    "sourceType": "官方／机构",
    "type": "采访／发布会",
    "url": "https://www.nicovideo.jp/watch/so37740891",
@@ -28506,7 +28739,7 @@ window.ARCHIVE = {
    "id": "so36129640",
    "title": "2019年12月ゲストは東啓介さんでした！",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/36129640/36129640.62275099",
+   "thumbnail": "assets/img/ext/ffa4f0e6a29dcbb3.jpg",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so36129640",
@@ -28544,7 +28777,7 @@ window.ARCHIVE = {
    "id": "so31659875",
    "title": "#24 末満健一の幽機交流領域『グランギニョル』稽古場より生放送！",
    "channel": "末満健一の幽機交流領域",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/31659875/31659875",
+   "thumbnail": "assets/img/ext/03e97ff76efa6f52.jpg",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so31659875",
@@ -28563,7 +28796,7 @@ window.ARCHIVE = {
    "id": "so30933904",
    "title": "D-BOYSニュース #15 中尾暢樹・東啓介 アーカイブ動画",
    "channel": "チャンネルD-BOYS",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/30933904/30933904",
+   "thumbnail": "assets/img/ext/dcbda3bed3e089b2.jpg",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so30933904",
@@ -28582,7 +28815,7 @@ window.ARCHIVE = {
    "id": "so29991577",
    "title": "宮崎秋人×東啓介スペシャルニコ生 feat. チャンネルD-BOYS 2週目",
    "channel": "チャンネルD-BOYS",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/29991577/29991577",
+   "thumbnail": "assets/img/ext/9e180e1f74c73cea.jpg",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so29991577",
@@ -28601,7 +28834,7 @@ window.ARCHIVE = {
    "id": "so29910218",
    "title": "宮崎秋人×東啓介スペシャルニコ生 feat. チャンネルD-BOYS 1週目",
    "channel": "チャンネルD-BOYS",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/29910218/29910218",
+   "thumbnail": "assets/img/ext/840881b3041624d4.jpg",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so29910218",
@@ -28620,7 +28853,7 @@ window.ARCHIVE = {
    "id": "so28816886",
    "title": "＃011 舞台「刀剣乱舞」終わりで生放送！",
    "channel": "末満健一の幽機交流領域",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/28816886/28816886",
+   "thumbnail": "assets/img/ext/613782c4f678e105.jpg",
    "sourceType": "官方／机构",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/so28816886",
@@ -28639,7 +28872,7 @@ window.ARCHIVE = {
    "id": "so28400916",
    "title": "舞台『弱虫ペダル』～総北新世代、始動～ 公開ゲネプロをチラッと見せ",
    "channel": "エンタステージ",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/28400916/28400916",
+   "thumbnail": "assets/img/ext/572590904270c9ab.jpg",
    "sourceType": "官方／机构",
    "type": "演出／歌唱",
    "url": "https://www.nicovideo.jp/watch/so28400916",
@@ -28658,7 +28891,7 @@ window.ARCHIVE = {
    "id": "so26254037",
    "title": "7Days BOYS～ボクタチの超☆育成計画～予告編",
    "channel": "niconico频道",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/26254037/26254037",
+   "thumbnail": "assets/img/ext/1b10bb5d83f5c4cd.jpg",
    "sourceType": "官方／机构",
    "type": "预告／宣传",
    "url": "https://www.nicovideo.jp/watch/so26254037",
@@ -28677,7 +28910,7 @@ window.ARCHIVE = {
    "id": "sm25861844",
    "title": "妖〜AYAKASHI〜 あくP 秘密の座談怪（1/6）",
    "channel": "用户投稿",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/25861844/25861844",
+   "thumbnail": "assets/img/ext/1f0fd8cd5867cb60.jpg",
    "sourceType": "转载",
    "type": "节目／其他",
    "url": "https://www.nicovideo.jp/watch/sm25861844",
@@ -28693,7 +28926,7 @@ window.ARCHIVE = {
    "playlists": [],
    "rel": "2026.11.17补充",
    "asset": "",
-   "thumbnail": "https://i.ytimg.com/vi/kYWPu9ti5FM/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/d37a7129c8e80a33.jpg",
    "id": "kYWPu9ti5FM",
    "title": "New Musical『Color of Life』東啓介レコーディング映像(short ver.)",
    "channel": "ワタナベエンターテインメント【公式】",
@@ -29174,7 +29407,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/NdnMrZXijX0/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/5c440c3d574cbe6e.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "演出／歌唱",
@@ -29193,7 +29426,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/gq7t1Pm8Irw/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/05a815c568ca83e6.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "演出／歌唱",
@@ -29212,7 +29445,7 @@ window.ARCHIVE = {
    "channel": "ワタナベエンターテインメント【公式】",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ut53_LdNZDQ/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/9dfce6b2e954d14a.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "预告／宣传",
@@ -30492,7 +30725,7 @@ window.ARCHIVE = {
    "url": "https://www.nicovideo.jp/watch/sm33862660",
    "platform": "niconico",
    "type": "舞台／剧集",
-   "thumbnail": "https://nicovideo.cdn.nimg.jp/thumbnails/33862660/33862660",
+   "thumbnail": "assets/img/ext/cac8e4c13b052aac.jpg",
    "uploadDate": "2018-09-16",
    "channel": "niconico"
   },
@@ -32990,7 +33223,7 @@ window.ARCHIVE = {
     "2015"
    ],
    "url": "https://www.youtube.com/watch?v=Xk9d_g3FG0E",
-   "thumbnail": "https://i.ytimg.com/vi/Xk9d_g3FG0E/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/58bf42ce70e51f47.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "官方｜2015.09.16",
@@ -33009,7 +33242,7 @@ window.ARCHIVE = {
     "2015"
    ],
    "url": "https://www.youtube.com/watch?v=orJz2nBzkAs",
-   "thumbnail": "https://i.ytimg.com/vi/orJz2nBzkAs/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/a808fe517328536d.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "官方｜2015",
@@ -33028,7 +33261,7 @@ window.ARCHIVE = {
     "2015"
    ],
    "url": "https://www.youtube.com/watch?v=MjNM4hRzQPU",
-   "thumbnail": "https://i.ytimg.com/vi/MjNM4hRzQPU/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/2ddbf4c882398688.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "官方｜2015",
@@ -33047,7 +33280,7 @@ window.ARCHIVE = {
     "2025"
    ],
    "url": "https://www.youtube.com/watch?v=Wwusk5Wuffk",
-   "thumbnail": "https://i.ytimg.com/vi/Wwusk5Wuffk/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/ce9c99bffea95fa2.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "YouTube搬运｜2025",
@@ -33066,7 +33299,7 @@ window.ARCHIVE = {
     "2019"
    ],
    "url": "https://www.youtube.com/watch?v=yEDAhSN3Ago",
-   "thumbnail": "https://i.ytimg.com/vi/yEDAhSN3Ago/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/18aac04686914d6b.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "YouTube搬运｜2019",
@@ -33085,7 +33318,7 @@ window.ARCHIVE = {
     "2019"
    ],
    "url": "https://www.youtube.com/watch?v=1GWWzPtC5i0",
-   "thumbnail": "https://i.ytimg.com/vi/1GWWzPtC5i0/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/49285133096e3201.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2019",
@@ -33359,7 +33592,7 @@ window.ARCHIVE = {
     "2022"
    ],
    "url": "https://www.youtube.com/watch?v=eUMnCiKFuDE",
-   "thumbnail": "https://i.ytimg.com/vi/eUMnCiKFuDE/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/4dbbeddd077f9f6d.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "YouTube搬运｜2022",
@@ -34371,7 +34604,7 @@ window.ARCHIVE = {
     "2021"
    ],
    "url": "https://www.youtube.com/watch?v=ipOleGhvZ24",
-   "thumbnail": "https://i.ytimg.com/vi/ipOleGhvZ24/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/d24f30334dce61a5.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "Japan Musical Festival 2022",
@@ -34390,7 +34623,7 @@ window.ARCHIVE = {
     "2022"
    ],
    "url": "https://www.youtube.com/watch?v=_drewNkamYQ",
-   "thumbnail": "https://i.ytimg.com/vi/_drewNkamYQ/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/72e8cffa2bd305f6.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "Japan Musical Festival 2022",
@@ -34443,7 +34676,7 @@ window.ARCHIVE = {
    "channel": "東映特撮YouTube Official",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/jkqp4qMS_Zg/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/b4a5e72d4419a389.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "节目／其他",
@@ -34462,7 +34695,7 @@ window.ARCHIVE = {
    "channel": "東映特撮YouTube Official",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/HDNb4ix5TQM/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/2df8734825437b04.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "预告／宣传",
@@ -34481,7 +34714,7 @@ window.ARCHIVE = {
    "channel": "エイベックス・ライヴ・クリエイティヴ舞台情報[公式]",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/ILH73RRkqBo/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/49a4479725582e9a.jpg",
    "playlists": [
     "東啓介 2023 二次会のひとたち"
    ],
@@ -34521,7 +34754,7 @@ window.ARCHIVE = {
    "channel": "明治座公式YouTubeチャンネル",
    "duration": "",
    "available": true,
-   "thumbnail": "https://i.ytimg.com/vi/aGJW5eto_VU/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/9cf705e45139f8ac.jpg",
    "playlists": [],
    "sourceType": "官方／机构",
    "type": "预告／宣传",
@@ -34544,7 +34777,7 @@ window.ARCHIVE = {
     "2020"
    ],
    "url": "https://www.youtube.com/watch?v=nLqV1if1fzE",
-   "thumbnail": "https://i.ytimg.com/vi/nLqV1if1fzE/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/7cdd8477c4048ed7.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "2026.11.19补充",
@@ -34563,7 +34796,7 @@ window.ARCHIVE = {
     "2020"
    ],
    "url": "https://www.youtube.com/watch?v=54gG1eGXuXU",
-   "thumbnail": "https://i.ytimg.com/vi/54gG1eGXuXU/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/c67cb4199c58ed15.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "2026.11.19补充",
@@ -34582,7 +34815,7 @@ window.ARCHIVE = {
     "2025"
    ],
    "url": "https://www.youtube.com/watch?v=1wDUDHk5pkg",
-   "thumbnail": "https://i.ytimg.com/vi/1wDUDHk5pkg/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/1402db0306580d00.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "2026.11.19补充",
@@ -34602,7 +34835,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=LCkB3O6b0Qc",
-   "thumbnail": "https://i.ytimg.com/vi/LCkB3O6b0Qc/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/8980f4133e72e3e2.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34622,7 +34855,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=cuZH2j7NgPc",
-   "thumbnail": "https://i.ytimg.com/vi/cuZH2j7NgPc/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/0157861e77da7530.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34642,7 +34875,7 @@ window.ARCHIVE = {
     "2025"
    ],
    "url": "https://www.youtube.com/watch?v=FXGguSDyijQ",
-   "thumbnail": "https://i.ytimg.com/vi/FXGguSDyijQ/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/25c667802c0bfcd7.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34662,7 +34895,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=M07UPQBSsfQ",
-   "thumbnail": "https://i.ytimg.com/vi/M07UPQBSsfQ/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/464cb4fc0a29383e.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34682,7 +34915,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=mP1Q37c5Y-A",
-   "thumbnail": "https://i.ytimg.com/vi/mP1Q37c5Y-A/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/29cd9a413b0fd9d5.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34702,7 +34935,7 @@ window.ARCHIVE = {
     "2022"
    ],
    "url": "https://www.youtube.com/watch?v=xjYVyj47QHQ",
-   "thumbnail": "https://i.ytimg.com/vi/xjYVyj47QHQ/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/c1fa99e289bcb47c.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34722,7 +34955,7 @@ window.ARCHIVE = {
     "2021"
    ],
    "url": "https://www.youtube.com/watch?v=kkj1XBB_ZgY",
-   "thumbnail": "https://i.ytimg.com/vi/kkj1XBB_ZgY/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/1439f105595be635.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34742,7 +34975,7 @@ window.ARCHIVE = {
     "2021"
    ],
    "url": "https://www.youtube.com/watch?v=BoP3kUZ43ig",
-   "thumbnail": "https://i.ytimg.com/vi/BoP3kUZ43ig/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/b5afdeb10dd887d9.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34762,7 +34995,7 @@ window.ARCHIVE = {
     "2017"
    ],
    "url": "https://www.youtube.com/watch?v=v421u2kSe7k",
-   "thumbnail": "https://i.ytimg.com/vi/v421u2kSe7k/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/1b26a9042f23b4f8.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "标题提及东启介｜2026.11.19补充",
@@ -34782,7 +35015,7 @@ window.ARCHIVE = {
     "2025"
    ],
    "url": "https://www.youtube.com/watch?v=hMimhTu8xwA",
-   "thumbnail": "https://i.ytimg.com/vi/hMimhTu8xwA/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/be22149285709232.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34802,7 +35035,7 @@ window.ARCHIVE = {
     "2016"
    ],
    "url": "https://www.youtube.com/watch?v=R7idD7CcYAU",
-   "thumbnail": "https://i.ytimg.com/vi/R7idD7CcYAU/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/81d8e5db73c51238.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34822,7 +35055,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=zYkSfLxeg_I",
-   "thumbnail": "https://i.ytimg.com/vi/zYkSfLxeg_I/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/8e05d95fc467c7c9.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34842,7 +35075,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=mmofF8bvoG4",
-   "thumbnail": "https://i.ytimg.com/vi/mmofF8bvoG4/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/59f473036526f339.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34862,7 +35095,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=elbVJ6MbaTU",
-   "thumbnail": "https://i.ytimg.com/vi/elbVJ6MbaTU/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/c8e46872f30b0d69.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34882,7 +35115,7 @@ window.ARCHIVE = {
     "2025"
    ],
    "url": "https://www.youtube.com/watch?v=q2EkfT5F3Bk",
-   "thumbnail": "https://i.ytimg.com/vi/q2EkfT5F3Bk/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/05ffb13314291d07.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34902,7 +35135,7 @@ window.ARCHIVE = {
     "2025"
    ],
    "url": "https://www.youtube.com/watch?v=Qq2w-EzNuEE",
-   "thumbnail": "https://i.ytimg.com/vi/Qq2w-EzNuEE/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/0e89184df688748e.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34922,7 +35155,7 @@ window.ARCHIVE = {
     "2025"
    ],
    "url": "https://www.youtube.com/watch?v=6NNxLGadDC8",
-   "thumbnail": "https://i.ytimg.com/vi/6NNxLGadDC8/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/2df423008088c5e7.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34942,7 +35175,7 @@ window.ARCHIVE = {
     "2024"
    ],
    "url": "https://www.youtube.com/watch?v=sHmckqQHAA4",
-   "thumbnail": "https://i.ytimg.com/vi/sHmckqQHAA4/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/4b5f015746819a1e.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34962,7 +35195,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=_O6ZEXf9LIE",
-   "thumbnail": "https://i.ytimg.com/vi/_O6ZEXf9LIE/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/cb9ffd9604124968.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -34982,7 +35215,7 @@ window.ARCHIVE = {
     "2016"
    ],
    "url": "https://www.youtube.com/watch?v=OX0zHL3Qxf0",
-   "thumbnail": "https://i.ytimg.com/vi/OX0zHL3Qxf0/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/36682d0b8ee5f845.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35002,7 +35235,7 @@ window.ARCHIVE = {
     "2019"
    ],
    "url": "https://www.youtube.com/watch?v=KdpiC_jpAc8",
-   "thumbnail": "https://i.ytimg.com/vi/KdpiC_jpAc8/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/f8cf985b678a323c.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35022,7 +35255,7 @@ window.ARCHIVE = {
     "2018"
    ],
    "url": "https://www.youtube.com/watch?v=XTWQ75ptflU",
-   "thumbnail": "https://i.ytimg.com/vi/XTWQ75ptflU/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/8dcdf5a2d4f78132.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35042,7 +35275,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=77FVaA_gJn4",
-   "thumbnail": "https://i.ytimg.com/vi/77FVaA_gJn4/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/4a91154521628696.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35062,7 +35295,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=ReucEJzE1UM",
-   "thumbnail": "https://i.ytimg.com/vi/ReucEJzE1UM/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/00e0f88834b033bd.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35082,7 +35315,7 @@ window.ARCHIVE = {
     "2021"
    ],
    "url": "https://www.youtube.com/watch?v=6GxIDviDGdE",
-   "thumbnail": "https://i.ytimg.com/vi/6GxIDviDGdE/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/5782d073c872547c.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35102,7 +35335,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=LpZTNUmPqo4",
-   "thumbnail": "https://i.ytimg.com/vi/LpZTNUmPqo4/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/18535f2856a61784.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35122,7 +35355,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=dd9Ln3oJYxU",
-   "thumbnail": "https://i.ytimg.com/vi/dd9Ln3oJYxU/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/36cf8799568b18d3.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35142,7 +35375,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=6G0EvL8LHfo",
-   "thumbnail": "https://i.ytimg.com/vi/6G0EvL8LHfo/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/69f2645004129f00.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35162,7 +35395,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=YeKFMRLwYsQ",
-   "thumbnail": "https://i.ytimg.com/vi/YeKFMRLwYsQ/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/f153bc231fe25863.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35182,7 +35415,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=umY2Y7HkdKU",
-   "thumbnail": "https://i.ytimg.com/vi/umY2Y7HkdKU/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/e58197e92880c157.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35202,7 +35435,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=FF1N3If3nN8",
-   "thumbnail": "https://i.ytimg.com/vi/FF1N3If3nN8/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/de8bc9a830101fb0.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35222,7 +35455,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=pAcxSeWhtAg",
-   "thumbnail": "https://i.ytimg.com/vi/pAcxSeWhtAg/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/1d5ae282fd1b8f40.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35242,7 +35475,7 @@ window.ARCHIVE = {
     "2020"
    ],
    "url": "https://www.youtube.com/watch?v=OmG0jbtii4Q",
-   "thumbnail": "https://i.ytimg.com/vi/OmG0jbtii4Q/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/94a1fd0a37eb15b4.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35262,7 +35495,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=52jiK5L3P0U",
-   "thumbnail": "https://i.ytimg.com/vi/52jiK5L3P0U/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/61403bdcd6005803.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35282,7 +35515,7 @@ window.ARCHIVE = {
     "2020"
    ],
    "url": "https://www.youtube.com/watch?v=fClmtQ4s34o",
-   "thumbnail": "https://i.ytimg.com/vi/fClmtQ4s34o/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/d318c3b6c3cffec8.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35302,7 +35535,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=fsueA9bVQnw",
-   "thumbnail": "https://i.ytimg.com/vi/fsueA9bVQnw/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/55044cf849de52ee.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35322,7 +35555,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=kEZ2glxt0vo",
-   "thumbnail": "https://i.ytimg.com/vi/kEZ2glxt0vo/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/daeae6c46828abe2.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35342,7 +35575,7 @@ window.ARCHIVE = {
     "2024"
    ],
    "url": "https://www.youtube.com/watch?v=mrZzwupg9Mk",
-   "thumbnail": "https://i.ytimg.com/vi/mrZzwupg9Mk/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/9e12f639cc6e20a1.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35362,7 +35595,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=Q_bzGA58Qgk",
-   "thumbnail": "https://i.ytimg.com/vi/Q_bzGA58Qgk/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/33f38b7ae70166ff.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -35382,7 +35615,7 @@ window.ARCHIVE = {
     "2026"
    ],
    "url": "https://www.youtube.com/watch?v=8F76F_BgyCw",
-   "thumbnail": "https://i.ytimg.com/vi/8F76F_BgyCw/hqdefault.jpg",
+   "thumbnail": "assets/img/ext/a22884c70885c17e.jpg",
    "playlists": [],
    "platform": "YouTube",
    "rel": "简介列出东启介｜2026.11.19补充",
@@ -38435,7 +38668,915 @@ window.ARCHIVE = {
   "8d39e8ba3776aa27": "assets/img/8d39e8ba3776aa27.jpg",
   "2ce3752c8502b0c8": "assets/img/2ce3752c8502b0c8.jpg",
   "28394eb0db30e1cc": "assets/img/28394eb0db30e1cc.jpg",
-  "b79726fefe919733": "assets/img/b79726fefe919733.jpg"
+  "b79726fefe919733": "assets/img/b79726fefe919733.jpg",
+  "x5207f37e88d0db97": "assets/img/ext/5207f37e88d0db97.jpg",
+  "x35a94767a3a04942": "assets/img/ext/35a94767a3a04942.jpg",
+  "xf40d9425c4e97d25": "assets/img/ext/f40d9425c4e97d25.jpg",
+  "x667057cf81bded05": "assets/img/ext/667057cf81bded05.jpg",
+  "xf98c31eacc1263f1": "assets/img/ext/f98c31eacc1263f1.jpg",
+  "xe5fe227334127bf7": "assets/img/ext/e5fe227334127bf7.jpg",
+  "xa36e5f85a6903d08": "assets/img/ext/a36e5f85a6903d08.jpg",
+  "x3e6a0eb1831ed00c": "assets/img/ext/3e6a0eb1831ed00c.jpg",
+  "xc422f2ad31f5d887": "assets/img/ext/c422f2ad31f5d887.jpg",
+  "xc1018094c322f1bd": "assets/img/ext/c1018094c322f1bd.jpg",
+  "xbf47da3544175745": "assets/img/ext/bf47da3544175745.jpg",
+  "x00c9745ff590c36a": "assets/img/ext/00c9745ff590c36a.jpg",
+  "x8dfcda575ef2c976": "assets/img/ext/8dfcda575ef2c976.jpg",
+  "x608ce8f0d7ce664c": "assets/img/ext/608ce8f0d7ce664c.jpg",
+  "x2add50581ebe6f11": "assets/img/ext/2add50581ebe6f11.jpg",
+  "x485825e5b4c3768d": "assets/img/ext/485825e5b4c3768d.jpg",
+  "xd14ff579723e5130": "assets/img/ext/d14ff579723e5130.jpg",
+  "x9b35cc982edd3ceb": "assets/img/ext/9b35cc982edd3ceb.jpg",
+  "x521bded6d61e1f25": "assets/img/ext/521bded6d61e1f25.jpg",
+  "xac39fd65f5ac3271": "assets/img/ext/ac39fd65f5ac3271.jpg",
+  "x5a45df88e8585765": "assets/img/ext/5a45df88e8585765.jpg",
+  "x5648b0a72eb17816": "assets/img/ext/5648b0a72eb17816.jpg",
+  "x0ce2324b0228ea5e": "assets/img/ext/0ce2324b0228ea5e.jpg",
+  "x5289ff65d3480b5d": "assets/img/ext/5289ff65d3480b5d.jpg",
+  "xa9ecf2cb6747f4cb": "assets/img/ext/a9ecf2cb6747f4cb.jpg",
+  "x797bd1025a909c72": "assets/img/ext/797bd1025a909c72.jpg",
+  "x9563581f50524448": "assets/img/ext/9563581f50524448.jpg",
+  "x7d22b8062e130eaa": "assets/img/ext/7d22b8062e130eaa.jpg",
+  "xb283dfd7fa2bcf15": "assets/img/ext/b283dfd7fa2bcf15.jpg",
+  "x7bd8fc8c7dfe90c6": "assets/img/ext/7bd8fc8c7dfe90c6.jpg",
+  "x2eef45b92fb06363": "assets/img/ext/2eef45b92fb06363.jpg",
+  "x282a58992637d45f": "assets/img/ext/282a58992637d45f.jpg",
+  "xab1c18e49e9aa489": "assets/img/ext/ab1c18e49e9aa489.jpg",
+  "xe07a91d385784540": "assets/img/ext/e07a91d385784540.jpg",
+  "x8eab74c4f3c27848": "assets/img/ext/8eab74c4f3c27848.jpg",
+  "x925398db74f28fe6": "assets/img/ext/925398db74f28fe6.jpg",
+  "x8deafe8e1b572394": "assets/img/ext/8deafe8e1b572394.jpg",
+  "x55a66d328378ed5c": "assets/img/ext/55a66d328378ed5c.jpg",
+  "xa808fe517328536d": "assets/img/ext/a808fe517328536d.jpg",
+  "x1e217c69e73b3dbe": "assets/img/ext/1e217c69e73b3dbe.jpg",
+  "x58bf42ce70e51f47": "assets/img/ext/58bf42ce70e51f47.jpg",
+  "x831d2c1282cac56e": "assets/img/ext/831d2c1282cac56e.jpg",
+  "xdf1b49df0841cdbc": "assets/img/ext/df1b49df0841cdbc.jpg",
+  "xcd51c0d5f44218f4": "assets/img/ext/cd51c0d5f44218f4.jpg",
+  "x18da870751a9d05e": "assets/img/ext/18da870751a9d05e.jpg",
+  "xcfc0097833b2ef07": "assets/img/ext/cfc0097833b2ef07.jpg",
+  "x7bb9638141e7391c": "assets/img/ext/7bb9638141e7391c.jpg",
+  "xe69949b6f2d4c2cf": "assets/img/ext/e69949b6f2d4c2cf.jpg",
+  "xf0fdb27dea79f5b5": "assets/img/ext/f0fdb27dea79f5b5.jpg",
+  "xf0309b1d8c3906e9": "assets/img/ext/f0309b1d8c3906e9.jpg",
+  "xa736213d3f9eafa7": "assets/img/ext/a736213d3f9eafa7.jpg",
+  "xe26b3f392aead5c8": "assets/img/ext/e26b3f392aead5c8.jpg",
+  "xed4804a3373eccb7": "assets/img/ext/ed4804a3373eccb7.jpg",
+  "x64e4d8d7f23a51a8": "assets/img/ext/64e4d8d7f23a51a8.jpg",
+  "x683dcb19e8d67c36": "assets/img/ext/683dcb19e8d67c36.jpg",
+  "xe36f5879b77b7ff7": "assets/img/ext/e36f5879b77b7ff7.jpg",
+  "x8a6430d6f63e5d65": "assets/img/ext/8a6430d6f63e5d65.jpg",
+  "x8b9675157cf8ac2c": "assets/img/ext/8b9675157cf8ac2c.jpg",
+  "xa64e7d503049c893": "assets/img/ext/a64e7d503049c893.jpg",
+  "x045ec19bd4fe8c95": "assets/img/ext/045ec19bd4fe8c95.jpg",
+  "xf81007dc6f50ad5d": "assets/img/ext/f81007dc6f50ad5d.jpg",
+  "x825214ec39a778a7": "assets/img/ext/825214ec39a778a7.jpg",
+  "x3a5f2a8fbdfd3eac": "assets/img/ext/3a5f2a8fbdfd3eac.jpg",
+  "x8aac4155dc96ff37": "assets/img/ext/8aac4155dc96ff37.jpg",
+  "xb8926f1833358a0f": "assets/img/ext/b8926f1833358a0f.jpg",
+  "xb5e0cb2a04fcd745": "assets/img/ext/b5e0cb2a04fcd745.jpg",
+  "xd52d64916be42287": "assets/img/ext/d52d64916be42287.jpg",
+  "x6d9bf685bd925c52": "assets/img/ext/6d9bf685bd925c52.jpg",
+  "x5a753c9a993d1b92": "assets/img/ext/5a753c9a993d1b92.jpg",
+  "xc200db784fc5ddad": "assets/img/ext/c200db784fc5ddad.jpg",
+  "xaafca6c2ad4a9c24": "assets/img/ext/aafca6c2ad4a9c24.jpg",
+  "x18c5e7a0f1329e13": "assets/img/ext/18c5e7a0f1329e13.jpg",
+  "xa3f507cb37462e14": "assets/img/ext/a3f507cb37462e14.jpg",
+  "xf11f33693cde3db9": "assets/img/ext/f11f33693cde3db9.jpg",
+  "xda9dd71d2168e009": "assets/img/ext/da9dd71d2168e009.jpg",
+  "xf28c97a26a687194": "assets/img/ext/f28c97a26a687194.jpg",
+  "x0b21d34b87ba8bda": "assets/img/ext/0b21d34b87ba8bda.jpg",
+  "x52681176bd28350d": "assets/img/ext/52681176bd28350d.jpg",
+  "x8a0dcd4005cfdba5": "assets/img/ext/8a0dcd4005cfdba5.jpg",
+  "x072c4403b5ddc3e3": "assets/img/ext/072c4403b5ddc3e3.jpg",
+  "x4ce9813049f5bffc": "assets/img/ext/4ce9813049f5bffc.jpg",
+  "x5198ca7f81c21030": "assets/img/ext/5198ca7f81c21030.jpg",
+  "x6df81844a0e768dd": "assets/img/ext/6df81844a0e768dd.jpg",
+  "xa9a5ac144ed74af3": "assets/img/ext/a9a5ac144ed74af3.jpg",
+  "x1bcb17767d828f1e": "assets/img/ext/1bcb17767d828f1e.jpg",
+  "x65bb1426795d17d2": "assets/img/ext/65bb1426795d17d2.jpg",
+  "xd89766b2bdc41e62": "assets/img/ext/d89766b2bdc41e62.jpg",
+  "xed8d1f2bef866039": "assets/img/ext/ed8d1f2bef866039.jpg",
+  "x1ff82d2cf1ae9ab6": "assets/img/ext/1ff82d2cf1ae9ab6.jpg",
+  "x835ffa67f4c3fe5e": "assets/img/ext/835ffa67f4c3fe5e.jpg",
+  "x91e1c6b9b48bb8c5": "assets/img/ext/91e1c6b9b48bb8c5.jpg",
+  "x300712aa35c78035": "assets/img/ext/300712aa35c78035.jpg",
+  "xc67eb2cbf436ff84": "assets/img/ext/c67eb2cbf436ff84.jpg",
+  "xbfacbad7ff7ccbf2": "assets/img/ext/bfacbad7ff7ccbf2.jpg",
+  "x25ae0b396c07498c": "assets/img/ext/25ae0b396c07498c.jpg",
+  "x14002ea0a5b3e408": "assets/img/ext/14002ea0a5b3e408.jpg",
+  "xad088ff529a30b76": "assets/img/ext/ad088ff529a30b76.jpg",
+  "x94d11164b4edfbcc": "assets/img/ext/94d11164b4edfbcc.jpg",
+  "x88dcc5e83ac7bb12": "assets/img/ext/88dcc5e83ac7bb12.jpg",
+  "xa87abeef7ec63c25": "assets/img/ext/a87abeef7ec63c25.jpg",
+  "xfdeb5401f92d39f3": "assets/img/ext/fdeb5401f92d39f3.jpg",
+  "xa670e03f555c5c4f": "assets/img/ext/a670e03f555c5c4f.jpg",
+  "xb0332531d76cdffd": "assets/img/ext/b0332531d76cdffd.jpg",
+  "xa1112fea24b9cd12": "assets/img/ext/a1112fea24b9cd12.jpg",
+  "xf77bb5d8a0be099f": "assets/img/ext/f77bb5d8a0be099f.jpg",
+  "x20cefcf1fc6f1d3a": "assets/img/ext/20cefcf1fc6f1d3a.jpg",
+  "xd036532ef72b3ae5": "assets/img/ext/d036532ef72b3ae5.jpg",
+  "xea934bca0b57b5b3": "assets/img/ext/ea934bca0b57b5b3.jpg",
+  "x0055ae993c4b51a4": "assets/img/ext/0055ae993c4b51a4.jpg",
+  "xcaee12258c8dd93a": "assets/img/ext/caee12258c8dd93a.jpg",
+  "x51b8b45be87e9ac3": "assets/img/ext/51b8b45be87e9ac3.jpg",
+  "x32e02d6676c68bfd": "assets/img/ext/32e02d6676c68bfd.jpg",
+  "x4918e2c6519181a4": "assets/img/ext/4918e2c6519181a4.jpg",
+  "xb13bce9b8f246a98": "assets/img/ext/b13bce9b8f246a98.jpg",
+  "x405e75c9482a6e13": "assets/img/ext/405e75c9482a6e13.jpg",
+  "xd618f0a777ea31ea": "assets/img/ext/d618f0a777ea31ea.jpg",
+  "x21a738be388c4e4f": "assets/img/ext/21a738be388c4e4f.jpg",
+  "x90524a355705b645": "assets/img/ext/90524a355705b645.jpg",
+  "x3e8691470968a825": "assets/img/ext/3e8691470968a825.jpg",
+  "x29f0094a5d3bf656": "assets/img/ext/29f0094a5d3bf656.jpg",
+  "xf31504a10cc6d644": "assets/img/ext/f31504a10cc6d644.jpg",
+  "xa6d91aafd4a9bc72": "assets/img/ext/a6d91aafd4a9bc72.jpg",
+  "xb9f21423a3482922": "assets/img/ext/b9f21423a3482922.jpg",
+  "x042dadc4b9cdcc6e": "assets/img/ext/042dadc4b9cdcc6e.jpg",
+  "x5525e51a76c4e199": "assets/img/ext/5525e51a76c4e199.jpg",
+  "xb37f0ef147bf0c83": "assets/img/ext/b37f0ef147bf0c83.jpg",
+  "x912e2bce3f2aaa19": "assets/img/ext/912e2bce3f2aaa19.jpg",
+  "x5d73320f4200d35e": "assets/img/ext/5d73320f4200d35e.jpg",
+  "x2a082efe57fb8792": "assets/img/ext/2a082efe57fb8792.jpg",
+  "xbdcd7123b6c8e71e": "assets/img/ext/bdcd7123b6c8e71e.jpg",
+  "xb8701543e4524213": "assets/img/ext/b8701543e4524213.jpg",
+  "xcf479ddc9e32da31": "assets/img/ext/cf479ddc9e32da31.jpg",
+  "xb5767b1fcabd1bce": "assets/img/ext/b5767b1fcabd1bce.jpg",
+  "x0dd71665a0e9b21f": "assets/img/ext/0dd71665a0e9b21f.jpg",
+  "xb4cf6ba38f3147a6": "assets/img/ext/b4cf6ba38f3147a6.jpg",
+  "x7a5d416266b80011": "assets/img/ext/7a5d416266b80011.jpg",
+  "x942c22b2bfd7bcd3": "assets/img/ext/942c22b2bfd7bcd3.jpg",
+  "x547c17e872100d9c": "assets/img/ext/547c17e872100d9c.jpg",
+  "x20fe37c2eb641db6": "assets/img/ext/20fe37c2eb641db6.jpg",
+  "xd5300b9acf62394a": "assets/img/ext/d5300b9acf62394a.jpg",
+  "xdffdfd99c2e214be": "assets/img/ext/dffdfd99c2e214be.jpg",
+  "xe11cd204113cecb5": "assets/img/ext/e11cd204113cecb5.jpg",
+  "x8de4a9171fece4a9": "assets/img/ext/8de4a9171fece4a9.jpg",
+  "x884f7328757639d4": "assets/img/ext/884f7328757639d4.jpg",
+  "x2c9d925f7c696239": "assets/img/ext/2c9d925f7c696239.jpg",
+  "x82f5373fb7c1bdac": "assets/img/ext/82f5373fb7c1bdac.jpg",
+  "x3fcab65f5eea2900": "assets/img/ext/3fcab65f5eea2900.jpg",
+  "x70a938f31735d394": "assets/img/ext/70a938f31735d394.jpg",
+  "x05e14eeda7a1a7e8": "assets/img/ext/05e14eeda7a1a7e8.jpg",
+  "x2ff8fb27cfa1ab80": "assets/img/ext/2ff8fb27cfa1ab80.jpg",
+  "xfa50619fe3a25153": "assets/img/ext/fa50619fe3a25153.jpg",
+  "xd4101ca8b9b9c7c0": "assets/img/ext/d4101ca8b9b9c7c0.jpg",
+  "x06b8868364748d36": "assets/img/ext/06b8868364748d36.jpg",
+  "x98259191f339e834": "assets/img/ext/98259191f339e834.jpg",
+  "x5782eed44b0392b2": "assets/img/ext/5782eed44b0392b2.jpg",
+  "xa5f83867c04fad11": "assets/img/ext/a5f83867c04fad11.jpg",
+  "xf2cc88e031d211b2": "assets/img/ext/f2cc88e031d211b2.jpg",
+  "x80a45f7d88161543": "assets/img/ext/80a45f7d88161543.jpg",
+  "x3b26885f623ca5db": "assets/img/ext/3b26885f623ca5db.jpg",
+  "xe556f17d532a7dde": "assets/img/ext/e556f17d532a7dde.jpg",
+  "xa46068b8841709eb": "assets/img/ext/a46068b8841709eb.jpg",
+  "x1a5c4d644b14893b": "assets/img/ext/1a5c4d644b14893b.jpg",
+  "xedc644e33f8958a3": "assets/img/ext/edc644e33f8958a3.jpg",
+  "x80da66543da25438": "assets/img/ext/80da66543da25438.jpg",
+  "xd10faa64c52fa43b": "assets/img/ext/d10faa64c52fa43b.jpg",
+  "x0c458d2bb2705275": "assets/img/ext/0c458d2bb2705275.jpg",
+  "xc666d919cd2ff628": "assets/img/ext/c666d919cd2ff628.jpg",
+  "xb160ca8c8d639cea": "assets/img/ext/b160ca8c8d639cea.jpg",
+  "x2031018337bea8cc": "assets/img/ext/2031018337bea8cc.jpg",
+  "x8e69d69f9be6f54b": "assets/img/ext/8e69d69f9be6f54b.jpg",
+  "x8d9f9f03643465c2": "assets/img/ext/8d9f9f03643465c2.jpg",
+  "x8d79e6567a27e2cb": "assets/img/ext/8d79e6567a27e2cb.jpg",
+  "xd72e7e863c875bd6": "assets/img/ext/d72e7e863c875bd6.jpg",
+  "x1597fb7855063b18": "assets/img/ext/1597fb7855063b18.jpg",
+  "x72e7c2807d277196": "assets/img/ext/72e7c2807d277196.jpg",
+  "x545c2590faaf4002": "assets/img/ext/545c2590faaf4002.jpg",
+  "x9582b2cff2d9f3b5": "assets/img/ext/9582b2cff2d9f3b5.jpg",
+  "xdba09a38bb123b90": "assets/img/ext/dba09a38bb123b90.jpg",
+  "xdd7033630d290909": "assets/img/ext/dd7033630d290909.jpg",
+  "x27f6577af11a03db": "assets/img/ext/27f6577af11a03db.jpg",
+  "xfbba9ada0da47dfe": "assets/img/ext/fbba9ada0da47dfe.jpg",
+  "x1a6a4da85fb79065": "assets/img/ext/1a6a4da85fb79065.jpg",
+  "xbf4a3471d2d429a6": "assets/img/ext/bf4a3471d2d429a6.jpg",
+  "xdac81d08aadf0190": "assets/img/ext/dac81d08aadf0190.jpg",
+  "x405ad19ba6f97a8c": "assets/img/ext/405ad19ba6f97a8c.jpg",
+  "xf8735495d66657dc": "assets/img/ext/f8735495d66657dc.jpg",
+  "xdc709571116244bd": "assets/img/ext/dc709571116244bd.jpg",
+  "x4ca09a3dea494486": "assets/img/ext/4ca09a3dea494486.jpg",
+  "xa69303365f833c92": "assets/img/ext/a69303365f833c92.jpg",
+  "x498e7fe834c351bf": "assets/img/ext/498e7fe834c351bf.jpg",
+  "x78fc621e60390687": "assets/img/ext/78fc621e60390687.jpg",
+  "x3cb032630051dfd6": "assets/img/ext/3cb032630051dfd6.jpg",
+  "x93ad6e782ad8002b": "assets/img/ext/93ad6e782ad8002b.jpg",
+  "x4538ae124aa8717b": "assets/img/ext/4538ae124aa8717b.jpg",
+  "x51a1b6bb4cfeabfe": "assets/img/ext/51a1b6bb4cfeabfe.jpg",
+  "x9e389c6af0e683a8": "assets/img/ext/9e389c6af0e683a8.jpg",
+  "x4fb024e028cdd20f": "assets/img/ext/4fb024e028cdd20f.jpg",
+  "x0806a4b4b3803a02": "assets/img/ext/0806a4b4b3803a02.jpg",
+  "x0a4561aee2f6c243": "assets/img/ext/0a4561aee2f6c243.jpg",
+  "xc7939327a6ebbc65": "assets/img/ext/c7939327a6ebbc65.jpg",
+  "x4aa4f78a83d188ab": "assets/img/ext/4aa4f78a83d188ab.jpg",
+  "xd1744e82297beb65": "assets/img/ext/d1744e82297beb65.jpg",
+  "x16f99d922fc33345": "assets/img/ext/16f99d922fc33345.jpg",
+  "x4b75f278563825de": "assets/img/ext/4b75f278563825de.jpg",
+  "xbe5754a594ff2e37": "assets/img/ext/be5754a594ff2e37.jpg",
+  "xfe641bb57a32650b": "assets/img/ext/fe641bb57a32650b.jpg",
+  "x27c9b2e32357e422": "assets/img/ext/27c9b2e32357e422.jpg",
+  "xe4023c736441c04c": "assets/img/ext/e4023c736441c04c.jpg",
+  "x58224150ed611895": "assets/img/ext/58224150ed611895.jpg",
+  "xce1c48b97ac2ebfc": "assets/img/ext/ce1c48b97ac2ebfc.jpg",
+  "xd4532c9e86c29261": "assets/img/ext/d4532c9e86c29261.jpg",
+  "x32ce6a798c921a67": "assets/img/ext/32ce6a798c921a67.jpg",
+  "x3209e7f987dcca85": "assets/img/ext/3209e7f987dcca85.jpg",
+  "xd79f5e7d92b62dae": "assets/img/ext/d79f5e7d92b62dae.jpg",
+  "xf62dd9d31e814a79": "assets/img/ext/f62dd9d31e814a79.jpg",
+  "x44ecfc72e7d6a7e8": "assets/img/ext/44ecfc72e7d6a7e8.jpg",
+  "xb032751b0b44f953": "assets/img/ext/b032751b0b44f953.jpg",
+  "xffd6275bac84e963": "assets/img/ext/ffd6275bac84e963.jpg",
+  "xe9b4542d2f3ce6cb": "assets/img/ext/e9b4542d2f3ce6cb.jpg",
+  "x7ab1753485bae9a3": "assets/img/ext/7ab1753485bae9a3.jpg",
+  "xc48cb941270307d7": "assets/img/ext/c48cb941270307d7.jpg",
+  "xa170c241801c83e7": "assets/img/ext/a170c241801c83e7.jpg",
+  "x6b07ce47e4571bd1": "assets/img/ext/6b07ce47e4571bd1.jpg",
+  "x990f8f36f84786c6": "assets/img/ext/990f8f36f84786c6.jpg",
+  "xef4c8db5256d9841": "assets/img/ext/ef4c8db5256d9841.jpg",
+  "xb18bf6f8cdd0f4ad": "assets/img/ext/b18bf6f8cdd0f4ad.jpg",
+  "xc932ee9a79fc2082": "assets/img/ext/c932ee9a79fc2082.jpg",
+  "x3279460f0fad4bb5": "assets/img/ext/3279460f0fad4bb5.jpg",
+  "x8655334d8a9d4d39": "assets/img/ext/8655334d8a9d4d39.jpg",
+  "x6c45c9a9e3280941": "assets/img/ext/6c45c9a9e3280941.jpg",
+  "x48b95121396c05b0": "assets/img/ext/48b95121396c05b0.jpg",
+  "xaadf59013f8784b2": "assets/img/ext/aadf59013f8784b2.jpg",
+  "xe96b4a647714aebe": "assets/img/ext/e96b4a647714aebe.jpg",
+  "x604a079e701feca1": "assets/img/ext/604a079e701feca1.jpg",
+  "xaa20f24c8f331e16": "assets/img/ext/aa20f24c8f331e16.jpg",
+  "x713f6ce91f529369": "assets/img/ext/713f6ce91f529369.jpg",
+  "xab6dd9aa81249557": "assets/img/ext/ab6dd9aa81249557.jpg",
+  "xfe75d24ed82b94c9": "assets/img/ext/fe75d24ed82b94c9.jpg",
+  "xaa0b96f3113359e8": "assets/img/ext/aa0b96f3113359e8.jpg",
+  "xd1dcd2e29823ba12": "assets/img/ext/d1dcd2e29823ba12.jpg",
+  "xb86d22291591e759": "assets/img/ext/b86d22291591e759.jpg",
+  "xb6be349de889a358": "assets/img/ext/b6be349de889a358.jpg",
+  "x55b299d6e2fa6ae8": "assets/img/ext/55b299d6e2fa6ae8.jpg",
+  "x08d3bd6be2888c40": "assets/img/ext/08d3bd6be2888c40.jpg",
+  "x972cb53a10969ca5": "assets/img/ext/972cb53a10969ca5.jpg",
+  "xfc9ed50b38916171": "assets/img/ext/fc9ed50b38916171.jpg",
+  "x1b927233588123f9": "assets/img/ext/1b927233588123f9.jpg",
+  "x77d0f3cf31514634": "assets/img/ext/77d0f3cf31514634.jpg",
+  "x43d46ba822b21e77": "assets/img/ext/43d46ba822b21e77.jpg",
+  "x77781f48f5e92181": "assets/img/ext/77781f48f5e92181.jpg",
+  "x9ca773d596b98e6e": "assets/img/ext/9ca773d596b98e6e.jpg",
+  "xae72ccaf24f0ca91": "assets/img/ext/ae72ccaf24f0ca91.jpg",
+  "x1eaeea964d765f3d": "assets/img/ext/1eaeea964d765f3d.jpg",
+  "x3d7bd804c20b23c2": "assets/img/ext/3d7bd804c20b23c2.jpg",
+  "x8fce6e600c1e3fd2": "assets/img/ext/8fce6e600c1e3fd2.jpg",
+  "x395d12b2f0f6cf90": "assets/img/ext/395d12b2f0f6cf90.jpg",
+  "xda668d69ce6d3e33": "assets/img/ext/da668d69ce6d3e33.jpg",
+  "x8ea784dd568da3f0": "assets/img/ext/8ea784dd568da3f0.jpg",
+  "x04b0932d744f7e42": "assets/img/ext/04b0932d744f7e42.jpg",
+  "x98675e0dee579f14": "assets/img/ext/98675e0dee579f14.jpg",
+  "x9cc1d432bd7ebac9": "assets/img/ext/9cc1d432bd7ebac9.jpg",
+  "xa45a995063561c9e": "assets/img/ext/a45a995063561c9e.jpg",
+  "x424af018d8eac46c": "assets/img/ext/424af018d8eac46c.jpg",
+  "xd7d17ce18aa98fa6": "assets/img/ext/d7d17ce18aa98fa6.jpg",
+  "xefbd1972e42b2a14": "assets/img/ext/efbd1972e42b2a14.jpg",
+  "x8b7fa7e8c9b6ecca": "assets/img/ext/8b7fa7e8c9b6ecca.jpg",
+  "x63c77ec7b43128d9": "assets/img/ext/63c77ec7b43128d9.jpg",
+  "xe7e981344b90e3c3": "assets/img/ext/e7e981344b90e3c3.jpg",
+  "xe49b0f93c4261a5e": "assets/img/ext/e49b0f93c4261a5e.jpg",
+  "x42d8dc35b1703998": "assets/img/ext/42d8dc35b1703998.jpg",
+  "x01ab20185f540827": "assets/img/ext/01ab20185f540827.jpg",
+  "x7b0cba1fd7eb70d3": "assets/img/ext/7b0cba1fd7eb70d3.jpg",
+  "xc17646de97aa090f": "assets/img/ext/c17646de97aa090f.jpg",
+  "x12edb85c543b71c6": "assets/img/ext/12edb85c543b71c6.jpg",
+  "xeb0de656b228e1a5": "assets/img/ext/eb0de656b228e1a5.jpg",
+  "x844a67cce884211f": "assets/img/ext/844a67cce884211f.jpg",
+  "xca18ad7b7b269e72": "assets/img/ext/ca18ad7b7b269e72.jpg",
+  "xd317e53eae079e19": "assets/img/ext/d317e53eae079e19.jpg",
+  "x59c25f9e0e5e12dc": "assets/img/ext/59c25f9e0e5e12dc.jpg",
+  "xc5bb15b89e491b66": "assets/img/ext/c5bb15b89e491b66.jpg",
+  "x7af5ec4bf7f15c9b": "assets/img/ext/7af5ec4bf7f15c9b.jpg",
+  "x60ee42106dd8b5d2": "assets/img/ext/60ee42106dd8b5d2.jpg",
+  "x8f4303aaaa8857c4": "assets/img/ext/8f4303aaaa8857c4.jpg",
+  "x23a4975a4bb339f3": "assets/img/ext/23a4975a4bb339f3.jpg",
+  "xfd7a86181a635ee1": "assets/img/ext/fd7a86181a635ee1.jpg",
+  "xfe29dd14fdb54bc9": "assets/img/ext/fe29dd14fdb54bc9.jpg",
+  "xaf3339dc9a6279ec": "assets/img/ext/af3339dc9a6279ec.jpg",
+  "xf1ce334af9487bc1": "assets/img/ext/f1ce334af9487bc1.jpg",
+  "x04ae918335be13ba": "assets/img/ext/04ae918335be13ba.jpg",
+  "xc25dc250025cd77c": "assets/img/ext/c25dc250025cd77c.jpg",
+  "x2770689fd5654cd4": "assets/img/ext/2770689fd5654cd4.jpg",
+  "xd1ab446944ff45c7": "assets/img/ext/d1ab446944ff45c7.jpg",
+  "xc065cbfa23251e70": "assets/img/ext/c065cbfa23251e70.jpg",
+  "xa337e65d6bdcbffe": "assets/img/ext/a337e65d6bdcbffe.jpg",
+  "x72424ed0e9100f59": "assets/img/ext/72424ed0e9100f59.jpg",
+  "x4dbccde53907dee7": "assets/img/ext/4dbccde53907dee7.jpg",
+  "xff1cd867bd5b6f52": "assets/img/ext/ff1cd867bd5b6f52.jpg",
+  "xbc205043c0849631": "assets/img/ext/bc205043c0849631.jpg",
+  "xf1ac92c23c68ff83": "assets/img/ext/f1ac92c23c68ff83.jpg",
+  "x9e7fb364282a78a7": "assets/img/ext/9e7fb364282a78a7.jpg",
+  "xccd3d4b4ef21319f": "assets/img/ext/ccd3d4b4ef21319f.jpg",
+  "x85c3b1830207ab1d": "assets/img/ext/85c3b1830207ab1d.jpg",
+  "x15ad3e236523c03d": "assets/img/ext/15ad3e236523c03d.jpg",
+  "x7b51f9e0672420c3": "assets/img/ext/7b51f9e0672420c3.jpg",
+  "x50d3559328e0efaf": "assets/img/ext/50d3559328e0efaf.jpg",
+  "x4b3c21274320afec": "assets/img/ext/4b3c21274320afec.jpg",
+  "x616faa5a29b7bd61": "assets/img/ext/616faa5a29b7bd61.jpg",
+  "x5fcfb0f738b4937d": "assets/img/ext/5fcfb0f738b4937d.jpg",
+  "x384b1ec1d3a7c47f": "assets/img/ext/384b1ec1d3a7c47f.jpg",
+  "x594b0c17a22e15d3": "assets/img/ext/594b0c17a22e15d3.jpg",
+  "xe55968f044c336ab": "assets/img/ext/e55968f044c336ab.jpg",
+  "x2469c0cc6b5048fd": "assets/img/ext/2469c0cc6b5048fd.jpg",
+  "xb5b222b90b67a5a8": "assets/img/ext/b5b222b90b67a5a8.jpg",
+  "x612dadb3d32e3d4f": "assets/img/ext/612dadb3d32e3d4f.jpg",
+  "xb99f7d999365c59e": "assets/img/ext/b99f7d999365c59e.jpg",
+  "xd2853f52dd7be3ba": "assets/img/ext/d2853f52dd7be3ba.jpg",
+  "xe684d454c4539abf": "assets/img/ext/e684d454c4539abf.jpg",
+  "xf99c7be14377a90d": "assets/img/ext/f99c7be14377a90d.jpg",
+  "xc1463cd2c7640104": "assets/img/ext/c1463cd2c7640104.png",
+  "x36d968a98fbef825": "assets/img/ext/36d968a98fbef825.jpg",
+  "x088c97eda5e51e45": "assets/img/ext/088c97eda5e51e45.jpg",
+  "x61ce62a0b9d61190": "assets/img/ext/61ce62a0b9d61190.png",
+  "x3b915438400c1065": "assets/img/ext/3b915438400c1065.jpg",
+  "x2af24f61f3cce8b0": "assets/img/ext/2af24f61f3cce8b0.jpg",
+  "xf4cee3cfb1dae920": "assets/img/ext/f4cee3cfb1dae920.jpg",
+  "x978c6e11cca0f422": "assets/img/ext/978c6e11cca0f422.jpg",
+  "x0aedda9cb7aa7c51": "assets/img/ext/0aedda9cb7aa7c51.jpg",
+  "xd06ca5d501b3cac8": "assets/img/ext/d06ca5d501b3cac8.jpg",
+  "x63985a1715d760ea": "assets/img/ext/63985a1715d760ea.jpg",
+  "xd9a5b1f2199bdfe1": "assets/img/ext/d9a5b1f2199bdfe1.jpg",
+  "xea5ae7b007e6d6d5": "assets/img/ext/ea5ae7b007e6d6d5.jpg",
+  "x47d687ba5f7916e2": "assets/img/ext/47d687ba5f7916e2.jpg",
+  "x8f2b801c07035a52": "assets/img/ext/8f2b801c07035a52.jpg",
+  "xbdc46e70bb1e8b32": "assets/img/ext/bdc46e70bb1e8b32.jpg",
+  "xb3544334b217d9e8": "assets/img/ext/b3544334b217d9e8.jpg",
+  "xf7e0b4a5da52a14c": "assets/img/ext/f7e0b4a5da52a14c.jpg",
+  "x1cade61dea6667bb": "assets/img/ext/1cade61dea6667bb.jpg",
+  "x5f918d798f823bd2": "assets/img/ext/5f918d798f823bd2.jpg",
+  "x943cb30dc26786d1": "assets/img/ext/943cb30dc26786d1.jpg",
+  "xac46a0b9ba9f0a3f": "assets/img/ext/ac46a0b9ba9f0a3f.jpg",
+  "xe922d9bbfc69f6ed": "assets/img/ext/e922d9bbfc69f6ed.jpg",
+  "x8eb67e03025fcf51": "assets/img/ext/8eb67e03025fcf51.jpg",
+  "xb57fe4e550b7351e": "assets/img/ext/b57fe4e550b7351e.jpg",
+  "x70de55d4e17aa3ee": "assets/img/ext/70de55d4e17aa3ee.jpg",
+  "xeb24f80f5cce46c5": "assets/img/ext/eb24f80f5cce46c5.jpg",
+  "xcb67d75428559c9b": "assets/img/ext/cb67d75428559c9b.jpg",
+  "xdd591dc8436fb5da": "assets/img/ext/dd591dc8436fb5da.jpg",
+  "xec3730df0e6dde56": "assets/img/ext/ec3730df0e6dde56.jpg",
+  "x8638d3015fd1c475": "assets/img/ext/8638d3015fd1c475.jpg",
+  "x1141d1a6d43e4c77": "assets/img/ext/1141d1a6d43e4c77.jpg",
+  "xf0688866ea8ce713": "assets/img/ext/f0688866ea8ce713.jpg",
+  "xf5ae04b7f2b268ba": "assets/img/ext/f5ae04b7f2b268ba.jpg",
+  "x777fc175c1ecda15": "assets/img/ext/777fc175c1ecda15.jpg",
+  "xf47a05dbe7bcf4f1": "assets/img/ext/f47a05dbe7bcf4f1.jpg",
+  "xe936a3e25d8ad7d0": "assets/img/ext/e936a3e25d8ad7d0.jpg",
+  "x1d644ed967b37c28": "assets/img/ext/1d644ed967b37c28.jpg",
+  "xa047096085cbbcbd": "assets/img/ext/a047096085cbbcbd.jpg",
+  "x54655380cab15e90": "assets/img/ext/54655380cab15e90.jpg",
+  "xca51bb501e86eb19": "assets/img/ext/ca51bb501e86eb19.jpg",
+  "x919689dd9f30269f": "assets/img/ext/919689dd9f30269f.jpg",
+  "xa5d70dde6e285cf4": "assets/img/ext/a5d70dde6e285cf4.jpg",
+  "xbe43b8d1fdbe81c0": "assets/img/ext/be43b8d1fdbe81c0.jpg",
+  "xaafdc381127a465c": "assets/img/ext/aafdc381127a465c.jpg",
+  "x8b602abf330f7f78": "assets/img/ext/8b602abf330f7f78.jpg",
+  "xf4aa0c0d758be71c": "assets/img/ext/f4aa0c0d758be71c.jpg",
+  "x0ab1424a10a9189a": "assets/img/ext/0ab1424a10a9189a.jpg",
+  "x599ea0a2f417a7dc": "assets/img/ext/599ea0a2f417a7dc.jpg",
+  "x982384547a22b8c2": "assets/img/ext/982384547a22b8c2.jpg",
+  "x962ba1ec9808bd1f": "assets/img/ext/962ba1ec9808bd1f.jpg",
+  "xda3a554687febe93": "assets/img/ext/da3a554687febe93.jpg",
+  "xb759334f1e1fdf8a": "assets/img/ext/b759334f1e1fdf8a.jpg",
+  "x45d7289e8b96f8df": "assets/img/ext/45d7289e8b96f8df.jpg",
+  "x3a2344ae9491404c": "assets/img/ext/3a2344ae9491404c.jpg",
+  "x84e786780125b900": "assets/img/ext/84e786780125b900.jpg",
+  "x574e664010f58d75": "assets/img/ext/574e664010f58d75.jpg",
+  "x1df98085eb3fd8f4": "assets/img/ext/1df98085eb3fd8f4.jpg",
+  "xabd8928f5d701370": "assets/img/ext/abd8928f5d701370.jpg",
+  "x64cd0d96e57ca77c": "assets/img/ext/64cd0d96e57ca77c.jpg",
+  "xe200478df6871bc4": "assets/img/ext/e200478df6871bc4.jpg",
+  "xf91b36c580dc346f": "assets/img/ext/f91b36c580dc346f.jpg",
+  "x4a796d833f09eb35": "assets/img/ext/4a796d833f09eb35.jpg",
+  "x633541cf2347de87": "assets/img/ext/633541cf2347de87.jpg",
+  "x5b47c688604260d1": "assets/img/ext/5b47c688604260d1.jpg",
+  "xe3f98b8088f0272f": "assets/img/ext/e3f98b8088f0272f.jpg",
+  "xa6c6bed8c9668f5d": "assets/img/ext/a6c6bed8c9668f5d.jpg",
+  "xf8b164c13140dbe1": "assets/img/ext/f8b164c13140dbe1.jpg",
+  "x34660346908727df": "assets/img/ext/34660346908727df.jpg",
+  "xa1de293c21c5cabe": "assets/img/ext/a1de293c21c5cabe.jpg",
+  "x93218e62cd9262d4": "assets/img/ext/93218e62cd9262d4.jpg",
+  "xdc6e0efe86ac8eec": "assets/img/ext/dc6e0efe86ac8eec.jpg",
+  "x25704c7522b843c1": "assets/img/ext/25704c7522b843c1.jpg",
+  "x572daaed06ee7a54": "assets/img/ext/572daaed06ee7a54.jpg",
+  "xc7dbea0f8a0b429c": "assets/img/ext/c7dbea0f8a0b429c.jpg",
+  "xbdf59bedac412d2c": "assets/img/ext/bdf59bedac412d2c.jpg",
+  "xb7f10bcc0d9b993f": "assets/img/ext/b7f10bcc0d9b993f.jpg",
+  "x3c832cbf2c2fd8e1": "assets/img/ext/3c832cbf2c2fd8e1.jpg",
+  "x6fc1b4427883bc87": "assets/img/ext/6fc1b4427883bc87.jpg",
+  "xf9a5a5961d5dfd18": "assets/img/ext/f9a5a5961d5dfd18.jpg",
+  "xa4ca858b0c741be5": "assets/img/ext/a4ca858b0c741be5.jpg",
+  "xc51416b3577e76a0": "assets/img/ext/c51416b3577e76a0.jpg",
+  "xe99734a45a95bcf4": "assets/img/ext/e99734a45a95bcf4.jpg",
+  "x32204a87d12679dc": "assets/img/ext/32204a87d12679dc.jpg",
+  "xf8b7b48a90addb28": "assets/img/ext/f8b7b48a90addb28.jpg",
+  "x3d203e255e796840": "assets/img/ext/3d203e255e796840.jpg",
+  "xfd1db4323345e723": "assets/img/ext/fd1db4323345e723.jpg",
+  "x143c952a2aadc61f": "assets/img/ext/143c952a2aadc61f.jpg",
+  "xe92974dbd26b3d1b": "assets/img/ext/e92974dbd26b3d1b.jpg",
+  "xd7b9e9e8f74f35a1": "assets/img/ext/d7b9e9e8f74f35a1.jpg",
+  "x1e8b71c5458b0de5": "assets/img/ext/1e8b71c5458b0de5.jpg",
+  "xbe91e17a551cf065": "assets/img/ext/be91e17a551cf065.jpg",
+  "xfc406b762b5e5701": "assets/img/ext/fc406b762b5e5701.jpg",
+  "x6dee60565c4d9c2b": "assets/img/ext/6dee60565c4d9c2b.jpg",
+  "x48e04bc2f0330b92": "assets/img/ext/48e04bc2f0330b92.jpg",
+  "xa3b202d0e54ac8e2": "assets/img/ext/a3b202d0e54ac8e2.jpg",
+  "x2b684f3c54de4fb2": "assets/img/ext/2b684f3c54de4fb2.jpg",
+  "xc09cd37288720a08": "assets/img/ext/c09cd37288720a08.jpg",
+  "x9a5e37691b0de026": "assets/img/ext/9a5e37691b0de026.jpg",
+  "x53f920a475fcdca3": "assets/img/ext/53f920a475fcdca3.jpg",
+  "xd3f9dd6147e37f1e": "assets/img/ext/d3f9dd6147e37f1e.jpg",
+  "xfd5a11256011b357": "assets/img/ext/fd5a11256011b357.jpg",
+  "xd59e99254473b8e7": "assets/img/ext/d59e99254473b8e7.jpg",
+  "x0c4d289a801b21a2": "assets/img/ext/0c4d289a801b21a2.jpg",
+  "x3b308e4f00833491": "assets/img/ext/3b308e4f00833491.jpg",
+  "x1950168dda66027c": "assets/img/ext/1950168dda66027c.jpg",
+  "xe4e9fb416efc1ead": "assets/img/ext/e4e9fb416efc1ead.jpg",
+  "xe555211c9351b456": "assets/img/ext/e555211c9351b456.jpg",
+  "x0bfb1f40c5667593": "assets/img/ext/0bfb1f40c5667593.jpg",
+  "xbaaad0e675727aa3": "assets/img/ext/baaad0e675727aa3.jpg",
+  "x3e00fe9202ff0747": "assets/img/ext/3e00fe9202ff0747.jpg",
+  "x34e93c39ffba928d": "assets/img/ext/34e93c39ffba928d.jpg",
+  "x6d88b3412b1d03a8": "assets/img/ext/6d88b3412b1d03a8.jpg",
+  "x9c5fbafb20b9cc93": "assets/img/ext/9c5fbafb20b9cc93.jpg",
+  "x951c4b86e74be394": "assets/img/ext/951c4b86e74be394.jpg",
+  "x4a4ce5d68ccf1c5b": "assets/img/ext/4a4ce5d68ccf1c5b.jpg",
+  "xeaaa3596dae16848": "assets/img/ext/eaaa3596dae16848.jpg",
+  "x0788d7849aa0213c": "assets/img/ext/0788d7849aa0213c.jpg",
+  "xfe377632f3bfa4a7": "assets/img/ext/fe377632f3bfa4a7.jpg",
+  "x6565f145be20a8de": "assets/img/ext/6565f145be20a8de.jpg",
+  "x77315b55d694780c": "assets/img/ext/77315b55d694780c.jpg",
+  "x0cf733d00340110f": "assets/img/ext/0cf733d00340110f.jpg",
+  "x61cf50de76f333a2": "assets/img/ext/61cf50de76f333a2.jpg",
+  "x5089c1fce31fc361": "assets/img/ext/5089c1fce31fc361.jpg",
+  "xab4b804f9b488f55": "assets/img/ext/ab4b804f9b488f55.jpg",
+  "x322a8a5bf279872a": "assets/img/ext/322a8a5bf279872a.jpg",
+  "xb798529849085a93": "assets/img/ext/b798529849085a93.jpg",
+  "x9dffe2815f805fc1": "assets/img/ext/9dffe2815f805fc1.jpg",
+  "x40db3af7081dc118": "assets/img/ext/40db3af7081dc118.jpg",
+  "x32db50e2ace9a417": "assets/img/ext/32db50e2ace9a417.jpg",
+  "x0d171b17af280683": "assets/img/ext/0d171b17af280683.jpg",
+  "x6673e729a18b593b": "assets/img/ext/6673e729a18b593b.jpg",
+  "x58bd942a2ab6c2e1": "assets/img/ext/58bd942a2ab6c2e1.jpg",
+  "x781930a77ad30dd4": "assets/img/ext/781930a77ad30dd4.jpg",
+  "x3ab6af29866f527b": "assets/img/ext/3ab6af29866f527b.jpg",
+  "x573de6aa995ee88f": "assets/img/ext/573de6aa995ee88f.jpg",
+  "xba27583f93a0c3de": "assets/img/ext/ba27583f93a0c3de.jpg",
+  "x960d8ffaa5a16b6f": "assets/img/ext/960d8ffaa5a16b6f.jpg",
+  "x26206baf541deb38": "assets/img/ext/26206baf541deb38.jpg",
+  "x314ef63cd03f3d31": "assets/img/ext/314ef63cd03f3d31.jpg",
+  "xf8abbc5d475e8c6f": "assets/img/ext/f8abbc5d475e8c6f.jpg",
+  "x326237fe8ceada65": "assets/img/ext/326237fe8ceada65.jpg",
+  "x6d7f71a25ac879e1": "assets/img/ext/6d7f71a25ac879e1.jpg",
+  "x6ac531eb38bf54be": "assets/img/ext/6ac531eb38bf54be.jpg",
+  "x96936d1444b92a08": "assets/img/ext/96936d1444b92a08.jpg",
+  "x8d68b13c8668e3ed": "assets/img/ext/8d68b13c8668e3ed.jpg",
+  "x3c802c0648c0626d": "assets/img/ext/3c802c0648c0626d.jpg",
+  "x790d327f293dec2c": "assets/img/ext/790d327f293dec2c.jpg",
+  "x8e7ce2dbf948e8d6": "assets/img/ext/8e7ce2dbf948e8d6.jpg",
+  "xe3002f87be81cf9e": "assets/img/ext/e3002f87be81cf9e.jpg",
+  "x9d6fa534a38e1bc7": "assets/img/ext/9d6fa534a38e1bc7.jpg",
+  "x2b0007df2680d8c5": "assets/img/ext/2b0007df2680d8c5.jpg",
+  "xc55bc892b004b5f9": "assets/img/ext/c55bc892b004b5f9.jpg",
+  "x030ec0111c4b3bb5": "assets/img/ext/030ec0111c4b3bb5.jpg",
+  "x767dce46e9008aef": "assets/img/ext/767dce46e9008aef.jpg",
+  "x7cfec9a3915e560a": "assets/img/ext/7cfec9a3915e560a.jpg",
+  "x18cb5225b245b089": "assets/img/ext/18cb5225b245b089.jpg",
+  "xd71a4449e33a4832": "assets/img/ext/d71a4449e33a4832.jpg",
+  "x756b6af828bc8891": "assets/img/ext/756b6af828bc8891.jpg",
+  "x27451270a90f8359": "assets/img/ext/27451270a90f8359.jpg",
+  "x1e003a4d70e2c4ec": "assets/img/ext/1e003a4d70e2c4ec.jpg",
+  "x7aacd9c27c993f5a": "assets/img/ext/7aacd9c27c993f5a.jpg",
+  "x5f219e6e909df3d1": "assets/img/ext/5f219e6e909df3d1.jpg",
+  "xc19e115a86d802d8": "assets/img/ext/c19e115a86d802d8.jpg",
+  "x4575f8266ec56c6b": "assets/img/ext/4575f8266ec56c6b.jpg",
+  "xdfa4b461c99153e8": "assets/img/ext/dfa4b461c99153e8.jpg",
+  "x3ce9488cc83c6ea4": "assets/img/ext/3ce9488cc83c6ea4.jpg",
+  "x5936b8fe6b9cf39c": "assets/img/ext/5936b8fe6b9cf39c.jpg",
+  "x5635d8a5dd3d0c2a": "assets/img/ext/5635d8a5dd3d0c2a.jpg",
+  "x7c898a5294c58c2d": "assets/img/ext/7c898a5294c58c2d.png",
+  "xdb11d95ccdb7740f": "assets/img/ext/db11d95ccdb7740f.jpg",
+  "x3cedb120b2f0e317": "assets/img/ext/3cedb120b2f0e317.jpg",
+  "xf4f344e1528c0e1e": "assets/img/ext/f4f344e1528c0e1e.jpg",
+  "x1409ff3cbae6a4f4": "assets/img/ext/1409ff3cbae6a4f4.jpg",
+  "x55daf74320ac273c": "assets/img/ext/55daf74320ac273c.jpg",
+  "x35d854fa31eb47b6": "assets/img/ext/35d854fa31eb47b6.jpg",
+  "x6b8291acc62c3db4": "assets/img/ext/6b8291acc62c3db4.jpg",
+  "x72e52f0c2069a306": "assets/img/ext/72e52f0c2069a306.jpg",
+  "x97c01fbf10f8e184": "assets/img/ext/97c01fbf10f8e184.png",
+  "x2689aaf6102f5ae0": "assets/img/ext/2689aaf6102f5ae0.png",
+  "xc211ad6431daba98": "assets/img/ext/c211ad6431daba98.jpg",
+  "x23ebeefcef5cd503": "assets/img/ext/23ebeefcef5cd503.jpg",
+  "x15e2a5173979c190": "assets/img/ext/15e2a5173979c190.jpg",
+  "x00db4caa6a52f3d2": "assets/img/ext/00db4caa6a52f3d2.jpg",
+  "x66d6bdf513762129": "assets/img/ext/66d6bdf513762129.jpg",
+  "x0305fbc2cabe9d98": "assets/img/ext/0305fbc2cabe9d98.jpg",
+  "x9835083e60ecf95e": "assets/img/ext/9835083e60ecf95e.jpg",
+  "x40f2f778d8c385be": "assets/img/ext/40f2f778d8c385be.jpg",
+  "xe9e1d51e16091da7": "assets/img/ext/e9e1d51e16091da7.jpg",
+  "x0f6cec1d983eb6b7": "assets/img/ext/0f6cec1d983eb6b7.png",
+  "xba464f0ad8128186": "assets/img/ext/ba464f0ad8128186.jpg",
+  "x8964d4dc42ebe750": "assets/img/ext/8964d4dc42ebe750.jpg",
+  "x8672ff35da05f808": "assets/img/ext/8672ff35da05f808.jpg",
+  "x24e057cb1edf8ee4": "assets/img/ext/24e057cb1edf8ee4.jpg",
+  "x360a3d3dcc87de6d": "assets/img/ext/360a3d3dcc87de6d.jpg",
+  "x750a9ab29f1f5b9c": "assets/img/ext/750a9ab29f1f5b9c.jpg",
+  "x6eb3aa14558d345f": "assets/img/ext/6eb3aa14558d345f.jpg",
+  "x1092fee8920a4915": "assets/img/ext/1092fee8920a4915.jpg",
+  "xbc5af335514de427": "assets/img/ext/bc5af335514de427.jpg",
+  "x0e769fd152c1a1bc": "assets/img/ext/0e769fd152c1a1bc.jpg",
+  "x6f17bb70a1e6d6de": "assets/img/ext/6f17bb70a1e6d6de.jpg",
+  "x2e46dd0d2adca336": "assets/img/ext/2e46dd0d2adca336.jpg",
+  "x5016cfe31e25eedd": "assets/img/ext/5016cfe31e25eedd.jpg",
+  "xf2da593bcecb2158": "assets/img/ext/f2da593bcecb2158.jpg",
+  "xee3119d0a52f0ce5": "assets/img/ext/ee3119d0a52f0ce5.jpg",
+  "xd3fe5a202832201e": "assets/img/ext/d3fe5a202832201e.jpg",
+  "xcc779b98eb56da88": "assets/img/ext/cc779b98eb56da88.jpg",
+  "x5dc1f4c387a0c06d": "assets/img/ext/5dc1f4c387a0c06d.jpg",
+  "xdda6fdfa552bee25": "assets/img/ext/dda6fdfa552bee25.png",
+  "x8052610af60a02d2": "assets/img/ext/8052610af60a02d2.jpg",
+  "x78f490f3a5734835": "assets/img/ext/78f490f3a5734835.jpg",
+  "xfef4cdee630ee751": "assets/img/ext/fef4cdee630ee751.jpg",
+  "xff137e2332ec47f8": "assets/img/ext/ff137e2332ec47f8.jpg",
+  "xfb84bcd115788a46": "assets/img/ext/fb84bcd115788a46.jpg",
+  "xb5c48be47e7ca2d3": "assets/img/ext/b5c48be47e7ca2d3.jpg",
+  "xab06325d9f286fb7": "assets/img/ext/ab06325d9f286fb7.jpg",
+  "xa5546ad1fb688cc0": "assets/img/ext/a5546ad1fb688cc0.jpg",
+  "xe65e91da7c009505": "assets/img/ext/e65e91da7c009505.jpg",
+  "x8897acc585da2972": "assets/img/ext/8897acc585da2972.jpg",
+  "x1b4c92c84111fbf5": "assets/img/ext/1b4c92c84111fbf5.jpg",
+  "x761385090bc65a90": "assets/img/ext/761385090bc65a90.jpg",
+  "x5974a13a9227903a": "assets/img/ext/5974a13a9227903a.jpg",
+  "xcb5122286dc561df": "assets/img/ext/cb5122286dc561df.jpg",
+  "x57807d9de7a0158e": "assets/img/ext/57807d9de7a0158e.jpg",
+  "x6ac59b0fa17facf1": "assets/img/ext/6ac59b0fa17facf1.jpg",
+  "x651dfad18757a25f": "assets/img/ext/651dfad18757a25f.jpg",
+  "x4af5420755e0ca94": "assets/img/ext/4af5420755e0ca94.jpg",
+  "xe2422e4e668a9764": "assets/img/ext/e2422e4e668a9764.jpg",
+  "x86a2a503af073e8b": "assets/img/ext/86a2a503af073e8b.jpg",
+  "xf0b332ca08a62820": "assets/img/ext/f0b332ca08a62820.jpg",
+  "xfe1b996bbf4f0bd9": "assets/img/ext/fe1b996bbf4f0bd9.jpg",
+  "x53246784baf9c85e": "assets/img/ext/53246784baf9c85e.jpg",
+  "x622f02985c4a0509": "assets/img/ext/622f02985c4a0509.jpg",
+  "x5a41d07e705dc8d2": "assets/img/ext/5a41d07e705dc8d2.jpg",
+  "x25c9ff9499e20312": "assets/img/ext/25c9ff9499e20312.jpg",
+  "xe8051db119e5e7d7": "assets/img/ext/e8051db119e5e7d7.jpg",
+  "xcb7103745400996d": "assets/img/ext/cb7103745400996d.jpg",
+  "x62969d696be48bd8": "assets/img/ext/62969d696be48bd8.jpg",
+  "xbaffb370dd60c077": "assets/img/ext/baffb370dd60c077.jpg",
+  "x61d3f5e75eaf6f07": "assets/img/ext/61d3f5e75eaf6f07.jpg",
+  "xac514bd2c7f13b9f": "assets/img/ext/ac514bd2c7f13b9f.jpg",
+  "x17e19f821f0a2308": "assets/img/ext/17e19f821f0a2308.jpg",
+  "xb0e85e15d33ccffb": "assets/img/ext/b0e85e15d33ccffb.jpg",
+  "xf75f72ff0c8750da": "assets/img/ext/f75f72ff0c8750da.jpg",
+  "xc95387684f4dc769": "assets/img/ext/c95387684f4dc769.jpg",
+  "x57f143bafac67e40": "assets/img/ext/57f143bafac67e40.jpg",
+  "x14695fb04868dff9": "assets/img/ext/14695fb04868dff9.jpg",
+  "xdb3cc24f79b77b2b": "assets/img/ext/db3cc24f79b77b2b.jpg",
+  "xdd0c33bdcd5542d8": "assets/img/ext/dd0c33bdcd5542d8.jpg",
+  "xeae4ff0e4eabef16": "assets/img/ext/eae4ff0e4eabef16.jpg",
+  "xbd85d20bfe328504": "assets/img/ext/bd85d20bfe328504.jpg",
+  "x46c047a7c3239ee0": "assets/img/ext/46c047a7c3239ee0.jpg",
+  "xdf2e6d5389ac8584": "assets/img/ext/df2e6d5389ac8584.jpg",
+  "xd32e1235f027c882": "assets/img/ext/d32e1235f027c882.jpg",
+  "x292fcc7db5551fde": "assets/img/ext/292fcc7db5551fde.jpg",
+  "x23ae285457a88a53": "assets/img/ext/23ae285457a88a53.jpg",
+  "xdfb40b4f5f3cca5b": "assets/img/ext/dfb40b4f5f3cca5b.jpg",
+  "x0b8c6c895d353579": "assets/img/ext/0b8c6c895d353579.jpg",
+  "x7e864d514d1a38f5": "assets/img/ext/7e864d514d1a38f5.jpg",
+  "xac312fc1fb56fa02": "assets/img/ext/ac312fc1fb56fa02.jpg",
+  "x4f89a3e79072dfd8": "assets/img/ext/4f89a3e79072dfd8.jpg",
+  "x20e10c63f4ea3e2e": "assets/img/ext/20e10c63f4ea3e2e.jpg",
+  "x0d18122292f91a40": "assets/img/ext/0d18122292f91a40.jpg",
+  "x70e2cbf3cd358e60": "assets/img/ext/70e2cbf3cd358e60.jpg",
+  "xedced5ecbe9b19d8": "assets/img/ext/edced5ecbe9b19d8.jpg",
+  "x1c37b8a5521a336f": "assets/img/ext/1c37b8a5521a336f.jpg",
+  "xe9d5c66bf4c93dd2": "assets/img/ext/e9d5c66bf4c93dd2.jpg",
+  "x76a7b62c0a76250e": "assets/img/ext/76a7b62c0a76250e.jpg",
+  "x503f61f2e771ae38": "assets/img/ext/503f61f2e771ae38.jpg",
+  "x36a7123b9e0c38bf": "assets/img/ext/36a7123b9e0c38bf.jpg",
+  "x7e5e0d5cc804d416": "assets/img/ext/7e5e0d5cc804d416.jpg",
+  "x7dcef34d6df83e68": "assets/img/ext/7dcef34d6df83e68.jpg",
+  "x430cfa8ea2908204": "assets/img/ext/430cfa8ea2908204.jpg",
+  "x2919799b58296883": "assets/img/ext/2919799b58296883.jpg",
+  "xb83e6d0c4928bdf2": "assets/img/ext/b83e6d0c4928bdf2.jpg",
+  "xa85f0335fa5d04c3": "assets/img/ext/a85f0335fa5d04c3.jpg",
+  "x020e59718376edf1": "assets/img/ext/020e59718376edf1.jpg",
+  "xcfdff7486b05eef1": "assets/img/ext/cfdff7486b05eef1.jpg",
+  "x929205f517f835a2": "assets/img/ext/929205f517f835a2.jpg",
+  "x9da84573bf30d6e4": "assets/img/ext/9da84573bf30d6e4.jpg",
+  "x5c067e4f850dcb5b": "assets/img/ext/5c067e4f850dcb5b.jpg",
+  "xe8ea6a5a2dd50ae1": "assets/img/ext/e8ea6a5a2dd50ae1.jpg",
+  "x2c036d76913c0727": "assets/img/ext/2c036d76913c0727.jpg",
+  "xea95b0af56591c07": "assets/img/ext/ea95b0af56591c07.jpg",
+  "x85d5a86ef0e8cf56": "assets/img/ext/85d5a86ef0e8cf56.jpg",
+  "xe86070870d54cc3b": "assets/img/ext/e86070870d54cc3b.jpg",
+  "x0a27d24f035726e5": "assets/img/ext/0a27d24f035726e5.jpg",
+  "xfecdb87218693ba6": "assets/img/ext/fecdb87218693ba6.jpg",
+  "xd6796cbbb115524c": "assets/img/ext/d6796cbbb115524c.jpg",
+  "xd6ac38f17a7d770c": "assets/img/ext/d6ac38f17a7d770c.jpg",
+  "xf50e95b7d9eb9d7a": "assets/img/ext/f50e95b7d9eb9d7a.jpg",
+  "x42c2c222aec1b6e8": "assets/img/ext/42c2c222aec1b6e8.jpg",
+  "x6e91db7c5ef10965": "assets/img/ext/6e91db7c5ef10965.jpg",
+  "x1f486e2858250beb": "assets/img/ext/1f486e2858250beb.jpg",
+  "x0ca82215fbb2da75": "assets/img/ext/0ca82215fbb2da75.jpg",
+  "x0213c7c6a194ea00": "assets/img/ext/0213c7c6a194ea00.jpg",
+  "x14c93344af742197": "assets/img/ext/14c93344af742197.jpg",
+  "x004d27a82d03a30c": "assets/img/ext/004d27a82d03a30c.jpg",
+  "x90e4bdc4c2c9f72d": "assets/img/ext/90e4bdc4c2c9f72d.jpg",
+  "x18a40a19df45fcd1": "assets/img/ext/18a40a19df45fcd1.jpg",
+  "x8a3d7e271c77a0ce": "assets/img/ext/8a3d7e271c77a0ce.jpg",
+  "xa90018d1eac78c62": "assets/img/ext/a90018d1eac78c62.jpg",
+  "x045bc79d5e39e73c": "assets/img/ext/045bc79d5e39e73c.jpg",
+  "xb734cab8a6504be9": "assets/img/ext/b734cab8a6504be9.jpg",
+  "x834cc4ff47ac0a51": "assets/img/ext/834cc4ff47ac0a51.jpg",
+  "xbfb1eb225b95b4a9": "assets/img/ext/bfb1eb225b95b4a9.jpg",
+  "xa1a4f7cb3961e002": "assets/img/ext/a1a4f7cb3961e002.jpg",
+  "x56d95b2c711f80f7": "assets/img/ext/56d95b2c711f80f7.jpg",
+  "x7a699fbcc450bc82": "assets/img/ext/7a699fbcc450bc82.jpg",
+  "x99ae9cb21cd8a776": "assets/img/ext/99ae9cb21cd8a776.jpg",
+  "xcb152b760104abb3": "assets/img/ext/cb152b760104abb3.jpg",
+  "xb35742b55f399f06": "assets/img/ext/b35742b55f399f06.jpg",
+  "xf16b92c068c34196": "assets/img/ext/f16b92c068c34196.jpg",
+  "x085f074e0fb23851": "assets/img/ext/085f074e0fb23851.jpg",
+  "x858a551451f8e99a": "assets/img/ext/858a551451f8e99a.jpg",
+  "x74c76c031aa6a5fd": "assets/img/ext/74c76c031aa6a5fd.jpg",
+  "xcb1593095c8816ad": "assets/img/ext/cb1593095c8816ad.jpg",
+  "x963527d01778fe18": "assets/img/ext/963527d01778fe18.jpg",
+  "x023562bde83fb0f7": "assets/img/ext/023562bde83fb0f7.jpg",
+  "xe6588ab837cc10a4": "assets/img/ext/e6588ab837cc10a4.jpg",
+  "x05bc442413be9107": "assets/img/ext/05bc442413be9107.jpg",
+  "xee03680dd81a0095": "assets/img/ext/ee03680dd81a0095.jpg",
+  "x45992114e607d488": "assets/img/ext/45992114e607d488.jpg",
+  "x5e646623bdb3aff6": "assets/img/ext/5e646623bdb3aff6.jpg",
+  "x8bc1cd61b8cc328d": "assets/img/ext/8bc1cd61b8cc328d.jpg",
+  "x85d0c22565aec9d3": "assets/img/ext/85d0c22565aec9d3.jpg",
+  "x4ed6bacc5aa0427b": "assets/img/ext/4ed6bacc5aa0427b.jpg",
+  "x1ffecc7670efccb0": "assets/img/ext/1ffecc7670efccb0.jpg",
+  "xe077c81f55bd8551": "assets/img/ext/e077c81f55bd8551.jpg",
+  "xf11f60d8cd607e2a": "assets/img/ext/f11f60d8cd607e2a.jpg",
+  "xdc9e07eb60ab444e": "assets/img/ext/dc9e07eb60ab444e.jpg",
+  "x9b6d708b793d1ab7": "assets/img/ext/9b6d708b793d1ab7.jpg",
+  "xf7e829c29b7a72f0": "assets/img/ext/f7e829c29b7a72f0.jpg",
+  "x9c67f3cca8d82d60": "assets/img/ext/9c67f3cca8d82d60.jpg",
+  "xdeec51b1052b12b4": "assets/img/ext/deec51b1052b12b4.jpg",
+  "x5afdf29ceccc889a": "assets/img/ext/5afdf29ceccc889a.jpg",
+  "x88251796a71e5e22": "assets/img/ext/88251796a71e5e22.jpg",
+  "xc585c305b0047f9b": "assets/img/ext/c585c305b0047f9b.jpg",
+  "x17628e498671e7cf": "assets/img/ext/17628e498671e7cf.jpg",
+  "x3f341e5fd7aa8df4": "assets/img/ext/3f341e5fd7aa8df4.jpg",
+  "x406f1d97b4f4cecd": "assets/img/ext/406f1d97b4f4cecd.jpg",
+  "xbce2aef6f51779c3": "assets/img/ext/bce2aef6f51779c3.jpg",
+  "xf11df6abe3b7ab6f": "assets/img/ext/f11df6abe3b7ab6f.jpg",
+  "xb708c867d9cf3465": "assets/img/ext/b708c867d9cf3465.jpg",
+  "xe194a1e12f9550cb": "assets/img/ext/e194a1e12f9550cb.jpg",
+  "x9d3e727107667d3a": "assets/img/ext/9d3e727107667d3a.jpg",
+  "x1d0a73cb14d03bea": "assets/img/ext/1d0a73cb14d03bea.jpg",
+  "xbc959cfba1c8c2fe": "assets/img/ext/bc959cfba1c8c2fe.jpg",
+  "x0a4be314fd37d605": "assets/img/ext/0a4be314fd37d605.jpg",
+  "x66c8703ce71cdfbb": "assets/img/ext/66c8703ce71cdfbb.jpg",
+  "xc0604de6d1fe1fb2": "assets/img/ext/c0604de6d1fe1fb2.jpg",
+  "x09cc10358b7a6ebc": "assets/img/ext/09cc10358b7a6ebc.jpg",
+  "x2085b24b1e0792c0": "assets/img/ext/2085b24b1e0792c0.jpg",
+  "x69b83948d4043a6d": "assets/img/ext/69b83948d4043a6d.jpg",
+  "xbcb86c31869ae326": "assets/img/ext/bcb86c31869ae326.jpg",
+  "x6ddf7d383eb6f195": "assets/img/ext/6ddf7d383eb6f195.jpg",
+  "xa11e7788dad3067b": "assets/img/ext/a11e7788dad3067b.jpg",
+  "x4778669a9932f0d8": "assets/img/ext/4778669a9932f0d8.jpg",
+  "x22ba76cce99e30f2": "assets/img/ext/22ba76cce99e30f2.jpg",
+  "x1dc563d48cffb2f1": "assets/img/ext/1dc563d48cffb2f1.jpg",
+  "xe7ee65a6e7109105": "assets/img/ext/e7ee65a6e7109105.jpg",
+  "x43ce04eec4dc7ab9": "assets/img/ext/43ce04eec4dc7ab9.jpg",
+  "x626a0dddd1016232": "assets/img/ext/626a0dddd1016232.jpg",
+  "x665f5f545e9b2ed7": "assets/img/ext/665f5f545e9b2ed7.jpg",
+  "x3ac9cd3d43e6d31a": "assets/img/ext/3ac9cd3d43e6d31a.jpg",
+  "xc88a0066feedda80": "assets/img/ext/c88a0066feedda80.jpg",
+  "x01d5ea3b96953ed6": "assets/img/ext/01d5ea3b96953ed6.jpg",
+  "xbf692ec229c41e82": "assets/img/ext/bf692ec229c41e82.jpg",
+  "x1b0b19f7626a9d40": "assets/img/ext/1b0b19f7626a9d40.jpg",
+  "x7b6f1bdc926b28e8": "assets/img/ext/7b6f1bdc926b28e8.jpg",
+  "x3431eee6968a609e": "assets/img/ext/3431eee6968a609e.jpg",
+  "x95e55109849526a0": "assets/img/ext/95e55109849526a0.jpg",
+  "xfdaf706699ad3f2f": "assets/img/ext/fdaf706699ad3f2f.jpg",
+  "xa0033242274ca94e": "assets/img/ext/a0033242274ca94e.jpg",
+  "xf3180a88b4dd854e": "assets/img/ext/f3180a88b4dd854e.jpg",
+  "xbae3afdb5b1a1ec3": "assets/img/ext/bae3afdb5b1a1ec3.jpg",
+  "xf143994d3095fbf6": "assets/img/ext/f143994d3095fbf6.jpg",
+  "x684f3198fe7f423a": "assets/img/ext/684f3198fe7f423a.jpg",
+  "xa651ab806ba72360": "assets/img/ext/a651ab806ba72360.jpg",
+  "x947af609b7ad02fb": "assets/img/ext/947af609b7ad02fb.jpg",
+  "x82505610038dedd9": "assets/img/ext/82505610038dedd9.jpg",
+  "x110412f9e7982409": "assets/img/ext/110412f9e7982409.jpg",
+  "x69ce30e0372bd76b": "assets/img/ext/69ce30e0372bd76b.jpg",
+  "x3fd01d5f3eda57b8": "assets/img/ext/3fd01d5f3eda57b8.jpg",
+  "xfbc71030da87ea7a": "assets/img/ext/fbc71030da87ea7a.jpg",
+  "x58f398fa263e5f57": "assets/img/ext/58f398fa263e5f57.jpg",
+  "x5ac9a7c0b57ac1c0": "assets/img/ext/5ac9a7c0b57ac1c0.jpg",
+  "x90dab73a9302f111": "assets/img/ext/90dab73a9302f111.jpg",
+  "x3c7d8be922f54db4": "assets/img/ext/3c7d8be922f54db4.jpg",
+  "x481b9e56e776fb51": "assets/img/ext/481b9e56e776fb51.jpg",
+  "x28140b1b15fd4273": "assets/img/ext/28140b1b15fd4273.jpg",
+  "x84785787d7c31d15": "assets/img/ext/84785787d7c31d15.jpg",
+  "x5ff98150f8c49cb2": "assets/img/ext/5ff98150f8c49cb2.jpg",
+  "x627eb67beb6cb76b": "assets/img/ext/627eb67beb6cb76b.jpg",
+  "x19b03d62b1d1c77d": "assets/img/ext/19b03d62b1d1c77d.jpg",
+  "x3ff71151ebd562b4": "assets/img/ext/3ff71151ebd562b4.jpg",
+  "xaf960ae52ad063fb": "assets/img/ext/af960ae52ad063fb.jpg",
+  "x0022a009cc4c635d": "assets/img/ext/0022a009cc4c635d.jpg",
+  "x7158f0adf7650859": "assets/img/ext/7158f0adf7650859.jpg",
+  "xa747225573572f12": "assets/img/ext/a747225573572f12.jpg",
+  "x64dd6bfb3d4d63ad": "assets/img/ext/64dd6bfb3d4d63ad.jpg",
+  "xfaba1f71550dce93": "assets/img/ext/faba1f71550dce93.jpg",
+  "x54c23fb1c811f3a2": "assets/img/ext/54c23fb1c811f3a2.jpg",
+  "xe0461e855a7775a7": "assets/img/ext/e0461e855a7775a7.jpg",
+  "xf51b31f32dcedffe": "assets/img/ext/f51b31f32dcedffe.jpg",
+  "xce681f1db6fae0b9": "assets/img/ext/ce681f1db6fae0b9.jpg",
+  "x7cfbaab3b01409ef": "assets/img/ext/7cfbaab3b01409ef.jpg",
+  "xcbc1f3b046162c47": "assets/img/ext/cbc1f3b046162c47.jpg",
+  "x7c28ed6fc81aaa3e": "assets/img/ext/7c28ed6fc81aaa3e.jpg",
+  "x25a09f3316c79a9b": "assets/img/ext/25a09f3316c79a9b.jpg",
+  "x48e461d4c0aed7b6": "assets/img/ext/48e461d4c0aed7b6.jpg",
+  "x1baf672eb286fa6b": "assets/img/ext/1baf672eb286fa6b.jpg",
+  "x030a1eaf34134e24": "assets/img/ext/030a1eaf34134e24.jpg",
+  "x6ef6ddfa094ca4c5": "assets/img/ext/6ef6ddfa094ca4c5.jpg",
+  "x65e57a1316c34199": "assets/img/ext/65e57a1316c34199.jpg",
+  "x2ec7d3708705e187": "assets/img/ext/2ec7d3708705e187.jpg",
+  "x65e2125c27725432": "assets/img/ext/65e2125c27725432.jpg",
+  "xd5af23ba74b89337": "assets/img/ext/d5af23ba74b89337.jpg",
+  "x7a0a47e05a73700d": "assets/img/ext/7a0a47e05a73700d.png",
+  "xb29bb567190b0e75": "assets/img/ext/b29bb567190b0e75.jpg",
+  "x3691f3ef7646a72a": "assets/img/ext/3691f3ef7646a72a.jpg",
+  "xe7afedcbdad3c2fc": "assets/img/ext/e7afedcbdad3c2fc.jpg",
+  "xa86e4703fb3d7127": "assets/img/ext/a86e4703fb3d7127.jpg",
+  "x9e4c13f877d9d784": "assets/img/ext/9e4c13f877d9d784.jpg",
+  "xd882f26f0ca35983": "assets/img/ext/d882f26f0ca35983.jpg",
+  "xf6a5bf74d337f170": "assets/img/ext/f6a5bf74d337f170.jpg",
+  "x2e8ee39058021c41": "assets/img/ext/2e8ee39058021c41.jpg",
+  "xdb2823be9a76acdd": "assets/img/ext/db2823be9a76acdd.jpg",
+  "x2247d22b84966651": "assets/img/ext/2247d22b84966651.jpg",
+  "x6ab9150968b78fb0": "assets/img/ext/6ab9150968b78fb0.jpg",
+  "x28e819a41ba6325b": "assets/img/ext/28e819a41ba6325b.jpg",
+  "x2b9802a9e1242dff": "assets/img/ext/2b9802a9e1242dff.jpg",
+  "x4f16a62751eeed24": "assets/img/ext/4f16a62751eeed24.jpg",
+  "xcdc0d23e45d6b3ce": "assets/img/ext/cdc0d23e45d6b3ce.jpg",
+  "xa3a14498e57e7299": "assets/img/ext/a3a14498e57e7299.jpg",
+  "xfdbf87735e7b6b47": "assets/img/ext/fdbf87735e7b6b47.jpg",
+  "xd1a13b4af6ae00d4": "assets/img/ext/d1a13b4af6ae00d4.jpg",
+  "xf70390f961c10f56": "assets/img/ext/f70390f961c10f56.jpg",
+  "x66a1bd4a453c980d": "assets/img/ext/66a1bd4a453c980d.jpg",
+  "x9a4864519165eaa0": "assets/img/ext/9a4864519165eaa0.jpg",
+  "xff1221fe50894b7c": "assets/img/ext/ff1221fe50894b7c.jpg",
+  "xbca9f569c667af85": "assets/img/ext/bca9f569c667af85.jpg",
+  "xa775e42a23b18d55": "assets/img/ext/a775e42a23b18d55.jpg",
+  "x5c19bf20acf7ea39": "assets/img/ext/5c19bf20acf7ea39.jpg",
+  "x8dee3630b4500183": "assets/img/ext/8dee3630b4500183.jpg",
+  "xbf4624d1401a18b1": "assets/img/ext/bf4624d1401a18b1.jpg",
+  "x51ca6d43e36aaaab": "assets/img/ext/51ca6d43e36aaaab.jpg",
+  "x0b708ca9851a064d": "assets/img/ext/0b708ca9851a064d.jpg",
+  "x5696fbdb5268bcef": "assets/img/ext/5696fbdb5268bcef.jpg",
+  "x282ac1e4a326e1cf": "assets/img/ext/282ac1e4a326e1cf.jpg",
+  "x81c653dfc241dadb": "assets/img/ext/81c653dfc241dadb.jpg",
+  "xd3e2185e043ee7ea": "assets/img/ext/d3e2185e043ee7ea.jpg",
+  "x15209e51b03f2ab3": "assets/img/ext/15209e51b03f2ab3.jpg",
+  "x0f74c409f2806f2a": "assets/img/ext/0f74c409f2806f2a.jpg",
+  "x62cf5e7e0520baa5": "assets/img/ext/62cf5e7e0520baa5.jpg",
+  "x81bcd7fd25535ce9": "assets/img/ext/81bcd7fd25535ce9.jpg",
+  "xa22b1abf8fbf2648": "assets/img/ext/a22b1abf8fbf2648.jpg",
+  "x07891f70748d071f": "assets/img/ext/07891f70748d071f.jpg",
+  "xa5708cc124e62bab": "assets/img/ext/a5708cc124e62bab.jpg",
+  "x20ecc14801f4aa8b": "assets/img/ext/20ecc14801f4aa8b.jpg",
+  "x6c73d8aba4e1af9d": "assets/img/ext/6c73d8aba4e1af9d.jpg",
+  "x845ca0d0cc3fbe0b": "assets/img/ext/845ca0d0cc3fbe0b.jpg",
+  "x6dd3a32fa909230c": "assets/img/ext/6dd3a32fa909230c.jpg",
+  "x278ced42cf671d5d": "assets/img/ext/278ced42cf671d5d.jpg",
+  "xa9ef5732dd6e3986": "assets/img/ext/a9ef5732dd6e3986.jpg",
+  "x5208a742edfb6008": "assets/img/ext/5208a742edfb6008.jpg",
+  "x49c8ae0f2b1d34d5": "assets/img/ext/49c8ae0f2b1d34d5.jpg",
+  "xa13ff0e07de37eef": "assets/img/ext/a13ff0e07de37eef.jpg",
+  "xd36097fceb661186": "assets/img/ext/d36097fceb661186.jpg",
+  "xe6b89cff852848d4": "assets/img/ext/e6b89cff852848d4.jpg",
+  "xc2766992d6061941": "assets/img/ext/c2766992d6061941.jpg",
+  "x494ad17e53d7d3f0": "assets/img/ext/494ad17e53d7d3f0.jpg",
+  "x7a7d94dd6e8b360c": "assets/img/ext/7a7d94dd6e8b360c.jpg",
+  "x9483b78419829622": "assets/img/ext/9483b78419829622.jpg",
+  "x95c347a324969120": "assets/img/ext/95c347a324969120.jpg",
+  "xd10893d7a78a9ba6": "assets/img/ext/d10893d7a78a9ba6.jpg",
+  "x41233db5d463bc13": "assets/img/ext/41233db5d463bc13.jpg",
+  "x4aa1b7f39628de4b": "assets/img/ext/4aa1b7f39628de4b.jpg",
+  "xcde3d72c881440d8": "assets/img/ext/cde3d72c881440d8.jpg",
+  "x5dd2a7d27ff48ed5": "assets/img/ext/5dd2a7d27ff48ed5.png",
+  "xa3d028b091891200": "assets/img/ext/a3d028b091891200.jpg",
+  "x0a1d2072488dc183": "assets/img/ext/0a1d2072488dc183.jpg",
+  "x198a35b73f79a443": "assets/img/ext/198a35b73f79a443.jpg",
+  "xd4388e9382e11c69": "assets/img/ext/d4388e9382e11c69.jpg",
+  "x4dd0ecd23d574f72": "assets/img/ext/4dd0ecd23d574f72.jpg",
+  "xf206d33bf35a05fb": "assets/img/ext/f206d33bf35a05fb.jpg",
+  "x950aa69cd9a00672": "assets/img/ext/950aa69cd9a00672.jpg",
+  "xab8b0749b3375762": "assets/img/ext/ab8b0749b3375762.jpg",
+  "x32aef601809ed69f": "assets/img/ext/32aef601809ed69f.jpg",
+  "xa228156cc32e56f6": "assets/img/ext/a228156cc32e56f6.jpg",
+  "x419574a1a88e6758": "assets/img/ext/419574a1a88e6758.jpg",
+  "xf9a70c84574ebff5": "assets/img/ext/f9a70c84574ebff5.jpg",
+  "xa9a9fdbaebe1723a": "assets/img/ext/a9a9fdbaebe1723a.jpg",
+  "xa1b99bd58cbf42da": "assets/img/ext/a1b99bd58cbf42da.jpg",
+  "x42cc0ddb5ebbe6e5": "assets/img/ext/42cc0ddb5ebbe6e5.jpg",
+  "x857a2aa9db721ab3": "assets/img/ext/857a2aa9db721ab3.jpg",
+  "x7bea6f602a2f93a1": "assets/img/ext/7bea6f602a2f93a1.jpg",
+  "xc0f7160dbd57ff64": "assets/img/ext/c0f7160dbd57ff64.jpg",
+  "x7f093d7e90b4b4b7": "assets/img/ext/7f093d7e90b4b4b7.jpg",
+  "x34c628facccfee26": "assets/img/ext/34c628facccfee26.jpg",
+  "x04d4424e9e2c2698": "assets/img/ext/04d4424e9e2c2698.jpg",
+  "xb5190b9dcca89613": "assets/img/ext/b5190b9dcca89613.jpg",
+  "xdc72b3eb8f533378": "assets/img/ext/dc72b3eb8f533378.jpg",
+  "x5050724933d0dc12": "assets/img/ext/5050724933d0dc12.jpg",
+  "x1fb8473ca8560c74": "assets/img/ext/1fb8473ca8560c74.jpg",
+  "x3377f5bf2b5195ec": "assets/img/ext/3377f5bf2b5195ec.jpg",
+  "xfa0587d0dafebbed": "assets/img/ext/fa0587d0dafebbed.jpg",
+  "x30979f72f8fef2c7": "assets/img/ext/30979f72f8fef2c7.jpg",
+  "x45fc562cdb0166e5": "assets/img/ext/45fc562cdb0166e5.jpg",
+  "xb97ed7e616604734": "assets/img/ext/b97ed7e616604734.jpg",
+  "x33c858fcd9c39846": "assets/img/ext/33c858fcd9c39846.jpg",
+  "xd7b6b2659fc3425e": "assets/img/ext/d7b6b2659fc3425e.jpg",
+  "x97c9bb0f26a58e8d": "assets/img/ext/97c9bb0f26a58e8d.jpg",
+  "xd7cdddf19ddff6b1": "assets/img/ext/d7cdddf19ddff6b1.jpg",
+  "x257847010209953c": "assets/img/ext/257847010209953c.jpg",
+  "x8ca158216253b395": "assets/img/ext/8ca158216253b395.jpg",
+  "x44e05f838a6bda18": "assets/img/ext/44e05f838a6bda18.jpg",
+  "xaadc25a8f1bd933e": "assets/img/ext/aadc25a8f1bd933e.jpg",
+  "x863c4a6f93c92148": "assets/img/ext/863c4a6f93c92148.jpg",
+  "x825fc2c8693af3b9": "assets/img/ext/825fc2c8693af3b9.jpg",
+  "xf88a7064ed6ea334": "assets/img/ext/f88a7064ed6ea334.jpg",
+  "x5d91c88fc45c4d1c": "assets/img/ext/5d91c88fc45c4d1c.jpg",
+  "x6c720456492d878b": "assets/img/ext/6c720456492d878b.jpg",
+  "xeed15ba519f0733c": "assets/img/ext/eed15ba519f0733c.png",
+  "xc5c40f116e8e2c23": "assets/img/ext/c5c40f116e8e2c23.jpg",
+  "x9a6ac59695450770": "assets/img/ext/9a6ac59695450770.jpg",
+  "xbb953b96078124a2": "assets/img/ext/bb953b96078124a2.jpg",
+  "xb0f66b80711315a7": "assets/img/ext/b0f66b80711315a7.jpg",
+  "xcbacdba9fc9e2f24": "assets/img/ext/cbacdba9fc9e2f24.jpg",
+  "xdb51ddce8a01468b": "assets/img/ext/db51ddce8a01468b.jpg",
+  "xad4aad058be1b051": "assets/img/ext/ad4aad058be1b051.jpg",
+  "x19bb33c7ca0da7ae": "assets/img/ext/19bb33c7ca0da7ae.jpg",
+  "x7a8ea8616a69eefa": "assets/img/ext/7a8ea8616a69eefa.jpg",
+  "x84b42ed87ed271e1": "assets/img/ext/84b42ed87ed271e1.jpg",
+  "x7a2fbe1e721aae1c": "assets/img/ext/7a2fbe1e721aae1c.jpg",
+  "x141194cd4b667961": "assets/img/ext/141194cd4b667961.jpg",
+  "xa4055f4412823168": "assets/img/ext/a4055f4412823168.jpg",
+  "xca2684726b0da7a9": "assets/img/ext/ca2684726b0da7a9.jpg",
+  "xe0aad930fae9a02f": "assets/img/ext/e0aad930fae9a02f.jpg",
+  "x1f12c44c39b8f4ad": "assets/img/ext/1f12c44c39b8f4ad.jpg",
+  "xf251577592ad2706": "assets/img/ext/f251577592ad2706.jpg",
+  "x08c7ff9c0d5bbbb9": "assets/img/ext/08c7ff9c0d5bbbb9.jpg",
+  "xd5a6f831aa648167": "assets/img/ext/d5a6f831aa648167.jpg",
+  "x7964e15e4b9fd7f4": "assets/img/ext/7964e15e4b9fd7f4.jpg",
+  "x393631f6813c1f69": "assets/img/ext/393631f6813c1f69.webp",
+  "x126af5d9674f84d2": "assets/img/ext/126af5d9674f84d2.jpg",
+  "xc0eabc0ccd9fc9d1": "assets/img/ext/c0eabc0ccd9fc9d1.webp",
+  "xdb5fb6d47651533a": "assets/img/ext/db5fb6d47651533a.webp",
+  "x9afee2d8e80744b5": "assets/img/ext/9afee2d8e80744b5.jpg",
+  "x08f9e930078282cb": "assets/img/ext/08f9e930078282cb.jpg",
+  "x39968cbf944e1ac5": "assets/img/ext/39968cbf944e1ac5.webp",
+  "x43b5a89831443360": "assets/img/ext/43b5a89831443360.jpg",
+  "x3bc8103d89ad41da": "assets/img/ext/3bc8103d89ad41da.jpg",
+  "x5d3ab76f3b0b4b45": "assets/img/ext/5d3ab76f3b0b4b45.jpg",
+  "x5152af5a4f6981e0": "assets/img/ext/5152af5a4f6981e0.webp",
+  "x398133ed33d6c71c": "assets/img/ext/398133ed33d6c71c.jpg",
+  "xc54fb457f47b3e09": "assets/img/ext/c54fb457f47b3e09.jpg",
+  "x2aea8dcfb6645ee5": "assets/img/ext/2aea8dcfb6645ee5.jpg",
+  "x2d30e5eee86af4bf": "assets/img/ext/2d30e5eee86af4bf.jpg",
+  "x70189541239bcbd9": "assets/img/ext/70189541239bcbd9.jpg",
+  "xc800c1404bda3c78": "assets/img/ext/c800c1404bda3c78.png",
+  "x40cf696a3e65aa14": "assets/img/ext/40cf696a3e65aa14.jpg",
+  "x172a3c486dda0f2d": "assets/img/ext/172a3c486dda0f2d.jpg",
+  "xf9f9767bb5255de4": "assets/img/ext/f9f9767bb5255de4.jpg",
+  "x669df58e71fe5ca1": "assets/img/ext/669df58e71fe5ca1.jpg",
+  "xc6168944c8bdaa00": "assets/img/ext/c6168944c8bdaa00.jpg",
+  "x201d0fcce1b23343": "assets/img/ext/201d0fcce1b23343.jpg",
+  "x7c36dfebbe86cd99": "assets/img/ext/7c36dfebbe86cd99.jpg",
+  "x20aaa0e4b3225e93": "assets/img/ext/20aaa0e4b3225e93.jpg",
+  "x5cef6840233700e0": "assets/img/ext/5cef6840233700e0.jpg",
+  "xa31187e32e8b630a": "assets/img/ext/a31187e32e8b630a.jpg",
+  "xf3ddc4d07625e036": "assets/img/ext/f3ddc4d07625e036.jpg",
+  "x4bf38ccdcaabe962": "assets/img/ext/4bf38ccdcaabe962.jpg",
+  "x8ed342790265795e": "assets/img/ext/8ed342790265795e.jpg",
+  "xd859d3ddc86b6e5e": "assets/img/ext/d859d3ddc86b6e5e.jpg",
+  "x9bbee73e64c0573b": "assets/img/ext/9bbee73e64c0573b.jpg",
+  "x6af997f3ce83cded": "assets/img/ext/6af997f3ce83cded.jpg",
+  "xdfa1bf18f6716f48": "assets/img/ext/dfa1bf18f6716f48.jpg",
+  "xaa6d4782fd433db9": "assets/img/ext/aa6d4782fd433db9.webp",
+  "x8fd3cb156342b5df": "assets/img/ext/8fd3cb156342b5df.jpg",
+  "x29eeb61a2ebc1a57": "assets/img/ext/29eeb61a2ebc1a57.jpg",
+  "x8c525937566a2f33": "assets/img/ext/8c525937566a2f33.png",
+  "x94a213458212e2e0": "assets/img/ext/94a213458212e2e0.jpg",
+  "x44d9d47e340119ae": "assets/img/ext/44d9d47e340119ae.jpg",
+  "x8eb1c9dbe0cf67ba": "assets/img/ext/8eb1c9dbe0cf67ba.jpg",
+  "xe3868b4f2e727df9": "assets/img/ext/e3868b4f2e727df9.jpg",
+  "x0432afd3fc089e2d": "assets/img/ext/0432afd3fc089e2d.jpg",
+  "x66960ae024f43a44": "assets/img/ext/66960ae024f43a44.jpg",
+  "x8afe7cf32ed84d67": "assets/img/ext/8afe7cf32ed84d67.jpg",
+  "xe041cbbd4e1f062f": "assets/img/ext/e041cbbd4e1f062f.jpg"
  },
  "biliLeads": [
   {

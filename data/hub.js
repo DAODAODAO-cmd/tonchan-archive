@@ -156,7 +156,7 @@ window.HUB = {
    "ja": "舞台『刀剣乱舞』陽伝 月と太陽と星々よ",
    "role": "烛台切光忠（燭台切光忠・しょくだいきり みつただ）",
    "kind": "舞台 · 前后编二部作",
-   "image": "https://stage-toukenranbu.jp/wp-content/uploads/2026/07/05%E3%80%90WEB%E3%80%91%E2%98%85toustayou_CV_shokudaikiri.jpg",
+   "image": "assets/img/ext/40cf696a3e65aa14.jpg",
    "imageNote": "官网角色视觉：烛台切光忠",
    "lines": [
     "预演 11/10 · 明治座",
@@ -190,7 +190,7 @@ window.HUB = {
    "ja": "仮面ライダーマイス",
    "role": "岭高华武利（嶺髙華武利・みねたか かむり）／假面骑士Maou（仮面ライダーマオウ）",
    "kind": "电视剧 · 朝日电视台系列",
-   "image": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main01.webp",
+   "image": "assets/img/ext/393631f6813c1f69.webp",
    "imageNote": "朝日电视台官网角色图",
    "lines": [
     "每周日 9:00–9:30 播出（2026/9/6 起）",
@@ -212,7 +212,7 @@ window.HUB = {
      "https://www.youtube.com/watch?v=HiW6nsnVHo8"
     ]
    ],
-   "image2": "https://www.tv-asahi.co.jp/my-th/character/minetaka/img/img_main02.webp"
+   "image2": "assets/img/ext/db5fb6d47651533a.webp"
   }
  ],
  "recent": [
@@ -220,7 +220,7 @@ window.HUB = {
    "title": "舞台《王者天下Ⅱ：继承》",
    "role": "庞煖（龐煖・ほうけん）",
    "date": "2026/8/9–10/13",
-   "image": "https://www.tohostage.com/kingdom2/images/gallery_solo_higashi.jpg",
+   "image": "assets/img/ext/ad4aad058be1b051.jpg",
    "imageNote": "官网舞台剧照",
    "url": "https://www.tohostage.com/kingdom2/"
   },
@@ -228,7 +228,7 @@ window.HUB = {
    "title": "电影《蓝色监狱》",
    "role": "马狼照英（馬狼照英・ばろう しょうえい）",
    "date": "2026/8/7 上映",
-   "image": "https://bluelock-movie.jp/assets/img/cast/cast-face4-5.jpg",
+   "image": "assets/img/ext/c5c40f116e8e2c23.jpg",
    "imageNote": "官网角色公式照：马狼照英",
    "url": "https://bluelock-movie.jp/"
   },
@@ -236,7 +236,7 @@ window.HUB = {
    "title": "《SWAN：Ballet cross Reading》",
    "role": "草壁飞翔（草壁飛翔）",
    "date": "2026/9/4–9/9",
-   "image": "https://swan-balletcrossreading.com/images/top/cast_img3-1.jpg",
+   "image": "assets/img/ext/f251577592ad2706.jpg",
    "imageNote": "官网演员照",
    "url": "https://swan-balletcrossreading.com/"
   }
@@ -432,7 +432,7 @@ window.HUB = {
    "bday": 1,
    "status": "部分售罄",
    "price": "场刊／收纳包／亚克力钥匙扣",
-   "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwbf62c4fb/033131/2110671822.jpg",
+   "image": "assets/img/ext/619f8a4deac3860a.jpg",
    "points": [
     "2025.7.11 COTTON CLUB 生日音乐会官方周边",
     "亚克力钥匙扣已经卖完了，场刊和收纳包看7net页面"
@@ -443,23 +443,23 @@ window.HUB = {
     {
      "t": "パンフレット",
      "st": "有货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwbf62c4fb/033131/2110671822.jpg",
+     "img": "assets/img/ext/619f8a4deac3860a.jpg",
      "u": "https://7net.omni7.jp/detail/2110671822.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwbf62c4fb/033131/2110671822.jpg"
+     "href": "assets/img/ext/619f8a4deac3860a.jpg"
     },
     {
      "t": "亚克力钥匙扣",
      "st": "已结束",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw1191a1ac/033131/2110671824.jpg",
+     "img": "assets/img/ext/78c3de1f9f9330de.jpg",
      "u": "https://7net.omni7.jp/detail/2110671824.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw1191a1ac/033131/2110671824.jpg"
+     "href": "assets/img/ext/78c3de1f9f9330de.jpg"
     },
     {
      "t": "收纳包",
      "st": "",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwdd5cce4b/033131/2110671823.jpg",
+     "img": "assets/img/ext/32612764240aae87.jpg",
      "u": "https://7net.omni7.jp/detail/2110671823.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwdd5cce4b/033131/2110671823.jpg"
+     "href": "assets/img/ext/32612764240aae87.jpg"
     }
    ]
   },
@@ -468,7 +468,7 @@ window.HUB = {
    "title": "《Connecting Puzzles vol.2》音乐会周边",
    "status": "已售罄",
    "price": "猫咪长袖T 5,000円 · 亚克力立牌 1,800円 · 贴纸 900円 · 半身生写真 800円",
-   "image": "https://stat.ameba.jp/user_images/20241017/12/we-goodsinfo/28/df/j/o2380336815498946018.jpg",
+   "image": "assets/img/ext/f6a5bf74d337f170.jpg",
    "points": [
     "长袖T后领印着本人设计的猫咪「きゃっとん。」",
     "亚克力立牌第二弹，可套用上一弹的底座"
@@ -479,30 +479,30 @@ window.HUB = {
     {
      "t": "亚克力立牌",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwc9f2ab5e/033131/2110656753.jpg",
+     "img": "assets/img/ext/2e8ee39058021c41.jpg",
      "u": "https://7net.omni7.jp/detail/2110656753.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwc9f2ab5e/033131/2110656753.jpg"
+     "href": "assets/img/ext/2e8ee39058021c41.jpg"
     },
     {
      "t": "きゃっとん。长袖T",
      "st": "有货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwed06940c/033131/2110656751.jpg",
+     "img": "assets/img/ext/db2823be9a76acdd.jpg",
      "u": "https://7net.omni7.jp/detail/2110656751.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwed06940c/033131/2110656751.jpg"
+     "href": "assets/img/ext/db2823be9a76acdd.jpg"
     },
     {
      "t": "半身生写真套组",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwd2d08859/033131/2110656754.jpg",
+     "img": "assets/img/ext/2247d22b84966651.jpg",
      "u": "https://7net.omni7.jp/detail/2110656754.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwd2d08859/033131/2110656754.jpg"
+     "href": "assets/img/ext/2247d22b84966651.jpg"
     },
     {
      "t": "贴纸套组",
      "st": "",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw58de1e49/033131/2110656755.jpg",
+     "img": "assets/img/ext/6ab9150968b78fb0.jpg",
      "u": "https://7net.omni7.jp/detail/2110656755.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw58de1e49/033131/2110656755.jpg"
+     "href": "assets/img/ext/6ab9150968b78fb0.jpg"
     }
    ]
   },
@@ -525,51 +525,51 @@ window.HUB = {
     {
      "t": "场刊（附托特包）",
      "st": "缺货",
-     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961437/2b3b35ec-e5f1-4928-828c-0a231556d393_base_resized.jpg",
+     "img": "assets/img/ext/85450f55715eade9.jpg",
      "u": "https://booth.pm/ja/items/5961437",
-     "href": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961437/2b3b35ec-e5f1-4928-828c-0a231556d393_base_resized.jpg"
+     "href": "assets/img/ext/85450f55715eade9.jpg"
     },
     {
      "t": "原创T恤",
      "st": "缺货",
-     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/6204064/2c4888a3-0282-4d76-a2fb-b0e63621239d_base_resized.jpg",
+     "img": "assets/img/ext/f0d0ae18fa440df2.jpg",
      "u": "https://booth.pm/ja/items/6204064",
-     "href": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/6204064/2c4888a3-0282-4d76-a2fb-b0e63621239d_base_resized.jpg"
+     "href": "assets/img/ext/f0d0ae18fa440df2.jpg"
     },
     {
      "t": "亚克力立牌（4人1套）",
      "st": "缺货",
-     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5962114/82347b6d-26ac-480d-b671-8bb5104674d7_base_resized.jpg",
+     "img": "assets/img/ext/94caf2778aeee227.jpg",
      "u": "https://booth.pm/ja/items/5962114",
-     "href": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5962114/82347b6d-26ac-480d-b671-8bb5104674d7_base_resized.jpg"
+     "href": "assets/img/ext/94caf2778aeee227.jpg"
     },
     {
      "t": "扁平收纳盒",
      "st": "有货",
-     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961517/9e3c3222-20e7-4d97-ac8a-97a806057714_base_resized.jpg",
+     "img": "assets/img/ext/a088e9f3b5208463.jpg",
      "u": "https://booth.pm/ja/items/5961517",
-     "href": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961517/9e3c3222-20e7-4d97-ac8a-97a806057714_base_resized.jpg"
+     "href": "assets/img/ext/a088e9f3b5208463.jpg"
     },
     {
      "t": "镭射钥匙扣",
      "st": "缺货",
-     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961867/e23a0083-1e94-4a7c-8bbc-49236316281f_base_resized.jpg",
+     "img": "assets/img/ext/f3d0ad5842496cb6.jpg",
      "u": "https://booth.pm/ja/items/5961867",
-     "href": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961867/e23a0083-1e94-4a7c-8bbc-49236316281f_base_resized.jpg"
+     "href": "assets/img/ext/f3d0ad5842496cb6.jpg"
     },
     {
      "t": "Hall限定 巾着托特",
      "st": "缺货",
-     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5962137/cdd1dd3d-805f-434b-9b4c-8167c7e8c621_base_resized.jpg",
+     "img": "assets/img/ext/0504cba252b21261.jpg",
      "u": "https://booth.pm/ja/items/5962137",
-     "href": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5962137/cdd1dd3d-805f-434b-9b4c-8167c7e8c621_base_resized.jpg"
+     "href": "assets/img/ext/0504cba252b21261.jpg"
     },
     {
      "t": "Billboard限定 环保袋",
      "st": "缺货",
-     "img": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961882/d9a7085e-59ea-4cba-baa3-6f9b6e1c4b7e_base_resized.jpg",
+     "img": "assets/img/ext/f8b8d28b6e2942f2.jpg",
      "u": "https://booth.pm/ja/items/5961882",
-     "href": "https://booth.pximg.net/7b6ba865-5b86-4790-a400-77fb8f3fedb5/i/5961882/d9a7085e-59ea-4cba-baa3-6f9b6e1c4b7e_base_resized.jpg"
+     "href": "assets/img/ext/f8b8d28b6e2942f2.jpg"
     }
    ]
   },
@@ -578,7 +578,7 @@ window.HUB = {
    "title": "《WE ARE MUSIC》vol.1 生写真套组（东启介）",
    "status": "已售罄",
    "price": "生写真套组",
-   "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwe08ed40c/033131/2110647487.jpg",
+   "image": "assets/img/ext/68aef056195cb4f3.jpg",
    "points": [
     "Musical shoW「WE ARE MUSIC」vol.1 纪念生写真"
    ],
@@ -588,16 +588,16 @@ window.HUB = {
     {
      "t": "生写真套组",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwe08ed40c/033131/2110647487.jpg",
+     "img": "assets/img/ext/68aef056195cb4f3.jpg",
      "u": "https://7net.omni7.jp/detail/2110647487.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwe08ed40c/033131/2110647487.jpg"
+     "href": "assets/img/ext/68aef056195cb4f3.jpg"
     },
     {
      "t": "亚克力立牌",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw6289048a/033131/2110647485.jpg",
+     "img": "assets/img/ext/4951286862d6e093.jpg",
      "u": "https://7net.omni7.jp/detail/2110647485.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw6289048a/033131/2110647485.jpg"
+     "href": "assets/img/ext/4951286862d6e093.jpg"
     }
    ]
   },
@@ -607,7 +607,7 @@ window.HUB = {
    "bday": 1,
    "status": "已结束",
    "price": "预约套组 3,000円（亚克力卡2种·文件夹·生写真6枚）",
-   "image": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods_thumbnail.jpg",
+   "image": "assets/img/ext/e725292ebebeddc1.jpg",
    "points": [
     "手持\"28\"气球拍摄，\"Birthday Live 音\"是本人亲笔字",
     "预约套组比会场多一张限定生写真",
@@ -618,18 +618,18 @@ window.HUB = {
    "items": [
     {
      "t": "亚克力卡（2种）",
-     "img": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods2.jpg",
-     "href": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods2.jpg"
+     "img": "assets/img/ext/74345f00ba8a4577.jpg",
+     "href": "assets/img/ext/74345f00ba8a4577.jpg"
     },
     {
      "t": "A4文件夹",
-     "img": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods1.jpg",
-     "href": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods1.jpg"
+     "img": "assets/img/ext/3efccf29e2d09b82.jpg",
+     "href": "assets/img/ext/3efccf29e2d09b82.jpg"
     },
     {
      "t": "生写真（预约6枚）",
-     "img": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods3.jpg",
-     "href": "https://matisowa.jp/wp-content/uploads/2023/06/higashi-_BDL_goods3.jpg"
+     "img": "assets/img/ext/ed6a5bae08ea108a.jpg",
+     "href": "assets/img/ext/ed6a5bae08ea108a.jpg"
     }
    ]
   },
@@ -638,7 +638,7 @@ window.HUB = {
    "title": "《东启介と聴活》原创T恤",
    "status": "已结束（受注生产）",
    "price": "2,800円（含税）",
-   "image": "https://matisowa.jp/wp-content/uploads/2023/01/mtsw271.jpg",
+   "image": "assets/img/ext/c32c33f748b4394c.jpg",
    "points": [
     "连载《东启介と聴活》圣诞活动（2022.12.25）纪念T恤，红色，S／M／L",
     "\"CHOKATSU（聴活）\"也有\"超勝\"的意思"
@@ -648,8 +648,8 @@ window.HUB = {
    "items": [
     {
      "t": "T恤（样品）",
-     "img": "https://matisowa.jp/wp-content/uploads/metro/Higashi_T_sample.jpg",
-     "href": "https://matisowa.jp/wp-content/uploads/metro/Higashi_T_sample.jpg"
+     "img": "assets/img/ext/618e74e63b59106b.jpg",
+     "href": "assets/img/ext/618e74e63b59106b.jpg"
     }
    ]
   },
@@ -658,7 +658,7 @@ window.HUB = {
    "title": "1st Musical Concert《A NEW ME》周边",
    "status": "已售罄",
    "price": "长袖T · 随行杯 · 手帕 · 文件夹套组",
-   "image": "https://stat.ameba.jp/user_images/20201016/14/we-goodsinfo/9f/43/j/o0450070514835697602.jpg",
+   "image": "assets/img/ext/67a7299725ff19b1.jpg",
    "points": [
     "东启介全程监制，设计用了本人亲自拍的照片",
     "因疫情不在会场贩售，改为 Watanabe商店事前受注"
@@ -669,44 +669,44 @@ window.HUB = {
     {
      "t": "长袖T 黑",
      "st": "有货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dwc07bb608/033131/1301466158.jpg",
+     "img": "assets/img/ext/8092d20281a45ada.jpg",
      "u": "https://7net.omni7.jp/detail/1301466158.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dwc07bb608/033131/1301466158.jpg"
+     "href": "assets/img/ext/8092d20281a45ada.jpg"
     },
     {
      "t": "长袖T 白",
      "st": "有货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw8d68dc3a/033131/1301466161.jpg",
+     "img": "assets/img/ext/6df5e4fd7c7d4b0a.jpg",
      "u": "https://7net.omni7.jp/detail/1301466161.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw8d68dc3a/033131/1301466161.jpg"
+     "href": "assets/img/ext/6df5e4fd7c7d4b0a.jpg"
     },
     {
      "t": "文件夹套组",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw769d9c5d/033131/1301466156.jpg",
+     "img": "assets/img/ext/8174c27ac5e37d96.jpg",
      "u": "https://7net.omni7.jp/detail/1301466156.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw769d9c5d/033131/1301466156.jpg"
+     "href": "assets/img/ext/8174c27ac5e37d96.jpg"
     },
     {
      "t": "手巾 自然色",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw022fb874/033131/1301466165.jpg",
+     "img": "assets/img/ext/c78a0b33801a297a.jpg",
      "u": "https://7net.omni7.jp/detail/1301466165.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw022fb874/033131/1301466165.jpg"
+     "href": "assets/img/ext/c78a0b33801a297a.jpg"
     },
     {
      "t": "手巾 竹色",
      "st": "",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw6e0cde84/033131/1301466164.jpg",
+     "img": "assets/img/ext/d93236b981e2b128.jpg",
      "u": "https://7net.omni7.jp/detail/1301466164.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw6e0cde84/033131/1301466164.jpg"
+     "href": "assets/img/ext/d93236b981e2b128.jpg"
     },
     {
      "t": "随行杯",
      "st": "",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw5df3db39/033131/1301466157.jpg",
+     "img": "assets/img/ext/e10c82791d7a1f17.jpg",
      "u": "https://7net.omni7.jp/detail/1301466157.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw5df3db39/033131/1301466157.jpg"
+     "href": "assets/img/ext/e10c82791d7a1f17.jpg"
     }
    ]
   },
@@ -715,7 +715,7 @@ window.HUB = {
    "title": "「东启介ソロイベント2020」周边",
    "status": "已售罄",
    "price": "2L生写真2枚 800円 · L判生写真6枚 1,200円 · 卫衣 6,000円 · 迷你托特 1,500円",
-   "image": "https://stat.ameba.jp/user_images/20200117/12/we-goodsinfo/50/12/j/o0900127314697511352.jpg",
+   "image": "assets/img/ext/4e936caf4f01d62f.jpg",
    "points": [
     "2020.1.24 表参道GROUND 个人活动，会场当天完售",
     "完售后1/31–2/9开放受注：L判6枚＝会场AB两套合在一起",
@@ -726,23 +726,23 @@ window.HUB = {
    "items": [
     {
      "t": "2L生写真2枚",
-     "img": "https://stat.ameba.jp/user_images/20200128/19/we-goodsinfo/a6/99/j/o0356030014703823387.jpg",
-     "href": "https://stat.ameba.jp/user_images/20200128/19/we-goodsinfo/a6/99/j/o0356030014703823387.jpg"
+     "img": "assets/img/ext/99fe64c8a0b2c28a.jpg",
+     "href": "assets/img/ext/99fe64c8a0b2c28a.jpg"
     },
     {
      "t": "L判生写真6枚",
-     "img": "https://stat.ameba.jp/user_images/20200128/19/we-goodsinfo/13/05/j/o0364033414703823392.jpg",
-     "href": "https://stat.ameba.jp/user_images/20200128/19/we-goodsinfo/13/05/j/o0364033414703823392.jpg"
+     "img": "assets/img/ext/7b5540eca4a8d778.jpg",
+     "href": "assets/img/ext/7b5540eca4a8d778.jpg"
     },
     {
      "t": "卫衣",
-     "img": "https://stat.ameba.jp/user_images/20200128/19/we-goodsinfo/cb/52/j/o0700068014703823394.jpg",
-     "href": "https://stat.ameba.jp/user_images/20200128/19/we-goodsinfo/cb/52/j/o0700068014703823394.jpg"
+     "img": "assets/img/ext/c0b02972b1d971da.jpg",
+     "href": "assets/img/ext/c0b02972b1d971da.jpg"
     },
     {
      "t": "迷你托特",
-     "img": "https://stat.ameba.jp/user_images/20200128/19/we-goodsinfo/84/dc/j/o0600058314703823397.jpg",
-     "href": "https://stat.ameba.jp/user_images/20200128/19/we-goodsinfo/84/dc/j/o0600058314703823397.jpg"
+     "img": "assets/img/ext/c033b5a21fcd5819.jpg",
+     "href": "assets/img/ext/c033b5a21fcd5819.jpg"
     }
    ]
   },
@@ -751,7 +751,7 @@ window.HUB = {
    "title": "个人活动《Two-ton》周边",
    "status": "已售罄",
    "price": "生写真3种 · 生写真收纳册 1,800円 · 票夹 · とん缶",
-   "image": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/8a/8a/j/o0350017214173755330.jpg",
+   "image": "assets/img/ext/e49b0f93c4261a5e.jpg",
    "points": [
     "亲笔Logo，从选品到设计全程本人监制",
     "收纳册印着本人手写的「想」字"
@@ -762,44 +762,44 @@ window.HUB = {
     {
      "t": "生写真套组B（L判3枚）",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dwdaab4b3e/033131/1301392057.jpg",
+     "img": "assets/img/ext/dc662513de1014dc.jpg",
      "u": "https://7net.omni7.jp/detail/1301392057.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dwdaab4b3e/033131/1301392057.jpg"
+     "href": "assets/img/ext/dc662513de1014dc.jpg"
     },
     {
      "t": "生写真套组A（L判3枚）",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dwac59f311/033131/1301392056.jpg",
+     "img": "assets/img/ext/82a6e728f79c113a.jpg",
      "u": "https://7net.omni7.jp/detail/1301392056.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dwac59f311/033131/1301392056.jpg"
+     "href": "assets/img/ext/82a6e728f79c113a.jpg"
     },
     {
      "t": "生写真（2L判2枚）",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw620e5940/033131/1301392055.jpg",
+     "img": "assets/img/ext/6b17ae13b8195df6.jpg",
      "u": "https://7net.omni7.jp/detail/1301392055.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw620e5940/033131/1301392055.jpg"
+     "href": "assets/img/ext/6b17ae13b8195df6.jpg"
     },
     {
      "t": "生写真文件册",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw393f8ccb/033131/1301392058.jpg",
+     "img": "assets/img/ext/b3800f8726c790a6.jpg",
      "u": "https://7net.omni7.jp/detail/1301392058.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw393f8ccb/033131/1301392058.jpg"
+     "href": "assets/img/ext/b3800f8726c790a6.jpg"
     },
     {
      "t": "票夹",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw85cab129/033131/1301392059.jpg",
+     "img": "assets/img/ext/1425405a6ca652a8.jpg",
      "u": "https://7net.omni7.jp/detail/1301392059.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dw85cab129/033131/1301392059.jpg"
+     "href": "assets/img/ext/1425405a6ca652a8.jpg"
     },
     {
      "t": "とん缶",
      "st": "缺货",
-     "img": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dwb7ad4681/033131/1301392060.jpg",
+     "img": "assets/img/ext/f90e5a1463bdd66f.jpg",
      "u": "https://7net.omni7.jp/detail/1301392060.html",
-     "href": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/dwb7ad4681/033131/1301392060.jpg"
+     "href": "assets/img/ext/f90e5a1463bdd66f.jpg"
     }
    ]
   },
@@ -808,7 +808,7 @@ window.HUB = {
    "title": "《Two-ton》通贩限定 手机壳",
    "status": "已结束（完全受注生产）",
    "price": "M／L 各4,000円",
-   "image": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/ce/4d/j/o0595076414173755795.jpg",
+   "image": "assets/img/ext/67060342f2c6f0d2.jpg",
    "points": [
     "本人\"想自己用\"而监制的翻盖手机壳，iPhone／Android多机型通用",
     "印着「KEEP SMILING」，内里象牙白，卡位小3大1"
@@ -818,13 +818,13 @@ window.HUB = {
    "items": [
     {
      "t": "外观",
-     "img": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/ce/4d/j/o0595076414173755795.jpg",
-     "href": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/ce/4d/j/o0595076414173755795.jpg"
+     "img": "assets/img/ext/67060342f2c6f0d2.jpg",
+     "href": "assets/img/ext/67060342f2c6f0d2.jpg"
     },
     {
      "t": "内侧",
-     "img": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/7f/0a/j/o0595034914173755801.jpg",
-     "href": "https://stat.ameba.jp/user_images/20180419/19/we-goodsinfo/7f/0a/j/o0595034914173755801.jpg"
+     "img": "assets/img/ext/fa06c1bbdcd6f71c.jpg",
+     "href": "assets/img/ext/fa06c1bbdcd6f71c.jpg"
     }
    ]
   },
@@ -834,7 +834,7 @@ window.HUB = {
    "bday": 1,
    "status": "已结束",
    "price": "700円（L判4枚）",
-   "image": "https://cdn.suruga-ya.jp/database/pics_light/game/g3639106.jpg",
+   "image": "assets/img/ext/1f0c6d29933dc6dc.jpg",
    "points": [
     "西装造型，\"像时尚杂志内页一样\"的生日生写真",
     "WE SHOP表参道店限定 2017.7.14–8.31"
@@ -847,7 +847,7 @@ window.HUB = {
    "title": "首次个人活动《First-on》周边",
    "status": "已售罄",
    "price": "2L生写真 350円 · L判4枚 700円 · 卷袖T 3,000円 · 托特包 1,500円 · 手环灯 500円 · とん缶 1回300円",
-   "image": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/c0/9d/j/o0250024913922579089.jpg",
+   "image": "assets/img/ext/b160ca8c8d639cea.jpg",
    "points": [
     "第一次自己监制周边，活动Logo是本人亲笔",
     "2L生写真印着亲笔留言和签名；卷袖T是浅薄荷绿",
@@ -858,33 +858,33 @@ window.HUB = {
    "items": [
     {
      "t": "2L生写真",
-     "img": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/db/6c/j/o0211015613922579086.jpg",
-     "href": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/db/6c/j/o0211015613922579086.jpg"
+     "img": "assets/img/ext/c666d919cd2ff628.jpg",
+     "href": "assets/img/ext/c666d919cd2ff628.jpg"
     },
     {
      "t": "L判4枚套组",
-     "img": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/c0/9d/j/o0250024913922579089.jpg",
-     "href": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/c0/9d/j/o0250024913922579089.jpg"
+     "img": "assets/img/ext/b160ca8c8d639cea.jpg",
+     "href": "assets/img/ext/b160ca8c8d639cea.jpg"
     },
     {
      "t": "卷袖T",
-     "img": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/93/6c/j/o0425042513922579092.jpg",
-     "href": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/93/6c/j/o0425042513922579092.jpg"
+     "img": "assets/img/ext/cc4a907a5d7f3775.jpg",
+     "href": "assets/img/ext/cc4a907a5d7f3775.jpg"
     },
     {
      "t": "托特包",
-     "img": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/45/25/j/o0425042513922579096.jpg",
-     "href": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/45/25/j/o0425042513922579096.jpg"
+     "img": "assets/img/ext/cf83933d1b7a41fc.jpg",
+     "href": "assets/img/ext/cf83933d1b7a41fc.jpg"
     },
     {
      "t": "手环灯 粉",
-     "img": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/40/be/j/o0600060013922579104.jpg",
-     "href": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/40/be/j/o0600060013922579104.jpg"
+     "img": "assets/img/ext/6c2586d86e4eb079.jpg",
+     "href": "assets/img/ext/6c2586d86e4eb079.jpg"
     },
     {
      "t": "とん缶",
-     "img": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/8f/12/j/o0400026413922579102.jpg",
-     "href": "https://stat.ameba.jp/user_images/20170426/11/we-goodsinfo/8f/12/j/o0400026413922579102.jpg"
+     "img": "assets/img/ext/0b14503fc982b906.jpg",
+     "href": "assets/img/ext/0b14503fc982b906.jpg"
     }
    ]
   },
@@ -893,7 +893,7 @@ window.HUB = {
    "title": "刀舞《虚伝》东启介×纳谷健 双人生写真〔IN〕〔OUT〕",
    "status": "已结束",
    "price": "各500円（L判3枚）",
-   "image": "https://stat.ameba.jp/user_images/20161208/16/we-goodsinfo/b5/6f/j/o0313031313816663047.jpg",
+   "image": "assets/img/ext/8851e85f295d8fd9.jpg",
    "points": [
     "同龄\"凸凹组合\"的清爽双人照",
     "每套3枚：双人1枚＋两人单人各1枚，〔IN〕〔OUT〕两种",
@@ -905,8 +905,8 @@ window.HUB = {
    "items": [
     {
      "t": "〔IN〕〔OUT〕",
-     "img": "https://stat.ameba.jp/user_images/20161208/16/we-goodsinfo/b5/6f/j/o0313031313816663047.jpg",
-     "href": "https://stat.ameba.jp/user_images/20161208/16/we-goodsinfo/b5/6f/j/o0313031313816663047.jpg"
+     "img": "assets/img/ext/8851e85f295d8fd9.jpg",
+     "href": "assets/img/ext/8851e85f295d8fd9.jpg"
     }
    ]
   },
@@ -915,7 +915,7 @@ window.HUB = {
    "title": "特大Special生写真2016 & Special生写真套组2016",
    "status": "已结束",
    "price": "A4 1,200円 · L判3枚 500円",
-   "image": "https://stat.ameba.jp/user_images/20160818/14/we-goodsinfo/89/8f/j/o0350024813726329585.jpg",
+   "image": "assets/img/ext/ea5b1540ee96045e.jpg",
    "points": [
     "\"和以往不太一样\"的成熟系生写真",
     "WE SHOP表参道店限定"
@@ -925,13 +925,13 @@ window.HUB = {
    "items": [
     {
      "t": "特大A4（印刷签名留言）",
-     "img": "https://stat.ameba.jp/user_images/20160818/14/we-goodsinfo/89/8f/j/o0350024813726329585.jpg",
-     "href": "https://stat.ameba.jp/user_images/20160818/14/we-goodsinfo/89/8f/j/o0350024813726329585.jpg"
+     "img": "assets/img/ext/ea5b1540ee96045e.jpg",
+     "href": "assets/img/ext/ea5b1540ee96045e.jpg"
     },
     {
      "t": "L判3枚套组",
-     "img": "https://stat.ameba.jp/user_images/20160818/14/we-goodsinfo/24/e3/j/o0500026513726329586.jpg",
-     "href": "https://stat.ameba.jp/user_images/20160818/14/we-goodsinfo/24/e3/j/o0500026513726329586.jpg"
+     "img": "assets/img/ext/d611035583df6916.jpg",
+     "href": "assets/img/ext/d611035583df6916.jpg"
     }
    ]
   },
@@ -965,7 +965,7 @@ window.HUB = {
    "date": "2015-05-23",
    "title": "音乐剧《薄樱鬼》黎明录 公演周边",
    "price": "原田个人ブロマイド 3枚 600円 · 全员13枚 2,400円 · 随机ブロマイド 200円 · 场刊 2,100円",
-   "image": "https://www.marv.jp/special/m-hakuoki-reimeiroku/images/goods/kojin_blog.jpg",
+   "image": "assets/img/ext/139c3790d840e826.jpg",
    "points": [
     "他的是「原田セット」：原田左之助个人ブロマイド3枚一组",
     "个人套组9种全买送13人集合2L大图",
@@ -980,7 +980,7 @@ window.HUB = {
    "date": "2016-01-04",
    "title": "音乐剧《薄樱鬼》新选组奇谭 公演周边",
    "price": "原田个人ブロマイド 600円 · 全员14枚 2,700円 · 随机ブロマイド 200円 · 随机手机擦挂件 400円",
-   "image": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/images/goods/kojin.jpg",
+   "image": "assets/img/ext/03d7c7ae15dc68c1.jpg",
    "points": [
     "原田左之助个人ブロマイド3枚一组",
     "随机手机擦挂件（モバイルクリーナーストラップ）里有原田",
@@ -1010,7 +1010,7 @@ window.HUB = {
    "date": "2016-05-03",
    "title": "舞台《刀剑乱舞》虚传 燃烧的本能寺 公演周边",
    "price": "烛台切个人ブロマイド 600円 · 亚克力钥匙扣 800円 · 随机ブロマイド 200円 · 随机徽章 300円",
-   "image": "https://stage-toukenranbu.jp/archive/kyoden/images/goods/single.jpg",
+   "image": "assets/img/ext/af4f734b26496f70.jpg",
    "points": [
     "烛台切光忠个人ブロマイド3枚一组",
     "亚克力钥匙扣12种可以直接挑烛台切",
@@ -1025,7 +1025,7 @@ window.HUB = {
    "date": "2016-08-12",
    "title": "音乐剧《薄樱鬼》HAKU-MYU LIVE 2 周边",
    "price": "原田个人ブロマイド 600円 · 随机ブロマイド 200円 · 随机迷你色纸 500円 · 荧光棒 2,500円",
-   "image": "https://www.marv.jp/special/m-hakuoki-live2/images/goods/person.jpg",
+   "image": "assets/img/ext/aab5cc1fadfbc39f.jpg",
    "points": [
     "随机迷你色纸带演员亲笔留言，里面有原田",
     "荧光棒10色，原田是红色",
@@ -1040,7 +1040,7 @@ window.HUB = {
    "date": "2016-09-30",
    "title": "舞台《飙速宅男》箱根学园新世代，启动 公演周边",
    "price": "苇木场个人ブロマイド 600円 · 随机ブロマイド 200円 · 随机徽章 200円 · 随机亚克力钥匙扣 600円",
-   "image": "https://www.marv.jp/special/pedal_2016-11/images/goods/personal.jpg",
+   "image": "assets/img/ext/38b83c268cafe83e.jpg",
    "points": [
     "苇木场个人ブロマイド：角色照加演员照3枚一组",
     "看2次送一张指定演员的非卖生写真，看3次再送一张签名照"
@@ -1054,7 +1054,7 @@ window.HUB = {
    "date": "2016-12-15",
    "title": "舞台《刀剑乱舞》虚传 再演 公演周边",
    "price": "烛台切个人ブロマイド 600円 · 发光IC卡贴 1,300円 · 随机内番亚克力钥匙扣 600円 · 随机徽章 400円",
-   "image": "https://stage-toukenranbu.jp/archive/kyoden_saien/images/goods/single.jpg",
+   "image": "assets/img/ext/220bb81975d9e363.jpg",
    "points": [
     "发光IC卡贴：刷交通卡时会亮，12种可以挑烛台切",
     "随机钥匙扣是内番服装版"
@@ -1068,7 +1068,7 @@ window.HUB = {
    "date": "2017-02-25",
    "title": "舞台《飙速宅男》新IH篇 起跑线 公演周边",
    "price": "苇木场个人ブロマイド 600円 · 随机ブロマイド 200円 · 随机亚克力钥匙扣 600円 · 随机徽章 400円",
-   "image": "https://www.marv.jp/special/pedal_2017-023/images/goods/all.jpg",
+   "image": "assets/img/ext/9a54ce1fb44dae23.jpg",
    "points": [
     "苇木场个人ブロマイド3枚一组，16种全买送集合2L",
     "随机ブロマイド48种，每人3张"
@@ -1082,7 +1082,7 @@ window.HUB = {
    "date": "2017-04-14",
    "title": "音乐剧《薄樱鬼》原田左之助篇 公演周边",
    "price": "原田个人ブロマイド 600円 · 全员14枚 2,800円 · 随机ブロマイド 200円 · 随机徽章 400円",
-   "image": "https://www.marv.jp/special/m-hakuoki-harada/images/goods/personal.jpg",
+   "image": "assets/img/ext/fd30660bd3562d5e.jpg",
    "points": [
     "他当主角的一篇，全员ブロマイド第一张就是原田",
     "随机ブロマイド50种、随机徽章20种",
@@ -1097,7 +1097,7 @@ window.HUB = {
    "date": "2017-06-01",
    "title": "舞台《刀剑乱舞》义传 黎明的独眼龙 公演周边",
    "price": "烛台切个人ブロマイド 600円 · 迷你屏风 700円 · 随机挂饰 600円 · 随机徽章 400円",
-   "image": "https://stage-toukenranbu.jp/archive/giden/images/goods/person.jpg",
+   "image": "assets/img/ext/a2ecdec6ecf48b36.jpg",
    "points": [
     "迷你屏风8种可以直接挑烛台切",
     "随机挂饰里有「番伞④（烛台切光忠）」"
@@ -1111,7 +1111,7 @@ window.HUB = {
    "date": "2017-07-29",
    "title": "残酷剧《グランギニョル》公演周边",
    "price": "随机徽章 400円 · 场刊 2,500円 · 托特包 1,500円",
-   "image": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/274887/438a26aec79d3fc66ea3ab752f6b03d7_f138b7e541bd277ecb70b5205f8d1551.jpg?width=477",
+   "image": "assets/img/ext/56541afd41491043.jpg",
    "points": [
     "随机徽章38种，用役服装照和形象照，里面有他",
     "场刊有每位演员的单独访谈",
@@ -1126,7 +1126,7 @@ window.HUB = {
    "date": "2018-06-02",
    "title": "舞台《刀剑乱舞》悲传 结之目的不如归 公演周边",
    "price": "烛台切个人ブロマイド 600円 · 舞台照ブロマイド 400円 · 随机迷你色纸 500円 · 随机迷你文件夹 400円",
-   "image": "https://stage-toukenranbu.jp/archive/hiden/images/goods/person.jpg",
+   "image": "assets/img/ext/7c4fc87e72e29368.jpg",
    "points": [
     "这次多了舞台照个人ブロマイド（2枚一组）",
     "随机徽章、迷你文件夹、迷你色纸都有烛台切"
@@ -1142,7 +1142,7 @@ window.HUB = {
    "title": "WE官方生写真 历月一览",
    "status": "已结束",
    "price": "每月4张一套（L判）",
-   "image": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+   "image": "assets/img/ext/e65e91da7c009505.jpg",
    "points": [
     "7net官方商品图，每月一张四张合拍，共56个月",
     "不是每个月都有他：2026年10月阵容里没有他",
@@ -1153,283 +1153,283 @@ window.HUB = {
    "items": [
     {
      "t": "2026.11",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg"
+     "img": "assets/img/ext/e65e91da7c009505.jpg",
+     "href": "assets/img/ext/e65e91da7c009505.jpg"
     },
     {
      "t": "2026.09",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190050196.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190050196.jpg"
+     "img": "assets/img/ext/a4055f4412823168.jpg",
+     "href": "assets/img/ext/a4055f4412823168.jpg"
     },
     {
      "t": "2026.08",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg"
+     "img": "assets/img/ext/5d91c88fc45c4d1c.jpg",
+     "href": "assets/img/ext/5d91c88fc45c4d1c.jpg"
     },
     {
      "t": "2026.07",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693994.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693994.jpg"
+     "img": "assets/img/ext/863c4a6f93c92148.jpg",
+     "href": "assets/img/ext/863c4a6f93c92148.jpg"
     },
     {
      "t": "2026.06",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693068.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693068.jpg"
+     "img": "assets/img/ext/44e05f838a6bda18.jpg",
+     "href": "assets/img/ext/44e05f838a6bda18.jpg"
     },
     {
      "t": "2026.05",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110690616.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110690616.jpg"
+     "img": "assets/img/ext/257847010209953c.jpg",
+     "href": "assets/img/ext/257847010209953c.jpg"
     },
     {
      "t": "2026.04",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110688644.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110688644.jpg"
+     "img": "assets/img/ext/d7b6b2659fc3425e.jpg",
+     "href": "assets/img/ext/d7b6b2659fc3425e.jpg"
     },
     {
      "t": "2026.01",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110681835.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110681835.jpg"
+     "img": "assets/img/ext/45fc562cdb0166e5.jpg",
+     "href": "assets/img/ext/45fc562cdb0166e5.jpg"
     },
     {
      "t": "2025.12",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110680987.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110680987.jpg"
+     "img": "assets/img/ext/1fb8473ca8560c74.jpg",
+     "href": "assets/img/ext/1fb8473ca8560c74.jpg"
     },
     {
      "t": "2025.10",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110676382.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110676382.jpg"
+     "img": "assets/img/ext/857a2aa9db721ab3.jpg",
+     "href": "assets/img/ext/857a2aa9db721ab3.jpg"
     },
     {
      "t": "2025.07",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110669215.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110669215.jpg"
+     "img": "assets/img/ext/41233db5d463bc13.jpg",
+     "href": "assets/img/ext/41233db5d463bc13.jpg"
     },
     {
      "t": "2025.05",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110665401.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110665401.jpg"
+     "img": "assets/img/ext/d36097fceb661186.jpg",
+     "href": "assets/img/ext/d36097fceb661186.jpg"
     },
     {
      "t": "2025.03",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110661625.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110661625.jpg"
+     "img": "assets/img/ext/0f74c409f2806f2a.jpg",
+     "href": "assets/img/ext/0f74c409f2806f2a.jpg"
     },
     {
      "t": "2024.09",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110654289.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110654289.jpg"
+     "img": "assets/img/ext/ce681f1db6fae0b9.jpg",
+     "href": "assets/img/ext/ce681f1db6fae0b9.jpg"
     },
     {
      "t": "2024.03",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110647337.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110647337.jpg"
+     "img": "assets/img/ext/f143994d3095fbf6.jpg",
+     "href": "assets/img/ext/f143994d3095fbf6.jpg"
     },
     {
      "t": "2023.12",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110644893.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110644893.jpg"
+     "img": "assets/img/ext/66c8703ce71cdfbb.jpg",
+     "href": "assets/img/ext/66c8703ce71cdfbb.jpg"
     },
     {
      "t": "2023.09",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110642291.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110642291.jpg"
+     "img": "assets/img/ext/56d95b2c711f80f7.jpg",
+     "href": "assets/img/ext/56d95b2c711f80f7.jpg"
     },
     {
      "t": "2023.04",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110637888.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110637888.jpg"
+     "img": "assets/img/ext/1c37b8a5521a336f.jpg",
+     "href": "assets/img/ext/1c37b8a5521a336f.jpg"
     },
     {
      "t": "2023.01",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110634988.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110634988.jpg"
+     "img": "assets/img/ext/ac514bd2c7f13b9f.jpg",
+     "href": "assets/img/ext/ac514bd2c7f13b9f.jpg"
     },
     {
      "t": "2022.09",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301516194.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301516194.jpg"
+     "img": "assets/img/ext/cb5122286dc561df.jpg",
+     "href": "assets/img/ext/cb5122286dc561df.jpg"
     },
     {
      "t": "2022.06",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301509861.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301509861.jpg"
+     "img": "assets/img/ext/78f490f3a5734835.jpg",
+     "href": "assets/img/ext/78f490f3a5734835.jpg"
     },
     {
      "t": "2022.04",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301505621.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301505621.jpg"
+     "img": "assets/img/ext/5016cfe31e25eedd.jpg",
+     "href": "assets/img/ext/5016cfe31e25eedd.jpg"
     },
     {
      "t": "2022.02",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301500593.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301500593.jpg"
+     "img": "assets/img/ext/750a9ab29f1f5b9c.jpg",
+     "href": "assets/img/ext/750a9ab29f1f5b9c.jpg"
     },
     {
      "t": "2022.01",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301497383.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301497383.jpg"
+     "img": "assets/img/ext/15e2a5173979c190.jpg",
+     "href": "assets/img/ext/15e2a5173979c190.jpg"
     },
     {
      "t": "2021.11",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301493538.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301493538.jpg"
+     "img": "assets/img/ext/6b8291acc62c3db4.jpg",
+     "href": "assets/img/ext/6b8291acc62c3db4.jpg"
     },
     {
      "t": "2021.10",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301490992.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301490992.jpg"
+     "img": "assets/img/ext/f4f344e1528c0e1e.jpg",
+     "href": "assets/img/ext/f4f344e1528c0e1e.jpg"
     },
     {
      "t": "2021.08",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301486219.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301486219.jpg"
+     "img": "assets/img/ext/3ce9488cc83c6ea4.jpg",
+     "href": "assets/img/ext/3ce9488cc83c6ea4.jpg"
     },
     {
      "t": "2021.04",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301477326.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301477326.jpg"
+     "img": "assets/img/ext/d71a4449e33a4832.jpg",
+     "href": "assets/img/ext/d71a4449e33a4832.jpg"
     },
     {
      "t": "2021.01",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301470592.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301470592.jpg"
+     "img": "assets/img/ext/32db50e2ace9a417.jpg",
+     "href": "assets/img/ext/32db50e2ace9a417.jpg"
     },
     {
      "t": "2020.10",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301464245.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301464245.jpg"
+     "img": "assets/img/ext/d59e99254473b8e7.jpg",
+     "href": "assets/img/ext/d59e99254473b8e7.jpg"
     },
     {
      "t": "2020.09",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301461360.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301461360.jpg"
+     "img": "assets/img/ext/d3f9dd6147e37f1e.jpg",
+     "href": "assets/img/ext/d3f9dd6147e37f1e.jpg"
     },
     {
      "t": "2020.08",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301459724.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301459724.jpg"
+     "img": "assets/img/ext/c09cd37288720a08.jpg",
+     "href": "assets/img/ext/c09cd37288720a08.jpg"
     },
     {
      "t": "2020.07",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301457637.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301457637.jpg"
+     "img": "assets/img/ext/1e8b71c5458b0de5.jpg",
+     "href": "assets/img/ext/1e8b71c5458b0de5.jpg"
     },
     {
      "t": "2020.06",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301455708.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301455708.jpg"
+     "img": "assets/img/ext/f8b7b48a90addb28.jpg",
+     "href": "assets/img/ext/f8b7b48a90addb28.jpg"
     },
     {
      "t": "2020.05",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301453972.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301453972.jpg"
+     "img": "assets/img/ext/32204a87d12679dc.jpg",
+     "href": "assets/img/ext/32204a87d12679dc.jpg"
     },
     {
      "t": "2019.12",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301442556.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301442556.jpg"
+     "img": "assets/img/ext/a1de293c21c5cabe.jpg",
+     "href": "assets/img/ext/a1de293c21c5cabe.jpg"
     },
     {
      "t": "2019.10",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301437228.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301437228.jpg"
+     "img": "assets/img/ext/f91b36c580dc346f.jpg",
+     "href": "assets/img/ext/f91b36c580dc346f.jpg"
     },
     {
      "t": "2019.08",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301430196.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301430196.jpg"
+     "img": "assets/img/ext/64cd0d96e57ca77c.jpg",
+     "href": "assets/img/ext/64cd0d96e57ca77c.jpg"
     },
     {
      "t": "2019.07",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301427912.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301427912.jpg"
+     "img": "assets/img/ext/b759334f1e1fdf8a.jpg",
+     "href": "assets/img/ext/b759334f1e1fdf8a.jpg"
     },
     {
      "t": "2019.06",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301425383.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301425383.jpg"
+     "img": "assets/img/ext/da3a554687febe93.jpg",
+     "href": "assets/img/ext/da3a554687febe93.jpg"
     },
     {
      "t": "2019.03",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301417946.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301417946.jpg"
+     "img": "assets/img/ext/f5ae04b7f2b268ba.jpg",
+     "href": "assets/img/ext/f5ae04b7f2b268ba.jpg"
     },
     {
      "t": "2018.04",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301389133.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301389133.jpg"
+     "img": "assets/img/ext/da668d69ce6d3e33.jpg",
+     "href": "assets/img/ext/da668d69ce6d3e33.jpg"
     },
     {
      "t": "2018.02",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301384212.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301384212.jpg"
+     "img": "assets/img/ext/55b299d6e2fa6ae8.jpg",
+     "href": "assets/img/ext/55b299d6e2fa6ae8.jpg"
     },
     {
      "t": "2018.01",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301381805.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301381805.jpg"
+     "img": "assets/img/ext/ab6dd9aa81249557.jpg",
+     "href": "assets/img/ext/ab6dd9aa81249557.jpg"
     },
     {
      "t": "2017.12",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301379742.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301379742.jpg"
+     "img": "assets/img/ext/48b95121396c05b0.jpg",
+     "href": "assets/img/ext/48b95121396c05b0.jpg"
     },
     {
      "t": "2017.11",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301377319.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301377319.jpg"
+     "img": "assets/img/ext/ffd6275bac84e963.jpg",
+     "href": "assets/img/ext/ffd6275bac84e963.jpg"
     },
     {
      "t": "2017.10",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301375029.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301375029.jpg"
+     "img": "assets/img/ext/d4532c9e86c29261.jpg",
+     "href": "assets/img/ext/d4532c9e86c29261.jpg"
     },
     {
      "t": "2017.09",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301372413.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301372413.jpg"
+     "img": "assets/img/ext/fe641bb57a32650b.jpg",
+     "href": "assets/img/ext/fe641bb57a32650b.jpg"
     },
     {
      "t": "2017.08",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369385.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369385.jpg"
+     "img": "assets/img/ext/0806a4b4b3803a02.jpg",
+     "href": "assets/img/ext/0806a4b4b3803a02.jpg"
     },
     {
      "t": "2017.07",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301366687.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301366687.jpg"
+     "img": "assets/img/ext/bf4a3471d2d429a6.jpg",
+     "href": "assets/img/ext/bf4a3471d2d429a6.jpg"
     },
     {
      "t": "2017.06",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301364071.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301364071.jpg"
+     "img": "assets/img/ext/d72e7e863c875bd6.jpg",
+     "href": "assets/img/ext/d72e7e863c875bd6.jpg"
     },
     {
      "t": "2017.05",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301361075.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301361075.jpg"
+     "img": "assets/img/ext/a46068b8841709eb.jpg",
+     "href": "assets/img/ext/a46068b8841709eb.jpg"
     },
     {
      "t": "2017.03",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301356196.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301356196.jpg"
+     "img": "assets/img/ext/8de4a9171fece4a9.jpg",
+     "href": "assets/img/ext/8de4a9171fece4a9.jpg"
     },
     {
      "t": "2017.02",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301353617.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301353617.jpg"
+     "img": "assets/img/ext/b5767b1fcabd1bce.jpg",
+     "href": "assets/img/ext/b5767b1fcabd1bce.jpg"
     },
     {
      "t": "2016.11",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301345398.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301345398.jpg"
+     "img": "assets/img/ext/ea934bca0b57b5b3.jpg",
+     "href": "assets/img/ext/ea934bca0b57b5b3.jpg"
     },
     {
      "t": "2016.10",
-     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343012.jpg",
-     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343012.jpg"
+     "img": "assets/img/ext/a670e03f555c5c4f.jpg",
+     "href": "assets/img/ext/a670e03f555c5c4f.jpg"
     }
    ]
   }
@@ -1440,7 +1440,7 @@ window.HUB = {
    "date": "2026-12-02",
    "price": "800日元（含税）",
    "publisher": "ワタナベ商店（7net）",
-   "image": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+   "image": "assets/img/ext/e65e91da7c009505.jpg",
    "points": [
     "预约期 11/2 12:00–11/15 23:59（已截止）",
     "12月2日前后发货",
@@ -1469,7 +1469,7 @@ window.HUB = {
    "date": "2027-05-19",
    "price": "",
    "publisher": "舞台『刀剣乱舞』製作委員会",
-   "image": "https://stage-toukenranbu.jp/wp-content/uploads/2026/11/%E3%80%90WEB%E3%80%91toustayou_KV.jpg",
+   "image": "assets/img/ext/e3868b4f2e727df9.jpg",
    "points": [
     "TOHO animation STORE 期间限定特典附发售纪念活动抽选应募券"
    ],
@@ -1481,7 +1481,7 @@ window.HUB = {
    "date": "2026-10-01",
    "price": "",
    "publisher": "舞台『刀剣乱舞』公式通販 · DMM通販",
-   "image": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/5_%E9%99%BD%E4%BC%9D_%E7%87%AD%E5%8F%B0%E5%88%87%E5%85%89%E5%BF%A0.jpg",
+   "image": "assets/img/ext/b734089501b02d9e.jpg",
    "points": [
     "10/1起官方通贩和DMM通贩开卖，会场11/10预演起卖",
     "燭台切光忠套组只在通贩卖；三个会场各有限定A4生写真"
@@ -1490,48 +1490,48 @@ window.HUB = {
    "items": [
     {
      "t": "燭台切套组",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/5_%E9%99%BD%E4%BC%9D_%E7%87%AD%E5%8F%B0%E5%88%87%E5%85%89%E5%BF%A0.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/5_%E9%99%BD%E4%BC%9D_%E7%87%AD%E5%8F%B0%E5%88%87%E5%85%89%E5%BF%A0.jpg"
+     "img": "assets/img/ext/b734089501b02d9e.jpg",
+     "href": "assets/img/ext/b734089501b02d9e.jpg"
     },
     {
      "t": "个人生写真",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/2_%E9%99%BD%E4%BC%9D_%E5%80%8B%E4%BA%BA%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/2_%E9%99%BD%E4%BC%9D_%E5%80%8B%E4%BA%BA%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99%E5%88%80%E5%89%A3%E7%94%B7%E5%A3%AB.jpg"
+     "img": "assets/img/ext/3d1d84418aa7352b.jpg",
+     "href": "assets/img/ext/3d1d84418aa7352b.jpg"
     },
     {
      "t": "刀帐生写真",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/4_%E9%99%BD%E4%BC%9D_%E5%88%80%E5%B8%B3%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/4_%E9%99%BD%E4%BC%9D_%E5%88%80%E5%B8%B3%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99.jpg"
+     "img": "assets/img/ext/c8515b5652fcd27f.jpg",
+     "href": "assets/img/ext/c8515b5652fcd27f.jpg"
     },
     {
      "t": "明治座限定A4",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/5_%E9%99%BD%E4%BC%9D_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9AA4%E6%9D%B1%E4%BA%AC.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/5_%E9%99%BD%E4%BC%9D_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9AA4%E6%9D%B1%E4%BA%AC.jpg"
+     "img": "assets/img/ext/104f58ce0e653d09.jpg",
+     "href": "assets/img/ext/104f58ce0e653d09.jpg"
     },
     {
      "t": "新歌舞伎座限定A4",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/6_%E9%99%BD%E4%BC%9D_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9AA4%E5%A4%A7%E9%98%AA.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/6_%E9%99%BD%E4%BC%9D_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9AA4%E5%A4%A7%E9%98%AA.jpg"
+     "img": "assets/img/ext/59bbe8a861cf3960.jpg",
+     "href": "assets/img/ext/59bbe8a861cf3960.jpg"
     },
     {
      "t": "随机生写真",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/8_%E9%99%BD%E4%BC%9D_%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%99%E3%83%A0%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99_v2.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/8_%E9%99%BD%E4%BC%9D_%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%99%E3%83%A0%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99_v2.jpg"
+     "img": "assets/img/ext/c1cb6af34e58c85a.jpg",
+     "href": "assets/img/ext/c1cb6af34e58c85a.jpg"
     },
     {
      "t": "祝装随机生写真",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/9_%E9%99%BD%E4%BC%9D_%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%99%E3%83%A0%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99%E7%A5%9D%E8%A3%85ver.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/9_%E9%99%BD%E4%BC%9D_%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%99%E3%83%A0%E3%83%95%E3%82%99%E3%83%AD%E3%83%9E%E3%82%A4%E3%83%88%E3%82%99%E7%A5%9D%E8%A3%85ver.jpg"
+     "img": "assets/img/ext/71e2ee466fdbc7f5.jpg",
+     "href": "assets/img/ext/71e2ee466fdbc7f5.jpg"
     },
     {
      "t": "亚克力立牌",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/11_%E9%99%BD%E4%BC%9D_%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%82%99.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/11_%E9%99%BD%E4%BC%9D_%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%82%99.jpg"
+     "img": "assets/img/ext/b8177270691f284c.jpg",
+     "href": "assets/img/ext/b8177270691f284c.jpg"
     },
     {
      "t": "场刊",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/1_%E9%99%BD%E4%BC%9D_%E5%85%AC%E6%BC%94%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/09/1_%E9%99%BD%E4%BC%9D_%E5%85%AC%E6%BC%94%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.jpg"
+     "img": "assets/img/ext/c0c566ed0528b7d6.jpg",
+     "href": "assets/img/ext/c0c566ed0528b7d6.jpg"
     }
    ]
   },
@@ -1540,7 +1540,7 @@ window.HUB = {
    "date": "2026-10-17",
    "price": "7,920円（含税）",
    "publisher": "万代 BANDAI",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000257519_1.jpg",
+   "image": "assets/img/ext/3a8ff0506b007d33.jpg",
    "points": [
     "《假面骑士麦斯》假面骑士Maou的变身玩具；官方TVCM见视频栏"
    ],
@@ -1553,7 +1553,7 @@ window.HUB = {
    "title": "Rider Hero Series 假面骑士Maou",
    "price": "990円（含税）",
    "publisher": "万代 BANDAI",
-   "image": "https://assets-toy.bandai.co.jp/toy/ja/product/2026/08/p2a3QIYpeJmPvCjf/1000255432_1.jpg",
+   "image": "assets/img/ext/b86a68d17c8d95af.jpg",
    "points": [
     "软胶人偶，赤猫变身后的样子"
    ],
@@ -1566,7 +1566,7 @@ window.HUB = {
    "title": "TAF 假面骑士Maou",
    "price": "4,400円（含税）",
    "publisher": "万代 BANDAI",
-   "image": "https://assets-toy.bandai.co.jp/toy/ja/product/2026/08/i04Ub4bU5VuN3QTZ/1000255433_1.jpg",
+   "image": "assets/img/ext/fa7278dedef7bcaf.jpg",
    "points": [
     "可动人偶，可以和蛋道具联动"
    ],
@@ -1579,7 +1579,7 @@ window.HUB = {
    "title": "变身腰带 DX Maou Driver & Maou Blade 套装",
    "price": "13,750円（含税）",
    "publisher": "万代 BANDAI",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000257517_1.jpg",
+   "image": "assets/img/ext/1329b2d7d5b61513.jpg",
    "points": [
     "腰带和Maou剑一起的套装",
     "腰带的变身语音是他本人配的"
@@ -1593,7 +1593,7 @@ window.HUB = {
    "title": "DX Maou Blade",
    "price": "5,830円（含税）",
    "publisher": "万代 BANDAI",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000257518_1.jpg",
+   "image": "assets/img/ext/6effc22c4645516d.jpg",
    "points": [
     "Maou的剑单卖版"
    ],
@@ -1606,7 +1606,7 @@ window.HUB = {
    "title": "S.H.Figuarts 假面骑士Maou",
    "price": "9,900円（含税）",
    "publisher": "BANDAI SPIRITS 魂ウェブ",
-   "image": "https://tamashiiweb.com/storage/images/products/thumbnail/69043fb0-2497-4cba-9b36-3c57594dd215.webp",
+   "image": "assets/img/ext/d717b9cb4dafc8ae.webp",
    "points": [
     "一般店头贩售，2027年3月发售"
    ],
@@ -1619,7 +1619,7 @@ window.HUB = {
    "title": "岭高华武利 猫 尾戒",
    "price": "8,250円（含税）",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_1.jpg",
+   "image": "assets/img/ext/614a3daf07eb5570.jpg",
    "points": [
     "剧中华武利戴的细款猫戒指",
     "9/6开订，11/10起又开了一轮受注"
@@ -1628,13 +1628,13 @@ window.HUB = {
    "items": [
     {
      "t": "正面",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_1.jpg"
+     "img": "assets/img/ext/614a3daf07eb5570.jpg",
+     "href": "assets/img/ext/614a3daf07eb5570.jpg"
     },
     {
      "t": "侧面",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_2.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261104_2.jpg"
+     "img": "assets/img/ext/5141187a1fda6811.jpg",
+     "href": "assets/img/ext/5141187a1fda6811.jpg"
     }
    ],
    "work": "骑士"
@@ -1644,7 +1644,7 @@ window.HUB = {
    "title": "岭高华武利 猫眼戒指",
    "price": "13,230円（含税）",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_1.jpg",
+   "image": "assets/img/ext/a51609e6031eca1b.jpg",
    "points": [
     "戒面是黑底猫剪影的那款",
     "和尾戒同一批开订"
@@ -1653,13 +1653,13 @@ window.HUB = {
    "items": [
     {
      "t": "正面",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_1.jpg"
+     "img": "assets/img/ext/a51609e6031eca1b.jpg",
+     "href": "assets/img/ext/a51609e6031eca1b.jpg"
     },
     {
      "t": "侧面",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_2.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261105_2.jpg"
+     "img": "assets/img/ext/ec02918b92947de2.jpg",
+     "href": "assets/img/ext/ec02918b92947de2.jpg"
     }
    ],
    "work": "骑士"
@@ -1669,7 +1669,7 @@ window.HUB = {
    "title": "Hero T恤（假面骑士Maou）",
    "price": "",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_1.jpg",
+   "image": "assets/img/ext/bb066172ec37d5be.jpg",
    "points": [
     "黑底，印的是Maou",
     "Premium Bandai 受注"
@@ -1678,13 +1678,13 @@ window.HUB = {
    "items": [
     {
      "t": "正面",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_1.jpg"
+     "img": "assets/img/ext/bb066172ec37d5be.jpg",
+     "href": "assets/img/ext/bb066172ec37d5be.jpg"
     },
     {
      "t": "细节",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_2.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256283_2.jpg"
+     "img": "assets/img/ext/bb631bf4ee119660.jpg",
+     "href": "assets/img/ext/bb631bf4ee119660.jpg"
     }
    ],
    "work": "骑士"
@@ -1694,7 +1694,7 @@ window.HUB = {
    "title": "亚克力手机支架（假面骑士Maou）",
    "price": "550円（含税）",
    "publisher": "假面骑士商店 东京店・名古屋店",
-   "image": "https://pbs.twimg.com/media/HRGk9GCbIAELQsv?format=jpg&name=large",
+   "image": "assets/img/ext/1c0b391e3bb4b013.jpg",
    "points": [
     "店铺限定，带钥匙扣，可以立手机",
     "Myth、Nox、Dawn也有"
@@ -1708,7 +1708,7 @@ window.HUB = {
    "title": "朝日电视台限定 亚克力钥匙扣（假面骑士Maou）",
    "price": "",
    "publisher": "テレアサショップ 六本木店・东京站店",
-   "image": "https://pbs.twimg.com/media/HRRe1m1bgAAjejN?format=jpg&name=large",
+   "image": "assets/img/ext/882df97bc48c3969.jpg",
    "points": [
     "只在テレアサショップ两家店卖",
     "Myth、Kuroneko也有"
@@ -1721,7 +1721,7 @@ window.HUB = {
    "title": "Rider Hero Series 重涂装版（假面骑士Maou）",
    "price": "2,530円",
    "publisher": "假面骑士商店",
-   "image": "https://pbs.twimg.com/media/HXIcutVbsAASbNl?format=jpg&name=large",
+   "image": "assets/img/ext/b772dcef8df1b48c.jpg",
    "points": [
     "店铺原创，和Rido一起加入",
     "盒背的图也好看，可以连盒摆"
@@ -1735,7 +1735,7 @@ window.HUB = {
    "title": "《我、我喜欢的他，以及你。》亚克力立牌（崎山亮二）",
    "price": "1,650円",
    "publisher": "テレ东本铺 WEB",
-   "image": "https://shop.tv-tokyo.co.jp/img/goods/S/DBS009860_photo01.webp",
+   "image": "assets/img/ext/72e651e47a0a2249.webp",
    "points": [
     "三人分开卖，他演的是崎山亮二",
     "三个底座能横着拼在一起，和饭岛宽骑、见津贤摆成一排",
@@ -1748,7 +1748,7 @@ window.HUB = {
    "title": "《我、我喜欢的他，以及你。》ブロマイド套组",
    "price": "1,100円",
    "publisher": "テレ东本铺 WEB",
-   "image": "https://shop.tv-tokyo.co.jp/img/goods/L/DBS009863_photo01.webp",
+   "image": "assets/img/ext/08f8f993e56beda1.webp",
    "points": [
     "L判4枚：三人各一张新拍的单人照，加一张三人合照",
     "先受注，2024/12/7起一般贩售"
@@ -1761,7 +1761,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/91+30d0cgML._AC_SL500_.jpg",
+   "image": "assets/img/ext/8b9675157cf8ac2c.jpg",
    "points": [
     "饰苇木场拓斗"
    ],
@@ -1773,7 +1773,7 @@ window.HUB = {
    "cat": "影像·CD",
    "price": "Blu-ray / DVD ＋ 原声CD",
    "publisher": "Marvelous",
-   "image": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
+   "image": "assets/img/ext/b5e0cb2a04fcd745.jpg",
    "points": [
     "饰烛台切光忠",
     "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
@@ -1782,12 +1782,12 @@ window.HUB = {
    "items": [
     {
      "t": "影像 2016.09.07",
-     "img": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg",
-     "href": "https://img.hmv.co.jp/image/jacket/800/70/4/9/201.jpg"
+     "img": "assets/img/ext/b5e0cb2a04fcd745.jpg",
+     "href": "assets/img/ext/b5e0cb2a04fcd745.jpg"
     },
     {
      "t": "原声CD 2017.01.25",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/刀ステサントラCD-1024x1010.jpg",
+     "img": "assets/img/ext/66960ae024f43a44.jpg",
      "href": "https://www.stage-toukenranbu.jp/music/kyoden"
     }
    ]
@@ -1798,7 +1798,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/73/4/9/900.jpg",
+   "image": "assets/img/ext/d7f635d35a7ca3fe.jpg",
    "points": [
     "饰苇木场拓斗"
    ],
@@ -1810,7 +1810,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/75/0/2/924.jpg",
+   "image": "assets/img/ext/3aca1c8aacbcbb13.jpg",
    "points": [
     "饰烛台切光忠"
    ],
@@ -1822,7 +1822,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/78/9/9/787.jpg",
+   "image": "assets/img/ext/8fcbd7aed32571dd.jpg",
    "points": [
     "后台花絮合集"
    ],
@@ -1834,7 +1834,7 @@ window.HUB = {
    "cat": "影像·CD",
    "price": "Blu-ray / DVD ＋ 原声CD",
    "publisher": "Marvelous",
-   "image": "https://img.hmv.co.jp/image/jacket/800/79/3/7/351.jpg",
+   "image": "assets/img/ext/931002ba4b960dc2.jpg",
    "points": [
     "饰烛台切光忠",
     "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
@@ -1843,12 +1843,12 @@ window.HUB = {
    "items": [
     {
      "t": "影像 2017.10.18",
-     "img": "https://img.hmv.co.jp/image/jacket/800/79/3/7/351.jpg",
-     "href": "https://img.hmv.co.jp/image/jacket/800/79/3/7/351.jpg"
+     "img": "assets/img/ext/931002ba4b960dc2.jpg",
+     "href": "assets/img/ext/931002ba4b960dc2.jpg"
     },
     {
      "t": "原声CD 2017.11.29",
-     "img": "https://m.media-amazon.com/images/I/71Sngd-VSbL._AC_SL500_.jpg",
+     "img": "assets/img/ext/8afe7cf32ed84d67.jpg",
      "href": "https://www.stage-toukenranbu.jp/music/giden"
     }
    ]
@@ -1859,7 +1859,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/81/6/4/898.jpg",
+   "image": "assets/img/ext/e14fc488cac06445.jpg",
    "points": [
     "综艺节目合集"
    ],
@@ -1871,7 +1871,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/80/9/6/962.jpg",
+   "image": "assets/img/ext/6278d4595417f3d5.jpg",
    "points": [
     "饰李春林"
    ],
@@ -1883,7 +1883,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/87/5/6/049.jpg",
+   "image": "assets/img/ext/43a8e82aa47b8652.jpg",
    "points": [
     "饰哈瓦尔"
    ],
@@ -1895,7 +1895,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/88/8/5/823.jpg",
+   "image": "assets/img/ext/8aa7685741efe791.jpg",
    "points": [
     "后台花絮合集"
    ],
@@ -1907,7 +1907,7 @@ window.HUB = {
    "cat": "影像·CD",
    "price": "Blu-ray / DVD ＋ 原声CD",
    "publisher": "Marvelous",
-   "image": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg",
+   "image": "assets/img/ext/af3339dc9a6279ec.jpg",
    "points": [
     "饰烛台切光忠",
     "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
@@ -1916,12 +1916,12 @@ window.HUB = {
    "items": [
     {
      "t": "影像 2018.10.31",
-     "img": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg",
-     "href": "https://img.hmv.co.jp/image/jacket/800/88/8/5/834.jpg"
+     "img": "assets/img/ext/af3339dc9a6279ec.jpg",
+     "href": "assets/img/ext/af3339dc9a6279ec.jpg"
     },
     {
      "t": "原声CD 2018.11.28",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2021/08/悲伝OST_CD-1024x1013.jpg",
+     "img": "assets/img/ext/e041cbbd4e1f062f.jpg",
      "href": "https://www.stage-toukenranbu.jp/music/hiden"
     }
    ]
@@ -1932,7 +1932,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/91/2/1/002.jpg",
+   "image": "assets/img/ext/a64fea4b4439e96c.jpg",
    "points": [
     "饰科利乌斯；2021年出过Blu-ray复刻版"
    ],
@@ -1944,7 +1944,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/90/4/0/567.jpg",
+   "image": "assets/img/ext/437270ad1151c028.jpg",
    "points": [
     "幕后纪录"
    ],
@@ -1956,7 +1956,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/95/2/6/762.jpg",
+   "image": "assets/img/ext/a40bd15556f5bad4.jpg",
    "points": [
     "为时丸配音"
    ],
@@ -1968,7 +1968,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/0000102/3/1/719.jpg",
+   "image": "assets/img/ext/379af9e2c3368b52.jpg",
    "points": [
     "后台花絮合集"
    ],
@@ -1980,7 +1980,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/0000117/0/8/572.jpg",
+   "image": "assets/img/ext/92fae3fb21cfeeea.jpg",
    "points": [
     "饰涉周一"
    ],
@@ -1992,7 +1992,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/0000125/2/6/082.jpg",
+   "image": "assets/img/ext/ec0dae6e9220cf9f.jpg",
    "points": [
     "剧场上映版"
    ],
@@ -2004,7 +2004,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/0000127/6/5/618.jpg",
+   "image": "assets/img/ext/3a09fc435d1a976c.jpg",
    "points": [
     "饰乌丸薰"
    ],
@@ -2016,7 +2016,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/800/0000133/4/7/401.jpg",
+   "image": "assets/img/ext/4a2a672883cd1b8d.jpg",
    "points": [
     "剧场上映版"
    ],
@@ -2028,7 +2028,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/0000148/5/8/426.jpg",
+   "image": "assets/img/ext/0498a67d461bba22.jpg",
    "points": [
     "JBB第一张现场CD"
    ],
@@ -2040,7 +2040,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/71FaaACgKZL._AC_SL500_.jpg",
+   "image": "assets/img/ext/d728c74990e2eaf9.jpg",
    "points": [
     "2024巡演东京场"
    ],
@@ -2052,7 +2052,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray / DVD",
    "publisher": "",
-   "image": "https://img.hmv.co.jp/image/jacket/400/0000162/5/3/617.jpg",
+   "image": "assets/img/ext/0b5de558807bbb4b.jpg",
    "points": [
     "饰砂川圆"
    ],
@@ -2064,7 +2064,7 @@ window.HUB = {
    "cat": "影像·CD",
    "price": "DVD 8,800円+税 ＋ 原声CD",
    "publisher": "Marvelous",
-   "image": "https://www.marv.jp/uploads/title/728/main.jpg",
+   "image": "assets/img/ext/81aaca7a387d61e7.jpg",
    "points": [
     "饰千岁千里，他的出道作"
    ],
@@ -2072,13 +2072,13 @@ window.HUB = {
    "items": [
     {
      "t": "影像 2014.05.28",
-     "img": "https://www.marv.jp/uploads/title/728/main.jpg",
+     "img": "assets/img/ext/81aaca7a387d61e7.jpg",
      "href": "https://www.marv.jp/titles/st/882/"
     },
     {
      "t": "原声CD 2014.05.28",
-     "img": "https://m.media-amazon.com/images/I/61BLElXP+WL._AC_SL500_.jpg",
-     "href": "https://m.media-amazon.com/images/I/61BLElXP+WL._AC_SL500_.jpg"
+     "img": "assets/img/ext/c77d10b1ac7dae04.jpg",
+     "href": "assets/img/ext/c77d10b1ac7dae04.jpg"
     }
    ]
   },
@@ -2088,7 +2088,7 @@ window.HUB = {
    "cat": "影像·CD",
    "price": "DVD 3枚组 ＋ 原声CD",
    "publisher": "Marvelous",
-   "image": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72095/dvd_2nd_2014rikkai.jpg",
+   "image": "assets/img/ext/46b48c6383ef565d.jpg",
    "points": [
     "饰千岁千里",
     "DVD发售活动的登台名单里有他"
@@ -2097,13 +2097,13 @@ window.HUB = {
    "items": [
     {
      "t": "影像 2014.12.26",
-     "img": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72095/dvd_2nd_2014rikkai.jpg",
+     "img": "assets/img/ext/46b48c6383ef565d.jpg",
      "href": "https://www.tennimu.com/discography/tennimu/second/mjbd-72095/"
     },
     {
      "t": "原声CD 2015.01.01",
-     "img": "https://m.media-amazon.com/images/I/71+14ATpt1L._AC_SL500_.jpg",
-     "href": "https://m.media-amazon.com/images/I/71+14ATpt1L._AC_SL500_.jpg"
+     "img": "assets/img/ext/e7d6b4d7642513c1.jpg",
+     "href": "assets/img/ext/e7d6b4d7642513c1.jpg"
     }
    ]
   },
@@ -2113,7 +2113,7 @@ window.HUB = {
    "cat": "影像·CD",
    "price": "DVD 2枚组 ＋ 原声CD",
    "publisher": "Marvelous",
-   "image": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72096/dvd_2nd_dl2014.jpg",
+   "image": "assets/img/ext/7cd759f7af27bd1d.jpg",
    "points": [
     "第二季毕业DL，收录后台和日替影像"
    ],
@@ -2121,13 +2121,13 @@ window.HUB = {
    "items": [
     {
      "t": "影像 2015.02.27",
-     "img": "https://www.tennimu.com/assets/img/discography/tennimu/second/mjbd-72096/dvd_2nd_dl2014.jpg",
+     "img": "assets/img/ext/7cd759f7af27bd1d.jpg",
      "href": "https://www.tennimu.com/discography/tennimu/second/mjbd-72096/"
     },
     {
      "t": "原声CD 2015.03.04",
-     "img": "https://m.media-amazon.com/images/I/71KEqkKpDNL._AC_SL500_.jpg",
-     "href": "https://m.media-amazon.com/images/I/71KEqkKpDNL._AC_SL500_.jpg"
+     "img": "assets/img/ext/711902391a526fba.jpg",
+     "href": "assets/img/ext/711902391a526fba.jpg"
     }
    ]
   },
@@ -2137,7 +2137,7 @@ window.HUB = {
    "cat": "影像·CD",
    "price": "DVD 8,800円+税 ＋ 原声CD",
    "publisher": "Marvelous",
-   "image": "https://www.marv.jp/uploads/title/742/main.jpg",
+   "image": "assets/img/ext/1a2daff5268def88.jpg",
    "points": [
     "饰原田左之助"
    ],
@@ -2145,12 +2145,12 @@ window.HUB = {
    "items": [
     {
      "t": "影像 2015.10.26",
-     "img": "https://www.marv.jp/uploads/title/742/main.jpg",
+     "img": "assets/img/ext/1a2daff5268def88.jpg",
      "href": "https://www.marv.jp/titles/st/888/"
     },
     {
      "t": "原声CD 2015.12.23",
-     "img": "https://www.marv.jp/special/m-hakuoki-harada/images/disco/reimeiroku_cd.jpg",
+     "img": "assets/img/ext/97ce1821f6ae879f.jpg",
      "href": "https://www.marv.jp/special/m-hakuoki-harada/disco.html"
     }
    ]
@@ -2161,7 +2161,7 @@ window.HUB = {
    "cat": "影像",
    "price": "Blu-ray 9,800円+税 / DVD 8,800円+税",
    "publisher": "Marvelous",
-   "image": "https://www.marv.jp/uploads/title/8665/s_pedalIHSL_KV-3.jpg",
+   "image": "assets/img/ext/e7c5db548771c3e1.jpg",
    "points": [
     "饰苇木场拓斗"
    ],
@@ -2173,7 +2173,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://www.marv.jp/special/m-hakuoki-harada/images/disco/kitan_dvd.jpg",
+   "image": "assets/img/ext/66c9d07d9d9e4cba.jpg",
    "points": [
     "饰原田左之助"
    ],
@@ -2185,7 +2185,7 @@ window.HUB = {
    "cat": "影像·CD",
    "price": "DVD ＋ 原声CD",
    "publisher": "CLIE",
-   "image": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg",
+   "image": "assets/img/ext/4f0f6694de999eb3.jpg",
    "points": [
     "饰Will"
    ],
@@ -2193,13 +2193,13 @@ window.HUB = {
    "items": [
     {
      "t": "影像 2016.11.30",
-     "img": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg",
-     "href": "https://m.media-amazon.com/images/I/61TrMFctbdL._AC_SL1443_.jpg"
+     "img": "assets/img/ext/4f0f6694de999eb3.jpg",
+     "href": "assets/img/ext/4f0f6694de999eb3.jpg"
     },
     {
      "t": "原声CD 2016.11.30",
-     "img": "https://m.media-amazon.com/images/I/61FbxCeUPHL._AC_SL500_.jpg",
-     "href": "https://m.media-amazon.com/images/I/61FbxCeUPHL._AC_SL500_.jpg"
+     "img": "assets/img/ext/41ffbad703b9c56a.jpg",
+     "href": "assets/img/ext/41ffbad703b9c56a.jpg"
     }
    ]
   },
@@ -2209,7 +2209,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/41EAkoOY14L._AC_.jpg",
+   "image": "assets/img/ext/1bcd8fc17388e773.jpg",
    "points": [
     "他担纲主演的一篇，饰原田左之助"
    ],
@@ -2221,7 +2221,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/91ODlQkYJpL._AC_SL1500_.jpg",
+   "image": "assets/img/ext/7cbfeee914486d3d.jpg",
    "points": [
     "2015年公演，饰织田亮"
    ],
@@ -2233,7 +2233,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "EXIT TUNES",
-   "image": "https://m.media-amazon.com/images/I/715r051Ks0L._AC_SL500_.jpg",
+   "image": "assets/img/ext/55a66d328378ed5c.jpg",
    "points": [
     "五人妖怪偶像组合，他是成员之一",
     "作词作曲蝶々P"
@@ -2245,7 +2245,7 @@ window.HUB = {
    "date": "2017-01-18",
    "price": "",
    "publisher": "",
-   "image": "https://m.media-amazon.com/images/I/81oA3IWoE9L._AC_SL500_.jpg",
+   "image": "assets/img/ext/0432afd3fc089e2d.jpg",
    "points": [
     "个人第一张影像作品",
     "发售前公开了宣传PV"
@@ -2258,7 +2258,7 @@ window.HUB = {
    "date": "2017-03-15",
    "price": "",
    "publisher": "",
-   "image": "https://tshop.r10s.jp/book/cabinet/2404/9784865292404.jpg?downsize=600:*",
+   "image": "assets/img/ext/70a938f31735d394.jpg",
    "points": [
     "Pony Canyon",
     "首本写真集，发售时办了见面会"
@@ -2271,7 +2271,7 @@ window.HUB = {
    "date": "2021-03-10",
    "price": "",
    "publisher": "",
-   "image": "https://tshop.r10s.jp/book/cabinet/8492/9784048968492.jpg?downsize=600:*",
+   "image": "assets/img/ext/030ec0111c4b3bb5.jpg",
    "points": [
     "KADOKAWA",
     "第二本写真集"
@@ -2284,7 +2284,7 @@ window.HUB = {
    "date": "2021-03-02",
    "price": "",
    "publisher": "",
-   "image": "https://tshop.r10s.jp/book/cabinet/5353/9784047365353.jpg?downsize=600:*",
+   "image": "assets/img/ext/e3002f87be81cf9e.jpg",
    "points": [
     "KADOKAWA"
    ],
@@ -2296,7 +2296,7 @@ window.HUB = {
    "date": "2023-02-27",
    "price": "",
    "publisher": "",
-   "image": "https://zasshi.tv/wp/wp-content/uploads/2023/01/20230227_higasikeisuke_cover_02.jpg",
+   "image": "assets/img/ext/0b8c6c895d353579.jpg",
    "points": [
     "东京新闻出版·TV指南"
    ],
@@ -2308,7 +2308,7 @@ window.HUB = {
    "date": "2024-02-29",
    "price": "",
    "publisher": "",
-   "image": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_cover_02.jpg",
+   "image": "assets/img/ext/a0033242274ca94e.jpg",
    "points": [
     "东京新闻出版·TV指南"
    ],
@@ -2320,7 +2320,7 @@ window.HUB = {
    "date": "2025-02-21",
    "price": "",
    "publisher": "",
-   "image": "https://zasshi.tv/wp/wp-content/uploads/2025/01/20250221_higasi_calendarbook_2025_2026_main_02.jpg",
+   "image": "assets/img/ext/d3e2185e043ee7ea.jpg",
    "points": [
     "20代最后一本日历书"
    ],
@@ -2332,7 +2332,7 @@ window.HUB = {
    "date": "2016-12-07",
    "price": "",
    "publisher": "Marvelous",
-   "image": "https://www.marv.jp/special/m-hakuoki-harada/images/disco/live_dvd.jpg",
+   "image": "assets/img/ext/8adf07f5d7699e03.jpg",
    "points": [
     "2016年8月演唱会，东启介以原田左之助出演",
     "Disc1 本篇／Disc2 特典映像"
@@ -2345,7 +2345,7 @@ window.HUB = {
    "date": "2026-09-27",
    "price": "27,500円（含税）",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg",
+   "image": "assets/img/ext/7d25d6e7eac0b31e.jpg",
    "points": [
     "照剧中十二支同盟的斗篷做的日常款，红色款对应猫（华武利），2027年1月发货",
     "魔术贴徽章可换，徽章另售（全12种，1,320円）"
@@ -2354,13 +2354,13 @@ window.HUB = {
    "items": [
     {
      "t": "红色款",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258358_2.jpg"
+     "img": "assets/img/ext/7d25d6e7eac0b31e.jpg",
+     "href": "assets/img/ext/7d25d6e7eac0b31e.jpg"
     },
     {
      "t": "猫徽章（另售）",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_2.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258391_2.jpg"
+     "img": "assets/img/ext/3db545a9b811b627.jpg",
+     "href": "assets/img/ext/3db545a9b811b627.jpg"
     }
    ],
    "work": "骑士"
@@ -2370,7 +2370,7 @@ window.HUB = {
    "date": "2026-09-30",
    "price": "",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_2.jpg",
+   "image": "assets/img/ext/3b785d60e15b25c8.jpg",
    "points": [
     "十二支系列里红色那款就是猫（华武利／Maou）",
     "项链5,500円 · 戒指13,200円 · 耳饰6,600円"
@@ -2379,18 +2379,18 @@ window.HUB = {
    "items": [
     {
      "t": "项链",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_2.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260412_2.jpg"
+     "img": "assets/img/ext/3b785d60e15b25c8.jpg",
+     "href": "assets/img/ext/3b785d60e15b25c8.jpg"
     },
     {
      "t": "戒指",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_2.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260411_2.jpg"
+     "img": "assets/img/ext/4795a81052c3fb92.jpg",
+     "href": "assets/img/ext/4795a81052c3fb92.jpg"
     },
     {
      "t": "耳饰",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_2.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260409_2.jpg"
+     "img": "assets/img/ext/b8f323fb33954477.jpg",
+     "href": "assets/img/ext/b8f323fb33954477.jpg"
     }
    ],
    "work": "骑士"
@@ -2400,7 +2400,7 @@ window.HUB = {
    "date": "2026-10",
    "price": "",
    "publisher": "舞台『刀剣乱舞』官网 GOODS",
-   "image": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/01_raster_bromide.jpg",
+   "image": "assets/img/ext/8176a1e302ef60d0.jpg",
    "points": [
     "和陽伝公演周边分开的一套，十周年专属",
     "烫金个人生写真、刀帐生写真、橡果钥匙扣（按组分）、雪花球"
@@ -2409,28 +2409,28 @@ window.HUB = {
    "items": [
     {
      "t": "烫金个人生写真",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/01_raster_bromide.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/01_raster_bromide.jpg"
+     "img": "assets/img/ext/8176a1e302ef60d0.jpg",
+     "href": "assets/img/ext/8176a1e302ef60d0.jpg"
     },
     {
      "t": "刀帐生写真",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/%E5%8D%81%E5%91%A8%E5%B9%B4_%E5%88%80%E5%B8%B3%E3%83%95%E3%82%99%E3%83%AD_%E9%9B%86%E5%90%88.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/%E5%8D%81%E5%91%A8%E5%B9%B4_%E5%88%80%E5%B8%B3%E3%83%95%E3%82%99%E3%83%AD_%E9%9B%86%E5%90%88.jpg"
+     "img": "assets/img/ext/3618b76e6b348b27.jpg",
+     "href": "assets/img/ext/3618b76e6b348b27.jpg"
     },
     {
      "t": "橡果钥匙扣",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/02_keyholder__group_A.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/02_keyholder__group_A.jpg"
+     "img": "assets/img/ext/bd6482daead2a7a1.jpg",
+     "href": "assets/img/ext/bd6482daead2a7a1.jpg"
     },
     {
      "t": "和纸风文件夹",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/03_clearfile.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/03_clearfile.jpg"
+     "img": "assets/img/ext/caa125fb36e4866e.jpg",
+     "href": "assets/img/ext/caa125fb36e4866e.jpg"
     },
     {
      "t": "雪花球",
-     "img": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/%E5%8D%81%E5%91%A8%E5%B9%B4_%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88%E3%82%99%E3%83%BC%E3%83%A0.jpg",
-     "href": "https://www.stage-toukenranbu.jp/wp-content/uploads/2026/10/%E5%8D%81%E5%91%A8%E5%B9%B4_%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88%E3%82%99%E3%83%BC%E3%83%A0.jpg"
+     "img": "assets/img/ext/a379b24c19c31049.jpg",
+     "href": "assets/img/ext/a379b24c19c31049.jpg"
     }
    ]
   },
@@ -2439,7 +2439,7 @@ window.HUB = {
    "date": "2026-11",
    "price": "",
    "publisher": "Premium Bandai",
-   "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_3.jpg",
+   "image": "assets/img/ext/0b872567808da98c.jpg",
    "points": [
     "每件附一颗限定配色的Ride Exs",
     "骑士各一款，Maou是红色那件"
@@ -2448,18 +2448,18 @@ window.HUB = {
    "items": [
     {
      "t": "全系列",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_1.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_1.jpg"
+     "img": "assets/img/ext/f26fb2dd59dba5f4.jpg",
+     "href": "assets/img/ext/f26fb2dd59dba5f4.jpg"
     },
     {
      "t": "Maou款",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_3.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_3.jpg"
+     "img": "assets/img/ext/0b872567808da98c.jpg",
+     "href": "assets/img/ext/0b872567808da98c.jpg"
     },
     {
      "t": "附带的Ride Exs",
-     "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_12.jpg",
-     "href": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000261492_12.jpg"
+     "img": "assets/img/ext/2feb25018de9885d.jpg",
+     "href": "assets/img/ext/2feb25018de9885d.jpg"
     }
    ],
    "work": "骑士"
