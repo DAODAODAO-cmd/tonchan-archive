@@ -14,6 +14,7 @@ foreach ($line in $lines) {
   $u = [Uri]$url
   $h = $u.Host -replace '^(img\d*|cdn[-\w]*|static|images?)\.', 'www.'
   $ref = $u.Scheme + '://' + $h + '/'
+  if ($u.Host -match 'hdslb\.com$') { $ref = 'https://www.bilibili.com/' }
   & curl.exe -s -L --max-time 40 -A $ua -e $ref -o $dest $url 2>$null
   if ((Test-Path $dest) -and ((Get-Item $dest).Length -gt 500)) { $ok++; continue }
   $done = $false

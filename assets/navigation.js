@@ -16,16 +16,26 @@
   document.body.append(nav);
   const dialog=document.createElement('dialog');dialog.className='archive-menu';dialog.setAttribute('aria-labelledby','archive-menu-title');
   const menuGroups=[
-    ['查资料',[
+    ['日程与消息',[
       ['完整日程','公演、活动与发行安排','list.html?g=schedule'],
-      ['消息更新','新公布的消息','index.html?view=now&tab=news'],
-      ['音像资料','CD、DVD、Blu-ray','list.html?g=audio'],
-      ['视频资料','演出、访谈与歌唱翻唱',paths.videos],
-      ['杂志档案','封面与期号','list.html?g=mag'],
-      ['写真与出版','写真集、日历与书籍','list.html?g=photo'],
-      ['采访与连载','对谈、文字与摄影','list.html?g=int'],
-      ['广播与节目','广播出演与回放','list.html?g=radio'],
-      ['演艺年表','按年份查经历','list.html?g=all']
+      ['消息更新','新公布的消息和本人SNS','index.html?view=now&tab=news'],
+      ['演艺年表','从出道到现在按时间查','list.html?g=all']
+    ]],
+    ['出演',[
+      ['综艺·节目','电视综艺、音乐节目、旅行','list.html?g=variety'],
+      ['广播','广播节目与广播剧','list.html?g=radio'],
+      ['活动','见面会、发布会与联动','list.html?g=event'],
+      ['视频','演出、访谈与歌唱',paths.videos]
+    ]],
+    ['读的和看的',[
+      ['杂志','封面与期号','list.html?g=mag'],
+      ['采访·连载','专访、对谈与连载','list.html?g=int'],
+      ['本人摄影·随笔','他自己拍的照片和写的文字','list.html?g=own'],
+      ['写真与出版','写真集、日历与书籍','list.html?g=photo']
+    ]],
+    ['收藏',[
+      ['周边·生写真','公演周边与官方生写真',paths.goods],
+      ['音像','CD、DVD、Blu-ray','list.html?g=audio']
     ]],
     ['认识东酱',[
       ['个人资料','基本信息与经历',paths.about],
@@ -46,7 +56,6 @@
       const heading=document.createElement('div');heading.className='wrap view-heading';
       heading.innerHTML=`<h1>${esc(view==='works'?'作品':labels[view]||'档案')}</h1><p>${esc({works:'按作品查资料，饰演的角色和剧照都在作品卡里。',goods:'按作品找周边，过往记录也收录在这里。',now:'查近期安排，或切换查看新公布的消息。',videos:'按类型与平台浏览视频资料。',about:'基本资料、经历与官方渠道。'}[view])}</p>`;
       if(view==='now')heading.innerHTML+='<nav class="near-tabs" aria-label="近况浏览方式">'+[['schedule','近况与日程'],['news','消息更新']].map(([k,t])=>`<a href="index.html?view=now&tab=${k}"${(params.get('tab')==='news'?'news':'schedule')===k?' aria-current="page"':''}>${t}</a>`).join('')+'</nav>';
-      if(view==='goods')heading.innerHTML+='<nav class="near-tabs" aria-label="收藏分类"><a href="index.html?view=goods" aria-current="page">周边图鉴</a><a href="list.html?g=audio">音像资料</a></nav>';
       document.querySelector('main').prepend(heading);
     }
     if(view==='about'&&['profile','says','links'].includes(location.hash.slice(1)))document.querySelector('#aboutTabs [data-ab="'+location.hash.slice(1)+'"]')?.click();
