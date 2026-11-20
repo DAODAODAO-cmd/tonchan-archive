@@ -15174,6 +15174,16 @@ window.ARCHIVE = {
      "caption": "舞台照",
      "source": "Musical Theater Japan",
      "asset": "xe194a1e12f9550cb"
+    },
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6470/458/6470-458-38c610614bc261b41153c44797b31bc9-3069x2301.jpg?format=jpeg&width=1950&height=1350&fit=bounds",
+     "caption": "舞台照（衛星劇場放送新闻稿）",
+     "source": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html"
+    },
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6470/458/6470-458-c9f732ad6cffae82ae60f66fe3b8656c-3504x2336.jpg?format=jpeg&width=1950&height=1350&fit=bounds",
+     "caption": "舞台照：全员（衛星劇場放送新闻稿）",
+     "source": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html"
     }
    ],
    "videos": [
@@ -16639,6 +16649,34 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
+  },
+  {
+   "id": "tv_desk_eigeki",
+   "date": "2024-04-27",
+   "end": "",
+   "category": "电视节目",
+   "title": "《DESK》CS卫星剧场 电视首播",
+   "japanese": "TOHO MUSICAL LAB.「DESK」CS衛星劇場 テレビ初放送",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html",
+   "note": "2023年11月シアタークリエ公演，4/27 17:40–18:30播出，和《わたしを、褒めて》同日放送。",
+   "status": "已结束",
+   "origin": "2026.11.17 用户补充",
+   "dateKind": "日程",
+   "images": [
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6470/458/6470-458-c9f732ad6cffae82ae60f66fe3b8656c-3504x2336.jpg?format=jpeg&width=1950&height=1350&fit=bounds",
+     "caption": "舞台照",
+     "source": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [],
+   "sub": "作品放送"
   },
   {
    "id": "bro_202405",
