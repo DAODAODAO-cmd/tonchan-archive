@@ -243,6 +243,13 @@ window.HUB = {
  ],
  "news": [
   {
+   "date": "2026-11-20",
+   "tag": "周边",
+   "title": "写真集书名定为《ECHOES》，公开通常版和限定版封面",
+   "text": "2027年1月8日发售；通常版突出高挑身形，限定版是放松的氛围。",
+   "url": "https://x.com/tokyonews_pr/status/2123688301085503651"
+  },
+  {
    "date": "2026-11-16",
    "tag": "采访",
    "title": "刀舞《陽伝》官网更新媒体露出一览",
@@ -1541,12 +1548,13 @@ window.HUB = {
  ],
  "goods": [
   {
-   "title": "东启介最新写真集（暂定名）",
+   "title": "东启介写真集《ECHOES》",
    "date": "2027-01-08",
    "price": "4,400日元（含税）· A4",
    "publisher": "东京新闻通信社",
-   "image": "assets/img/b4ccb520b19a2bb1.jpg",
+   "image": "assets/img/ext/b007368c2390e736.jpg",
    "points": [
+    "书名《ECHOES》：想让人从一张张照片里感受到“演员”和“私下的自己”两个侧面；通常版封面突出高挑身形，限定版封面更放松",
     "Amazon · 乐天：限定封面版",
     "7net：亲笔签名版（发售日后发货）",
     "Animate通贩：附生写真1张",
@@ -1560,7 +1568,19 @@ window.HUB = {
     "state": "available",
     "source": "https://zasshi.tv/products/62295/",
     "note": "出版社仍提供购买与预约入口；各店特典库存不同。"
-   }
+   },
+   "items": [
+    {
+     "t": "通常版封面",
+     "img": "assets/img/ext/b007368c2390e736.jpg",
+     "href": "assets/img/ext/b007368c2390e736.jpg"
+    },
+    {
+     "t": "限定版封面",
+     "img": "assets/img/ext/91db92314aa8efe2.jpg",
+     "href": "assets/img/ext/91db92314aa8efe2.jpg"
+    }
+   ]
   },
   {
    "title": "刀舞《陽伝》Blu-ray / DVD",

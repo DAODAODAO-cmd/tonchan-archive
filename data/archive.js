@@ -20786,7 +20786,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
-   "note": "宣布2027年1月8日发售；本项属于2026年的发表消息。",
+   "note": "宣布2027年1月8日发售；本项属于2026年的发表消息。 2026年11月20日公开书名《ECHOES》与封面。",
    "status": "",
    "origin": "发行方公告补充",
    "dateKind": "消息发布日期",
@@ -21533,8 +21533,8 @@ window.ARCHIVE = {
    "date": "2027-01-08",
    "end": "",
    "category": "写真／出版",
-   "title": "最新写真集（暂定名）预定发售",
-   "japanese": "東啓介最新写真集（仮）",
+   "title": "写真集《ECHOES》发售",
+   "japanese": "東啓介写真集「ECHOES」",
    "role": "",
    "crew": "",
    "key": "",
@@ -21544,6 +21544,18 @@ window.ARCHIVE = {
    "origin": "发行方公告补充",
    "dateKind": "预定发售日",
    "images": [
+    {
+     "url": "https://pbs.twimg.com/media/HXjbPxLbsAAzi5F?format=jpg&name=large",
+     "caption": "通常版封面",
+     "source": "https://x.com/tokyonews_pr/status/2123688301085503651",
+     "asset": "xb007368c2390e736"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/HXjbPxQbsAArKhM?format=jpg&name=large",
+     "caption": "限定版封面",
+     "source": "https://x.com/tokyonews_pr/status/2123688301085503651",
+     "asset": "x91db92314aa8efe2"
+    },
     {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_cover_00.jpg",
      "caption": "写真集封面",
@@ -21578,8 +21590,8 @@ window.ARCHIVE = {
    "date": "2027-01-10",
    "end": "",
    "category": "活动",
-   "title": "最新写真集发售纪念活动｜涩谷SHIBUYA TSUTAYA",
-   "japanese": "東啓介最新写真集（仮） 発売記念イベント",
+   "title": "写真集《ECHOES》发售纪念活动｜涩谷SHIBUYA TSUTAYA",
+   "japanese": "東啓介写真集「ECHOES」 発売記念イベント",
    "role": "",
    "crew": "",
    "key": "",
@@ -21607,8 +21619,8 @@ window.ARCHIVE = {
    "date": "2027-01-17",
    "end": "",
    "category": "活动",
-   "title": "最新写真集发售纪念活动｜池袋HMVエソラ",
-   "japanese": "東啓介最新写真集（仮） 発売記念イベント",
+   "title": "写真集《ECHOES》发售纪念活动｜池袋HMVエソラ",
+   "japanese": "東啓介写真集「ECHOES」 発売記念イベント",
    "role": "",
    "crew": "",
    "key": "",
@@ -21665,8 +21677,8 @@ window.ARCHIVE = {
    "date": "2027-01-24",
    "end": "",
    "category": "活动",
-   "title": "最新写真集发售纪念活动｜新宿Book First",
-   "japanese": "東啓介最新写真集（仮） 発売記念イベント",
+   "title": "写真集《ECHOES》发售纪念活动｜新宿Book First",
+   "japanese": "東啓介写真集「ECHOES」 発売記念イベント",
    "role": "",
    "crew": "",
    "key": "",
@@ -39762,7 +39774,9 @@ window.ARCHIVE = {
   "x66960ae024f43a44": "assets/img/ext/66960ae024f43a44.jpg",
   "x8afe7cf32ed84d67": "assets/img/ext/8afe7cf32ed84d67.jpg",
   "xe041cbbd4e1f062f": "assets/img/ext/e041cbbd4e1f062f.jpg",
-  "xb76c9cda90fc4afc": "assets/img/ext/b76c9cda90fc4afc.jpg"
+  "xb76c9cda90fc4afc": "assets/img/ext/b76c9cda90fc4afc.jpg",
+  "xb007368c2390e736": "assets/img/ext/b007368c2390e736.jpg",
+  "x91db92314aa8efe2": "assets/img/ext/91db92314aa8efe2.jpg"
  },
  "biliLeads": [
   {
