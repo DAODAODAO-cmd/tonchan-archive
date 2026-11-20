@@ -307,7 +307,21 @@ footer p{margin:4px 0}
 .rnav{display:flex;gap:8px}.rnav button{border:1px solid var(--line);background:var(--card);border-radius:50%;width:34px;height:34px;cursor:pointer;color:var(--ink)}
 @media(max-width:640px){.rl{flex-basis:46vw}.rl-nm{height:250px}.rl-nm b{font-size:26px}.rl-ph{height:200px}.rl-pst{height:150px}.rl-pst img{max-height:136px}}
 .gmore{grid-column:1/-1;justify-self:center;border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 22px;font-size:13px;color:var(--ink);cursor:pointer}.card.g .gt{display:inline-block;font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:1px 8px;margin-left:4px;vertical-align:middle}.gis{max-height:330px;overflow-y:auto;padding-right:4px}.gi{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:6px;margin:8px 0 10px}.gi>div,.gi a{text-decoration:none;color:inherit;font-size:10px;line-height:1.3}.gi img{width:100%;aspect-ratio:1;object-fit:contain;background:#fff;border-radius:8px;border:1px solid var(--line)}.gi span{display:block;margin-top:2px;opacity:.75}
-.pv{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}.pv figure{margin:0}.pv img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top;border-radius:12px;background:#eee}.pv figcaption{font-size:11px;line-height:1.4;color:var(--muted);margin-top:4px}.pv figcaption b{display:block;color:var(--ink);font-size:12px}@media(max-width:560px){.pv{grid-template-columns:repeat(3,minmax(0,1fr))}}.hero-photo .ph{position:relative}.htrack{display:flex;width:100%;height:100%;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none}.htrack::-webkit-scrollbar{display:none}.htrack figure{flex:0 0 100%;height:100%;margin:0;position:relative;scroll-snap-align:start}.hy{position:absolute;left:50%;bottom:12px;transform:translateX(-50%);background:rgba(255,253,249,.85);color:var(--ink);font-size:12px;letter-spacing:.06em;padding:3px 10px;border-radius:999px}.hdots{display:flex;justify-content:center;gap:6px;margin-top:10px}.hdots button{width:7px;height:7px;border-radius:50%;border:0;padding:0;background:#d8cfc4}.hdots button.on{background:var(--sage,#7f9c88);width:18px;border-radius:4px}</style>
+.pv{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}.pv figure{margin:0}.pv img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top;border-radius:12px;background:#eee}.pv figcaption{font-size:11px;line-height:1.4;color:var(--muted);margin-top:4px}.pv figcaption b{display:block;color:var(--ink);font-size:12px}@media(max-width:560px){.pv{grid-template-columns:repeat(3,minmax(0,1fr))}}.hero-photo .ph{position:relative}.htrack{display:flex;width:100%;height:100%;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none}.htrack::-webkit-scrollbar{display:none}.htrack figure{flex:0 0 100%;height:100%;margin:0;position:relative;scroll-snap-align:start}.hy{position:absolute;left:50%;bottom:12px;transform:translateX(-50%);background:rgba(255,253,249,.85);color:var(--ink);font-size:12px;letter-spacing:.06em;padding:3px 10px;border-radius:999px}.hdots{display:flex;justify-content:center;gap:6px;margin-top:10px}.hdots button{width:7px;height:7px;border-radius:50%;border:0;padding:0;background:#d8cfc4}.hdots button.on{background:var(--sage,#7f9c88);width:18px;border-radius:4px}.rgw{display:none}
+@media(max-width:640px){#roles .roles-wrap,#roles .rnav{display:none}.rgw{display:block}
+.rgrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.rg{display:flex;flex-direction:column;background:var(--card);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.rg .ph{aspect-ratio:3/4;background:var(--c2,#efe6dc);overflow:hidden;position:relative}
+.rg .ph img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 12%}
+.rg .ph .yr{position:absolute;left:8px;top:8px;background:rgba(255,255,255,.88);color:#3a3530;border-radius:999px;padding:2px 8px;font-size:11px;font-weight:600}
+.rg .ph .no{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;writing-mode:vertical-rl;font-family:var(--serif);font-size:24px;letter-spacing:.25em;color:var(--c1);opacity:.35}
+.rg .b{padding:8px 10px 10px;border-top:3px solid var(--c1)}
+.rg .b b{display:block;font-size:14px;line-height:1.35}
+.rg .b small{display:block;font-size:11px;color:var(--muted);margin-top:1px}
+.rg .b span{display:block;font-size:12px;color:var(--muted);margin-top:4px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.rgmore{display:block;width:100%;margin:14px 0 0;border:0;background:var(--card);border-radius:999px;padding:11px;font:inherit;font-size:13px;color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.rgmore[hidden]{display:none}}
+</style>
 <script>document.addEventListener('load',function(e){var i=e.target;if(i&&i.tagName==='IMG'&&i.naturalHeight>i.naturalWidth*1.05&&!i.style.objectPosition)i.style.objectPosition='50% 15%'},true)</script>
 <style>img[src$=".png"]{background:#2e2622}</style>
 <meta property="og:type" content="website">
@@ -320,7 +334,19 @@ footer p{margin:4px 0}
 <meta name="twitter:title" content="东启介 资讯站｜Keisuke Higashi">
 <meta name="twitter:description" content="东启介（東啓介）的舞台、影视、采访、杂志、广播与周边资讯整理站。">
 <meta name="twitter:image" content="https://daodaodao-cmd.github.io/tonchan-archive/assets/img/hero-30th-afterglow.jpg">
-<style>.imgfb{width:100%;height:100%;min-height:60px;display:grid;place-items:center;background:linear-gradient(135deg,#f4ece1,#efe6f2);color:#a8917a;font-family:"Noto Serif SC","Songti SC",serif;font-size:13px;line-height:1.4;padding:8px;text-align:center;box-sizing:border-box;overflow:hidden}</style>
+<style>.imgfb{width:100%;height:100%;min-height:60px;display:grid;place-items:center;background:linear-gradient(135deg,#f4ece1,#efe6f2);color:#a8917a;font-family:"Noto Serif SC","Songti SC",serif;font-size:13px;line-height:1.4;padding:8px;text-align:center;box-sizing:border-box;overflow:hidden}@media(max-width:640px){.goods{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px}
+.goods{grid-auto-flow:row dense}.g.gw{grid-column:1/-1}
+.g:not(.gw) .badge,.g:not(.gw) .gt{align-self:flex-start}
+.g:not(.gw) .gi{grid-template-columns:repeat(2,minmax(0,1fr))}
+.g:not(.gw) .img{aspect-ratio:1/1}
+.g:not(.gw) .b{padding:9px 10px 11px}
+.g:not(.gw) h3{font-size:14.5px;line-height:1.35;font-family:inherit;font-weight:700}
+.g:not(.gw) .badge{font-size:11px;padding:2px 8px}
+.g:not(.gw) .gt{margin:4px 0 2px;font-size:10.5px}
+.g:not(.gw) .meta{font-size:11px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.g:not(.gw) ul{display:none}
+.g:not(.gw) .go{font-size:11.5px;padding:5px 11px;margin-top:auto}}
+</style>
 <script>document.addEventListener('error',function(e){var i=e.target;if(!i||i.tagName!=='IMG'||i.dataset.fb)return;i.dataset.fb='1';var d=document.createElement('div');d.className='imgfb';var t=(i.alt||'').trim();d.textContent=t&&t.length<40?t:'東';d.style.borderRadius=getComputedStyle(i).borderRadius;i.replaceWith(d)},true)</script>
 </head>
 <body>
@@ -372,6 +398,7 @@ footer p{margin:4px 0}
 <section class="sec" id="roles"><div class="wrap">
   <div class="sec-head"><h2><em>ROLES</em>角色</h2><div class="rnav"><button id="rPrev" aria-label="往前">‹</button><button id="rNext" aria-label="往后">›</button></div></div>
   <div class="roles-wrap"><div class="roles" id="roleStrip"></div></div>
+  <div class="rgw"><div class="pgf rgf" id="roleChips"></div><div class="rgrid" id="roleGrid"></div><button type="button" class="rgmore" id="roleMore"></button></div>
 </div></section>
 
 <section class="sec" id="videos"><div class="wrap">
@@ -414,8 +441,8 @@ footer p{margin:4px 0}
   <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
-<script src="data/archive.js?v=1120m"></script>
-<script src="data/hub.js?v=1120m"></script>
+<script src="data/archive.js?v=1120n"></script>
+<script src="data/hub.js?v=1120n"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -487,7 +514,7 @@ function drawVids(){const list=A.videos.filter(v=>(!VT[curV]||VT[curV].includes(
 $('vidTabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.k)curV=b.dataset.k;if(b.dataset.p)curP=b.dataset.p;drawVids()};drawVids();
 
 /* goods */
-const isShop=u=>/amazon\.|hmv\.co\.jp|7net\.omni7|booth\.pm|shop\.tv-tokyo|p-bandai|bandai\.co\.jp\/item|toei-onlinestore|rakuten|animate-onlineshop|mercari|suruga-ya|tohoentertainmentonline|lifetunes|premium-bandai|shop\.|store\./i.test(u||'');const gcard=g=>{const arch=/^list\.html|^archive\.html/.test(g.url||'');return '<article class="card g"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy"'+(g.imagePos?' style="object-fit:cover;object-position:'+esc(g.imagePos)+'"':'')+'>':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span> ':'')+'<span class="gt">'+esc(wk(g)+(g.cat&&g.cat!=='周边'?' · '+g.cat.replace('写真集·杂志','写真集'):''))+'</span><h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div>'+((g.points||[]).length?'<ul>'+g.points.slice(0,2).map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>':'')+(g.items&&g.items.length?'<div class="gi'+(g.items.length>12?' gis':'')+'">'+g.items.map(i=>(i.href?'<a href="'+esc(i.href)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'">':'<div title="'+esc(i.t)+'">')+'<img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+'</span>'+(i.href?'</a>':'</div>')).join('')+'</div>':'')+(!g.url||isShop(g.url)?'':arch?'<a class="go" href="'+esc(g.url)+'">编年详情 →</a>':'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方页面 ↗</a>')+'</div></article>'};
+const isShop=u=>/amazon\.|hmv\.co\.jp|7net\.omni7|booth\.pm|shop\.tv-tokyo|p-bandai|bandai\.co\.jp\/item|toei-onlinestore|rakuten|animate-onlineshop|mercari|suruga-ya|tohoentertainmentonline|lifetunes|premium-bandai|shop\.|store\./i.test(u||'');const gcard=g=>{const arch=/^list\.html|^archive\.html/.test(g.url||'');return '<article class="card g'+(g.items&&g.items.length>=4?' gw':'')+'"><div class="img">'+(g.image?'<img src="'+esc(g.image)+'" alt="'+esc(g.title)+'" loading="lazy"'+(g.imagePos?' style="object-fit:cover;object-position:'+esc(g.imagePos)+'"':'')+'>':'<span class="ph">'+esc(g.publisher)+'</span>')+'</div><div class="b">'+(g.date?'<span class="badge">'+(g.date>today?'预定 ':'')+fmt(g.date)+'</span> ':'')+'<span class="gt">'+esc(wk(g)+(g.cat&&g.cat!=='周边'?' · '+g.cat.replace('写真集·杂志','写真集'):''))+'</span><h3>'+esc(g.title)+'</h3><div class="meta">'+esc([g.price,g.publisher].filter(Boolean).join(' · '))+'</div>'+((g.points||[]).length?'<ul>'+g.points.slice(0,2).map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>':'')+(g.items&&g.items.length?'<div class="gi'+(g.items.length>12?' gis':'')+'">'+g.items.map(i=>(i.href?'<a href="'+esc(i.href)+'" target="_blank" rel="noopener noreferrer" title="'+esc(i.t)+'">':'<div title="'+esc(i.t)+'">')+'<img src="'+esc(i.img)+'" alt="'+esc(i.t)+'" loading="lazy"><span>'+esc(i.t)+'</span>'+(i.href?'</a>':'</div>')).join('')+'</div>':'')+(!g.url||isShop(g.url)?'':arch?'<a class="go" href="'+esc(g.url)+'">编年详情 →</a>':'<a class="go" href="'+esc(g.url)+'" target="_blank" rel="noopener noreferrer">官方页面 ↗</a>')+'</div></article>'};
 const WK=['骑士','刀舞','舞台','影视','音乐','个人'];const wk=g=>g.work||(/Maou|麦斯|华武利|假面骑士|十二支/.test(g.title)?'骑士':/刀舞|刀剑乱舞|陽伝/.test(g.title)?'刀舞':/我喜欢的他|我家女儿|Fight Song|大叔的内裤|推しTV|薄墨樱|电影|蓝色监狱/.test(g.title)?'影视':/JBB|妖～|AYAKASHI/.test(g.title)?'音乐':/舞台|音乐剧|网球王子|薄樱鬼|TRUMP|飙速|5DAYS|SLAZY|Marigold|グランギニョル|王者天下|泽西|八云/.test(g.title)?'舞台':'个人');
 const GT=['全部',...WK,'过往周边'];let gt='全部',gexp=false;function drawGoods(){$('goodsTabs').innerHTML=GT.map(t=>'<button class="'+(t===gt?'on':'')+'" data-gt="'+t+'">'+t+'</button>').join('');const past=gt==='过往周边';$('goodsNow').hidden=past;$('goodsPast').hidden=!past;if(past)return;const L=H.goods.filter(g=>gt==='全部'||wk(g)===gt).sort((a,b)=>(b.date||'0').localeCompare(a.date||'0'));const cut=gt==='全部'&&!gexp&&L.length>8;$('goodsGrid').innerHTML=(cut?L.slice(0,8):L).map(gcard).join('')+(cut?'<button class="gmore" data-gmore="1">展开全部 '+L.length+' 件 ↓</button>':'')||'<div class="empty">暂无</div>'}document.addEventListener('click',e=>{const b=e.target.closest('[data-gt]');if(b){gt=b.dataset.gt;gexp=false;drawGoods()}if(e.target.closest('[data-gmore]')){gexp=true;drawGoods()}});drawGoods();
 
@@ -529,6 +556,13 @@ const L=A.events.filter(e=>RC.includes(e.category)&&e.roleRoma&&!e.cardHide&&e.d
 const hash=s=>{let h=0;for(const ch of s)h=(h*31+ch.charCodeAt(0))>>>0;return h};
 $('roleStrip').innerHTML=L.map(e=>{const ims=(e.images||[]).map(i=>({u:imgOf(i),c:i.caption||''}));const po=e.cardPoster||(ims.find(i=>/海报|宣传单/.test(i.c))||ims.find(i=>/主视觉/.test(i.c))||ims.find(i=>isPoster(i.c)&&!/角色/.test(i.c))||{}).u||'';const stg=['舞台','朗读剧'].includes(e.category);const ro=e.cardNoPhoto?'':e.cardPhoto||(ims.find(i=>i.u!==po&&(stg?/剧照|舞台照/.test(i.c):false))||ims.find(i=>i.u!==po&&isRole(i.c))||{}).u||'';const fam=(e.key||e.workRoma.split(' ')[0]);const p=PAL[hash(fam)%PAL.length];const words=e.roleRoma.split(' ');const fs=Math.min(34,Math.floor(280/(0.68*Math.max(...words.map(x=>x.length)))));const work=e.title.replace(/[《》]/g,'').replace(/^(音乐剧|百老汇音乐剧|摇滚音乐剧|电影|真人电影)/,'');const rn=e.roleName||e.role;
 return '<a class="rl" href="list.html?g=all#'+esc(e.id)+'" style="--c1:'+p[0]+';--c2:'+p[1]+'"><div class="rl-band"></div><div class="rl-pst">'+(po?'<img src="'+esc(po)+'" alt="" loading="lazy">':'')+'</div><div class="rl-yr">'+e.date.slice(0,4)+'</div><div class="rl-dv"><span>✦</span><i></i><span>✦</span></div><div class="rl-nm">'+words.map(w=>'<b style="font-size:'+fs+'px">'+esc(w)+'</b>').join('')+'<small>'+esc(e.workRoma)+'</small></div><div class="rl-wk"><b>'+esc(work)+'</b></div><div class="rl-ph">'+(ro&&e.cardPhotoBg?'<div role="img" aria-label="'+esc(rn)+'" style="height:100%;background:url(&quot;'+esc(ro)+'&quot;) '+esc(e.cardPhotoBg)+' no-repeat"></div>':ro?'<img src="'+esc(ro)+'" alt="'+esc(rn)+'" loading="lazy"'+(e.cardPhotoPos?' style="object-position:'+esc(e.cardPhotoPos)+'"':'')+'>':'<div class="rl-empty">'+esc(rn)+'</div>')+'</div><div class="rl-lb">'+esc(rn)+'</div></a>'}).join('');
+(function(){const TY=e=>['舞台','朗读剧'].includes(e.category)?'舞台':'影视';const R=L.slice().reverse();let f='全部',all=false;const ch=['全部','舞台','影视'];
+const draw=()=>{const xs=R.filter(e=>f==='全部'||TY(e)===f);const show=all?xs:xs.slice(0,6);
+$('roleChips').innerHTML=ch.map(c=>'<button type="button" class="'+(c===f?'on':'')+'" data-f="'+c+'">'+c+' '+R.filter(e=>c==='全部'||TY(e)===c).length+'</button>').join('');
+$('roleGrid').innerHTML=show.map(e=>{const ims=(e.images||[]).map(i=>({u:imgOf(i),c:i.caption||''}));const po=e.cardPoster||(ims.find(i=>isPoster(i.c))||{}).u||'';const stg=['舞台','朗读剧'].includes(e.category);const ro=e.cardNoPhoto?'':e.cardPhoto||(ims.find(i=>stg&&/剧照|舞台照/.test(i.c))||ims.find(i=>isRole(i.c))||ims.find(i=>!isPoster(i.c))||{}).u||'';const im=ro||po;const p=PAL[hash(e.key||e.workRoma.split(' ')[0])%PAL.length];const m=(e.role||'').split('／')[0].match(/^([^（]+)(?:（([^，）]+)[^）]*）)?/)||[];const rn=e.roleName||m[1]||e.role||'';const work=e.title.replace(/[《》]/g,'').replace(/^(音乐剧|百老汇音乐剧|摇滚音乐剧|电影|真人电影)/,'');
+return '<a class="rg" href="list.html?g=all#'+esc(e.id)+'" style="--c1:'+p[0]+';--c2:'+p[1]+'"><div class="ph">'+(im?'<img src="'+esc(im)+'" alt="'+esc(rn)+'" loading="lazy"'+(ro&&e.cardPhotoPos?' style="object-position:'+esc(e.cardPhotoPos)+'"':'')+'>':'<div class="no">'+esc(rn)+'</div>')+'<span class="yr">'+e.date.slice(0,4)+'</span></div><div class="b"><b>'+esc(rn)+'</b>'+(m[2]&&m[2]!==rn?'<small>'+esc(m[2])+'</small>':'')+'<span>'+esc(work)+'</span></div></a>'}).join('');
+const mb=$('roleMore');mb.hidden=xs.length<=6;mb.textContent=all?'收起':'查看全部 '+xs.length+' 个角色'};
+$('roleChips').onclick=ev=>{const b=ev.target.closest('[data-f]');if(b){f=b.dataset.f;all=false;draw()}};$('roleMore').onclick=()=>{all=!all;draw();if(!all)$('roles').scrollIntoView()};draw()})();
 const st=$('roleStrip');$('rPrev').onclick=()=>st.scrollBy({left:-st.clientWidth*.8,behavior:'smooth'});$('rNext').onclick=()=>st.scrollBy({left:st.clientWidth*.8,behavior:'smooth'});
 })();
 </script>
