@@ -19020,7 +19020,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "mondai",
    "url": "https://www.fujitv.co.jp/mondaibukken/story/story02.html",
-   "note": "",
+   "note": "富士电视台2025年冬季剧，主演上川隆也、内田理央。他客串第2集「闹鬼的房间」，演一直说自己房间里有灵异现象、两天前闹到报警的住户泷野高。",
    "status": "",
    "origin": "",
    "dateKind": "本人出演集播出日",
@@ -19032,20 +19032,18 @@ window.ARCHIVE = {
      "asset": "x0b708ca9851a064d"
     },
     {
-     "url": "https://www.fujitv.co.jp/mondaibukken/story/photo/story02_ph01.jpg",
-     "caption": "第2集官方剧照",
-     "source": "https://www.fujitv.co.jp/mondaibukken/story/story02.html",
-     "asset": "e52f41e499ac9293",
-     "resolution": "1000 × 666"
-    },
-    {
      "url": "https://www.fujitv.co.jp/mondaibukken/photo/mainVisual.jpg",
      "caption": "主视觉",
      "source": "官方",
      "asset": "x5696fbdb5268bcef"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "B站搬运：第2集东启介个人cut（【东启介】问题住宅第二集cut）",
+     "url": "https://www.bilibili.com/video/BV1N7sh6bE7m/"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
