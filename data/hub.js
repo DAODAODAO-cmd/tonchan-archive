@@ -3208,7 +3208,8 @@ window.HUB = {
    "image": "assets/img/ext/8176a1e302ef60d0.jpg",
    "points": [
     "和陽伝公演周边分开的一套，十周年专属",
-    "有他的是烫金个人生写真、刀帐生写真、橡果钥匙扣（按组分）和和纸风文件夹"
+    "有他的是烫金个人生写真、刀帐生写真、橡果亚克力钥匙扣和和纸风文件夹",
+    "橡果亚克力钥匙扣：烛台切在B组，800円，B组10种随机1个"
    ],
    "url": "https://www.stage-toukenranbu.jp/goods/10th/",
    "items": [
@@ -3223,9 +3224,9 @@ window.HUB = {
      "href": "assets/img/ext/3618b76e6b348b27.jpg"
     },
     {
-     "t": "橡果钥匙扣",
-     "img": "assets/img/ext/bd6482daead2a7a1.jpg",
-     "href": "assets/img/ext/bd6482daead2a7a1.jpg"
+     "t": "橡果亚克力钥匙扣（B组）",
+     "img": "assets/img/ext/39c20e9628413299.jpg",
+     "href": "assets/img/ext/39c20e9628413299.jpg"
     },
     {
      "t": "和纸风文件夹",
