@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-page="list">
 <head>
 <meta charset="utf-8"><meta name="referrer" content="no-referrer">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -110,6 +110,7 @@ footer a{color:var(--sage)}
 <meta name="twitter:image" content="https://daodaodao-cmd.github.io/tonchan-archive/assets/img/hero-30th-afterglow.jpg">
 <style>.imgfb{width:100%;height:100%;min-height:60px;display:grid;place-items:center;background:linear-gradient(135deg,#f4ece1,#efe6f2);color:#a8917a;font-family:"Noto Serif SC","Songti SC",serif;font-size:13px;line-height:1.4;padding:8px;text-align:center;box-sizing:border-box;overflow:hidden}</style>
 <script>document.addEventListener('error',function(e){var i=e.target;if(!i||i.tagName!=='IMG'||i.dataset.fb)return;i.dataset.fb='1';var d=document.createElement('div');d.className='imgfb';var t=(i.alt||'').trim();d.textContent=t&&t.length<40?t:'東';d.style.borderRadius=getComputedStyle(i).borderRadius;i.replaceWith(d)},true)</script>
+<link rel="stylesheet" href="assets/mobile.css?v=1120r1">
 </head>
 <body>
 <div class="top"><div class="wrap">
@@ -123,16 +124,17 @@ footer a{color:var(--sage)}
   <div class="tools"><div class="chips" id="chips"></div><div class="chips sm" id="chips2"></div></div>
   <main id="out"></main>
 </div>
-<footer><div class="wrap">东启介资讯站 · 非官方 · <a href="archive.html">旧版档案</a></div></footer>
-<script src="data/archive.js?v=1120n"></script>
-<script src="data/hub.js?v=1120n"></script>
+<footer><div class="wrap">东启介资讯站 · 非官方</div></footer>
+<script src="data/archive.js?v=1120o"></script>
+<script src="data/hub.js?v=1120r1"></script>
+<script src="assets/media-index.js?v=1120r1"></script><script src="assets/media.js?v=1120r1"></script>
 <script>
 'use strict';
 const A=window.ARCHIVE,H=window.HUB,$=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
 const fmt=d=>d?d.replaceAll('-','.'):'';
-const WORKC=['舞台','音乐会','音乐剧','朗读剧','电视剧','电影','网络剧'];const PR=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图|封面|ytimg/i;const PICK=ims=>ims.find(i=>/角色照|角色图|角色视觉|角色写真|公式照|定妆|官方角色|人物照|扮相/.test(i.caption||'')&&!/ytimg/.test(i.url||''))||ims.find(i=>/剧照|舞台照|场面照|幕后/.test(i.caption||''))||ims.find(i=>!PR.test((i.caption||'')+' '+(i.url||'')))||ims[0];const thumbOf=e=>{const ims=e.images||[];if(WORKC.includes(e.category)){if(e.cardPhoto)return {url:e.cardPhoto,caption:e.title};return PICK(ims)}return ims[0]};const imgOf=im=>im?(im.asset&&A.assets[im.asset])||im.url||'':'';
+const WORKC=['舞台','音乐会','音乐剧','朗读剧','电视剧','电影','网络剧'];const PR=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图|封面|ytimg/i;const PICK=ims=>ims.find(i=>/角色照|角色图|角色视觉|角色写真|公式照|定妆|官方角色|人物照|扮相/.test(i.caption||'')&&!/ytimg/.test(i.url||''))||ims.find(i=>/剧照|舞台照|场面照|幕后/.test(i.caption||''))||ims.find(i=>!PR.test((i.caption||'')+' '+(i.url||'')))||ims[0];const thumbOf=e=>{const ims=e.images||[];if(WORKC.includes(e.category)){if(e.cardPhoto)return {url:e.cardPhoto,caption:e.title};return PICK(ims)}return ims[0]};const imgOf=im=>im?window.archiveMediaUrl((im.asset&&A.assets[im.asset])||im.url||''):'';
 /* 分类：作品 / 媒体 / 其他 三组；ls=横版卡片 */
 const G={
   all:{t:'全部编年',en:'ARCHIVE',d:'从出道到现在，按时间排，上面可以按类别筛。'},
@@ -159,9 +161,9 @@ $('cats').innerHTML=Object.entries(G).map(([k,v])=>v.sep?'<span class="sep"></sp
 document.title='东启介｜'+G[g].t;$('title').innerHTML=(G[g].en?'<small class="en">'+G[g].en+'</small>':'')+esc(G[g].t);
 let filt='',vt='全部',vp='全平台';
 const match=s=>!filt||s.toLowerCase().includes(filt);
-function card(e){const im=thumbOf(e);const singles=e.kind==='bromide'&&!(e.images||[]).some(i=>/7net/.test(i.caption||''))?(e.images||[]).filter(i=>/^生写真$|本人发的生写真/.test(i.caption||'')).slice(0,2):[];return '<article class="card" id="'+esc(e.id)+'"><a class="img" href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+(singles.length>=2?'<div class="quad q'+singles.length+'">'+singles.map(i=>'<img src="'+esc(imgOf(i))+'" alt="生写真" loading="lazy">').join('')+'</div>':im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':e.kind==='bromide'?(/7net/.test(im.caption||'')?' style="object-fit:contain;background:#fff"':' style="object-position:50% 8%"'):'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="ph"><i>'+esc(e.date.slice(0,4))+'</i><b>'+esc(e.title)+'</b></div>')+'<span class="tag">'+esc(e.category)+'</span>'+(e.date>today?'<span class="tag r">未来</span>':'')+'</a><div class="b"><div class="meta">'+fmt(e.date)+(e.end?' — '+fmt(e.end):'')+'</div><h3>'+esc(e.title)+'</h3><p class="ja">'+esc(e.japanese)+'</p>'+(e.role&&e.role!=='本人'?'<div class="role">饰 '+esc(e.role)+'</div>':'')+((e.note||(e.videos&&e.videos.length))?'<details><summary>详情'+(e.videos&&e.videos.length?' · ▶ '+e.videos.length+' 个视频':'')+'</summary>'+esc(e.note||'')+(e.videos&&e.videos.length?'<ul class="vl">'+e.videos.map(v=>'<li><a href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer">▶ '+esc(v.title)+'</a></li>').join('')+'</ul>':'')+'</details>':'')+(e.pending?'<span class="pend">待核</span>':'')+'</div></article>'}
+function card(e){const im=thumbOf(e);const singles=e.kind==='bromide'&&!(e.images||[]).some(i=>/7net/.test(i.caption||''))?(e.images||[]).filter(i=>/^生写真$|本人发的生写真/.test(i.caption||'')).slice(0,2):[];return '<article class="card" id="'+esc(e.id)+'"><a class="img" href="detail.html?id='+encodeURIComponent(e.id)+'">'+(singles.length>=2?'<div class="quad q'+singles.length+'">'+singles.map(i=>'<img src="'+esc(imgOf(i))+'" alt="生写真" loading="lazy">').join('')+'</div>':im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':e.kind==='bromide'?(/7net/.test(im.caption||'')?' style="object-fit:contain;background:#fff"':' style="object-position:50% 8%"'):'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="ph"><i>'+esc(e.date.slice(0,4))+'</i><b>'+esc(e.title)+'</b></div>')+'<span class="tag">'+esc(e.category)+'</span>'+(e.date>today?'<span class="tag r">未来</span>':'')+'</a><div class="b"><div class="meta">'+fmt(e.date)+(e.end?' — '+fmt(e.end):'')+'</div><h3><a href="detail.html?id='+encodeURIComponent(e.id)+'">'+esc(e.title)+'</a></h3><p class="ja">'+esc(e.japanese)+'</p>'+(e.role&&e.role!=='本人'?'<div class="role">饰 '+esc(e.role)+'</div>':'')+((e.note||(e.videos&&e.videos.length))?'<details><summary>详情'+(e.videos&&e.videos.length?' · ▶ '+e.videos.length+' 个视频':'')+'</summary>'+esc(e.note||'')+(e.videos&&e.videos.length?'<ul class="vl">'+e.videos.map(v=>'<li><a href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer">▶ '+esc(v.title)+'</a></li>').join('')+'</ul>':'')+'</details>':'')+(e.pending?'<span class="pend">待核</span>':'')+'</div></article>'}
 function vcard(v){const th=(v.asset&&A.assets[v.asset])||v.thumbnail;return '<a class="card" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer"><div class="img">'+(th?'<img src="'+esc(th)+'" alt="" loading="lazy">':'<div class="ph"><b>'+esc(v.title)+'</b></div>')+'<span class="tag">'+esc(v.platform||'YouTube')+'</span></div><div class="b"><div class="meta">'+esc(v.channel)+(v._d?' · '+fmt(v._d):'')+'</div><h3>'+esc(v.title)+'</h3></div></a>'}
-function tlrow(e){const im=thumbOf(e);return '<li id="'+esc(e.id)+'"><time>'+(fmt(e.date).slice(5)||e.date)+'</time><span class="dot"></span><a class="th" href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="" loading="lazy">':esc(e.date.slice(2,4)))+'</a><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer"><div class="tx"><span class="c">'+esc(e.category)+(e.sub?'·'+esc(e.sub):'')+'</span><b>'+esc(e.title)+'</b><small>'+esc(e.japanese)+(e.role&&e.role!=='本人'?' · 饰 '+esc(e.role):'')+(e.pending?' · 待核':'')+'</small></div></a></li>'}
+function tlrow(e){const im=thumbOf(e);return '<li id="'+esc(e.id)+'"><time>'+(fmt(e.date).slice(5)||e.date)+'</time><span class="dot"></span><a class="th" href="detail.html?id='+encodeURIComponent(e.id)+'">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="" loading="lazy">':esc(e.date.slice(2,4)))+'</a><a href="detail.html?id='+encodeURIComponent(e.id)+'"><div class="tx"><span class="c">'+esc(e.category)+(e.sub?'·'+esc(e.sub):'')+'</span><b>'+esc(e.title)+'</b><small>'+esc(e.japanese)+(e.role&&e.role!=='本人'?' · 饰 '+esc(e.role):'')+(e.pending?' · 待核':'')+'</small></div></a></li>'}
 function grouped(list,render,asc,wrapCls){const ys={};list.forEach(x=>{const y=(x._d||'').slice(0,4)||'—';(ys[y]=ys[y]||[]).push(x)});const keys=Object.keys(ys).sort((a,b)=>asc?a.localeCompare(b):b.localeCompare(a));
   $('years').innerHTML=keys.map(y=>'<a href="#y'+y+'">'+y+'</a>').join('');
   return keys.map(y=>'<section id="y'+y+'"><div class="year"><h2>'+y+'</h2><span>'+ys[y].length+' 条</span></div>'+(wrapCls==='tl'?'<ul class="tl">'+ys[y].map(render).join('')+'</ul>':'<div class="'+wrapCls+'">'+ys[y].map(render).join('')+'</div>')+'</section>').join('')}
@@ -187,5 +189,6 @@ if(location.hash){setTimeout(()=>{const el=document.getElementById(decodeURIComp
 <nav class="tabbar" aria-label="快捷导航"><a href="index.html"><svg viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5"/><path d="M6.5 10v9h11v-9"/></svg><span>首页</span></a><a data-g="schedule" href="list.html?g=schedule"><svg viewBox="0 0 24 24"><rect x="4" y="5.5" width="16" height="14" rx="3"/><path d="M4 10h16M9 3.5v4M15 3.5v4"/></svg><span>日程</span></a><a class="main" data-g="all" href="list.html?g=all"><svg viewBox="0 0 24 24"><path d="M6 4.5h12M6 9.5h12M6 14.5h12M6 19.5h8"/></svg><span>编年</span></a><a data-g="videos" href="list.html?g=videos"><svg viewBox="0 0 24 24"><rect x="3.5" y="6" width="17" height="12" rx="3"/><path d="M10.5 9.5v5l4-2.5z"/></svg><span>视频</span></a><a data-g="mag" href="list.html?g=mag"><svg viewBox="0 0 24 24"><path d="M6 4.5h9l3 3v12H6z"/><path d="M9 10h6M9 14h6"/></svg><span>杂志</span></a></nav>
 <script>(function(){var g=new URLSearchParams(location.search).get('g')||'all';document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){if(a.dataset.g===g&&!a.classList.contains('main'))a.classList.add('on')});document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){a.addEventListener('click',function(e){if(window.go){e.preventDefault();history.replaceState(null,'',a.href);window.go(a.dataset.g)}})})})();</script>
 <script src="assets/visit.js" defer></script>
+<script src="assets/navigation.js?v=1120r1"></script>
 </body>
 </html>

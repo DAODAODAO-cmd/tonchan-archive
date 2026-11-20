@@ -427,6 +427,24 @@ window.HUB = {
  ],
  "pastGoods": [
   {
+   "title": "WE官方生写真〈2026年11月〉",
+   "orderEnd": "2026-11-15",
+   "dateKind": "发货",
+   "date": "2026-12-02",
+   "price": "800日元（含税）",
+   "publisher": "ワタナベ商店（7net）",
+   "image": "assets/img/ext/e65e91da7c009505.jpg",
+   "points": [
+    "预约期 11/2 12:00–11/15 23:59（已截止）",
+    "12月2日前后发货",
+    "WE官方生写真每月发售，新一期见 7net 专页"
+   ],
+   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "status": "预约已结束",
+   "bday": false,
+   "stage": false
+  },
+  {
    "date": "2025-08-01",
    "title": "30岁生日音乐会《afterglow》周边",
    "bday": 1,
@@ -1144,7 +1162,7 @@ window.HUB = {
    "price": "每月4张一套（L判）",
    "image": "assets/img/ext/e65e91da7c009505.jpg",
    "points": [
-    "7net官方商品图，每月一张四张合拍，共65个月",
+    "7net官方商品图，每月一张四张合拍，共70个月",
     "不是每个月都有他：2026年10月阵容里没有他",
     "点小图看大图"
    ],
@@ -1220,6 +1238,31 @@ window.HUB = {
      "t": "2025.03",
      "img": "assets/img/ext/0f74c409f2806f2a.jpg",
      "href": "assets/img/ext/0f74c409f2806f2a.jpg"
+    },
+    {
+     "t": "2025.02",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110659587.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110659587.jpg"
+    },
+    {
+     "t": "2025.01",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110658820.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110658820.jpg"
+    },
+    {
+     "t": "2024.12",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110657940.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110657940.jpg"
+    },
+    {
+     "t": "2024.11",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110656745.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110656745.jpg"
+    },
+    {
+     "t": "2024.10",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110655808.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110655808.jpg"
     },
     {
      "t": "2024.09",
@@ -1480,19 +1523,6 @@ window.HUB = {
   }
  ],
  "goods": [
-  {
-   "title": "WE官方生写真〈2026年11月〉",
-   "date": "2026-12-02",
-   "price": "800日元（含税）",
-   "publisher": "ワタナベ商店（7net）",
-   "image": "assets/img/ext/e65e91da7c009505.jpg",
-   "points": [
-    "预约期 11/2 12:00–11/15 23:59（已截止）",
-    "12月2日前后发货",
-    "WE官方生写真每月发售，新一期见 7net 专页"
-   ],
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html"
-  },
   {
    "title": "东启介最新写真集（暂定名）",
    "date": "2027-01-08",
