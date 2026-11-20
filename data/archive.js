@@ -1946,6 +1946,14 @@ window.ARCHIVE = {
    "dateKind": "发布日",
    "images": [
     {
+     "url": "https://engekisengen.com/wp-content/uploads/2016/08/pedal.jpg",
+     "caption": "ローチケ演劇宣言！：东启介和宫崎秋人",
+     "source": "https://engekisengen.com/genre/engekisengenbeta/84071/",
+     "asset": "x51601871d6edce97",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://engekisengen.com/wp-content/uploads/2024/05/pedal-2.jpg",
      "caption": "文章配图",
      "source": "https://engekisengen.com/genre/engekisengenbeta/84071/",
@@ -3416,10 +3424,11 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2018/04/tourabu_170515.jpg",
-     "caption": "ローチケ演劇宣言！",
+     "caption": "ローチケ演劇宣言！：荒牧庆彦和东启介",
      "source": "https://engekisengen.com/genre/2_5d/822/",
      "asset": "x8d79e6567a27e2cb",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -6368,6 +6377,14 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
+     "url": "https://engekisengen.com/wp-content/uploads/2018/11/inoti1.jpg",
+     "caption": "舞台照：羽仁男（中）",
+     "source": "https://engekisengen.com/genre/play/9481/",
+     "asset": "x170a62394bd740ba",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://stage.parco.jp/image/parcoplay/store/storage/s_inochi_photo2.jpg",
      "caption": "剧照：山田羽仁男",
      "source": "PARCO STAGE（撮影：引地信彦）",
@@ -8634,6 +8651,38 @@ window.ARCHIVE = {
    "origin": "2026.11.18补充",
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2020/10/B5A5634OK.jpg",
+     "caption": "ローチケ演劇宣言！：东启介",
+     "source": "https://engekisengen.com/genre/musical/24286/",
+     "asset": "x4080b95863c08d9f",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2020/10/B5A5433OK-e1602491266775.jpg",
+     "caption": "ローチケ演劇宣言！：东启介",
+     "source": "https://engekisengen.com/genre/musical/24286/",
+     "asset": "xb186927829458644",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2020/10/G0A6212OK-e1602491244794.jpg",
+     "caption": "ローチケ演劇宣言！：东启介",
+     "source": "https://engekisengen.com/genre/musical/24286/",
+     "asset": "x8203f57b7f5462be",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2020/10/B5A5584OK-e1602491300634.jpg",
+     "caption": "ローチケ演劇宣言！：东启介",
+     "source": "https://engekisengen.com/genre/musical/24286/",
+     "asset": "x615c37b11b2f03f8",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://engekisengen.com/wp-content/uploads/2020/10/B5A5634OK-e1602491225934.jpg",
      "caption": "ローチケ演劇宣言！",
@@ -12010,9 +12059,26 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0079-scaled.jpg",
-     "caption": "专访单人照",
+     "caption": "ローチケ演劇宣言！：东启介",
      "source": "ローチケ演劇宣言！",
      "asset": "x761385090bc65a90",
+     "resolution": "",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0355.jpg",
+     "caption": "ローチケ演劇宣言！：东启介和有泽樟太郎",
+     "source": "https://engekisengen.com/genre/musical/42787/",
+     "asset": "x15103ee0d966ea11",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2022/08/0815_0245.jpg",
+     "caption": "ローチケ演劇宣言！：东启介和有泽樟太郎",
+     "source": "https://engekisengen.com/genre/musical/42787/",
+     "asset": "x7e6045034e91adc0",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -15426,10 +15492,11 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2023/11/2f38ea431b2663a32e766f49cd29ced3-1-scaled.jpg",
-     "caption": "ローチケ演劇宣言！",
+     "caption": "ローチケ演劇宣言！：高羽彩、有泽樟太郎、池田亮、东启介",
      "source": "https://engekisengen.com/genre/other/69250/",
      "asset": "x9b6d708b793d1ab7",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -16415,9 +16482,18 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2023/12/IMG_353201.700.jpg",
-     "caption": "ローチケ演劇宣言！",
+     "caption": "ローチケ演劇宣言！：东启介和加藤大悟",
      "source": "https://engekisengen.com/genre/other/72917/",
      "asset": "x1dc563d48cffb2f1",
+     "resolution": "",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2023/12/IMG_357101.700.700.jpg",
+     "caption": "ローチケ演劇宣言！：东启介和加藤大悟",
+     "source": "https://engekisengen.com/genre/other/72917/",
+     "asset": "xa79facd569a54482",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -16854,10 +16930,11 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2024/02/b4df9fc8c3301e8866b2a01a90555aff.jpg",
-     "caption": "文章配图",
+     "caption": "ローチケ演劇宣言！：东启介和立石俊树",
      "source": "https://engekisengen.com/genre/musical/76759/",
      "asset": "f1e6b439e0d959d5",
-     "resolution": "1538 × 707"
+     "resolution": "1538 × 707",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -17705,10 +17782,19 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://engekisengen.com/wp-content/uploads/2024/10/3b95dea643de25878aa2026f0b5cf955.jpg",
-     "caption": "文章配图",
+     "caption": "ローチケ演劇宣言！：东启介",
      "source": "https://engekisengen.com/genre/dance-performance/98349/",
      "asset": "bc63b02c37a4649b",
-     "resolution": "1000 × 667"
+     "resolution": "1000 × 667",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://engekisengen.com/wp-content/uploads/2024/10/4592892fd02f3624c8fb52ce32a8f46d.jpg",
+     "caption": "ローチケ演劇宣言！：东启介",
+     "source": "https://engekisengen.com/genre/dance-performance/98349/",
+     "asset": "xea1b163803688433",
+     "hasHigashi": true,
+     "resolution": ""
     },
     {
      "url": "https://spice.eplus.jp/images/uwO5XVBKzxBMPxSy9tfgtS4CxrcR2AdjFotzWsdbqMaFjrz46n2UNW9klpjXJbf0",
@@ -40613,7 +40699,17 @@ window.ARCHIVE = {
   "xe8e731140e830e01": "assets/img/ext/e8e731140e830e01.jpg",
   "x043faa00082b000c": "assets/img/ext/043faa00082b000c.jpg",
   "xcca2b33d097ee851": "assets/img/ext/cca2b33d097ee851.jpg",
-  "xc8d755dd6d43a3a7": "assets/img/ext/c8d755dd6d43a3a7.jpg"
+  "xc8d755dd6d43a3a7": "assets/img/ext/c8d755dd6d43a3a7.jpg",
+  "x4080b95863c08d9f": "assets/img/ext/4080b95863c08d9f.jpg",
+  "xb186927829458644": "assets/img/ext/b186927829458644.jpg",
+  "x8203f57b7f5462be": "assets/img/ext/8203f57b7f5462be.jpg",
+  "x615c37b11b2f03f8": "assets/img/ext/615c37b11b2f03f8.jpg",
+  "x15103ee0d966ea11": "assets/img/ext/15103ee0d966ea11.jpg",
+  "x7e6045034e91adc0": "assets/img/ext/7e6045034e91adc0.jpg",
+  "x51601871d6edce97": "assets/img/ext/51601871d6edce97.jpg",
+  "xa79facd569a54482": "assets/img/ext/a79facd569a54482.jpg",
+  "xea1b163803688433": "assets/img/ext/ea1b163803688433.jpg",
+  "x170a62394bd740ba": "assets/img/ext/170a62394bd740ba.jpg"
  },
  "biliLeads": [
   {
