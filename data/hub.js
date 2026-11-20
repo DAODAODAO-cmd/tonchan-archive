@@ -3050,7 +3050,7 @@ window.HUB = {
     "个人第一张影像作品",
     "发售前公开了宣传PV"
    ],
-   "url": "list.html?g=all#dvd_minami",
+   "url": "list.html?g=all#e_dvd1",
    "cat": "影像"
   },
   {

@@ -2633,7 +2633,7 @@ window.ARCHIVE = {
    "date": "2017-01-18",
    "end": "",
    "category": "写真／出版",
-   "title": "首张个人DVD《东启介，南下去。》",
+   "title": "首张个人DVD《東啓介、南へ行く。》（东启介，往南去）",
    "japanese": "東啓介1st DVD「東啓介、南へ行く。」",
    "role": "",
    "crew": "导演：川野浩司",
@@ -2645,10 +2645,91 @@ window.ARCHIVE = {
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/0092/4988013190092.jpg?downsize=600:*",
-     "caption": "DVD豪华版封面",
-     "source": "https://books.rakuten.co.jp/rb/14558589/",
-     "asset": "x5d73320f4200d35e",
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/main_dvd.jpg",
+     "caption": "DVD豪华版封面（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x99e4fb551f4bb481",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/main_dvd_t.jpg",
+     "caption": "DVD通常版封面（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x9013fb1898e9f198",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_01.jpg",
+     "caption": "DVD内容截图（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xf462184cedbdae1f",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_02.jpg",
+     "caption": "DVD内容截图（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x0c68188f94a50cba",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_03.jpg",
+     "caption": "DVD内容截图（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x1eb74b306390e160",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_04.jpg",
+     "caption": "DVD内容截图（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x9cd8ddb3ee9aeaf6",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_05.jpg",
+     "caption": "DVD内容截图（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x1b0f4700dea49ff9",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_tokuten_pcsc.jpg",
+     "caption": "店铺特典生写真：Pony Canyon Shopping Club",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x4d3e29b41cb16eb1",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_tokuten_amazon.jpg",
+     "caption": "店铺特典生写真：Amazon",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x5fcdab8a0c1d2703",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_tokuten_animate-all.jpg",
+     "caption": "店铺特典生写真：animate全店",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xbc4f8b94e9c643ac",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/dvd_tokuten_animate.jpg",
+     "caption": "店铺特典生写真：animate据点店",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xee01c8abdbf747bc",
+     "hasHigashi": true,
      "resolution": ""
     },
     {
@@ -2710,32 +2791,6 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "文章",
    "playlistLinks": []
-  },
-  {
-   "id": "dvd_minami",
-   "date": "2017-01-18",
-   "end": "",
-   "category": "写真／出版",
-   "title": "1st DVD《東啓介、南へ行く。》",
-   "japanese": "東啓介 1st DVD「東啓介、南へ行く。」",
-   "role": "本人",
-   "url": "https://www.bilibili.com/video/BV1zs41187XK/",
-   "note": "个人第一张DVD。发售前公开宣传PV。",
-   "images": [
-    {
-     "url": "https://m.media-amazon.com/images/I/81oA3IWoE9L._AC_SL500_.jpg",
-     "caption": "DVD封面",
-     "source": "Amazon.co.jp 商品图",
-     "asset": "x0432afd3fc089e2d"
-    }
-   ],
-   "videos": [
-    {
-     "title": "【東啓介】1st DVD「東啓介、南へ行く。」宣传PV",
-     "url": "https://www.bilibili.com/video/BV1zs41187XK/"
-    }
-   ],
-   "origin": "2026.11.19补充"
   },
   {
    "id": "ost_kyoden",
@@ -2835,10 +2890,11 @@ window.ARCHIVE = {
    "dateKind": "活动日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/0092/4988013190092.jpg?downsize=600:*",
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/main_dvd.jpg",
      "caption": "DVD豪华版封面",
-     "source": "https://books.rakuten.co.jp/rb/14558589/",
-     "asset": "x5d73320f4200d35e",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x99e4fb551f4bb481",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -2978,16 +3034,81 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://higashikeisuke.ponycanyon.co.jp/",
-   "note": "",
+   "note": "2017年3月15日 Pony Canyon 发行，A4・80页，摄影高宫纪彻，21岁时拍的第一本写真集，收录7,000字长篇访谈（从小时候聊到现在和以后）。电子版同时上线，比纸本多30页、共110页。",
    "status": "",
    "origin": "",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/2404/9784865292404.jpg?downsize=600:*",
-     "caption": "首本写真集《K》封面",
-     "source": "https://books.rakuten.co.jp/rb/14559233/",
-     "asset": "x70a938f31735d394",
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/main_photo_jac.jpg",
+     "caption": "写真集《K》封面（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xcceb5007ce9d2b4f",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/photo_01.jpg",
+     "caption": "写真集内页（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xdba3e4f45bbf5c98",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/photo_02.jpg",
+     "caption": "写真集内页（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x409343ea7dddd09d",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/photo_03.jpg",
+     "caption": "写真集内页（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x9f3d11a66ed1c7ca",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/photo_04.jpg",
+     "caption": "写真集内页（Pony Canyon官方）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xd062d10e6a1c5eed",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/photo_tokuten_pcsc.jpg",
+     "caption": "店铺特典生写真：Pony Canyon Shopping Club",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x38b7ff4184484227",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/photo_tokuten_animate.jpg",
+     "caption": "店铺特典生写真：animate全店",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x70522d377654f6cd",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/photo_tokuten_seven.jpg",
+     "caption": "店铺特典生写真：7net",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xf26c6d4176c73d4b",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/photo_tokuten_rakuten.jpg",
+     "caption": "店铺特典生写真：乐天books",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xe5c4c25cba6fd3ae",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -3013,10 +3134,19 @@ window.ARCHIVE = {
    "dateKind": "活动日",
    "images": [
     {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/jb3310.jpg",
-     "caption": "1st写真集《K》封面",
-     "source": "https://www.suruga-ya.jp/",
-     "asset": "x05e14eeda7a1a7e8",
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/fukuya_tokuten.jpg",
+     "caption": "福家书店场「留言生写真」图样（全2种）",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "x84d68335f31a82e2",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://higashikeisuke.ponycanyon.co.jp/common/images/main_photo_jac.jpg",
+     "caption": "写真集《K》封面",
+     "source": "https://higashikeisuke.ponycanyon.co.jp/",
+     "asset": "xcceb5007ce9d2b4f",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -41048,7 +41178,28 @@ window.ARCHIVE = {
   "xe25e9594a849b6ec": "assets/img/ext/e25e9594a849b6ec.jpg",
   "x5b5d2b303f30cb3a": "assets/img/ext/5b5d2b303f30cb3a.jpg",
   "xdb587439316c9cea": "assets/img/ext/db587439316c9cea.jpg",
-  "x663878b6507ec50b": "assets/img/ext/663878b6507ec50b.jpg"
+  "x663878b6507ec50b": "assets/img/ext/663878b6507ec50b.jpg",
+  "x99e4fb551f4bb481": "assets/img/ext/99e4fb551f4bb481.jpg",
+  "x9013fb1898e9f198": "assets/img/ext/9013fb1898e9f198.jpg",
+  "xf462184cedbdae1f": "assets/img/ext/f462184cedbdae1f.jpg",
+  "x0c68188f94a50cba": "assets/img/ext/0c68188f94a50cba.jpg",
+  "x1eb74b306390e160": "assets/img/ext/1eb74b306390e160.jpg",
+  "x9cd8ddb3ee9aeaf6": "assets/img/ext/9cd8ddb3ee9aeaf6.jpg",
+  "x1b0f4700dea49ff9": "assets/img/ext/1b0f4700dea49ff9.jpg",
+  "x4d3e29b41cb16eb1": "assets/img/ext/4d3e29b41cb16eb1.jpg",
+  "x5fcdab8a0c1d2703": "assets/img/ext/5fcdab8a0c1d2703.jpg",
+  "xbc4f8b94e9c643ac": "assets/img/ext/bc4f8b94e9c643ac.jpg",
+  "xee01c8abdbf747bc": "assets/img/ext/ee01c8abdbf747bc.jpg",
+  "xcceb5007ce9d2b4f": "assets/img/ext/cceb5007ce9d2b4f.jpg",
+  "xdba3e4f45bbf5c98": "assets/img/ext/dba3e4f45bbf5c98.jpg",
+  "x409343ea7dddd09d": "assets/img/ext/409343ea7dddd09d.jpg",
+  "x9f3d11a66ed1c7ca": "assets/img/ext/9f3d11a66ed1c7ca.jpg",
+  "xd062d10e6a1c5eed": "assets/img/ext/d062d10e6a1c5eed.jpg",
+  "x38b7ff4184484227": "assets/img/ext/38b7ff4184484227.jpg",
+  "x70522d377654f6cd": "assets/img/ext/70522d377654f6cd.jpg",
+  "xf26c6d4176c73d4b": "assets/img/ext/f26c6d4176c73d4b.jpg",
+  "xe5c4c25cba6fd3ae": "assets/img/ext/e5c4c25cba6fd3ae.jpg",
+  "x84d68335f31a82e2": "assets/img/ext/84d68335f31a82e2.jpg"
  },
  "biliLeads": [
   {
