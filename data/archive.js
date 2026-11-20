@@ -2,6 +2,44 @@
 window.ARCHIVE = {
  "events": [
   {
+   "end": "",
+   "crew": "",
+   "key": "",
+   "status": "",
+   "origin": "",
+   "dateKind": "活动日",
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [],
+   "role": "本人",
+   "id": "tb_7sta",
+   "date": "2013-11-14",
+   "category": "电视节目",
+   "title": "东京电视台《7スタライブ》",
+   "japanese": "テレビ東京「7スタライブ」",
+   "url": "https://blog.tennimu.com/blog/tb/entry/1758/",
+   "note": "早间直播节目，他和小越勇辉、多和田秀弥三人代表音乐剧《网球王子》青学vs四天宝寺上节目宣传，聊公演看点。官方博客说当天另外两人挺放松，他非常紧张。",
+   "images": [
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/1_0419426441.jpg",
+     "caption": "テニミュ官方博客：后台拿着台本的东启介、小越勇辉、多和田秀弥",
+     "source": "https://blog.tennimu.com/blog/tb/entry/1758/",
+     "asset": "xa44eb059dbe1f174",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/1_4571078369.jpg",
+     "caption": "テニミュ官方博客：开播前，很紧张的东启介",
+     "source": "https://blog.tennimu.com/blog/tb/entry/1758/",
+     "asset": "xf44c240a2f5ecbed",
+     "hasHigashi": true,
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "mag_rm_5800817",
    "date": "2013-12",
    "end": "",
@@ -80,6 +118,62 @@ window.ARCHIVE = {
      "caption": "DVD封面（Marvelous官方作品页）",
      "source": "https://www.marv.jp/titles/st/882/",
      "asset": "xafcc8c9cad7097c4"
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/1_5069724511.jpg",
+     "caption": "テニミュ官方博客：拿着宣传单的东启介和多和田秀弥（2013.10）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/1734/",
+     "asset": "xef401b6372676fbf",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/1_7862416560.jpg",
+     "caption": "テニミュ官方博客：特长书道的东启介在写周边用的字（2013.12）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/1799/",
+     "asset": "x126746b859a7446f",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/1_1204395134.jpg",
+     "caption": "テニミュ官方博客：千岁千里拿着橘桔平买来的章鱼烧（2013.12.31）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/1841/",
+     "asset": "x2c3af8727e9965ab",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/1_4913886897.jpg",
+     "caption": "テニミュ官方博客：千岁千里的情人节比心（2014.2.14）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/1933/",
+     "asset": "xc74811696c47371b",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/1_7130164362.jpg",
+     "caption": "テニミュ官方博客：按身高排：东启介、碕理人、杉江大志（2014.2）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/1945/",
+     "asset": "xf1e829727dcc7ceb",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1403286312.jpg",
+     "caption": "テニミュ官方博客：千岁千里和白石藏之介（2014.3）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/2000/",
+     "asset": "x08dcc383bc29a14d",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1403319424.jpg",
+     "caption": "テニミュ官方博客：吃甜甜圈的千岁千里和财前光（2014.3）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/2004/",
+     "asset": "x4b62769c7340bc1a",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/1_7871560249.jpg",
+     "caption": "テニミュ官方博客：九州二翼：东启介和上田悠介（2014.2）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/1917/",
+     "asset": "x6d8209e21b8c2030",
+     "hasHigashi": true
     }
    ],
    "videos": [
@@ -90,6 +184,10 @@ window.ARCHIVE = {
     {
      "title": "正片中字（B站）",
      "url": "https://www.bilibili.com/video/BV1Hx411r7Aq/"
+    },
+    {
+     "title": "テニミュ官方博客（第二季，四天宝寺公演期间后台照很多）",
+     "url": "https://blog.tennimu.com/blog/tb/page/102/"
     }
    ],
    "pending": false,
@@ -150,6 +248,52 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "end": "2014-04-29",
+   "crew": "",
+   "key": "",
+   "status": "",
+   "origin": "",
+   "dateKind": "活动日",
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [],
+   "role": "本人",
+   "id": "tb_tscpp7",
+   "date": "2014-04-28",
+   "category": "活动",
+   "title": "TSCPP vol.7（青学×四天宝寺）",
+   "japanese": "TSCPP vol.7",
+   "url": "https://blog.tennimu.com/blog/tb/entry/31979/",
+   "note": "音乐剧《网球王子》官方后援会（TSC）的谈话活动，在日本青年馆办了两天，青学和四天宝寺的演员一起聊公演。",
+   "images": [
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1405024479.jpg",
+     "caption": "テニミュ官方博客：后台的东启介和多和田秀弥",
+     "source": "https://blog.tennimu.com/blog/tb/entry/31992/",
+     "asset": "x776833d6fcb66155",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1404287403.jpg",
+     "caption": "テニミュ官方博客：拿着会场新周边（原创照片）的东启介和杉江大志",
+     "source": "https://blog.tennimu.com/blog/tb/entry/31979/",
+     "asset": "x29ffa445dc3f41ef",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1404285597.jpg",
+     "caption": "テニミュ官方博客：穿TSC原创T恤的安西慎太郎、东启介、福岛海太",
+     "source": "https://blog.tennimu.com/blog/tb/entry/31979/",
+     "asset": "x960f977377a2fbba",
+     "hasHigashi": true,
+     "resolution": ""
+    }
+   ],
+   "videos": []
+  },
+  {
    "id": "e3",
    "date": "2014-07-12",
    "end": "2014-09-28",
@@ -205,6 +349,55 @@ window.ARCHIVE = {
      "source": "https://www.suruga-ya.jp/",
      "asset": "xbf47da3544175745",
      "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1407245404.jpg",
+     "caption": "テニミュ官方博客：今日一张：远山金太郎和千岁千里（2014.7.24）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32115/",
+     "asset": "xdbca8df72f8e9d8c",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1407129567.jpg",
+     "caption": "テニミュ官方博客：白石藏之介和千岁千里（2014.7）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32086/",
+     "asset": "x0ef9fbb334047bc2",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1408316060.jpg",
+     "caption": "テニミュ官方博客：千岁千里（2014.8）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32192/",
+     "asset": "x9b450adc9180f2e2",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1409105783.jpg",
+     "caption": "テニミュ官方博客：名古屋后台：柳莲二和千岁千里（2014.9）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32208/",
+     "asset": "x976a5c8e4e387e06",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1408153869.jpg",
+     "caption": "テニミュ官方博客：九州二翼：伊武深司和千岁千里给橘桔平庆生（2014.8）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32160/",
+     "asset": "x0c3f40a68991ac3c",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1407192847.jpg",
+     "caption": "テニミュ官方博客：穿学生服的四天宝寺和橘桔平（2014.7）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32106/",
+     "asset": "x0d6a9202322e789f",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1412295020.jpg",
+     "caption": "テニミュ官方博客：拿着立海篇DVD的东启介（2014.12）",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32366/",
+     "asset": "x25e5be59eac67087",
+     "hasHigashi": true
     }
    ],
    "videos": [
@@ -235,6 +428,10 @@ window.ARCHIVE = {
     {
      "title": "ミュージカル『テニスの王子様』春の大運動会2014 DVD CM映像",
      "url": "https://www.youtube.com/watch?v=ZIOD5qnM7Do"
+    },
+    {
+     "title": "テニミュ官方博客（全国大会立海篇期间）",
+     "url": "https://blog.tennimu.com/blog/tb/page/5/"
     }
    ],
    "pending": false,
@@ -296,6 +493,49 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "end": "",
+   "crew": "",
+   "key": "",
+   "status": "",
+   "origin": "",
+   "dateKind": "活动日",
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [],
+   "role": "本人",
+   "id": "tb_dvd_sendai",
+   "date": "2014-08-25",
+   "category": "活动",
+   "title": "DVD《青学vs四天宝寺》发售纪念活动 in 仙台",
+   "japanese": "ミュージカル『テニスの王子様』青学vs四天宝寺 DVD発売記念イベント in 仙台",
+   "url": "https://blog.tennimu.com/blog/tb/entry/32181/",
+   "note": "DVD发售纪念的全国巡回活动之一，仙台场是黑羽麻璃央、多和田秀弥、东启介、佐藤流司四人，上田悠介惊喜登场。开场前他在后台教黑羽跳《大阪曼波》。",
+   "images": [
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1408268926.jpg",
+     "caption": "テニミュ官方博客：后台教黑羽麻璃央跳《大阪曼波》的东启介",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32181/",
+     "asset": "xded357f8abd32b71",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1408264752.jpg",
+     "caption": "テニミュ官方博客：台上：黑羽麻璃央、多和田秀弥、东启介、佐藤流司",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32181/",
+     "asset": "xe3d4c57e6f71bf41",
+     "hasHigashi": true,
+     "resolution": ""
+    }
+   ],
+   "videos": [
+    {
+     "title": "Marvelous：DVD作品页（含全国活动日程）",
+     "url": "https://www.marv.jp/titles/st/882/"
+    }
+   ]
+  },
+  {
    "id": "mag_rm_59553811",
    "date": "2014-10",
    "end": "",
@@ -323,6 +563,68 @@ window.ARCHIVE = {
    "pending": true,
    "kind": "活动／作品",
    "playlistLinks": []
+  },
+  {
+   "end": "2014-10-24",
+   "crew": "",
+   "key": "",
+   "status": "",
+   "origin": "",
+   "dateKind": "活动日",
+   "pending": false,
+   "kind": "活动／作品",
+   "playlistLinks": [],
+   "role": "本人",
+   "id": "tb_eigasai14",
+   "date": "2014-10-18",
+   "category": "活动",
+   "title": "テニミュ映画祭2014 舞台挨拶（青学vs四天宝寺）",
+   "japanese": "テニミュ映画祭2014 青学vs四天宝寺 舞台挨拶",
+   "url": "https://blog.tennimu.com/blog/tb/entry/32280/",
+   "note": "公演影像在全国电影院上映，演员分组跑各地舞台挨拶。他和同为「九州二翼」的上田悠介一组：10月18日福冈、广岛，19日京都、名古屋。福冈是两人第一次在九州登台。之后在池袋场和三井理阳、稻垣成弥一起登台。",
+   "images": [
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1410191978.jpg",
+     "caption": "テニミュ官方博客：福冈：上田悠介和东启介",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32280/",
+     "asset": "x0b38165acf732cdf",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1410196860.jpg",
+     "caption": "テニミュ官方博客：广岛：东启介和上田悠介",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32280/",
+     "asset": "x28fcf7dda5eb0779",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1410245632.jpg",
+     "caption": "テニミュ官方博客：京都：上田悠介和东启介",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32287/",
+     "asset": "x170f623cb3a2716b",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1410201003.jpg",
+     "caption": "テニミュ官方博客：名古屋：吃爆米花准备最后一场的上田悠介和东启介",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32282/",
+     "asset": "x50cd5a7c7e6e4fe0",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://blog.tennimu.com/blog/tb/photo/original/3_1410248302.jpg",
+     "caption": "テニミュ官方博客：池袋：东启介、三井理阳、稻垣成弥",
+     "source": "https://blog.tennimu.com/blog/tb/entry/32288/",
+     "asset": "xd0699c19bd0fad2f",
+     "hasHigashi": true,
+     "resolution": ""
+    }
+   ],
+   "videos": []
   },
   {
    "id": "mag_rm_22155920",
@@ -40072,7 +40374,34 @@ window.ARCHIVE = {
   "x45fbe8682d8f21d3": "assets/img/ext/45fbe8682d8f21d3.jpg",
   "x2059405e897acd8b": "assets/img/ext/2059405e897acd8b.jpg",
   "xafcc8c9cad7097c4": "assets/img/ext/afcc8c9cad7097c4.jpg",
-  "x930df1b81e03ae44": "assets/img/ext/930df1b81e03ae44.jpg"
+  "x930df1b81e03ae44": "assets/img/ext/930df1b81e03ae44.jpg",
+  "xef401b6372676fbf": "assets/img/ext/ef401b6372676fbf.jpg",
+  "x126746b859a7446f": "assets/img/ext/126746b859a7446f.jpg",
+  "x2c3af8727e9965ab": "assets/img/ext/2c3af8727e9965ab.jpg",
+  "xc74811696c47371b": "assets/img/ext/c74811696c47371b.jpg",
+  "xf1e829727dcc7ceb": "assets/img/ext/f1e829727dcc7ceb.jpg",
+  "x08dcc383bc29a14d": "assets/img/ext/08dcc383bc29a14d.jpg",
+  "x4b62769c7340bc1a": "assets/img/ext/4b62769c7340bc1a.jpg",
+  "x6d8209e21b8c2030": "assets/img/ext/6d8209e21b8c2030.jpg",
+  "xdbca8df72f8e9d8c": "assets/img/ext/dbca8df72f8e9d8c.jpg",
+  "x0ef9fbb334047bc2": "assets/img/ext/0ef9fbb334047bc2.jpg",
+  "x9b450adc9180f2e2": "assets/img/ext/9b450adc9180f2e2.jpg",
+  "x976a5c8e4e387e06": "assets/img/ext/976a5c8e4e387e06.jpg",
+  "x0c3f40a68991ac3c": "assets/img/ext/0c3f40a68991ac3c.jpg",
+  "x0d6a9202322e789f": "assets/img/ext/0d6a9202322e789f.jpg",
+  "x25e5be59eac67087": "assets/img/ext/25e5be59eac67087.jpg",
+  "xa44eb059dbe1f174": "assets/img/ext/a44eb059dbe1f174.jpg",
+  "xf44c240a2f5ecbed": "assets/img/ext/f44c240a2f5ecbed.jpg",
+  "x776833d6fcb66155": "assets/img/ext/776833d6fcb66155.jpg",
+  "x29ffa445dc3f41ef": "assets/img/ext/29ffa445dc3f41ef.jpg",
+  "x960f977377a2fbba": "assets/img/ext/960f977377a2fbba.jpg",
+  "xded357f8abd32b71": "assets/img/ext/ded357f8abd32b71.jpg",
+  "xe3d4c57e6f71bf41": "assets/img/ext/e3d4c57e6f71bf41.jpg",
+  "x0b38165acf732cdf": "assets/img/ext/0b38165acf732cdf.jpg",
+  "x28fcf7dda5eb0779": "assets/img/ext/28fcf7dda5eb0779.jpg",
+  "x170f623cb3a2716b": "assets/img/ext/170f623cb3a2716b.jpg",
+  "x50cd5a7c7e6e4fe0": "assets/img/ext/50cd5a7c7e6e4fe0.jpg",
+  "xd0699c19bd0fad2f": "assets/img/ext/d0699c19bd0fad2f.jpg"
  },
  "biliLeads": [
   {
