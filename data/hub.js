@@ -1273,7 +1273,7 @@ window.HUB = {
    "date": "2016-03-04",
    "title": "舞台《飙速宅男》总北新世代，启动 公演周边",
    "price": "苇木场个人ブロマイド 600円 · 随机徽章 200円 · 随机亚克力钥匙扣 600円",
-   "image": "",
+   "image": "assets/img/ext/64e4d8d7f23a51a8.jpg",
    "points": [
     "苇木场拓斗个人ブロマイド3枚：比赛服、制服、演员情景照各一",
     "随机徽章、随机亚克力钥匙扣都有苇木场",
@@ -1282,7 +1282,29 @@ window.HUB = {
    "url": "https://www.marv.jp/special/pedal_2016-03/#goods",
    "publisher": "舞台『弱虫ペダル』官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "个人生写真：比赛服",
+     "img": "assets/img/ext/64e4d8d7f23a51a8.jpg",
+     "href": "assets/img/ext/64e4d8d7f23a51a8.jpg"
+    },
+    {
+     "t": "个人生写真：制服",
+     "img": "assets/img/ext/e36f5879b77b7ff7.jpg",
+     "href": "assets/img/ext/e36f5879b77b7ff7.jpg"
+    },
+    {
+     "t": "个人生写真：私服",
+     "img": "assets/img/ext/8a6430d6f63e5d65.jpg",
+     "href": "assets/img/ext/8a6430d6f63e5d65.jpg"
+    },
+    {
+     "t": "随机徽章（苇木场）",
+     "img": "assets/img/ext/a6ab36f292e4ef89.jpg",
+     "href": "assets/img/ext/a6ab36f292e4ef89.jpg"
+    }
+   ]
   },
   {
    "date": "2016-05-03",
