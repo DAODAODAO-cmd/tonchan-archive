@@ -1386,7 +1386,7 @@ window.HUB = {
    "date": "2016-05-03",
    "title": "舞台《刀剑乱舞》虚传 燃烧的本能寺 公演周边",
    "price": "烛台切个人ブロマイド 600円 · 亚克力钥匙扣 800円 · 随机ブロマイド 200円 · 随机徽章 300円",
-   "image": "assets/img/ext/af4f734b26496f70.jpg",
+   "image": "assets/img/ext/04a531125b8ecf54.jpg",
    "points": [
     "烛台切光忠个人ブロマイド3枚一组",
     "亚克力钥匙扣12种可以直接挑烛台切",
@@ -1401,6 +1401,31 @@ window.HUB = {
      "t": "场刊",
      "img": "assets/img/ext/04a531125b8ecf54.jpg",
      "href": "assets/img/ext/04a531125b8ecf54.jpg"
+    },
+    {
+     "t": "全员生写真",
+     "img": "assets/img/ext/c82974ee5d137332.jpg",
+     "href": "assets/img/ext/c82974ee5d137332.jpg"
+    },
+    {
+     "t": "个人生写真（3枚一组）",
+     "img": "assets/img/ext/af4f734b26496f70.jpg",
+     "href": "assets/img/ext/af4f734b26496f70.jpg"
+    },
+    {
+     "t": "随机生写真",
+     "img": "assets/img/ext/cb4d5584a6e54cc6.jpg",
+     "href": "assets/img/ext/cb4d5584a6e54cc6.jpg"
+    },
+    {
+     "t": "亚克力钥匙扣",
+     "img": "assets/img/ext/3c6de71a87c8e46f.jpg",
+     "href": "assets/img/ext/3c6de71a87c8e46f.jpg"
+    },
+    {
+     "t": "随机徽章",
+     "img": "assets/img/ext/fc7159cdf2514acb.jpg",
+     "href": "assets/img/ext/fc7159cdf2514acb.jpg"
     }
    ]
   },
@@ -1437,7 +1462,7 @@ window.HUB = {
    "date": "2016-12-15",
    "title": "舞台《刀剑乱舞》虚传 再演 公演周边",
    "price": "烛台切个人ブロマイド 600円 · 发光IC卡贴 1,300円 · 随机内番亚克力钥匙扣 600円 · 随机徽章 400円",
-   "image": "assets/img/ext/220bb81975d9e363.jpg",
+   "image": "assets/img/ext/21dc071175a1a2ec.jpg",
    "points": [
     "发光IC卡贴：刷交通卡时会亮，12种可以挑烛台切",
     "随机钥匙扣是内番服装版"
@@ -1445,7 +1470,44 @@ window.HUB = {
    "url": "https://stage-toukenranbu.jp/archive/kyoden_saien/goods.html",
    "publisher": "刀ステ 官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "场刊",
+     "img": "assets/img/ext/21dc071175a1a2ec.jpg",
+     "href": "assets/img/ext/21dc071175a1a2ec.jpg"
+    },
+    {
+     "t": "全员生写真",
+     "img": "assets/img/ext/3fd6ecd46c7f02fc.jpg",
+     "href": "assets/img/ext/3fd6ecd46c7f02fc.jpg"
+    },
+    {
+     "t": "个人生写真",
+     "img": "assets/img/ext/220bb81975d9e363.jpg",
+     "href": "assets/img/ext/220bb81975d9e363.jpg"
+    },
+    {
+     "t": "随机生写真",
+     "img": "assets/img/ext/3cffb623de05657a.jpg",
+     "href": "assets/img/ext/3cffb623de05657a.jpg"
+    },
+    {
+     "t": "随机钥匙扣（内番）",
+     "img": "assets/img/ext/24cf68f08390a0d3.jpg",
+     "href": "assets/img/ext/24cf68f08390a0d3.jpg"
+    },
+    {
+     "t": "随机徽章",
+     "img": "assets/img/ext/fc3d77b965fdce49.jpg",
+     "href": "assets/img/ext/fc3d77b965fdce49.jpg"
+    },
+    {
+     "t": "发光IC卡贴",
+     "img": "assets/img/ext/ef5c1fd47205af69.jpg",
+     "href": "assets/img/ext/ef5c1fd47205af69.jpg"
+    }
+   ]
   },
   {
    "date": "2017-02-25",
@@ -1480,7 +1542,7 @@ window.HUB = {
    "date": "2017-06-01",
    "title": "舞台《刀剑乱舞》义传 黎明的独眼龙 公演周边",
    "price": "烛台切个人ブロマイド 600円 · 迷你屏风 700円 · 随机挂饰 600円 · 随机徽章 400円",
-   "image": "assets/img/ext/a2ecdec6ecf48b36.jpg",
+   "image": "assets/img/ext/b5cf2965b555a965.jpg",
    "points": [
     "迷你屏风8种可以直接挑烛台切",
     "随机挂饰里有「番伞④（烛台切光忠）」"
@@ -1488,7 +1550,44 @@ window.HUB = {
    "url": "https://stage-toukenranbu.jp/archive/giden/goods.html",
    "publisher": "刀ステ 官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "场刊",
+     "img": "assets/img/ext/b5cf2965b555a965.jpg",
+     "href": "assets/img/ext/b5cf2965b555a965.jpg"
+    },
+    {
+     "t": "全员生写真",
+     "img": "assets/img/ext/68b539a592bb6165.jpg",
+     "href": "assets/img/ext/68b539a592bb6165.jpg"
+    },
+    {
+     "t": "个人生写真",
+     "img": "assets/img/ext/a2ecdec6ecf48b36.jpg",
+     "href": "assets/img/ext/a2ecdec6ecf48b36.jpg"
+    },
+    {
+     "t": "随机生写真",
+     "img": "assets/img/ext/a7f7e5802750ab23.jpg",
+     "href": "assets/img/ext/a7f7e5802750ab23.jpg"
+    },
+    {
+     "t": "随机挂饰",
+     "img": "assets/img/ext/bbd470baa97469e8.jpg",
+     "href": "assets/img/ext/bbd470baa97469e8.jpg"
+    },
+    {
+     "t": "随机徽章",
+     "img": "assets/img/ext/0bfe8ff115ae63ca.jpg",
+     "href": "assets/img/ext/0bfe8ff115ae63ca.jpg"
+    },
+    {
+     "t": "迷你屏风",
+     "img": "assets/img/ext/09c9b1ac2a5f6e5b.jpg",
+     "href": "assets/img/ext/09c9b1ac2a5f6e5b.jpg"
+    }
+   ]
   },
   {
    "date": "2017-07-29",
@@ -1509,7 +1608,7 @@ window.HUB = {
    "date": "2018-06-02",
    "title": "舞台《刀剑乱舞》悲传 结之目的不如归 公演周边",
    "price": "烛台切个人ブロマイド 600円 · 舞台照ブロマイド 400円 · 随机迷你色纸 500円 · 随机迷你文件夹 400円",
-   "image": "assets/img/ext/7c4fc87e72e29368.jpg",
+   "image": "assets/img/ext/ae955fa8c0fadb19.jpg",
    "points": [
     "这次多了舞台照个人ブロマイド（2枚一组）",
     "随机徽章、迷你文件夹、迷你色纸都有烛台切"
@@ -1517,7 +1616,49 @@ window.HUB = {
    "url": "https://stage-toukenranbu.jp/archive/hiden/goods.html",
    "publisher": "刀ステ 官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "场刊",
+     "img": "assets/img/ext/ae955fa8c0fadb19.jpg",
+     "href": "assets/img/ext/ae955fa8c0fadb19.jpg"
+    },
+    {
+     "t": "全员生写真",
+     "img": "assets/img/ext/b7a10694f8fb2a1a.jpg",
+     "href": "assets/img/ext/b7a10694f8fb2a1a.jpg"
+    },
+    {
+     "t": "个人生写真",
+     "img": "assets/img/ext/7c4fc87e72e29368.jpg",
+     "href": "assets/img/ext/7c4fc87e72e29368.jpg"
+    },
+    {
+     "t": "舞台照个人生写真",
+     "img": "assets/img/ext/eb1e859c837303fa.jpg",
+     "href": "assets/img/ext/eb1e859c837303fa.jpg"
+    },
+    {
+     "t": "随机生写真",
+     "img": "assets/img/ext/efba04bf85268112.jpg",
+     "href": "assets/img/ext/efba04bf85268112.jpg"
+    },
+    {
+     "t": "随机徽章",
+     "img": "assets/img/ext/b805729249afff51.jpg",
+     "href": "assets/img/ext/b805729249afff51.jpg"
+    },
+    {
+     "t": "迷你文件夹",
+     "img": "assets/img/ext/9c4102a3ab15c476.jpg",
+     "href": "assets/img/ext/9c4102a3ab15c476.jpg"
+    },
+    {
+     "t": "迷你色纸",
+     "img": "assets/img/ext/1bc3e2069067e361.jpg",
+     "href": "assets/img/ext/1bc3e2069067e361.jpg"
+    }
+   ]
   },
   {
    "id": "we_bromide_all",
