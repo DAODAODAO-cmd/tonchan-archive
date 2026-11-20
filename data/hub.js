@@ -698,7 +698,7 @@ window.HUB = {
     "12月2日前后发货",
     "WE官方生写真每月发售，新一期见 7net 专页"
    ],
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "status": "预约已结束",
    "bday": false,
    "stage": false,
@@ -715,7 +715,7 @@ window.HUB = {
     "2025.7.11 COTTON CLUB 生日音乐会官方周边",
     "亚克力钥匙扣已经卖完了，场刊和收纳包看7net页面"
    ],
-   "url": "https://7net.omni7.jp/search?q=afterglow%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "publisher": "WE SHOP／ワタナベ商店",
    "items": [
     {
@@ -860,7 +860,7 @@ window.HUB = {
    "points": [
     "Musical shoW「WE ARE MUSIC」vol.1 纪念生写真"
    ],
-   "url": "https://7net.omni7.jp/detail/2110647487.html",
+   "url": "",
    "publisher": "WE SHOP／ワタナベ商店",
    "items": [
     {
@@ -2376,7 +2376,7 @@ window.HUB = {
     "剧中华武利戴的细款猫戒指",
     "9/6开订，11/10起又开了一轮受注"
    ],
-   "url": "https://p-bandai.jp/item/item-1000256614/",
+   "url": "",
    "items": [
     {
      "t": "正面",
@@ -2393,7 +2393,7 @@ window.HUB = {
    "saleReview": {
     "checked": "2026-11-20",
     "state": "unknown",
-    "source": "https://p-bandai.jp/item/item-1000256614/",
+    "source": "",
     "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
    }
   },
@@ -2407,7 +2407,7 @@ window.HUB = {
     "戒面是黑底猫剪影的那款",
     "和尾戒同一批开订"
    ],
-   "url": "https://p-bandai.jp/item/item-1000256611/",
+   "url": "",
    "items": [
     {
      "t": "正面",
@@ -2424,7 +2424,7 @@ window.HUB = {
    "saleReview": {
     "checked": "2026-11-20",
     "state": "unknown",
-    "source": "https://p-bandai.jp/item/item-1000256611/",
+    "source": "",
     "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
    }
   },
@@ -2438,7 +2438,7 @@ window.HUB = {
     "黑底，印的是Maou",
     "Premium Bandai 受注"
    ],
-   "url": "https://p-bandai.jp/item/item-1000256283/",
+   "url": "",
    "items": [
     {
      "t": "正面",
@@ -2455,7 +2455,7 @@ window.HUB = {
    "saleReview": {
     "checked": "2026-11-20",
     "state": "unknown",
-    "source": "https://p-bandai.jp/item/item-1000256283/",
+    "source": "",
     "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
    }
   },
@@ -2565,7 +2565,7 @@ window.HUB = {
    "points": [
     "饰苇木场拓斗"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/6941917/"
+   "url": ""
   },
   {
    "date": "2016-09-07",
@@ -2578,7 +2578,7 @@ window.HUB = {
     "饰烛台切光忠",
     "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/7049201/",
+   "url": "",
    "items": [
     {
      "t": "影像 2016.09.07",
@@ -2602,7 +2602,7 @@ window.HUB = {
    "points": [
     "饰苇木场拓斗"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/7349900/"
+   "url": ""
   },
   {
    "date": "2017-04-12",
@@ -2614,7 +2614,7 @@ window.HUB = {
    "points": [
     "饰烛台切光忠"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/7502924/"
+   "url": ""
   },
   {
    "date": "2017-07-19",
@@ -2626,7 +2626,7 @@ window.HUB = {
    "points": [
     "后台花絮合集"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/7899787/"
+   "url": ""
   },
   {
    "date": "2017-10-18",
@@ -2639,7 +2639,7 @@ window.HUB = {
     "饰烛台切光忠",
     "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/7937351/",
+   "url": "",
    "items": [
     {
      "t": "影像 2017.10.18",
@@ -2663,7 +2663,7 @@ window.HUB = {
    "points": [
     "综艺节目合集"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/8164898/"
+   "url": ""
   },
   {
    "date": "2017-12-20",
@@ -2675,7 +2675,7 @@ window.HUB = {
    "points": [
     "饰李春林"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/8096962/"
+   "url": ""
   },
   {
    "date": "2018-09-19",
@@ -2699,7 +2699,7 @@ window.HUB = {
    "points": [
     "后台花絮合集"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/8885823/"
+   "url": ""
   },
   {
    "date": "2018-10-31",
@@ -2712,7 +2712,7 @@ window.HUB = {
     "饰烛台切光忠",
     "原声CD：2枚组：剧中BGM＋剧中歌现场音源"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/8885834/",
+   "url": "",
    "items": [
     {
      "t": "影像 2018.10.31",
@@ -2748,7 +2748,7 @@ window.HUB = {
    "points": [
     "幕后纪录"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/9040567/"
+   "url": ""
   },
   {
    "date": "2019-03-20",
@@ -2760,7 +2760,7 @@ window.HUB = {
    "points": [
     "为时丸配音"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/9526762/"
+   "url": ""
   },
   {
    "date": "2020-01-22",
@@ -2772,7 +2772,7 @@ window.HUB = {
    "points": [
     "后台花絮合集"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/10231719/"
+   "url": ""
   },
   {
    "date": "2021-08-25",
@@ -2784,7 +2784,7 @@ window.HUB = {
    "points": [
     "饰涉周一"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/11708572/"
+   "url": ""
   },
   {
    "date": "2022-04-20",
@@ -2796,7 +2796,7 @@ window.HUB = {
    "points": [
     "剧场上映版"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/12526082/"
+   "url": ""
   },
   {
    "date": "2022-07-27",
@@ -2808,7 +2808,7 @@ window.HUB = {
    "points": [
     "饰乌丸薰"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/12765618/"
+   "url": ""
   },
   {
    "date": "2023-02-15",
@@ -2820,7 +2820,7 @@ window.HUB = {
    "points": [
     "剧场上映版"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/13347401/"
+   "url": ""
   },
   {
    "date": "2024-05-22",
@@ -2832,7 +2832,7 @@ window.HUB = {
    "points": [
     "JBB第一张现场CD"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/14858426/"
+   "url": ""
   },
   {
    "date": "2025-08-20",
@@ -2844,7 +2844,7 @@ window.HUB = {
    "points": [
     "2024巡演东京场"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/16129155/"
+   "url": ""
   },
   {
    "date": "2025-12-10",
@@ -2856,7 +2856,7 @@ window.HUB = {
    "points": [
     "饰砂川圆"
    ],
-   "url": "https://www.hmv.co.jp/product/detail/16253617/"
+   "url": ""
   },
   {
    "date": "2014-05-28",
@@ -2989,7 +2989,7 @@ window.HUB = {
    "points": [
     "饰Will"
    ],
-   "url": "https://www.amazon.co.jp/dp/B01I9G01YG",
+   "url": "",
    "items": [
     {
      "t": "影像 2016.11.30",
@@ -3013,7 +3013,7 @@ window.HUB = {
    "points": [
     "他担纲主演的一篇，饰原田左之助"
    ],
-   "url": "https://www.amazon.co.jp/dp/B0798WPS4M"
+   "url": ""
   },
   {
    "date": "2015-09-11",
@@ -3025,7 +3025,7 @@ window.HUB = {
    "points": [
     "2015年公演，饰织田亮"
    ],
-   "url": "https://www.amazon.co.jp/dp/B078HP7LGG"
+   "url": ""
   },
   {
    "date": "2015-08-12",
@@ -3087,7 +3087,7 @@ window.HUB = {
    "saleReview": {
     "checked": "2026-11-20",
     "state": "unknown",
-    "source": "https://books.rakuten.co.jp/rb/16609472/",
+    "source": "",
     "note": "原资料链接未能确认当前纸质书库存。"
    }
   },
@@ -3105,7 +3105,7 @@ window.HUB = {
    "saleReview": {
     "checked": "2026-11-20",
     "state": "unknown",
-    "source": "https://books.rakuten.co.jp/rb/16609471/",
+    "source": "",
     "note": "原资料链接未能确认当前纸质书库存。"
    }
   },
@@ -3331,7 +3331,7 @@ window.HUB = {
     "只按盒卖，一盒凑不齐全套；卡约86×59mm",
     "2026/11/20 13:00开始预约，2027年3月发货"
    ],
-   "url": "https://p-bandai.jp/item/item-1000260979/",
+   "url": "",
    "cat": "食玩",
    "work": "刀舞",
    "items": [
@@ -3344,7 +3344,7 @@ window.HUB = {
    "saleReview": {
     "checked": "2026-11-20",
     "state": "unknown",
-    "source": "https://p-bandai.jp/item/item-1000260979/",
+    "source": "",
     "note": "已尝试读取官方商品页，但页面未返回可核实的库存或受注信息。"
    }
   },
@@ -3466,7 +3466,7 @@ window.HUB = {
    {
     "name": "WE官方生写真（每月）",
     "handle": "7net · ワタナベ商店",
-    "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+    "url": "",
     "note": "每月新作生写真套装，限期预约"
    },
    {

@@ -49,7 +49,7 @@ window.ARCHIVE = {
    "role": "千岁千里（千歳千里，网球王子音乐剧）",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/12522387/",
+   "url": "",
    "note": "小越勇辉×多和田秀弥×松冈广大×东启介。为12月上演的网球王子音乐剧新作《青学VS四天宝寺》，四人进行对谈（クロストーク）。",
    "status": "已确认（乐天图书目录）",
    "origin": "2026.11.17补充",
@@ -58,7 +58,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3472/9784863363472.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/12522387/",
+     "source": "",
      "asset": "x5207f37e88d0db97",
      "resolution": ""
     }
@@ -447,7 +447,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/%E3%82%B0%E3%83%83%E3%82%AB%E3%83%A0%20VOL.32%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -456,7 +456,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4158/9784863364158.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x00c9745ff590c36a",
      "resolution": ""
     }
@@ -538,7 +538,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/%E6%9C%88%E5%88%8ACheek%202014%E5%B9%B411%E6%9C%88%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -547,7 +547,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/booksdream/cabinet/racoon_332/b00net6e54.jpg?_ex=500x500",
      "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "source": "",
      "asset": "x8dfcda575ef2c976",
      "resolution": ""
     }
@@ -629,7 +629,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/%E3%82%B0%E3%83%83%E3%82%AB%E3%83%A0%20VOL.33%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -638,7 +638,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4332/9784863364332.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x608ce8f0d7ce664c",
      "resolution": ""
     }
@@ -1009,7 +1009,7 @@ window.ARCHIVE = {
    "role": "小林淕",
    "crew": "",
    "key": "",
-   "url": "https://www.suruga-ya.jp/product/detail/G3134726",
+   "url": "",
    "note": "旧官网未找到可用档案。",
    "status": "",
    "origin": "",
@@ -1018,7 +1018,7 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3134726.jpg",
      "caption": "文章配图",
-     "source": "https://www.suruga-ya.jp/product/detail/G3134726",
+     "source": "",
      "asset": "ecd4b627b909ec41",
      "resolution": "358 × 512"
     },
@@ -1092,7 +1092,7 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/715r051Ks0L._AC_SL500_.jpg",
      "caption": "单曲《憑き夜に踊れ》通常盘封面",
-     "source": "Amazon.co.jp 商品图",
+     "source": "",
      "asset": "x55a66d328378ed5c"
     },
     {
@@ -1235,25 +1235,25 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315862.jpg",
      "caption": "复刻套组【vol.1&2】",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xdf1b49df0841cdbc"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315863.jpg",
      "caption": "复刻套组【vol.3&4】",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xcd51c0d5f44218f4"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315864.jpg",
      "caption": "复刻套组【vol.5&6】",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x18da870751a9d05e"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301315865.jpg",
      "caption": "复刻套组【vol.7&8】",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xcfc0097833b2ef07"
     }
    ],
@@ -1270,7 +1270,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14140910/",
+   "url": "",
    "note": "四人特辑。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -1279,7 +1279,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/2072/9784863882072.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/14140910/",
+     "source": "",
      "asset": "x7bb9638141e7391c",
      "resolution": ""
     }
@@ -1299,7 +1299,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14427545/",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -1308,7 +1308,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3417/9784331803417.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/14427545/",
+     "source": "",
      "asset": "xe69949b6f2d4c2cf",
      "resolution": ""
     }
@@ -1477,7 +1477,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14108397/",
+   "url": "",
    "note": "铃木拡树、东启介×染谷俊之登上封面卷头。",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -1486,7 +1486,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/2801/9784048982801.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/14108397/",
+     "source": "",
      "asset": "xa64e7d503049c893",
      "resolution": ""
     }
@@ -1583,7 +1583,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -1666,7 +1666,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331803376",
+   "url": "",
    "note": "W! VOL.10 鈴木拡樹完全SPECIAL；东启介登场护封背面。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -1675,7 +1675,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/booksupply/cabinet/04216212/683/9784331803370.jpg?_ex=500x500",
      "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "source": "",
      "asset": "xa3f507cb37462e14",
      "resolution": ""
     }
@@ -1694,7 +1694,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -1827,7 +1827,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2023,7 +2023,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14379824/",
+   "url": "",
    "note": "个人页「前へ!!」。",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -2032,7 +2032,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1061/4910013171061.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/14379824/",
+     "source": "",
      "asset": "x300712aa35c78035",
      "resolution": ""
     }
@@ -2186,13 +2186,13 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343013.jpg",
      "caption": "［COOL］",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xa87abeef7ec63c25"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343014.jpg",
      "caption": "［SMILE］",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xfdeb5401f92d39f3"
     }
    ],
@@ -2208,7 +2208,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343012.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2217,7 +2217,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301343012.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xa670e03f555c5c4f"
     },
     {
@@ -2262,7 +2262,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://auctions.yahoo.co.jp/search/search?p=Trickster+Age+32+%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "note": "TricksterAge Vol.32（ロマンアルバム）；简介未列名单。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -2271,7 +2271,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4588/9784197204588.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xd036532ef72b3ae5",
      "resolution": ""
     }
@@ -2290,7 +2290,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301345398.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2299,7 +2299,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301345398.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xea934bca0b57b5b3"
     },
     {
@@ -2344,7 +2344,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14513360/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -2353,7 +2353,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/comicset/cabinet/13492474/mgkmsawiyck1ghjt.jpg?_ex=500x500",
      "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "source": "",
      "asset": "x4918e2c6519181a4",
      "resolution": ""
     }
@@ -2372,7 +2372,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2453,7 +2453,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14585124/",
+   "url": "",
    "note": "廣済堂ベストムック345号。卷头SPECIAL全21页「東 啓介の引き寄せる力。」长篇专访＋拍摄；与植田圭辅对谈；超宽海报；附录DVD「23人ガチトーク&素顔70分」收录东启介单人及与植田圭辅对谈。亚马逊：https://www.amazon.co.jp/dp/4331803503",
    "status": "",
    "origin": "2026.11.17补充",
@@ -2462,14 +2462,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/91TJfB3np2L._SL1500_.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/4331803503",
+     "source": "",
      "asset": "x29f0094a5d3bf656",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3509/9784331803509.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/14585124/",
+     "source": "",
      "asset": "xf31504a10cc6d644",
      "resolution": ""
     }
@@ -2590,7 +2590,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2822,7 +2822,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301353617.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2831,7 +2831,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301353617.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xb5767b1fcabd1bce"
     },
     {
@@ -2979,7 +2979,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301356196.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -2988,7 +2988,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301356196.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x8de4a9171fece4a9"
     },
     {
@@ -3164,7 +3164,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -3317,7 +3317,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14799945/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -3326,7 +3326,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0675/4910013170675.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/14799945/",
+     "source": "",
      "asset": "xe556f17d532a7dde",
      "resolution": ""
     }
@@ -3354,7 +3354,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301361075.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xa46068b8841709eb"
     },
     {
@@ -3367,19 +3367,19 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378638.jpg",
      "caption": "生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/G3378638",
+     "source": "",
      "asset": "xedc644e33f8958a3"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378639.jpg",
      "caption": "生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/G3378639",
+     "source": "",
      "asset": "x80da66543da25438"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3378640.jpg",
      "caption": "生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/G3378640",
+     "source": "",
      "asset": "xd10faa64c52fa43b"
     }
    ],
@@ -3405,7 +3405,7 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3683295.jpg",
      "caption": "表参道店限定W生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/G3683295",
+     "source": "",
      "asset": "x0c458d2bb2705275"
     }
    ],
@@ -3455,7 +3455,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14901918/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -3464,7 +3464,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0672/4910122170672.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/14901918/",
+     "source": "",
      "asset": "x2031018337bea8cc",
      "resolution": ""
     }
@@ -3511,7 +3511,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/W%21%20VOL.14%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "url": "",
    "note": "骏河屋登记发售日 2017/05/12（DVD付）。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -3568,7 +3568,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301364071.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -3577,7 +3577,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301364071.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xd72e7e863c875bd6"
     },
     {
@@ -3700,7 +3700,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/14945701/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -3726,7 +3726,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301366687.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -3735,7 +3735,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301366687.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xbf4a3471d2d429a6"
     },
     {
@@ -3807,7 +3807,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/",
+   "url": "",
    "note": "Ray 2017年9月号，封面白石麻衣；楽天简介未列东启介。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -3816,7 +3816,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0973/4910096950973.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xa69303365f833c92",
      "resolution": ""
     }
@@ -3976,7 +3976,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369385.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -3985,13 +3985,13 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369385.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x0806a4b4b3803a02"
     },
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301369390.jpg",
      "caption": "7net 官方商品图：22岁生日生写真套组",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x0a4561aee2f6c243"
     },
     {
@@ -4036,7 +4036,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.15%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -4045,7 +4045,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1144/neobk-2130555.jpg?_ex=500x500",
      "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "source": "",
      "asset": "x4b75f278563825de",
      "resolution": ""
     }
@@ -4091,7 +4091,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301372413.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4100,7 +4100,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301372413.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xfe641bb57a32650b"
     },
     {
@@ -4138,7 +4138,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/15120606/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -4147,7 +4147,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1177/4910013791177.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/15120606/",
+     "source": "",
      "asset": "xce1c48b97ac2ebfc",
      "resolution": ""
     }
@@ -4166,7 +4166,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301375029.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4175,7 +4175,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301375029.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xd4532c9e86c29261"
     },
     {
@@ -4286,7 +4286,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301377319.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4295,7 +4295,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301377319.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xffd6275bac84e963"
     },
     {
@@ -4454,7 +4454,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331803783",
+   "url": "",
    "note": "黑羽麻璃央完全SPECIAL；东启介超宽海报＋采访。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -4463,7 +4463,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1164/neobk-2160754.jpg?_ex=500x500",
      "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "source": "",
      "asset": "x3279460f0fad4bb5",
      "resolution": ""
     }
@@ -4612,7 +4612,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301379742.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4621,7 +4621,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301379742.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x48b95121396c05b0"
     },
     {
@@ -4648,7 +4648,7 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg439020.jpg",
      "caption": "生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG439020",
+     "source": "",
      "asset": "xaa20f24c8f331e16"
     }
    ],
@@ -4691,7 +4691,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301381805.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4700,7 +4700,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301381805.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xab6dd9aa81249557"
     },
     {
@@ -4837,7 +4837,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301384212.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -4846,7 +4846,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301384212.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x55b299d6e2fa6ae8"
     },
     {
@@ -4891,7 +4891,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331803848",
+   "url": "",
    "note": "崎山つばさ完全SPECIAL；全员单人采访特辑含东启介。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -4900,7 +4900,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/neowing-r/cabinet/item_img_1184/neobk-2191855.jpg?_ex=500x500",
      "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "source": "",
      "asset": "x77d0f3cf31514634",
      "resolution": ""
     }
@@ -4929,7 +4929,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/7272/9784863367272.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x43d46ba822b21e77",
      "resolution": ""
     }
@@ -4948,7 +4948,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5050,7 +5050,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/15405076/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -5059,7 +5059,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0586/4910080090586.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/15405076/",
+     "source": "",
      "asset": "x395d12b2f0f6cf90",
      "resolution": ""
     }
@@ -5078,7 +5078,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301389133.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5087,7 +5087,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301389133.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xda668d69ce6d3e33"
     },
     {
@@ -5228,7 +5228,7 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271354.jpg",
      "caption": "表参道店限定W生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG271354",
+     "source": "",
      "asset": "x8b7fa7e8c9b6ecca"
     }
    ],
@@ -5283,7 +5283,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5331,7 +5331,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331803937",
+   "url": "",
    "note": "鈴木拡樹・太田基裕完全SPECIAL；亚马逊简介未列东启介。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -5340,7 +5340,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/hmvjapan/cabinet/8742000/8740876.jpg?_ex=500x500",
      "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "source": "",
      "asset": "x12edb85c543b71c6",
      "resolution": ""
     }
@@ -5440,7 +5440,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5477,7 +5477,7 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg271355.jpg",
      "caption": "表参道店限定W〈2018年6月〉（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG271355",
+     "source": "",
      "asset": "x844a67cce884211f"
     }
    ],
@@ -5574,7 +5574,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/15531823/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -5583,7 +5583,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0880/4910013170880.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/15531823/",
+     "source": "",
      "asset": "xf1ce334af9487bc1",
      "resolution": ""
     }
@@ -5602,7 +5602,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5728,7 +5728,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -5776,7 +5776,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=W%21%20VOL.19%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -5785,7 +5785,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/kaitoriouji/cabinet/202303061540/4331803996.jpg?_ex=500x500",
      "caption": "商品图",
-     "source": "https://search.rakuten.co.jp/",
+     "source": "",
      "asset": "x9e7fb364282a78a7",
      "resolution": ""
     }
@@ -5850,7 +5850,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/B07GJCMPMP",
+   "url": "",
    "note": "电子版（主婦と生活社），《周刊女性》「生で会えるイケメンリレー対談」加采访。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -5859,7 +5859,7 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/81woWJbYJqL.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/B07GJCMPMP",
+     "source": "",
      "asset": "x85c3b1830207ab1d",
      "resolution": ""
     }
@@ -5978,7 +5978,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -6026,7 +6026,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/15645554/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -6035,7 +6035,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1187/4910080091187.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/15645554/",
+     "source": "",
      "asset": "xb5b222b90b67a5a8",
      "resolution": ""
     }
@@ -6054,7 +6054,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -6270,7 +6270,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331804054",
+   "url": "",
    "note": "有澤樟太郎完全SPECIAL；特集「2019へ。そしてその先へ」含东启介。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -6279,7 +6279,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4056/9784331804056.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x978c6e11cca0f422",
      "resolution": ""
     }
@@ -6308,7 +6308,7 @@ window.ARCHIVE = {
     {
      "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0411/users/51fbb8a266f9eb798134cd1464cb52a012f7846b/i-img360x239-1541297585byn9le38762.jpg",
      "caption": "2L判W生写真（拍卖实物图）",
-     "source": "Yahoo!拍卖",
+     "source": "",
      "asset": "x0aedda9cb7aa7c51"
     }
    ],
@@ -6352,7 +6352,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -6389,7 +6389,7 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937043.jpg",
      "caption": "表参道店限定W〈2018年11月〉（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG937043",
+     "source": "",
      "asset": "x8f2b801c07035a52"
     }
    ],
@@ -6433,7 +6433,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/B07J34NSQW",
+   "url": "",
    "note": "封面神宫寺勇太；亚马逊简介未列内页名单。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -6442,14 +6442,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/61xqSHvn6mL.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/B07J34NSQW",
+     "source": "",
      "asset": "xb3544334b217d9e8",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1286/4910018571286.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xf7e0b4a5da52a14c",
      "resolution": ""
     }
@@ -6613,7 +6613,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/15760957/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -6622,7 +6622,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0296/4910080090296.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/15760957/",
+     "source": "",
      "asset": "x70de55d4e17aa3ee",
      "resolution": ""
     }
@@ -6642,7 +6642,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=W%21%20Vol24%20%E5%8C%97%E5%9C%92%E6%B6%BC%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -6651,7 +6651,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4315/9784331804315.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xeb24f80f5cce46c5",
      "resolution": ""
     }
@@ -6706,7 +6706,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331804097",
+   "url": "",
    "note": "崎山つばさSPECIAL；目录列有东启介。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -6715,14 +6715,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/81-lVbWon+L.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/4331804097",
+     "source": "",
      "asset": "xec3730df0e6dde56",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4094/9784331804094.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x8638d3015fd1c475",
      "resolution": ""
     }
@@ -6741,7 +6741,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -6774,7 +6774,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301417946.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -6783,7 +6783,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301417946.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xf5ae04b7f2b268ba"
     },
     {
@@ -6855,7 +6855,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/15831877/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -6864,7 +6864,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0499/4910179070499.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/15831877/",
+     "source": "",
      "asset": "x54655380cab15e90",
      "resolution": ""
     }
@@ -6884,7 +6884,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.5%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -6893,7 +6893,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/9016/9784863369016.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xca51bb501e86eb19",
      "resolution": ""
     }
@@ -6913,7 +6913,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/15862247/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -6922,7 +6922,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0593/4910080090593.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/15862247/",
+     "source": "",
      "asset": "x919689dd9f30269f",
      "resolution": ""
     }
@@ -6942,7 +6942,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4331804186",
+   "url": "",
    "note": "阪本奨悟完全SPECIAL；护封背面大图Q&A含东启介。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -6951,7 +6951,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4186/9784331804186.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xa5d70dde6e285cf4",
      "resolution": ""
     }
@@ -6971,7 +6971,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/B07QL61NDY",
+   "url": "",
    "note": "连载「イケメンコンビニスイーツ図鑑」vol.13 东启介。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -6980,14 +6980,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/91Fi8Roj4QL.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/B07QL61NDY",
+     "source": "",
      "asset": "xbe43b8d1fdbe81c0",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0690/4910121210690.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xaafdc381127a465c",
      "resolution": ""
     }
@@ -7197,7 +7197,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301425383.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -7206,7 +7206,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301425383.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xda3a554687febe93"
     }
    ],
@@ -7223,7 +7223,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301427912.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -7232,7 +7232,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301427912.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xb759334f1e1fdf8a"
     },
     {
@@ -7348,7 +7348,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301430196.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -7357,7 +7357,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301430196.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x64cd0d96e57ca77c"
     }
    ],
@@ -7403,7 +7403,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301437228.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -7412,7 +7412,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301437228.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xf91b36c580dc346f"
     }
    ],
@@ -7675,7 +7675,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301442556.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -7684,7 +7684,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301442556.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xa1de293c21c5cabe"
     }
    ],
@@ -7818,19 +7818,19 @@ window.ARCHIVE = {
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737535.jpg",
      "caption": "纪念2L生写真（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG737535",
+     "source": "",
      "asset": "xbdf59bedac412d2c"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737538.jpg",
      "caption": "生写真A（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG737538",
+     "source": "",
      "asset": "xb7f10bcc0d9b993f"
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg737540.jpg",
      "caption": "生写真B（骏河屋商品图）",
-     "source": "https://www.suruga-ya.jp/product/detail/GG737540",
+     "source": "",
      "asset": "x3c832cbf2c2fd8e1"
     }
    ],
@@ -7893,7 +7893,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16231273/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -7902,7 +7902,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0403/4910180750403.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16231273/",
+     "source": "",
      "asset": "xa4ca858b0c741be5",
      "resolution": ""
     }
@@ -8058,7 +8058,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301453972.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -8067,7 +8067,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301453972.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x32204a87d12679dc"
     }
    ],
@@ -8084,7 +8084,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301455708.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -8093,7 +8093,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301455708.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xf8b7b48a90addb28"
     }
    ],
@@ -8317,7 +8317,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301457637.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -8326,7 +8326,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301457637.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x1e8b71c5458b0de5"
     }
    ],
@@ -8521,7 +8521,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301459724.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -8530,7 +8530,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301459724.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xc09cd37288720a08"
     }
    ],
@@ -8635,7 +8635,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301461360.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -8644,7 +8644,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301461360.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xd3f9dd6147e37f1e"
     }
    ],
@@ -8688,7 +8688,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301464245.jpg",
+   "url": "",
    "note": "",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -8697,7 +8697,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301464245.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xd59e99254473b8e7"
     },
     {
@@ -9064,7 +9064,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://auctions.yahoo.co.jp/search/search?p=%E3%82%B6%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3SQUARE+%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "note": "niconico 有同期的专访＆拍摄花絮视频（2020.11.16）；杂志随机生写真也在二手市场流通。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -9252,7 +9252,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=%E6%9C%88%E5%88%8A%E3%82%B6%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%20%E6%9D%B1%E5%95%93%E4%BB%8B%20%E6%B5%9C%E8%BE%BA%E7%BE%8E%E6%B3%A2",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -9272,7 +9272,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301470592.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -9281,7 +9281,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301470592.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x32db50e2ace9a417"
     }
    ],
@@ -9381,7 +9381,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16555281/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -9390,7 +9390,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0219/4910165170219.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16555281/",
+     "source": "",
      "asset": "x781930a77ad30dd4",
      "resolution": ""
     }
@@ -9714,7 +9714,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16614594/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -9723,7 +9723,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0318/4910165170318.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16614594/",
+     "source": "",
      "asset": "x326237fe8ceada65",
      "resolution": ""
     }
@@ -9788,7 +9788,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E5%A5%B3%E6%80%A7%E8%87%AA%E8%BA%AB%202021%E5%B9%B43%E6%9C%882%E6%97%A5%E5%8F%B7",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -9797,7 +9797,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0316/4910203010316.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x6ac531eb38bf54be",
      "resolution": ""
     }
@@ -9817,7 +9817,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/%E5%A9%A6%E4%BA%BA%E5%85%AC%E8%AB%96%202021%E5%B9%B42%E6%9C%8824%E6%97%A5%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -9826,7 +9826,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0218/4910261040218.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x96936d1444b92a08",
      "resolution": ""
     }
@@ -9914,7 +9914,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4838793200",
+   "url": "",
    "note": "《IN THE HEIGHTS》Micro×平間壮一×林翔太×东启介×TETSUHARU。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -9923,14 +9923,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/71Ne4pXovJL.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/4838793200",
+     "source": "",
      "asset": "x8d68b13c8668e3ed",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/3204/9784838793204.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x3c802c0648c0626d",
      "resolution": ""
     }
@@ -9950,7 +9950,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16657557/",
+   "url": "",
    "note": "Micro×平间壮一×林翔太×东启介。",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -9959,7 +9959,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0418/4910080090418.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16657557/",
+     "source": "",
      "asset": "x790d327f293dec2c",
      "resolution": ""
     }
@@ -10007,7 +10007,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16609471/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -10016,7 +10016,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/5353/9784047365353.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16609471/",
+     "source": "",
      "asset": "xe3002f87be81cf9e",
      "resolution": ""
     }
@@ -10090,7 +10090,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16645554/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -10099,7 +10099,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0417/4910165170417.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16645554/",
+     "source": "",
      "asset": "xc55bc892b004b5f9",
      "resolution": ""
     }
@@ -10119,7 +10119,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16609472/",
+   "url": "",
    "note": "2021年3月10日 KADOKAWA 发行。本人参与企划的写真集。",
    "status": "已发售",
    "origin": "",
@@ -10128,7 +10128,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/8492/9784048968492.jpg?downsize=600:*",
      "caption": "写真集《何色》封面",
-     "source": "https://books.rakuten.co.jp/rb/16609472/",
+     "source": "",
      "asset": "x030ec0111c4b3bb5",
      "resolution": ""
     }
@@ -10415,7 +10415,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301477326.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -10424,7 +10424,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301477326.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xd71a4449e33a4832"
     }
    ],
@@ -10679,7 +10679,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://auctions.yahoo.co.jp/search/search?p=%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E6%AF%8E%E6%97%A5+%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -10688,7 +10688,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0714/4910200710714_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xc19e115a86d802d8",
      "resolution": ""
     }
@@ -10784,7 +10784,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301486219.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -10793,7 +10793,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301486219.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x3ce9488cc83c6ea4"
     }
    ],
@@ -10993,7 +10993,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301490992.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -11002,7 +11002,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301490992.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xf4f344e1528c0e1e"
     }
    ],
@@ -11122,7 +11122,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301493538.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -11131,7 +11131,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301493538.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x6b8291acc62c3db4"
     }
    ],
@@ -11323,7 +11323,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301497383.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -11332,7 +11332,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301497383.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x15e2a5173979c190"
     }
    ],
@@ -11488,7 +11488,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/16989455/",
+   "url": "",
    "note": "",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -11497,7 +11497,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0222/4910179070222_1_3.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/16989455/",
+     "source": "",
      "asset": "x40f2f778d8c385be",
      "resolution": ""
     }
@@ -11669,7 +11669,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301500593.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -11678,7 +11678,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301500593.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x750a9ab29f1f5b9c"
     }
    ],
@@ -11722,7 +11722,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/",
+   "url": "",
    "note": "WiNK UP 2022年3月号，封面Aぇ! group；楽天简介未列东启介。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -11731,7 +11731,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0326/4910018570326_1_3.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x6eb3aa14558d345f",
      "resolution": ""
     }
@@ -11953,7 +11953,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301505621.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -11962,7 +11962,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301505621.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x5016cfe31e25eedd"
     }
    ],
@@ -12038,7 +12038,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301507635.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/FSiZFh2aMAAvf9P?format=jpg&name=large",
@@ -12168,7 +12168,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301509861.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -12177,7 +12177,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301509861.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x78f490f3a5734835"
     }
    ],
@@ -12336,7 +12336,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://7net.omni7.jp/general/watanabeprobro.html",
+   "url": "",
    "note": "事务所每月新作生写真套装，东启介至少自2022年起每月参加；7net 预约，部分在 animate 店头贩售。",
    "status": "WE Goods Info 官方推文确认",
    "origin": "2026.11.17补充",
@@ -12352,7 +12352,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
      "caption": "7net 公开商品图",
-     "source": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+     "source": "",
      "asset": "xe65e91da7c009505",
      "resolution": ""
     }
@@ -12530,7 +12530,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301516194.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -12539,7 +12539,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301516194.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xcb5122286dc561df"
     }
    ],
@@ -12643,7 +12643,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4837/9784867014837_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x651dfad18757a25f",
      "resolution": ""
     }
@@ -13264,7 +13264,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110634988.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xac514bd2c7f13b9f"
     },
     {
@@ -13384,7 +13384,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/B00AN571SG",
+   "url": "",
    "note": "封面King & Prince；亚马逊简介未列内页名单。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -13393,14 +13393,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/91Au7lNuR9L.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/B00AN571SG",
+     "source": "",
      "asset": "xdd0c33bdcd5542d8",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0234/4910018570234_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xeae4ff0e4eabef16",
      "resolution": ""
     }
@@ -13481,7 +13481,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110635880.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/Fo-L6GNaQAE0ByI?format=jpg&name=large",
@@ -13703,7 +13703,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/TV%E3%82%AC%E3%82%A4%E3%83%89Stage%20Stars%20vol.21%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -13712,7 +13712,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/5698/9784867015698_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x7e864d514d1a38f5",
      "resolution": ""
     }
@@ -13732,7 +13732,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://search.rakuten.co.jp/search/mall/%E3%81%88%E3%82%93%E3%81%B6%202023%E5%B9%B44%E6%9C%88%E5%8F%B7%20%E6%9D%B1%E5%95%93%E4%BB%8B/",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -13741,7 +13741,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0438/4910020630438_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xac312fc1fb56fa02",
      "resolution": ""
     }
@@ -13912,7 +13912,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110637888.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -13921,7 +13921,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110637888.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x1c37b8a5521a336f"
     }
    ],
@@ -14523,7 +14523,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4867016462",
+   "url": "",
    "note": "亚马逊简介未见东启介，待核。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -14532,14 +14532,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/61TL27fNPUL.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/4867016462",
+     "source": "",
      "asset": "x0a27d24f035726e5",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/6466/9784867016466_1_3.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xfecdb87218693ba6",
      "resolution": ""
     }
@@ -15116,7 +15116,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": false,
-   "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110642291.jpg",
+   "url": "",
    "note": "ワタナベ商店（7net）当月的WE官方生写真套组。",
    "status": "已结束",
    "origin": "骏河屋商品资料",
@@ -15125,7 +15125,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110642291.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x56d95b2c711f80f7"
     }
    ],
@@ -15944,7 +15944,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110643872.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/F--EC8pbYAA3Skk?format=jpg&name=large",
@@ -16125,7 +16125,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/17694186/",
+   "url": "",
    "note": "《TOHO MUSICAL LAB.》。",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -16134,7 +16134,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1239/4910294571239_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/17694186/",
+     "source": "",
      "asset": "x88251796a71e5e22",
      "resolution": ""
     }
@@ -16505,7 +16505,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=%E6%9D%B1%E5%95%93%E4%BB%8B%20%E5%8A%A0%E8%97%A4%E5%A4%A7%E6%82%9F%20POTATO%202024%E5%B9%B42%E6%9C%88%E5%8F%B7",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -16514,7 +16514,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0241/4910180390241_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x0a4be314fd37d605",
      "resolution": ""
     }
@@ -16542,7 +16542,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110644893.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x66c8703ce71cdfbb"
     },
     {
@@ -16703,7 +16703,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645476.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GCMSEzJbMAAyDFF?format=jpg&name=large",
@@ -17116,7 +17116,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645934.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GE_OH5QakAA5klx?format=jpg&name=large",
@@ -17289,7 +17289,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=TV%E3%82%AC%E3%82%A4%E3%83%89%20Stage%20Stars%20vol.25%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -17298,7 +17298,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/7777/9784867017777_1_3.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xfdaf706699ad3f2f",
      "resolution": ""
     }
@@ -17398,7 +17398,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110647337.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xf143994d3095fbf6"
     },
     {
@@ -17522,7 +17522,7 @@ window.ARCHIVE = {
     {
      "url": "https://neown.tokyo/wp-content/uploads/2024/03/1_20240117_neown_007_2500-1024x683.jpg",
      "caption": "NEOWN 专访内文照",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x110412f9e7982409",
      "resolution": "1024×683"
     }
@@ -17802,7 +17802,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110649206.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GMY-lGraMAAp9vi?format=jpg&name=large",
@@ -17965,7 +17965,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110651558.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GRX0KERaYAAWb8X?format=jpg&name=large",
@@ -18039,7 +18039,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110652908.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GTtfXs4aoAASpHP?format=jpg&name=large",
@@ -18069,7 +18069,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://jp.mercari.com/search?keyword=POTATO%202024.11%20%E6%9D%B1%E5%95%93%E4%BB%8B",
+   "url": "",
    "note": "",
    "status": "",
    "origin": "2026.11.17补充",
@@ -18078,7 +18078,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1149/4910180391149_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xf51b31f32dcedffe",
      "resolution": ""
     }
@@ -18106,7 +18106,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110654289.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xce681f1db6fae0b9"
     },
     {
@@ -18225,7 +18225,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110655808.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GYxhOm0a4AABw1n?format=jpg&name=large",
@@ -18474,7 +18474,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110656745.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GbRBq0oakAYkHXZ?format=jpg&name=large",
@@ -18584,7 +18584,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://books.rakuten.co.jp/rb/18060821/",
+   "url": "",
    "note": "另有增刊特别版；东启介、有泽樟太郎、甲斐翔真、松下优也。 2423号：四人各自单人采访＋查理组、劳拉组双卡对谈。anan官方X：https://x.com/anan_mag/status/1859154722306798025",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
@@ -18593,14 +18593,14 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1148/4910204841148_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/18060821/",
+     "source": "",
      "asset": "x2b9802a9e1242dff",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1143/4910204891143_1_2.jpg",
      "caption": "anan増刊 スペシャルエディション 封面",
-     "source": "https://books.rakuten.co.jp/rb/18060822/",
+     "source": "",
      "asset": "x4f16a62751eeed24"
     },
     {
@@ -18626,7 +18626,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4838794568",
+   "url": "",
    "note": "《长靴皇后》东启介×有泽樟太郎×甲斐翔真×松下优也。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -18635,14 +18635,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/71mmjbDaQ0L.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/4838794568",
+     "source": "",
      "asset": "xa3a14498e57e7299",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4560/9784838794560_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "xfdbf87735e7b6b47",
      "resolution": ""
     }
@@ -18670,7 +18670,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110657940.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GddFG6-WAAA6dm5?format=jpg&name=large",
@@ -18826,7 +18826,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.amazon.co.jp/dp/4863884788",
+   "url": "",
    "note": "《长靴皇后》东启介＆有泽樟太郎、甲斐翔真＆松下优也。",
    "status": "",
    "origin": "2026.11.17补充",
@@ -18835,14 +18835,14 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/81Rc+K3DSRL.jpg",
      "caption": "封面",
-     "source": "https://www.amazon.co.jp/dp/4863884788",
+     "source": "",
      "asset": "xa775e42a23b18d55",
      "resolution": ""
     },
     {
      "url": "https://tshop.r10s.jp/book/cabinet/4786/9784863884786_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/",
+     "source": "",
      "asset": "x5c19bf20acf7ea39",
      "resolution": ""
     }
@@ -18897,7 +18897,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110658820.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GglCWW5agAEHyfp?format=jpg&name=large",
@@ -19155,7 +19155,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110659587.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/Gi08SFYaMAAqQZH?format=jpg&name=large",
@@ -19272,7 +19272,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110661625.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x0f74c409f2806f2a"
     },
     {
@@ -19452,7 +19452,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110663420.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/Gna7FgxakAAu6kg?format=jpg&name=large",
@@ -19717,7 +19717,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110665401.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xd36097fceb661186"
     },
     {
@@ -19837,7 +19837,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110667077.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GsZ8jUFbsAAtZoP?format=jpg&name=large",
@@ -19966,7 +19966,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110669215.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x41233db5d463bc13"
     },
     {
@@ -20193,7 +20193,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110671844.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/GxO-ibnaIAEiCIn?format=jpg&name=large",
@@ -20310,7 +20310,7 @@ window.ARCHIVE = {
     {
      "url": "https://m.media-amazon.com/images/I/71FaaACgKZL._AC_SL1417_.jpg",
      "caption": "CD封面",
-     "source": "https://www.amazon.co.jp/dp/B0FKBN1S6M",
+     "source": "",
      "asset": "xa228156cc32e56f6",
      "resolution": ""
     },
@@ -20426,7 +20426,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110676382.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x857a2aa9db721ab3"
     },
     {
@@ -20505,7 +20505,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110679260.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）"
+     "source": ""
     },
     {
      "url": "https://pbs.twimg.com/media/G4gFo2GakAAwKG1?format=jpg&name=large",
@@ -20636,7 +20636,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110680987.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x1fb8473ca8560c74"
     },
     {
@@ -20716,7 +20716,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110681835.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x45fc562cdb0166e5"
     },
     {
@@ -20790,7 +20790,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110688644.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xd7b6b2659fc3425e"
     },
     {
@@ -20857,7 +20857,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110690616.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x257847010209953c"
     },
     {
@@ -20889,7 +20889,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693068.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x44e05f838a6bda18"
     },
     {
@@ -20921,7 +20921,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110693994.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x863c4a6f93c92148"
     },
     {
@@ -20982,7 +20982,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110695272.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "x5d91c88fc45c4d1c"
     },
     {
@@ -21455,7 +21455,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190050196.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xa4055f4412823168"
     },
     {
@@ -21517,7 +21517,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/0965/4912240130965_1_2.jpg",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/18779957/",
+     "source": "",
      "asset": "x1f12c44c39b8f4ad",
      "resolution": ""
     }
@@ -22194,7 +22194,7 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
      "caption": "7net 官方商品图",
-     "source": "ワタナベ商店（7net）",
+     "source": "",
      "asset": "xe65e91da7c009505"
     }
    ],
@@ -22220,7 +22220,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1160/4912240131160_1_2.jpg",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/18863578/",
+     "source": "",
      "asset": "xc54fb457f47b3e09",
      "resolution": ""
     }
@@ -22362,7 +22362,7 @@ window.ARCHIVE = {
    "role": "岭高华武利（嶺髙華武利）／假面骑士Maou（仮面ライダーマオウ）",
    "crew": "",
    "key": false,
-   "url": "https://books.rakuten.co.jp/rb/18881389/",
+   "url": "",
    "note": "封面要目列有《仮面ライダーマイス》，内页刊登东启介饰演的嶺高華武利。",
    "status": "已发售",
    "origin": "用户提供",
@@ -22371,7 +22371,7 @@ window.ARCHIVE = {
     {
      "url": "https://tshop.r10s.jp/book/cabinet/1263/4912015771263_1_2.jpg?downsize=600:*",
      "caption": "封面",
-     "source": "https://books.rakuten.co.jp/rb/18881389/",
+     "source": "",
      "asset": "x669df58e71fe5ca1",
      "resolution": ""
     }
