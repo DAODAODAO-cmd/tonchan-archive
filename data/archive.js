@@ -6295,12 +6295,36 @@ window.ARCHIVE = {
    "role": "山田羽仁男（山田羽仁男，主演）",
    "crew": "编剧／导演：ノゾエ征爾",
    "key": "inochi",
-   "url": "https://stage.parco.jp/program/inochi/",
+   "url": "https://stage.parco.jp/web/play/inochi/",
    "note": "2018 PARCO PRODUCE“三島×MISHIMA”之一，原作三岛由纪夫，ノゾエ征爾编导。东京サンシャイン劇場 11/24–12/9，大阪森ノ宮ピロティホール 12/22。这是他第一部纯话剧（不唱歌的戏）。他演27岁的广告文案羽仁男：某天突然想死，登了“命売ります”的广告，结果每次都死不成，反倒被一个个来买命的怪人拖着越活越起劲。台词里有一句“…生きてますから、誰かまた買いに来てください、命。”和上村海成演的少年薫（为吸血鬼母亲来买他的命）之间那种像父子又不像的关系，是官方点名的看点。共演馬渕英里何、莉奈、樹里咲穂、温水洋一等。",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
    "images": [
+    {
+     "url": "https://stage.parco.jp/web/play/inochi/assets/images/main_04.jpg",
+     "caption": "官方特设页主视觉：东启介",
+     "source": "https://stage.parco.jp/web/play/inochi/",
+     "asset": "x9f19438ead9548ad",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://stage.parco.jp/web/play/inochi/assets/images/story_img07.png",
+     "caption": "官方特设页角色图：羽仁男",
+     "source": "https://stage.parco.jp/web/play/inochi/",
+     "asset": "x9ff4a4734fed9bf8",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://stage.parco.jp/web/play/inochi/assets/images/cast_02.jpg",
+     "caption": "官方特设页演员照",
+     "source": "https://stage.parco.jp/web/play/inochi/",
+     "asset": "xbf3071300a44f0aa",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://stage.parco.jp/image/parcoplay/store/storage/s_inochi_photo2.jpg",
      "caption": "剧照：山田羽仁男",
@@ -6351,9 +6375,10 @@ window.ARCHIVE = {
     },
     {
      "url": "https://img.hmv.co.jp/hybridimage/eventpage/368139/main.jpg",
-     "caption": "公演主视觉（横版）",
+     "caption": "公演主视觉（横版，左一是东启介）",
      "source": "ローチケ",
-     "asset": "xb57fe4e550b7351e"
+     "asset": "xb57fe4e550b7351e",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -6363,8 +6388,9 @@ window.ARCHIVE = {
    "roleRoma": "YAMADA HANIO",
    "workRoma": "INOCHI URIMASU",
    "roleName": "山田羽仁男",
-   "cardPhoto": "assets/img/ext/1cade61dea6667bb.jpg",
-   "cardPhotoBg": "20% 14% / auto 230%"
+   "cardPhoto": "assets/img/ext/9f19438ead9548ad.jpg",
+   "cardPhotoBg": "20% 14% / auto 230%",
+   "cardPoster": "assets/img/ext/b57fe4e550b7351e.jpg"
   },
   {
    "id": "ost_hiden",
@@ -40432,7 +40458,10 @@ window.ARCHIVE = {
   "xd0699c19bd0fad2f": "assets/img/ext/d0699c19bd0fad2f.jpg",
   "x15659697d0803cb1": "assets/img/ext/15659697d0803cb1.jpg",
   "x899d2d7e597dbe1e": "assets/img/ext/899d2d7e597dbe1e.jpg",
-  "x0e5fba475d235908": "assets/img/ext/0e5fba475d235908.jpg"
+  "x0e5fba475d235908": "assets/img/ext/0e5fba475d235908.jpg",
+  "x9f19438ead9548ad": "assets/img/ext/9f19438ead9548ad.jpg",
+  "x9ff4a4734fed9bf8": "assets/img/ext/9ff4a4734fed9bf8.png",
+  "xbf3071300a44f0aa": "assets/img/ext/bf3071300a44f0aa.jpg"
  },
  "biliLeads": [
   {
