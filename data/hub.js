@@ -1144,7 +1144,7 @@ window.HUB = {
    "price": "每月4张一套（L判）",
    "image": "assets/img/ext/e65e91da7c009505.jpg",
    "points": [
-    "7net官方商品图，每月一张四张合拍，共58个月",
+    "7net官方商品图，每月一张四张合拍，共62个月",
     "不是每个月都有他：2026年10月阵容里没有他",
     "点小图看大图"
    ],
@@ -1232,9 +1232,24 @@ window.HUB = {
      "href": "assets/img/ext/f143994d3095fbf6.jpg"
     },
     {
+     "t": "2024.02",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645934.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645934.jpg"
+    },
+    {
+     "t": "2024.01",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645476.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645476.jpg"
+    },
+    {
      "t": "2023.12",
      "img": "assets/img/ext/66c8703ce71cdfbb.jpg",
      "href": "assets/img/ext/66c8703ce71cdfbb.jpg"
+    },
+    {
+     "t": "2023.11",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110643872.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110643872.jpg"
     },
     {
      "t": "2023.09",
@@ -1245,6 +1260,11 @@ window.HUB = {
      "t": "2023.04",
      "img": "assets/img/ext/1c37b8a5521a336f.jpg",
      "href": "assets/img/ext/1c37b8a5521a336f.jpg"
+    },
+    {
+     "t": "2023.02",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110635880.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110635880.jpg"
     },
     {
      "t": "2023.01",

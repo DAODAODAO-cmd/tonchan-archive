@@ -12478,6 +12478,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110635880.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/Fo-L6GNaQAE0ByI?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1625671835231875072",
@@ -14869,6 +14874,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110643872.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/F--EC8pbYAA3Skk?format=jpg&name=large",
      "caption": "本人发的生写真",
      "source": "https://x.com/keisuke_higashi/status/1724742374893781068",
@@ -15531,6 +15541,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645476.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/GCMSEzJbMAAyDFF?format=jpg&name=large",
      "caption": "WE官方生写真 2024年1月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1742742650464428271",
@@ -15929,6 +15944,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645934.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/GE_OH5QakAA5klx?format=jpg&name=large",
      "caption": "WE官方生写真 2024年2月 阵容宣传图",
