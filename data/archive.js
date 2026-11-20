@@ -875,18 +875,23 @@ window.ARCHIVE = {
    "role": "",
    "crew": "导演：板垣恭一",
    "key": "boyband",
-   "url": "https://ireikanata.com/contents/166664",
-   "note": "10月10日志木预演；东京10月15–25日；大阪10月31日。",
+   "url": "https://www.stagegate.jp/stagegate/performance/2015/boyband/",
+   "note": "彼得·基尔特编剧的百老汇音乐剧，讲五人男子组合和想捧红他们的经纪团队。10月10日志木预演；东京よみうり大手町ホール10月15–25日；大阪10月31日。演出板垣恭一，共演平野良、大山真志、碓井将大、味方良介、藤田玲、KEN（S☆RUSH）、伊礼彼方、苍乃夕妃、新纳慎也。",
    "status": "",
    "origin": "",
    "dateKind": "作品首演日",
    "images": [
     {
-     "url": "https://ireikanata.com/s3/skiyaki/uploads/ckeditor/pictures/153915/content_BOYbanD730_omote-1-212x300.jpg",
-     "caption": "官方作品传单",
-     "source": "https://ireikanata.com/contents/166664",
-     "asset": "53bafdd54a872d3a",
-     "resolution": "212 × 300"
+     "url": "https://www.stagegate.jp/stagegate/performance/2015/boyband/img/main_img.jpg",
+     "caption": "官方传单正面（左下是东启介和KEN）",
+     "source": "https://www.stagegate.jp/stagegate/performance/2015/boyband/",
+     "asset": "xe1794eeee035d322"
+    },
+    {
+     "url": "https://www.stagegate.jp/stagegate/performance/2015/boyband/img/main_img2.jpg",
+     "caption": "官方传单背面",
+     "source": "https://www.stagegate.jp/stagegate/performance/2015/boyband/",
+     "asset": "x6de087a4b36522d0"
     }
    ],
    "videos": [],
@@ -39952,7 +39957,9 @@ window.ARCHIVE = {
   "x19f9f26b52806d7d": "assets/img/ext/19f9f26b52806d7d.jpg",
   "xed5dc3987a704aac": "assets/img/ext/ed5dc3987a704aac.jpg",
   "x38738a983f5fa139": "assets/img/ext/38738a983f5fa139.jpg",
-  "xbf163ff666f86806": "assets/img/ext/bf163ff666f86806.jpg"
+  "xbf163ff666f86806": "assets/img/ext/bf163ff666f86806.jpg",
+  "xe1794eeee035d322": "assets/img/ext/e1794eeee035d322.jpg",
+  "x6de087a4b36522d0": "assets/img/ext/6de087a4b36522d0.jpg"
  },
  "biliLeads": [
   {
