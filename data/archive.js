@@ -3791,8 +3791,20 @@ window.ARCHIVE = {
      "url": "https://www.youtube.com/watch?v=jkMwyyx94uM"
     },
     {
+     "title": "Club Slazy Extra Invitation 第一集（B站搬运，无字幕）",
+     "url": "https://www.bilibili.com/video/BV15t411x7R4/"
+    },
+    {
+     "title": "Club Slazy Extra Invitation 第二集（B站搬运，无字幕）",
+     "url": "https://www.bilibili.com/video/BV1Et411x7WN/"
+    },
+    {
      "title": "「Club SLAZY Extra invitaion ～Malachite～」最終話",
      "url": "https://www.bilibili.com/video/BV1NW411x7j7/"
+    },
+    {
+     "title": "Club Slazy Extra Invitation 第四集（B站搬运，无字幕）",
+     "url": "https://www.bilibili.com/video/BV1zt411x7Xi/"
     }
    ],
    "pending": false,
@@ -35607,6 +35619,27 @@ window.ARCHIVE = {
    "uploadDate": "2023-11-24",
    "dateLabel": "2023 公开",
    "asset": ""
+  },
+  {
+   "id": "BV1zt411x7Xi",
+   "title": "Club Slazy Extra Invitation 第四集 (无字幕)",
+   "channel": "Natsume98",
+   "type": "舞台／剧集",
+   "sourceType": "转载",
+   "years": [
+    "2019"
+   ],
+   "url": "https://www.bilibili.com/video/BV1zt411x7Xi/",
+   "thumbnail": "https://i2.hdslb.com/bfs/archive/c5b1c4548b0f94703a4cd3636c99a397fb0f6ca7.jpg",
+   "playlists": [],
+   "platform": "B站",
+   "rel": "B站有｜2026.11.21补充",
+   "source": "https://www.bilibili.com/video/BV1zt411x7Xi/",
+   "uploadDate": "2019-01-05",
+   "dateLabel": "2019.01.05 B站上传",
+   "asset": "xac16ff36189f152e",
+   "duration": "27:22",
+   "available": true
   }
  ],
  "playlists": [
@@ -39886,7 +39919,8 @@ window.ARCHIVE = {
   "xc59ac63940f236e1": "assets/img/ext/c59ac63940f236e1.webp",
   "x8f6c8efec75647fc": "assets/img/ext/8f6c8efec75647fc.webp",
   "xe73f326e56a84acc": "assets/img/ext/e73f326e56a84acc.webp",
-  "x2d4b5ea0b9129b3c": "assets/img/ext/2d4b5ea0b9129b3c.webp"
+  "x2d4b5ea0b9129b3c": "assets/img/ext/2d4b5ea0b9129b3c.webp",
+  "xac16ff36189f152e": "assets/img/ext/ac16ff36189f152e.jpg"
  },
  "biliLeads": [
   {
