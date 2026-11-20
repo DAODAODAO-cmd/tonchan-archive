@@ -14728,6 +14728,34 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1026/DSC_7647.jpg",
+     "caption": "开幕舞台照：东启介",
+     "source": "https://natalie.mu/stage/news/546727",
+     "asset": "xcf121f03e764c871",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1026/DSC_7692_re.jpg",
+     "caption": "开幕舞台照：左起槙尾ユウスケ、东启介、井桁弘恵、寺本莉緒",
+     "source": "https://natalie.mu/stage/news/546727",
+     "asset": "xadae77d11d480c8c",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1026/DSC_7658.jpg",
+     "caption": "开幕舞台照：四人对话场面",
+     "source": "https://natalie.mu/stage/news/546727",
+     "asset": "x19f9f26b52806d7d",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/1026/DSC_7689_re.jpg",
+     "caption": "开幕舞台照：左起槙尾ユウスケ、东启介、井桁弘恵、寺本莉緒",
+     "source": "https://natalie.mu/stage/news/546727",
+     "asset": "xed5dc3987a704aac",
+     "hasHigashi": true
+    },
+    {
      "url": "https://cdn-corpprod.pressidium.com/jp/wp-content/uploads/sites/5/news_20230904_thumb.jpg",
      "caption": "主办方发布的作品宣传图",
      "source": "https://www.aoi-pro.com/jp/news/20230904/43097/",
@@ -14757,7 +14785,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "cardPhoto": "assets/img/ext/cf121f03e764c871.jpg"
   },
   {
    "id": "qj97939",
@@ -39897,7 +39926,11 @@ window.ARCHIVE = {
   "x8f6c8efec75647fc": "assets/img/ext/8f6c8efec75647fc.webp",
   "xe73f326e56a84acc": "assets/img/ext/e73f326e56a84acc.webp",
   "x2d4b5ea0b9129b3c": "assets/img/ext/2d4b5ea0b9129b3c.webp",
-  "xac16ff36189f152e": "assets/img/ext/ac16ff36189f152e.jpg"
+  "xac16ff36189f152e": "assets/img/ext/ac16ff36189f152e.jpg",
+  "xcf121f03e764c871": "assets/img/ext/cf121f03e764c871.jpg",
+  "xadae77d11d480c8c": "assets/img/ext/adae77d11d480c8c.jpg",
+  "x19f9f26b52806d7d": "assets/img/ext/19f9f26b52806d7d.jpg",
+  "xed5dc3987a704aac": "assets/img/ext/ed5dc3987a704aac.jpg"
  },
  "biliLeads": [
   {
