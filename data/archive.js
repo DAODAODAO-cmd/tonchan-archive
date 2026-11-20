@@ -302,7 +302,7 @@ window.ARCHIVE = {
    "japanese": "ミュージカル『テニスの王子様』全国大会 青学vs立海",
    "role": "千岁千里（千歳千里）",
    "crew": "",
-   "key": "",
+   "key": "chitose",
    "url": "https://www.tennimu.com/second/play_2014rikkai/",
    "note": "",
    "status": "",
@@ -440,7 +440,6 @@ window.ARCHIVE = {
    "roleRoma": "CHITOSE SENRI",
    "workRoma": "ZENKOKU TAIKAI vs RIKKAI",
    "roleName": "千岁千里",
-   "cardHide": true,
    "cardPoster": "assets/img/ext/930df1b81e03ae44.jpg",
    "cardPhoto": "assets/img/ext/a645daf057f9ef27.jpg"
   },
