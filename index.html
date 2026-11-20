@@ -456,8 +456,8 @@ footer p{margin:4px 0}
 </div></footer>
 
 <script src="data/archive.js?v=1120u"></script>
-<script src="data/hub.js?v=1120u"></script>
-<script src="assets/media-index.js?v=1120r13"></script><script src="assets/media.js?v=1120r13"></script><script src="assets/audio.js?v=1120r13"></script><script src="assets/editorial-images.js?v=1120r13"></script><script src="assets/goods-sales.js?v=1120s"></script>
+<script src="data/hub.js?v=1120v"></script>
+<script src="assets/media-index.js?v=1120r13"></script><script src="assets/media.js?v=1120r13"></script><script src="assets/audio.js?v=1120r13"></script><script src="assets/editorial-images.js?v=1120u"></script><script src="assets/goods-sales.js?v=1120s"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -495,7 +495,7 @@ const UPK=up.map(e=>upKey(e.title));
 $('cal').innerHTML=up.length?up.map(e=>{const live=e.date<=today;const [y,m,d]=e.date.split('-');return '<a class="card ev'+(live?' live':'')+'" href="detail.html?id='+encodeURIComponent(e.id)+'"><div class="dt"><div class="m">'+(live?'进行中':(+m)+'月')+'</div><div class="d">'+(live?'●':(+d))+'</div><div class="y">'+y+'</div></div><div><span class="c">'+esc(e.category)+(e.end?' · 至 '+fmt(e.end):'')+'</span><b>'+esc(e.title)+'</b><p>'+(e._more?'另有 '+e._more+' 场相关活动（至 '+fmt(e._last)+'）':esc(e.role&&e.role!=='本人'?'饰 '+e.role:e.japanese))+'</p></div></a>'}).join(''):'<div class="empty">暂无已公布的未来日程</div>';
 
 /* news */
-const SHOPRE=/amazon\.|rakuten|mercari|fujisan|hmv\.co|7net|suruga|yahoo|tower\.jp/;const NEWS=H.news.filter(n=>!['杂志','采访'].includes(n.tag)).concat(A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today&&e.date>=H.news.map(n=>n.date).sort()[0]).map(e=>({date:e.date,tag:e.category==='杂志'?'杂志':'采访',title:e.title,text:'',url:SHOPRE.test(e.url||'')?'list.html?g=all#'+e.id:e.url})));/* 动态去重：近况卡和即将到来已经写到的事，非杂志/采访类消息不再重复列出 */const DUPK=[...NOWK,'麦斯》开播','十二支十色',...UPK];const NEWSH=NEWS.filter(n=>['杂志','采访'].includes(n.tag)||!DUPK.some(k=>n.title.includes(k)));const tags=['全部',...new Set(NEWSH.map(n=>n.tag))];let curTag='全部';
+const SHOPRE=/amazon\.|rakuten|mercari|fujisan|hmv\.co|7net|suruga|yahoo|tower\.jp/;const NEWS=H.news.filter(n=>!['杂志','采访'].includes(n.tag)).concat(A.events.filter(e=>['杂志','采访／连载'].includes(e.category)&&e.date<=today&&e.date>=H.news.map(n=>n.date).sort()[0]).map(e=>({date:e.date,tag:e.category==='杂志'?'杂志':'采访',title:e.title,text:'',url:SHOPRE.test(e.url||'')?'list.html?g=all#'+e.id:e.url})));/* 动态去重：近况卡和即将到来已经写到的事，非杂志/采访类消息不再重复列出 */const DUPK=[...NOWK,'麦斯》开播','十二支十色',...UPK];const NEWSH=NEWS.filter(n=>['杂志','采访','SNS'].includes(n.tag)||!DUPK.some(k=>n.title.includes(k)));const tags=['全部',...new Set(NEWSH.map(n=>n.tag))];let curTag='全部';
 function drawNews(){$('newsList').innerHTML=NEWSH.slice().sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>curTag==='全部'||n.tag===curTag).slice(0,document.documentElement.dataset.view==='home'&&MOB?3:(MOB?5:8)).map(n=>'<li><time>'+fmt(n.date)+'</time><div>'+tagHtml(n.tag)+'<a href="'+esc(window.archiveNewsUrl(n))+'"><b>'+esc(n.title)+'</b></a><p>'+esc(n.text)+'</p></div></li>').join('');$('newsFilters').innerHTML=tags.map(t=>'<button class="'+(t===curTag?'on':'')+'" data-t="'+esc(t)+'">'+esc(t)+'</button>').join('')}
 $('newsFilters').onclick=e=>{const b=e.target.closest('button');if(b){curTag=b.dataset.t;drawNews()}};drawNews();
 

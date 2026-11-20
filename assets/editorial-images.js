@@ -20,6 +20,8 @@
     const original=event.images||[];
     // Product/record editions keep their complete existing image collections.
     if(event.category==='周边'||window.ARCHIVE_AUDIO?.isEvent(event))return unique(original);
+    // 杂志、采访、活动、节目等非作品条目：原有的封面和配图全部保留，不做筛选
+    if(!['舞台','朗读剧','音乐剧','电视剧','电影','网络剧','动画电影'].includes(event.category))return unique(original);
     const photos=original.filter(image=>!isPoster(image)&&isPerson(event,image));
     if(event.cardPhoto)photos.unshift({url:event.cardPhoto,caption:event.roleName||event.role||'东启介角色造型',pos:event.cardPhotoPos,hasHigashi:true});
     const poster=event.cardPoster?{url:event.cardPoster,caption:'作品海报'}:original.find(isPoster);

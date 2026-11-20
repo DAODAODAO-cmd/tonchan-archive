@@ -245,7 +245,7 @@ window.HUB = {
   {
    "date": "2026-11-20",
    "tag": "SNS",
-   "title": "本人Instagram发了《ECHOES》通常版封面的拍摄花絮",
+   "title": "本人Instagram：《ECHOES》通常版封面的拍摄花絮",
    "text": "这张封面是拍摄第一天拍的，之后还会陆续放幕后和花絮。",
    "url": "https://www.instagram.com/keisuke_higashi_official/reel/Df9jDa9yRIf/"
   },
@@ -259,7 +259,7 @@ window.HUB = {
   {
    "date": "2026-11-16",
    "tag": "SNS",
-   "title": "本人Instagram发了FC写真集告知视频的NG花絮",
+   "title": "本人Instagram：FC写真集告知视频的NG花絮",
    "text": "镜头还没开就抢跑，被工作人员叫停后笑场；正式版在FC站（会员内容）。",
    "url": "https://www.instagram.com/keisuke_higashi_official/reel/DfzW4G2Saob/"
   },
@@ -348,11 +348,25 @@ window.HUB = {
    "url": "https://www.youtube.com/watch?v=HiW6nsnVHo8"
   },
   {
+   "date": "2026-10-14",
+   "tag": "SNS",
+   "title": "本人Instagram：随手拍：花",
+   "text": "用富士相机拍的花。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DeeX7udS7aa/"
+  },
+  {
    "date": "2026-10-13",
    "tag": "舞台",
    "title": "《王者天下Ⅱ：继承》博多座千秋乐，全公演结束",
    "text": "东京、大阪、福冈三地巡演，饰庞煖。",
    "url": "https://www.tohostage.com/kingdom2/"
+  },
+  {
+   "date": "2026-10-06",
+   "tag": "SNS",
+   "title": "本人Instagram：《王者天下Ⅱ》博多公演开幕，发了大阪公演的回忆照",
+   "text": "自己去不了博多，但心意一直在一起，祈祷能平安演到13日大千秋乐。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DeJ6KBTko-v/"
   },
   {
    "date": "2026-10-01",
@@ -376,6 +390,20 @@ window.HUB = {
    "url": "https://www.tohostage.com/kingdom2/"
   },
   {
+   "date": "2026-09-08",
+   "tag": "SNS",
+   "title": "本人Instagram：《SWAN》千秋乐",
+   "text": "全员都迎来千秋乐的一天。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DdC-6fDEtHE/"
+  },
+  {
+   "date": "2026-09-07",
+   "tag": "SNS",
+   "title": "本人Instagram：《SWAN》观剧感谢，剩最后3场",
+   "text": "有人首日、有人千秋乐，情绪很复杂的一天。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/Dc_OLcOklnY/"
+  },
+  {
    "date": "2026-09-06",
    "tag": "影视",
    "title": "《假面骑士麦斯》开播",
@@ -390,11 +418,25 @@ window.HUB = {
    "url": "https://strmweb.jp/archives/22701/"
   },
   {
+   "date": "2026-09-05",
+   "tag": "SNS",
+   "title": "本人Instagram：《假面骑士麦斯》开播",
+   "text": "「来週からもよろしくお願いしマオウ」。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/Dc7TbRbyGZq/"
+  },
+  {
    "date": "2026-09-04",
    "tag": "舞台",
    "title": "朗读剧《SWAN：Ballet cross Reading》开演",
    "text": "新国立剧场 中剧场，至9月9日；饰演草壁飞翔。",
    "url": "https://swan-balletcrossreading.com/"
+  },
+  {
+   "date": "2026-09-04",
+   "tag": "SNS",
+   "title": "本人Instagram：《SWAN》首日顺利结束",
+   "text": "说是新的朗读剧形式；渡边小姐送了他一双芭蕾舞鞋。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/Dc3eLmqkjwn/"
   },
   {
    "date": "2026-09-02",
@@ -411,6 +453,27 @@ window.HUB = {
    "url": "https://engeki-audience.com/article/detail/23194/"
   },
   {
+   "date": "2026-08-29",
+   "tag": "SNS",
+   "title": "本人Instagram：和羌瘣役山本千寻的合照（王者天下Ⅱ）",
+   "text": "每次看她的动作戏都在学习，能和她对打很感激。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DcoBlRmksUi/"
+  },
+  {
+   "date": "2026-08-22",
+   "tag": "SNS",
+   "title": "本人Instagram：和蒙毅役竹内將人的合照（王者天下Ⅱ）",
+   "text": "男子乐屋一直很热闹。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DcV-HwBEqcS/"
+  },
+  {
+   "date": "2026-08-20",
+   "tag": "SNS",
+   "title": "本人Instagram：隔10天回到《王者天下Ⅱ》，和两位信的合照",
+   "text": "感觉大家的热量一直在往上涨。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DcQ8EuJEhwu/"
+  },
+  {
    "date": "2026-08-09",
    "tag": "舞台",
    "title": "《王者天下Ⅱ：继承》开幕",
@@ -425,11 +488,39 @@ window.HUB = {
    "url": "https://bluelock-movie.jp/"
   },
   {
+   "date": "2026-08-07",
+   "tag": "SNS",
+   "title": "本人Instagram：电影《蓝色监狱》上映",
+   "text": "说遇到马狼照英这个角色让自己成长了很多。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DbvM8blEp_i/"
+  },
+  {
    "date": "2026-07-17",
    "tag": "舞台",
    "title": "刀舞《陽伝》主视觉、角色视觉公开",
    "text": "燭台切光忠时隔八年回归；同时公布票务信息。",
    "url": "https://www.toukenranbu.jp/topics/5304/"
+  },
+  {
+   "date": "2026-07-17",
+   "tag": "SNS",
+   "title": "本人Instagram：刀舞《陽伝》烛台切光忠定妆",
+   "text": "久违的戏服和妆发，「痺れました」。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/Da4x7DOEhfM/"
+  },
+  {
+   "date": "2026-07-15",
+   "tag": "SNS",
+   "title": "本人Instagram：公布出演《假面骑士麦斯》岭高华武利／假面骑士Maou",
+   "text": "小时候每周都期待着看的系列，能出演很光荣。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/Da1sE-eEs78/"
+  },
+  {
+   "date": "2026-07-13",
+   "tag": "SNS",
+   "title": "本人Instagram：电影《蓝色监狱》世界首映感谢",
+   "text": "自己看了成片，重新感受到所有参与者的热量。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DavKutPkplr/"
   },
   {
    "date": "2026-07-10",
@@ -439,11 +530,74 @@ window.HUB = {
    "url": "https://www.youtube.com/watch?v=0hsF8IqwY1o"
   },
   {
+   "date": "2026-06-30",
+   "tag": "SNS",
+   "title": "本人Instagram：随手拍：久违的晴天",
+   "text": "顺便为世界杯日本队写了几句：不甘心，但谢谢感动。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DaM2w96SHwv/"
+  },
+  {
+   "date": "2026-06-25",
+   "tag": "SNS",
+   "title": "本人Instagram：随手拍：蒲公英",
+   "text": "",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DaB8cQ-SjYi/"
+  },
+  {
+   "date": "2026-06-07",
+   "tag": "SNS",
+   "title": "本人Instagram：随手拍：天放晴了？",
+   "text": "X-Pro2 拍的。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DZUHZOkS14X/"
+  },
+  {
    "date": "2026-05-22",
    "tag": "舞台",
    "title": "确定出演《王者天下Ⅱ：继承》，饰演庞煖",
    "text": "与章平双卡司。东京、大阪、福冈三地上演。",
    "url": "https://www.tohostage.com/kingdom2/castsche.html"
+  },
+  {
+   "date": "2026-05-15",
+   "tag": "SNS",
+   "title": "本人Instagram：去看了 &TEAM 的演出",
+   "text": "「K はさすが」，说太帅了。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DYW8ltgkmeO/"
+  },
+  {
+   "date": "2026-05-13",
+   "tag": "SNS",
+   "title": "本人Instagram：电影《蓝色监狱》马狼照英新视觉",
+   "text": "",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DYRtxYAy_k_/"
+  },
+  {
+   "date": "2026-05-12",
+   "tag": "SNS",
+   "title": "本人Instagram：公布出演电影《蓝色监狱》马狼照英",
+   "text": "带着对原作的尊重，用全力演了这个「King」。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DYPIbtLS-eo/"
+  },
+  {
+   "date": "2026-04-05",
+   "tag": "SNS",
+   "title": "本人Instagram：随手拍：最近常去接触绿色",
+   "text": "「みんな、元気？」",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DWx9C73ksZJ/"
+  },
+  {
+   "date": "2026-02-04",
+   "tag": "SNS",
+   "title": "本人Instagram：《美しい日本に出会う旅》八丈岛篇",
+   "text": "第二次被邀请，天气、饭、景色、酒都太好，私下还想再去。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DUVeTDEEu79/"
+  },
+  {
+   "date": "2026-01-13",
+   "tag": "SNS",
+   "title": "本人Instagram：随手拍：「綺麗でした」",
+   "text": "富士 X-Pro2 拍的。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/p/DTcdfa3kuvN/"
   }
  ],
  "pastGoods": [
