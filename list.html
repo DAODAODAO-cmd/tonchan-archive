@@ -125,7 +125,7 @@ footer a{color:var(--sage)}
   <main id="out"></main>
 </div>
 <footer><div class="wrap">东启介资讯站 · 非官方</div></footer>
-<script src="data/archive.js?v=1120o"></script>
+<script src="data/archive.js?v=1120p"></script>
 <script src="data/hub.js?v=1120r1"></script>
 <script src="assets/media-index.js?v=1120r1"></script><script src="assets/media.js?v=1120r1"></script>
 <script>
@@ -137,7 +137,7 @@ const fmt=d=>d?d.replaceAll('-','.'):'';
 const WORKC=['舞台','音乐会','音乐剧','朗读剧','电视剧','电影','网络剧'];const PR=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图|封面|ytimg/i;const PICK=ims=>ims.find(i=>/角色照|角色图|角色视觉|角色写真|公式照|定妆|官方角色|人物照|扮相/.test(i.caption||'')&&!/ytimg/.test(i.url||''))||ims.find(i=>/剧照|舞台照|场面照|幕后/.test(i.caption||''))||ims.find(i=>!PR.test((i.caption||'')+' '+(i.url||'')))||ims[0];const thumbOf=e=>{const ims=e.images||[];if(WORKC.includes(e.category)){if(e.cardPhoto)return {url:e.cardPhoto,caption:e.title};return PICK(ims)}return ims[0]};const imgOf=im=>im?window.archiveMediaUrl((im.asset&&A.assets[im.asset])||im.url||''):'';
 /* 分类：作品 / 媒体 / 其他 三组；ls=横版卡片 */
 const G={
-  all:{t:'全部编年',en:'ARCHIVE',d:'从出道到现在，按时间排，上面可以按类别筛。'},
+  all:{t:'演艺年表',en:'ARCHIVE',d:'从出道到现在，按时间排，上面可以按类别筛。'},
   stage:{t:'舞台',en:'STAGE',cats:['舞台','朗读剧']},
   screen:{t:'影视',en:'SCREEN',cats:['电视剧','网络剧','电影','动画电影'],ls:1},
   live:{t:'音乐会',en:'LIVE',cats:['音乐会'],ls:1},
@@ -189,6 +189,7 @@ if(location.hash){setTimeout(()=>{const el=document.getElementById(decodeURIComp
 <nav class="tabbar" aria-label="快捷导航"><a href="index.html"><svg viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5"/><path d="M6.5 10v9h11v-9"/></svg><span>首页</span></a><a data-g="schedule" href="list.html?g=schedule"><svg viewBox="0 0 24 24"><rect x="4" y="5.5" width="16" height="14" rx="3"/><path d="M4 10h16M9 3.5v4M15 3.5v4"/></svg><span>日程</span></a><a class="main" data-g="all" href="list.html?g=all"><svg viewBox="0 0 24 24"><path d="M6 4.5h12M6 9.5h12M6 14.5h12M6 19.5h8"/></svg><span>编年</span></a><a data-g="videos" href="list.html?g=videos"><svg viewBox="0 0 24 24"><rect x="3.5" y="6" width="17" height="12" rx="3"/><path d="M10.5 9.5v5l4-2.5z"/></svg><span>视频</span></a><a data-g="mag" href="list.html?g=mag"><svg viewBox="0 0 24 24"><path d="M6 4.5h9l3 3v12H6z"/><path d="M9 10h6M9 14h6"/></svg><span>杂志</span></a></nav>
 <script>(function(){var g=new URLSearchParams(location.search).get('g')||'all';document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){if(a.dataset.g===g&&!a.classList.contains('main'))a.classList.add('on')});document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){a.addEventListener('click',function(e){if(window.go){e.preventDefault();history.replaceState(null,'',a.href);window.go(a.dataset.g)}})})})();</script>
 <script src="assets/visit.js" defer></script>
+<script src="assets/browse-state.js?v=1120r1"></script>
 <script src="assets/navigation.js?v=1120r1"></script>
 </body>
 </html>

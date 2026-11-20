@@ -1,47 +1,7 @@
 [
   {
-    "url": "https://img.fujisan.co.jp/images/products/backnumbers/2213666_n.jpg",
-    "reason": "HTTP Error 404: Not Found"
-  },
-  {
     "url": "https://img.fujisan.co.jp/images/products/backnumbers/1507612_n.jpg",
     "reason": "HTTP Error 404: Not Found"
-  },
-  {
-    "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110635880.jpg",
-    "reason": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
-  },
-  {
-    "url": "https://img.fujisan.co.jp/images/products/backnumbers/2295085_n.jpg",
-    "reason": "HTTP Error 404: Not Found"
-  },
-  {
-    "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110643872.jpg",
-    "reason": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
-  },
-  {
-    "url": "https://img.fujisan.co.jp/images/products/backnumbers/2433554_n.jpg",
-    "reason": "HTTP Error 404: Not Found"
-  },
-  {
-    "url": "https://img.fujisan.co.jp/images/products/backnumbers/2579463_n.jpg",
-    "reason": "HTTP Error 404: Not Found"
-  },
-  {
-    "url": "https://img.fujisan.co.jp/images/products/backnumbers/2509150_n.jpg",
-    "reason": "The read operation timed out"
-  },
-  {
-    "url": "https://www.nntt.jac.go.jp/performance/rent/%E5%85%AB%E9%9B%B2%E6%9C%AC%E3%83%81%E3%83%A9%E3%82%B7%E8%A1%A8.jpg",
-    "reason": "The read operation timed out"
-  },
-  {
-    "url": "https://nicovideo.cdn.nimg.jp/thumbnails/35631479/35631479",
-    "reason": "HTTP Error 404: Not Found"
-  },
-  {
-    "url": "https://i2.hdslb.com/bfs/archive/3295aa4b1147d7564e8ea0dab57352979149b4d9.jpg",
-    "reason": "The read operation timed out"
   },
   {
     "url": "https://i.ytimg.com/vi/ujZPKUlxq08/hqdefault.jpg",

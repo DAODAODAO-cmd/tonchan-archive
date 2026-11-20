@@ -18341,6 +18341,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110663420.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/Gna7FgxakAAu6kg?format=jpg&name=large",
      "caption": "WE官方生写真 2025年4月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1906934385167011958",
@@ -18659,6 +18664,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110667077.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/GsZ8jUFbsAAtZoP?format=jpg&name=large",
      "caption": "WE官方生写真 2025年6月 阵容宣传图",
@@ -18997,6 +19007,11 @@ window.ARCHIVE = {
    "origin": "WE Goods Info",
    "dateKind": "month",
    "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110671844.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
     {
      "url": "https://pbs.twimg.com/media/GxO-ibnaIAEiCIn?format=jpg&name=large",
      "caption": "WE官方生写真 2025年8月 阵容宣传图",
