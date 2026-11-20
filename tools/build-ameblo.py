@@ -30,7 +30,7 @@ def parse(path):
     body = d.select_one('[data-uranus-component=entryBody], #entryBody, .articleText')
     blocks, buf, seen = [], [''], set()
     def flush():
-        s = re.sub(r'[ \t\u00a0]+', ' ', buf[0]); s = re.sub(r' *\n *', '\n', s); s = re.sub(r'\n{3,}', '\n\n', s).strip()
+        s = re.sub(r'[ \t\u00a0]+', ' ', buf[0]); s = re.sub(r' *\n *', '\n', s); s = re.sub(r'\n+', lambda m: '\n' if len(m.group(0)) <= 3 else '\n\n', s).strip()
         if s: blocks.append({'t': s})
         buf[0] = ''
     def walk(n):

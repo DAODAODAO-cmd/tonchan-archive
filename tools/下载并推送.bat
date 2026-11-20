@@ -11,8 +11,8 @@ if errorlevel 1 (
 )
 
 echo [2/3] 提交新图片...
-"%GIT%" add assets/img/ext
-"%GIT%" -c user.name=CJYP1 -c user.email=liyiren@mccsingapore.com.sg commit -q -m "补下载的图片" 2>nul
+"%GIT%" add assets/img/ext assets/img/blog
+"%GIT%" -c user.name=CJYP1 -c user.email=liyiren@mccsingapore.com.sg commit -q -m "补下载的图片"
 
 echo [3/3] 推送到 GitHub...
 "%GIT%" push
