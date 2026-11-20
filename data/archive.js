@@ -1691,6 +1691,10 @@ window.ARCHIVE = {
     {
      "title": "舞台『弱虫ペダル』～総北新世代、始動～ 公開ゲネプロをチラッと見せ",
      "url": "https://www.nicovideo.jp/watch/so28400916"
+    },
+    {
+     "title": "媒体取材影像（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV11s411y7xq/"
     }
    ],
    "pending": false,
@@ -2558,13 +2562,6 @@ window.ARCHIVE = {
      "caption": "［SMILE］",
      "source": "",
      "asset": "xfdeb5401f92d39f3"
-    },
-    {
-     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3189149.jpg",
-     "caption": "［COOL］",
-     "source": "",
-     "asset": "x71ff46f2929813d4",
-     "resolution": ""
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3253170.jpg",
@@ -42311,7 +42308,6 @@ window.ARCHIVE = {
   "x2fa55f38be5f2203": "assets/img/ext/2fa55f38be5f2203.jpg",
   "xd45239a4440dde9a": "assets/img/ext/d45239a4440dde9a.jpg",
   "xef6918dffd4fad03": "assets/img/ext/ef6918dffd4fad03.jpg",
-  "x71ff46f2929813d4": "assets/img/ext/71ff46f2929813d4.jpg",
   "x418804d2d3c91210": "assets/img/ext/418804d2d3c91210.jpg",
   "x573f9102d927921c": "assets/img/ext/573f9102d927921c.jpg",
   "x1d50b969d217433e": "assets/img/ext/1d50b969d217433e.jpg",

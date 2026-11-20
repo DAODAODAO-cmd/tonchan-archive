@@ -1289,11 +1289,6 @@ window.HUB = {
      "href": "assets/img/ext/ef5869eb0a773aa3.jpg"
     },
     {
-     "t": "〔IN〕",
-     "img": "assets/img/ext/20bae8ada339fa31.jpg",
-     "href": "assets/img/ext/20bae8ada339fa31.jpg"
-    },
-    {
      "t": "〔OUT〕",
      "img": "assets/img/ext/c112aa16124e1fe6.jpg",
      "href": "assets/img/ext/c112aa16124e1fe6.jpg"
@@ -1302,11 +1297,6 @@ window.HUB = {
      "t": "〔OUT〕",
      "img": "assets/img/ext/8b53df3219758cd7.jpg",
      "href": "assets/img/ext/8b53df3219758cd7.jpg"
-    },
-    {
-     "t": "〔OUT〕",
-     "img": "assets/img/ext/27e6d96f2491ce59.jpg",
-     "href": "assets/img/ext/27e6d96f2491ce59.jpg"
     }
    ]
   },
