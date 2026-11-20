@@ -1144,7 +1144,7 @@ window.HUB = {
    "price": "每月4张一套（L判）",
    "image": "assets/img/ext/e65e91da7c009505.jpg",
    "points": [
-    "7net官方商品图，每月一张四张合拍，共56个月",
+    "7net官方商品图，每月一张四张合拍，共57个月",
     "不是每个月都有他：2026年10月阵容里没有他",
     "点小图看大图"
    ],
@@ -1195,6 +1195,11 @@ window.HUB = {
      "t": "2025.12",
      "img": "assets/img/ext/1fb8473ca8560c74.jpg",
      "href": "assets/img/ext/1fb8473ca8560c74.jpg"
+    },
+    {
+     "t": "2025.11",
+     "img": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110679260.jpg",
+     "href": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110679260.jpg"
     },
     {
      "t": "2025.10",

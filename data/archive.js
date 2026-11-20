@@ -19222,6 +19222,11 @@ window.ARCHIVE = {
    "dateKind": "month",
    "images": [
     {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110679260.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    },
+    {
      "url": "https://pbs.twimg.com/media/G4gFo2GakAAwKG1?format=jpg&name=large",
      "caption": "WE官方生写真 2025年11月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1985542523205333199",
