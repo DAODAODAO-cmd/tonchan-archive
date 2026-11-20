@@ -15190,6 +15190,10 @@ window.ARCHIVE = {
     {
      "title": "官方X｜PV②",
      "url": "https://x.com/tohomusicallab/status/1730571000386068494"
+    },
+    {
+     "title": "CS卫星剧场 电视首播消息（PR TIMES，2024/4/27 播出）",
+     "url": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html"
     }
    ],
    "pending": false,
@@ -16588,33 +16592,6 @@ window.ARCHIVE = {
    "workRoma": "VIOLET",
    "roleName": "弗利克",
    "cardPhoto": "assets/img/ext/481b9e56e776fb51.jpg"
-  },
-  {
-   "id": "tv_desk_eigeki",
-   "date": "2024-04-27",
-   "end": "",
-   "category": "舞台",
-   "title": "《DESK》CS卫星剧场 电视首播",
-   "japanese": "TOHO MUSICAL LAB.「DESK」CS衛星劇場 テレビ初放送",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html",
-   "note": "2023年11月シアタークリエ公演，4/27 17:40–18:30播出，和《わたしを、褒めて》同日放送。",
-   "status": "已结束",
-   "origin": "2026.11.17 用户补充",
-   "dateKind": "日程",
-   "images": [
-    {
-     "url": "https://prcdn.freetls.fastly.net/release_image/6470/458/6470-458-c9f732ad6cffae82ae60f66fe3b8656c-3504x2336.jpg?format=jpeg&width=1950&height=1350&fit=bounds",
-     "caption": "舞台照",
-     "source": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html"
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
   },
   {
    "id": "bro_202405",
