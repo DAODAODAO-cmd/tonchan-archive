@@ -3335,13 +3335,13 @@ window.HUB = {
     },
     {
      "t": "随机徽章（B组）",
-     "img": "assets/img/ext/1673290b9f49ba3f.webp",
-     "href": "assets/img/ext/1673290b9f49ba3f.webp"
+     "img": "assets/img/ext/d9e718403b13f023.webp",
+     "href": "assets/img/ext/d9e718403b13f023.webp"
     },
     {
      "t": "随机伞标（B组）",
-     "img": "assets/img/ext/211759f7f3f6cc28.webp",
-     "href": "assets/img/ext/211759f7f3f6cc28.webp"
+     "img": "assets/img/ext/bd3b82f811d4ddee.webp",
+     "href": "assets/img/ext/bd3b82f811d4ddee.webp"
     },
     {
      "t": "万里一空刀绘卷（蛇腹写真书）",
