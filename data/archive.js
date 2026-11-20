@@ -35705,6 +35705,46 @@ window.ARCHIVE = {
    "uploadDate": "2026-09-11",
    "dateLabel": "2026 公开",
    "asset": ""
+  },
+  {
+   "id": "tYNOPzgg6Xw",
+   "title": "【刀ステ10周年】お祝いコメント動画(燭台切光忠役 東 啓介）",
+   "channel": "アニメ 音楽 2.5次元舞台 - マーベラス公式チャンネル",
+   "duration": "0:43",
+   "type": "采访／发布会",
+   "sourceType": "官方／机构",
+   "years": [
+    "2026"
+   ],
+   "url": "https://www.youtube.com/watch?v=tYNOPzgg6Xw",
+   "thumbnail": "https://i.ytimg.com/vi/tYNOPzgg6Xw/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "2026.11.20补充",
+   "source": "https://www.youtube.com/watch?v=tYNOPzgg6Xw",
+   "uploadDate": "2026-10-30",
+   "dateLabel": "2026 公开",
+   "asset": ""
+  },
+  {
+   "id": "a_FOaoIrez4",
+   "title": "舞台「ＤＥＳＫ」主演 東啓介（東宝ミュージカルラボ）",
+   "channel": "産経ニュース",
+   "duration": "1:00",
+   "type": "舞台／剧集",
+   "sourceType": "媒体原发布",
+   "years": [
+    "2023"
+   ],
+   "url": "https://www.youtube.com/watch?v=a_FOaoIrez4",
+   "thumbnail": "https://i.ytimg.com/vi/a_FOaoIrez4/hqdefault.jpg",
+   "playlists": [],
+   "platform": "YouTube",
+   "rel": "2026.11.20补充",
+   "source": "https://www.youtube.com/watch?v=a_FOaoIrez4",
+   "uploadDate": "2023-11-24",
+   "dateLabel": "2023 公开",
+   "asset": ""
   }
  ],
  "playlists": [
