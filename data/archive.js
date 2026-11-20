@@ -15513,6 +15513,30 @@ window.ARCHIVE = {
      "hasHigashi": true
     },
     {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1009.jpg",
+     "caption": "舞台照：和田晋吾（Confetti 开幕报道）",
+     "source": "https://magazine.confetti-web.com/news/report/49493/",
+     "asset": "x15659697d0803cb1",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di0652.jpg",
+     "caption": "舞台照：和田晋吾（Confetti 开幕报道）",
+     "source": "https://magazine.confetti-web.com/news/report/49493/",
+     "asset": "x899d2d7e597dbe1e",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/2023_11_22_9999_675.jpg",
+     "caption": "开幕前围访，穿着和田晋吾的戏服（Confetti）",
+     "source": "https://magazine.confetti-web.com/news/report/49493/",
+     "asset": "x0e5fba475d235908",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1005/LAB_kumi.jpg",
      "caption": "宣传海报",
      "source": "https://natalie.mu/profile/86678/news",
@@ -15615,13 +15639,17 @@ window.ARCHIVE = {
     {
      "title": "CS卫星剧场 电视首播消息（PR TIMES，2024/4/27 播出）",
      "url": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html"
+    },
+    {
+     "title": "Confetti：开幕报道与围访",
+     "url": "https://magazine.confetti-web.com/news/report/49493/"
     }
    ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
    "roleName": "和田晋吾",
-   "cardPhoto": "assets/img/aa3f247496387325.jpg"
+   "cardPhoto": "assets/img/ext/15659697d0803cb1.jpg"
   },
   {
    "id": "qj100047",
@@ -40401,7 +40429,10 @@ window.ARCHIVE = {
   "x28fcf7dda5eb0779": "assets/img/ext/28fcf7dda5eb0779.jpg",
   "x170f623cb3a2716b": "assets/img/ext/170f623cb3a2716b.jpg",
   "x50cd5a7c7e6e4fe0": "assets/img/ext/50cd5a7c7e6e4fe0.jpg",
-  "xd0699c19bd0fad2f": "assets/img/ext/d0699c19bd0fad2f.jpg"
+  "xd0699c19bd0fad2f": "assets/img/ext/d0699c19bd0fad2f.jpg",
+  "x15659697d0803cb1": "assets/img/ext/15659697d0803cb1.jpg",
+  "x899d2d7e597dbe1e": "assets/img/ext/899d2d7e597dbe1e.jpg",
+  "x0e5fba475d235908": "assets/img/ext/0e5fba475d235908.jpg"
  },
  "biliLeads": [
   {
