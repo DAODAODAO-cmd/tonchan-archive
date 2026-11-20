@@ -3310,7 +3310,7 @@ window.HUB = {
    "date": "2026-12-01",
    "price": "",
    "publisher": "舞台『刀剣乱舞』十年の軌跡展",
-   "image": "assets/img/goods/kiseki_badge_mitsutada.jpg",
+   "image": "assets/img/ext/4e66d6805653e575.webp",
    "points": [
     "本展新拍的照片做的周边，以下都有烛台切光忠（东启介）",
     "亚克力立牌 1,800円、手机挂片 1,300円（各70种，可直接挑）",
@@ -3334,9 +3334,9 @@ window.HUB = {
      "href": "assets/img/ext/ee351033011f402a.webp"
     },
     {
-     "t": "随机徽章（B组）烛台切光忠",
-     "img": "assets/img/goods/kiseki_badge_mitsutada.jpg",
-     "href": "assets/img/goods/kiseki_badge_mitsutada.jpg"
+     "t": "随机徽章（B组）",
+     "img": "assets/img/ext/dd31a3cc1996b038.webp",
+     "href": "assets/img/ext/dd31a3cc1996b038.webp"
     },
     {
      "t": "随机伞标（B组）",
