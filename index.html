@@ -423,8 +423,7 @@ footer p{margin:4px 0}
 <section class="sec" id="goods"><div class="wrap">
   <div class="sec-head"><h2><em>GOODS</em>周边</h2></div>
   <div class="filters" id="goodsTabs" role="group" aria-label="作品分类"></div>
-  <p class="goods-filter-label">销售状态</p>
-  <div class="sales-filters" id="goodsSales" role="group" aria-label="销售状态"></div>
+  <div id="goodsSales" hidden></div>
   <p class="goods-results" id="goodsResults" aria-live="polite"></p>
   <div id="goodsNow"><div class="goods" id="goodsGrid"></div></div>
 </div></section>
@@ -537,11 +536,10 @@ function drawGoods(){
   const sale=window.ARCHIVE_SALES;
   $('goodsTabs').innerHTML=GT.map(t=>'<button class="'+(t===gt?'on':'')+'" data-gt="'+t+'" aria-pressed="'+(t===gt)+'">'+t+'</button>').join('');
   const category=sale.records().filter(g=>gt==='全部'||wk(g)===gt||(gt==='音乐'&&/音乐会|演唱会|Concert|Connecting Puzzles|A NEW ME/i.test(g.title)));
-  $('goodsSales').innerHTML=Object.entries(sale.labels).map(([key,label])=>'<button type="button" data-gstatus="'+key+'" aria-pressed="'+(goodsStatus===key)+'">'+label+'</button>').join('');
-  const list=category.filter(g=>g._saleKeys.includes(goodsStatus)).sort((a,b)=>(b.date||'').localeCompare(a.date||''));
-  $('goodsResults').textContent=list.length+' 条周边'+(' · '+sale.labels[goodsStatus]);
+  const list=category.sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+  $('goodsResults').textContent=list.length+' 条周边 · 按时间从新到旧';
   const cut=gt==='全部'&&!gexp&&list.length>8;
-  $('goodsGrid').innerHTML=(cut?list.slice(0,8):list).map(gcard).join('')+(cut?'<button class="gmore" data-gmore="1">展开全部 '+list.length+' 件</button>':'')||'<div class="empty">'+('这个分类暂无“'+sale.labels[goodsStatus]+'”记录。')+'</div>';
+  $('goodsGrid').innerHTML=(cut?list.slice(0,8):list).map(gcard).join('')+(cut?'<button class="gmore" data-gmore="1">展开全部 '+list.length+' 件</button>':'')||'<div class="empty">这个分类暂无记录。</div>';
 }
 document.addEventListener('click',event=>{
   const category=event.target.closest('[data-gt]'),status=event.target.closest('[data-gstatus]');
