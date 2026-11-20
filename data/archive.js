@@ -2488,6 +2488,48 @@ window.ARCHIVE = {
      "caption": "［SMILE］",
      "source": "",
      "asset": "xfdeb5401f92d39f3"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3189149.jpg",
+     "caption": "［COOL］",
+     "source": "",
+     "asset": "x71ff46f2929813d4",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3253170.jpg",
+     "caption": "［COOL］",
+     "source": "",
+     "asset": "x418804d2d3c91210",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3416471.jpg",
+     "caption": "［COOL］",
+     "source": "",
+     "asset": "x573f9102d927921c",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3189150.jpg",
+     "caption": "［SMILE］",
+     "source": "",
+     "asset": "x1d50b969d217433e",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3253169.jpg",
+     "caption": "［SMILE］",
+     "source": "",
+     "asset": "xdbd47685a7ee8350",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3416472.jpg",
+     "caption": "［SMILE］",
+     "source": "",
+     "asset": "xacc4f91626a31526",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -6233,6 +6275,27 @@ window.ARCHIVE = {
      "caption": "剧照：科利乌斯",
      "source": "Marigold 官网",
      "asset": "x5fcfb0f738b4937d"
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg145115.jpg",
+     "caption": "个人生写真：科利乌斯",
+     "source": "",
+     "asset": "x2fa55f38be5f2203",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg145116.jpg",
+     "caption": "个人生写真：科利乌斯",
+     "source": "",
+     "asset": "xd45239a4440dde9a",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937055.jpg",
+     "caption": "After生写真 B套组",
+     "source": "",
+     "asset": "xef6918dffd4fad03",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -41535,7 +41598,16 @@ window.ARCHIVE = {
   "x17ea79065ef7faba": "assets/img/ext/17ea79065ef7faba.jpg",
   "x901e277c3caa134d": "assets/img/ext/901e277c3caa134d.jpg",
   "x0f80a45b6e367dfa": "assets/img/ext/0f80a45b6e367dfa.jpg",
-  "x8528bc71dc4be87b": "assets/img/ext/8528bc71dc4be87b.jpg"
+  "x8528bc71dc4be87b": "assets/img/ext/8528bc71dc4be87b.jpg",
+  "x2fa55f38be5f2203": "assets/img/ext/2fa55f38be5f2203.jpg",
+  "xd45239a4440dde9a": "assets/img/ext/d45239a4440dde9a.jpg",
+  "xef6918dffd4fad03": "assets/img/ext/ef6918dffd4fad03.jpg",
+  "x71ff46f2929813d4": "assets/img/ext/71ff46f2929813d4.jpg",
+  "x418804d2d3c91210": "assets/img/ext/418804d2d3c91210.jpg",
+  "x573f9102d927921c": "assets/img/ext/573f9102d927921c.jpg",
+  "x1d50b969d217433e": "assets/img/ext/1d50b969d217433e.jpg",
+  "xdbd47685a7ee8350": "assets/img/ext/dbd47685a7ee8350.jpg",
+  "xacc4f91626a31526": "assets/img/ext/acc4f91626a31526.jpg"
  },
  "biliLeads": [
   {
