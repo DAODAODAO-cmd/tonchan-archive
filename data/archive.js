@@ -19814,6 +19814,30 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_202611",
+   "date": "2026-11-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2026年11月〉",
+   "japanese": "WEオフィシャルブロマイド ～2026年11月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "https://x.com/we_goods_info/status/2117089419144622119",
+   "note": "",
+   "status": "已结束",
+   "origin": "WE Goods Info",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2190053499.jpg",
+     "caption": "7net 官方商品图",
+     "source": "ワタナベ商店（7net）"
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "bro_202609",
    "date": "2026-09-01",
    "category": "周边",
