@@ -607,7 +607,8 @@ window.ARCHIVE = {
      "caption": "演员照",
      "source": "https://www.marv.jp/special/m-hakuoki-reimeiroku/cast.html",
      "asset": "32773476fa14877c",
-     "resolution": "120 × 170"
+     "resolution": "120 × 170",
+     "hasHigashi": true
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4420798.jpg",
@@ -1034,7 +1035,8 @@ window.ARCHIVE = {
      "caption": "演员照",
      "source": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/cast.html",
      "asset": "32773476fa14877c",
-     "resolution": "120 × 170"
+     "resolution": "120 × 170",
+     "hasHigashi": true
     },
     {
      "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g4447257.jpg",
@@ -4294,7 +4296,8 @@ window.ARCHIVE = {
      "caption": "官网演员宣传照",
      "source": "https://www.umegei.com/matahari2018/",
      "asset": "7904c1e43705c5ac",
-     "resolution": "590 × 800"
+     "resolution": "590 × 800",
+     "hasHigashi": true
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2017/0901/mata01.jpg",
@@ -10387,7 +10390,8 @@ window.ARCHIVE = {
      "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "x35d854fa31eb47b6",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     }
    ],
    "videos": [
@@ -10673,14 +10677,16 @@ window.ARCHIVE = {
      "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "x9835083e60ecf95e",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     },
     {
      "url": "https://www.tbs.co.jp/fight_song_tbs2022/img/ogp.png?555",
      "caption": "宣传照",
      "source": "https://www.tbs.co.jp/fight_song_tbs2022/staff/",
      "asset": "627eca80ca2cf665",
-     "resolution": "1200 × 630"
+     "resolution": "1200 × 630",
+     "hasHigashi": true
     }
    ],
    "videos": [
@@ -11894,7 +11900,8 @@ window.ARCHIVE = {
      "caption": "专访单人照",
      "source": "ローチケ演劇宣言！",
      "asset": "0ad08f94d290331d",
-     "resolution": "1707 × 2560"
+     "resolution": "1707 × 2560",
+     "hasHigashi": true
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2022/0428/jerseyboys_2022.jpg",
@@ -12289,7 +12296,7 @@ window.ARCHIVE = {
    "dateKind": "",
    "images": [
     {
-     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
      "caption": "Confetti 排练场照片",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
      "asset": "x61d3f5e75eaf6f07",
@@ -12400,7 +12407,8 @@ window.ARCHIVE = {
      "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "x14695fb04868dff9",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     },
     {
      "url": "https://grand-arts.com/wp/wp-content/uploads/2022/09/ogp.png",
@@ -14065,7 +14073,8 @@ window.ARCHIVE = {
      "caption": "宣传照",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "xbfb1eb225b95b4a9",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -15177,7 +15186,8 @@ window.ARCHIVE = {
      "caption": "官方本人宣传照；DESK演员",
      "source": "https://www.tohostage.com/tohomusicallab/",
      "asset": "aa3f247496387325",
-     "resolution": "540 × 714"
+     "resolution": "540 × 714",
+     "hasHigashi": true
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1005/LAB_kumi.jpg",
@@ -15192,13 +15202,13 @@ window.ARCHIVE = {
      "source": "カンフェティ"
     },
     {
-     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1536.jpg",
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1536.jpg",
      "caption": "舞台照",
      "source": "カンフェティ",
      "asset": "x3f341e5fd7aa8df4"
     },
     {
-     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1612.jpg",
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1612.jpg",
      "caption": "舞台照",
      "source": "カンフェティ",
      "asset": "x406f1d97b4f4cecd"
@@ -15287,7 +15297,8 @@ window.ARCHIVE = {
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": [],
-   "roleName": "和田晋吾"
+   "roleName": "和田晋吾",
+   "cardPhoto": "assets/img/aa3f247496387325.jpg"
   },
   {
    "id": "qj100047",
@@ -15395,8 +15406,22 @@ window.ARCHIVE = {
    "dateKind": "作品首演日",
    "images": [
     {
-     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
-     "caption": "Confetti 排练场照片",
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0223-fotor-2023111644817-4.jpg",
+     "caption": "Confetti 排练场照片：东启介",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "xd053acc9ea93dc9f",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0215-fotor-2023111644555-1.jpg",
+     "caption": "Confetti 排练场照片：东启介",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "x07d6291cb256596c",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
+     "caption": "Confetti 排练场照片：东启介和斋藤瑠希",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
      "asset": "x1d0a73cb14d03bea",
      "hasHigashi": true,
@@ -15404,11 +15429,11 @@ window.ARCHIVE = {
      "resolution": ""
     },
     {
-     "url": "https://web.archive.org/web/2024id_/https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0233-fotor-2023111644916-1.jpg",
-     "caption": "Confetti 排练场照片",
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0429-fotor-2023111645537-1.jpg",
+     "caption": "Confetti 排练场照片：东启介和斋藤瑠希",
      "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "x61d3f5e75eaf6f07",
-     "resolution": ""
+     "asset": "xc48b8dddca6d4969",
+     "hasHigashi": true
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2023/1013/toritoodoru_cast.jpg",
@@ -15424,7 +15449,8 @@ window.ARCHIVE = {
    "playlistLinks": [],
    "roleRoma": "",
    "workRoma": "TORI TO ODORU",
-   "roleName": "鳥ト踊る"
+   "roleName": "鳥ト踊る",
+   "cardPhoto": "assets/img/ext/d053acc9ea93dc9f.jpg"
   },
   {
    "id": "mag_mc_52905210",
@@ -16417,7 +16443,7 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期",
    "images": [
     {
-     "url": "https://web.archive.org/web/2024id_/https://neown.tokyo/wp-content/uploads/2024/03/1_20240117_neown_007_2500-1024x683.jpg",
+     "url": "https://neown.tokyo/wp-content/uploads/2024/03/1_20240117_neown_007_2500-1024x683.jpg",
      "caption": "NEOWN 专访内文照",
      "source": "ワタナベ商店（7net）",
      "asset": "x110412f9e7982409",
@@ -17090,7 +17116,8 @@ window.ARCHIVE = {
      "url": "https://pbs.twimg.com/media/GZHud40aEAARG1g?format=jpg&name=large",
      "caption": "宣传照拍摄花絮（本人账号公开）",
      "source": "https://x.com/keisuke_higashi/status/1842515925322613157",
-     "asset": "x48e461d4c0aed7b6"
+     "asset": "x48e461d4c0aed7b6",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -18752,7 +18779,8 @@ window.ARCHIVE = {
      "caption": "东海电视台官方剧照",
      "source": "https://www.tokai-tv.com/oppan/",
      "asset": "x95c347a324969120",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     },
     {
      "url": "https://www.tokai-tv.com/oppan/ogp.png",
@@ -19508,6 +19536,13 @@ window.ARCHIVE = {
    "origin": "补充检索",
    "dateKind": "活动日",
    "images": [
+    {
+     "url": "https://stagenews25.jp/wp-content/uploads/2026/01/02_CDMC25-26-scaled.jpg",
+     "caption": "演出照：东启介（STAGE NEWS）",
+     "source": "https://stagenews25.jp/",
+     "asset": "x45fbe8682d8f21d3",
+     "hasHigashi": true
+    },
     {
      "url": "https://i.ytimg.com/vi/2DCSAh_hgrI/hqdefault.jpg",
      "caption": "视频封面：東啓介 コメント動画 カウントダウン ミュージカルコンサート",
@@ -39997,7 +40032,11 @@ window.ARCHIVE = {
   "x0b17b6dcfb094c97": "assets/img/ext/0b17b6dcfb094c97.jpg",
   "x2623b89587d2a9ab": "assets/img/ext/2623b89587d2a9ab.jpg",
   "xceb3ec10ff7cb9d4": "assets/img/ext/ceb3ec10ff7cb9d4.jpg",
-  "xbfc8f229f92eb097": "assets/img/ext/bfc8f229f92eb097.jpg"
+  "xbfc8f229f92eb097": "assets/img/ext/bfc8f229f92eb097.jpg",
+  "xd053acc9ea93dc9f": "assets/img/ext/d053acc9ea93dc9f.jpg",
+  "x07d6291cb256596c": "assets/img/ext/07d6291cb256596c.jpg",
+  "xc48b8dddca6d4969": "assets/img/ext/c48b8dddca6d4969.jpg",
+  "x45fbe8682d8f21d3": "assets/img/ext/45fbe8682d8f21d3.jpg"
  },
  "biliLeads": [
   {
