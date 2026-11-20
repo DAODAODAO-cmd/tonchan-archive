@@ -2043,6 +2043,46 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "id": "bro_201609",
+   "date": "2016-09-01",
+   "category": "周边",
+   "title": "WE官方生写真〈2016年9月〉",
+   "japanese": "フューチャーシリーズ ～2016年9月～",
+   "role": "",
+   "crew": "",
+   "key": false,
+   "url": "",
+   "note": "Future系列9月款，3种，L判。",
+   "status": "已结束",
+   "origin": "骏河屋商品资料",
+   "dateKind": "month",
+   "images": [
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545440.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "x4242dd00bb8496f6",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545442.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "xa613290e22826647",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/g3545441.jpg",
+     "caption": "生写真",
+     "source": "",
+     "asset": "xa8219b479767415e",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "kind": "bromide"
+  },
+  {
    "id": "mag_fs1414322",
    "date": "2016-09-10",
    "end": "",
@@ -6540,6 +6580,13 @@ window.ARCHIVE = {
      "caption": "生写真",
      "source": "https://www.suruga-ya.jp/",
      "asset": "x943cb30dc26786d1",
+     "resolution": ""
+    },
+    {
+     "url": "https://cdn.suruga-ya.jp/database/pics_light/game/gg937044.jpg",
+     "caption": "We!Premium 门票先行购买特典生写真",
+     "source": "",
+     "asset": "x0c9434e46dd5ebf1",
      "resolution": ""
     },
     {
@@ -13187,66 +13234,6 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
-   "id": "e100",
-   "date": "2023-11-18",
-   "end": "",
-   "category": "采访／连载",
-   "title": "《与鸟共舞》排练室专访",
-   "japanese": "《与鸟共舞》排练室专访",
-   "role": "",
-   "crew": "",
-   "key": "",
-   "url": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-   "note": "东启介×斋藤瑠希。",
-   "status": "",
-   "origin": "公开检索补充",
-   "dateKind": "",
-   "images": [
-    {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0223-fotor-2023111644817-4.jpg",
-     "caption": "Confetti 排练场照片：东启介",
-     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "xd053acc9ea93dc9f",
-     "hasHigashi": true
-    },
-    {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0215-fotor-2023111644555-1.jpg",
-     "caption": "Confetti 排练场照片：东启介",
-     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "x07d6291cb256596c",
-     "hasHigashi": true
-    },
-    {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
-     "caption": "Confetti 排练场照片：东启介和斋藤瑠希",
-     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "x1d0a73cb14d03bea",
-     "hasHigashi": true,
-     "pos": "86% 50%",
-     "resolution": ""
-    },
-    {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0429-fotor-2023111645537-1.jpg",
-     "caption": "Confetti 排练场照片：东启介和斋藤瑠希",
-     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "xc48b8dddca6d4969",
-     "hasHigashi": true
-    },
-    {
-     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/%E7%B5%84%E5%86%99%E7%9C%9F%EF%BC%92-1024x370.jpg",
-     "caption": "Confetti：东启介和斋藤瑠希的宣传照",
-     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
-     "asset": "xa1183e835677868f",
-     "hasHigashi": true,
-     "resolution": ""
-    }
-   ],
-   "videos": [],
-   "pending": false,
-   "kind": "文章",
-   "playlistLinks": []
-  },
-  {
    "id": "bro_202301",
    "date": "2023-01-01",
    "category": "周边",
@@ -16173,6 +16160,66 @@ window.ARCHIVE = {
      "source": "https://qjweb.jp/regular/99133/",
      "asset": "a3991715a59f6589",
      "resolution": "998 × 704"
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
+  },
+  {
+   "id": "e100",
+   "date": "2023-11-18",
+   "end": "",
+   "category": "采访／连载",
+   "title": "《与鸟共舞》排练室专访",
+   "japanese": "《与鸟共舞》排练室专访",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+   "note": "东启介×斋藤瑠希。",
+   "status": "",
+   "origin": "公开检索补充",
+   "dateKind": "",
+   "images": [
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0223-fotor-2023111644817-4.jpg",
+     "caption": "Confetti 排练场照片：东启介",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "xd053acc9ea93dc9f",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSC_0215-fotor-2023111644555-1.jpg",
+     "caption": "Confetti 排练场照片：东启介",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "x07d6291cb256596c",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0347-fotor-2023111645311-1.jpg",
+     "caption": "Confetti 排练场照片：东启介和斋藤瑠希",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "x1d0a73cb14d03bea",
+     "hasHigashi": true,
+     "pos": "86% 50%",
+     "resolution": ""
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/DSCF0429-fotor-2023111645537-1.jpg",
+     "caption": "Confetti 排练场照片：东启介和斋藤瑠希",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "xc48b8dddca6d4969",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/%E7%B5%84%E5%86%99%E7%9C%9F%EF%BC%92-1024x370.jpg",
+     "caption": "Confetti：东启介和斋藤瑠希的宣传照",
+     "source": "https://magazine.confetti-web.com/magazine/magazine-interview/49336/",
+     "asset": "xa1183e835677868f",
+     "hasHigashi": true,
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -41202,7 +41249,11 @@ window.ARCHIVE = {
   "x70522d377654f6cd": "assets/img/ext/70522d377654f6cd.jpg",
   "xf26c6d4176c73d4b": "assets/img/ext/f26c6d4176c73d4b.jpg",
   "xe5c4c25cba6fd3ae": "assets/img/ext/e5c4c25cba6fd3ae.jpg",
-  "x84d68335f31a82e2": "assets/img/ext/84d68335f31a82e2.jpg"
+  "x84d68335f31a82e2": "assets/img/ext/84d68335f31a82e2.jpg",
+  "x4242dd00bb8496f6": "assets/img/ext/4242dd00bb8496f6.jpg",
+  "xa613290e22826647": "assets/img/ext/a613290e22826647.jpg",
+  "xa8219b479767415e": "assets/img/ext/a8219b479767415e.jpg",
+  "x0c9434e46dd5ebf1": "assets/img/ext/0c9434e46dd5ebf1.jpg"
  },
  "biliLeads": [
   {
