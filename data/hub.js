@@ -2497,13 +2497,14 @@ window.HUB = {
   {
    "date": "2027-03-01",
    "title": "刀舞十周年 卡片软曲奇（后编）",
-   "price": "20个入（一盒）",
-   "publisher": "Premium Bandai",
+   "price": "一盒20个 4,400円（含税，一个220円）",
+   "publisher": "Premium Bandai（キャンディオンラインショップ）",
    "image": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260979_3.jpg",
    "imagePos": "15% 8%",
    "points": [
-    "舞台《刀剑乱舞》十周年纪念的饼干卡，后编里有烛台切光忠（东启介）",
-    "前编・后编预定2027年3月上旬同时发售"
+    "后编35种里有烛台切光忠（东启介）；金属质感卡＋独立包装软曲奇一块",
+    "只按盒卖，一盒凑不齐全套；卡约86×59mm",
+    "2026/11/20 13:00开始预约，2027年3月发货"
    ],
    "url": "https://p-bandai.jp/item/item-1000260979/",
    "cat": "食玩",
