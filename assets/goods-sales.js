@@ -15,7 +15,8 @@
     return 'unknown';
   };
   const all=()=>[...window.HUB.goods,...window.HUB.pastGoods];
-  const group=(goods,date=today())=>['available','presale','partial'].includes(key(goods,date))?'available':'closed';
+  // 不确定的一律算在售；只有明确写了售罄/结束/截止的才算已结束
+  const group=(goods,date=today())=>['soldout','closed','order_closed'].includes(key(goods,date))?'closed':'available';
   // A collection stays available if any explicitly linked edition is still offered.
   const statusKeys=goods=>[group(goods),...all().filter(child=>child.parentCollection===goods.title).map(child=>group(child))];
   const collectionGroup=goods=>statusKeys(goods).includes('available')?'available':'closed';
