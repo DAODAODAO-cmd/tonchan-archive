@@ -4357,10 +4357,35 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
+     "url": "https://spice.eplus.jp/images/yAuoIYWDvNO1Y7CeHmrNNxP5RWzH1kbS9h1WFbdCy3xeFJhu08l7NJDGKyGIQMm6/",
+     "caption": "SPICE：东启介",
+     "source": "https://spice.eplus.jp/articles/156576",
+     "asset": "x778fc4f4ba631d0c",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://spice.eplus.jp/images/sVRUuv1jE4KUgGiLuh47vqA6TxULq9nuqtq6F5D7YsFEed8cSKGDMsvRaRtVnWxr",
-     "caption": "SPICE",
+     "caption": "SPICE：（左から）东启介、久保田秀敏、多和田秀弥",
      "source": "https://spice.eplus.jp/articles/156576",
      "asset": "x8655334d8a9d4d39",
+     "resolution": "",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://spice.eplus.jp/images/juU51M1OUfxpUxZuo6wjGhxnwOjMW6ks59nV7AeGWZVlxu02axXgodpeY2AHqxIx/",
+     "caption": "SPICE：（左から）久保田秀敏、多和田秀弥、东启介",
+     "source": "https://spice.eplus.jp/articles/156576",
+     "asset": "xba8f42180f80bb8b",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/vL5yqkeV7BWpBGslgMkaOdXawUduKgx8FZvcXv90CrOnxCSquwlmFqJ24fkwNIjs/",
+     "caption": "SPICE：（左から）东启介、久保田秀敏、多和田秀弥",
+     "source": "https://spice.eplus.jp/articles/156576",
+     "asset": "x795e4ab455da4b48",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -5654,10 +5679,27 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
+     "url": "https://spice.eplus.jp/images/xUNFixIxrqxJSfIAeklxLhifC5s6Juearx1X0lGlN7ylcYtN0juVccwU0ZPtpYBz/",
+     "caption": "SPICE：东启介",
+     "source": "https://spice.eplus.jp/articles/202482",
+     "asset": "x255f21f2cb07c4f5",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://spice.eplus.jp/images/k5LmlnrHQSu4taHH8D8BvCLQhKgYeyU11C5YqIorL8chKplfaFPe4zsVLq6TvCqm",
-     "caption": "SPICE",
+     "caption": "SPICE：（右から）东启介、上村海成",
      "source": "https://spice.eplus.jp/articles/202482",
      "asset": "xccd3d4b4ef21319f",
+     "resolution": "",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://spice.eplus.jp/images/S91RpYsMHnYspPT6Y8cr160B1iP3GnkNonyIREkPcF8HqVJFuICzgBlwK1xb5efP/",
+     "caption": "SPICE：（右から）东启介、上村海成",
+     "source": "https://spice.eplus.jp/articles/202482",
+     "asset": "xd9f1ea7682459d42",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -8092,6 +8134,14 @@ window.ARCHIVE = {
    "dateKind": "原节目播出日",
    "images": [
     {
+     "url": "https://spice.eplus.jp/images/liQbPUtfABggZDHlEzSQ8addA0l69y2McW4NhZUhuroTyIHH7J080Glfj7hLfRjq/",
+     "caption": "SPICE：东启介",
+     "source": "https://spice.eplus.jp/articles/270919",
+     "asset": "xde261517fa2d46d6",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://spice.eplus.jp/images/Yj65bhOdxXPLpcOU6L3DmFJ57PYW8i3lbzLjgTQ0XrqLjVJ6Bfm8HFZvRES53Dsy",
      "caption": "SPICE 新闻图",
      "source": "https://spice.eplus.jp/articles/270919",
@@ -8152,6 +8202,14 @@ window.ARCHIVE = {
    "origin": "当年节目出演公告",
    "dateKind": "原节目播出日",
    "images": [
+    {
+     "url": "https://spice.eplus.jp/images/liQbPUtfABggZDHlEzSQ8addA0l69y2McW4NhZUhuroTyIHH7J080Glfj7hLfRjq/",
+     "caption": "SPICE：东启介",
+     "source": "https://spice.eplus.jp/articles/270919",
+     "asset": "xde261517fa2d46d6",
+     "hasHigashi": true,
+     "resolution": ""
+    },
     {
      "url": "https://www.joqr.co.jp/article/images/asasute.jpg",
      "caption": "文化放送节目图",
@@ -8917,10 +8975,11 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://spice.eplus.jp/images/DA4SvhZuGJaeEmlpb7GwLvHgyPvHZPJJNRzNbgZHOOv5gj7GpBpRDELnORyoX1uF",
-     "caption": "SPICE",
+     "caption": "SPICE：东启介（写真撮影：ジョニー寺坂）",
      "source": "https://spice.eplus.jp/articles/276893",
      "asset": "x322a8a5bf279872a",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -11978,10 +12037,27 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
+     "url": "https://spice.eplus.jp/images/OuaCwHax6TazVNOyWT7PcGTksCffvg6vMiYpomU5MYC21b8jtEnUSd88oXlJ3nbI/",
+     "caption": "SPICE：东启介",
+     "source": "https://spice.eplus.jp/articles/306898",
+     "asset": "x588377b332d60689",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://spice.eplus.jp/images/G73j6tDVnE7UNHh0l9QsS0kM2MInFjN93DMspJV5mDwYWRFsFvOTo91kAYsS0pdV",
-     "caption": "SPICE",
+     "caption": "SPICE：（左起）有泽樟太郎、东启介",
      "source": "https://spice.eplus.jp/articles/306898",
      "asset": "x5974a13a9227903a",
+     "resolution": "",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://spice.eplus.jp/images/Jl7gSaxBHWv4Dfuk9Yu46XseMMv1SxmJ24YBH9Z2nU5M9p5SlQICmyQjNSBocz7l/",
+     "caption": "SPICE：（左起）有泽樟太郎、东启介",
+     "source": "https://spice.eplus.jp/articles/306898",
+     "asset": "x44dd3397cb7d0b42",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -13063,10 +13139,11 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://spice.eplus.jp/images/c7xfG2oOpzO36dPp3IF0TBxQkVmFzBbLCcEBCQ0TrQksM0mrgwrG3wpZ2HBiwTVx",
-     "caption": "SPICE",
+     "caption": "SPICE：东启介、加藤和樹",
      "source": "https://spice.eplus.jp/articles/314981",
      "asset": "xdfb40b4f5f3cca5b",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -15133,11 +15210,20 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
+     "url": "https://spice.eplus.jp/images/qU3oJSHnd1yWZnOqbkIDhgOcC3KsuEbskwPbVrLzm5Zu8yNA0KY0lxWiMyMmMCYv/",
+     "caption": "SPICE：东启介、池田亮",
+     "source": "https://spice.eplus.jp/articles/323331",
+     "asset": "x26f15fc54528f478",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://spice.eplus.jp/images/pYQe4vhiMG72x26NurKcfESg5EX1yul3W2roJ8MXHHw7XQSQI6ZnUVUuIoIysfOV",
-     "caption": "SPICE",
+     "caption": "SPICE：高羽彩、有澤樟太郎、东启介、池田亮",
      "source": "https://spice.eplus.jp/articles/323331",
      "asset": "x8bc1cd61b8cc328d",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -16519,10 +16605,11 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://spice.eplus.jp/images/LH3zCGvH40vglGBPGsuoTiZ1oqIJA15ivU4uKCAxJwI6jNH1bGai0EJLZKzWEHir",
-     "caption": "SPICE",
+     "caption": "SPICE：左から：东启介、中川晃教、藤岡正明、大山真志",
      "source": "https://spice.eplus.jp/articles/326077",
      "asset": "xbf692ec229c41e82",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     }
    ],
    "videos": [],
@@ -17222,10 +17309,11 @@ window.ARCHIVE = {
    "images": [
     {
      "url": "https://spice.eplus.jp/images/SeNR0vGhBHyrxqVug5k0ePY38ExmcH1WksmPXYMKDfNQYZLsp6lnR2cPf8jmeG0a",
-     "caption": "JBB（左起）东启介、中川晃教、藤冈正明、大山真志",
+     "caption": "SPICE：JBB（左から）东启介、中川晃教、藤岡正明、大山真志",
      "source": "https://spice.eplus.jp/articles/329090",
      "asset": "x3ff71151ebd562b4",
-     "resolution": ""
+     "resolution": "",
+     "hasHigashi": true
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2024/0417/JBB_art202404.jpg",
@@ -19068,10 +19156,43 @@ window.ARCHIVE = {
    "dateKind": "文章发布日期（发布方元数据）",
    "images": [
     {
+     "url": "https://spice.eplus.jp/images/FZ64Xjxc6jZWgZdmF9Y4SE70duKDSLbcyHYogQAr7DLqbtZLLC2ui7XM8xRv0Nzs/",
+     "caption": "SPICE：东启介",
+     "source": "https://spice.eplus.jp/articles/336445",
+     "asset": "xe8e731140e830e01",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
      "url": "https://spice.eplus.jp/images/QmQohUPcH9iPXdZYsuyOQY5iu0hnNqtUcAjGhdKAidPpVnPNgPouFxRUu22qyGqC",
-     "caption": "SPICE",
+     "caption": "SPICE：东启介、松下優也（撮影＝松本いづみ）",
      "source": "https://spice.eplus.jp/articles/336445",
      "asset": "xc2766992d6061941",
+     "resolution": "",
+     "hasHigashi": true
+    },
+    {
+     "url": "https://spice.eplus.jp/images/eR3cDue0AIrMUeGmq7z6IZrXCH5qifIp8rSAEbvqu9ZCL7L6HsOTA5ncHcDkDp1W/",
+     "caption": "SPICE：东启介、松下優也",
+     "source": "https://spice.eplus.jp/articles/336445",
+     "asset": "x043faa00082b000c",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/LVoGaOa1Vjwub0YRMr9rJ8QpP7CFDAxZULwiw8rkO16yLPZJqa0CoKgiNGyGwb8H/",
+     "caption": "SPICE：东启介、松下優也",
+     "source": "https://spice.eplus.jp/articles/336445",
+     "asset": "xcca2b33d097ee851",
+     "hasHigashi": true,
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/pmkKavDRDeF6TmQ292ziXBoQaiT0sHpBseGqlZuWPiIBILbZ90AetNkxn3psFBms/",
+     "caption": "SPICE：东启介、松下優也",
+     "source": "https://spice.eplus.jp/articles/336445",
+     "asset": "xc8d755dd6d43a3a7",
+     "hasHigashi": true,
      "resolution": ""
     }
    ],
@@ -40479,7 +40600,20 @@ window.ARCHIVE = {
   "x9f19438ead9548ad": "assets/img/ext/9f19438ead9548ad.jpg",
   "x9ff4a4734fed9bf8": "assets/img/ext/9ff4a4734fed9bf8.png",
   "xbf3071300a44f0aa": "assets/img/ext/bf3071300a44f0aa.jpg",
-  "xa1183e835677868f": "assets/img/ext/a1183e835677868f.jpg"
+  "xa1183e835677868f": "assets/img/ext/a1183e835677868f.jpg",
+  "x588377b332d60689": "assets/img/ext/588377b332d60689.jpg",
+  "x44dd3397cb7d0b42": "assets/img/ext/44dd3397cb7d0b42.jpg",
+  "x778fc4f4ba631d0c": "assets/img/ext/778fc4f4ba631d0c.jpg",
+  "xba8f42180f80bb8b": "assets/img/ext/ba8f42180f80bb8b.jpg",
+  "x795e4ab455da4b48": "assets/img/ext/795e4ab455da4b48.jpg",
+  "x255f21f2cb07c4f5": "assets/img/ext/255f21f2cb07c4f5.jpg",
+  "xd9f1ea7682459d42": "assets/img/ext/d9f1ea7682459d42.jpg",
+  "xde261517fa2d46d6": "assets/img/ext/de261517fa2d46d6.jpg",
+  "x26f15fc54528f478": "assets/img/ext/26f15fc54528f478.jpg",
+  "xe8e731140e830e01": "assets/img/ext/e8e731140e830e01.jpg",
+  "x043faa00082b000c": "assets/img/ext/043faa00082b000c.jpg",
+  "xcca2b33d097ee851": "assets/img/ext/cca2b33d097ee851.jpg",
+  "xc8d755dd6d43a3a7": "assets/img/ext/c8d755dd6d43a3a7.jpg"
  },
  "biliLeads": [
   {
