@@ -246,8 +246,8 @@ window.HUB = {
    "date": "2026-11-20",
    "tag": "周边",
    "title": "写真集书名定为《ECHOES》，公开通常版和限定版封面",
-   "text": "2027年1月8日发售；通常版突出高挑身形，限定版是放松的氛围。",
-   "url": "https://x.com/tokyonews_pr/status/2123688301085503651"
+   "text": "2027年1月8日发售，4,400日元，摄影 KEI OGATA；通常版黑白封面，限定版（Amazon·乐天）是放松的床上照。",
+   "url": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html"
   },
   {
    "date": "2026-11-16",
@@ -1552,16 +1552,17 @@ window.HUB = {
    "date": "2027-01-08",
    "price": "4,400日元（含税）· A4",
    "publisher": "东京新闻通信社",
-   "image": "assets/img/ext/b007368c2390e736.jpg",
+   "image": "assets/img/ext/d2f57f2da5d57572.jpg",
    "points": [
-    "书名《ECHOES》：想让人从一张张照片里感受到“演员”和“私下的自己”两个侧面；通常版封面突出高挑身形，限定版封面更放松",
+    "书名《ECHOES》：本人看到成片时觉得能从一张张照片里感受到“演员”和“私下的自己”两个侧面；通常版封面是黑白、突出190cm身形，限定版封面是在床上放松看镜头",
+    "内容：去溪谷带着相机、一个人唱K的休息日、公园里像少年一样玩闹、东京夜景下的成熟模样；摄影 KEI OGATA，时隔6年的写真集",
     "Amazon · 乐天：限定封面版",
     "7net：亲笔签名版（发售日后发货）",
     "Animate通贩：附生写真1张",
     "发售纪念活动：1/10 涩谷 SHIBUYA TSUTAYA · 1/17 池袋 HMVエソラ · 1/24 新宿 Book First（各13:00起，网上申请）",
     "活动特典：ぷくぷく（立体泡泡）贴纸，10/30 官方X公开设计样本"
    ],
-   "url": "https://zasshi.tv/products/62295/",
+   "url": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html",
    "cat": "写真集·杂志",
    "saleReview": {
     "checked": "2026-11-20",
@@ -1572,13 +1573,18 @@ window.HUB = {
    "items": [
     {
      "t": "通常版封面",
-     "img": "assets/img/ext/b007368c2390e736.jpg",
-     "href": "assets/img/ext/b007368c2390e736.jpg"
+     "img": "assets/img/ext/d2f57f2da5d57572.jpg",
+     "href": "assets/img/ext/d2f57f2da5d57572.jpg"
     },
     {
-     "t": "限定版封面",
-     "img": "assets/img/ext/91db92314aa8efe2.jpg",
-     "href": "assets/img/ext/91db92314aa8efe2.jpg"
+     "t": "限定版封面（Amazon·乐天）",
+     "img": "assets/img/ext/629bb7d2e95e8fdd.jpg",
+     "href": "assets/img/ext/629bb7d2e95e8fdd.jpg"
+    },
+    {
+     "t": "Animate通贩特典生写真",
+     "img": "assets/img/ext/f7063eefefa37944.jpg",
+     "href": "assets/img/ext/f7063eefefa37944.jpg"
     }
    ]
   },

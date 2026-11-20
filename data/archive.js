@@ -21538,23 +21538,29 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
+   "url": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html",
    "note": "未来安排，未当作已完成活动。",
    "status": "",
    "origin": "发行方公告补充",
    "dateKind": "预定发售日",
    "images": [
     {
-     "url": "https://pbs.twimg.com/media/HXjbPxLbsAAzi5F?format=jpg&name=large",
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/3588/6568-3588-1564be6f98f18321c7501e524b8b9910-1902x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=1200&height=1700",
      "caption": "通常版封面",
-     "source": "https://x.com/tokyonews_pr/status/2123688301085503651",
-     "asset": "xb007368c2390e736"
+     "source": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html",
+     "asset": "xd2f57f2da5d57572"
     },
     {
-     "url": "https://pbs.twimg.com/media/HXjbPxQbsAArKhM?format=jpg&name=large",
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/3588/6568-3588-713cf3d6e92706182801579fb15933ca-1904x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=1200&height=1700",
      "caption": "限定版封面",
-     "source": "https://x.com/tokyonews_pr/status/2123688301085503651",
-     "asset": "x91db92314aa8efe2"
+     "source": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html",
+     "asset": "x629bb7d2e95e8fdd"
+    },
+    {
+     "url": "https://prcdn.freetls.fastly.net/release_image/6568/3588/6568-3588-113161fef2e795907f9b88b37ed1a320-1000x1317.jpg?format=jpeg&auto=webp&fit=bounds&width=1200&height=1700",
+     "caption": "Animate通贩特典生写真",
+     "source": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html",
+     "asset": "xf7063eefefa37944"
     },
     {
      "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_cover_00.jpg",
@@ -39775,8 +39781,9 @@ window.ARCHIVE = {
   "x8afe7cf32ed84d67": "assets/img/ext/8afe7cf32ed84d67.jpg",
   "xe041cbbd4e1f062f": "assets/img/ext/e041cbbd4e1f062f.jpg",
   "xb76c9cda90fc4afc": "assets/img/ext/b76c9cda90fc4afc.jpg",
-  "xb007368c2390e736": "assets/img/ext/b007368c2390e736.jpg",
-  "x91db92314aa8efe2": "assets/img/ext/91db92314aa8efe2.jpg"
+  "xd2f57f2da5d57572": "assets/img/ext/d2f57f2da5d57572.jpg",
+  "x629bb7d2e95e8fdd": "assets/img/ext/629bb7d2e95e8fdd.jpg",
+  "xf7063eefefa37944": "assets/img/ext/f7063eefefa37944.jpg"
  },
  "biliLeads": [
   {
