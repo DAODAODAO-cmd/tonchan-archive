@@ -34,7 +34,7 @@ footer{padding:22px;font-size:13px;text-align:center;color:#71675e}:focus-visibl
 <body>
 <header class="top"><div class="wrap bar"><a href="index.html">東 · 东启介档案</a><a href="index.html?view=about">个人资料</a></div></header>
 <main class="wrap" id="blog">
-<figure class="hero"><img src="assets/img/ext/64731b74fe9f9ca1.jpg" alt="博客页头：本人手写的「瞳」"><figcaption>页头的「瞳」是他自己写的书道。开博第二天他在博客里写：「ブログのヘッダーの瞳←ですが！これ実は僕の手書きなんですよーー！！」<a href="#p11736570174">原文</a></figcaption></figure>
+<figure class="hero"><img src="assets/img/ext/64731b74fe9f9ca1.jpg" alt="博客页头：本人手写的「瞳」"><figcaption>页头的「瞳」是他自己写的书道。开博第二天他在博客里写：「ブログのヘッダーの瞳←ですが！これ実は僕の手書きなんですよーー！！」</figcaption></figure>
 <details class="first" id="hdrs"><summary>历代页头</summary><div class="hlist"><figure><img src="assets/img/ext/008e438a843d26c0.jpg" alt="" loading="lazy"><figcaption>2013年开博时</figcaption></figure></div></details>
 <h1>Ameba 博客存档</h1>
 <p class="lead" id="lead"></p>
@@ -44,31 +44,34 @@ footer{padding:22px;font-size:13px;text-align:center;color:#71675e}:focus-visibl
 <div id="miss"></div>
 </main><footer>东启介资讯站 · 非官方</footer>
 <dialog class="zoom" id="zoom"><img alt=""></dialog>
-<script src="data/ameblo.js?v=1122c"></script>
+<script src="data/ameblo.js?v=1122d"></script>
 <script>
 (()=>{
 const B=window.AMEBLO||{entries:[],missing:[]};const E=B.entries;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const $=id=>document.getElementById(id);
 const imgs=E.reduce((a,e)=>a+e.blocks.filter(b=>b.img).length,0);
-$('lead').textContent='他2013年12月开的官方博客，写到2020年10月停止更新，原博客已经删掉了。这里按 Internet Archive 的存档整理，共 '+E.filter(e=>!e.approx).length+' 篇正文、'+imgs+' 张图；另有 '+E.filter(e=>e.approx).length+' 篇只存到标题，按推算的日期放在时间线里。有些图当时没被存下来，就只剩文字。';
+$('lead').textContent='他2013年12月开的官方博客，写到2020年10月停止更新，原博客已经删掉了。这里收录了 '+E.filter(e=>!e.approx).length+' 篇正文、'+imgs+' 张图；另有 '+E.filter(e=>e.approx).length+' 篇只留下标题，按推算的日期放在时间线里。有些图没能留下来，就只剩文字。';
 const years=[...new Set(E.map(e=>e.date.slice(0,4)))];
 let year='',q='';
 $('years').innerHTML='<button type="button" data-y="" aria-pressed="true">全部</button>'+years.map(y=>`<button type="button" data-y="${y}" aria-pressed="false">${y}</button>`).join('')+'<input type="search" id="q" placeholder="搜正文，比如 稽古、猫">';
 const text=e=>e.blocks.filter(b=>b.t).map(b=>b.t).join('\n');
-const post=e=>{if(e.approx)return `<div class="post stub" id="p${e.id}"><div class="sd"><div class="d">大约 ${esc(e.date.slice(0,4))}年${+e.date.slice(5,7)}月</div><h2>${esc(e.title)}</h2><p class="pv">只存到标题，正文没有存档。日期是按前后文章推算的。</p></div></div>`;const first=e.blocks.find(b=>b.img);const pv=text(e).replace(/\s+/g,' ').slice(0,90);
+const post=e=>{if(e.approx)return `<div class="post stub" id="p${e.id}"><div class="sd"><div class="d">大约 ${esc(e.date.slice(0,4))}年${+e.date.slice(5,7)}月</div><h2>${esc(e.title)}</h2><p class="pv">只留下了标题，正文没有找到。日期是按前后文章推算的。</p></div></div>`;const first=e.blocks.find(b=>b.img);const pv=text(e).replace(/\s+/g,' ').slice(0,90);
 let body='',pics=[];const flushPics=()=>{if(pics.length){body+='<div class="pics">'+pics.map(p=>`<img src="${esc(p)}" alt="" loading="lazy">`).join('')+'</div>';pics=[]}};
-for(const b of e.blocks){if(b.img)pics.push(b.img);else{flushPics();if(b.t)body+='<p>'+esc(b.t)+'</p>';else if(b.lost)body+='<p class="lost">（'+b.lost+' 张图片没有存档）</p>'}}flushPics();
-return `<details class="post" id="p${e.id}"><summary><div><div class="d">${esc(e.date.replace('T',' ').slice(0,16))}</div><h2>${esc(e.title)}</h2><p class="pv">${esc(pv)}</p></div>${first?`<img class="th" src="${esc(first.img)}" alt="" loading="lazy">`:'<span class="th none"></span>'}</summary><div class="body">${body}<div class="src">原文：ameblo.jp/keisuke-higashi-we/entry-${esc(e.id)}.html（已删除）</div></div></details>`};
+for(const b of e.blocks){if(b.img)pics.push(b.img);else{flushPics();if(b.t)body+='<p>'+esc(b.t)+'</p>';else if(b.lost)body+='<p class="lost">（'+b.lost+' 张图没能留下来）</p>'}}flushPics();
+return `<details class="post" id="p${e.id}"><summary><div><div class="d">${esc(e.date.replace('T',' ').slice(0,16))}</div><h2>${esc(e.title)}</h2><p class="pv">${esc(pv)}</p></div>${first?`<img class="th" src="${esc(first.img)}" alt="" loading="lazy">`:'<span class="th none"></span>'}</summary><div class="body">${body}</div></details>`};
 const render=()=>{const k=q.trim().toLowerCase();const list=E.filter(e=>(!year||e.date.startsWith(year))&&(!k||(e.title+'\n'+text(e)).toLowerCase().includes(k))).slice().reverse();
 $('count').textContent=list.length+' 篇';let html='',m='';for(const e of list){const mm=e.date.slice(0,7);if(mm!==m){m=mm;html+=`<div class="month">${mm.slice(0,4)}年${+mm.slice(5)}月</div>`}html+=post(e)}$('list').innerHTML=html||'<p class="lead">没有找到。</p>'};
-const heroImg=document.querySelector('.hero img'),heroDef=heroImg.getAttribute('src');const PCH=(B.headers||[]).filter(h=>h.kind!=='sp');const setHero=y=>{if(!PCH.length)return;let h=null;if(y){h=PCH.filter(x=>x.date.slice(0,4)<=y).pop()||PCH[0]}heroImg.src=h?h.img:heroDef};
+const heroImg=document.querySelector('.hero img'),heroDef=heroImg.getAttribute('src');const PCH=(B.headers||[]).filter(h=>h.kind!=='sp');let rot=null,ri=0;const show=src=>{heroImg.style.opacity=0;setTimeout(()=>{heroImg.src=src;heroImg.style.opacity=1},300)};
+const startRot=()=>{clearInterval(rot);if(PCH.length<2)return;rot=setInterval(()=>{ri=(ri+1)%PCH.length;show(PCH[ri].img)},5000)};
+const setHero=y=>{if(!PCH.length)return;clearInterval(rot);if(y){const h=PCH.filter(x=>x.date.slice(0,4)<=y).pop()||PCH[0];show(h.img)}else{ri=PCH.length-1;show(PCH[ri].img);startRot()}};
+heroImg.style.transition='opacity .3s';setTimeout(()=>setHero(''),0);
 $('years').addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;year=b.dataset.y;setHero(year);$('years').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));render()});
 $('q').addEventListener('input',ev=>{q=ev.target.value;render()});
 $('list').addEventListener('click',ev=>{const i=ev.target.closest('.pics img');if(!i)return;const z=$('zoom');z.querySelector('img').src=i.src;z.showModal()});
 $('zoom').addEventListener('click',()=>$('zoom').close());
-if(B.headers&&B.headers.length){const H=B.headers.filter(h=>h.kind!=='sp'&&!/008e438a/.test(h.img));$('hdrs').querySelector('summary').textContent='历代页头（'+H.length+' 张，按存档时间）';$('hdrs').querySelector('.hlist').innerHTML=H.map(h=>'<figure><img src="'+esc(h.img)+'" alt="" loading="lazy"><figcaption>'+esc(h.date.slice(0,7).replace('-','年'))+'月存档</figcaption></figure>').join('')}
-if(B.missing&&B.missing.length)$('miss').innerHTML='<div class="missing">另有 '+B.missing.length+' 篇在存档里只留下了链接，标题和正文都没有。</div>';
+if(B.headers&&B.headers.length){const H=B.headers.filter(h=>h.kind!=='sp'&&!/008e438a/.test(h.img));$('hdrs').querySelector('summary').textContent='历代页头（'+H.length+' 张）';$('hdrs').querySelector('.hlist').innerHTML=H.map(h=>'<figure><img src="'+esc(h.img)+'" alt="" loading="lazy"><figcaption>'+esc(h.date.slice(0,7).replace('-','年'))+'月</figcaption></figure>').join('')}
+if(B.missing&&B.missing.length)$('miss').innerHTML='<div class="missing">另有 '+B.missing.length+' 篇只知道有过这几篇，标题和正文都没有找到。</div>';
 render();
 if(location.hash.startsWith('#p')){const d=document.querySelector(location.hash);if(d){d.open=true;d.scrollIntoView()}}
 })();

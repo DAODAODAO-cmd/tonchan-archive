@@ -16,7 +16,7 @@ window.AMEBLO = {
    "img": "assets/img/ext/64731b74fe9f9ca1.jpg",
    "kind": "pc",
    "date": "2017-06-01",
-   "label": "2016年刀舞之后换的版本（Ameba 服务器上现在还在）"
+   "label": "2016年刀舞之后换的版本"
   },
   {
    "img": "assets/img/blog/header-new-20180928.png",
