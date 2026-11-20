@@ -19857,7 +19857,7 @@ window.ARCHIVE = {
    "crew": "导演：二宫崇",
    "key": "",
    "url": "https://gaga.ne.jp/oppan-movie/",
-   "note": "",
+   "note": "2025年7月4日上映。之后在 WOWOW 电视播出：2026年11月4日、12月21日。",
    "status": "",
    "origin": "",
    "dateKind": "上映日",
@@ -19880,6 +19880,13 @@ window.ARCHIVE = {
      "caption": "电影主视觉",
      "source": "東海テレビ（PR TIMES）",
      "asset": "xa3d028b091891200"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/HMG8VX5aUAAFAlh?format=jpg&name=large",
+     "caption": "WOWOW 播出宣传图",
+     "source": "https://x.com/",
+     "asset": "x2aea8dcfb6645ee5",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -22085,74 +22092,6 @@ window.ARCHIVE = {
     }
    ],
    "videos": [],
-   "pending": false,
-   "kind": "活动／作品",
-   "playlistLinks": []
-  },
-  {
-   "id": "u_wowow_oppan1",
-   "date": "2026-11-04",
-   "end": "",
-   "category": "电影",
-   "title": "电影《大叔的内裤穿什么都行吧！》WOWOW 放送（11/4、12/21）",
-   "japanese": "映画 おっさんのパンツがなんだっていいじゃないか！",
-   "role": "砂川圆（砂川円）",
-   "crew": "",
-   "key": "",
-   "url": "https://www.wowow.co.jp/",
-   "note": "WOWOW 播出两次：2026年11月4日、12月21日。",
-   "status": "用户整理行程；以官方公告为准",
-   "origin": "2026.11.17 用户补充",
-   "dateKind": "日程",
-   "images": [
-    {
-     "url": "https://pbs.twimg.com/media/HMG8VX5aUAAFAlh?format=jpg&name=large",
-     "caption": "WOWOW 官方推特宣传图",
-     "source": "https://x.com/",
-     "asset": "x2aea8dcfb6645ee5",
-     "resolution": ""
-    },
-    {
-     "url": "https://www.tokai-tv.com/oppan/assets/img/top/header_poster.jpg",
-     "caption": "官方海报",
-     "source": "https://www.wowow.co.jp/",
-     "asset": "x2d30e5eee86af4bf",
-     "resolution": ""
-    },
-    {
-     "url": "https://pbs.twimg.com/media/HMG8Wb9aIAAamMv?format=jpg&name=large",
-     "caption": "WOWOW 官方推特宣传图",
-     "source": "https://x.com/",
-     "asset": "x8ed342790265795e",
-     "resolution": ""
-    }
-   ],
-   "videos": [
-    {
-     "title": "本編冒頭映像＆キャラクター紹介映像！『映画 おっさんのパンツがなんだっていいじゃないか！』 冒頭映像",
-     "url": "https://www.youtube.com/watch?v=KxeudWn9KZQ"
-    },
-    {
-     "title": "【おっパン】中島颯太、“円先輩”東啓介とのデート現場を目撃されパニック「どういう状況？」　『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
-     "url": "https://www.youtube.com/watch?v=NJuQcqoxBxk"
-    },
-    {
-     "title": "【映画おっパン】 “誠”原田泰造が1年前に逆戻り！？『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像が解禁！",
-     "url": "https://www.youtube.com/watch?v=5ArkZQN9kb4"
-    },
-    {
-     "title": "中島颯太＆原田泰造、食卓で繰り広げられる波乱のやり取りにハラハラ…! 『映画 おっさんのパンツがなんだっていいじゃないか！』本編冒頭映像",
-     "url": "https://www.youtube.com/watch?v=takIM5eYh4w"
-    },
-    {
-     "title": "FANTASTICS・中島颯太、“あの人”とのデート現場を目撃されてしまう『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台あいさつ",
-     "url": "https://www.youtube.com/watch?v=rgGl1ak28fA"
-    },
-    {
-     "title": "FANTASTICS中島颯太、円先輩と2人で散歩中に視聴者に遭遇「『どういう状況？』って」『映画 おっさんのパンツがなんだっていいじゃないか！』公開記念舞台挨拶",
-     "url": "https://www.youtube.com/watch?v=AE4ikpdzmdE"
-    }
-   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
