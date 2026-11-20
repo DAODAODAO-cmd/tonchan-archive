@@ -1252,7 +1252,29 @@ window.HUB = {
    "url": "https://www.marv.jp/special/m-hakuoki-reimeiroku/goods.html",
    "publisher": "薄ミュ 官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/164f0309dbec4c80.jpg",
+     "href": "assets/img/ext/164f0309dbec4c80.jpg"
+    },
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/c070096880b943a5.jpg",
+     "href": "assets/img/ext/c070096880b943a5.jpg"
+    },
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/f8e013cf1e5faa73.jpg",
+     "href": "assets/img/ext/f8e013cf1e5faa73.jpg"
+    },
+    {
+     "t": "全员套组生写真（原田）",
+     "img": "assets/img/ext/1c33bff2f41ba7df.jpg",
+     "href": "assets/img/ext/1c33bff2f41ba7df.jpg"
+    }
+   ]
   },
   {
    "date": "2016-01-04",
@@ -1267,7 +1289,29 @@ window.HUB = {
    "url": "https://www.marv.jp/special/m-hakuoki-shinsengumikitan/goods.html",
    "publisher": "薄ミュ 官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/ad5f308e04421237.jpg",
+     "href": "assets/img/ext/ad5f308e04421237.jpg"
+    },
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/92d34039e732cc91.jpg",
+     "href": "assets/img/ext/92d34039e732cc91.jpg"
+    },
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/53863adcd9a26baa.jpg",
+     "href": "assets/img/ext/53863adcd9a26baa.jpg"
+    },
+    {
+     "t": "全员套组生写真（原田）",
+     "img": "assets/img/ext/96055f6630bf0e08.jpg",
+     "href": "assets/img/ext/96055f6630bf0e08.jpg"
+    }
+   ]
   },
   {
    "date": "2016-03-04",
@@ -1366,7 +1410,29 @@ window.HUB = {
    "url": "https://www.marv.jp/special/m-hakuoki-live2/goods.html",
    "publisher": "薄ミュ 官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/3086de7745407c9e.jpg",
+     "href": "assets/img/ext/3086de7745407c9e.jpg"
+    },
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/3da34d59746bdd65.jpg",
+     "href": "assets/img/ext/3da34d59746bdd65.jpg"
+    },
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/b6f3708a3c37f984.jpg",
+     "href": "assets/img/ext/b6f3708a3c37f984.jpg"
+    },
+    {
+     "t": "随机迷你色纸（原田）",
+     "img": "assets/img/ext/5f6d0d19a91ed4e3.jpg",
+     "href": "assets/img/ext/5f6d0d19a91ed4e3.jpg"
+    }
+   ]
   },
   {
    "date": "2016-09-30",
@@ -1380,7 +1446,29 @@ window.HUB = {
    "url": "https://www.marv.jp/special/pedal_2016-11/#goods",
    "publisher": "舞台『弱虫ペダル』官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "苇木场个人生写真",
+     "img": "assets/img/ext/ad088ff529a30b76.jpg",
+     "href": "assets/img/ext/ad088ff529a30b76.jpg"
+    },
+    {
+     "t": "苇木场个人生写真",
+     "img": "assets/img/ext/88dcc5e83ac7bb12.jpg",
+     "href": "assets/img/ext/88dcc5e83ac7bb12.jpg"
+    },
+    {
+     "t": "苇木场个人生写真",
+     "img": "assets/img/ext/94d11164b4edfbcc.jpg",
+     "href": "assets/img/ext/94d11164b4edfbcc.jpg"
+    },
+    {
+     "t": "随机生写真（苇木场）",
+     "img": "assets/img/ext/5d91f76b8c3c230b.jpg",
+     "href": "assets/img/ext/5d91f76b8c3c230b.jpg"
+    }
+   ]
   },
   {
    "date": "2016-12-15",
@@ -1445,7 +1533,29 @@ window.HUB = {
    "url": "https://www.marv.jp/special/pedal_2017-023/goods.html",
    "publisher": "舞台『弱虫ペダル』官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "苇木场个人生写真",
+     "img": "assets/img/ext/9dd375bbfa918c27.jpg",
+     "href": "assets/img/ext/9dd375bbfa918c27.jpg"
+    },
+    {
+     "t": "苇木场个人生写真",
+     "img": "assets/img/ext/d5300b9acf62394a.jpg",
+     "href": "assets/img/ext/d5300b9acf62394a.jpg"
+    },
+    {
+     "t": "苇木场个人生写真",
+     "img": "assets/img/ext/62a4117808b6b998.jpg",
+     "href": "assets/img/ext/62a4117808b6b998.jpg"
+    },
+    {
+     "t": "随机生写真（苇木场）",
+     "img": "assets/img/ext/dffdfd99c2e214be.jpg",
+     "href": "assets/img/ext/dffdfd99c2e214be.jpg"
+    }
+   ]
   },
   {
    "date": "2017-04-14",
@@ -1460,7 +1570,34 @@ window.HUB = {
    "url": "https://www.marv.jp/special/m-hakuoki-harada/goods.html",
    "publisher": "薄ミュ 官网",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/1970492aa805af81.jpg",
+     "href": "assets/img/ext/1970492aa805af81.jpg"
+    },
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/c2827452d99ea05e.jpg",
+     "href": "assets/img/ext/c2827452d99ea05e.jpg"
+    },
+    {
+     "t": "原田个人套组生写真",
+     "img": "assets/img/ext/dcdc83afef6b1960.jpg",
+     "href": "assets/img/ext/dcdc83afef6b1960.jpg"
+    },
+    {
+     "t": "全员套组生写真（原田）",
+     "img": "assets/img/ext/855104524ad57dc2.jpg",
+     "href": "assets/img/ext/855104524ad57dc2.jpg"
+    },
+    {
+     "t": "随机生写真（原田）",
+     "img": "assets/img/ext/f99716f837d7a4f8.jpg",
+     "href": "assets/img/ext/f99716f837d7a4f8.jpg"
+    }
+   ]
   },
   {
    "date": "2017-06-01",
@@ -1526,7 +1663,24 @@ window.HUB = {
    "url": "https://grandguignol-170401.themedia.jp/posts/2881923",
    "publisher": "WE SHOP／ワタナベ商店",
    "status": "已结束",
-   "stage": 1
+   "stage": 1,
+   "items": [
+    {
+     "t": "李春林个人生写真",
+     "img": "assets/img/ext/4538ae124aa8717b.jpg",
+     "href": "assets/img/ext/4538ae124aa8717b.jpg"
+    },
+    {
+     "t": "李春林个人生写真",
+     "img": "assets/img/ext/51a1b6bb4cfeabfe.jpg",
+     "href": "assets/img/ext/51a1b6bb4cfeabfe.jpg"
+    },
+    {
+     "t": "李春林个人生写真",
+     "img": "assets/img/ext/9e389c6af0e683a8.jpg",
+     "href": "assets/img/ext/9e389c6af0e683a8.jpg"
+    }
+   ]
   },
   {
    "date": "2018-06-02",
