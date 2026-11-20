@@ -19876,7 +19876,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [
+    {
+     "title": "会员内容：WACTION! 彩排照片报道（2025.6.24）",
+     "url": "https://waction.jp/report/detail/7ES0HeHPTb3o8qKrMxh2"
+    }
+   ]
   },
   {
    "id": "e69",
