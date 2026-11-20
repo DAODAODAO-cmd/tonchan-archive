@@ -8286,8 +8286,14 @@ window.ARCHIVE = {
      "resolution": "1280 × 830"
     },
     {
+     "url": "https://pbs.twimg.com/media/EfmEvqxVoAAtYoD?format=jpg&name=large",
+     "caption": "正式海报（扮相主视觉）",
+     "source": "https://x.com/koimoyuru/status/1295212701690376193",
+     "asset": "xb76c9cda90fc4afc"
+    },
+    {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0507/koi_moyuru.jpg",
-     "caption": "宣传海报",
+     "caption": "首轮宣传单",
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "xeaaa3596dae16848",
      "resolution": ""
@@ -39713,7 +39719,8 @@ window.ARCHIVE = {
   "x0432afd3fc089e2d": "assets/img/ext/0432afd3fc089e2d.jpg",
   "x66960ae024f43a44": "assets/img/ext/66960ae024f43a44.jpg",
   "x8afe7cf32ed84d67": "assets/img/ext/8afe7cf32ed84d67.jpg",
-  "xe041cbbd4e1f062f": "assets/img/ext/e041cbbd4e1f062f.jpg"
+  "xe041cbbd4e1f062f": "assets/img/ext/e041cbbd4e1f062f.jpg",
+  "xb76c9cda90fc4afc": "assets/img/ext/b76c9cda90fc4afc.jpg"
  },
  "biliLeads": [
   {
