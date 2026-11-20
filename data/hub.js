@@ -1193,7 +1193,7 @@ window.HUB = {
    "title": "特大Special生写真2016 & Special生写真套组2016",
    "status": "已结束",
    "price": "A4 1,200円 · L判3枚 500円",
-   "image": "assets/img/ext/ea5b1540ee96045e.jpg",
+   "image": "assets/img/ext/ea5b1540ee95045e.jpg",
    "points": [
     "\"和以往不太一样\"的成熟系生写真",
     "WE SHOP表参道店限定"
@@ -1203,8 +1203,8 @@ window.HUB = {
    "items": [
     {
      "t": "特大A4（印刷签名留言）",
-     "img": "assets/img/ext/ea5b1540ee96045e.jpg",
-     "href": "assets/img/ext/ea5b1540ee96045e.jpg"
+     "img": "assets/img/ext/ea5b1540ee95045e.jpg",
+     "href": "assets/img/ext/ea5b1540ee95045e.jpg"
     },
     {
      "t": "L判3枚套组",
@@ -1243,7 +1243,7 @@ window.HUB = {
    "date": "2015-05-23",
    "title": "音乐剧《薄樱鬼》黎明录 公演周边",
    "price": "原田个人ブロマイド 3枚 600円 · 全员13枚 2,400円 · 随机ブロマイド 200円 · 场刊 2,100円",
-   "image": "assets/img/ext/139c3790d840e826.jpg",
+   "image": "assets/img/ext/139c3790d840e816.jpg",
    "points": [
     "他的是「原田セット」：原田左之助个人ブロマイド3枚一组",
     "个人套组9种全买送13人集合2L大图",
@@ -1890,8 +1890,8 @@ window.HUB = {
     },
     {
      "t": "2017.11",
-     "img": "assets/img/ext/ffd6275bac84e963.jpg",
-     "href": "assets/img/ext/ffd6275bac84e963.jpg"
+     "img": "assets/img/ext/ffd6275bac84e953.jpg",
+     "href": "assets/img/ext/ffd6275bac84e953.jpg"
     },
     {
      "t": "2017.10",
@@ -2683,7 +2683,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "assets/img/ext/43a8e82aa47b8652.jpg",
+   "image": "assets/img/ext/43a8e81aa47b8652.jpg",
    "points": [
     "饰哈瓦尔"
    ],
@@ -2732,7 +2732,7 @@ window.HUB = {
    "cat": "影像",
    "price": "DVD",
    "publisher": "",
-   "image": "assets/img/ext/a64fea4b4439e96c.jpg",
+   "image": "assets/img/ext/a64fea4b4439e95c.jpg",
    "points": [
     "饰科利乌斯；2021年出过Blu-ray复刻版"
    ],
@@ -3268,8 +3268,8 @@ window.HUB = {
     },
     {
      "t": "橡果亚克力钥匙扣（B组）",
-     "img": "assets/img/ext/39c20e9628413299.jpg",
-     "href": "assets/img/ext/39c20e9628413299.jpg"
+     "img": "assets/img/ext/39c20e9528413299.jpg",
+     "href": "assets/img/ext/39c20e9528413299.jpg"
     },
     {
      "t": "和纸风文件夹",
