@@ -79,7 +79,7 @@
     if(page==='detail')return;
     if(a.closest('#newsList,.news')){
       const n=window.HUB?.news.find(n=>n.title===a.textContent.trim());
-      if(n){a.href='detail.html?news='+encodeURIComponent(n.date+'|'+n.title);a.removeAttribute('target');remember();return}
+      if(n){const u=window.archiveNewsUrl(n);a.href=u;if(/^detail\.html/.test(u)){a.removeAttribute('target');remember()}else{a.target='_blank';a.rel='noopener noreferrer'}return}
     }
     const u=new URL(a.href,location.href);
     if(u.origin===location.origin&&u.pathname.endsWith('/list.html')&&u.hash){
