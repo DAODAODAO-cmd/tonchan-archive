@@ -21585,6 +21585,14 @@ window.ARCHIVE = {
     {
      "title": "官方X：活动特典ぷくぷく贴纸设计样本 2026.10.30",
      "url": "https://x.com/TVguidePERSON/status/2116093633686598001"
+    },
+    {
+     "title": "本人Instagram：通常版封面拍摄花絮（11/20，拍摄第一天拍的；吹着口哨下楼梯，进到大画框里一下切换状态）",
+     "url": "https://www.instagram.com/keisuke_higashi_official/reel/Df9jDa9yRIf/"
+    },
+    {
+     "title": "本人Instagram：FC写真集告知视频的NG花絮（11/16，镜头还没开就抢跑被工作人员叫停；正式版在FC站，会员内容）",
+     "url": "https://www.instagram.com/keisuke_higashi_official/reel/DfzW4G2Saob/"
     }
    ],
    "pending": false,

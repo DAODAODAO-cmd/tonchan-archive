@@ -244,10 +244,24 @@ window.HUB = {
  "news": [
   {
    "date": "2026-11-20",
+   "tag": "SNS",
+   "title": "本人Instagram发了《ECHOES》通常版封面的拍摄花絮",
+   "text": "这张封面是拍摄第一天拍的，之后还会陆续放幕后和花絮。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/reel/Df9jDa9yRIf/"
+  },
+  {
+   "date": "2026-11-20",
    "tag": "周边",
    "title": "写真集书名定为《ECHOES》，公开通常版和限定版封面",
    "text": "2027年1月8日发售，4,400日元，摄影 KEI OGATA；通常版黑白封面，限定版（Amazon·乐天）是放松的床上照。",
    "url": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html"
+  },
+  {
+   "date": "2026-11-16",
+   "tag": "SNS",
+   "title": "本人Instagram发了FC写真集告知视频的NG花絮",
+   "text": "镜头还没开就抢跑，被工作人员叫停后笑场；正式版在FC站（会员内容）。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/reel/DfzW4G2Saob/"
   },
   {
    "date": "2026-11-16",
@@ -1560,7 +1574,8 @@ window.HUB = {
     "7net：亲笔签名版（发售日后发货）",
     "Animate通贩：附生写真1张",
     "发售纪念活动：1/10 涩谷 SHIBUYA TSUTAYA · 1/17 池袋 HMVエソラ · 1/24 新宿 Book First（各13:00起，网上申请）",
-    "活动特典：ぷくぷく（立体泡泡）贴纸，10/30 官方X公开设计样本"
+    "活动特典：ぷくぷく（立体泡泡）贴纸，10/30 官方X公开设计样本",
+    "FC站有写真集告知视频（会员内容）"
    ],
    "url": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html",
    "cat": "写真集·杂志",
