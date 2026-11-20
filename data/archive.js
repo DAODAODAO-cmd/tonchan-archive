@@ -7128,20 +7128,6 @@ window.ARCHIVE = {
      "hasHigashi": true
     },
     {
-     "url": "https://www.meijiza.co.jp/lineup/2019/07/images/gallery/10.jpg",
-     "caption": "明治座舞台照：麟太郎（右）与父亲小吉（中村雅俊）",
-     "source": "https://www.meijiza.co.jp/lineup/2019/07/",
-     "asset": "xbf163ff666f86806",
-     "hasHigashi": true
-    },
-    {
-     "url": "https://www.meijiza.co.jp/lineup/2019/07/images/cast05.jpg",
-     "caption": "明治座官网演员照",
-     "source": "https://www.meijiza.co.jp/lineup/2019/07/",
-     "asset": "xabd8928f5d701370",
-     "hasHigashi": true
-    },
-    {
      "url": "https://www.meijiza.co.jp/lineup/2019/07/images/main_header.jpg",
      "caption": "主视觉",
      "source": "https://www.meijiza.co.jp/lineup/2019/07/",
@@ -7161,7 +7147,7 @@ window.ARCHIVE = {
    "roleRoma": "KATSU RINTARO",
    "workRoma": "KATSU KOKICHI DEN",
    "roleName": "胜麟太郎",
-   "cardPhoto": "assets/img/ext/abd8928f5d701370.jpg"
+   "cardPhoto": "assets/img/ext/38738a983f5fa139.jpg"
   },
   {
    "id": "bro_201908",
