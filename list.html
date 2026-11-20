@@ -198,6 +198,6 @@ if(location.hash){setTimeout(()=>{const el=document.getElementById(decodeURIComp
 <script>(function(){var g=new URLSearchParams(location.search).get('g')||'all';document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){if(a.dataset.g===g&&!a.classList.contains('main'))a.classList.add('on')});document.querySelectorAll('.tabbar a[data-g]').forEach(function(a){a.addEventListener('click',function(e){if(window.go){e.preventDefault();history.replaceState(null,'',a.href);window.go(a.dataset.g)}})})})();</script>
 <script src="assets/visit.js" defer></script>
 <script src="assets/browse-state.js?v=1120r13"></script>
-<script src="assets/navigation.js?v=1122a"></script>
+<script src="assets/navigation.js?v=1122b"></script>
 <script>document.addEventListener('load',function(e){var i=e.target;if(!i||i.tagName!=='IMG'||!i.closest('.card .img')||i.closest('.quad'))return;var b=i.parentNode.getBoundingClientRect();if(!b.width||!b.height||!i.naturalWidth)return;var r=Math.log((i.naturalWidth/i.naturalHeight)/(b.width/b.height));if(Math.abs(r)>0.28){i.style.objectFit='contain';i.style.objectPosition='center';i.style.position='relative';i.style.zIndex='1';if(!i.parentNode.querySelector('.bgblur')){var d=document.createElement('div');d.className='bgblur';d.style.backgroundImage='url("'+i.currentSrc+'")';i.parentNode.insertBefore(d,i)}}},true)</script></body>
 </html>
