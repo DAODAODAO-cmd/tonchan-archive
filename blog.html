@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN" data-page="blog">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="no-referrer"><meta name="theme-color" content="#fbf6ef">
+<title>Ameba博客存档 · 东启介资讯站</title><link rel="icon" href="favicon.ico">
+<link rel="stylesheet" href="assets/mobile.css?v=1121m">
+<style>
+*{box-sizing:border-box}body{margin:0;background:#fbf6ef;color:#3b3631;font:16px/1.8 -apple-system,BlinkMacSystemFont,"Microsoft YaHei",sans-serif}a{color:#365541;text-underline-offset:4px}button{font:inherit;cursor:pointer}img{max-width:100%;display:block}
+h1{font-family:"Songti SC",Georgia,serif;font-size:30px;line-height:1.45;margin:12px 0}.wrap{max-width:1000px;padding:0 20px;margin:auto}
+.top{position:sticky;top:0;background:#fbf6eff5;border-bottom:1px solid #ece3d6;z-index:20}.bar{display:flex;justify-content:space-between;align-items:center;min-height:58px;gap:16px}.bar a{text-decoration:none}
+main{padding-top:24px!important;padding-bottom:40px!important}.lead{color:#71675e;font-size:15px;margin:0 0 18px}
+.tools{position:sticky;top:58px;z-index:10;background:#fbf6eff0;padding:10px 0 12px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.tools button{border:0;border-radius:99px;background:#efe7dc;color:#5b5148;padding:6px 14px;font-size:14px}.tools button[aria-pressed=true]{background:#365541;color:#fff}
+.tools input{flex:1 1 180px;min-width:0;border:1px solid #e3d8c9;border-radius:99px;padding:7px 14px;background:#fffdf9;font:inherit;font-size:14px}
+.count{font-size:13px;color:#71675e;margin:4px 0 12px}
+.month{font-family:"Songti SC",Georgia,serif;font-size:18px;color:#8a6a4f;margin:26px 0 10px;border-bottom:1px solid #ece3d6;padding-bottom:4px}
+.post{background:#fffdf9;border-radius:18px;margin-bottom:12px;box-shadow:0 3px 16px #7860460c;overflow:hidden}
+.post summary{list-style:none;display:grid;grid-template-columns:minmax(0,1fr) 84px;gap:14px;padding:14px 18px;cursor:pointer;align-items:center}.post summary::-webkit-details-marker{display:none}
+.post .d{font-size:13px;color:#71675e}.post h2{font-size:17px;margin:2px 0 4px;line-height:1.5}.post .pv{font-size:14px;color:#71675e;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin:0}
+.post .th{width:84px;height:84px;border-radius:12px;object-fit:cover;background:#f4ece1}.post .th.none{visibility:hidden}
+.post[open] summary .pv,.post[open] summary .th{display:none}.post[open] summary{grid-template-columns:1fr}
+.body{padding:0 18px 18px}.body p{white-space:pre-line;margin:0 0 12px}.pics{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin:0 0 14px}
+.pics img{width:100%;border-radius:12px;background:#f4ece1;cursor:zoom-in}.lost{font-size:13px;color:#a2968b;margin:0 0 12px}
+.src{font-size:13px;color:#71675e;margin-top:6px}
+.missing{background:#fffdf9;border-radius:18px;padding:16px 18px;margin-top:26px;font-size:14px;color:#71675e}.missing ul{margin:6px 0 0;padding-left:20px}
+dialog.zoom{border:0;padding:0;background:transparent;max-width:96vw;max-height:94vh}dialog.zoom::backdrop{background:#000c}dialog.zoom img{max-width:96vw;max-height:94vh;border-radius:8px}
+footer{padding:22px;font-size:13px;text-align:center;color:#71675e}:focus-visible{outline:3px solid #b8694a;outline-offset:4px}
+@media(max-width:640px){.wrap{padding:0 14px}h1{font-size:24px}.post summary{grid-template-columns:minmax(0,1fr) 64px;padding:12px 14px}.post .th{width:64px;height:64px}.body{padding:0 14px 14px}.pics{grid-template-columns:repeat(2,minmax(0,1fr))}.tools{top:56px}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap bar"><a href="index.html">東 · 东启介档案</a><a href="index.html?view=about">个人资料</a></div></header>
+<main class="wrap" id="blog">
+<h1>Ameba 博客存档</h1>
+<p class="lead" id="lead"></p>
+<div class="tools" id="years"></div>
+<div class="count" id="count"></div>
+<div id="list"></div>
+<div id="miss"></div>
+</main><footer>东启介资讯站 · 非官方</footer>
+<dialog class="zoom" id="zoom"><img alt=""></dialog>
+<script src="data/ameblo.js?v=1122a"></script>
+<script>
+(()=>{
+const B=window.AMEBLO||{entries:[],missing:[]};const E=B.entries;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const $=id=>document.getElementById(id);
+const imgs=E.reduce((a,e)=>a+e.blocks.filter(b=>b.img).length,0);
+$('lead').textContent='他2013年12月开的官方博客，写到2020年10月停止更新，原博客已经删掉了。这里按 Internet Archive 的存档整理，共 '+E.length+' 篇、'+imgs+' 张图。有些图当时没被存下来，就只剩文字。';
+const years=[...new Set(E.map(e=>e.date.slice(0,4)))];
+let year='',q='';
+$('years').innerHTML='<button type="button" data-y="" aria-pressed="true">全部</button>'+years.map(y=>`<button type="button" data-y="${y}" aria-pressed="false">${y}</button>`).join('')+'<input type="search" id="q" placeholder="搜正文，比如 稽古、猫">';
+const text=e=>e.blocks.filter(b=>b.t).map(b=>b.t).join('\n');
+const post=e=>{const first=e.blocks.find(b=>b.img);const pv=text(e).replace(/\s+/g,' ').slice(0,90);
+let body='',pics=[];const flushPics=()=>{if(pics.length){body+='<div class="pics">'+pics.map(p=>`<img src="${esc(p)}" alt="" loading="lazy">`).join('')+'</div>';pics=[]}};
+for(const b of e.blocks){if(b.img)pics.push(b.img);else{flushPics();if(b.t)body+='<p>'+esc(b.t)+'</p>';else if(b.lost)body+='<p class="lost">（'+b.lost+' 张图片没有存档）</p>'}}flushPics();
+return `<details class="post" id="p${e.id}"><summary><div><div class="d">${esc(e.date.replace('T',' ').slice(0,16))}</div><h2>${esc(e.title)}</h2><p class="pv">${esc(pv)}</p></div>${first?`<img class="th" src="${esc(first.img)}" alt="" loading="lazy">`:'<span class="th none"></span>'}</summary><div class="body">${body}<div class="src">原文：ameblo.jp/keisuke-higashi-we/entry-${esc(e.id)}.html（已删除）</div></div></details>`};
+const render=()=>{const k=q.trim().toLowerCase();const list=E.filter(e=>(!year||e.date.startsWith(year))&&(!k||(e.title+'\n'+text(e)).toLowerCase().includes(k))).slice().reverse();
+$('count').textContent=list.length+' 篇';let html='',m='';for(const e of list){const mm=e.date.slice(0,7);if(mm!==m){m=mm;html+=`<div class="month">${mm.slice(0,4)}年${+mm.slice(5)}月</div>`}html+=post(e)}$('list').innerHTML=html||'<p class="lead">没有找到。</p>'};
+$('years').addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;year=b.dataset.y;$('years').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));render()});
+$('q').addEventListener('input',ev=>{q=ev.target.value;render()});
+$('list').addEventListener('click',ev=>{const i=ev.target.closest('.pics img');if(!i)return;const z=$('zoom');z.querySelector('img').src=i.src;z.showModal()});
+$('zoom').addEventListener('click',()=>$('zoom').close());
+if(B.missing&&B.missing.length)$('miss').innerHTML='<div class="missing">另有 '+B.missing.length+' 篇只知道标题，正文没有存档：<ul>'+B.missing.filter(m=>m.title).map(m=>'<li>'+esc(m.title)+'</li>').join('')+'</ul></div>';
+render();
+if(location.hash.startsWith('#p')){const d=document.querySelector(location.hash);if(d){d.open=true;d.scrollIntoView()}}
+})();
+</script>
+<script src="assets/navigation.js?v=1122a"></script>
+</body></html>
