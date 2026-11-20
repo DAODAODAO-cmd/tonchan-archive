@@ -9615,20 +9615,28 @@ window.ARCHIVE = {
   },
   {
    "id": "mag_mc_51489420",
-   "date": "2021-01",
+   "date": "2020-12-16",
    "end": "",
    "category": "杂志",
-   "title": "《月刊ザテレビジョン》｜东启介×滨边美波（《我家女儿交不到男朋友!!》）",
-   "japanese": "月刊ザテレビジョン",
+   "title": "《月刊ザテレビジョン》2021年2月号｜东启介写真页",
+   "japanese": "月刊ザテレビジョン 首都圏版 2021年2月号",
    "role": "",
    "crew": "",
    "key": "",
-   "url": "",
-   "note": "",
+   "url": "https://www.kadokawa.co.jp/product/322002001569/",
+   "note": "2020年12月16日发售，封面关8。有东启介的写真页，电子版还加了页数。同一期有《我家女儿交不到男朋友!!》菅野美穗和滨边美波的专题。",
    "status": "",
    "origin": "2026.11.17补充",
    "dateKind": "发售期（约）",
-   "images": [],
+   "images": [
+    {
+     "url": "https://cdn.kdkw.jp/cover_1000/322002/322002001569.webp",
+     "caption": "封面",
+     "source": "https://www.kadokawa.co.jp/product/322002001569/",
+     "asset": "xee4572a1b8d67fbd",
+     "resolution": "783 × 1000"
+    }
+   ],
    "videos": [],
    "pending": true,
    "kind": "活动／作品",
@@ -41607,7 +41615,8 @@ window.ARCHIVE = {
   "x573f9102d927921c": "assets/img/ext/573f9102d927921c.jpg",
   "x1d50b969d217433e": "assets/img/ext/1d50b969d217433e.jpg",
   "xdbd47685a7ee8350": "assets/img/ext/dbd47685a7ee8350.jpg",
-  "xacc4f91626a31526": "assets/img/ext/acc4f91626a31526.jpg"
+  "xacc4f91626a31526": "assets/img/ext/acc4f91626a31526.jpg",
+  "xee4572a1b8d67fbd": "assets/img/ext/ee4572a1b8d67fbd.webp"
  },
  "biliLeads": [
   {
