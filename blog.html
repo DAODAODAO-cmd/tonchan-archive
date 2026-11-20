@@ -67,7 +67,7 @@ $('years').addEventListener('click',ev=>{const b=ev.target.closest('button');if(
 $('q').addEventListener('input',ev=>{q=ev.target.value;render()});
 $('list').addEventListener('click',ev=>{const i=ev.target.closest('.pics img');if(!i)return;const z=$('zoom');z.querySelector('img').src=i.src;z.showModal()});
 $('zoom').addEventListener('click',()=>$('zoom').close());
-if(B.headers&&B.headers.length){const H=B.headers.filter(h=>h.kind!=='sp');$('hdrs').querySelector('summary').textContent='历代页头（'+H.length+' 张，按存档时间）';$('hdrs').querySelector('.hlist').innerHTML=H.map(h=>'<figure><img src="'+esc(h.img)+'" alt="" loading="lazy"><figcaption>'+esc(h.date.slice(0,7).replace('-','年'))+'月存档</figcaption></figure>').join('')}
+if(B.headers&&B.headers.length){const H=B.headers.filter(h=>h.kind!=='sp'&&!/008e438a/.test(h.img));$('hdrs').querySelector('summary').textContent='历代页头（'+H.length+' 张，按存档时间）';$('hdrs').querySelector('.hlist').innerHTML=H.map(h=>'<figure><img src="'+esc(h.img)+'" alt="" loading="lazy"><figcaption>'+esc(h.date.slice(0,7).replace('-','年'))+'月存档</figcaption></figure>').join('')}
 if(B.missing&&B.missing.length)$('miss').innerHTML='<div class="missing">另有 '+B.missing.length+' 篇在存档里只留下了链接，标题和正文都没有。</div>';
 render();
 if(location.hash.startsWith('#p')){const d=document.querySelector(location.hash);if(d){d.open=true;d.scrollIntoView()}}
