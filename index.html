@@ -414,8 +414,8 @@ footer p{margin:4px 0}
   <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
-<script src="data/archive.js?v=1119z"></script>
-<script src="data/hub.js?v=1119z"></script>
+<script src="data/archive.js?v=1120a"></script>
+<script src="data/hub.js?v=1120a"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -473,7 +473,7 @@ const groups=[
 let curG='stage';
 function drawWorks(){const g=groups.find(x=>x.k===curG);$('worksGrid').className='works'+(g.ls?' ls':'');const all=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
   const withImg=all.filter(e=>e.images&&e.images.length&&e.date<=today||e.images&&e.images.length&&e.date>today);const NW=MOB?4:6;let pick=withImg.slice(0,NW);if(pick.length<NW)pick=pick.concat(all.filter(e=>!pick.includes(e)).slice(0,NW-pick.length));pick.sort((a,b)=>b.date.localeCompare(a.date));
-  $('worksGrid').innerHTML=pick.map(e=>{const ims=e.images||[];const im=g.poster?(e.cardPoster?{url:e.cardPoster,caption:'海报'}:ims.find(i=>/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ/i.test(i.caption||''))||ims[0]):ims[0];return '<a class="card w" href="list.html?g='+curG+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.sub?'·'+esc(e.sub):'')+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
+  $('worksGrid').innerHTML=pick.map(e=>{const ims=e.images||[];const PR=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图/i;const im=g.poster?(ims.find(i=>/角色照|角色图|角色视觉|公式照|定妆|官方角色/.test(i.caption||''))||ims.find(i=>/剧照|场面照|幕后/.test(i.caption||''))||ims.find(i=>!PR.test(i.caption||''))||ims[0]):ims[0];return '<a class="card w" href="list.html?g='+curG+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.sub?'·'+esc(e.sub):'')+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
   $('worksMore').href=$('worksMore2').href='list.html?g='+curG;$('worksMore2').textContent='查看全部 '+all.length+' 条 '+g.t+' →';
   $('workTabs').innerHTML=groups.map(x=>'<button class="'+(x.k===curG?'on':'')+'" data-k="'+x.k+'">'+x.t+'<small>'+A.events.filter(e=>x.cats.includes(e.category)).length+'</small></button>').join('')}
 $('workTabs').onclick=e=>{const b=e.target.closest('button');if(b){curG=b.dataset.k;drawWorks()}};drawWorks();

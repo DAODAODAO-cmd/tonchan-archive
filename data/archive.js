@@ -14774,11 +14774,6 @@ window.ARCHIVE = {
      "asset": "x4ed6bacc5aa0427b"
     },
     {
-     "url": "https://cdn-corpprod.pressidium.com/jp/wp-content/uploads/sites/5/news_20230915-1.jpg",
-     "caption": "主视觉（插画：ますだみく）",
-     "source": "AOI Pro."
-    },
-    {
      "url": "https://spice.eplus.jp/images/Bw0Jg2FABavf4oAnzuzzqy2VPpHkAMPTRpR2tRTgWYjAVANRMSmoJeHoUOt6FnbH",
      "caption": "SPICE 公演资讯",
      "source": "SPICE",
