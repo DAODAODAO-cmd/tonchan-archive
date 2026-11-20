@@ -279,8 +279,8 @@ window.HUB = {
   },
   {
    "date": "2026-11-16",
-   "tag": "采访",
-   "title": "刀舞《陽伝》官网更新媒体露出一览",
+   "tag": "舞台",
+   "title": "刀舞《陽伝》公布媒体露出一览",
    "text": "收录各媒体陽伝相关采访的发布日期和链接，会持续追加。",
    "url": "https://stage-toukenranbu.jp/news/hiden2/4184"
   },
@@ -321,13 +321,6 @@ window.HUB = {
   },
   {
    "date": "2026-11-11",
-   "tag": "舞台",
-   "title": "刀舞《陽伝》东京明治座正式公演开幕",
-   "text": "东京至11月29日，之后大阪新歌舞伎座、东京凯旋。",
-   "url": "https://stage-toukenranbu.jp/stage/"
-  },
-  {
-   "date": "2026-11-11",
    "tag": "SNS",
    "title": "本人X：刀舞《陽伝》首日顺利结束",
    "text": "感谢来剧场和看直播的大家。",
@@ -335,17 +328,10 @@ window.HUB = {
   },
   {
    "date": "2026-11-10",
-   "tag": "舞台",
-   "title": "刀舞《陽伝》预演开幕；Blu-ray/DVD定于2027年5月19日发售",
+   "tag": "影视",
+   "title": "刀舞《陽伝》Blu-ray/DVD 定于2027年5月19日发售",
    "text": "东启介时隔八年再演烛台切光忠。前后编二部作，演至12月31日。",
    "url": "https://stage-toukenranbu.jp/stage/"
-  },
-  {
-   "date": "2026-11-10",
-   "tag": "杂志",
-   "title": "《PASH!》2026年12月号｜秋谷郁甫×东启介",
-   "text": "“十二支画报”连载第1回，音澄宙与岭高华武利的写真和对谈。",
-   "url": "https://www.pashplus.jp/blog/500710/"
   },
   {
    "date": "2026-11-10",
@@ -369,13 +355,6 @@ window.HUB = {
    "url": "https://x.com/keisuke_higashi/status/2116027424798593508"
   },
   {
-   "date": "2026-10-28",
-   "tag": "杂志",
-   "title": "《anan》No.2517 刀舞总力特集",
-   "text": "烛台切光忠单人写真＋采访，以及13振集合写真。共三种版本，买前请对照版本。",
-   "url": "https://ananweb.jp/categories/covers/113785"
-  },
-  {
    "date": "2026-10-25",
    "tag": "SNS",
    "title": "本人X：《麦斯》第8集播出后开了 Instagram 直播",
@@ -388,13 +367,6 @@ window.HUB = {
    "title": "写真集池袋会场追加发券",
    "text": "部分售罄券种追加，10/25 12:00起开售，售完即止。",
    "url": "https://zasshi.tv/products/62295/"
-  },
-  {
-   "date": "2026-10-18",
-   "tag": "综艺",
-   "title": "《玉城裕规的月下美人》第八十三夜 7周年BBQ特别篇 嘉宾出演",
-   "text": "与和田琢磨一同作为嘉宾；niconico 有前10分钟免费片段。",
-   "url": "https://www.nicovideo.jp/watch/so46942722"
   },
   {
    "date": "2026-10-18",
@@ -416,13 +388,6 @@ window.HUB = {
    "title": "本人X：《麦斯》第7集：终于和麦斯见面，第一次变身",
    "text": "说到现在还像在做梦。",
    "url": "https://x.com/keisuke_higashi/status/2111616362506547673"
-  },
-  {
-   "date": "2026-10-17",
-   "tag": "影视",
-   "title": "《十二支十色》第7话“完美男友检定～岭高华武利篇～”配信",
-   "text": "以华武利为主角的一话。",
-   "url": "https://www.youtube.com/watch?v=HiW6nsnVHo8"
   },
   {
    "date": "2026-10-15",
@@ -447,13 +412,6 @@ window.HUB = {
   },
   {
    "date": "2026-10-13",
-   "tag": "舞台",
-   "title": "《王者天下Ⅱ：继承》博多座千秋乐，全公演结束",
-   "text": "东京、大阪、福冈三地巡演，饰庞煖。",
-   "url": "https://www.tohostage.com/kingdom2/"
-  },
-  {
-   "date": "2026-10-13",
    "tag": "SNS",
    "title": "本人X：为《王者天下Ⅱ》大千秋乐打气",
    "text": "自己的场次已结束，祝福还在博多演出的大家。",
@@ -474,13 +432,6 @@ window.HUB = {
    "url": "https://www.instagram.com/keisuke_higashi_official/p/DeJ6KBTko-v/"
   },
   {
-   "date": "2026-10-01",
-   "tag": "杂志",
-   "title": "《宇宙船》vol.194｜《假面骑士麦斯》专访",
-   "text": "东启介专访在第41页，另附Maou海报。",
-   "url": "https://www.uchusen-mag.jp/"
-  },
-  {
    "date": "2026-09-29",
    "tag": "SNS",
    "title": "本人X：《王者天下Ⅱ》自己的大千秋乐结束",
@@ -493,13 +444,6 @@ window.HUB = {
    "title": "刀舞《陽伝》公开故事梗概与追加卡司",
    "text": "前后编两部作，11月10日明治座预演开始。",
    "url": "https://www.toukenranbu.jp/topics/5695/"
-  },
-  {
-   "date": "2026-09-13",
-   "tag": "舞台",
-   "title": "《王者天下Ⅱ：继承》东京公演落幕",
-   "text": "Brillia HALL；9月21日起转战大阪新歌舞伎座。",
-   "url": "https://www.tohostage.com/kingdom2/"
   },
   {
    "date": "2026-09-13",
@@ -538,24 +482,10 @@ window.HUB = {
   },
   {
    "date": "2026-09-06",
-   "tag": "影视",
-   "title": "《假面骑士麦斯》开播",
-   "text": "每周日9:00，朝日电视台系列。",
-   "url": "https://www.tv-asahi.co.jp/my-th/"
-  },
-  {
-   "date": "2026-09-06",
    "tag": "SNS",
    "title": "本人X：《麦斯》第1集播出",
    "text": "说真的一直在等这一天；十二支同盟还上了趋势。",
    "url": "https://x.com/keisuke_higashi/status/2096395647834611948"
-  },
-  {
-   "date": "2026-09-05",
-   "tag": "采访",
-   "title": "STREAM｜东启介《SWAN》专访",
-   "text": "「人生只有一次，不管失败与否，笔直奔跑的样子很帅」。",
-   "url": "https://strmweb.jp/archives/22701/"
   },
   {
    "date": "2026-09-05",
@@ -573,13 +503,6 @@ window.HUB = {
   },
   {
    "date": "2026-09-04",
-   "tag": "舞台",
-   "title": "朗读剧《SWAN：Ballet cross Reading》开演",
-   "text": "新国立剧场 中剧场，至9月9日；饰演草壁飞翔。",
-   "url": "https://swan-balletcrossreading.com/"
-  },
-  {
-   "date": "2026-09-04",
    "tag": "SNS",
    "title": "本人Instagram：《SWAN》首日顺利结束",
    "text": "说是新的朗读剧形式；渡边小姐送了他一双芭蕾舞鞋。",
@@ -591,20 +514,6 @@ window.HUB = {
    "title": "本人X：体育日本专访「令和的最终BOSS？！」",
    "text": "自己也被标题吓了一跳。",
    "url": "https://x.com/keisuke_higashi/status/2095864880276676721"
-  },
-  {
-   "date": "2026-09-02",
-   "tag": "采访",
-   "title": "Animate Times｜华武利与Maou的“顽皮魅力”",
-   "text": "谈角色存在感、和皮套演员的配合，以及第一次拍特摄的体验。",
-   "url": "https://www.animatetimes.com/news/details.php?id=1788235894"
-  },
-  {
-   "date": "2026-08-31",
-   "tag": "采访",
-   "title": "演剧媒体Audience｜东启介×西野辽《SWAN》对谈",
-   "text": "目标是“跨越芭蕾与戏剧界线的瞬间”。",
-   "url": "https://engeki-audience.com/article/detail/23194/"
   },
   {
    "date": "2026-08-30",
@@ -656,20 +565,6 @@ window.HUB = {
    "url": "https://www.instagram.com/keisuke_higashi_official/p/DcQ8EuJEhwu/"
   },
   {
-   "date": "2026-08-09",
-   "tag": "舞台",
-   "title": "《王者天下Ⅱ：继承》开幕",
-   "text": "Brillia HALL，饰庞煖。",
-   "url": "https://www.tohostage.com/kingdom2/"
-  },
-  {
-   "date": "2026-08-07",
-   "tag": "影视",
-   "title": "电影《蓝色监狱》上映",
-   "text": "饰马狼照英。",
-   "url": "https://bluelock-movie.jp/"
-  },
-  {
    "date": "2026-08-07",
    "tag": "SNS",
    "title": "本人Instagram：电影《蓝色监狱》上映",
@@ -698,18 +593,18 @@ window.HUB = {
    "url": "https://www.instagram.com/keisuke_higashi_official/p/Da1sE-eEs78/"
   },
   {
+   "date": "2026-07-15",
+   "tag": "影视",
+   "title": "确定出演《假面骑士麦斯》，饰演岭高华武利／假面骑士Maou",
+   "text": "十二支同盟的首领。",
+   "url": "https://www.cinematoday.jp/news/N0155885"
+  },
+  {
    "date": "2026-07-13",
    "tag": "SNS",
    "title": "本人Instagram：电影《蓝色监狱》世界首映感谢",
    "text": "自己看了成片，重新感受到所有参与者的热量。",
    "url": "https://www.instagram.com/keisuke_higashi_official/p/DavKutPkplr/"
-  },
-  {
-   "date": "2026-07-10",
-   "tag": "采访",
-   "title": "《SWAN》官方演员访谈视频公开",
-   "text": "东启介谈草壁飞翔一角。",
-   "url": "https://www.youtube.com/watch?v=0hsF8IqwY1o"
   },
   {
    "date": "2026-06-30",
@@ -745,6 +640,13 @@ window.HUB = {
    "title": "本人Instagram：去看了 &TEAM 的演出",
    "text": "「K はさすが」，说太帅了。",
    "url": "https://www.instagram.com/keisuke_higashi_official/p/DYW8ltgkmeO/"
+  },
+  {
+   "date": "2026-05-14",
+   "tag": "影视",
+   "title": "确定出演电影《蓝色监狱》，饰演马狼照英",
+   "text": "8月7日上映。",
+   "url": "https://natalie.mu/stage/news/671971"
   },
   {
    "date": "2026-05-13",
