@@ -414,8 +414,8 @@ footer p{margin:4px 0}
   <p>东启介资讯站 · 非官方</p>
 </div></footer>
 
-<script src="data/archive.js?v=1119y"></script>
-<script src="data/hub.js?v=1119y"></script>
+<script src="data/archive.js?v=1119z"></script>
+<script src="data/hub.js?v=1119z"></script>
 <script>
 'use strict';
 const H=window.HUB,A=window.ARCHIVE,$=id=>document.getElementById(id);
@@ -459,11 +459,12 @@ $('newsFilters').onclick=e=>{const b=e.target.closest('button');if(b){curTag=b.d
 
 /* works：按类别分组 */
 const groups=[
-  {k:'stage',t:'舞台',cats:['舞台','朗读剧'],poster:1},
+  {k:'stage',t:'舞台',cats:['舞台','朗读剧']},
   {k:'screen',t:'影视',cats:['电视剧','网络剧','电影','动画电影'],poster:1},
-  {k:'live',t:'音乐会',cats:['音乐会'],poster:1},
+  {k:'live',t:'音乐会',cats:['音乐会'],ls:1},
   {k:'mag',t:'杂志',cats:['杂志']},
-  {k:'int',t:'采访·连载',cats:['采访／连载','本人摄影／随笔'],ls:1},
+  {k:'int',t:'采访·连载',cats:['采访／连载'],ls:1},
+  {k:'own',t:'本人摄影·随笔',cats:['本人摄影／随笔'],ls:1},
   {k:'radio',t:'广播',cats:['广播／音声'],ls:1},
   {k:'variety',t:'综艺·节目',cats:['电视节目'],ls:1},
   {k:'photo',t:'写真·影像·音乐',cats:['写真／出版']},
@@ -472,7 +473,7 @@ const groups=[
 let curG='stage';
 function drawWorks(){const g=groups.find(x=>x.k===curG);$('worksGrid').className='works'+(g.ls?' ls':'');const all=A.events.filter(e=>g.cats.includes(e.category)).sort((a,b)=>b.date.localeCompare(a.date));
   const withImg=all.filter(e=>e.images&&e.images.length&&e.date<=today||e.images&&e.images.length&&e.date>today);const NW=MOB?4:6;let pick=withImg.slice(0,NW);if(pick.length<NW)pick=pick.concat(all.filter(e=>!pick.includes(e)).slice(0,NW-pick.length));pick.sort((a,b)=>b.date.localeCompare(a.date));
-  $('worksGrid').innerHTML=pick.map(e=>{const ims=e.images||[];const im=g.poster?(e.cardPoster?{url:e.cardPoster,caption:'海报'}:ims.find(i=>/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ/i.test(i.caption||''))||ims[0]):ims[0];return '<a class="card w" href="list.html?g='+curG+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
+  $('worksGrid').innerHTML=pick.map(e=>{const ims=e.images||[];const im=g.poster?(e.cardPoster?{url:e.cardPoster,caption:'海报'}:ims.find(i=>/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ/i.test(i.caption||''))||ims[0]):ims[0];return '<a class="card w" href="list.html?g='+curG+'"><div class="img">'+(im?'<img src="'+esc(imgOf(im))+'"'+(im.pos?' style="object-position:'+esc(im.pos)+'"':'')+' alt="'+esc(im.caption)+'" loading="lazy">':'<div class="phx"><i>'+e.date.slice(0,4)+'</i>'+esc(e.title)+'</div>')+'</div><div class="b"><span class="meta">'+fmt(e.date)+' · '+esc(e.category)+(e.sub?'·'+esc(e.sub):'')+(e.date>today?' · 未来':'')+'</span><b>'+esc(e.title)+'</b>'+(e.role&&e.role!=='本人'?'<span class="r">饰 '+esc(e.role)+'</span>':'')+'</div></a>'}).join('')||'<div class="empty">暂无</div>';
   $('worksMore').href=$('worksMore2').href='list.html?g='+curG;$('worksMore2').textContent='查看全部 '+all.length+' 条 '+g.t+' →';
   $('workTabs').innerHTML=groups.map(x=>'<button class="'+(x.k===curG?'on':'')+'" data-k="'+x.k+'">'+x.t+'<small>'+A.events.filter(e=>x.cats.includes(e.category)).length+'</small></button>').join('')}
 $('workTabs').onclick=e=>{const b=e.target.closest('button');if(b){curG=b.dataset.k;drawWorks()}};drawWorks();

@@ -3314,7 +3314,8 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [],
+   "sub": "综艺"
   },
   {
    "id": "mag_mc_377465",
@@ -9010,7 +9011,8 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "综艺"
   },
   {
    "id": "mag_fs2075835",
@@ -9220,7 +9222,8 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "再现短剧"
   },
   {
    "id": "tv_zip210226",
@@ -9253,7 +9256,8 @@ window.ARCHIVE = {
    ],
    "pending": true,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "综艺"
   },
   {
    "id": "mag_mc_63082374",
@@ -10526,7 +10530,8 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [],
+   "sub": "综艺"
   },
   {
    "id": "bro_202201",
@@ -11534,7 +11539,8 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [],
+   "sub": "音乐节目"
   },
   {
    "id": "e98",
@@ -11814,7 +11820,8 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [],
+   "sub": "音乐节目"
   },
   {
    "id": "e51",
@@ -12183,7 +12190,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "音乐节目"
   },
   {
    "id": "e52",
@@ -15903,7 +15911,8 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [],
+   "sub": "旅行"
   },
   {
    "id": "bro_202402",
@@ -16383,7 +16392,8 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [],
+   "sub": "音乐节目"
   },
   {
    "id": "bro_202404",
@@ -17451,7 +17461,8 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "作品放送"
   },
   {
    "id": "mag_rk18060821",
@@ -18265,7 +18276,8 @@ window.ARCHIVE = {
      "title": "《泽西男孩》组曲（B站搬运）",
      "url": "https://www.bilibili.com/video/BV1es5fz3Eam/"
     }
-   ]
+   ],
+   "sub": "音乐节目"
   },
   {
    "id": "e68",
@@ -18525,7 +18537,8 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [],
+   "sub": "音乐节目"
   },
   {
    "id": "bro_202506",
@@ -19116,7 +19129,8 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": []
+   "videos": [],
+   "sub": "音乐节目"
   },
   {
    "id": "bro_202510",
@@ -19467,7 +19481,8 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "旅行"
   },
   {
    "id": "bro_202604",
@@ -20699,7 +20714,8 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "综艺"
   },
   {
    "id": "mag_anan2517",
@@ -20876,7 +20892,8 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "作品放送"
   },
   {
    "id": "u_animate",
@@ -21199,7 +21216,8 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "作品放送"
   },
   {
    "id": "u_kiseki_tk1",
@@ -21352,7 +21370,8 @@ window.ARCHIVE = {
    ],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "sub": "作品放送"
   },
   {
    "id": "u_kiseki_tk2",
