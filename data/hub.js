@@ -154,7 +154,7 @@ window.HUB = {
   {
    "title": "舞台《刀剑乱舞》陽伝 月亮、太阳与繁星",
    "ja": "舞台『刀剣乱舞』陽伝 月と太陽と星々よ",
-   "role": "烛台切光忠（燭台切光忠・しょくだいきり みつただ）",
+   "role": "烛台切光忠（燭台切光忠）",
    "kind": "舞台 · 前后编二部作",
    "image": "assets/img/ext/40cf696a3e65aa14.jpg",
    "imageNote": "官网角色视觉：烛台切光忠",
@@ -188,7 +188,7 @@ window.HUB = {
   {
    "title": "《假面骑士麦斯》",
    "ja": "仮面ライダーマイス",
-   "role": "岭高华武利（嶺髙華武利・みねたか かむり）／假面骑士Maou（仮面ライダーマオウ）",
+   "role": "岭高华武利（嶺髙華武利）／假面骑士Maou（仮面ライダーマオウ）",
    "kind": "电视剧 · 朝日电视台系列",
    "image": "assets/img/ext/393631f6813c1f69.webp",
    "imageNote": "朝日电视台官网角色图",
@@ -218,7 +218,7 @@ window.HUB = {
  "recent": [
   {
    "title": "舞台《王者天下Ⅱ：继承》",
-   "role": "庞煖（龐煖・ほうけん）",
+   "role": "庞煖（龐煖）",
    "date": "2026/8/9–10/13",
    "image": "assets/img/ext/ad4aad058be1b051.jpg",
    "imageNote": "官网舞台剧照",
@@ -226,7 +226,7 @@ window.HUB = {
   },
   {
    "title": "电影《蓝色监狱》",
-   "role": "马狼照英（馬狼照英・ばろう しょうえい）",
+   "role": "马狼照英（馬狼照英）",
    "date": "2026/8/7 上映",
    "image": "assets/img/ext/c5c40f116e8e2c23.jpg",
    "imageNote": "官网角色公式照：马狼照英",

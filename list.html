@@ -124,15 +124,15 @@ footer a{color:var(--sage)}
   <main id="out"></main>
 </div>
 <footer><div class="wrap">东启介资讯站 · 非官方 · <a href="archive.html">旧版档案</a></div></footer>
-<script src="data/archive.js?v=1120l"></script>
-<script src="data/hub.js?v=1120l"></script>
+<script src="data/archive.js?v=1120m"></script>
+<script src="data/hub.js?v=1120m"></script>
 <script>
 'use strict';
 const A=window.ARCHIVE,H=window.HUB,$=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
 const fmt=d=>d?d.replaceAll('-','.'):'';
-const WORKC=['舞台','音乐会','音乐剧','朗读剧','电视剧','电影','网络剧'];const thumbOf=e=>{const ims=e.images||[];if(WORKC.includes(e.category)){if(e.cardPoster)return {url:e.cardPoster,caption:'海报'};const p=ims.find(i=>/海报|主视觉|宣传单|ビジュアル/i.test(i.caption||''));if(p)return p}return ims[0]};const imgOf=im=>im?(im.asset&&A.assets[im.asset])||im.url||'':'';
+const WORKC=['舞台','音乐会','音乐剧','朗读剧','电视剧','电影','网络剧'];const PR=/海报|主视觉|ビジュアル|visual|宣传单|フライヤー|チラシ|宣传图|封面|ytimg/i;const PICK=ims=>ims.find(i=>/角色照|角色图|角色视觉|角色写真|公式照|定妆|官方角色|人物照|扮相/.test(i.caption||'')&&!/ytimg/.test(i.url||''))||ims.find(i=>/剧照|舞台照|场面照|幕后/.test(i.caption||''))||ims.find(i=>!PR.test((i.caption||'')+' '+(i.url||'')))||ims[0];const thumbOf=e=>{const ims=e.images||[];if(WORKC.includes(e.category)){if(e.cardPhoto)return {url:e.cardPhoto,caption:e.title};return PICK(ims)}return ims[0]};const imgOf=im=>im?(im.asset&&A.assets[im.asset])||im.url||'':'';
 /* 分类：作品 / 媒体 / 其他 三组；ls=横版卡片 */
 const G={
   all:{t:'全部编年',en:'ARCHIVE',d:'从出道到现在，按时间排，上面可以按类别筛。'},
