@@ -1049,7 +1049,7 @@ window.HUB = {
    "title": "个人活动《Two-ton》周边",
    "status": "已售罄",
    "price": "生写真3种 · 生写真收纳册 1,800円 · 票夹 · とん缶",
-   "image": "assets/img/ext/e49b0f93c4261a5e.jpg",
+   "image": "assets/img/ext/767c2481e0690504.jpg",
    "points": [
     "亲笔Logo，从选品到设计全程本人监制",
     "收纳册印着本人手写的「想」字"
@@ -1057,20 +1057,6 @@ window.HUB = {
    "url": "https://ameblo.jp/we-goodsinfo/entry-12369629960.html",
    "publisher": "WE SHOP／ワタナベ商店",
    "items": [
-    {
-     "t": "生写真套组B（L判3枚）",
-     "st": "缺货",
-     "img": "assets/img/ext/dc662513de1014dc.jpg",
-     "u": "https://7net.omni7.jp/detail/1301392057.html",
-     "href": "assets/img/ext/dc662513de1014dc.jpg"
-    },
-    {
-     "t": "生写真套组A（L判3枚）",
-     "st": "缺货",
-     "img": "assets/img/ext/82a6e728f79c113a.jpg",
-     "u": "https://7net.omni7.jp/detail/1301392056.html",
-     "href": "assets/img/ext/82a6e728f79c113a.jpg"
-    },
     {
      "t": "生写真（2L判2枚）",
      "st": "缺货",
@@ -1100,32 +1086,32 @@ window.HUB = {
      "href": "assets/img/ext/f90e5a1463bdd66f.jpg"
     },
     {
-     "t": "生写真套组〈A〉",
+     "t": "生写真套组A（L判3枚）",
      "img": "assets/img/ext/767c2481e0690504.jpg",
      "href": "assets/img/ext/767c2481e0690504.jpg"
     },
     {
-     "t": "生写真套组〈A〉",
+     "t": "生写真套组A（L判3枚）",
      "img": "assets/img/ext/a0e1704ea64a1848.jpg",
      "href": "assets/img/ext/a0e1704ea64a1848.jpg"
     },
     {
-     "t": "生写真套组〈A〉",
+     "t": "生写真套组A（L判3枚）",
      "img": "assets/img/ext/e94ce59f0b8d3b4b.jpg",
      "href": "assets/img/ext/e94ce59f0b8d3b4b.jpg"
     },
     {
-     "t": "生写真套组〈B〉",
+     "t": "生写真套组B（L判3枚）",
      "img": "assets/img/ext/e2073d169818cd3b.jpg",
      "href": "assets/img/ext/e2073d169818cd3b.jpg"
     },
     {
-     "t": "生写真套组〈B〉",
+     "t": "生写真套组B（L判3枚）",
      "img": "assets/img/ext/9f5f6d14c1987c15.jpg",
      "href": "assets/img/ext/9f5f6d14c1987c15.jpg"
     },
     {
-     "t": "生写真套组〈B〉",
+     "t": "生写真套组B（L判3枚）",
      "img": "assets/img/ext/46993a6fd4267b98.jpg",
      "href": "assets/img/ext/46993a6fd4267b98.jpg"
     }
