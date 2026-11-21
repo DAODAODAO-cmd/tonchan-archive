@@ -2292,6 +2292,21 @@ window.HUB = {
      "t": "Animate通贩特典生写真",
      "img": "assets/img/ext/f7063eefefa37944.jpg",
      "href": "assets/img/ext/f7063eefefa37944.jpg"
+    },
+    {
+     "t": "文章配图",
+     "img": "assets/img/b4ccb520b19a2bb1.jpg",
+     "href": "assets/img/b4ccb520b19a2bb1.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/a45a0feb24be7640.jpg",
+     "href": "assets/img/ext/a45a0feb24be7640.jpg"
+    },
+    {
+     "t": "发售纪念活动特典：ぷくぷく贴纸",
+     "img": "assets/img/ext/6456a82c75ee35cf.jpg",
+     "href": "assets/img/ext/6456a82c75ee35cf.jpg"
     }
    ]
   },
@@ -3362,9 +3377,9 @@ window.HUB = {
   {
    "title": "1st写真集《K》",
    "date": "2017-03-15",
-   "price": "",
-   "publisher": "",
-   "image": "assets/img/ext/70a938f31735d394.jpg",
+   "price": "A4・80页",
+   "publisher": "Pony Canyon",
+   "image": "assets/img/ext/cceb5007ce9d2b4f.jpg",
    "points": [
     "Pony Canyon",
     "首本写真集，发售时办了见面会"
@@ -3376,14 +3391,66 @@ window.HUB = {
     "state": "unknown",
     "source": "https://higashikeisuke.ponycanyon.co.jp/",
     "note": "官网保留旧版购买链接，未能核实当前纸质书库存。"
-   }
+   },
+   "items": [
+    {
+     "t": "写真集《K》封面（Pony Canyon官方）",
+     "img": "assets/img/ext/cceb5007ce9d2b4f.jpg",
+     "href": "assets/img/ext/cceb5007ce9d2b4f.jpg"
+    },
+    {
+     "t": "写真集内页（Pony Canyon官方）",
+     "img": "assets/img/ext/dba3e4f45bbf5c98.jpg",
+     "href": "assets/img/ext/dba3e4f45bbf5c98.jpg"
+    },
+    {
+     "t": "写真集内页（Pony Canyon官方）",
+     "img": "assets/img/ext/409343ea7dddd09d.jpg",
+     "href": "assets/img/ext/409343ea7dddd09d.jpg"
+    },
+    {
+     "t": "写真集内页（Pony Canyon官方）",
+     "img": "assets/img/ext/9f3d11a66ed1c7ca.jpg",
+     "href": "assets/img/ext/9f3d11a66ed1c7ca.jpg"
+    },
+    {
+     "t": "写真集内页（Pony Canyon官方）",
+     "img": "assets/img/ext/d062d10e6a1c5eed.jpg",
+     "href": "assets/img/ext/d062d10e6a1c5eed.jpg"
+    },
+    {
+     "t": "店铺特典生写真：Pony Canyon Shopping Club",
+     "img": "assets/img/ext/38b7ff4184484227.jpg",
+     "href": "assets/img/ext/38b7ff4184484227.jpg"
+    },
+    {
+     "t": "店铺特典生写真：animate全店",
+     "img": "assets/img/ext/70522d377654f6cd.jpg",
+     "href": "assets/img/ext/70522d377654f6cd.jpg"
+    },
+    {
+     "t": "店铺特典生写真：7net",
+     "img": "assets/img/ext/f26c6d4176c73d4b.jpg",
+     "href": "assets/img/ext/f26c6d4176c73d4b.jpg"
+    },
+    {
+     "t": "店铺特典生写真：乐天books",
+     "img": "assets/img/ext/e5c4c25cba6fd3ae.jpg",
+     "href": "assets/img/ext/e5c4c25cba6fd3ae.jpg"
+    },
+    {
+     "t": "写真集主视觉",
+     "img": "assets/img/ext/c5397df8ff955be0.jpg",
+     "href": "assets/img/ext/c5397df8ff955be0.jpg"
+    }
+   ]
   },
   {
    "title": "写真集《何色》",
    "date": "2021-03-10",
    "price": "",
-   "publisher": "",
-   "image": "assets/img/ext/030ec0111c4b3bb5.jpg",
+   "publisher": "KADOKAWA",
+   "image": "assets/img/ext/9a09a14f457c6c78.webp",
    "points": [
     "KADOKAWA",
     "第二本写真集"
@@ -3395,14 +3462,61 @@ window.HUB = {
     "state": "unknown",
     "source": "",
     "note": "原资料链接未能确认当前纸质书库存。"
-   }
+   },
+   "items": [
+    {
+     "t": "封面（KADOKAWA官网）",
+     "img": "assets/img/ext/9a09a14f457c6c78.webp",
+     "href": "assets/img/ext/9a09a14f457c6c78.webp"
+    },
+    {
+     "t": "内页（撮影：横山マサト）",
+     "img": "assets/img/ext/3afea5f05feaa63c.jpg",
+     "href": "assets/img/ext/3afea5f05feaa63c.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/16b98800c3019e8a.jpg",
+     "href": "assets/img/ext/16b98800c3019e8a.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/c0ac85713ff342c9.jpg",
+     "href": "assets/img/ext/c0ac85713ff342c9.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/8387942afb0a8605.jpg",
+     "href": "assets/img/ext/8387942afb0a8605.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/d3196e802603909f.jpg",
+     "href": "assets/img/ext/d3196e802603909f.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/837b1b83f6816b26.jpg",
+     "href": "assets/img/ext/837b1b83f6816b26.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/1997d20c8bb7e58c.jpg",
+     "href": "assets/img/ext/1997d20c8bb7e58c.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/f27b7ca489c6b220.jpg",
+     "href": "assets/img/ext/f27b7ca489c6b220.jpg"
+    }
+   ]
   },
   {
    "title": "日历写真书 2021.04–2022.03",
    "date": "2021-03-02",
    "price": "",
-   "publisher": "",
-   "image": "assets/img/ext/e3002f87be81cf9e.jpg",
+   "publisher": "KADOKAWA",
+   "image": "assets/img/ext/9f8c3cf75ccaef67.webp",
    "points": [
     "KADOKAWA"
    ],
@@ -3413,13 +3527,30 @@ window.HUB = {
     "state": "unknown",
     "source": "",
     "note": "原资料链接未能确认当前纸质书库存。"
-   }
+   },
+   "items": [
+    {
+     "t": "封面（KADOKAWA官网）",
+     "img": "assets/img/ext/9f8c3cf75ccaef67.webp",
+     "href": "assets/img/ext/9f8c3cf75ccaef67.webp"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/fa8a88b5b0ca64b2.jpg",
+     "href": "assets/img/ext/fa8a88b5b0ca64b2.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/c7f13ee75d375eb8.jpg",
+     "href": "assets/img/ext/c7f13ee75d375eb8.jpg"
+    }
+   ]
   },
   {
    "title": "日历写真书 2023.04–2024.03",
    "date": "2023-02-27",
-   "price": "",
-   "publisher": "",
+   "price": "3,080日元（含税）· B4",
+   "publisher": "东京新闻通信社",
    "image": "assets/img/ext/0b8c6c895d353579.jpg",
    "points": [
     "东京新闻出版·TV指南"
@@ -3431,13 +3562,55 @@ window.HUB = {
     "state": "unknown",
     "source": "https://zasshi.tv/products/24058/",
     "note": "出版社保留商品及旧活动资料，未核实当前库存；活动结束不等于商品售罄。"
-   }
+   },
+   "items": [
+    {
+     "t": "东京新闻通信社官网封面",
+     "img": "assets/img/ext/0b8c6c895d353579.jpg",
+     "href": "assets/img/ext/0b8c6c895d353579.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/c9bce106ac798b80.jpg",
+     "href": "assets/img/ext/c9bce106ac798b80.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/e19356b0cc37d920.jpg",
+     "href": "assets/img/ext/e19356b0cc37d920.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/a6489f51f212365f.jpg",
+     "href": "assets/img/ext/a6489f51f212365f.jpg"
+    },
+    {
+     "t": "发售纪念活动",
+     "img": "assets/img/ext/63ac7678ef3a34fc.jpg",
+     "href": "assets/img/ext/63ac7678ef3a34fc.jpg"
+    },
+    {
+     "t": "发售纪念活动",
+     "img": "assets/img/ext/553becdab9f66a5e.jpg",
+     "href": "assets/img/ext/553becdab9f66a5e.jpg"
+    },
+    {
+     "t": "购买特典（Loppi）",
+     "img": "assets/img/ext/385a39ea489b3f15.jpg",
+     "href": "assets/img/ext/385a39ea489b3f15.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/7540fd066b55fa80.jpg",
+     "href": "assets/img/ext/7540fd066b55fa80.jpg"
+    }
+   ]
   },
   {
    "title": "日历写真书 2024.04–2025.03",
    "date": "2024-02-29",
-   "price": "",
-   "publisher": "",
+   "price": "3,300日元（含税）· B4",
+   "publisher": "东京新闻通信社",
    "image": "assets/img/ext/a0033242274ca94e.jpg",
    "points": [
     "东京新闻出版·TV指南"
@@ -3449,13 +3622,65 @@ window.HUB = {
     "state": "unknown",
     "source": "https://zasshi.tv/products/35361/",
     "note": "出版社保留商品及旧活动资料，未核实当前库存；活动结束不等于商品售罄。"
-   }
+   },
+   "items": [
+    {
+     "t": "东京新闻通信社官网封面",
+     "img": "assets/img/ext/a0033242274ca94e.jpg",
+     "href": "assets/img/ext/a0033242274ca94e.jpg"
+    },
+    {
+     "t": "日历书照片",
+     "img": "assets/img/ext/f3180a88b4dd854e.jpg",
+     "href": "assets/img/ext/f3180a88b4dd854e.jpg"
+    },
+    {
+     "t": "日历书照片",
+     "img": "assets/img/ext/bae3afdb5b1a1ec3.jpg",
+     "href": "assets/img/ext/bae3afdb5b1a1ec3.jpg"
+    },
+    {
+     "t": "附录：明信片A",
+     "img": "assets/img/ext/189e50a33ee748b7.jpg",
+     "href": "assets/img/ext/189e50a33ee748b7.jpg"
+    },
+    {
+     "t": "附录：明信片B",
+     "img": "assets/img/ext/16ca12f6bb747edf.jpg",
+     "href": "assets/img/ext/16ca12f6bb747edf.jpg"
+    },
+    {
+     "t": "附录：透明文件夹",
+     "img": "assets/img/ext/b6f7893d5864055a.jpg",
+     "href": "assets/img/ext/b6f7893d5864055a.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/7bf5d47e3ded201e.jpg",
+     "href": "assets/img/ext/7bf5d47e3ded201e.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/6943fb3a03b21228.jpg",
+     "href": "assets/img/ext/6943fb3a03b21228.jpg"
+    },
+    {
+     "t": "购买特典（7net）",
+     "img": "assets/img/ext/6aeb3143fe005163.jpg",
+     "href": "assets/img/ext/6aeb3143fe005163.jpg"
+    },
+    {
+     "t": "购买特典（Loppi）",
+     "img": "assets/img/ext/e9959c2183d900db.jpg",
+     "href": "assets/img/ext/e9959c2183d900db.jpg"
+    }
+   ]
   },
   {
    "title": "日历写真书 2025.04–2026.03",
    "date": "2025-02-21",
-   "price": "",
-   "publisher": "",
+   "price": "3,300日元（含税）· B4",
+   "publisher": "东京新闻通信社",
    "image": "assets/img/ext/d3e2185e043ee7ea.jpg",
    "points": [
     "20代最后一本日历书"
@@ -3467,7 +3692,49 @@ window.HUB = {
     "state": "unknown",
     "source": "https://zasshi.tv/products/49756/",
     "note": "出版社保留商品及旧活动资料，未核实当前库存；活动结束不等于商品售罄。"
-   }
+   },
+   "items": [
+    {
+     "t": "东京新闻通信社官网封面",
+     "img": "assets/img/ext/d3e2185e043ee7ea.jpg",
+     "href": "assets/img/ext/d3e2185e043ee7ea.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/29b3f043c1839539.jpg",
+     "href": "assets/img/ext/29b3f043c1839539.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/42b3e2c849ebfb32.jpg",
+     "href": "assets/img/ext/42b3e2c849ebfb32.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/2fa0a01f75f7d63e.jpg",
+     "href": "assets/img/ext/2fa0a01f75f7d63e.jpg"
+    },
+    {
+     "t": "发售纪念活动",
+     "img": "assets/img/ext/4d2eb62fb0b3decb.jpg",
+     "href": "assets/img/ext/4d2eb62fb0b3decb.jpg"
+    },
+    {
+     "t": "封底",
+     "img": "assets/img/ext/904f23e8a2e2b0f1.jpg",
+     "href": "assets/img/ext/904f23e8a2e2b0f1.jpg"
+    },
+    {
+     "t": "WE Premium购买特典：印刷签名与留言生写真",
+     "img": "assets/img/ext/098062191d03839a.jpg",
+     "href": "assets/img/ext/098062191d03839a.jpg"
+    },
+    {
+     "t": "内页",
+     "img": "assets/img/ext/03ef1f56e4821c14.jpg",
+     "href": "assets/img/ext/03ef1f56e4821c14.jpg"
+    }
+   ]
   },
   {
    "title": "音乐剧《薄樱鬼》HAKU-MYU LIVE 2",
