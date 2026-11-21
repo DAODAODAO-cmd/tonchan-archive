@@ -8783,6 +8783,13 @@ window.ARCHIVE = {
    "dateKind": "东启介出演日",
    "images": [
     {
+     "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_03.jpg",
+     "caption": "舞台照：东启介饰夏洛克",
+     "source": "http://www.shachu.com/scarlet/",
+     "asset": "xceb3ec10ff7cb9d4",
+     "hasHigashi": true
+    },
+    {
      "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_01.jpg",
      "caption": "6/20 东启介×桥本祥平场 舞台照",
      "source": "http://www.shachu.com/scarlet/",
@@ -8797,13 +8804,6 @@ window.ARCHIVE = {
      "hasHigashi": true
     },
     {
-     "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_03.jpg",
-     "caption": "6/20 东启介×桥本祥平场 舞台照",
-     "source": "http://www.shachu.com/scarlet/",
-     "asset": "xceb3ec10ff7cb9d4",
-     "hasHigashi": true
-    },
-    {
      "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_04.jpg",
      "caption": "6/20 东启介×桥本祥平场 舞台照",
      "source": "http://www.shachu.com/scarlet/",
@@ -8812,7 +8812,7 @@ window.ARCHIVE = {
     },
     {
      "url": "https://ogre.natalie.mu/media/news/stage/2020/0613/0620.jpg",
-     "caption": "角色照：夏洛克",
+     "caption": "宣传照：东启介与桥本祥平",
      "source": "ステージナタリー（左为东启介）",
      "asset": "x143c952a2aadc61f"
     },
@@ -8843,9 +8843,9 @@ window.ARCHIVE = {
    "roleRoma": "SHERLOCK HOLMES",
    "workRoma": "A STUDY IN SCARLET",
    "roleName": "夏洛克",
-   "cardPhoto": "assets/img/ext/143c952a2aadc61f.jpg",
-   "cardPhotoBg": "8% 50% / auto 130%",
-   "cardPoster": "assets/img/ext/e92974dbd26b3d1b.jpg"
+   "cardPhoto": "assets/img/ext/ceb3ec10ff7cb9d4.jpg",
+   "cardPoster": "assets/img/ext/e92974dbd26b3d1b.jpg",
+   "cardPhotoPos": "55% 25%"
   },
   {
    "id": "asast_091",

@@ -7,6 +7,9 @@
   const SHOP=/amazon\.|rakuten|r10s\.jp|7net|omni7|hmv\.co\.jp|suruga-ya|mercari|yahoo|tower\.jp|p-bandai|animate-onlineshop|web\.archive\.org|wikipedia\.org/i;
   const link=(url,label)=>!SHOP.test(url||'')&&/^(?:https?:\/\/|assets\/|(?:index|list|archive|detail)\.html)/i.test(url||'')?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>${window.ARCHIVE_MEDIA?.videoNotices?.[url]?'<small class="meta"> '+esc(window.ARCHIVE_MEDIA.videoNotices[url])+'</small>':''}`:esc(url?`${label}：${url}`:label);
   const recordUrl=e=>'detail.html?id='+encodeURIComponent(e.id);
+  // One item, one record: goods linked to an archive record share its pictures both ways.
+  const goodsEvent=g=>{const id=g.event||((g.url||'').match(/#([\w-]+)$/)||[])[1];return id?A.events.find(x=>x.id===id):null};
+  const goodsUrl=g=>'detail.html?goods='+encodeURIComponent((g.date||'')+'|'+g.title);
   const params=new URLSearchParams(location.search);
   const e=A.events.find(x=>x.id===params.get('id'));
   document.getElementById('back').onclick=()=>{
@@ -21,10 +24,11 @@
     if(goods){
       document.documentElement.dataset.detailGroup='goods';
       document.title=goods.title+' · 东启介档案';
-      const pictures=[...(goods.items||[]),...(goods.image?[{img:goods.image,t:goods.title}]:[])];
+      const ev=goodsEvent(goods);
+      const pictures=[...(goods.items||[]),...(goods.image?[{img:goods.image,t:goods.title}]:[]),...(ev?(ev.images||[]).map(i=>({img:(i.asset&&A.assets[i.asset])||i.url,t:i.caption})):[])];
       const seen=new Set();const gallery=pictures.filter(i=>{const u=mediaUrl(i.img),key=window.ARCHIVE_MEDIA?.identity?.[u]||u;if(!key||seen.has(key))return false;seen.add(key);return true});
-      const coverage=(goods.items||[]).length?`已收录 ${goods.items.length} 张商品图，点开可查看大图。`:gallery.length?'目前仅收录主图，暂无独立单品图。':'暂未收录图片，已有文字资料保留。';
-      document.getElementById('detail').innerHTML=`<article class="intro"><div class="meta">${esc(goods.dateKind||'收录日期')} ${esc(goods.date||'')}</div><h1>${esc(goods.title)}</h1><p>${esc([goods.price,goods.publisher].filter(Boolean).join(' · '))}</p><p class="meta">${coverage}</p>${(goods.points||[]).length?'<ul>'+goods.points.map(p=>`<li>${esc(p)}</li>`).join('')+'</ul>':''}</article>${gallery.length?'<section class="block"><h2>套图与单品</h2><div class="gallery">'+gallery.map(i=>`<figure><a class="picture" href="${esc(mediaUrl(i.img))}" target="_blank" rel="noopener noreferrer"><img src="${esc(mediaUrl(i.img))}" alt="${esc(i.t||goods.title)}" loading="lazy"></a>${i.t&&i.t!==goods.title?'<figcaption>'+esc(i.t)+(i.detailUrl?' · <a href="'+esc(i.detailUrl)+'">预约与发行详情</a>':'')+'</figcaption>':''}</figure>`).join('')+'</div></section>':''}`;
+      const coverage=gallery.length>1?`已收录 ${gallery.length} 张图，点开可查看大图。`:gallery.length?'目前仅收录主图，暂无独立单品图。':'暂未收录图片，已有文字资料保留。';
+      document.getElementById('detail').innerHTML=`<article class="intro"><div class="meta">${esc(goods.dateKind||'收录日期')} ${esc(goods.date||'')}</div><h1>${esc(goods.title)}</h1><p>${esc([goods.price,goods.publisher].filter(Boolean).join(' · '))}</p><p class="meta">${coverage}</p>${(goods.points||[]).length?'<ul>'+goods.points.map(p=>`<li>${esc(p)}</li>`).join('')+'</ul>':''}${ev?`<div class="links"><a href="${recordUrl(ev)}">在编年档案中查看</a></div>`:''}</article>${gallery.length?'<section class="block"><h2>套图与单品</h2><div class="gallery">'+gallery.map(i=>`<figure><a class="picture" href="${esc(mediaUrl(i.img))}" target="_blank" rel="noopener noreferrer"><img src="${esc(mediaUrl(i.img))}" alt="${esc(i.t||goods.title)}" loading="lazy"></a>${i.t&&i.t!==goods.title?'<figcaption>'+esc(i.t)+(i.detailUrl?' · <a href="'+esc(i.detailUrl)+'">预约与发行详情</a>':'')+'</figcaption>':''}</figure>`).join('')+'</div></section>':''}`;
       return;
     }
     const news=H.news.find(n=>n.date+'|'+n.title===params.get('news'));
@@ -45,6 +49,8 @@
   if(e.cardPhoto)images.push({url:e.cardPhoto,caption:'角色造型'});
   if(now){if(now.image)images.push({url:now.image,caption:now.imageNote});if(now.image2)images.push({url:now.image2,caption:'角色造型'})}
   const seen=new Set();const photos=window.ARCHIVE_PICTURES.forEvent(e).filter(i=>{const u=imageUrl(i),key=window.ARCHIVE_MEDIA?.identity?.[u]||u;if(!u||seen.has(key))return false;seen.add(key);return true});
+  const linkedGoods=[...(H.goods||[]),...(H.pastGoods||[])].filter(g=>goodsEvent(g)===e);
+  for(const g of linkedGoods)for(const i of [...(g.items||[]),...(g.image?[{img:g.image,t:g.title}]:[])]){const u=mediaUrl(i.img),key=window.ARCHIVE_MEDIA?.identity?.[u]||u;if(!u||seen.has(key))continue;seen.add(key);photos.push({url:i.img,caption:i.t})}
   const videos=[...(e.videos||[]),...A.videos.filter(v=>v.rel===e.id||Array.isArray(v.rel)&&v.rel.includes(e.id))];
   const videoSeen=new Set();const uniqueVideos=videos.filter(v=>v.url&&!videoSeen.has(v.url)&&videoSeen.add(v.url));
   // Only explicit shared work keys are used; no title guesses or invented associations.
@@ -57,6 +63,7 @@
   if(e.biliLinks?.length)html+=section('B站视频','<ul class="records">'+e.biliLinks.map(v=>`<li>${link(v.url,v.title||'在B站查看')}</li>`).join('')+'</ul>');
   if(e.biliSearch?.length)html+=section('B站检索','<ul class="records">'+e.biliSearch.map(v=>`<li>${link(v.url,v.title||'在B站搜索')}</li>`).join('')+'</ul>');
   if(e.playlistLinks?.length)html+=section('相关播放列表','<ul class="records">'+e.playlistLinks.map(v=>`<li>${link(v.url||v[1],v.title||v.label||v[0]||'播放列表')}</li>`).join('')+'</ul>');
+  if(linkedGoods.length)html+=section('周边页','<ul class="records">'+linkedGoods.map(g=>`<li><a href="${goodsUrl(g)}">${esc(g.title)}</a></li>`).join('')+'</ul>');
   if(related.length)html+=section('同系列记录','<ul class="records">'+related.map(x=>`<li><a href="${recordUrl(x)}"><span class="meta">${esc(x.date)} · ${esc(x.category)}</span><br>${esc(x.title)}</a></li>`).join('')+'</ul>');
   if(audioEntry)html='<div class="links" style="margin-bottom:18px"><a href="'+esc(window.ARCHIVE_AUDIO.url(audioEntry))+'">查看音像版本与图片</a></div>'+html;
   document.getElementById('detail').innerHTML=html;

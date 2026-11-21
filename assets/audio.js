@@ -15,7 +15,7 @@
   };
   const linked=new Set(),entries=[];
   for(const goods of [...H.goods,...H.pastGoods].filter(isGoods)){
-    const events=(associations[goods.title]||[]).map(id=>A.events.find(e=>e.id===id)).filter(Boolean);
+    const events=(associations[goods.title]||(goods.event?[goods.event]:[])).map(id=>A.events.find(e=>e.id===id)).filter(Boolean);
     events.forEach(e=>linked.add(e.id));
     const formats=[];
     if(/CD/i.test(goods.cat||''))formats.push('cd');
