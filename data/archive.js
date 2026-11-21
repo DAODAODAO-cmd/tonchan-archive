@@ -10604,17 +10604,31 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "",
-   "note": "",
+   "url": "https://www.kadokawa.co.jp/product/322011000890/",
+   "note": "KADOKAWA发行，以与东启介的一段揪心恋爱故事为主题。",
    "status": "乐天图书商品目录确认",
    "origin": "2026.11.17补充",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/5353/9784047365353.jpg?downsize=600:*",
-     "caption": "封面",
-     "source": "",
-     "asset": "xe3002f87be81cf9e",
+     "url": "https://cdn.kdkw.jp/cover_1000/322011/322011000890.webp",
+     "caption": "封面（KADOKAWA官网）",
+     "source": "https://www.kadokawa.co.jp/product/322011000890/",
+     "asset": "x9f8c3cf75ccaef67",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148480.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "xfa8a88b5b0ca64b2",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148496.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "xc7f13ee75d375eb8",
      "resolution": ""
     }
    ],
@@ -10716,21 +10730,82 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "",
-   "note": "2021年3月10日 KADOKAWA 发行。本人参与企划的写真集。",
+   "url": "https://www.kadokawa.co.jp/product/322005000809/",
+   "note": "2021年3月10日 KADOKAWA 发行。本人参与企划的写真集，按SOLID、PERSONAL、DOCUMENT、STORY四个主题，与三位摄影师合作。",
    "status": "已发售",
    "origin": "",
    "dateKind": "发售日",
    "images": [
     {
-     "url": "https://tshop.r10s.jp/book/cabinet/8492/9784048968492.jpg?downsize=600:*",
-     "caption": "写真集《何色》封面",
-     "source": "",
-     "asset": "x030ec0111c4b3bb5",
+     "url": "https://cdn.kdkw.jp/cover_1000/322005/322005000809.webp",
+     "caption": "封面（KADOKAWA官网）",
+     "source": "https://www.kadokawa.co.jp/product/322005000809/",
+     "asset": "x9a09a14f457c6c78",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148478.jpg?w=1284",
+     "caption": "内页（撮影：横山マサト）",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "x3afea5f05feaa63c",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148481.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "x16b98800c3019e8a",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148483.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "xc0ac85713ff342c9",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148491.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "x8387942afb0a8605",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148492.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "xd3196e802603909f",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148493.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "x837b1b83f6816b26",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148494.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "x1997d20c8bb7e58c",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/1017158/10148495.jpg?w=1284",
+     "caption": "内页",
+     "source": "https://thetv.jp/news/detail/1017158/",
+     "asset": "xf27b7ca489c6b220",
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "ザテレビジョン 发售纪念独家采访",
+     "url": "https://www.youtube.com/watch?v=qQZglL0gS6Q"
+    }
+   ],
    "pending": false,
    "kind": "活动／作品",
    "playlistLinks": []
@@ -14271,6 +14346,20 @@ window.ARCHIVE = {
      "caption": "发售纪念活动",
      "source": "https://natalie.mu/stage/news/515498",
      "asset": "x553becdab9f66a5e",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2023/01/20230227_higasikeisuke_lowson_01.jpg",
+     "caption": "购买特典（Loppi）",
+     "source": "https://zasshi.tv/products/24058/",
+     "asset": "x385a39ea489b3f15",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2023/0115/sub3.jpg",
+     "caption": "内页",
+     "source": "https://natalie.mu/stage/news/508932",
+     "asset": "x7540fd066b55fa80",
      "resolution": ""
     }
    ],
@@ -18050,6 +18139,55 @@ window.ARCHIVE = {
      "source": "https://www.tvguide.or.jp/news/news-2659764/",
      "asset": "xbae3afdb5b1a1ec3",
      "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_sub_06.jpg",
+     "caption": "附录：明信片A",
+     "source": "https://zasshi.tv/products/35361/",
+     "asset": "x189e50a33ee748b7",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_sub_07.jpg",
+     "caption": "附录：明信片B",
+     "source": "https://zasshi.tv/products/35361/",
+     "asset": "x16ca12f6bb747edf",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_sub_05.jpg",
+     "caption": "附录：透明文件夹",
+     "source": "https://zasshi.tv/products/35361/",
+     "asset": "xb6f7893d5864055a",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_sub_03.jpg",
+     "caption": "内页",
+     "source": "https://zasshi.tv/products/35361/",
+     "asset": "x7bf5d47e3ded201e",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2024/02/20240229_higasi_calendar_sub_04.jpg",
+     "caption": "内页",
+     "source": "https://zasshi.tv/products/35361/",
+     "asset": "x6943fb3a03b21228",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2024/01/20240229_higasi_calendar_tokuten_7net.jpg",
+     "caption": "购买特典（7net）",
+     "source": "https://zasshi.tv/products/35361/",
+     "asset": "x6aeb3143fe005163",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2024/01/20240229_higasi_calendar_tokuten_lowson.jpg",
+     "caption": "购买特典（Loppi）",
+     "source": "https://zasshi.tv/products/35361/",
+     "asset": "xe9959c2183d900db",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -19894,6 +20032,27 @@ window.ARCHIVE = {
      "caption": "发售纪念活动",
      "source": "https://natalie.mu/stage/news/612880",
      "asset": "x4d2eb62fb0b3decb",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2025/01/20250221_higasi_calendarbook_2025_2026_sub_05.jpg",
+     "caption": "封底",
+     "source": "https://zasshi.tv/products/49756/",
+     "asset": "x904f23e8a2e2b0f1",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2025/01/20250221_higasi_calendarbook_2025_2026_tokuten_wepremium.jpg",
+     "caption": "WE Premium购买特典：印刷签名与留言生写真",
+     "source": "https://zasshi.tv/products/49756/",
+     "asset": "x098062191d03839a",
+     "resolution": ""
+    },
+    {
+     "url": "https://ogre.natalie.mu/media/news/stage/2025/0123/higashi_sub3.jpg",
+     "caption": "内页",
+     "source": "https://natalie.mu/stage/news/608755",
+     "asset": "x03ef1f56e4821c14",
      "resolution": ""
     }
    ],
@@ -23403,7 +23562,7 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://prtimes.jp/main/html/rd/p/000003588.000006568.html",
+   "url": "https://zasshi.tv/products/62295/",
    "note": "2026年10月18日宣布2027年1月8日发售；11月20日公布书名《ECHOES》和两版封面。",
    "status": "",
    "origin": "发行方公告补充",
@@ -23433,6 +23592,20 @@ window.ARCHIVE = {
      "source": "https://prtimes.jp/main/html/rd/p/000003537.000006568.html",
      "asset": "b4ccb520b19a2bb1",
      "resolution": "1890 × 1260"
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_sab_04.jpg",
+     "caption": "内页",
+     "source": "https://zasshi.tv/products/62295/",
+     "asset": "xa45a0feb24be7640",
+     "resolution": ""
+    },
+    {
+     "url": "https://zasshi.tv/wp/wp-content/uploads/2026/10/higashi_photobook_event_tokuten_01.jpg",
+     "caption": "发售纪念活动特典：ぷくぷく贴纸",
+     "source": "https://zasshi.tv/products/62295/",
+     "asset": "x6456a82c75ee35cf",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -42058,7 +42231,33 @@ window.ARCHIVE = {
   "xd1dc66462ede5533": "assets/img/ext/d1dc66462ede5533.jpg",
   "x4ba7deb41fb63b44": "assets/img/ext/4ba7deb41fb63b44.jpg",
   "xa5b266e7ba24fc4a": "assets/img/ext/a5b266e7ba24fc4a.jpg",
-  "xc5397df8ff955be0": "assets/img/ext/c5397df8ff955be0.jpg"
+  "xc5397df8ff955be0": "assets/img/ext/c5397df8ff955be0.jpg",
+  "x904f23e8a2e2b0f1": "assets/img/ext/904f23e8a2e2b0f1.jpg",
+  "x098062191d03839a": "assets/img/ext/098062191d03839a.jpg",
+  "x03ef1f56e4821c14": "assets/img/ext/03ef1f56e4821c14.jpg",
+  "x189e50a33ee748b7": "assets/img/ext/189e50a33ee748b7.jpg",
+  "x16ca12f6bb747edf": "assets/img/ext/16ca12f6bb747edf.jpg",
+  "xb6f7893d5864055a": "assets/img/ext/b6f7893d5864055a.jpg",
+  "x7bf5d47e3ded201e": "assets/img/ext/7bf5d47e3ded201e.jpg",
+  "x6943fb3a03b21228": "assets/img/ext/6943fb3a03b21228.jpg",
+  "x6aeb3143fe005163": "assets/img/ext/6aeb3143fe005163.jpg",
+  "xe9959c2183d900db": "assets/img/ext/e9959c2183d900db.jpg",
+  "x385a39ea489b3f15": "assets/img/ext/385a39ea489b3f15.jpg",
+  "x7540fd066b55fa80": "assets/img/ext/7540fd066b55fa80.jpg",
+  "xa45a0feb24be7640": "assets/img/ext/a45a0feb24be7640.jpg",
+  "x6456a82c75ee35cf": "assets/img/ext/6456a82c75ee35cf.jpg",
+  "x9a09a14f457c6c78": "assets/img/ext/9a09a14f457c6c78.webp",
+  "x9f8c3cf75ccaef67": "assets/img/ext/9f8c3cf75ccaef67.webp",
+  "x3afea5f05feaa63c": "assets/img/ext/3afea5f05feaa63c.jpg",
+  "x16b98800c3019e8a": "assets/img/ext/16b98800c3019e8a.jpg",
+  "xc0ac85713ff342c9": "assets/img/ext/c0ac85713ff342c9.jpg",
+  "x8387942afb0a8605": "assets/img/ext/8387942afb0a8605.jpg",
+  "xd3196e802603909f": "assets/img/ext/d3196e802603909f.jpg",
+  "x837b1b83f6816b26": "assets/img/ext/837b1b83f6816b26.jpg",
+  "x1997d20c8bb7e58c": "assets/img/ext/1997d20c8bb7e58c.jpg",
+  "xf27b7ca489c6b220": "assets/img/ext/f27b7ca489c6b220.jpg",
+  "xfa8a88b5b0ca64b2": "assets/img/ext/fa8a88b5b0ca64b2.jpg",
+  "xc7f13ee75d375eb8": "assets/img/ext/c7f13ee75d375eb8.jpg"
  },
  "biliLeads": [
   {
