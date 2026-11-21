@@ -23506,8 +23506,8 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://stage-toukenranbu.jp/",
-   "note": "东京 Dream Park，2026年12月1日～2027年1月31日；前期（～1/4）和后期（1/5～）展示的衣裳和评论影像会换一批，有他的物品分布以官方公布为准。",
+   "url": "https://stage-toukenranbu-10th-expo.jp/",
+   "note": "东京 Dream Park，2026年12月1日～2027年1月31日；前期（～1/4）和后期（1/5～）展示的衣裳和评论影像会换一批，有他的物品分布以官方公布为准。东京后期门票11月21日10:00起一般发售（先到先得）。",
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",
@@ -23652,6 +23652,10 @@ window.ARCHIVE = {
     {
      "title": "本人Instagram：FC写真集告知视频的NG花絮（11/16，镜头还没开就抢跑被工作人员叫停；正式版在FC站，会员内容）",
      "url": "https://www.instagram.com/keisuke_higashi_official/reel/DfzW4G2Saob/"
+    },
+    {
+     "title": "B站中字：写真集《ECHOES》封面拍摄花絮（搬运本人11/20公开的花絮短片，原标题「【中日字幕】1米9大猫 东启介(岭高华武利)新写真集《ECHOES》花絮」）",
+     "url": "https://www.bilibili.com/video/BV15WyxzZEfR/"
     }
    ],
    "pending": false,
