@@ -8777,11 +8777,18 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "http://www.shachu.com/scarlet/",
-   "note": "文化放送×东映的晨间广播《あさステ！》特别企划，五位主持人各请一位嘉宾演两人朗读剧，原作柯南·道尔《血字的研究》，脚本・演出毛利亘宏（少年社中）。无观众、在剧场里直播，演完接着和嘉宾做后谈。他是6月20日18:00场，嘉宾桥本祥平。之后7月2日21:00在「あさステ！チャンネル」重播。",
+   "note": "文化放送×东映的晨间广播《あさステ！》特别企划，五位主持人各请一位嘉宾演两人朗读剧，原作柯南·道尔《血字的研究》，脚本・演出毛利亘宏（少年社中）。无观众、在剧场里直播，演完接着和嘉宾做后谈。他是6月20日18:00场，嘉宾桥本祥平。之后7月2日21:00在「あさステ！チャンネル」重播。 东启介演夏洛克·福尔摩斯，桥本祥平演华生（6/20场）。",
    "status": "",
    "origin": "",
    "dateKind": "东启介出演日",
    "images": [
+    {
+     "url": "https://assets.st-note.com/production/uploads/images/29417342/picture_pc_27557cc71c8d9f6eac03c6911da5f2ac.jpg",
+     "caption": "舞台照：东启介饰夏洛克（Sparkle）",
+     "source": "https://note.com/sparkle_stage/n/n82202d3377c9",
+     "asset": "xef47641a598509b7",
+     "resolution": ""
+    },
     {
      "url": "http://www.shachu.com/scarlet/assets/images/gallery/20_03.jpg",
      "caption": "舞台照：东启介饰夏洛克",
@@ -8821,6 +8828,27 @@ window.ARCHIVE = {
      "caption": "主视觉",
      "source": "官方",
      "asset": "xe92974dbd26b3d1b"
+    },
+    {
+     "url": "https://assets.st-note.com/production/uploads/images/29422776/picture_pc_0a26356f3694b91d02160f16a159852f.jpg",
+     "caption": "舞台照：把长腿搁在桌上的夏洛克（Sparkle）",
+     "source": "https://note.com/sparkle_stage/n/n82202d3377c9",
+     "asset": "x6d7894f6de079b19",
+     "resolution": ""
+    },
+    {
+     "url": "https://assets.st-note.com/production/uploads/images/29417504/picture_pc_1c4dc046e33f6b2231948c918ad65eaf.jpg",
+     "caption": "舞台照：夏洛克（Sparkle）",
+     "source": "https://note.com/sparkle_stage/n/n82202d3377c9",
+     "asset": "x67fd2d2407b5e93f",
+     "resolution": ""
+    },
+    {
+     "url": "https://assets.st-note.com/production/uploads/images/29417539/picture_pc_18d6697f527aca7004cdc9e04419ab1e.jpg",
+     "caption": "舞台照（Sparkle）",
+     "source": "https://note.com/sparkle_stage/n/n82202d3377c9",
+     "asset": "xf3382079c2f1d1de",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -8843,9 +8871,9 @@ window.ARCHIVE = {
    "roleRoma": "SHERLOCK HOLMES",
    "workRoma": "A STUDY IN SCARLET",
    "roleName": "夏洛克",
-   "cardPhoto": "assets/img/ext/ceb3ec10ff7cb9d4.jpg",
+   "cardPhoto": "assets/img/ext/ef47641a598509b7.jpg",
    "cardPoster": "assets/img/ext/e92974dbd26b3d1b.jpg",
-   "cardPhotoPos": "55% 25%"
+   "cardPhotoPos": "38% 30%"
   },
   {
    "id": "asast_091",
@@ -42257,7 +42285,11 @@ window.ARCHIVE = {
   "x1997d20c8bb7e58c": "assets/img/ext/1997d20c8bb7e58c.jpg",
   "xf27b7ca489c6b220": "assets/img/ext/f27b7ca489c6b220.jpg",
   "xfa8a88b5b0ca64b2": "assets/img/ext/fa8a88b5b0ca64b2.jpg",
-  "xc7f13ee75d375eb8": "assets/img/ext/c7f13ee75d375eb8.jpg"
+  "xc7f13ee75d375eb8": "assets/img/ext/c7f13ee75d375eb8.jpg",
+  "xef47641a598509b7": "assets/img/ext/ef47641a598509b7.jpg",
+  "x6d7894f6de079b19": "assets/img/ext/6d7894f6de079b19.jpg",
+  "x67fd2d2407b5e93f": "assets/img/ext/67fd2d2407b5e93f.jpg",
+  "xf3382079c2f1d1de": "assets/img/ext/f3382079c2f1d1de.jpg"
  },
  "biliLeads": [
   {
