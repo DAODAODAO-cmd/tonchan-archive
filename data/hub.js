@@ -10,7 +10,7 @@
   图片：只用官方公开的剧照／海报／宣传图，写明出处。FC会员内容与图片一律不放。
 */
 window.HUB = {
- "updated": "2026-11-17",
+ "updated": "2026-11-22",
  "profile": {
   "name": "东启介",
   "nameJa": "東 啓介",
@@ -243,6 +243,13 @@ window.HUB = {
  ],
  "news": [
   {
+   "date": "2026-11-21",
+   "tag": "SNS",
+   "title": "本人X：刀舞《陽伝》谢幕感谢，提醒第二天9点看《麦斯》",
+   "text": "工作人员代发，配了一张戴圆框眼镜、穿橙色外套的照片。",
+   "url": "https://x.com/keisuke_higashi/status/2124121595446956225"
+  },
+  {
    "date": "2026-11-20",
    "tag": "SNS",
    "title": "本人Instagram：《ECHOES》通常版封面的拍摄花絮",
@@ -262,6 +269,20 @@ window.HUB = {
    "title": "本人X：刀舞《陽伝》谢幕感谢，顺便宣传写真集《ECHOES》",
    "text": "6年来的第一本写真集，书名和封面同一天公开。",
    "url": "https://x.com/keisuke_higashi/status/2123760085147271428"
+  },
+  {
+   "date": "2026-11-19",
+   "tag": "SNS",
+   "title": "本人X：“今天也努力拍摄マオウ”",
+   "text": "《麦斯》拍摄日，戴着帽子蹲着比耶；把“頑張りましょう”说成了“頑張りマオウ”。",
+   "url": "https://x.com/keisuke_higashi/status/2123334173389983996"
+  },
+  {
+   "date": "2026-11-18",
+   "tag": "SNS",
+   "title": "本人X：和车站里的刀舞《陽伝》海报合影",
+   "text": "工作人员代发；后天再在剧场见。",
+   "url": "https://x.com/keisuke_higashi/status/2123050676284780907"
   },
   {
    "date": "2026-11-17",
