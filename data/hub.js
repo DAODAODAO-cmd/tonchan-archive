@@ -245,6 +245,13 @@ window.HUB = {
   {
    "date": "2026-11-22",
    "tag": "SNS",
+   "title": "本人X：《麦斯》开播时喊“要开始啦——！！”",
+   "text": "第11集播出那会儿发的，只有一句话。",
+   "url": "https://x.com/keisuke_higashi/status/2124291692627140702"
+  },
+  {
+   "date": "2026-11-22",
+   "tag": "SNS",
    "title": "本人Instagram限时动态：感谢收看《麦斯》第11话",
    "text": "顺便宣传东映特摄FC（TTFC）的衍生短剧《十二支十色》正在配信。",
    "url": ""
