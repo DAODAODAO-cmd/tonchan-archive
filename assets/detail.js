@@ -35,7 +35,7 @@
     if(news){
       document.title=news.title+' · 东启介档案';
       const related=A.events.filter(x=>x.url&&x.url===news.url);
-      document.getElementById('detail').innerHTML=`<article class="intro"><div class="meta">${esc(news.date)} · ${esc(news.tag)}</div><h1>${esc(news.title)}</h1><p class="note">${esc(news.text)}</p><div class="links">${link(news.url,'看原文')}</div></article>${related.length?'<section class="block"><h2>相关资料</h2><ul class="records">'+related.map(x=>`<li><a href="${recordUrl(x)}">${esc(x.title)}</a></li>`).join('')+'</ul></section>':''}`;
+      document.getElementById('detail').innerHTML=`<article class="intro"><div class="meta">${esc(news.date)} · ${esc(news.tag)}</div><h1>${esc(news.title)}</h1><p class="note">${esc(news.text)}</p>${news.url?`<div class="links">${link(news.url,'看原文')}</div>`:''}</article>${related.length?'<section class="block"><h2>相关资料</h2><ul class="records">'+related.map(x=>`<li><a href="${recordUrl(x)}">${esc(x.title)}</a></li>`).join('')+'</ul></section>':''}`;
       return;
     }
     document.getElementById('detail').innerHTML='<section class="intro"><h1>暂未找到这份资料</h1><p>可以回到演艺年表继续查找。</p><a href="list.html?g=all">浏览演艺年表</a></section>';return;

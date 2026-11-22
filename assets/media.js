@@ -7,7 +7,7 @@
     // 有对应的编年条目就直接进条目详情；没有就直接打开原消息，不再多套一层消息页
     const E=window.ARCHIVE?.events||[];
     const record=E.find(e=>news.url&&e.url===news.url)||E.find(e=>e.date===news.date&&e.title===news.title);
-    return record?'detail.html?id='+encodeURIComponent(record.id):(news.url||'#');
+    return record?'detail.html?id='+encodeURIComponent(record.id):(news.url||'detail.html?news='+encodeURIComponent(news.date+'|'+news.title));
   };
   const visit=value=>{
     if(!value||typeof value!=='object')return;

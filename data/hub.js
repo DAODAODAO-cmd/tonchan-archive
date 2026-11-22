@@ -246,8 +246,8 @@ window.HUB = {
    "date": "2026-11-22",
    "tag": "SNS",
    "title": "本人Instagram限时动态：感谢收看《麦斯》第11话",
-   "text": "顺便宣传东映特摄FC（TTFC）的衍生短剧《十二支十色》正在配信。限时动态24小时后消失，链接到主页。",
-   "url": "https://www.instagram.com/keisuke_higashi_official/"
+   "text": "顺便宣传东映特摄FC（TTFC）的衍生短剧《十二支十色》正在配信。",
+   "url": ""
   },
   {
    "date": "2026-11-22",
