@@ -1173,6 +1173,40 @@ window.ARCHIVE = {
    "kind": "bromide"
   },
   {
+   "end": "2015-08-10",
+   "role": "妖～AYAKASHI～",
+   "crew": "作・演出：岡村俊一",
+   "key": "",
+   "status": "",
+   "origin": "2026.11.23补充",
+   "videos": [
+    {
+     "title": "正片＋making＋日替（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1Bs411z78R/"
+    }
+   ],
+   "pending": false,
+   "playlistLinks": [],
+   "images": [
+    {
+     "url": "https://www.ponycanyon.co.jp/images/wcms/accessor/bin/jacket/PCBG000052520.jpg?size=4&order=1",
+     "caption": "DVD初回限定盘封面（Pony Canyon官网）",
+     "source": "https://www.ponycanyon.co.jp/visual/PCBG000052520",
+     "asset": "xb535df9d10734b2e",
+     "resolution": ""
+    }
+   ],
+   "id": "dlive15",
+   "date": "2015-08-07",
+   "category": "舞台",
+   "title": "D-BOYS《D-LIVE 2015》（妖～AYAKASHI～出演）",
+   "japanese": "D-LIVE 2015",
+   "url": "https://enterstage.jp/articles/41922",
+   "note": "D-BOYS的夏季公演，“音乐对决演剧”：各组以乐队、舞蹈、短剧争夺出道。恵比寿Garden Place The Garden Hall，2015年8月7日–10日。他以妖～AYAKASHI～成员身份出演。2015年10月7日Pony Canyon发行DVD（初回限定盘附Hacosco 360度影像）。",
+   "dateKind": "公演期间",
+   "kind": "活动／作品"
+  },
+  {
    "id": "ayakashi15",
    "date": "2015-08-12",
    "end": "",
@@ -1210,6 +1244,10 @@ window.ARCHIVE = {
     {
      "title": "憑き夜に踊れ 打call练习版",
      "url": "https://www.youtube.com/watch?v=MjNM4hRzQPU"
+    },
+    {
+     "title": "《あくP 秘密の座談怪》第5段（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV15E41187rg/"
     }
    ]
   },
@@ -1829,6 +1867,10 @@ window.ARCHIVE = {
     {
      "title": "＃011 舞台「刀剣乱舞」終わりで生放送！",
      "url": "https://www.nicovideo.jp/watch/so28816886"
+    },
+    {
+     "title": "BS富士《JapaconWonderland》刀ミュ＆刀ステ特别篇 2016.8.15（中字，B站）",
+     "url": "https://www.bilibili.com/video/BV1bs411k73o/"
     }
    ],
    "pending": false,
@@ -2061,6 +2103,10 @@ window.ARCHIVE = {
     {
      "title": "大山真志、Kimeru、東啓介らが出演の『Club SLAZY-Another world-』公開ゲネプロをチラッと見せ！",
      "url": "https://www.youtube.com/watch?v=jkMwyyx94uM"
+    },
+    {
+     "title": "舞台片段（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1ys41147qQ/"
     }
    ],
    "pending": false,
@@ -2940,6 +2986,14 @@ window.ARCHIVE = {
     {
      "title": "＃011 舞台「刀剣乱舞」終わりで生放送！",
      "url": "https://www.nicovideo.jp/watch/so28816886"
+    },
+    {
+     "title": "再演 CM（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1Yx411r7hi/"
+    },
+    {
+     "title": "再演 Blu-ray/DVD CM（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1Kx41127Ad/"
     }
    ],
    "pending": false,
@@ -4119,6 +4173,10 @@ window.ARCHIVE = {
     {
      "title": "＃011 舞台「刀剣乱舞」終わりで生放送！",
      "url": "https://www.nicovideo.jp/watch/so28816886"
+    },
+    {
+     "title": "日テレプラス 密着特番 后篇（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1tx411h7dC/"
     }
    ],
    "pending": false,
@@ -4234,7 +4292,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "BOX特典03：东启介×铃木拡树（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1RW411j7xo/"
+    }
+   ],
    "sub": "综艺"
   },
   {
@@ -5054,7 +5117,12 @@ window.ARCHIVE = {
      "asset": "x8afe7cf32ed84d67"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "原声CD 歌曲（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1gW411Y7T7/"
+    }
+   ],
    "origin": "2026.11.19补充"
   },
   {
@@ -6655,7 +6723,12 @@ window.ARCHIVE = {
      "resolution": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "宣传短片 2018.11.12（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1Mt411y74S/"
+    }
+   ],
    "pending": false,
    "kind": "音声",
    "playlistLinks": []
@@ -11988,6 +12061,77 @@ window.ARCHIVE = {
    "cardPhoto": "assets/img/ext/0ad38ea5e5a050ba.jpg"
   },
   {
+   "end": "",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.23补充",
+   "videos": [],
+   "pending": false,
+   "playlistLinks": [],
+   "images": [
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/e6434c50-a5bd-46b9-b5ba-63fd89b916f3/origin.JPG",
+     "caption": "东启介（ぴあ）",
+     "source": "https://lp.p.pia.jp/article/news/212314/index.html",
+     "asset": "x8f03fb9f94489ec8",
+     "resolution": ""
+    },
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/ff38d126-990d-4fe6-a81a-9fcbca7bb103/origin.JPG",
+     "caption": "3D扫描中",
+     "source": "https://lp.p.pia.jp/article/news/212314/index.html",
+     "asset": "xdcdce3ca1ba35ec4",
+     "resolution": ""
+    },
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/4992ccc1-ebf8-40e6-8cbe-435b66049361/origin.JPG",
+     "caption": "看着显示器",
+     "source": "https://lp.p.pia.jp/article/news/212314/index.html",
+     "asset": "xfb413d4ab29c8f9e",
+     "resolution": ""
+    },
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/ba8b4de2-e513-4fb2-97c9-c5287cc3c4a3/origin.JPG",
+     "caption": "自己的虚拟形象在跳舞",
+     "source": "https://lp.p.pia.jp/article/news/212314/index.html",
+     "asset": "x7719dd1b107b0962",
+     "resolution": ""
+    },
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/b98126e9-61f3-48ea-b057-83a91a874cd6/origin.JPG",
+     "caption": "体验现场",
+     "source": "https://lp.p.pia.jp/article/news/212314/index.html",
+     "asset": "xf574b8eae45755b4",
+     "resolution": ""
+    },
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/fb2ac091-4cd3-49df-84ad-43d649aec967/origin.JPG",
+     "caption": "体验现场",
+     "source": "https://lp.p.pia.jp/article/news/212314/index.html",
+     "asset": "x350aa1f1a0a99001",
+     "resolution": ""
+    },
+    {
+     "url": "https://lp.p.pia.jp/shared/materials/bef75d7e-633b-42ff-8436-23b55584629d/origin.JPG",
+     "caption": "体验现场",
+     "source": "https://lp.p.pia.jp/article/news/212314/index.html",
+     "asset": "x7159660654f93078",
+     "resolution": ""
+    }
+   ],
+   "id": "pia_jmf22",
+   "date": "2021-12-20",
+   "category": "采访／连载",
+   "title": "ぴあ：JMF2022出演前专访，体验3D虚拟形象",
+   "japanese": "東啓介が語る『Japan Musical Festival 2022』出演への意気込みとアバター体験",
+   "url": "https://lp.p.pia.jp/article/news/212314/index.html",
+   "note": "ぴあ。公演抽选20名观众以3D虚拟形象登台共演，他先去体验了全身3D扫描，看到自己的虚拟形象跳舞直呼“ヤバい、恥ずかしい、すごい！”。",
+   "dateKind": "文章发布日期",
+   "kind": "文章"
+  },
+  {
    "id": "pr_onitaiji21",
    "date": "2021-12-31",
    "end": "",
@@ -14179,7 +14323,12 @@ window.ARCHIVE = {
      "resolution": "1024 × 576"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "文化放送特番 全程（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1RM4y1Q7Ps/"
+    }
+   ],
    "pending": false,
    "kind": "音声",
    "playlistLinks": []
@@ -16426,7 +16575,12 @@ window.ARCHIVE = {
      "resolution": "840 × 1260"
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "title": "2023.10.15 播出（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1BN41147BY/"
+    }
+   ],
    "biliLinks": [
     {
      "url": "https://www.bilibili.com/video/BV1Xu411L7oE/",
@@ -17737,6 +17891,10 @@ window.ARCHIVE = {
     {
      "title": "官方X 2024.03.14：全员杀青报告与感谢留言",
      "url": "https://x.com/tokaitv_dodra/status/1768366507741131023"
+    },
+    {
+     "title": "第11集片段（中字，B站）",
+     "url": "https://www.bilibili.com/video/BV1Ji421d7Gv/"
     }
    ],
    "pending": false,
@@ -18619,6 +18777,14 @@ window.ARCHIVE = {
     {
      "title": "ミュージカル「VIOLET」舞台映像ダイジェスト（Long.ver）",
      "url": "https://www.bilibili.com/video/BV1Pw4m1m7yg/"
+    },
+    {
+     "title": "梅田艺术剧场版 再演发布会合集 2024.3.8（B站）",
+     "url": "https://www.bilibili.com/video/BV1hM4m197rb/"
+    },
+    {
+     "title": "梅田艺术剧场版 公开彩排合集 2024.4.7（B站）",
+     "url": "https://www.bilibili.com/video/BV1jr421x7CH/"
     }
    ],
    "pending": false,
@@ -19566,6 +19732,14 @@ window.ARCHIVE = {
     {
      "title": "全集（B站）",
      "url": "https://www.bilibili.com/video/BV1zFdABLETp/"
+    },
+    {
+     "title": "官方TikTok 短剧幕后（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1qCPYe4E7J/"
+    },
+    {
+     "title": "饭岛宽骑、东启介、见津贤 杀青（官方X，B站搬运）",
+     "url": "https://www.bilibili.com/video/BV19orfYPEAU/"
     }
    ],
    "biliLinks": [
@@ -20420,6 +20594,10 @@ window.ARCHIVE = {
     {
      "title": "《泽西男孩》组曲（B站搬运）",
      "url": "https://www.bilibili.com/video/BV1es5fz3Eam/"
+    },
+    {
+     "title": "《长靴皇后》卡司演唱《RAISE YOU UP》（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV18e5fzNEKe/"
     }
    ],
    "sub": "音乐节目"
@@ -20603,6 +20781,14 @@ window.ARCHIVE = {
     {
      "title": "シンディ・ローパー登壇『キンキーブーツ』初日カーテンコール 東啓介×甲斐翔真×田村芽実2025/4/27",
      "url": "https://www.youtube.com/watch?v=homXEU412qk"
+    },
+    {
+     "title": "2025 官方预告（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1syGZzQE78/"
+    },
+    {
+     "title": "公开彩排（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1CPLkzyE7Q/"
     }
    ],
    "pending": false,
@@ -22280,6 +22466,10 @@ window.ARCHIVE = {
     {
      "title": "舞台『キングダムⅡ-継承-』全メインキャスト会見",
      "url": "https://www.youtube.com/watch?v=98alqMvB4Ww"
+    },
+    {
+     "title": "【全熟】上演纪念特别座谈会（B站）",
+     "url": "https://www.bilibili.com/video/BV1LUMR6qEJv/"
     }
    ],
    "pending": false,
@@ -22796,6 +22986,30 @@ window.ARCHIVE = {
     {
      "title": "朝日电视台特摄官方X 2026.10.25：第8话播出后：本周官网演员博客由东启介执笔",
      "url": "https://x.com/tokusatsu_ex/status/2114152460680060998"
+    },
+    {
+     "title": "【中日字幕】主要角色＆演员公开（B站）",
+     "url": "https://www.bilibili.com/video/BV1QJNB6rEmS/"
+    },
+    {
+     "title": "【FSD】紧急发布会（B站）",
+     "url": "https://www.bilibili.com/video/BV1rFNB6sELo/"
+    },
+    {
+     "title": "【中日字幕】第3集幕后花絮（B站）",
+     "url": "https://www.bilibili.com/video/BV1XVeB62EGR/"
+    },
+    {
+     "title": "【中日字幕】四位主演专访（B站）",
+     "url": "https://www.bilibili.com/video/BV1TPt16LEZa/"
+    },
+    {
+     "title": "【中日字幕】TTFC演员专访2：红猫等五人（B站）",
+     "url": "https://www.bilibili.com/video/BV1dMWM6GEEF/"
+    },
+    {
+     "title": "第8话宣传视频，与长谷川霞（官方X，B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1xBHw6rEyn/"
     }
    ],
    "pending": false,
@@ -22918,6 +23132,30 @@ window.ARCHIVE = {
     {
      "title": "【新番組】「仮面ライダーマイス」スペシャルティザー！",
      "url": "https://www.nicovideo.jp/watch/sm46625219"
+    },
+    {
+     "title": "【中日字幕】第1集 十二生肖的故事（B站）",
+     "url": "https://www.bilibili.com/video/BV1BEsF64EuD/"
+    },
+    {
+     "title": "【中日字幕】第7集 完美男神测验 岭高华武利篇（B站）",
+     "url": "https://www.bilibili.com/video/BV1FFWM6UEWK/"
+    },
+    {
+     "title": "十二支小剧场1–2（个人汉化，B站）",
+     "url": "https://www.bilibili.com/video/BV1tAs46pEif/"
+    },
+    {
+     "title": "十二支小剧场4 黑猫红猫（个人汉化，B站）",
+     "url": "https://www.bilibili.com/video/BV1jFxE6jE7m/"
+    },
+    {
+     "title": "十二支小剧场5–8（个人汉化，B站）",
+     "url": "https://www.bilibili.com/video/BV1TAs46pE1A/"
+    },
+    {
+     "title": "十二支小剧场11 黑猫大战红猫（个人汉化，B站）",
+     "url": "https://www.bilibili.com/video/BV1hsyGzSE2B/"
     }
    ],
    "pending": false,
@@ -23236,6 +23474,10 @@ window.ARCHIVE = {
     {
      "title": "免费部分中字（B站）",
      "url": "https://www.bilibili.com/video/BV1PQWE69EMx/"
+    },
+    {
+     "title": "配信节目《感謝の宴》全程（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1Cpsk69EqS/"
     }
    ],
    "pending": false,
@@ -42309,7 +42551,15 @@ window.ARCHIVE = {
   "xef47641a598509b7": "assets/img/ext/ef47641a598509b7.jpg",
   "x6d7894f6de079b19": "assets/img/ext/6d7894f6de079b19.jpg",
   "x67fd2d2407b5e93f": "assets/img/ext/67fd2d2407b5e93f.jpg",
-  "xf3382079c2f1d1de": "assets/img/ext/f3382079c2f1d1de.jpg"
+  "xf3382079c2f1d1de": "assets/img/ext/f3382079c2f1d1de.jpg",
+  "xb535df9d10734b2e": "assets/img/ext/b535df9d10734b2e.jpg",
+  "x8f03fb9f94489ec8": "assets/img/ext/8f03fb9f94489ec8.jpg",
+  "xdcdce3ca1ba35ec4": "assets/img/ext/dcdce3ca1ba35ec4.jpg",
+  "xfb413d4ab29c8f9e": "assets/img/ext/fb413d4ab29c8f9e.jpg",
+  "x7719dd1b107b0962": "assets/img/ext/7719dd1b107b0962.jpg",
+  "xf574b8eae45755b4": "assets/img/ext/f574b8eae45755b4.jpg",
+  "x350aa1f1a0a99001": "assets/img/ext/350aa1f1a0a99001.jpg",
+  "x7159660654f93078": "assets/img/ext/7159660654f93078.jpg"
  },
  "biliLeads": [
   {
