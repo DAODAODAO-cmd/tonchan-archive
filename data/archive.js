@@ -22860,6 +22860,10 @@ window.ARCHIVE = {
      "url": "https://www.bilibili.com/video/BV1f4yuzDE8v/"
     },
     {
+     "title": "第11话《老奶奶与リド②》B站中字（FSD字幕组）｜【FSD】十二支十色[11][老奶奶和狸断②]",
+     "url": "https://www.bilibili.com/video/BV1JhyVzvEWS/"
+    },
+    {
      "title": "【予告】十二支十色 八話 十二支ファッションチェック②",
      "url": "https://www.youtube.com/watch?v=HDNb4ix5TQM"
     },
@@ -23645,6 +23649,10 @@ window.ARCHIVE = {
     }
    ],
    "videos": [
+    {
+     "title": "官方X：写真集拍摄花絮第二弹（メイキングムービー，约30秒）2026.11.22",
+     "url": "https://x.com/TVguidePERSON/status/2124309100901318662"
+    },
     {
      "title": "官方X：写真集拍摄花絮（メイキングムービー）2026.11.8",
      "url": "https://x.com/TVguidePERSON/status/2119228631981658419"
