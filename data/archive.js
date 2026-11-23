@@ -9800,6 +9800,35 @@ window.ARCHIVE = {
    "playlistLinks": []
   },
   {
+   "end": "",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "status": "发布方原文已定位",
+   "origin": "2026.11.23补充",
+   "videos": [],
+   "pending": false,
+   "playlistLinks": [],
+   "images": [
+    {
+     "url": "https://d39t9tn4y25mgl.cloudfront.net/wp-content/uploads/2020/10/top-7.jpg",
+     "caption": "采访照（エンタメOVO）",
+     "source": "https://tvfan.kyodo.co.jp/feature-interview/interview/1247438",
+     "asset": "x097ee2f7db5cdddd",
+     "resolution": ""
+    }
+   ],
+   "kind": "文章",
+   "dateKind": "文章发布日期",
+   "id": "web_ovo1247438",
+   "date": "2020-11-02",
+   "category": "采访／连载",
+   "title": "《A NEW ME》专访（エンタメOVO）",
+   "japanese": "東啓介1st Musical Concert「A NEW ME」で見せる新たな一面「僕の可能性を感じていただけるコンサートにしたい」",
+   "url": "https://tvfan.kyodo.co.jp/feature-interview/interview/1247438",
+   "note": "共同通信エンタメOVO。谈标题“A NEW ME”取“诞生”之意，以及25岁节点和今后目标。"
+  },
+  {
    "id": "m405",
    "date": "2020-11-10",
    "end": "",
@@ -9857,6 +9886,34 @@ window.ARCHIVE = {
      "asset": "x322a8a5bf279872a",
      "resolution": "",
      "hasHigashi": true
+    },
+    {
+     "url": "https://spice.eplus.jp/images/CNBoBWoZNSuizwkU7TMTwRh3KHQouZCFmiB0uofbUPIPonQWzkxWIp0wjmXKm9UN/",
+     "caption": "采访照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/276893",
+     "asset": "xf8b642760b73f063",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/EtbeCUQgfk2NHzvHz3T73wCsalt5ngwuHKl8UhIuy8ZGG4CS9VKL8L2Xazle9xYs/",
+     "caption": "采访照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/276893",
+     "asset": "xf78bfedf92e2f0f9",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/EyFIfDfN0RfFbeXxsihFumSDl1TwzsCyFYOaxl7AeHiQQyRuupZrVvgRbELil62x/",
+     "caption": "采访照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/276893",
+     "asset": "x78f7d92f21ea4c1e",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/B5lfNeTs7aHTr4GNHXjQlX0LY3EzSF0EINqteIoHbPKdNagnzTKbYEpONeoZGBvj/",
+     "caption": "采访照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/276893",
+     "asset": "xb45b7e749f018856",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -9867,18 +9924,18 @@ window.ARCHIVE = {
   {
    "id": "e40",
    "date": "2020-11-28",
-   "end": "2020-11-29",
+   "end": "",
    "category": "音乐会",
    "title": "首场个人音乐会《A NEW ME》",
    "japanese": "東啓介1st Musical Concert A NEW ME",
    "role": "",
-   "crew": "",
+   "crew": "主办：WOWOW",
    "key": "",
    "url": "https://enterstage.jp/articles/78407",
-   "note": " 2020年9月14日公布举办（シアターテイメント：https://theatertainment.jp/japanese-play/62392/）。",
+   "note": "2020年11月28日在东京・山野Hall昼夜两场（14:00／18:00），25岁这年的第一场个人音乐会，标题意为“新的东启介”。舞台上挂着一座大钟，按“过去・现在・未来”串起曲目；观众全员戴面罩入场。夜场曲目：君住む町角（窈窕淑女）／ひとかけらの勇気（红花侠）／サラへ（吸血鬼之舞）／僕こそ音楽（莫扎特！）／Your Song（红磨坊）／For Forever（致埃文·汉森，英语）／My Eyes Adored You（泽西男孩）／しあわせ（Color of Life）／问答环节／うそつき（阿部真央，自弹吉他，疫情在家时学的）／独白（Whistle Down the Wind）／普通の人生（玛塔·哈丽）；安可：時が来た（变身怪医）。2020年9月12日公布举办（WOWOW新闻稿：https://prtimes.jp/main/html/rd/p/000005600.000001355.html），SPICE演出报道：https://spice.eplus.jp/articles/279348",
    "status": "",
    "origin": "",
-   "dateKind": "活动首日",
+   "dateKind": "公演日",
    "images": [
     {
      "url": "https://enterstage.jp/wp/wp-content/uploads/2020/12/78407_2.jpg",
@@ -9899,6 +9956,55 @@ window.ARCHIVE = {
      "caption": "宣传照",
      "source": "https://theatertainment.jp/japanese-play/62392/",
      "asset": "x9dffe2815f805fc1",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/px2nDhVGxb2HdtK9ZWE9bHq7BDwF2swUiRHnajhN2Szclf2I5WjoxjgnbZu45IYy/",
+     "caption": "演出照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/279348",
+     "asset": "x092c0bae960c9d19",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/bmmJvAFEk5NDeBNSUtqiu4zF0jgN1QHhCjMWBOx5WJ8n4mHGZNwZNZjSv2upCkkL/",
+     "caption": "演出照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/279348",
+     "asset": "x7f17fde6105d32f1",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/fRhj4McP3rngdvgr0Y9REnIoiMA9HcfxpOizsZDLLIOsdwu5a9IApYoCeT32MurC/",
+     "caption": "演出照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/279348",
+     "asset": "xdcad8dfe1df70e05",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/YObkIgbCEBBcLfhd5v4IZNZXu7SvmLzRLtw2Hj8dCSInwydzdKRVuPemGxQIoj5I/",
+     "caption": "自弹吉他唱《うそつき》（SPICE）",
+     "source": "https://spice.eplus.jp/articles/279348",
+     "asset": "xede9cd308377c394",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/dpDIkyiyNsUXmvaYgoh5RJ3cjO4E3J8n8GG5yuX3J0YRPwdVemTgkdHOAbRQyHHA/",
+     "caption": "演出照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/279348",
+     "asset": "xca0ef52400958b12",
+     "resolution": ""
+    },
+    {
+     "url": "https://spice.eplus.jp/images/lX9TIYb38Z07Yzmp68tBz3g8CKj5OaPWeFyAKRCivMJf7HVmaydjLOUGNlYEHYTn/",
+     "caption": "演出照（SPICE）",
+     "source": "https://spice.eplus.jp/articles/279348",
+     "asset": "xb43537bd3616cc30",
+     "resolution": ""
+    },
+    {
+     "url": "https://enterstage.jp/wp/wp-content/uploads/2020/12/78407-1.jpg",
+     "caption": "演出照（撮影：岩村美佳）",
+     "source": "https://enterstage.jp/articles/78407",
+     "asset": "xc9a0c1de3341f40a",
      "resolution": ""
     }
    ],
@@ -20598,6 +20704,10 @@ window.ARCHIVE = {
     {
      "title": "《长靴皇后》卡司演唱《RAISE YOU UP》（B站搬运）",
      "url": "https://www.bilibili.com/video/BV18e5fzNEKe/"
+    },
+    {
+     "title": "《泽西男孩》组曲（B站搬运）",
+     "url": "https://www.bilibili.com/video/BV1Hd5bzBEAg/"
     }
    ],
    "sub": "音乐节目"
@@ -42559,7 +42669,20 @@ window.ARCHIVE = {
   "x7719dd1b107b0962": "assets/img/ext/7719dd1b107b0962.jpg",
   "xf574b8eae45755b4": "assets/img/ext/f574b8eae45755b4.jpg",
   "x350aa1f1a0a99001": "assets/img/ext/350aa1f1a0a99001.jpg",
-  "x7159660654f93078": "assets/img/ext/7159660654f93078.jpg"
+  "x7159660654f93078": "assets/img/ext/7159660654f93078.jpg",
+  "x092c0bae960c9d19": "assets/img/ext/092c0bae960c9d19.jpg",
+  "x7f17fde6105d32f1": "assets/img/ext/7f17fde6105d32f1.jpg",
+  "xdcad8dfe1df70e05": "assets/img/ext/dcad8dfe1df70e05.jpg",
+  "xede9cd308377c394": "assets/img/ext/ede9cd308377c394.jpg",
+  "xca0ef52400958b12": "assets/img/ext/ca0ef52400958b12.jpg",
+  "xb43537bd3616cc30": "assets/img/ext/b43537bd3616cc30.jpg",
+  "xc9a0c1de3341f40a": "assets/img/ext/c9a0c1de3341f40a.jpg",
+  "x42590e685b7fd4b7": "assets/img/ext/42590e685b7fd4b7.jpg",
+  "xf8b642760b73f063": "assets/img/ext/f8b642760b73f063.jpg",
+  "xf78bfedf92e2f0f9": "assets/img/ext/f78bfedf92e2f0f9.jpg",
+  "x78f7d92f21ea4c1e": "assets/img/ext/78f7d92f21ea4c1e.jpg",
+  "xb45b7e749f018856": "assets/img/ext/b45b7e749f018856.jpg",
+  "x097ee2f7db5cdddd": "assets/img/ext/097ee2f7db5cdddd.jpg"
  },
  "biliLeads": [
   {

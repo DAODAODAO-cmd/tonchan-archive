@@ -1831,12 +1831,54 @@ window.HUB = {
    "src": "Natalie"
   },
   {
+   "date": "2020-12-03",
+   "tag": "活动",
+   "title": "エンタステージ《A NEW ME》演出报道：音乐剧演员东启介的“过去・现在・未来”与梦想",
+   "text": "",
+   "url": "https://enterstage.jp/articles/78407"
+  },
+  {
+   "date": "2020-12-02",
+   "tag": "活动",
+   "title": "SPICE《A NEW ME》演出报道：“请看着我从这里开始成长”",
+   "text": "",
+   "url": "https://spice.eplus.jp/articles/279348"
+  },
+  {
+   "date": "2020-11-11",
+   "tag": "采访",
+   "title": "SPICE专访：《A NEW ME》“现在能站在舞台上唱歌就是我的喜悦”",
+   "text": "",
+   "url": "https://spice.eplus.jp/articles/276893"
+  },
+  {
+   "date": "2020-11-02",
+   "tag": "采访",
+   "title": "エンタメOVO专访：《A NEW ME》想让大家看到我的可能性",
+   "text": "",
+   "url": "https://tvfan.kyodo.co.jp/feature-interview/interview/1247438"
+  },
+  {
+   "date": "2020-10-31",
+   "tag": "采访",
+   "title": "エンタステージ专访：《A NEW ME》“今后的东启介”",
+   "text": "",
+   "url": "https://enterstage.jp/articles/72713"
+  },
+  {
    "date": "2020-10-20",
    "tag": "舞台",
    "title": "《恋，燃烧吧。》开幕",
    "text": "",
    "url": "https://natalie.mu/stage/news/401378",
    "src": "Natalie"
+  },
+  {
+   "date": "2020-10-13",
+   "tag": "活动",
+   "title": "《A NEW ME》取材会",
+   "text": "",
+   "url": "https://prtimes.jp/main/html/rd/p/000005644.000001355.html"
   },
   {
    "date": "2020-09-29",
@@ -1853,6 +1895,13 @@ window.HUB = {
    "text": "",
    "url": "https://natalie.mu/stage/news/396136",
    "src": "Natalie"
+  },
+  {
+   "date": "2020-09-12",
+   "tag": "活动",
+   "title": "首场个人音乐会《A NEW ME》决定11月28日在山野Hall举办",
+   "text": "25岁之际首次个人音乐会，演唱过往出演作和想演的角色的歌曲。",
+   "url": "https://prtimes.jp/main/html/rd/p/000005600.000001355.html"
   },
   {
    "date": "2020-09-03",
@@ -3122,7 +3171,8 @@ window.HUB = {
      "u": "https://7net.omni7.jp/detail/1301466157.html",
      "href": "assets/img/ext/e10c82791d7a1f17.jpg"
     }
-   ]
+   ],
+   "event": "e40"
   },
   {
    "date": "2020-01-24",
