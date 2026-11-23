@@ -835,7 +835,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.nntt.jac.go.jp/performance/rent/%E5%85%AB%E9%9B%B2%E6%9C%AC%E3%83%81%E3%83%A9%E3%82%B7%E8%A1%A8.jpg",
      "caption": "正式宣传单（正面）",
-     "source": "新国立劇場"
+     "source": "新国立劇場",
+     "asset": "xdfa622aa4fee5bd3"
     }
    ],
    "videos": [],
@@ -4207,7 +4208,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/1507612_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/1507612/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/1507612/",
+     "asset": "x7e92df3bba2080b1"
     }
    ],
    "videos": [],
@@ -8662,7 +8664,7 @@ window.ARCHIVE = {
      "url": "https://i0.hdslb.com/bfs/archive/49dfe4f050792e9d1071e30dbfcebd4465b8f53d.jpg",
      "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1TQ4y1T7TK/",
-     "asset": "",
+     "asset": "xdae0280365588830",
      "resolution": ""
     }
    ],
@@ -8693,7 +8695,7 @@ window.ARCHIVE = {
      "url": "https://i0.hdslb.com/bfs/archive/d497d9f26cee685492f7d57fa5c2a2fe2b333f4b.jpg",
      "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1i5411x7WJ/",
-     "asset": "",
+     "asset": "x541072496586cb48",
      "resolution": ""
     }
    ],
@@ -8776,7 +8778,7 @@ window.ARCHIVE = {
      "url": "https://i0.hdslb.com/bfs/archive/9e1d5d33389caf42bacea858e2e34b6c47db385d.jpg",
      "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1fp4y1S74K/",
-     "asset": "",
+     "asset": "x4a59d760ca58330b",
      "resolution": ""
     }
    ],
@@ -9288,7 +9290,7 @@ window.ARCHIVE = {
      "url": "https://i0.hdslb.com/bfs/archive/70706d64449ff7fa9d48522191c26ced97fa48bd.jpg",
      "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1rf4y1Q7h4/",
-     "asset": "",
+     "asset": "xb95f46335545a51a",
      "resolution": ""
     }
    ],
@@ -9319,7 +9321,7 @@ window.ARCHIVE = {
      "url": "https://i0.hdslb.com/bfs/archive/36e7ea0becaf226d34017fe902c6f353b6e72951.jpg",
      "caption": "视频封面",
      "source": "https://www.bilibili.com/video/BV1Wv41117iS/",
-     "asset": "",
+     "asset": "x54b0cbe06afedd2b",
      "resolution": ""
     }
    ],
@@ -9999,13 +10001,6 @@ window.ARCHIVE = {
      "source": "https://spice.eplus.jp/articles/279348",
      "asset": "xb43537bd3616cc30",
      "resolution": ""
-    },
-    {
-     "url": "https://enterstage.jp/wp/wp-content/uploads/2020/12/78407-1.jpg",
-     "caption": "演出照（撮影：岩村美佳）",
-     "source": "https://enterstage.jp/articles/78407",
-     "asset": "xc9a0c1de3341f40a",
-     "resolution": ""
     }
    ],
    "videos": [
@@ -10293,7 +10288,8 @@ window.ARCHIVE = {
     {
      "url": "https://www.ntv.co.jp/uchikare/images/ogp_new2.jpg",
      "caption": "主视觉",
-     "source": "官方"
+     "source": "官方",
+     "asset": "x3ffc206d4b21361d"
     }
    ],
    "videos": [
@@ -10446,7 +10442,7 @@ window.ARCHIVE = {
      "url": "https://i0.hdslb.com/bfs/archive/5028e18d64ed83714372d5e4bdaa4ca1c1bf02ea.jpg",
      "caption": "B站视频封面",
      "source": "https://www.bilibili.com/video/BV17y4y1E7vQ/",
-     "asset": "",
+     "asset": "x70287120084c3569",
      "resolution": ""
     }
    ],
@@ -10666,7 +10662,7 @@ window.ARCHIVE = {
      "url": "https://i2.hdslb.com/bfs/archive/97e7f7346b995b65c6e7ecc86ad5507f4c997a36.jpg",
      "caption": "B站视频封面",
      "source": "https://www.bilibili.com/video/BV18y4y18738/",
-     "asset": "",
+     "asset": "x9df44735f83b3f40",
      "resolution": ""
     }
    ],
@@ -10700,7 +10696,7 @@ window.ARCHIVE = {
      "url": "https://i1.hdslb.com/bfs/archive/6f8f6ca2e5a400c2a2cb6183ff2a27c7b9132367.jpg",
      "caption": "B站视频封面",
      "source": "https://www.bilibili.com/video/BV1tU4y1p7JS/",
-     "asset": "",
+     "asset": "x3847ddfdf291aff6",
      "resolution": ""
     }
    ],
@@ -12655,7 +12651,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2213666_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/2213666/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/2213666/",
+     "asset": "xe92b156154905927"
     }
    ],
    "videos": [],
@@ -12988,7 +12985,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-cd-m-catalog/ja_JP/033131/1301507635.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "xaba0588d02074254"
     },
     {
      "url": "https://pbs.twimg.com/media/FSiZFh2aMAAvf9P?format=jpg&name=large",
@@ -13516,7 +13514,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2295085_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/2295085/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/2295085/",
+     "asset": "x47dd76d7db1a583a"
     }
    ],
    "videos": [],
@@ -14385,7 +14384,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110635880.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x52684bcff331fa3b"
     },
     {
      "url": "https://pbs.twimg.com/media/Fo-L6GNaQAE0ByI?format=jpg&name=large",
@@ -16167,7 +16167,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2433554_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/2433554/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/2433554/",
+     "asset": "x0262e657e9b4874b"
     }
    ],
    "videos": [],
@@ -16928,7 +16929,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110643872.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x100b7c3780dc92d6"
     },
     {
      "url": "https://pbs.twimg.com/media/F--EC8pbYAA3Skk?format=jpg&name=large",
@@ -17282,7 +17284,8 @@ window.ARCHIVE = {
     {
      "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di0118.jpg",
      "caption": "舞台照",
-     "source": "カンフェティ"
+     "source": "カンフェティ",
+     "asset": "x82abe93cc3913833"
     },
     {
      "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di1536.jpg",
@@ -17305,12 +17308,14 @@ window.ARCHIVE = {
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6470/458/6470-458-38c610614bc261b41153c44797b31bc9-3069x2301.jpg?format=jpeg&width=1950&height=1350&fit=bounds",
      "caption": "舞台照（衛星劇場放送新闻稿）",
-     "source": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html"
+     "source": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html",
+     "asset": "x7f5c12a62f8ba976"
     },
     {
      "url": "https://prcdn.freetls.fastly.net/release_image/6470/458/6470-458-c9f732ad6cffae82ae60f66fe3b8656c-3504x2336.jpg?format=jpeg&width=1950&height=1350&fit=bounds",
      "caption": "舞台照：全员（衛星劇場放送新闻稿）",
-     "source": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html"
+     "source": "https://prtimes.jp/main/html/rd/p/000000458.000006470.html",
+     "asset": "x448098716db33857"
     }
    ],
    "videos": [
@@ -17423,7 +17428,8 @@ window.ARCHIVE = {
     {
      "url": "https://magazine.confetti-web.com/wp-content/uploads/2023/11/di0118.jpg",
      "caption": "",
-     "source": "カンフェティ"
+     "source": "カンフェティ",
+     "asset": "x82abe93cc3913833"
     }
    ],
    "videos": [],
@@ -17743,7 +17749,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645476.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "xe0cebf259f4de209"
     },
     {
      "url": "https://pbs.twimg.com/media/GCMSEzJbMAAyDFF?format=jpg&name=large",
@@ -18167,7 +18174,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110645934.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x0959b301487fd79e"
     },
     {
      "url": "https://pbs.twimg.com/media/GE_OH5QakAA5klx?format=jpg&name=large",
@@ -18745,7 +18753,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2509150_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/2475/b/2509150/"
+     "source": "https://www.fujisan.co.jp/product/2475/b/2509150/",
+     "asset": "xa15f4cc72da4f656"
     }
    ],
    "videos": [],
@@ -18924,7 +18933,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110649206.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x544996a3ea77fa7a"
     },
     {
      "url": "https://pbs.twimg.com/media/GMY-lGraMAAp9vi?format=jpg&name=large",
@@ -19115,7 +19125,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110651558.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x3db9102342982d27"
     },
     {
      "url": "https://pbs.twimg.com/media/GRX0KERaYAAWb8X?format=jpg&name=large",
@@ -19189,7 +19200,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110652908.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "xf1d5d92b36fa14f2"
     },
     {
      "url": "https://pbs.twimg.com/media/GTtfXs4aoAASpHP?format=jpg&name=large",
@@ -19375,7 +19387,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110655808.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x960d3d607f29146a"
     },
     {
      "url": "https://pbs.twimg.com/media/GYxhOm0a4AABw1n?format=jpg&name=large",
@@ -19414,7 +19427,8 @@ window.ARCHIVE = {
     {
      "url": "https://img.fujisan.co.jp/images/products/backnumbers/2579463_n.jpg",
      "caption": "封面",
-     "source": "https://www.fujisan.co.jp/product/159/b/2579463/"
+     "source": "https://www.fujisan.co.jp/product/159/b/2579463/",
+     "asset": "xb65a11fd497f0d22"
     }
    ],
    "videos": [],
@@ -19617,7 +19631,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110656745.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x0111d6823d06932e"
     },
     {
      "url": "https://pbs.twimg.com/media/GbRBq0oakAYkHXZ?format=jpg&name=large",
@@ -19778,7 +19793,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110657940.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "xcafc20a5d202250c"
     },
     {
      "url": "https://pbs.twimg.com/media/GddFG6-WAAA6dm5?format=jpg&name=large",
@@ -20020,7 +20036,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110658820.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x0520d04aa05ce8bc"
     },
     {
      "url": "https://pbs.twimg.com/media/GglCWW5agAEHyfp?format=jpg&name=large",
@@ -20278,7 +20295,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110659587.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "xcea16ae1c226f585"
     },
     {
      "url": "https://pbs.twimg.com/media/Gi08SFYaMAAqQZH?format=jpg&name=large",
@@ -20624,7 +20642,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110663420.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x11d95928d9096f1d"
     },
     {
      "url": "https://pbs.twimg.com/media/Gna7FgxakAAu6kg?format=jpg&name=large",
@@ -21053,7 +21072,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110667077.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x9754550fbc3f86c6"
     },
     {
      "url": "https://pbs.twimg.com/media/GsZ8jUFbsAAtZoP?format=jpg&name=large",
@@ -21422,7 +21442,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110671844.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x11b0d0ea5e8ac1f5"
     },
     {
      "url": "https://pbs.twimg.com/media/GxO-ibnaIAEiCIn?format=jpg&name=large",
@@ -21734,7 +21755,8 @@ window.ARCHIVE = {
     {
      "url": "https://7net.omni7.jp/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/033131/2110679260.jpg",
      "caption": "7net 官方商品图",
-     "source": ""
+     "source": "",
+     "asset": "x2118545ea58f7b37"
     },
     {
      "url": "https://pbs.twimg.com/media/G4gFo2GakAAwKG1?format=jpg&name=large",
@@ -22395,7 +22417,7 @@ window.ARCHIVE = {
      "url": "https://img2.animatetimes.com/2026/08/4481c5b0dfbcd2566591686a7d7e6ef76a741caddc8dd4_19834475_440bb24c30931d48e60dbc032c05b082c2719bc8.jpg",
      "caption": "アニメイトタイムズ",
      "source": "https://www.animatetimes.com/news/details.php?id=1785993354",
-     "asset": "",
+     "asset": "x6d1b67a26e5b4045",
      "resolution": ""
     }
    ],
@@ -22776,7 +22798,7 @@ window.ARCHIVE = {
      "url": "https://img2.animatetimes.com/2026/09/a32ca071001e497e404123badc472f366a965119763ef4_45221104_cbc2440149e711db4f271c222863a4bf3cac334f.jpg",
      "caption": "Animate Times 采访图",
      "source": "https://www.animatetimes.com/news/details.php?id=1788235894",
-     "asset": "",
+     "asset": "x4b5722c82f811100",
      "resolution": ""
     }
    ],
@@ -42682,7 +42704,37 @@ window.ARCHIVE = {
   "xf78bfedf92e2f0f9": "assets/img/ext/f78bfedf92e2f0f9.jpg",
   "x78f7d92f21ea4c1e": "assets/img/ext/78f7d92f21ea4c1e.jpg",
   "xb45b7e749f018856": "assets/img/ext/b45b7e749f018856.jpg",
-  "x097ee2f7db5cdddd": "assets/img/ext/097ee2f7db5cdddd.jpg"
+  "x097ee2f7db5cdddd": "assets/img/ext/097ee2f7db5cdddd.jpg",
+  "xdfa622aa4fee5bd3": "assets/img/ext/dfa622aa4fee5bd3.jpg",
+  "x7e92df3bba2080b1": "assets/img/ext/7e92df3bba2080b1.jpg",
+  "x3ffc206d4b21361d": "assets/img/ext/3ffc206d4b21361d.jpg",
+  "xe92b156154905927": "assets/img/ext/e92b156154905927.jpg",
+  "xaba0588d02074254": "assets/img/ext/aba0588d02074254.jpg",
+  "x47dd76d7db1a583a": "assets/img/ext/47dd76d7db1a583a.jpg",
+  "x52684bcff331fa3b": "assets/img/ext/52684bcff331fa3b.jpg",
+  "x0262e657e9b4874b": "assets/img/ext/0262e657e9b4874b.jpg",
+  "x100b7c3780dc92d6": "assets/img/ext/100b7c3780dc92d6.jpg",
+  "x82abe93cc3913833": "assets/img/ext/82abe93cc3913833.jpg",
+  "x7f5c12a62f8ba976": "assets/img/ext/7f5c12a62f8ba976.jpg",
+  "x448098716db33857": "assets/img/ext/448098716db33857.jpg",
+  "xe0cebf259f4de209": "assets/img/ext/e0cebf259f4de209.jpg",
+  "x0959b301487fd79e": "assets/img/ext/0959b301487fd79e.jpg",
+  "xa15f4cc72da4f656": "assets/img/ext/a15f4cc72da4f656.jpg",
+  "x544996a3ea77fa7a": "assets/img/ext/544996a3ea77fa7a.jpg",
+  "x3db9102342982d27": "assets/img/ext/3db9102342982d27.jpg",
+  "xf1d5d92b36fa14f2": "assets/img/ext/f1d5d92b36fa14f2.jpg",
+  "x960d3d607f29146a": "assets/img/ext/960d3d607f29146a.jpg",
+  "xb65a11fd497f0d22": "assets/img/ext/b65a11fd497f0d22.jpg",
+  "x0111d6823d06932e": "assets/img/ext/0111d6823d06932e.jpg",
+  "xcafc20a5d202250c": "assets/img/ext/cafc20a5d202250c.jpg",
+  "x0520d04aa05ce8bc": "assets/img/ext/0520d04aa05ce8bc.jpg",
+  "xcea16ae1c226f585": "assets/img/ext/cea16ae1c226f585.jpg",
+  "x11d95928d9096f1d": "assets/img/ext/11d95928d9096f1d.jpg",
+  "x9754550fbc3f86c6": "assets/img/ext/9754550fbc3f86c6.jpg",
+  "x11b0d0ea5e8ac1f5": "assets/img/ext/11b0d0ea5e8ac1f5.jpg",
+  "x2118545ea58f7b37": "assets/img/ext/2118545ea58f7b37.jpg",
+  "x6d1b67a26e5b4045": "assets/img/ext/6d1b67a26e5b4045.jpg",
+  "x4b5722c82f811100": "assets/img/ext/4b5722c82f811100.jpg"
  },
  "biliLeads": [
   {

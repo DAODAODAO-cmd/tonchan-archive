@@ -3970,7 +3970,7 @@ window.HUB = {
    "date": "2017-07-29",
    "title": "残酷剧《グランギニョル》公演周边",
    "price": "随机徽章 400円 · 场刊 2,500円 · 托特包 1,500円",
-   "image": "assets/img/ext/56541afd41491043.jpg",
+   "image": "assets/img/ext/be5754a594ff2e37.jpg",
    "points": [
     "随机徽章38种，用役服装照和形象照，里面有他",
     "场刊有每位演员的单独访谈",
@@ -5319,7 +5319,7 @@ window.HUB = {
    "cat": "CD",
    "price": "CD",
    "publisher": "",
-   "image": "assets/img/ext/d728c74990e2eaf9.jpg",
+   "image": "assets/img/ext/a228156cc32e56f6.jpg",
    "points": [
     "2024巡演东京场"
    ],
@@ -5526,7 +5526,7 @@ window.HUB = {
    "date": "2017-01-18",
    "price": "",
    "publisher": "",
-   "image": "assets/img/ext/0432afd3fc089e2d.jpg",
+   "image": "assets/img/ext/9013fb1898e9f198.jpg",
    "points": [
     "个人第一张影像作品",
     "发售前公开了宣传PV"
