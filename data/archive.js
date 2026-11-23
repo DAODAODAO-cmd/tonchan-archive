@@ -9934,7 +9934,7 @@ window.ARCHIVE = {
    "crew": "主办：WOWOW",
    "key": "",
    "url": "https://enterstage.jp/articles/78407",
-   "note": "2020年11月28日在东京・山野Hall昼夜两场（14:00／18:00），25岁这年的第一场个人音乐会，标题意为“新的东启介”。舞台上挂着一座大钟，按“过去・现在・未来”串起曲目；观众全员戴面罩入场。夜场曲目：君住む町角（窈窕淑女）／ひとかけらの勇気（红花侠）／サラへ（吸血鬼之舞）／僕こそ音楽（莫扎特！）／Your Song（红磨坊）／For Forever（致埃文·汉森，英语）／My Eyes Adored You（泽西男孩）／しあわせ（Color of Life）／问答环节／うそつき（阿部真央，自弹吉他，疫情在家时学的）／独白（Whistle Down the Wind）／普通の人生（玛塔·哈丽）；安可：時が来た（变身怪医）。2020年9月12日公布举办（WOWOW新闻稿：https://prtimes.jp/main/html/rd/p/000005600.000001355.html），SPICE演出报道：https://spice.eplus.jp/articles/279348",
+   "note": "2020年11月28日在东京・山野Hall昼夜两场（14:00／18:00），25岁这年的第一场个人音乐会，标题意为“新的东启介”。舞台上挂着一座大钟，按“过去・现在・未来”串起曲目；观众全员戴面罩入场。夜场曲目：君住む町角（窈窕淑女）／ひとかけらの勇気（红花侠）／サラへ（吸血鬼之舞）／僕こそ音楽（莫扎特！）／Your Song（红磨坊）／For Forever（致埃文·汉森，英语）／My Eyes Adored You（泽西男孩）／しあわせ（Color of Life）／问答环节／うそつき（阿部真央，自弹吉他，疫情在家时学的）／独白（Whistle Down the Wind）／普通の人生（玛塔·哈丽）；安可：時が来た（变身怪医）。2020年9月12日公布举办（WOWOW新闻稿：https://prtimes.jp/main/html/rd/p/000005600.000001355.html），SPICE演出报道：https://spice.eplus.jp/articles/279348 同期还有产经マチ★ソワ专访「存在意義を示していきたい」前后编（原页面已下线）。",
    "status": "",
    "origin": "",
    "dateKind": "公演日",
@@ -10007,6 +10007,10 @@ window.ARCHIVE = {
     {
      "title": "東啓介1st Musical Concert「A NEW ME」",
      "url": "https://www.youtube.com/watch?v=boRc5-hnsMg"
+    },
+    {
+     "title": "マチ★ソワ「待ちそわコメント」#3（2020.10.29，宣传A NEW ME）",
+     "url": "https://www.youtube.com/watch?v=H4PR-TNvs2A"
     }
    ],
    "pending": false,
@@ -27545,7 +27549,7 @@ window.ARCHIVE = {
    "type": "采访／发布会",
    "url": "https://www.youtube.com/watch?v=H4PR-TNvs2A",
    "years": [],
-   "rel": "标题提及东启介",
+   "rel": "e40",
    "platform": "YouTube",
    "asset": "cce0e9655b80b8c2",
    "uploadDate": "2020-10-29"
