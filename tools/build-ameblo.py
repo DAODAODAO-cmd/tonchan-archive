@@ -61,6 +61,21 @@ def parse(path):
         else: out.append(b)
     return {'id': id_, 'date': date[:16], 'title': title, 'blocks': out}
 
+# 月份归档页/首页分页里带全文的文章：拆成单篇放进 RAW（单篇本身没存档时用）
+PAGES = os.path.join(ROOT, 'tools', 'ameblo-pages')
+for pg in sorted(glob.glob(os.path.join(PAGES, '*.html'))):
+    d = BeautifulSoup(open(pg, encoding='utf-8', errors='replace').read(), 'html.parser')
+    for a in d.select('article, .skinArticle'):
+        link = a.select_one('h1 a[href*="entry-"], h2 a[href*="entry-"], .skinArticleTitle a, [data-uranus-component=entryTitle] a') or a.select_one('a[href*="/entry-"]')
+        m = re.search(r'entry-(\d{11})', link.get('href', '')) if link else None
+        if not m: continue
+        dest = os.path.join(RAW, m.group(1) + '.html')
+        if os.path.exists(dest): continue
+        body = a.select_one('.skinArticleBody2, .skinArticleBody, .articleText, [data-uranus-component=entryBody]')
+        if not body: continue
+        dm = re.search(r'20\d\d-\d\d-\d\d \d\d:\d\d(?::\d\d)?', a.get_text(' '))
+        out = '<html><head><title>%s</title></head><body><h1 class="skinArticleTitle">%s</h1><time>%s</time><div class="articleText">%s</div></body></html>' % (link.get_text(strip=True), link.get_text(strip=True), dm.group(0) if dm else '', body.decode_contents())
+        open(dest, 'w', encoding='utf-8').write(out)
 entries = [parse(p) for p in sorted(glob.glob(os.path.join(RAW, '*.html')))]
 entries = [e for e in entries if e['blocks'] or e['title']]
 entries.sort(key=lambda e: e['date'])

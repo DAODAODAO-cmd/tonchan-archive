@@ -63,9 +63,35 @@ foreach ($id in $best.Keys) {
   if (-not (Save-Url ("https://web.archive.org/web/{0}id_/{1}" -f $c[0], $c[1]) $dest)) { $fail += $id }
 }
 
+Write-Host '抓月份归档页（单篇没存档的文章，正文常在这些页里）...'
+$pageDir = Join-Path $root 'tools\ameblo-pages'
+New-Item -ItemType Directory -Force -Path $pageDir | Out-Null
+$months = @()
+for ($y = 2013; $y -le 2018; $y++) { for ($m = 1; $m -le 12; $m++) { $ym = '{0}{1:D2}' -f $y, $m; if ($ym -ge '201312' -and $ym -le '201808') { $months += $ym } } }
+foreach ($ym in $months) {
+  for ($p = 1; $p -le 32; $p++) {
+    $dest = Join-Path $pageDir ("archive-{0}-{1}.html" -f $ym, $p)
+    if ((Test-Path $dest) -and ((Get-Item $dest).Length -gt 5000)) { continue }
+    $name = if ($p -gt 1) { "archive$p-$ym.html" } else { "archive-$ym.html" }
+    $ok = $false
+    foreach ($h in @('http://ameblo.jp', 'https://ameblo.jp')) {
+      if (Save-Url ("https://web.archive.org/web/2020id_/{0}/keisuke-higashi-we/{1}" -f $h, $name) $dest) { $ok = $true; break }
+    }
+    Write-Host ("  {0} 第{1}页 {2}" -f $ym, $p, $(if ($ok) { 'OK' } else { '无' }))
+    if (-not $ok) { break }
+  }
+}
+for ($p = 1; $p -le 60; $p++) {
+  $dest = Join-Path $pageDir ("page-{0}.html" -f $p)
+  if ((Test-Path $dest) -and ((Get-Item $dest).Length -gt 5000)) { continue }
+  foreach ($h in @('http://ameblo.jp', 'https://ameblo.jp')) {
+    if (Save-Url ("https://web.archive.org/web/2020id_/{0}/keisuke-higashi-we/page-{1}.html" -f $h, $p) $dest) { break }
+  }
+}
+
 Write-Host '下载文中图片...'
 $imgs = @{}
-foreach ($f in Get-ChildItem $rawDir -Filter *.html) {
+foreach ($f in @(Get-ChildItem $rawDir -Filter *.html) + @(Get-ChildItem $pageDir -Filter *.html -ErrorAction SilentlyContinue)) {
   $t = [IO.File]::ReadAllText($f.FullName)
   foreach ($m in [regex]::Matches($t, 'https?://stat\.ameba\.jp/user_images/(\d{8})/\d+/keisuke-higashi-we/[^"''\s<>?]+\.(?:jpg|jpeg|png|gif)')) {
     $imgs[$m.Value -replace '^http:', 'https:'] = $m.Groups[1].Value
