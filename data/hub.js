@@ -246,8 +246,8 @@ window.HUB = {
    "date": "2026-11-25",
    "tag": "舞台",
    "title": "刀舞FC站更新了东启介（烛台切光忠役）的演员博客",
-   "text": "《陽伝》期间的キャストブログ，会员内容。",
-   "url": "https://fc.stage-toukenranbu.jp/news/?id=1078"
+   "text": "刀舞官方X发了通知；博客本身在FC站，会员内容。",
+   "url": "https://x.com/stage_touken/status/2125470057618981004"
   },
   {
    "date": "2026-11-22",
