@@ -31,7 +31,7 @@ function Hash16($s) {
 
 Write-Host '查询存档目录...'
 $caps = @()
-foreach ($q in @('ameblo.jp/keisuke-higashi-we/entry-*', 's.ameblo.jp/keisuke-higashi-we/entry-*')) {
+foreach ($q in @('ameblo.jp/keisuke-higashi-we/entry-*', 's.ameblo.jp/keisuke-higashi-we/entry-*', 'ameblo.jp/keisuke-higashi-we/amp/entry-*', 'ameblo.jp/keisuke-higashi-we/image-*')) {
   $j = Get-Json ("https://web.archive.org/cdx/search/cdx?url=$q&output=json&fl=timestamp,original,statuscode&limit=20000")
   if ($j.Count -gt 1) { $caps += $j[1..($j.Count - 1)] }
 }
@@ -44,6 +44,11 @@ foreach ($c in $caps) {
 }
 foreach ($c in $caps) {
   if ($c[2] -ne '200' -or $c[1] -notmatch 'entry-(\d+)\.html') { continue }
+  if (-not $best.ContainsKey($Matches[1])) { $best[$Matches[1]] = $c }
+}
+# 没有 200 的再用跳转（301/302）存档兜底，下载时会自动跟随跳转
+foreach ($c in $caps) {
+  if ($c[2] -notmatch '^3' -or $c[1] -notmatch 'entry-(\d+)\.html') { continue }
   if (-not $best.ContainsKey($Matches[1])) { $best[$Matches[1]] = $c }
 }
 Write-Host ("存档里找到 {0} 篇" -f $best.Count)
