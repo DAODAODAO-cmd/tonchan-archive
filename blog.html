@@ -12,6 +12,7 @@ h1{font-family:"Songti SC",Georgia,serif;font-size:30px;line-height:1.45;margin:
 main{padding-top:24px!important;padding-bottom:40px!important}.lead{color:#71675e;font-size:15px;margin:0 0 18px}
 .tools{position:sticky;top:58px;z-index:10;background:#fbf6eff0;padding:10px 0 12px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .tools button{border:0;border-radius:99px;background:#efe7dc;color:#5b5148;padding:6px 14px;font-size:14px}.tools button[aria-pressed=true]{background:#365541;color:#fff}
+#months{position:static;padding:0 0 10px;gap:6px}#months button{padding:4px 11px;font-size:13px}#months small{opacity:.6;margin-left:2px}
 .tools input{flex:1 1 180px;min-width:0;border:1px solid #e3d8c9;border-radius:99px;padding:7px 14px;background:#fffdf9;font:inherit;font-size:14px}
 .count{font-size:13px;color:#71675e;margin:4px 0 12px}
 .hero{margin:0 0 6px}.hero img{width:100%;border-radius:18px;background:#fff}.hero figcaption{font-size:13px;color:#71675e;margin-top:8px}.first{font-size:13px;color:#71675e;margin:0 0 8px}.first summary{cursor:pointer}.hlist{display:grid;gap:12px;margin-top:8px}.hlist figure{margin:0}.hlist figcaption{font-size:12px;color:#71675e;margin-top:4px}.first img{width:100%;border-radius:14px;margin-top:8px;background:#fff}
@@ -39,6 +40,7 @@ footer{padding:22px;font-size:13px;text-align:center;color:#71675e}:focus-visibl
 <h1>Ameba 博客存档</h1>
 <p class="lead" id="lead"></p>
 <div class="tools" id="years"></div>
+<div class="tools" id="months" hidden></div>
 <div class="count" id="count"></div>
 <div id="list"></div>
 <div id="miss"></div>
@@ -53,20 +55,22 @@ const $=id=>document.getElementById(id);
 const imgs=E.reduce((a,e)=>a+e.blocks.filter(b=>b.img).length,0);
 $('lead').textContent='他2013年12月开的官方博客，写到2020年10月停止更新，原博客已经删掉了。这里收录了 '+E.filter(e=>!e.approx).length+' 篇正文、'+imgs+' 张图；另有 '+E.filter(e=>e.approx).length+' 篇只留下标题，按推算的日期放在时间线里。有些图没能留下来，就只剩文字。';
 const years=[...new Set(E.map(e=>e.date.slice(0,4)))];
-let year='',q='';
+let year='',month='',q='';
 $('years').innerHTML='<button type="button" data-y="" aria-pressed="true">全部</button>'+years.map(y=>`<button type="button" data-y="${y}" aria-pressed="false">${y}</button>`).join('')+'<input type="search" id="q" placeholder="搜正文，比如 稽古、猫">';
 const text=e=>e.blocks.filter(b=>b.t).map(b=>b.t).join('\n');
 const post=e=>{if(e.approx)return `<div class="post stub" id="p${e.id}"><div class="sd"><div class="d">大约 ${esc(e.date.slice(0,4))}年${+e.date.slice(5,7)}月</div><h2>${esc(e.title)}</h2><p class="pv">只留下了标题，正文没有找到。日期是按前后文章推算的。</p></div></div>`;const first=e.blocks.find(b=>b.img);const pv=text(e).replace(/\s+/g,' ').slice(0,90);
 let body='',pics=[];const flushPics=()=>{if(pics.length){body+='<div class="pics">'+pics.map(p=>`<img src="${esc(p)}" alt="" loading="lazy">`).join('')+'</div>';pics=[]}};
 for(const b of e.blocks){if(b.img)pics.push(b.img);else{flushPics();if(b.t)body+='<p>'+esc(b.t)+'</p>';else if(b.lost)body+='<p class="lost">（'+b.lost+' 张图没能留下来）</p>'}}flushPics();
 return `<details class="post" id="p${e.id}"><summary><div><div class="d">${esc(e.date.replace('T',' ').slice(0,16))}</div><h2>${esc(e.title)}</h2><p class="pv">${esc(pv)}</p></div>${first?`<img class="th" src="${esc(first.img)}" alt="" loading="lazy">`:'<span class="th none"></span>'}</summary><div class="body">${body}</div></details>`};
-const render=()=>{const k=q.trim().toLowerCase();const list=E.filter(e=>(!year||e.date.startsWith(year))&&(!k||(e.title+'\n'+text(e)).toLowerCase().includes(k))).slice().reverse();
+const render=()=>{const k=q.trim().toLowerCase();const list=E.filter(e=>(!year||e.date.startsWith(month?year+'-'+month:year))&&(!k||(e.title+'\n'+text(e)).toLowerCase().includes(k))).slice().reverse();
 $('count').textContent=list.length+' 篇';let html='',m='';for(const e of list){const mm=e.date.slice(0,7);if(mm!==m){m=mm;html+=`<div class="month">${mm.slice(0,4)}年${+mm.slice(5)}月</div>`}html+=post(e)}$('list').innerHTML=html||'<p class="lead">没有找到。</p>'};
 const heroImg=document.querySelector('.hero img'),heroDef=heroImg.getAttribute('src');const PCH=(B.headers||[]).filter(h=>h.kind!=='sp');let rot=null,ri=0;const show=src=>{heroImg.style.opacity=0;setTimeout(()=>{heroImg.src=src;heroImg.style.opacity=1},300)};
 const startRot=()=>{clearInterval(rot);if(PCH.length<2)return;rot=setInterval(()=>{ri=(ri+1)%PCH.length;show(PCH[ri].img)},5000)};
 const setHero=y=>{if(!PCH.length)return;clearInterval(rot);if(y){const h=PCH.filter(x=>x.date.slice(0,4)<=y).pop()||PCH[0];show(h.img)}else{ri=PCH.length-1;show(PCH[ri].img);startRot()}};
 heroImg.style.transition='opacity .3s';setTimeout(()=>setHero(''),0);
-$('years').addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;year=b.dataset.y;setHero(year);$('years').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));render()});
+const drawMonths=()=>{const el=$('months');if(!year){el.hidden=true;el.innerHTML='';return}const c={};E.forEach(e=>{if(e.date.startsWith(year))c[e.date.slice(5,7)]=(c[e.date.slice(5,7)]||0)+1});el.hidden=false;el.innerHTML='<button type="button" data-m="" aria-pressed="true">全年</button>'+Object.keys(c).sort().map(m=>`<button type="button" data-m="${m}" aria-pressed="false">${+m}月 <small>${c[m]}</small></button>`).join('')};
+$('months').addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;month=b.dataset.m;$('months').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));render()});
+$('years').addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;year=b.dataset.y;month='';drawMonths();setHero(year);$('years').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));render()});
 $('q').addEventListener('input',ev=>{q=ev.target.value;render()});
 $('list').addEventListener('click',ev=>{const i=ev.target.closest('.pics img');if(!i)return;const z=$('zoom');z.querySelector('img').src=i.src;z.showModal()});
 $('zoom').addEventListener('click',()=>$('zoom').close());
