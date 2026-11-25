@@ -20695,13 +20695,6 @@ window.ARCHIVE = {
      "source": "https://x.com/we_goods_info/status/1886254744555167976",
      "asset": "x81c653dfc241dadb",
      "resolution": ""
-    },
-    {
-     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1hy7p97rbfpj30dw0dwdhz.jpg",
-     "caption": "WE官方生写真 2025年2月 东启介样图",
-     "source": "https://x.com/we_goods_info",
-     "asset": "x31ce8305b6d8ec0a",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -43192,7 +43185,6 @@ window.ARCHIVE = {
   "xfad81f6608f3c46f": "assets/img/ext/fad81f6608f3c46f.jpg",
   "xe56ab49b46f9e038": "assets/img/ext/e56ab49b46f9e038.jpg",
   "x31f21fa5b3f427f7": "assets/img/ext/31f21fa5b3f427f7.jpg",
-  "x31ce8305b6d8ec0a": "assets/img/ext/31ce8305b6d8ec0a.jpg",
   "xb5497cbba8338f2e": "assets/img/ext/b5497cbba8338f2e.jpg",
   "xea0fc7103a49e94f": "assets/img/ext/ea0fc7103a49e94f.jpg",
   "x15a9692b46e40039": "assets/img/ext/15a9692b46e40039.jpg",
