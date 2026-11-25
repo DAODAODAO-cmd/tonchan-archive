@@ -76,7 +76,7 @@ def guess(i):
     return datetime.fromtimestamp(t).strftime('%Y-%m-%d')
 for m in missing:
     if not m['title']: continue
-    entries.append({'id': m['id'], 'date': guess(m['id']), 'approx': True, 'title': m['title'], 'blocks': []})
+    entries.append({'id': m['id'], 'date': m.get('date') or guess(m['id']), 'approx': not m.get('exact'), 'title': m['title'], 'blocks': []})
 entries.sort(key=lambda e: e['date'])
 missing = [m for m in missing if not m['title']]
 headers = []
