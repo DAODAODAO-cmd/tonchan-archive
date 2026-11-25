@@ -19,6 +19,12 @@ window.AMEBLO = {
    "label": "2016年舞台《刀剑乱舞》虚传 燃烧的本能寺（初演）宣传期（烛台切光忠）"
   },
   {
+   "img": "assets/img/blog/header-pc-20161224.jpg",
+   "kind": "pc",
+   "date": "2016-12-24",
+   "label": "2016年舞台《刀剑乱舞》虚传 燃烧的本能寺（再演）宣传期（烛台切光忠，archive.today存档）"
+  },
+  {
    "img": "assets/img/ext/64731b74fe9f9ca1.jpg",
    "kind": "pc",
    "date": "2017-06-01",

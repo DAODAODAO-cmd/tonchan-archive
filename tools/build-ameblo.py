@@ -101,7 +101,7 @@ for f in sorted(glob.glob(os.path.join(IMG, 'header-*'))):
 live = 'assets/img/ext/64731b74fe9f9ca1.jpg'
 if os.path.exists(os.path.join(ROOT, live)): headers.append({'img': live, 'kind': 'pc', 'date': '2017-06-01', 'label': '2016年刀舞之后换的版本'})
 if not any(h['img'].endswith('header-new-20180928.png') for h in headers): headers.append({'img': 'assets/img/blog/header-new-20180928.png', 'kind': 'new', 'date': '2018-09-28'})
-LBL = {'2014-02-16': '2013年开博时的第一版', '2014-06-05': '换照片后的第二版（2014–2015年，archive.today存档）', '2016-04-12': '2016年舞台《刀剑乱舞》虚传 燃烧的本能寺（初演）宣传期（烛台切光忠）', '2018-09-28': '2018年改版后的新页头'}
+LBL = {'2014-02-16': '2013年开博时的第一版', '2014-06-05': '换照片后的第二版（2014–2015年，archive.today存档）', '2016-04-12': '2016年舞台《刀剑乱舞》虚传 燃烧的本能寺（初演）宣传期（烛台切光忠）', '2016-12-24': '2016年舞台《刀剑乱舞》虚传 燃烧的本能寺（再演）宣传期（烛台切光忠，archive.today存档）', '2018-09-28': '2018年改版后的新页头'}
 for h in headers: h.setdefault('label', LBL.get(h['date'], ''))
 headers.sort(key=lambda h: h['date'])
 data = {'headers': headers, 'source': 'https://ameblo.jp/keisuke-higashi-we/', 'note': '东启介Ameba官方博客（2013年12月—2020年10月停止更新），原博客已删除，内容由 Internet Archive 存档整理。', 'entries': entries, 'missing': missing}
