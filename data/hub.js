@@ -2399,6 +2399,13 @@ window.HUB = {
    "src": "Natalie"
   },
   {
+   "date": "2017-10-22",
+   "tag": "采访",
+   "title": "NET ViVi专访：下了舞台就是“吵吵闹闹的小鬼”",
+   "text": "",
+   "url": "http://www.vivi.tv/topics/2017/10/5226/"
+  },
+  {
    "date": "2017-10-04",
    "tag": "舞台",
    "title": "《红花侠》再始动",
@@ -2901,6 +2908,41 @@ window.HUB = {
    "text": "",
    "url": "https://natalie.mu/comic/news/170680",
    "src": "Natalie"
+  },
+  {
+   "date": "2015-04-02",
+   "tag": "影视",
+   "title": "D-BOYS综艺《7Days BOYS》开播",
+   "text": "",
+   "url": "https://thetv.jp/news/detail/57159/"
+  },
+  {
+   "date": "2015-04-01",
+   "tag": "音乐",
+   "title": "妖～AYAKASHI～8月以《憑き夜に踊れ》CD出道",
+   "text": "",
+   "url": "https://natalie.mu/music/news/142838"
+  },
+  {
+   "date": "2015-03-30",
+   "tag": "影视",
+   "title": "阿久津愼太郎制作妖怪偶像组合，《7Days BOYS》制作发表会",
+   "text": "东启介饰“数盘子的妖怪”晒名霊示。",
+   "url": "https://www.oricon.co.jp/news/2050860/full/"
+  },
+  {
+   "date": "2015-03-18",
+   "tag": "音乐",
+   "title": "妖怪×偶像组合妖～AYAKASHI～由蝶々P负责音乐制作",
+   "text": "",
+   "url": "https://natalie.mu/music/news/141253"
+  },
+  {
+   "date": "2013-11-05",
+   "tag": "活动",
+   "title": "D-BOYS试镜10th决赛报道：18岁的东启介入围，自弹自唱《3月9日》",
+   "text": "",
+   "url": "https://www.audition-debut.com/audition/report/detail/D-BOYS10th_audition_final01.html"
   }
  ],
  "pastGoods": [

@@ -3,6 +3,35 @@ window.ARCHIVE = {
  "events": [
   {
    "end": "",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "status": "",
+   "origin": "2026.11.26补充",
+   "images": [
+    {
+     "url": "https://www.audition-debut.com/files/user/08th_d-boys_0288.jpg",
+     "caption": "决赛时的东启介（18岁）",
+     "source": "https://www.audition-debut.com/audition/report/detail/D-BOYS10th_audition_final01.html",
+     "asset": "xe2b607cdfeed0b09",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "playlistLinks": [],
+   "kind": "活动／作品",
+   "id": "aud_dboys10",
+   "date": "2013-11-03",
+   "category": "活动",
+   "title": "《D-BOYS试镜 10th》决赛（入围者）",
+   "japanese": "D-BOYSオーディション10th FINAL",
+   "url": "https://www.audition-debut.com/audition/report/detail/D-BOYS10th_audition_final01.html",
+   "dateKind": "决赛日",
+   "note": "渡边娱乐“D-BOYS试镜 第10届”东京决赛，18岁的东启介作为入围者参加（特邀评审城田优）。报名理由是看了D-BOYS桥本汰斗的舞台、想成为那样的演员；作文讲了玩滑板摔跤的糗事，自我PR弹钢琴唱了Remioromen《3月9日》。被城田问到对音乐的兴趣时说“对音乐剧感兴趣，将来想演《罗密欧与朱丽叶》的罗密欧”，城田回了句“好志气！”。最终大奖是楡木直也；之后他加入渡边娱乐，2013年12月以网球王子音乐剧出道。"
+  },
+  {
+   "end": "",
    "crew": "",
    "key": "",
    "status": "",
@@ -881,6 +910,42 @@ window.ARCHIVE = {
    ],
    "videos": [],
    "kind": "bromide"
+  },
+  {
+   "end": "2015-06",
+   "role": "晒名霊示（妖～AYAKASHI～）",
+   "crew": "",
+   "key": "",
+   "status": "",
+   "origin": "2026.11.26补充",
+   "images": [
+    {
+     "url": "https://contents.oricon.co.jp/upimg/news/20150330/2050860_201503300019544001427708352c.jpg",
+     "caption": "制作发表会：D-BOYS成员与妖～AYAKASHI～（(C)De-View）",
+     "source": "https://www.oricon.co.jp/news/2050860/full/",
+     "asset": "x96aa6866d944627f",
+     "resolution": ""
+    },
+    {
+     "url": "https://thetv.jp/i/nw/57159/315565.jpg",
+     "caption": "妖～AYAKASHI～演出（WEBザテレビジョン）",
+     "source": "https://thetv.jp/news/detail/57159/",
+     "asset": "xfd23b6f20174d02e",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "playlistLinks": [],
+   "kind": "活动／作品",
+   "id": "tv_7daysboys15",
+   "date": "2015-04-02",
+   "category": "电视节目",
+   "title": "D-BOYS综艺《7Days BOYS～ボクタチの超☆育成計画～》（妖～AYAKASHI～篇）",
+   "japanese": "7Days BOYS～ボクタチの超☆育成計画～",
+   "url": "https://www.oricon.co.jp/news/2050860/full/",
+   "dateKind": "首播日",
+   "note": "D-BOYS的俳优培养综艺，分“短剧篇”和“偶像制作篇”。偶像制作篇由阿久津愼太郎（あくP）企划培养妖怪拟人偶像组合妖～AYAKASHI～，东启介饰“数盘子的妖怪”晒名霊示（さらしな れいじ），同组还有安川纯平、中尾畅树、楡木直也、谷井优贵。2015年3月28日举行制作发表会，4月2日起在千叶电视台等首播（tvk 4月7日起），DVD全3卷6–8月发售，主题曲《憑き夜に踊れ》8月12日作为出道单曲发售。"
   },
   {
    "id": "am_ayakashi_bro1",
@@ -4795,6 +4860,63 @@ window.ARCHIVE = {
    "workRoma": "EXTRA INVITATION",
    "roleName": "威尔",
    "cardPoster": "assets/img/ext/b032751b0b44f953.jpg"
+  },
+  {
+   "id": "web_vivi5226",
+   "date": "2017-10-22",
+   "end": "",
+   "category": "采访／连载",
+   "title": "NET ViVi专访：下了舞台就是“吵吵闹闹的小鬼”",
+   "japanese": "2.5次元俳優！東啓介、舞台を降りたら「ただのうるさい小僧」!?",
+   "role": "",
+   "crew": "",
+   "key": "",
+   "url": "http://www.vivi.tv/topics/2017/10/5226/",
+   "note": "讲谈社《ViVi》官网NET ViVi。聊爱用单反拍照（两年前开始，照片都存在CD-R里）、高中因膝伤放弃网球后被朋友推荐进事务所、出道作就是网球王子音乐剧，以及想“多方面活跃”、开始上芭蕾和爵士舞工作坊。原页面已下线。",
+   "status": "",
+   "origin": "2026.11.26补充",
+   "dateKind": "文章发布日期",
+   "images": [
+    {
+     "url": "https://web.archive.org/web/2017im_/http://www.vivi.tv/uploads/images/20171020214919_ir845o3a8uaa3aue2j48lpsml7_main.jpg",
+     "caption": "主图（NET ViVi）",
+     "source": "http://www.vivi.tv/topics/2017/10/5226/",
+     "asset": "x08e63d32bf1cd48e",
+     "resolution": ""
+    },
+    {
+     "url": "https://web.archive.org/web/2017im_/http://www.vivi.tv/uploads/images/20171020215421_ir845o3a8uaa3aue2j48lpsml7_set1.jpg",
+     "caption": "文中照片",
+     "source": "http://www.vivi.tv/topics/2017/10/5226/",
+     "asset": "x13c15ec3bfdba543",
+     "resolution": ""
+    },
+    {
+     "url": "https://web.archive.org/web/2017im_/http://www.vivi.tv/uploads/images/20171020215534_ir845o3a8uaa3aue2j48lpsml7_set2.jpg",
+     "caption": "文中照片",
+     "source": "http://www.vivi.tv/topics/2017/10/5226/",
+     "asset": "x9d015fa7fee22dca",
+     "resolution": ""
+    },
+    {
+     "url": "https://web.archive.org/web/2017im_/http://www.vivi.tv/uploads/images/20171020215601_ir845o3a8uaa3aue2j48lpsml7_5.jpg",
+     "caption": "文中照片",
+     "source": "http://www.vivi.tv/topics/2017/10/5226/",
+     "asset": "x9ac39b51f8c2d75c",
+     "resolution": ""
+    },
+    {
+     "url": "https://web.archive.org/web/2017im_/http://www.vivi.tv/uploads/images/20171020215715_ir845o3a8uaa3aue2j48lpsml7_maru.jpg",
+     "caption": "文中照片",
+     "source": "http://www.vivi.tv/topics/2017/10/5226/",
+     "asset": "xf87c6c103dec31ad",
+     "resolution": ""
+    }
+   ],
+   "videos": [],
+   "pending": false,
+   "kind": "文章",
+   "playlistLinks": []
   },
   {
    "id": "bro_201711",
@@ -42979,7 +43101,15 @@ window.ARCHIVE = {
   "x11b0d0ea5e8ac1f5": "assets/img/ext/11b0d0ea5e8ac1f5.jpg",
   "x2118545ea58f7b37": "assets/img/ext/2118545ea58f7b37.jpg",
   "x6d1b67a26e5b4045": "assets/img/ext/6d1b67a26e5b4045.jpg",
-  "x4b5722c82f811100": "assets/img/ext/4b5722c82f811100.jpg"
+  "x4b5722c82f811100": "assets/img/ext/4b5722c82f811100.jpg",
+  "x08e63d32bf1cd48e": "assets/img/ext/08e63d32bf1cd48e.jpg",
+  "x13c15ec3bfdba543": "assets/img/ext/13c15ec3bfdba543.jpg",
+  "x9d015fa7fee22dca": "assets/img/ext/9d015fa7fee22dca.jpg",
+  "x9ac39b51f8c2d75c": "assets/img/ext/9ac39b51f8c2d75c.jpg",
+  "xf87c6c103dec31ad": "assets/img/ext/f87c6c103dec31ad.jpg",
+  "xe2b607cdfeed0b09": "assets/img/ext/e2b607cdfeed0b09.jpg",
+  "x96aa6866d944627f": "assets/img/ext/96aa6866d944627f.jpg",
+  "xfd23b6f20174d02e": "assets/img/ext/fd23b6f20174d02e.jpg"
  },
  "biliLeads": [
   {
