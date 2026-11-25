@@ -16796,6 +16796,13 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/profile/86678/news",
      "asset": "x74c76c031aa6a5fd",
      "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1hhtgnx8f0oj30xc0m8k2h.jpg",
+     "caption": "MBS官方剧照：里中树（左）",
+     "source": "https://www.mbs.jp/joshikousei-souninaru/",
+     "asset": "x0eb177fc04894906",
+     "resolution": ""
     }
    ],
    "videos": [],
@@ -20204,6 +20211,34 @@ window.ARCHIVE = {
      "source": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
      "asset": "5447a3d44f3782bb",
      "resolution": "3000 × 843"
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1huqkuf6c0jj30xc0hijvq.jpg",
+     "caption": "官方剧照：三人",
+     "source": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
+     "asset": "xb5497cbba8338f2e",
+     "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1huqkufc3fsj311y1kwdxf.jpg",
+     "caption": "主视觉（竖版）",
+     "source": "https://www.tv-tokyo.co.jp/information/202411/4768.html",
+     "asset": "xea0fc7103a49e94f",
+     "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1huql3px4kyj30pk0pkmyq.jpg",
+     "caption": "BUMP官方周边样图：亚克力立牌",
+     "source": "https://x.com/bump_drama",
+     "asset": "x15a9692b46e40039",
+     "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1huql3pxzcfj30pk0pk40u.jpg",
+     "caption": "BUMP官方周边样图：生写真",
+     "source": "https://x.com/bump_drama",
+     "asset": "xf1e30ca204122aac",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -20659,6 +20694,13 @@ window.ARCHIVE = {
      "caption": "WE官方生写真 2025年2月 阵容宣传图",
      "source": "https://x.com/we_goods_info/status/1886254744555167976",
      "asset": "x81c653dfc241dadb",
+     "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1hy7p97rbfpj30dw0dwdhz.jpg",
+     "caption": "WE官方生写真 2025年2月 东启介样图",
+     "source": "https://x.com/we_goods_info",
+     "asset": "x31ce8305b6d8ec0a",
      "resolution": ""
     }
    ],
@@ -21529,6 +21571,20 @@ window.ARCHIVE = {
      "caption": "SP主视觉",
      "source": "東海テレビ（PR TIMES）",
      "asset": "xd10893d7a78a9ba6"
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1i2n9wl1xpyj32aw32iqv8.jpg",
+     "caption": "SP官方幕后照",
+     "source": "https://www.tokai-tv.com/oppan/",
+     "asset": "xfad81f6608f3c46f",
+     "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1i2n9wmpji7j328o2zkx6s.jpg",
+     "caption": "SP官方幕后照",
+     "source": "https://www.tokai-tv.com/oppan/",
+     "asset": "xe56ab49b46f9e038",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -21626,6 +21682,13 @@ window.ARCHIVE = {
      "caption": "WOWOW 播出宣传图",
      "source": "https://x.com/",
      "asset": "x2aea8dcfb6645ee5",
+     "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2gy1i2jkq7yivfj31jk112x6p.jpg",
+     "caption": "电影场面照：五十岚大地与砂川圆",
+     "source": "https://gaga.ne.jp/oppan-movie/",
+     "asset": "x31f21fa5b3f427f7",
      "resolution": ""
     }
    ],
@@ -23352,6 +23415,20 @@ window.ARCHIVE = {
      "source": "https://natalie.mu/stage/news/681069",
      "asset": "x4ba7deb41fb63b44",
      "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2ly1igtoz53hgrj31d917rnpd.jpg",
+     "caption": "朝日电视台吉祥物ゴーちゃん。与《麦斯》卡司合照（右二为东启介）",
+     "source": "https://x.com/gochan_V",
+     "asset": "x867c8fb68963f77d",
+     "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/87042ff4gy1if5qvheqonj21281lcjyd.jpg",
+     "caption": "角色照：岭高华武利与假面骑士Maou",
+     "source": "https://www.tv-asahi.co.jp/my-th/",
+     "asset": "x0c150d93dbbdd92f",
+     "resolution": ""
     }
    ],
    "videos": [
@@ -24134,6 +24211,13 @@ window.ARCHIVE = {
      "caption": "官方宣传视频缩略图",
      "source": "https://i.ytimg.com/vi/9VPedwZW6vg/hqdefault.jpg",
      "asset": "x201d0fcce1b23343",
+     "resolution": ""
+    },
+    {
+     "url": "https://wx1.sinaimg.cn/large/006Xywk2ly1iiw7fiz6jlj30mn1047oq.jpg",
+     "caption": "Versus Road 5弹 平行卡：假面骑士Maou",
+     "source": "https://www.youtube.com/watch?v=9VPedwZW6vg",
+     "asset": "x04288bbb812d2606",
      "resolution": ""
     }
    ],
@@ -43102,7 +43186,19 @@ window.ARCHIVE = {
   "xf87c6c103dec31ad": "assets/img/ext/f87c6c103dec31ad.jpg",
   "xe2b607cdfeed0b09": "assets/img/ext/e2b607cdfeed0b09.jpg",
   "x96aa6866d944627f": "assets/img/ext/96aa6866d944627f.jpg",
-  "xfd23b6f20174d02e": "assets/img/ext/fd23b6f20174d02e.jpg"
+  "xfd23b6f20174d02e": "assets/img/ext/fd23b6f20174d02e.jpg",
+  "x867c8fb68963f77d": "assets/img/ext/867c8fb68963f77d.jpg",
+  "x0c150d93dbbdd92f": "assets/img/ext/0c150d93dbbdd92f.jpg",
+  "xfad81f6608f3c46f": "assets/img/ext/fad81f6608f3c46f.jpg",
+  "xe56ab49b46f9e038": "assets/img/ext/e56ab49b46f9e038.jpg",
+  "x31f21fa5b3f427f7": "assets/img/ext/31f21fa5b3f427f7.jpg",
+  "x31ce8305b6d8ec0a": "assets/img/ext/31ce8305b6d8ec0a.jpg",
+  "xb5497cbba8338f2e": "assets/img/ext/b5497cbba8338f2e.jpg",
+  "xea0fc7103a49e94f": "assets/img/ext/ea0fc7103a49e94f.jpg",
+  "x15a9692b46e40039": "assets/img/ext/15a9692b46e40039.jpg",
+  "xf1e30ca204122aac": "assets/img/ext/f1e30ca204122aac.jpg",
+  "x0eb177fc04894906": "assets/img/ext/0eb177fc04894906.jpg",
+  "x04288bbb812d2606": "assets/img/ext/04288bbb812d2606.jpg"
  },
  "biliLeads": [
   {
