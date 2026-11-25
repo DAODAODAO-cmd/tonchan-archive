@@ -23383,6 +23383,10 @@ window.ARCHIVE = {
     {
      "title": "第8话宣传视频，与长谷川霞（官方X，B站搬运）",
      "url": "https://www.bilibili.com/video/BV1xBHw6rEyn/"
+    },
+    {
+     "title": "第11集片段1（B站中字）【中日字幕11-1】假面骑士麦斯 第11集《龙神降临 白虎咆哮》",
+     "url": "https://www.bilibili.com/video/BV1hdyBzsE93/"
     }
    ],
    "pending": false,
@@ -24099,8 +24103,8 @@ window.ARCHIVE = {
    "role": "",
    "crew": "",
    "key": "",
-   "url": "https://www.eisei-gekijo.co.jp/",
-   "note": "卫星剧场分两次播出：DAY1 2026年11月29日，DAY2 12月27日。",
+   "url": "https://www.atpress.ne.jp/news/5490903",
+   "note": "卫星剧场分两次播出：DAY1 2026年11月29日（周日）13:00起，DAY2 12月27日（周日）23:30起。他两天都有出演。",
    "status": "用户整理行程；以官方公告为准",
    "origin": "2026.11.17 用户补充",
    "dateKind": "日程",

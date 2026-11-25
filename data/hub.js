@@ -10,7 +10,7 @@
   图片：只用官方公开的剧照／海报／宣传图，写明出处。FC会员内容与图片一律不放。
 */
 window.HUB = {
- "updated": "2026-11-23",
+ "updated": "2026-11-25",
  "profile": {
   "name": "东启介",
   "nameJa": "東 啓介",
@@ -242,6 +242,13 @@ window.HUB = {
   }
  ],
  "news": [
+  {
+   "date": "2026-11-25",
+   "tag": "舞台",
+   "title": "刀舞FC站更新了东启介（烛台切光忠役）的演员博客",
+   "text": "《陽伝》期间的キャストブログ，会员内容。",
+   "url": "https://fc.stage-toukenranbu.jp/news/?id=1078"
+  },
   {
    "date": "2026-11-22",
    "tag": "SNS",
