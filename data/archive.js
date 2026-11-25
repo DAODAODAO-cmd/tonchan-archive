@@ -925,13 +925,6 @@ window.ARCHIVE = {
      "source": "https://www.oricon.co.jp/news/2050860/full/",
      "asset": "x96aa6866d944627f",
      "resolution": ""
-    },
-    {
-     "url": "https://thetv.jp/i/nw/57159/315565.jpg",
-     "caption": "妖～AYAKASHI～演出（WEBザテレビジョン）",
-     "source": "https://thetv.jp/news/detail/57159/",
-     "asset": "xfd23b6f20174d02e",
-     "resolution": ""
     }
    ],
    "videos": [],
