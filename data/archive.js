@@ -4897,13 +4897,6 @@ window.ARCHIVE = {
      "source": "http://www.vivi.tv/topics/2017/10/5226/",
      "asset": "x9ac39b51f8c2d75c",
      "resolution": ""
-    },
-    {
-     "url": "https://web.archive.org/web/2017im_/http://www.vivi.tv/uploads/images/20171020215715_ir845o3a8uaa3aue2j48lpsml7_maru.jpg",
-     "caption": "文中照片",
-     "source": "http://www.vivi.tv/topics/2017/10/5226/",
-     "asset": "xf87c6c103dec31ad",
-     "resolution": ""
     }
    ],
    "videos": [],
@@ -42852,7 +42845,6 @@ window.ARCHIVE = {
   "xcb5fbbc34f0528cb": "assets/img/ext/cb5fbbc34f0528cb.jpg",
   "x23f5faea2b1e4fce": "assets/img/ext/23f5faea2b1e4fce.jpg",
   "x42bf9252bb0eaf65": "assets/img/ext/42bf9252bb0eaf65.jpg",
-  "x538683246fba7092": "assets/img/ext/538683246fba7092.webp",
   "xc59ac63940f236e1": "assets/img/ext/c59ac63940f236e1.webp",
   "x8f6c8efec75647fc": "assets/img/ext/8f6c8efec75647fc.webp",
   "xe73f326e56a84acc": "assets/img/ext/e73f326e56a84acc.webp",
@@ -43136,7 +43128,6 @@ window.ARCHIVE = {
   "xca0ef52400958b12": "assets/img/ext/ca0ef52400958b12.jpg",
   "xb43537bd3616cc30": "assets/img/ext/b43537bd3616cc30.jpg",
   "xc9a0c1de3341f40a": "assets/img/ext/c9a0c1de3341f40a.jpg",
-  "x42590e685b7fd4b7": "assets/img/ext/42590e685b7fd4b7.jpg",
   "xf8b642760b73f063": "assets/img/ext/f8b642760b73f063.jpg",
   "xf78bfedf92e2f0f9": "assets/img/ext/f78bfedf92e2f0f9.jpg",
   "x78f7d92f21ea4c1e": "assets/img/ext/78f7d92f21ea4c1e.jpg",
@@ -43176,10 +43167,8 @@ window.ARCHIVE = {
   "x13c15ec3bfdba543": "assets/img/ext/13c15ec3bfdba543.jpg",
   "x9d015fa7fee22dca": "assets/img/ext/9d015fa7fee22dca.jpg",
   "x9ac39b51f8c2d75c": "assets/img/ext/9ac39b51f8c2d75c.jpg",
-  "xf87c6c103dec31ad": "assets/img/ext/f87c6c103dec31ad.jpg",
   "xe2b607cdfeed0b09": "assets/img/ext/e2b607cdfeed0b09.jpg",
   "x96aa6866d944627f": "assets/img/ext/96aa6866d944627f.jpg",
-  "xfd23b6f20174d02e": "assets/img/ext/fd23b6f20174d02e.jpg",
   "x867c8fb68963f77d": "assets/img/ext/867c8fb68963f77d.jpg",
   "x0c150d93dbbdd92f": "assets/img/ext/0c150d93dbbdd92f.jpg",
   "xfad81f6608f3c46f": "assets/img/ext/fad81f6608f3c46f.jpg",
