@@ -54,6 +54,7 @@ foreach ($ym in $months) {
   }
 }
 Write-Host '抓分页 page-1..60...'
+$miss = 0
 for ($p = 1; $p -le 60; $p++) {
   Write-Host ("  page-{0}" -f $p)
   $dest = Join-Path $pageDir ("page-{0}.html" -f $p)
@@ -61,6 +62,8 @@ for ($p = 1; $p -le 60; $p++) {
   foreach ($h in @('http://ameblo.jp', 'https://ameblo.jp')) {
     if ((Save-Url ("https://web.archive.org/web/2020id_/{0}/keisuke-higashi-we/page-{1}.html" -f $h, $p) $dest) -and (Good $dest)) { break }
   }
+  if (Test-Path $dest) { $miss = 0 } else { $miss++ }
+  if ($miss -ge 3) { break }
 }
 
 Write-Host '抓历次首页快照...'
