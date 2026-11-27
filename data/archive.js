@@ -13032,12 +13032,28 @@ window.ARCHIVE = {
    "status": "发布方原文已定位",
    "origin": "2026.11.27补充",
    "dateKind": "刊登日",
-   "images": [],
+   "images": [
+    {
+     "url": "assets/img/ext/more73965-1.jpg",
+     "caption": "MORE专访写真（摄影：齐藤晴香）",
+     "source": "https://more.hpplus.jp/odekake/entame/73965",
+     "asset": "xmore739651",
+     "resolution": ""
+    },
+    {
+     "url": "assets/img/ext/more73965-2.jpg",
+     "caption": "MORE专访写真（摄影：齐藤晴香）",
+     "source": "https://more.hpplus.jp/odekake/entame/73965",
+     "asset": "xmore739652",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
-   "role": ""
+   "role": "",
+   "cardPhoto": "assets/img/ext/more73965-1.jpg"
   },
   {
    "id": "web_more73967",
@@ -13053,12 +13069,28 @@ window.ARCHIVE = {
    "status": "发布方原文已定位",
    "origin": "2026.11.27补充",
    "dateKind": "刊登日",
-   "images": [],
+   "images": [
+    {
+     "url": "assets/img/ext/more73967-1.jpg",
+     "caption": "MORE专访写真（摄影：齐藤晴香）",
+     "source": "https://more.hpplus.jp/odekake/entame/73967",
+     "asset": "xmore739671",
+     "resolution": ""
+    },
+    {
+     "url": "assets/img/ext/more73967-2.jpg",
+     "caption": "MORE专访写真（摄影：齐藤晴香）",
+     "source": "https://more.hpplus.jp/odekake/entame/73967",
+     "asset": "xmore739672",
+     "resolution": ""
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
-   "role": ""
+   "role": "",
+   "cardPhoto": "assets/img/ext/more73967-1.jpg"
   },
   {
    "id": "mag_fs2213666",
@@ -13295,13 +13327,13 @@ window.ARCHIVE = {
    "date": "2022-03-27",
    "end": "",
    "category": "音乐会",
-   "title": "Musical Stars Symphonic Pops Concert",
+   "title": "《Sound Inn S meets billboard classics 音乐剧之星 交响流行音乐会》",
    "japanese": "Sound Inn S meets billboard classics ミュージカルスターズ シンフォニーポップス コンサート",
    "role": "",
    "crew": "",
    "key": "",
    "url": "https://natalie.mu/stage/news/467783",
-   "note": "",
+   "note": "BS-TBS音乐节目《Sound Inn S》与billboard classics合作的音乐会，2022年3月27日举行。演唱：小池彻平、佐藤隆纪（LE VELVETS）、爱希丽香、樱井玲香、东启介；演奏：东京爱乐乐团与“Sound Inn S” Special Band；音乐总监・指挥：斋藤猫（斎藤ネコ）。\n\n电视播出：BS-TBS《Sound Inn S》分3次播出，2022年4月16日、5月21日、6月18日（均为周六）。\n·4月：与佐藤隆纪合唱「二人の男」\n·5月：独唱「Waving Through a Window」（《致埃文·汉森》）\n·6月：独唱「僕こそ音楽」（《莫扎特！》），全员合唱「民衆の歌」「One Day More」（《悲惨世界》）\n\n本人评论：能参加这场交响流行音乐会，打心底觉得开心；能和这么多乐团成员一起唱音乐剧歌曲，是很幸福的时光；希望大家也能享受各种乐器的音色，更加喜欢音乐剧。\n节目每集介绍：https://bs.tbs.co.jp/music/sis/episode/",
    "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
@@ -13317,7 +13349,111 @@ window.ARCHIVE = {
    "videos": [],
    "pending": false,
    "kind": "活动／作品",
-   "playlistLinks": []
+   "playlistLinks": [],
+   "setlist": [
+    [
+     "4月16日播出",
+     "",
+     ""
+    ],
+    [
+     "タラのテーマ",
+     "",
+     "乐团演奏"
+    ],
+    [
+     "時が来た",
+     "",
+     "佐藤隆紀"
+    ],
+    [
+     "揺るがぬ真実",
+     "",
+     "小池徹平"
+    ],
+    [
+     "Journey to The Past",
+     "",
+     "愛希れいか、桜井玲香"
+    ],
+    [
+     "二人の男",
+     "",
+     "佐藤隆紀、東啓介"
+    ],
+    [
+     "5月21日播出",
+     "",
+     ""
+    ],
+    [
+     "命をあげよう",
+     "ミス・サイゴン",
+     "桜井玲香"
+    ],
+    [
+     "神よ、何故？",
+     "ミス・サイゴン",
+     "佐藤隆紀"
+    ],
+    [
+     "Waving Through a Window",
+     "Dear Evan Hansen",
+     "東啓介"
+    ],
+    [
+     "私だけに",
+     "エリザベート",
+     "愛希れいか"
+    ],
+    [
+     "The Soul of A Man",
+     "キンキーブーツ",
+     "小池徹平"
+    ],
+    [
+     "シェルブールの雨傘",
+     "",
+     "未注明"
+    ],
+    [
+     "6月18日播出",
+     "",
+     ""
+    ],
+    [
+     "僕こそ音楽",
+     "モーツァルト!",
+     "東啓介"
+    ],
+    [
+     "With You",
+     "ゴースト",
+     "桜井玲香"
+    ],
+    [
+     "On My Own",
+     "レ・ミゼラブル",
+     "愛希れいか"
+    ],
+    [
+     "宇宙は見えるところまでしかない",
+     "キレイ-神様と待ち合わせした女-",
+     "小池徹平"
+    ],
+    [
+     "民衆の歌",
+     "レ・ミゼラブル",
+     "全員"
+    ],
+    [
+     "One Day More",
+     "レ・ミゼラブル",
+     "全員"
+    ]
+   ],
+   "setlistNote": "按BS-TBS节目公布的3次播出曲目整理，可能不是音乐会的完整曲目和演出顺序。",
+   "setlistSource": "https://bs.tbs.co.jp/music/sis/episode/"
   },
   {
    "id": "bro_202204",
@@ -43260,7 +43396,11 @@ window.ARCHIVE = {
   "x0eb177fc04894906": "assets/img/ext/0eb177fc04894906.jpg",
   "x04288bbb812d2606": "assets/img/ext/04288bbb812d2606.jpg",
   "xmore739661": "assets/img/ext/more73966-1.jpg",
-  "xmore739662": "assets/img/ext/more73966-2.jpg"
+  "xmore739662": "assets/img/ext/more73966-2.jpg",
+  "xmore739651": "assets/img/ext/more73965-1.jpg",
+  "xmore739652": "assets/img/ext/more73965-2.jpg",
+  "xmore739671": "assets/img/ext/more73967-1.jpg",
+  "xmore739672": "assets/img/ext/more73967-2.jpg"
  },
  "biliLeads": [
   {

@@ -1652,6 +1652,13 @@ window.HUB = {
    "src": "Natalie"
   },
   {
+   "date": "2022-06-18",
+   "tag": "电视",
+   "title": "BS-TBS《Sound Inn S》播出音乐剧之星交响流行音乐会：第3回，他独唱「僕こそ音楽」",
+   "text": "",
+   "url": "https://natalie.mu/stage/news/467783"
+  },
+  {
    "date": "2022-06-10",
    "tag": "舞台",
    "title": "《泽西男孩》鲍勃·克鲁役法月康平因病停演",
@@ -1660,12 +1667,26 @@ window.HUB = {
    "src": "Natalie"
   },
   {
+   "date": "2022-05-21",
+   "tag": "电视",
+   "title": "BS-TBS《Sound Inn S》播出音乐剧之星交响流行音乐会：第2回，他独唱「Waving Through a Window」",
+   "text": "",
+   "url": "https://natalie.mu/stage/news/467783"
+  },
+  {
    "date": "2022-04-28",
    "tag": "舞台",
    "title": "《泽西男孩》2022全卡司及BLACK＆GREEN两组视觉解禁",
    "text": "",
    "url": "https://natalie.mu/stage/news/475880",
    "src": "Natalie"
+  },
+  {
+   "date": "2022-04-16",
+   "tag": "电视",
+   "title": "BS-TBS《Sound Inn S》播出音乐剧之星交响流行音乐会：第1回，他与佐藤隆纪合唱「二人の男」",
+   "text": "",
+   "url": "https://natalie.mu/stage/news/467783"
   },
   {
    "date": "2022-02-01",
