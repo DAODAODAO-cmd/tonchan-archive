@@ -13001,14 +13001,14 @@ window.ARCHIVE = {
      "caption": "MORE专访写真（摄影：齐藤晴香）",
      "source": "https://more.hpplus.jp/odekake/entame/73966",
      "asset": "xmore739661",
-     "resolution": "549 × 823"
+     "resolution": "1000 × 1500"
     },
     {
      "url": "assets/img/ext/more73966-2.jpg",
      "caption": "MORE专访写真（摄影：齐藤晴香）",
      "source": "https://more.hpplus.jp/odekake/entame/73966",
      "asset": "xmore739662",
-     "resolution": "549 × 823"
+     "resolution": "1000 × 1500"
     }
    ],
    "videos": [],
@@ -13038,14 +13038,14 @@ window.ARCHIVE = {
      "caption": "MORE专访写真（摄影：齐藤晴香）",
      "source": "https://more.hpplus.jp/odekake/entame/73965",
      "asset": "xmore739651",
-     "resolution": ""
+     "resolution": "1000 × 1500"
     },
     {
      "url": "assets/img/ext/more73965-2.jpg",
      "caption": "MORE专访写真（摄影：齐藤晴香）",
      "source": "https://more.hpplus.jp/odekake/entame/73965",
      "asset": "xmore739652",
-     "resolution": ""
+     "resolution": "1000 × 1500"
     }
    ],
    "videos": [],
@@ -13075,14 +13075,14 @@ window.ARCHIVE = {
      "caption": "MORE专访写真（摄影：齐藤晴香）",
      "source": "https://more.hpplus.jp/odekake/entame/73967",
      "asset": "xmore739671",
-     "resolution": ""
+     "resolution": "1000 × 1500"
     },
     {
      "url": "assets/img/ext/more73967-2.jpg",
      "caption": "MORE专访写真（摄影：齐藤晴香）",
      "source": "https://more.hpplus.jp/odekake/entame/73967",
      "asset": "xmore739672",
-     "resolution": ""
+     "resolution": "1000 × 1500"
     }
    ],
    "videos": [],
