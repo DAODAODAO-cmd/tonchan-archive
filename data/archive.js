@@ -12995,12 +12995,28 @@ window.ARCHIVE = {
    "status": "发布方原文已定位",
    "origin": "2026.11.27补充",
    "dateKind": "刊登日",
-   "images": [],
+   "images": [
+    {
+     "url": "assets/img/ext/more73966-1.jpg",
+     "caption": "MORE专访写真（摄影：齐藤晴香）",
+     "source": "https://more.hpplus.jp/odekake/entame/73966",
+     "asset": "xmore739661",
+     "resolution": "549 × 823"
+    },
+    {
+     "url": "assets/img/ext/more73966-2.jpg",
+     "caption": "MORE专访写真（摄影：齐藤晴香）",
+     "source": "https://more.hpplus.jp/odekake/entame/73966",
+     "asset": "xmore739662",
+     "resolution": "549 × 823"
+    }
+   ],
    "videos": [],
    "pending": false,
    "kind": "文章",
    "playlistLinks": [],
-   "role": ""
+   "role": "",
+   "cardPhoto": "assets/img/ext/more73966-1.jpg"
   },
   {
    "id": "mag_fs2213666",
@@ -43200,7 +43216,9 @@ window.ARCHIVE = {
   "x15a9692b46e40039": "assets/img/ext/15a9692b46e40039.jpg",
   "xf1e30ca204122aac": "assets/img/ext/f1e30ca204122aac.jpg",
   "x0eb177fc04894906": "assets/img/ext/0eb177fc04894906.jpg",
-  "x04288bbb812d2606": "assets/img/ext/04288bbb812d2606.jpg"
+  "x04288bbb812d2606": "assets/img/ext/04288bbb812d2606.jpg",
+  "xmore739661": "assets/img/ext/more73966-1.jpg",
+  "xmore739662": "assets/img/ext/more73966-2.jpg"
  },
  "biliLeads": [
   {
