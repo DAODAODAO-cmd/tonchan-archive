@@ -1668,6 +1668,13 @@ window.HUB = {
    "src": "Natalie"
   },
   {
+   "date": "2022-02-01",
+   "tag": "采访",
+   "title": "MORE专访：尊敬三浦春马，想成为影视与音乐剧之间的桥梁",
+   "text": "",
+   "url": "https://more.hpplus.jp/odekake/entame/73966"
+  },
+  {
    "date": "2022-01-05",
    "tag": "影视",
    "title": "Perfume为《Fight Song》唱主题曲",
