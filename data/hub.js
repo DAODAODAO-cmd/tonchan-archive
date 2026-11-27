@@ -1670,9 +1670,23 @@ window.HUB = {
   {
    "date": "2022-02-01",
    "tag": "采访",
-   "title": "MORE专访：尊敬三浦春马，想成为影视与音乐剧之间的桥梁",
+   "title": "MORE专访（2/3）：尊敬三浦春马，想成为影视与音乐剧之间的桥梁",
    "text": "",
    "url": "https://more.hpplus.jp/odekake/entame/73966"
+  },
+  {
+   "date": "2022-02-01",
+   "tag": "采访",
+   "title": "MORE专访（1/3）：演《Fight Song》鼓手烏丸薫，朋友一句话让他走上演员之路",
+   "text": "",
+   "url": "https://more.hpplus.jp/odekake/entame/73965"
+  },
+  {
+   "date": "2022-02-01",
+   "tag": "采访",
+   "title": "MORE专访（3/3）：给妈妈弹唱《日々》，书法、水墨画等多才多艺的私生活",
+   "text": "",
+   "url": "https://more.hpplus.jp/odekake/entame/73967"
   },
   {
    "date": "2022-01-05",
