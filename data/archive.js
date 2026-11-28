@@ -13333,7 +13333,7 @@ window.ARCHIVE = {
    "crew": "",
    "key": "",
    "url": "https://natalie.mu/stage/news/467783",
-   "note": "BS-TBS音乐节目《Sound Inn S》与billboard classics合作的音乐会，2022年3月27日举行。演唱：小池彻平、佐藤隆纪（LE VELVETS）、爱希丽香、樱井玲香、东启介；演奏：东京爱乐乐团与“Sound Inn S” Special Band；音乐总监・指挥：斋藤猫（斎藤ネコ）。\n\n电视播出：BS-TBS《Sound Inn S》分3次播出，2022年4月16日、5月21日、6月18日（均为周六）。\n·4月：与佐藤隆纪合唱「二人の男」\n·5月：独唱「Waving Through a Window」（《致埃文·汉森》）\n·6月：独唱「僕こそ音楽」（《莫扎特！》），全员合唱「民衆の歌」「One Day More」（《悲惨世界》）\n\n本人评论：能参加这场交响流行音乐会，打心底觉得开心；能和这么多乐团成员一起唱音乐剧歌曲，是很幸福的时光；希望大家也能享受各种乐器的音色，更加喜欢音乐剧。\n节目每集介绍：https://bs.tbs.co.jp/music/sis/episode/",
+   "note": "BS-TBS音乐节目《Sound Inn S》与billboard classics合作的音乐会，2022年3月27日在东京中野SUNPLAZA HALL举行。演唱：小池彻平、佐藤隆纪（LE VELVETS）、爱希丽香、樱井玲香、东启介；演奏：东京爱乐乐团与“Sound Inn S” Special Band；音乐总监・指挥：斋藤猫（斎藤ネコ）。\n\n电视播出：BS-TBS《Sound Inn S》分3次播出，2022年4月16日、5月21日、6月18日（均为周六）。\n·4月：与佐藤隆纪合唱「二人の男」\n·5月：独唱「Waving Through a Window」（《致埃文·汉森》）\n·6月：独唱「僕こそ音楽」（《莫扎特！》），全员合唱「民衆の歌」「One Day More」（《悲惨世界》）\n\n本人评论：能参加这场交响流行音乐会，打心底觉得开心；能和这么多乐团成员一起唱音乐剧歌曲，是很幸福的时光；希望大家也能享受各种乐器的音色，更加喜欢音乐剧。\n节目每集介绍：https://bs.tbs.co.jp/music/sis/episode/",
    "status": "",
    "origin": "补充检索",
    "dateKind": "活动日",
