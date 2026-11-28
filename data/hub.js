@@ -10,7 +10,7 @@
   图片：只用官方公开的剧照／海报／宣传图，写明出处。FC会员内容与图片一律不放。
 */
 window.HUB = {
- "updated": "2026-11-26",
+ "updated": "2026-11-28",
  "profile": {
   "name": "东启介",
   "nameJa": "東 啓介",
@@ -242,6 +242,13 @@ window.HUB = {
   }
  ],
  "news": [
+  {
+   "date": "2026-11-27",
+   "tag": "SNS",
+   "title": "本人Instagram：写真集拍摄现场，在摄影棚里走来走去",
+   "text": "配文“身高190cm！东启介在摄影棚里来回走动的话……？”，又一段《ECHOES》的幕后短片。",
+   "url": "https://www.instagram.com/keisuke_higashi_official/reel/DgPwFctSTFv/"
+  },
   {
    "date": "2026-11-26",
    "tag": "SNS",

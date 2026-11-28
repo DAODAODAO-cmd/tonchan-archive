@@ -23770,10 +23770,6 @@ window.ARCHIVE = {
      "url": "https://www.bilibili.com/video/BV1TPt16LEZa/"
     },
     {
-     "title": "【中日字幕】TTFC演员专访2：红猫等五人（B站）",
-     "url": "https://www.bilibili.com/video/BV1dMWM6GEEF/"
-    },
-    {
      "title": "第8话宣传视频，与长谷川霞（官方X，B站搬运）",
      "url": "https://www.bilibili.com/video/BV1xBHw6rEyn/"
     },
@@ -23841,7 +23837,7 @@ window.ARCHIVE = {
     },
     {
      "title": "第11话《老奶奶与リド②》B站中字｜【中日字幕11-EX】麦斯十二支十色 第11集 老奶奶和狸断2",
-     "url": "https://www.bilibili.com/video/BV1f4yuzDE8v/"
+     "url": "https://www.bilibili.com/video/BV1wF1NzmEaY/"
     },
     {
      "title": "第11话《老奶奶与リド②》B站中字（FSD字幕组）｜【FSD】十二支十色[11][老奶奶和狸断②]",
@@ -23904,20 +23900,12 @@ window.ARCHIVE = {
      "url": "https://www.nicovideo.jp/watch/sm46625219"
     },
     {
-     "title": "【中日字幕】第1集 十二生肖的故事（B站）",
-     "url": "https://www.bilibili.com/video/BV1BEsF64EuD/"
+     "title": "第1话《十二支的故事》B站中字｜【中日字幕01-EX】麦斯衍生剧 十二支十色 第1集 十二生肖的故事",
+     "url": "https://www.bilibili.com/video/BV1cw1NzjEmX/"
     },
     {
-     "title": "【中日字幕】第7集 完美男神测验 岭高华武利篇（B站）",
-     "url": "https://www.bilibili.com/video/BV1FFWM6UEWK/"
-    },
-    {
-     "title": "十二支小剧场1–2（个人汉化，B站）",
-     "url": "https://www.bilibili.com/video/BV1tAs46pEif/"
-    },
-    {
-     "title": "十二支小剧场4 黑猫红猫（个人汉化，B站）",
-     "url": "https://www.bilibili.com/video/BV1jFxE6jE7m/"
+     "title": "第7话《完美男友检定～岭高华武利篇～》B站中字｜【中日字幕07-EX】麦斯十二支十色 第7集 完美男神测验 岭高华武利篇",
+     "url": "https://www.bilibili.com/video/BV1cw1NzjEqg/"
     },
     {
      "title": "十二支小剧场5–8（个人汉化，B站）",
@@ -23926,6 +23914,14 @@ window.ARCHIVE = {
     {
      "title": "十二支小剧场11 黑猫大战红猫（个人汉化，B站）",
      "url": "https://www.bilibili.com/video/BV1hsyGzSE2B/"
+    },
+    {
+     "title": "第2话《十二支时尚检查①》B站中字｜【中日字幕02-EX】麦斯衍生剧 十二支十色 第2集 十二支时尚检查1",
+     "url": "https://www.bilibili.com/video/BV13L1WzJEba/"
+    },
+    {
+     "title": "第8话《十二支时尚检查②》B站中字｜【中日字幕08-EX】麦斯十二支十色 第8集 十二支时尚检查2",
+     "url": "https://www.bilibili.com/video/BV1Hw1NzjELE/"
     }
    ],
    "pending": false,
@@ -24691,6 +24687,14 @@ window.ARCHIVE = {
     {
      "title": "B站中字：写真集《ECHOES》封面拍摄花絮（搬运本人11/20公开的花絮短片，原标题「【中日字幕】1米9大猫 东启介(岭高华武利)新写真集《ECHOES》花絮」）",
      "url": "https://www.bilibili.com/video/BV15WyxzZEfR/"
+    },
+    {
+     "title": "本人Instagram：在摄影棚里来回走动的写真集花絮（11/27，配文“身長190cm！”）",
+     "url": "https://www.instagram.com/keisuke_higashi_official/reel/DgPwFctSTFv/"
+    },
+    {
+     "title": "B站中字：写真集摄影棚花絮（搬运本人11/27的Instagram短片，原标题「【中日字幕】1米9的大猫 东启介(岭高华武利)在摄影棚的日常 新写真集花絮」）",
+     "url": "https://www.bilibili.com/video/BV17t1PzzEq7/"
     }
    ],
    "pending": false,
